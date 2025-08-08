@@ -1,10 +1,10 @@
-# Films with English Subtitles - Cinemateket Stockholm
+# Films with English Subtitles
 
-This project scrapes the Swedish Film Institute's Cinemateket Stockholm website to find films with English subtitles.
+This project scrapes Stockholm cinemas websites to find films with English subtitles.
 
 ## Features
 
-- 🎬 Finds films with English subtitles from Cinemateket Stockholm
+- 🎬 Finds films with English subtitles from Cinemateket, Bio Rio, Zita, Fagel Bla
 - 📝 Extracts detailed film information (titles, showtimes, descriptions, cinemas)
 - 🎭 Optional TMDb enrichment with separate script (`tmdb_enricher.py`)
 - 🌐 Static HTML generator for self-contained web display (`static_generator.py`)
