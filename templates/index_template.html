@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Films with English Subtitles - Stockholm Cinemas</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Discover Great Cinema</h1>
+            <p>Find films with English subtitles at Stockholm's finest cinemas</p>
+            
+            <!-- Statistics -->
+            <div class="stats">
+                <div class="stat-item">
+                    <span class="stat-number" id="total-films">-</span>
+                    <span class="stat-label">Films Available</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" id="total-cinemas">-</span>
+                    <span class="stat-label">Cinemas</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" id="total-showtimes">-</span>
+                    <span class="stat-label">Showtimes</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Controls -->
+    <section class="controls">
+        <div class="controls-container">
+            <div class="search-box">
+                <i class="fas fa-search"></i>
+                <input type="text" id="search-input" placeholder="Search films...">
+            </div>
+            
+            <select id="cinema-filter" class="filter-select">
+                <option value="">All Cinemas</option>
+            </select>
+            
+            <select id="genre-filter" class="filter-select">
+                <option value="">All Genres</option>
+            </select>
+            
+            <select id="rating-filter" class="filter-select">
+                <option value="">All Ratings</option>
+                <option value="9">9.0+ ★★★★★</option>
+                <option value="8">8.0+ ★★★★☆</option>
+                <option value="7">7.0+ ★★★☆☆</option>
+                <option value="6">6.0+ ★★☆☆☆</option>
+            </select>
+        </div>
+    </section>
+
+    <!-- Loading -->
+    <div id="loading" class="loading">
+        <i class="fas fa-film fa-spin"></i>
+        <span>Loading films...</span>
+    </div>
+
+    <!-- No Results -->
+    <div id="no-results" class="no-results" style="display: none;">
+        <i class="fas fa-search"></i>
+        <h3>No films found</h3>
+        <p>Try adjusting your search criteria or filters.</p>
+    </div>
+
+    <!-- Films Grid -->
+    <main class="main-content">
+        <div class="films-container">
+            <div class="films-grid" id="films-grid">
+                <!-- Films will be loaded here -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2024 Films with English Subtitles. Data sourced from Stockholm cinemas.</p>
+            <p>This is an unofficial tool to help find films with English subtitles in Stockholm.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

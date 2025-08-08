@@ -1,0 +1,6 @@
+# Core scraping dependencies
+httpx>=0.24.0
+selectolax>=0.3.0
+
+# Optional: For TMDb enrichment (tmdb_enricher.py)
+python-dotenv>=1.0.0

@@ -1,0 +1,88 @@
+name: Deploy Existing Data to GitHub Pages
+
+on:
+  workflow_dispatch:
+    # Allow manual triggering for quick deployments
+  push:
+    branches: [ main ]
+    paths:
+      - 'script.js'
+      - 'styles.css'
+      - 'index_template.html'
+      - 'static_generator.py'
+      - '!scrapers/**'
+
+jobs:
+  deploy-only:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Generate static HTML from existing data
+      run: |
+        echo "🔧 Generating static HTML from existing JSON files..."
+        
+        # Check if we have existing JSON files
+        if ls data/*_films_with_english_subs.json 1> /dev/null 2>&1; then
+          echo "📊 Found existing film data files:"
+          ls -la data/*_films_with_english_subs.json
+        else
+          echo "⚠️ No existing film data found, creating minimal example..."
+          mkdir -p data
+          echo '[]' > data/example_films_with_english_subs.json
+        fi
+        
+        # Generate static HTML
+        python scripts/static_generator.py
+        
+        # Rename for GitHub Pages
+        mv films_static.html index.html
+        
+        echo "✅ Static HTML generated successfully!"
+    
+    - name: Setup Pages
+      uses: actions/configure-pages@v3
+    
+    - name: Create Pages artifact
+      run: |
+        mkdir -p _site
+        cp index.html _site/
+        # Copy any additional assets if needed
+        if [ -f "favicon.ico" ]; then
+          cp favicon.ico _site/
+        fi
+    
+    - name: Upload Pages artifact
+      uses: actions/upload-pages-artifact@v2
+      with:
+        path: _site
+    
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v2
+    
+    - name: Notify completion
+      run: |
+        echo "🎉 Deployment successful!"
+        echo "📱 Site available at: ${{ steps.deployment.outputs.page_url }}"

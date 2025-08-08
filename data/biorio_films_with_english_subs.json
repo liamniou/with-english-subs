@@ -1,0 +1,372 @@
+[
+  {
+    "film_id": "tampopo",
+    "url": "https://www.biorio.se/movies/tampopo",
+    "title": "Tampopo",
+    "showtimes": [
+      {
+        "datetime": "2025-09-13T18:30:00.000Z",
+        "display_text": "Saturday September 13, 2025 at 18:30",
+        "movie_id": "5592",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/744",
+        "api_data": {
+          "id": 744,
+          "movieId": 5592,
+          "movieVersionId": 273,
+          "startTime": "2025-09-13T18:30:00.000Z",
+          "endTime": "2025-09-13T20:24:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "created_at": "2025-07-04T09:10:54.659Z",
+          "movie": {
+            "id": 5592,
+            "title": "Tampopo",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5592/posters/1751620204487-ngxq9s.jpg",
+            "movieVersions": [
+              {
+                "duration": 114,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 273,
+            "duration": 114,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "reRUN"
+          ],
+          "isPublished": true
+        }
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2025-08-08T14:44:31.046904",
+    "source": "biorio",
+    "tmdb": {
+      "id": 11830,
+      "title": "Tampopo",
+      "overview": "In this humorous paean to the joys of food, a pair of truck drivers happen onto a decrepit roadside shop selling ramen noodles. The widowed owner, Tampopo, begs them to help her turn her establishment into a paragon of the \"art of noodle-soup making\". Interspersed are satirical vignettes about the importance of food to different aspects of human life.",
+      "release_date": "1985-11-23",
+      "rating": 7.9,
+      "vote_count": 387,
+      "genres": [
+        "Comedy"
+      ],
+      "poster_path": "/2XLDb3RDQmtlxt5Snnig9W4moq4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2XLDb3RDQmtlxt5Snnig9W4moq4.jpg",
+      "backdrop_path": "/wGfuDcS3dJ1EFivBDWDQAQfsk0G.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/wGfuDcS3dJ1EFivBDWDQAQfsk0G.jpg",
+      "imdb_id": "tt0092048",
+      "runtime": 115,
+      "budget": 1500000,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "akira",
+    "url": "https://www.biorio.se/movies/akira",
+    "title": "Akira",
+    "showtimes": [
+      {
+        "datetime": "2025-08-17T10:45:00.000Z",
+        "display_text": "Sunday August 17, 2025 at 10:45",
+        "movie_id": "5495",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/782",
+        "api_data": {
+          "id": 782,
+          "movieId": 5495,
+          "movieVersionId": 208,
+          "startTime": "2025-08-17T10:45:00.000Z",
+          "endTime": "2025-08-17T12:49:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": "Engelska",
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "created_at": "2025-08-04T20:40:08.880Z",
+          "movie": {
+            "id": 5495,
+            "title": "Akira",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5495/posters/1748250084538-453oe.jpg",
+            "movieVersions": [
+              {
+                "duration": 124,
+                "audio": "Japanska",
+                "subtitles": "Svenska"
+              },
+              {
+                "duration": 124,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 208,
+            "duration": 124,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "reRUN"
+          ],
+          "isPublished": true
+        }
+      },
+      {
+        "datetime": "2025-08-10T16:20:00.000Z",
+        "display_text": "Sunday August 10, 2025 at 16:20",
+        "movie_id": "5495",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/772",
+        "api_data": {
+          "id": 772,
+          "movieId": 5495,
+          "movieVersionId": 208,
+          "startTime": "2025-08-10T16:20:00.000Z",
+          "endTime": "2025-08-10T18:24:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "created_at": "2025-07-29T19:03:28.344Z",
+          "movie": {
+            "id": 5495,
+            "title": "Akira",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5495/posters/1748250084538-453oe.jpg",
+            "movieVersions": [
+              {
+                "duration": 124,
+                "audio": "Japanska",
+                "subtitles": "Svenska"
+              },
+              {
+                "duration": 124,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 208,
+            "duration": 124,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "reRUN"
+          ],
+          "isPublished": true
+        }
+      },
+      {
+        "datetime": "2025-08-09T11:20:00.000Z",
+        "display_text": "Saturday August 09, 2025 at 11:20",
+        "movie_id": "5495",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/771",
+        "api_data": {
+          "id": 771,
+          "movieId": 5495,
+          "movieVersionId": 208,
+          "startTime": "2025-08-09T11:20:00.000Z",
+          "endTime": "2025-08-09T13:24:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": "Engelska",
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "created_at": "2025-07-29T18:59:19.741Z",
+          "movie": {
+            "id": 5495,
+            "title": "Akira",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5495/posters/1748250084538-453oe.jpg",
+            "movieVersions": [
+              {
+                "duration": 124,
+                "audio": "Japanska",
+                "subtitles": "Svenska"
+              },
+              {
+                "duration": 124,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 208,
+            "duration": 124,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "reRUN"
+          ],
+          "isPublished": true
+        }
+      },
+      {
+        "datetime": "2025-08-30T08:30:00.000Z",
+        "display_text": "Saturday August 30, 2025 at 08:30",
+        "movie_id": "5495",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/706",
+        "api_data": {
+          "id": 706,
+          "movieId": 5495,
+          "movieVersionId": 208,
+          "startTime": "2025-08-30T08:30:00.000Z",
+          "endTime": "2025-08-30T10:34:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "created_at": "2025-07-02T10:56:21.702Z",
+          "movie": {
+            "id": 5495,
+            "title": "Akira",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5495/posters/1748250084538-453oe.jpg",
+            "movieVersions": [
+              {
+                "duration": 124,
+                "audio": "Japanska",
+                "subtitles": "Svenska"
+              },
+              {
+                "duration": 124,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 208,
+            "duration": 124,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 3,
+              "name": "Frukostbio"
+            }
+          ],
+          "tags": [
+            "reRUN",
+            "Frukostbio"
+          ],
+          "isPublished": true
+        }
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2025-08-08T14:44:58.746346",
+    "source": "biorio",
+    "tmdb": {
+      "id": 149,
+      "title": "Akira",
+      "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+      "release_date": "1988-06-10",
+      "rating": 7.9,
+      "vote_count": 4467,
+      "genres": [
+        "Animation",
+        "Science Fiction",
+        "Action"
+      ],
+      "poster_path": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+      "backdrop_path": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+      "imdb_id": "tt0094625",
+      "runtime": 124,
+      "budget": 5700000,
+      "revenue": 49000000
+    }
+  }
+]

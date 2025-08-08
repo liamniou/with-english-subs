@@ -1,0 +1,173 @@
+[
+  {
+    "film_id": "persona",
+    "url": "https://zita.se/persona",
+    "title": "Persona",
+    "director": "",
+    "genre": "Sverige196618 okt 196685 minDramaFrån 15 årSvenskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "2025-08-12T17:00:00",
+        "display_text": "tis 12 aug 17:00",
+        "time": "17:00",
+        "date": "tis 12 aug",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3116"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-08-08T15:20:50.437147+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 797,
+      "title": "Persona",
+      "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
+      "release_date": "1966-10-18",
+      "rating": 8.1,
+      "vote_count": 2284,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
+      "backdrop_path": "/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
+      "imdb_id": "tt0060827",
+      "runtime": 84,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "to-a-land-unknown",
+    "url": "https://zita.se/to-a-land-unknown",
+    "title": "To a Land Unknown",
+    "director": "",
+    "genre": "UK, Palestina, Frankrike, GreklandUK, Palestina...🔍20241 jan 2024106 minDramaFrån 15 årFolkets Bio StockholmGeoff Arbourne...🔍ArabiskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "2025-08-10T18:00:00",
+        "display_text": "sön 10 aug 18:00",
+        "time": "18:00",
+        "date": "sön 10 aug",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
+      },
+      {
+        "datetime": "2025-08-10T15:00:00",
+        "display_text": "sön 10 aug 15:00",
+        "time": "15:00",
+        "date": "sön 10 aug",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
+      },
+      {
+        "datetime": "2025-08-12T15:15:00",
+        "display_text": "tis 12 aug 15:15",
+        "time": "15:15",
+        "date": "tis 12 aug",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
+      },
+      {
+        "datetime": "2025-08-13T18:00:00",
+        "display_text": "ons 13 aug 18:00",
+        "time": "18:00",
+        "date": "ons 13 aug",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
+      },
+      {
+        "datetime": "2025-08-14T15:15:00",
+        "display_text": "tors 14 aug 15:15",
+        "time": "15:15",
+        "date": "tors 14 aug",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-08-08T15:20:54.028436+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1214052,
+      "title": "To a Land Unknown",
+      "overview": "Cousins Chatila and Reda are saving to pay for fake passports to get out of Athens. When Reda loses their hard-earned cash to his drug addiction, Chatila hatches an extreme plan to pose as smugglers in an attempt to get them out of their desperate situation before it is too late.",
+      "release_date": "2025-02-14",
+      "rating": 7.5,
+      "vote_count": 6,
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "poster_path": "/4CJmere0yJDpEUjDkHjFwdi3gtU.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4CJmere0yJDpEUjDkHjFwdi3gtU.jpg",
+      "backdrop_path": "/vd500AWRxcBbKPcvzBHRN77sOcS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vd500AWRxcBbKPcvzBHRN77sOcS.jpg",
+      "imdb_id": "tt22023622",
+      "runtime": 106,
+      "budget": 0,
+      "revenue": 60171
+    }
+  },
+  {
+    "film_id": "z",
+    "url": "https://zita.se/z-han-lever",
+    "title": "Z",
+    "director": "",
+    "genre": "Z - il est vivant!Grekland, Frankrike19691 jan 1969127 minPolitisk thrillerFolkets Bio StockholmJacques PerrinFranskaEngelska",
+    "duration": "",
+    "manual_tmdb": 2721,
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "i morgon 17:30",
+        "time": "17:30",
+        "date": "i morgon",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5512"
+      },
+      {
+        "datetime": "2025-08-08T15:00:00",
+        "display_text": "fre 8 aug 15:00",
+        "time": "15:00",
+        "date": "fre 8 aug",
+        "cinema": "(zita 1)",
+        "source_url": "https://zita.se/z-han-lever"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-08-08T15:20:55.446004+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 2721,
+      "title": "Z",
+      "overview": "Amid a tense political climate, the opposition leader is killed in an apparent accident. When a prosecutor smells a cover-up, witnesses get targeted. A thinly veiled dramatization of the assassination of Greek politician Grigoris Lambrakis and its aftermath, “Z” captures the outrage at the US-backed junta that ruled Greece at the time of its release.",
+      "release_date": "1969-02-26",
+      "rating": 7.788,
+      "vote_count": 572,
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "poster_path": "/dFAJyFNgvOv24f2RQyI9KDxjGr3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dFAJyFNgvOv24f2RQyI9KDxjGr3.jpg",
+      "backdrop_path": "/7AvbU0ei7Fz21jqBL4tlgSufnMp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7AvbU0ei7Fz21jqBL4tlgSufnMp.jpg",
+      "imdb_id": "tt0065234",
+      "runtime": 127,
+      "budget": 0,
+      "revenue": 83305
+    }
+  }
+]

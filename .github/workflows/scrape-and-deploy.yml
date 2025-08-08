@@ -1,0 +1,122 @@
+name: Scrape Films and Deploy to GitHub Pages
+
+on:
+  schedule:
+    # Run daily at 6:00 AM UTC (adjust timezone as needed)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    # Allow manual triggering
+  push:
+    branches: [ main ]
+    paths:
+      - 'scrapers/**'
+      - 'static_generator.py'
+      - 'tmdb_enricher.py'
+      - 'script.js'
+      - 'styles.css'
+      - 'index_template.html'
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run full scraping pipeline
+      env:
+        TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+      run: |
+        echo "🎬 Starting full film scraping pipeline..."
+        
+        # Run all scrapers
+        echo "📡 Running Cinemateket scraper..."
+        python scrapers/cinemateket.py || echo "⚠️ Cinemateket scraper failed, continuing..."
+        
+        echo "📡 Running Bio Rio scraper..."
+        python scrapers/biorio.py || echo "⚠️ Bio Rio scraper failed, continuing..."
+        
+        echo "📡 Running Fågel Blå scraper..."
+        python scrapers/fagelbla.py || echo "⚠️ Fågel Blå scraper failed, continuing..."
+        
+        echo "📡 Running Zita scraper..."
+        python scrapers/zita.py || echo "⚠️ Zita scraper failed, continuing..."
+        
+        # Enrich with TMDB data
+        echo "🎭 Enriching with TMDB data..."
+        for json_file in data/*_films_with_english_subs.json; do
+          if [ -f "$json_file" ]; then
+            echo "Processing $json_file..."
+            python scripts/tmdb_enricher.py "$json_file" || echo "⚠️ TMDB enrichment failed for $json_file, continuing..."
+          fi
+        done
+        
+        # Generate static HTML
+        echo "🔧 Generating static HTML..."
+        python scripts/static_generator.py
+        
+        # Rename for GitHub Pages
+        mv films_static.html index.html
+        
+        echo "✅ Pipeline completed successfully!"
+    
+    - name: Upload artifacts for debugging
+      uses: actions/upload-artifact@v3
+      if: always()
+      with:
+        name: scraping-results
+        path: |
+          data/*_films_with_english_subs.json
+          index.html
+        retention-days: 7
+    
+    - name: Setup Pages
+      uses: actions/configure-pages@v3
+    
+    - name: Create Pages artifact
+      run: |
+        mkdir -p _site
+        cp index.html _site/
+        # Copy any additional assets if needed
+        if [ -f "favicon.ico" ]; then
+          cp favicon.ico _site/
+        fi
+    
+    - name: Upload Pages artifact
+      uses: actions/upload-pages-artifact@v2
+      with:
+        path: _site
+    
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v2
+    
+    - name: Notify completion
+      if: always()
+      run: |
+        if [ "${{ job.status }}" == "success" ]; then
+          echo "🎉 Deployment successful!"
+          echo "📱 Site available at: ${{ steps.deployment.outputs.page_url }}"
+        else
+          echo "❌ Deployment failed"
+        fi
