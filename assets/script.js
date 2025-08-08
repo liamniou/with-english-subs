@@ -119,7 +119,6 @@ const noResults = document.getElementById('no-results');
 const searchInput = document.getElementById('search-input');
 const cinemaFilter = document.getElementById('cinema-filter');
 const genreFilter = document.getElementById('genre-filter');
-const ratingFilter = document.getElementById('rating-filter');
 const totalFilmsEl = document.getElementById('total-films');
 const totalCinemasEl = document.getElementById('total-cinemas');
 const totalShowtimesEl = document.getElementById('total-showtimes');
@@ -240,7 +239,6 @@ function setupEventListeners() {
     searchInput.addEventListener('input', debounce(filterFilms, 300));
     cinemaFilter.addEventListener('change', filterFilms);
     genreFilter.addEventListener('change', filterFilms);
-    ratingFilter.addEventListener('change', filterFilms);
 }
 
 // Debounce function for search input
@@ -261,7 +259,6 @@ function filterFilms() {
     const searchTerm = searchInput.value.toLowerCase();
     const selectedCinema = cinemaFilter.value;
     const selectedGenre = genreFilter.value;
-    const minRating = parseFloat(ratingFilter.value) || 0;
     
     filteredFilms = allFilms.filter(film => {
         // Search filter
@@ -287,11 +284,7 @@ function filterFilms() {
         const genreMatch = !selectedGenre || 
             film.tmdb?.genres?.includes(selectedGenre);
         
-        // Rating filter
-        const ratingMatch = !film.tmdb?.rating ||
-            film.tmdb.rating >= minRating;
-        
-        return searchMatch && cinemaMatch && genreMatch && ratingMatch;
+        return searchMatch && cinemaMatch && genreMatch;
     });
     
     displayFilms(filteredFilms);
