@@ -18,7 +18,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.706410+00:00",
+    "scraped_at": "2025-08-08T22:47:55.236481+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -59,7 +59,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.706801+00:00",
+    "scraped_at": "2025-08-08T22:47:55.237057+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -101,7 +101,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.706928+00:00",
+    "scraped_at": "2025-08-08T22:47:55.237272+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
@@ -142,7 +142,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.707023+00:00",
+    "scraped_at": "2025-08-08T22:47:55.237469+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 75233,
@@ -183,7 +183,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.707065+00:00",
+    "scraped_at": "2025-08-08T22:47:55.237560+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 30734,
@@ -225,7 +225,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.707185+00:00",
+    "scraped_at": "2025-08-08T22:47:55.237767+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -233,7 +233,7 @@
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
       "rating": 7.913,
-      "vote_count": 11876,
+      "vote_count": 11878,
       "genres": [
         "Comedy",
         "Romance"
@@ -267,7 +267,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.707261+00:00",
+    "scraped_at": "2025-08-08T22:47:55.237899+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 135380,
@@ -308,15 +308,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.707393+00:00",
+    "scraped_at": "2025-08-08T22:47:55.238108+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1213,
       "title": "The Talented Mr. Ripley",
       "overview": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
       "release_date": "1999-12-25",
-      "rating": 7.196,
-      "vote_count": 3902,
+      "rating": 7.2,
+      "vote_count": 3903,
       "genres": [
         "Thriller",
         "Crime",
@@ -339,7 +339,6 @@
     "director": "Andrei Tarkovsky",
     "duration": "2h 41 mins",
     "language": "Ryska",
-    "manual_tmdb": 1398,
     "showtimes": [
       {
         "datetime": "2025-09-14T19:45:00+02:00",
@@ -352,26 +351,26 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.707426+00:00",
+    "scraped_at": "2025-08-08T22:47:55.238174+00:00",
     "source": "fagelbla",
     "tmdb": {
-      "id": 1398,
+      "id": 1004130,
       "title": "Stalker",
-      "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
-      "release_date": "1979-05-25",
-      "rating": 8.111,
-      "vote_count": 2334,
+      "overview": "Rose Hepburn, a young actor working in horror movies, returns to her empty hotel. Forced to use the old freight elevator, it jolts to a halt on the twelfth floor, leaving her trapped with an unusual stranger. Left with no mobile phone signal as a storm approaches, tensions escalate and suspicions rise when Rose discovers the identity of the mysterious man is Daniel Reed, a camera operator on her latest movie, who is seemingly obsessed with her. As the elevator hangs precariously high about to plunge down at any minute, some harsh truths and actions start unfolding.",
+      "release_date": "2023-03-31",
+      "rating": 6.0,
+      "vote_count": 22,
       "genres": [
-        "Science Fiction",
-        "Drama"
+        "Horror",
+        "Thriller"
       ],
-      "poster_path": "/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
-      "backdrop_path": "/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
-      "imdb_id": "tt0079944",
-      "runtime": 162,
-      "budget": 120000,
+      "poster_path": "/g6aZ3KUntef8IbT16uMNSkcUPe1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g6aZ3KUntef8IbT16uMNSkcUPe1.jpg",
+      "backdrop_path": "/dQoRGk9r0k0wfk1wMCCwzRMT2zm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/dQoRGk9r0k0wfk1wMCCwzRMT2zm.jpg",
+      "imdb_id": "tt21379060",
+      "runtime": 93,
+      "budget": 0,
       "revenue": 0
     }
   },
@@ -394,7 +393,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.707465+00:00",
+    "scraped_at": "2025-08-08T22:47:55.238255+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 51143,
@@ -435,7 +434,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.707564+00:00",
+    "scraped_at": "2025-08-08T22:47:55.238473+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 398818,
@@ -477,7 +476,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.707636+00:00",
+    "scraped_at": "2025-08-08T22:47:55.238612+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47206,
@@ -518,7 +517,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.707741+00:00",
+    "scraped_at": "2025-08-08T22:47:55.238790+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1034629,
@@ -559,7 +558,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.707780+00:00",
+    "scraped_at": "2025-08-08T22:47:55.238870+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 71,
@@ -602,7 +601,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.707818+00:00",
+    "scraped_at": "2025-08-08T22:47:55.238956+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
@@ -643,7 +642,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.707904+00:00",
+    "scraped_at": "2025-08-08T22:47:55.239087+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1669,
@@ -686,7 +685,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.707952+00:00",
+    "scraped_at": "2025-08-08T22:47:55.239165+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 42692,
@@ -729,7 +728,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.707991+00:00",
+    "scraped_at": "2025-08-08T22:47:55.239303+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 114242,
@@ -771,7 +770,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.708030+00:00",
+    "scraped_at": "2025-08-08T22:47:55.239474+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1284213,
@@ -810,7 +809,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.708150+00:00",
+    "scraped_at": "2025-08-08T22:47:55.239788+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -851,7 +850,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.708188+00:00",
+    "scraped_at": "2025-08-08T22:47:55.239936+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
@@ -893,7 +892,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.708231+00:00",
+    "scraped_at": "2025-08-08T22:47:55.240084+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
@@ -934,7 +933,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.708288+00:00",
+    "scraped_at": "2025-08-08T22:47:55.240272+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -976,7 +975,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.708327+00:00",
+    "scraped_at": "2025-08-08T22:47:55.240444+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -1019,15 +1018,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.708365+00:00",
+    "scraped_at": "2025-08-08T22:47:55.240585+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
       "title": "Paris, Texas",
       "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
       "release_date": "1984-07-16",
-      "rating": 8.1,
-      "vote_count": 2015,
+      "rating": 8.101,
+      "vote_count": 2016,
       "genres": [
         "Drama"
       ],
@@ -1060,7 +1059,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.708433+00:00",
+    "scraped_at": "2025-08-08T22:47:55.240789+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -1103,7 +1102,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.708491+00:00",
+    "scraped_at": "2025-08-08T22:47:55.240978+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -1145,7 +1144,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-08T13:13:31.708529+00:00",
+    "scraped_at": "2025-08-08T22:47:55.241111+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,

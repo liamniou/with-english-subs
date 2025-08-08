@@ -65,7 +65,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-08T14:44:31.046904",
+    "scraped_at": "2025-08-08T22:45:26.061877",
     "source": "biorio",
     "tmdb": {
       "id": 11830,
@@ -345,15 +345,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-08T14:44:58.746346",
+    "scraped_at": "2025-08-08T22:46:55.075143",
     "source": "biorio",
     "tmdb": {
       "id": 149,
       "title": "Akira",
       "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
       "release_date": "1988-06-10",
-      "rating": 7.9,
-      "vote_count": 4467,
+      "rating": 7.942,
+      "vote_count": 4468,
       "genres": [
         "Animation",
         "Science Fiction",

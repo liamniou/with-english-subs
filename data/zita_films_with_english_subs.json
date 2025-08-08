@@ -19,7 +19,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-08-08T15:20:50.437147+00:00",
+    "scraped_at": "2025-08-08T22:48:13.658930+00:00",
     "source": "zita",
     "tmdb": {
       "id": 797,
@@ -50,18 +50,10 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2025-08-10T18:00:00",
-        "display_text": "sön 10 aug 18:00",
-        "time": "18:00",
-        "date": "sön 10 aug",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
-      },
-      {
-        "datetime": "2025-08-10T15:00:00",
-        "display_text": "sön 10 aug 15:00",
+        "datetime": "",
+        "display_text": "i morgon 15:00",
         "time": "15:00",
-        "date": "sön 10 aug",
+        "date": "i morgon",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
       },
@@ -93,7 +85,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-08-08T15:20:54.028436+00:00",
+    "scraped_at": "2025-08-08T22:48:18.579466+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1214052,
@@ -124,50 +116,42 @@
     "director": "",
     "genre": "Z - il est vivant!Grekland, Frankrike19691 jan 1969127 minPolitisk thrillerFolkets Bio StockholmJacques PerrinFranskaEngelska",
     "duration": "",
-    "manual_tmdb": 2721,
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "i morgon 17:30",
+        "display_text": "17:30",
         "time": "17:30",
-        "date": "i morgon",
+        "date": "",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5512"
-      },
-      {
-        "datetime": "2025-08-08T15:00:00",
-        "display_text": "fre 8 aug 15:00",
-        "time": "15:00",
-        "date": "fre 8 aug",
-        "cinema": "(zita 1)",
-        "source_url": "https://zita.se/z-han-lever"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-08-08T15:20:55.446004+00:00",
+    "scraped_at": "2025-08-08T22:48:21.253089+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 2721,
-      "title": "Z",
-      "overview": "Amid a tense political climate, the opposition leader is killed in an apparent accident. When a prosecutor smells a cover-up, witnesses get targeted. A thinly veiled dramatization of the assassination of Greek politician Grigoris Lambrakis and its aftermath, “Z” captures the outrage at the US-backed junta that ruled Greece at the time of its release.",
-      "release_date": "1969-02-26",
-      "rating": 7.788,
-      "vote_count": 572,
+      "id": 980477,
+      "title": "Ne Zha 2",
+      "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+      "release_date": "2025-01-29",
+      "rating": 8.0,
+      "vote_count": 242,
       "genres": [
-        "Thriller",
-        "Crime",
-        "Drama"
+        "Animation",
+        "Fantasy",
+        "Adventure",
+        "Action"
       ],
-      "poster_path": "/dFAJyFNgvOv24f2RQyI9KDxjGr3.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dFAJyFNgvOv24f2RQyI9KDxjGr3.jpg",
-      "backdrop_path": "/7AvbU0ei7Fz21jqBL4tlgSufnMp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7AvbU0ei7Fz21jqBL4tlgSufnMp.jpg",
-      "imdb_id": "tt0065234",
-      "runtime": 127,
-      "budget": 0,
-      "revenue": 83305
+      "poster_path": "/293Mo4GWf7Tl0TfAr5NFghqeMy7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/293Mo4GWf7Tl0TfAr5NFghqeMy7.jpg",
+      "backdrop_path": "/c9xmB53umjnrCMS4pZz11clF3yJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/c9xmB53umjnrCMS4pZz11clF3yJ.jpg",
+      "imdb_id": "tt34956443",
+      "runtime": 144,
+      "budget": 80000000,
+      "revenue": 2216990000
     }
   }
 ]
