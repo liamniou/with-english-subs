@@ -10,18 +10,18 @@ on:
     branches: [ main ]
     paths:
       - 'scrapers/**'
-      - 'static_generator.py'
-      - 'tmdb_enricher.py'
-      - 'script.js'
-      - 'styles.css'
-      - 'index_template.html'
+      - 'scripts/static_generator.py'
+      - 'scripts/tmdb_enricher.py'
+      - 'assets/script.js'
+      - 'assets/styles.css'
+      - 'templates/index_template.html'
 
 jobs:
   scrape-and-deploy:
     runs-on: ubuntu-latest
     
     permissions:
-      contents: read
+      contents: write
       pages: write
       id-token: write
     
@@ -73,12 +73,17 @@ jobs:
         
         # Generate static HTML
         echo "🔧 Generating static HTML..."
-        python scripts/static_generator.py
-        
-        # Rename for GitHub Pages
-        mv films_static.html index.html
+        python scripts/static_generator.py --output index.html
         
         echo "✅ Pipeline completed successfully!"
+    
+    - name: Commit updated data and index.html
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/*.json index.html || true
+        git diff --staged --quiet || git commit -m "Auto-update: Latest film data and website [$(date)]"
+        git push || true
     
     - name: Upload artifacts for debugging
       uses: actions/upload-artifact@v4

@@ -6,10 +6,10 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'script.js'
-      - 'styles.css'
-      - 'index_template.html'
-      - 'static_generator.py'
+      - 'assets/script.js'
+      - 'assets/styles.css'
+      - 'templates/index_template.html'
+      - 'scripts/static_generator.py'
       - '!scrapers/**'
 
 jobs:
@@ -54,10 +54,7 @@ jobs:
         fi
         
         # Generate static HTML
-        python scripts/static_generator.py
-        
-        # Rename for GitHub Pages
-        mv films_static.html index.html
+        python scripts/static_generator.py --output index.html
         
         echo "✅ Static HTML generated successfully!"
     

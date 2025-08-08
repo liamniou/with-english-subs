@@ -11,6 +11,11 @@ This repository includes GitHub Actions workflows to automatically scrape film d
 3. Under "Source", select "GitHub Actions"
 4. Save the settings
 
+**Important**: If you see your README content instead of the film website, make sure:
+- GitHub Pages is set to "GitHub Actions" (not "Deploy from branch")
+- Wait a few minutes after the first workflow run
+- The `index.html` file exists in your repository root
+
 ### 2. Configure TMDB API Key (Optional)
 
 To enable TMDB data enrichment (movie posters, ratings, etc.):
