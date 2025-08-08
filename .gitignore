@@ -234,7 +234,7 @@ $RECYCLE.BIN/
 
 # Generated HTML files
 films_static.html
-index.html
+# index.html  # Allow index.html to be committed for GitHub Pages
 
 # Temporary scraping files
 *.tmp
