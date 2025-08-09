@@ -19,7 +19,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-08-08T22:48:13.658930+00:00",
+    "scraped_at": "2025-08-09T06:21:49.170728+00:00",
     "source": "zita",
     "tmdb": {
       "id": 797,
@@ -85,7 +85,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-08-08T22:48:18.579466+00:00",
+    "scraped_at": "2025-08-09T06:21:53.366243+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1214052,
@@ -129,15 +129,15 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-08-08T22:48:21.253089+00:00",
+    "scraped_at": "2025-08-09T06:21:55.698609+00:00",
     "source": "zita",
     "tmdb": {
       "id": 980477,
       "title": "Ne Zha 2",
       "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
       "release_date": "2025-01-29",
-      "rating": 8.0,
-      "vote_count": 242,
+      "rating": 8.027,
+      "vote_count": 244,
       "genres": [
         "Animation",
         "Fantasy",
