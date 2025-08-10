@@ -6,15 +6,6 @@ on:
     - cron: '0 6 * * *'
   workflow_dispatch:
     # Allow manual triggering
-  push:
-    branches: [ main ]
-    paths:
-      - 'scrapers/**'
-      - 'scripts/static_generator.py'
-      - 'scripts/tmdb_enricher.py'
-      - 'assets/script.js'
-      - 'assets/styles.css'
-      - 'templates/index_template.html'
 
 jobs:
   scrape-and-deploy:
@@ -46,33 +37,19 @@ jobs:
     - name: Run full scraping pipeline
       env:
         TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: |
-        echo "🎬 Starting full film scraping pipeline..."
+        echo "🎬 Starting full film scraping pipeline using shell script..."
         
-        # Run all scrapers
-        echo "📡 Running Cinemateket scraper..."
-        python scrapers/cinemateket.py || echo "⚠️ Cinemateket scraper failed, continuing..."
+        # Make shell script executable
+        chmod +x scripts/run_full_pipeline.sh
         
-        echo "📡 Running Bio Rio scraper..."
-        python scrapers/biorio.py || echo "⚠️ Bio Rio scraper failed, continuing..."
+        # Run the full pipeline script
+        # Include translation if GEMINI_API_KEY is available
+        scripts/run_full_pipeline.sh
         
-        echo "📡 Running Fågel Blå scraper..."
-        python scrapers/fagelbla.py || echo "⚠️ Fågel Blå scraper failed, continuing..."
-        
-        echo "📡 Running Zita scraper..."
-        python scrapers/zita.py || echo "⚠️ Zita scraper failed, continuing..."
-        
-        # Enrich with TMDB data
-        echo "🎭 Enriching with TMDB data..."
-        for json_file in data/*_films_with_english_subs.json; do
-          if [ -f "$json_file" ]; then
-            echo "Processing $json_file..."
-            python scripts/tmdb_enricher.py "$json_file" || echo "⚠️ TMDB enrichment failed for $json_file, continuing..."
-          fi
-        done
-        
-        # Generate static HTML
-        echo "🔧 Generating static HTML..."
+        # Generate index.html for GitHub Pages
+        echo "🔧 Generating index.html for GitHub Pages..."
         python scripts/static_generator.py --output index.html
         
         echo "✅ Pipeline completed successfully!"

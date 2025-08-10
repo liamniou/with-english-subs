@@ -53,7 +53,10 @@ jobs:
           echo '[]' > data/example_films_with_english_subs.json
         fi
         
-        # Generate static HTML
+        # Make scripts executable
+        chmod +x scripts/static_generator.py
+        
+        # Generate static HTML for GitHub Pages
         python scripts/static_generator.py --output index.html
         
         echo "✅ Static HTML generated successfully!"

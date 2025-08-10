@@ -14,6 +14,16 @@
 
 set -e  # Exit on any error
 
+# Load environment variables from .env file if it exists
+if [ -f .env ]; then
+    echo "📄 Loading environment variables from .env file..."
+    set -a  # automatically export all variables
+    source .env
+    set +a  # disable automatic export
+else
+    echo "📄 No .env file found, using system environment variables"
+fi
+
 # Configuration
 GEMINI_API_KEY=${GEMINI_API_KEY:-""}
 TMDB_API_KEY=${TMDB_API_KEY:-""}
@@ -46,9 +56,10 @@ log_error() {
 }
 
 log_header() {
-    echo -e "\n${PURPLE}${'='*70}${NC}"
+    local separator=$(printf '=%.0s' {1..70})
+    echo -e "\n${PURPLE}${separator}${NC}"
     echo -e "${PURPLE}$1${NC}"
-    echo -e "${PURPLE}${'='*70}${NC}\n"
+    echo -e "${PURPLE}${separator}${NC}\n"
 }
 
 log_step() {
@@ -166,13 +177,21 @@ translate_json_fields() {
     
     log_step "Translating $scraper_name JSON fields..."
     
-            python3 scripts/translate_json_fields.py "$json_file" \
+    python3 scripts/translate_json_fields.py "$json_file" \
         --fields "$FIELDS_TO_TRANSLATE" \
         --api-key "$GEMINI_API_KEY" \
         --batch-size "$BATCH_SIZE"
     
     if [[ $? -eq 0 ]]; then
-        log_success "Translation completed for $scraper_name"
+        # Replace original file with translated version
+        local translated_file="${json_file%%.json}_translated.json"
+        if [[ -f "$translated_file" ]]; then
+            log_step "Replacing original with translated version..."
+            mv "$translated_file" "$json_file"
+            log_success "Translation completed for $scraper_name - original file updated"
+        else
+            log_warning "Translated file not found: $translated_file"
+        fi
         return 0
     else
         log_error "Translation failed for $scraper_name"
@@ -259,9 +278,70 @@ cleanup_backup_files() {
     
     # Remove any backup files created during the process
     find . -name "*.json.backup*" -delete 2>/dev/null || true
-    find . -name "*_translated.json" -delete 2>/dev/null || true
+    # Note: *_translated.json files are now moved to replace original files
     
     log_success "Cleanup completed"
+}
+
+tmdb_only_mode() {
+    log_header "TMDB ENRICHMENT ONLY MODE"
+    
+    check_requirements
+    
+    if [[ -z "$TMDB_API_KEY" ]]; then
+        log_error "TMDB_API_KEY not found. Please set it in environment or .env file"
+        exit 1
+    fi
+    
+    # Find all JSON files in data directory
+    local json_files=(data/*_films_with_english_subs.json)
+    local processed_count=0
+    
+    if [ ! -d "data" ]; then
+        log_error "Data directory not found. Run scrapers first or ensure JSON files exist."
+        exit 1
+    fi
+    
+    # Check if any JSON files exist (handle case where glob doesn't match)
+    if [[ ! -f "${json_files[0]}" ]]; then
+        log_error "No JSON files found in data/ directory. Run scrapers first."
+        exit 1
+    fi
+    
+    log_step "Found ${#json_files[@]} JSON files to process"
+    
+    for json_file in "${json_files[@]}"; do
+        if [[ -f "$json_file" ]]; then
+            local scraper_name=$(basename "$json_file" _films_with_english_subs.json)
+            log_step "Enriching $scraper_name data with TMDB..."
+            
+            if enrich_with_tmdb "$json_file" "$scraper_name"; then
+                ((processed_count++))
+                log_success "TMDB enrichment completed for $scraper_name"
+            else
+                log_error "TMDB enrichment failed for $scraper_name"
+            fi
+        fi
+    done
+    
+    if [[ $processed_count -eq 0 ]]; then
+        log_error "No JSON files were processed successfully"
+        exit 1
+    fi
+    
+    log_success "Processed $processed_count JSON files with TMDB enrichment"
+    
+    # Optionally generate static site with updated data
+    read -p "Generate static HTML with enriched data? (y/N): " -r
+    if [[ $REPLY =~ ^[Yy]$ ]]; then
+        if generate_static_site; then
+            log_success "Static HTML generated: index.html"
+        else
+            log_error "Static site generation failed"
+        fi
+    fi
+    
+    log_header "TMDB ENRICHMENT COMPLETED! 🎉"
 }
 
 show_results() {
@@ -332,6 +412,7 @@ case "${1:-}" in
         echo "  --help, -h     Show this help message"
         echo "  --skip-tmdb    Skip TMDB enrichment for all scrapers"
         echo "  --skip-translate Skip translation for all scrapers"
+        echo "  --tmdb-only    Run only TMDB enrichment on existing JSON files"
         echo ""
         echo "Environment Variables:"
         echo "  TMDB_API_KEY     API key for TMDB enrichment"
@@ -345,6 +426,11 @@ case "${1:-}" in
         echo "     c. Translate JSON fields"
         echo "  3. Generate static HTML with all data"
         echo ""
+        echo "TMDB-only mode (--tmdb-only):"
+        echo "  1. Find all existing JSON files in data/ directory"
+        echo "  2. Run TMDB enrichment on each file"
+        echo "  3. Optionally generate static HTML with enriched data"
+        echo ""
         exit 0
         ;;
     --skip-tmdb)
@@ -354,6 +440,9 @@ case "${1:-}" in
     --skip-translate)
         GEMINI_API_KEY=""
         main
+        ;;
+    --tmdb-only)
+        tmdb_only_mode
         ;;
     "")
         main

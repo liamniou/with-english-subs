@@ -51,11 +51,43 @@ class TMDbEnricher:
         
         return cleaned.strip()
     
-    def search_tmdb_movie(self, title: str) -> Optional[Dict[str, Any]]:
-        """Search for a movie on TMDb.
+    def _extract_year_from_film(self, film: Dict[str, Any]) -> Optional[str]:
+        """Extract year from film data if available.
+        
+        Args:
+            film: Film data dictionary
+            
+        Returns:
+            Year as string or None if not found
+        """
+        import re
+        
+        # Check for explicit year field
+        if 'year' in film and film['year']:
+            return str(film['year'])
+        
+        # Try to extract year from title (look for 4-digit years)
+        title = film.get('title', '')
+        year_match = re.search(r'\b(19|20)\d{2}\b', title)
+        if year_match:
+            return year_match.group(0)
+        
+        # Try to extract from genre/description fields that might contain year
+        for field in ['genre', 'description', 'details']:
+            if field in film and film[field]:
+                year_match = re.search(r'\b(19|20)\d{2}\b', str(film[field]))
+                if year_match:
+                    return year_match.group(0)
+        
+        return None
+    
+    def search_tmdb_movie(self, title: str, director: str = None, year: str = None) -> Optional[Dict[str, Any]]:
+        """Search for a movie on TMDb using title and optionally year, then filter by director.
         
         Args:
             title: Movie title to search for
+            director: Movie director name (optional, used for better matching)
+            year: Release year (optional, helps narrow results)
             
         Returns:
             Movie data from TMDb API or None if not found
@@ -64,25 +96,271 @@ class TMDbEnricher:
             return None
             
         try:
+            # Step 1: Search for movie by title (and year if available)
+            search_params = {
+                "api_key": self.api_key,
+                "query": title,
+                "language": "en-US"
+            }
+            
+            if year:
+                search_params["year"] = year
+                print(f"  🔍 Searching TMDb: '{title}' ({year})")
+            else:
+                print(f"  🔍 Searching TMDb: '{title}'")
+                
             with httpx.Client() as client:
                 response = client.get(
                     f"{self.base_url}/search/movie",
-                    params={
-                        "api_key": self.api_key,
-                        "query": title,
-                        "language": "en-US"
-                    },
+                    params=search_params,
                     timeout=10.0
                 )
                 response.raise_for_status()
                 data = response.json()
                 
-                if data.get('results'):
-                    return data['results'][0]  # Return first result
+                if not data.get('results'):
+                    print(f"  ❌ No TMDb results found for '{title}'")
+                    return None
+                
+                results = data['results']
+                print(f"  📋 Found {len(results)} potential matches")
+                
+                # Step 2: If we have multiple results and a director, try director filmography search
+                if len(results) > 1 and director and director.strip():
+                    print(f"  🔄 Multiple results found, searching director's filmography...")
+                    
+                    # Search for director and look through their filmography
+                    director_data = self.search_tmdb_director(director)
+                    if director_data:
+                        director_id = director_data.get('id')
+                        if director_id:
+                            filmography_match = self.search_in_director_filmography(director_id, title, year)
+                            if filmography_match:
+                                return filmography_match
+                            else:
+                                print(f"  🔄 No filmography match, falling back to credits-based search")
+                    
+                    # Fallback: use original credits-based method
+                    print(f"  🎭 Filtering by director credits: '{director}'")
+                    best_match = self._find_best_match_by_director(results, director)
+                    if best_match:
+                        return best_match
+                    else:
+                        print(f"  ⚠️  No director match found, using first result")
+                        return results[0]
+                        
+                elif director and director.strip():
+                    # Single result but we have director - still validate with credits
+                    print(f"  🎭 Validating single result with director: '{director}'")
+                    best_match = self._find_best_match_by_director(results, director)
+                    if best_match:
+                        return best_match
+                    else:
+                        print(f"  ⚠️  Director validation failed, using result anyway")
+                        return results[0]
+                else:
+                    # No director to match against, return first result
+                    return results[0]
                     
         except Exception as e:
             print(f"  ❌ TMDb search error for '{title}': {e}")
             
+        return None
+
+    def search_tmdb_director(self, director_name: str) -> Optional[Dict[str, Any]]:
+        """Search for a director by name on TMDb.
+        
+        Args:
+            director_name: Director name to search for
+            
+        Returns:
+            Director data from TMDb API or None if not found
+        """
+        if not self.api_key or not director_name:
+            return None
+            
+        try:
+            search_params = {
+                "api_key": self.api_key,
+                "query": director_name,
+                "language": "en-US"
+            }
+            
+            print(f"  🎭 Searching for director: '{director_name}'")
+            
+            with httpx.Client() as client:
+                response = client.get(
+                    f"{self.base_url}/search/person",
+                    params=search_params,
+                    timeout=10.0
+                )
+                response.raise_for_status()
+                data = response.json()
+                
+                if not data.get('results'):
+                    print(f"  ❌ No director found for '{director_name}'")
+                    return None
+                
+                # Look for directors (not actors)
+                directors = [person for person in data['results'] 
+                           if person.get('known_for_department') == 'Directing']
+                
+                if not directors:
+                    # Fallback: use first person if no explicit directors found
+                    directors = data['results']
+                
+                if directors:
+                    director = directors[0]
+                    print(f"  ✅ Found director: {director.get('name')} (ID: {director.get('id')})")
+                    return director
+                else:
+                    print(f"  ❌ No suitable director found for '{director_name}'")
+                    return None
+                    
+        except Exception as e:
+            print(f"  ❌ Error searching for director '{director_name}': {e}")
+            
+        return None
+
+    def search_in_director_filmography(self, director_id: int, movie_title: str, year: str = None) -> Optional[Dict[str, Any]]:
+        """Search for a movie in director's filmography.
+        
+        Args:
+            director_id: TMDb director ID
+            movie_title: Movie title to search for
+            year: Optional year to help with matching
+            
+        Returns:
+            Movie data from director's filmography or None if not found
+        """
+        if not self.api_key or not director_id:
+            return None
+            
+        try:
+            with httpx.Client() as client:
+                response = client.get(
+                    f"{self.base_url}/person/{director_id}/movie_credits",
+                    params={"api_key": self.api_key},
+                    timeout=10.0
+                )
+                response.raise_for_status()
+                data = response.json()
+                
+                crew_movies = data.get('crew', [])
+                # Filter for movies where this person was director
+                directed_movies = [movie for movie in crew_movies 
+                                 if movie.get('job') == 'Director']
+                
+                print(f"  🎬 Found {len(directed_movies)} movies directed by this person")
+                
+                if not directed_movies:
+                    return None
+                
+                # Clean the search title for comparison
+                clean_search_title = self.clean_title_for_search(movie_title).lower()
+                
+                # Look for exact or close matches
+                best_match = None
+                best_score = 0
+                
+                for movie in directed_movies:
+                    tmdb_title = movie.get('title', '').lower()
+                    original_title = movie.get('original_title', '').lower()
+                    
+                    # Calculate match score
+                    score = 0
+                    
+                    # Exact title match gets highest score
+                    if clean_search_title == tmdb_title or clean_search_title == original_title:
+                        score = 100
+                    # Partial match
+                    elif (clean_search_title in tmdb_title or tmdb_title in clean_search_title or
+                          clean_search_title in original_title or original_title in clean_search_title):
+                        score = 50
+                    # Word overlap
+                    else:
+                        search_words = set(clean_search_title.split())
+                        title_words = set(tmdb_title.split())
+                        original_words = set(original_title.split())
+                        
+                        title_overlap = len(search_words & title_words) / max(len(search_words), 1)
+                        original_overlap = len(search_words & original_words) / max(len(search_words), 1)
+                        max_overlap = max(title_overlap, original_overlap)
+                        
+                        if max_overlap > 0.5:  # At least 50% word overlap
+                            score = int(max_overlap * 30)
+                    
+                    # Year bonus
+                    if year and movie.get('release_date'):
+                        movie_year = movie['release_date'][:4]
+                        if movie_year == year:
+                            score += 20
+                    
+                    if score > best_score and score >= 30:  # Minimum threshold
+                        best_score = score
+                        best_match = movie
+                        
+                if best_match:
+                    print(f"  ✅ Found match in filmography: '{best_match.get('title')}' (score: {best_score})")
+                    return best_match
+                else:
+                    print(f"  ❌ No matching movie found in director's filmography")
+                    return None
+                    
+        except Exception as e:
+            print(f"  ❌ Error searching director's filmography: {e}")
+            
+        return None
+    
+    def _find_best_match_by_director(self, results: List[Dict[str, Any]], director: str) -> Optional[Dict[str, Any]]:
+        """Find the best movie match based on director information.
+        
+        Args:
+            results: List of TMDb search results
+            director: Director name to match against
+            
+        Returns:
+            Best matching movie or None
+        """
+        if not director:
+            return None
+            
+        director_lower = director.lower().strip()
+        
+        for movie in results:
+            movie_id = movie.get('id')
+            if not movie_id:
+                continue
+                
+            try:
+                # Get movie credits to check director
+                with httpx.Client() as client:
+                    credits_response = client.get(
+                        f"{self.base_url}/movie/{movie_id}/credits",
+                        params={"api_key": self.api_key},
+                        timeout=10.0
+                    )
+                    credits_response.raise_for_status()
+                    credits_data = credits_response.json()
+                    
+                    # Check if any director matches
+                    crew = credits_data.get('crew', [])
+                    for person in crew:
+                        if person.get('job') == 'Director':
+                            tmdb_director = person.get('name', '').lower().strip()
+                            
+                            # Check for exact match or partial match
+                            if (director_lower in tmdb_director or 
+                                tmdb_director in director_lower or
+                                director_lower.split()[-1] in tmdb_director):  # Last name match
+                                print(f"  ✅ Matched director: '{director}' ≈ '{person.get('name')}'")
+                                return movie
+                                
+            except Exception as e:
+                print(f"  ⚠️  Error checking director for movie ID {movie_id}: {e}")
+                continue
+        
+        print(f"  ⚠️  No director match found for '{director}', using first result")
         return None
     
     def get_tmdb_movie_details(self, movie_id: int) -> Optional[Dict[str, Any]]:
@@ -153,10 +431,14 @@ class TMDbEnricher:
                 print(f"  ⚠️  No title found, skipping TMDb enrichment")
                 return film
                 
-            print(f"  🎬 Searching TMDb for: {self.clean_title_for_search(title)}")
+            director = film.get('director', '')
+            clean_title = self.clean_title_for_search(title)
             
-            # Search for the movie
-            search_result = self.search_tmdb_movie(self.clean_title_for_search(title))
+            # Try to extract year from title or other fields
+            year = self._extract_year_from_film(film)
+            
+            # Search for the movie, including director and year if available
+            search_result = self.search_tmdb_movie(clean_title, director, year)
             
             if not search_result:
                 print(f"  🔍 No TMDb results found for: {self.clean_title_for_search(title)}")

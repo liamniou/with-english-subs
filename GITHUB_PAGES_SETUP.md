@@ -16,8 +16,9 @@ This repository includes GitHub Actions workflows to automatically scrape film d
 - Wait a few minutes after the first workflow run
 - The `index.html` file exists in your repository root
 
-### 2. Configure TMDB API Key (Optional)
+### 2. Configure API Keys (Optional)
 
+#### TMDB API Key
 To enable TMDB data enrichment (movie posters, ratings, etc.):
 
 1. Go to [TMDB](https://www.themoviedb.org/) and create an account
@@ -27,6 +28,15 @@ To enable TMDB data enrichment (movie posters, ratings, etc.):
    - Name: `TMDB_API_KEY`
    - Value: Your TMDB API key
 
+#### Gemini API Key (for Translation)
+To enable automatic translation of film metadata:
+
+1. Go to [Google AI Studio](https://aistudio.google.com/) and get a Gemini API key
+2. In your GitHub repository, go to Settings → Secrets and variables → Actions
+3. Add a new repository secret:
+   - Name: `GEMINI_API_KEY`
+   - Value: Your Gemini API key
+
 ### 3. Workflows Available
 
 #### Full Scraping Pipeline (`scrape-and-deploy.yml`)
@@ -35,9 +45,12 @@ To enable TMDB data enrichment (movie posters, ratings, etc.):
   - Manual trigger via Actions tab
   - Push to main branch (scraper/template changes)
 - **What it does:**
-  - Runs all cinema scrapers (Cinemateket, Bio Rio, Fågel Blå, Zita)
-  - Enriches data with TMDB information
+  - Runs the full pipeline shell script (`scripts/run_full_pipeline.sh`)
+  - Executes all cinema scrapers (Cinemateket, Bio Rio, Fågel Blå, Zita)
+  - Enriches data with TMDB information (if `TMDB_API_KEY` provided)
+  - Translates film metadata (if `GEMINI_API_KEY` provided)
   - Generates static HTML site
+  - Commits updated data back to repository
   - Deploys to GitHub Pages
 
 #### Quick Deploy (`deploy-only.yml`)

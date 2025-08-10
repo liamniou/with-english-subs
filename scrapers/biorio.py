@@ -275,6 +275,20 @@ class BioRio:
             if url_parts:
                 title = url_parts[-1].replace('-', ' ').title()
         
+        # Extract director information
+        director = ""
+        director_selectors = [
+            '#w-node-_66399d6d-b16a-02f9-8476-bf3230235a79-f47a8a01',
+            '.director',
+            '.movie-director'
+        ]
+        
+        for selector in director_selectors:
+            director_elements = tree.css(selector)
+            if director_elements:
+                director = director_elements[0].text().strip()
+                break
+        
         # Extract cinema ID and fetch showtimes via API
         print(f"  🔍 Looking for cinema ID and fetching showtimes via API...")
         all_showtimes = []
@@ -327,7 +341,7 @@ class BioRio:
                 if cinema_text and cinema_text not in cinemas:
                     cinemas.append(cinema_text)
         
-        return title, all_showtimes, cinemas
+        return title, director, all_showtimes, cinemas
     
     def get_film_data(self, film_url):
         """Get comprehensive film data from individual film page."""
@@ -347,10 +361,13 @@ class BioRio:
             print(f"  ❌ Film excluded due to missing showtimes or data")
             return None
         
-        title, showtimes, cinemas = extraction_result
+        title, director, showtimes, cinemas = extraction_result
         
         if title:
             print(f"  📝 Title: {title}")
+        
+        if director:
+            print(f"  🎭 Director: {director}")
         
         if showtimes:
             print(f"  🗓️  Showtimes: {len(showtimes)} found")
@@ -371,6 +388,7 @@ class BioRio:
             'film_id': film_id,
             'url': film_url,
             'title': title,
+            'director': director,
             'showtimes': showtimes,
             'cinemas': cinemas,
             'scraped_at': datetime.now().isoformat(),

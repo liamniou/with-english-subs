@@ -96,7 +96,19 @@ class Cinemateket:
             if cinema_text:
                 cinemas.append(cinema_text)
         
-        return description, showtimes, cinemas
+        # Extract director information
+        director = ""
+        director_elements = tree.css('a.article-tickets__meta-item.margin-lg-b-1 > span')
+        for director_elem in director_elements:
+            director_text = director_elem.text().strip()
+            if director_text and ',' in director_text:
+                # Director name comes after comma (e.g., "Taxi Driver, Martin Scorsese")
+                parts = director_text.split(',')
+                if len(parts) > 1:
+                    director = parts[-1].strip()
+                    break
+        
+        return description, showtimes, cinemas, director
 
     def get_film_data(self, film_url):
         """Get comprehensive film data from individual film page."""
@@ -109,10 +121,13 @@ class Cinemateket:
             return None
         
         # Extract details
-        title, showtimes, cinemas = self.extract_film_details(film_content)
+        title, showtimes, cinemas, director = self.extract_film_details(film_content)
         
         if title:
             print(f"  📝 Title: {title}")
+        
+        if director:
+            print(f"  🎭 Director: {director}")
         
         if showtimes:
             print(f"  🗓️  Showtimes: {len(showtimes)} found")
@@ -133,8 +148,8 @@ class Cinemateket:
         film_data = {
             'film_id': film_id,
             'url': film_url,
-            'original_details': film_content,
             'title': title,
+            'director': director,
             'showtimes': showtimes,
             'cinemas': cinemas,
             'scraped_at': datetime.now().isoformat()

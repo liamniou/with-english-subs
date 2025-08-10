@@ -23,7 +23,7 @@ import json
 import os
 from datetime import datetime, timezone
 from selectolax.parser import HTMLParser
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, parse_qs
 
 
 class FagelBla:
@@ -107,13 +107,97 @@ class FagelBla:
                     if not director:
                         director = span_text
 
-            # Extract ticket URL
+            # Extract ticket URL and showtime ID
             ticket_link = article_element.css_first('a.anchor-link')
             ticket_url = ""
+            showtime_id = ""
+            
             if ticket_link:
                 href = ticket_link.attributes.get('href', '')
                 if href:
                     ticket_url = urljoin(self.domain, href)
+            
+            # Look for showtime ID in various possible locations
+            # Debug: Print all attributes to help identify showtime ID patterns
+            print(f"  🔍 Article attributes: {article_element.attributes}")
+            if time_element:
+                print(f"  🔍 Time element attributes: {time_element.attributes}")
+            if ticket_link:
+                print(f"  🔍 Ticket link attributes: {ticket_link.attributes}")
+            
+            # Check for data attributes that might contain showtime ID
+            showtime_id_sources = [
+                article_element.attributes.get('data-showtime-id'),
+                article_element.attributes.get('data-showtime'),
+                article_element.attributes.get('data-id'),
+                article_element.attributes.get('id'),
+            ]
+            
+            # Also check time element for showtime ID
+            if time_element:
+                showtime_id_sources.extend([
+                    time_element.attributes.get('data-showtime-id'),
+                    time_element.attributes.get('data-showtime'),
+                    time_element.attributes.get('data-id'),
+                    time_element.attributes.get('id'),
+                ])
+            
+            # Also check the ticket link for showtime ID
+            if ticket_link:
+                showtime_id_sources.extend([
+                    ticket_link.attributes.get('data-showtime-id'),
+                    ticket_link.attributes.get('data-showtime'),
+                    ticket_link.attributes.get('data-id'),
+                    ticket_link.attributes.get('id'),
+                ])
+                
+                # Also check if the href itself contains showtime info
+                href = ticket_link.attributes.get('href', '')
+                if '?showtime=' in href or '&showtime=' in href:
+                    # Extract showtime ID from URL
+                    parsed_url = urlparse(href)
+                    query_params = parse_qs(parsed_url.query)
+                    if 'showtime' in query_params:
+                        showtime_id_sources.append(query_params['showtime'][0])
+                        print(f"  🎯 Found showtime in URL: {query_params['showtime'][0]}")
+                        
+            # Look for showtime ID in any script tags or form inputs
+            script_tags = article_element.css('script')
+            for script in script_tags:
+                script_content = script.text() if script.text() else ""
+                if 'showtime' in script_content.lower():
+                    print(f"  📜 Script content with showtime: {script_content[:200]}...")
+                    
+            # Look for hidden inputs that might contain showtime ID
+            inputs = article_element.css('input[type="hidden"]')
+            for inp in inputs:
+                inp_name = inp.attributes.get('name', '').lower()
+                inp_value = inp.attributes.get('value', '')
+                if 'showtime' in inp_name or 'id' in inp_name:
+                    showtime_id_sources.append(inp_value)
+                    print(f"  📝 Hidden input {inp_name}: {inp_value}")
+            
+            # Find the first non-empty showtime ID
+            for sid in showtime_id_sources:
+                if sid and sid.strip():
+                    showtime_id = sid.strip()
+                    break
+            
+            # Construct showtime-specific URL if we have the necessary components
+            if ticket_url and showtime_id:
+                # Parse the ticket URL to get the movie path
+                parsed_url = urlparse(ticket_url)
+                if parsed_url.path and not parsed_url.query:
+                    # Construct the showtime URL: movie_url?showtime=ID
+                    ticket_url = f"{ticket_url}?showtime={showtime_id}"
+                    print(f"  🎫 Showtime URL: {ticket_url}")
+                elif showtime_id:
+                    print(f"  🆔 Found showtime ID: {showtime_id}")
+            elif showtime_id:
+                print(f"  🆔 Found showtime ID: {showtime_id} (no base URL)")
+            
+            if ticket_url:
+                print(f"  🔗 Ticket URL: {ticket_url}")
 
             # Create showtime data
             showtimes = []
@@ -124,7 +208,8 @@ class FagelBla:
                     'display_text': f"{current_date_section} {showtime_text}",
                     'time': showtime_text,
                     'date_section': current_date_section,
-                    'ticket_url': ticket_url
+                    'ticket_url': ticket_url,
+                    'showtime_id': showtime_id
                 }
                 showtimes.append(showtime_data)
             elif showtime_text:
@@ -134,7 +219,8 @@ class FagelBla:
                     'display_text': f"{current_date_section} {showtime_text}",
                     'time': showtime_text,
                     'date_section': current_date_section,
-                    'ticket_url': ticket_url
+                    'ticket_url': ticket_url,
+                    'showtime_id': showtime_id
                 }
                 showtimes.append(showtime_data)
 
