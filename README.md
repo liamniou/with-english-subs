@@ -51,8 +51,6 @@ python scrapers/cinemateket.py
 
 The scraper generates three files:
 - `films_with_english_subs.json` - Complete data in JSON format
-- `films_with_english_subs_summary.txt` - Detailed human-readable format
-- `films_with_english_subs_list.txt` - Simple list format
 
 ## How it works
 

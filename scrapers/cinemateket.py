@@ -244,40 +244,9 @@ STATISTICS:
 
 NOTE: Use tmdb_enricher.py to add TMDb data to the JSON file
 """
-        
-        # Save summary file
-        summary_filename = "./films_with_english_subs_summary.txt"
-        with open(summary_filename, 'w', encoding='utf-8') as f:
-            f.write(summary_content)
-        
-        # Save simple list file
-        list_content = f"""FILMS WITH ENGLISH SUBTITLES - LIST
-{'='*40}
-Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
-
-"""
-        
-        for i, film in enumerate(films, 1):
-            title = film.get('title', 'No title')
-            film_id = film.get('film_id', 'Unknown ID')
-            showtimes_count = len(film.get('showtimes', []))
-            cinemas = ', '.join(film.get('cinemas', []))
-            
-            list_content += f"{i}. {title}\n"
-            list_content += f"   ID: {film_id}\n"
-            list_content += f"   Showtimes: {showtimes_count}\n"
-            if cinemas:
-                list_content += f"   Cinemas: {cinemas}\n"
-            list_content += f"   URL: {film.get('url', 'No URL')}\n\n"
-        
-        list_filename = "./films_with_english_subs_list.txt"
-        with open(list_filename, 'w', encoding='utf-8') as f:
-            f.write(list_content)
-        
+                        
         print(f"💾 Results saved to:")
         print(f"   - {json_filename}")
-        print(f"   - {summary_filename}")
-        print(f"   - {list_filename}")
         
         print(f"📈 STATISTICS:")
         print(f"   • Films with titles: {films_with_titles}/{len(films)}")

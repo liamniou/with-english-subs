@@ -1,5 +1,47 @@
 [
   {
+    "film_id": "persona",
+    "url": "https://zita.se/persona",
+    "title": "Persona",
+    "director": "",
+    "genre": "Sverige196618 okt 196685 minDramaFrån 15 årSvenskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "i morgon 17:00",
+        "time": "17:00",
+        "date": "i morgon",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3116"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-08-11T10:10:20.679903+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 797,
+      "title": "Persona",
+      "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
+      "release_date": "1966-10-18",
+      "rating": 8.149,
+      "vote_count": 2285,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
+      "backdrop_path": "/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
+      "imdb_id": "tt0060827",
+      "runtime": 84,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
     "film_id": "to-a-land-unknown",
     "url": "https://zita.se/to-a-land-unknown",
     "title": "To a Land Unknown",
@@ -8,46 +50,34 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2025-08-12T15:00:00",
-        "display_text": "Tue 12 Aug 3 PM",
-        "time": "15:00",
-        "date": "tis 12 aug",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
-        "original_display_text": "tis 12 aug 15:00"
-      },
-      {
-        "datetime": "2025-08-12T15:15:00",
-        "display_text": "Tue 12 Aug 3:15 PM",
+        "datetime": "",
+        "display_text": "i morgon 15:15",
         "time": "15:15",
-        "date": "tis 12 aug",
+        "date": "i morgon",
         "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
-        "original_display_text": "tis 12 aug 15:15"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
       },
       {
         "datetime": "2025-08-13T18:00:00",
-        "display_text": "Wed 13 Aug 6 PM",
+        "display_text": "ons 13 aug 18:00",
         "time": "18:00",
         "date": "ons 13 aug",
         "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
-        "original_display_text": "ons 13 aug 18:00"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
       },
       {
         "datetime": "2025-08-14T15:15:00",
-        "display_text": "Thu 14 Aug 3:15 PM",
+        "display_text": "tors 14 aug 15:15",
         "time": "15:15",
         "date": "tors 14 aug",
         "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
-        "original_display_text": "tors 14 aug 15:15"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-08-10T10:47:08.956132+00:00",
+    "scraped_at": "2025-08-11T10:10:22.137965+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1214052,
@@ -61,8 +91,8 @@
         "Thriller",
         "Crime"
       ],
-      "poster_path": "/4CJmere0yJDpEUjDkHjFwdi3gtU.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4CJmere0yJDpEUjDkHjFwdi3gtU.jpg",
+      "poster_path": "/zEbBuROOI0gnehyITqHe00EwKcJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zEbBuROOI0gnehyITqHe00EwKcJ.jpg",
       "backdrop_path": "/vd500AWRxcBbKPcvzBHRN77sOcS.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/vd500AWRxcBbKPcvzBHRN77sOcS.jpg",
       "imdb_id": "tt22023622",
