@@ -81,7 +81,7 @@ Return only the {self.target_language} translations in the same numbered format 
                 }
             }
             
-            with httpx.Client(timeout=30.0) as client:
+            with httpx.Client(timeout=60.0) as client:  # Increased timeout
                 response = client.post(api_url, headers=headers, json=payload)
                 response.raise_for_status()
                 
@@ -165,7 +165,7 @@ Return only the {self.target_language} translation without any explanation or qu
                 }
             }
             
-            with httpx.Client(timeout=15.0) as client:
+            with httpx.Client(timeout=30.0) as client:  # Increased timeout
                 response = client.post(api_url, headers=headers, json=payload)
                 response.raise_for_status()
                 
@@ -349,10 +349,10 @@ Return only the {self.target_language} translation without any explanation or qu
             batch_translations = self.translate_batch(batch)
             all_translations.extend(batch_translations)
             
-            # Small delay between batches
+            # Small delay between batches to avoid rate limiting
             if i + batch_size < len(texts_to_translate):
                 import time
-                time.sleep(1)
+                time.sleep(2)  # Increased delay to 2 seconds
         
         # Apply translations back to the data
         print(f"📝 Applying translations to data...")
@@ -443,6 +443,13 @@ Usage examples:
         
     except Exception as e:
         print(f"❌ Error: {e}")
+        print(f"💡 This could be due to:")
+        print(f"   - Network connectivity issues")
+        print(f"   - API rate limiting")
+        print(f"   - Invalid API key")
+        print(f"   - Malformed JSON data")
+        print(f"   - API service temporarily unavailable")
+        print(f"🔄 The pipeline will continue with the next scraper...")
         sys.exit(1)
 
 

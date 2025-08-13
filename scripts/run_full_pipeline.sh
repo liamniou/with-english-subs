@@ -121,15 +121,18 @@ run_scraper() {
     
     log_step "Running $scraper_name scraper..."
     
-    # Run the scraper
+    # Temporarily disable exit on error for scraper execution
+    set +e
     python3 "$scraper_path"
+    local scraper_exit_code=$?
+    set -e  # Re-enable exit on error
     
-    if [[ $? -eq 0 ]] && [[ -f "$output_file" ]]; then
+    if [[ $scraper_exit_code -eq 0 ]] && [[ -f "$output_file" ]]; then
         local film_count=$(python3 -c "import json; data=json.load(open('$output_file')); print(len(data))" 2>/dev/null || echo "0")
         log_success "$scraper_name scraper completed - Found $film_count films"
         return 0
     else
-        log_error "$scraper_name scraper failed"
+        log_error "$scraper_name scraper failed (exit code: $scraper_exit_code)"
         return 1
     fi
 }
@@ -150,13 +153,18 @@ enrich_with_tmdb() {
     
     log_step "Enriching $scraper_name data with TMDB..."
     
-            python3 scripts/tmdb_enricher.py "$json_file" --api-key "$TMDB_API_KEY"
+    # Temporarily disable exit on error for TMDB enrichment step
+    set +e
+    python3 scripts/tmdb_enricher.py "$json_file" --api-key "$TMDB_API_KEY"
+    local tmdb_exit_code=$?
+    set -e  # Re-enable exit on error
     
-    if [[ $? -eq 0 ]]; then
+    if [[ $tmdb_exit_code -eq 0 ]]; then
         log_success "TMDB enrichment completed for $scraper_name"
         return 0
     else
-        log_error "TMDB enrichment failed for $scraper_name"
+        log_error "TMDB enrichment failed for $scraper_name (exit code: $tmdb_exit_code)"
+        log_warning "Continuing with next step..."
         return 1
     fi
 }
@@ -177,12 +185,16 @@ translate_json_fields() {
     
     log_step "Translating $scraper_name JSON fields..."
     
+    # Temporarily disable exit on error for translation step
+    set +e
     python3 scripts/translate_json_fields.py "$json_file" \
         --fields "$FIELDS_TO_TRANSLATE" \
         --api-key "$GEMINI_API_KEY" \
         --batch-size "$BATCH_SIZE"
+    local translation_exit_code=$?
+    set -e  # Re-enable exit on error
     
-    if [[ $? -eq 0 ]]; then
+    if [[ $translation_exit_code -eq 0 ]]; then
         # Replace original file with translated version
         local translated_file="${json_file%%.json}_translated.json"
         if [[ -f "$translated_file" ]]; then
@@ -194,7 +206,8 @@ translate_json_fields() {
         fi
         return 0
     else
-        log_error "Translation failed for $scraper_name"
+        log_error "Translation failed for $scraper_name (exit code: $translation_exit_code)"
+        log_warning "Continuing with next scraper..."
         return 1
     fi
 }
