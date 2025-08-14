@@ -12,7 +12,7 @@
 #   4. Generate static HTML with all data
 # =============================================================================
 
-set -e  # Exit on any error
+# set -e  # Exit on any error
 
 # Load environment variables from .env file if it exists
 if [ -f .env ]; then
@@ -125,7 +125,7 @@ run_scraper() {
     set +e
     python3 "$scraper_path"
     local scraper_exit_code=$?
-    set -e  # Re-enable exit on error
+    # set -e  # Re-enable exit on error
     
     if [[ $scraper_exit_code -eq 0 ]] && [[ -f "$output_file" ]]; then
         local film_count=$(python3 -c "import json; data=json.load(open('$output_file')); print(len(data))" 2>/dev/null || echo "0")
@@ -157,7 +157,7 @@ enrich_with_tmdb() {
     set +e
     python3 scripts/tmdb_enricher.py "$json_file" --api-key "$TMDB_API_KEY"
     local tmdb_exit_code=$?
-    set -e  # Re-enable exit on error
+    # set -e  # Re-enable exit on error
     
     if [[ $tmdb_exit_code -eq 0 ]]; then
         log_success "TMDB enrichment completed for $scraper_name"
@@ -192,7 +192,7 @@ translate_json_fields() {
         --api-key "$GEMINI_API_KEY" \
         --batch-size "$BATCH_SIZE"
     local translation_exit_code=$?
-    set -e  # Re-enable exit on error
+    # set -e  # Re-enable exit on error
     
     if [[ $translation_exit_code -eq 0 ]]; then
         # Replace original file with translated version
