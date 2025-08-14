@@ -1,47 +1,5 @@
 [
   {
-    "film_id": "persona",
-    "url": "https://zita.se/persona",
-    "title": "Persona",
-    "director": "",
-    "genre": "Sverige196618 okt 196685 minDramaFrån 15 årSvenskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "i morgon 17:00",
-        "time": "17:00",
-        "date": "i morgon",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3116"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2025-08-11T10:10:20.679903+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 797,
-      "title": "Persona",
-      "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
-      "release_date": "1966-10-18",
-      "rating": 8.149,
-      "vote_count": 2285,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
-      "backdrop_path": "/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
-      "imdb_id": "tt0060827",
-      "runtime": 84,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "to-a-land-unknown",
     "url": "https://zita.se/to-a-land-unknown",
     "title": "To a Land Unknown",
@@ -51,33 +9,54 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "i morgon 15:15",
+        "display_text": "tomorrow 15:15",
         "time": "15:15",
         "date": "i morgon",
         "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
+        "original_display_text": "i morgon 15:15"
       },
       {
-        "datetime": "2025-08-13T18:00:00",
-        "display_text": "ons 13 aug 18:00",
+        "datetime": "2025-08-16T18:00:00",
+        "display_text": "Sat 16 Aug 18:00",
         "time": "18:00",
-        "date": "ons 13 aug",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
+        "date": "lör 16 aug",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
+        "original_display_text": "lör 16 aug 18:00"
       },
       {
-        "datetime": "2025-08-14T15:15:00",
-        "display_text": "tors 14 aug 15:15",
-        "time": "15:15",
-        "date": "tors 14 aug",
+        "datetime": "2025-08-17T18:00:00",
+        "display_text": "Sun 17 Aug 18:00",
+        "time": "18:00",
+        "date": "sön 17 aug",
         "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
+        "original_display_text": "sön 17 aug 18:00"
+      },
+      {
+        "datetime": "2025-08-19T20:15:00",
+        "display_text": "Tue 19 Aug 20:15",
+        "time": "20:15",
+        "date": "tis 19 aug",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
+        "original_display_text": "tis 19 aug 20:15"
+      },
+      {
+        "datetime": "2025-08-21T20:15:00",
+        "display_text": "Thu 21 Aug 20:15",
+        "time": "20:15",
+        "date": "tors 21 aug",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
+        "original_display_text": "tors 21 aug 20:15"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-08-11T10:10:22.137965+00:00",
+    "scraped_at": "2025-08-14T11:16:16.108393+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1214052,
