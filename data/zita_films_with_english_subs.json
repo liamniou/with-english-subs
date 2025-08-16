@@ -9,57 +9,44 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "i morgon 15:15",
-        "time": "15:15",
-        "date": "i morgon",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
-      },
-      {
-        "datetime": "",
-        "display_text": "i morgon 18:00",
+        "display_text": "tomorrow 18:00",
         "time": "18:00",
         "date": "i morgon",
         "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
-      },
-      {
-        "datetime": "2025-08-17T18:00:00",
-        "display_text": "sön 17 aug 18:00",
-        "time": "18:00",
-        "date": "sön 17 aug",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
+        "original_display_text": "i morgon 18:00"
       },
       {
         "datetime": "2025-08-19T20:15:00",
-        "display_text": "tis 19 aug 20:15",
+        "display_text": "Tue 19 Aug 20:15",
         "time": "20:15",
         "date": "tis 19 aug",
         "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
+        "original_display_text": "tis 19 aug 20:15"
       },
       {
         "datetime": "2025-08-21T20:15:00",
-        "display_text": "tors 21 aug 20:15",
+        "display_text": "Thu 21 Aug 20:15",
         "time": "20:15",
         "date": "tors 21 aug",
         "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
+        "original_display_text": "tors 21 aug 20:15"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-08-15T06:31:43.766810+00:00",
+    "scraped_at": "2025-08-16T06:28:14.739914+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1214052,
       "title": "To a Land Unknown",
       "overview": "Cousins Chatila and Reda are saving to pay for fake passports to get out of Athens. When Reda loses their hard-earned cash to his drug addiction, Chatila hatches an extreme plan to pose as smugglers in an attempt to get them out of their desperate situation before it is too late.",
       "release_date": "2025-02-14",
-      "rating": 7.429,
-      "vote_count": 7,
+      "rating": 7.5,
+      "vote_count": 6,
       "genres": [
         "Drama",
         "Thriller",
