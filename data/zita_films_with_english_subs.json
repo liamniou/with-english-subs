@@ -8,37 +8,29 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2025-08-19T18:00:00",
-        "display_text": "Tue 19 Aug 6:00 PM",
-        "time": "18:00",
-        "date": "tis 19 aug",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
-        "original_display_text": "tis 19 aug 18:00"
-      },
-      {
-        "datetime": "2025-08-19T20:15:00",
-        "display_text": "Tue 19 Aug 8:15 PM",
+        "datetime": "",
+        "display_text": "tomorrow 8:15 PM",
         "time": "20:15",
-        "date": "tis 19 aug",
+        "date": "i morgon",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
-        "original_display_text": "tis 19 aug 20:15"
+        "original_display_text": "i morgon 20:15"
       },
       {
-        "datetime": "2025-08-21T20:15:00",
+        "datetime": "2025-08-21T8:15:00",
         "display_text": "Thu 21 Aug 8:15 PM",
         "time": "20:15",
         "date": "tors 21 aug",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
-        "original_display_text": "tors 21 aug 20:15"
+        "original_display_text": "tors 21 aug 20:15",
+        "original_datetime": "2025-08-21T20:15:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-08-17T06:22:15.929037+00:00",
+    "scraped_at": "2025-08-18T06:33:57.499032+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1214052,

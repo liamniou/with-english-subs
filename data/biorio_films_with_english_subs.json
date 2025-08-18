@@ -67,7 +67,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-17T06:20:27.674198",
+    "scraped_at": "2025-08-18T06:24:49.943016",
     "source": "biorio",
     "tmdb": {
       "id": 11830,
@@ -221,83 +221,20 @@
           "isPublished": true
         },
         "original_display_text": "Saturday August 30, 2025 at 08:30"
-      },
-      {
-        "datetime": "2025-08-17T10:45:00.000Z",
-        "display_text": "Sunday August 17, 2025 at 10:45 AM",
-        "movie_id": "5495",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/782",
-        "api_data": {
-          "id": 782,
-          "movieId": 5495,
-          "movieVersionId": 208,
-          "startTime": "2025-08-17T10:45:00.000Z",
-          "endTime": "2025-08-17T12:49:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": "Engelska",
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "created_at": "2025-08-04T20:40:08.880Z",
-          "movie": {
-            "id": 5495,
-            "title": "Akira",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5495/posters/1748250084538-453oe.jpg",
-            "movieVersions": [
-              {
-                "duration": 124,
-                "audio": "Japanska",
-                "subtitles": "Svenska"
-              },
-              {
-                "duration": 124,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 208,
-            "duration": 124,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [
-            "reRUN"
-          ],
-          "isPublished": true
-        },
-        "original_display_text": "Sunday August 17, 2025 at 10:45"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-17T06:21:05.156511",
+    "scraped_at": "2025-08-18T06:26:21.737618",
     "source": "biorio",
     "tmdb": {
       "id": 149,
       "title": "Akira",
       "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
       "release_date": "1988-06-10",
-      "rating": 7.9,
-      "vote_count": 4475,
+      "rating": 7.94,
+      "vote_count": 4476,
       "genres": [
         "Animation",
         "Science Fiction",
