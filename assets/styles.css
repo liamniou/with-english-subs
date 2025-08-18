@@ -445,26 +445,31 @@ body {
 .showtime {
     background: #f7fafc;
     border: 1px solid #e2e8f0;
-    padding: 0.5rem;
+    padding: 0.375rem 0.5rem;
     border-radius: 0.375rem;
-    margin-bottom: 0.375rem;
     font-size: 0.8rem;
     display: flex;
     flex-direction: column;
     gap: 0.125rem;
+    min-width: 0; /* Allow content to shrink */
 }
 
 .showtime-time {
     font-weight: 600;
     color: #3182ce;
     font-size: 0.875rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .cinema-name {
     font-weight: 400;
     font-style: normal;
-    font-size: 0.75rem;
+    font-size: 0.7rem;
     color: #6b7280;
+    margin-left: 0.25rem;
+    white-space: nowrap;
 }
 
 
@@ -647,6 +652,33 @@ body {
         border-left: none;
         border-right: none;
     }
+    
+    /* Mobile adjustments for calendar button and showtimes */
+    .showtime-container {
+        gap: 0.375rem;
+    }
+    
+    .calendar-button {
+        width: 2rem;
+        height: 2rem;
+        font-size: 0.7rem;
+    }
+    
+    .calendar-button i {
+        font-size: 0.7rem;
+    }
+    
+    .showtime {
+        padding: 0.25rem 0.375rem;
+    }
+    
+    .showtime-time {
+        font-size: 0.8rem;
+    }
+    
+    .cinema-name {
+        font-size: 0.65rem;
+    }
 }
 
 /* Animation for film cards appearing */
@@ -746,12 +778,21 @@ body {
 }
 
 /* Clickable Showtimes */
+.showtime-container {
+    display: flex;
+    align-items: stretch;
+    gap: 0.5rem;
+    margin-bottom: 0.375rem;
+}
+
 .showtime-link {
     text-decoration: none;
     color: inherit;
     display: block;
     border-radius: 8px;
     transition: all 0.2s ease;
+    flex: 1;
+    min-width: 0; /* Allow flex item to shrink below its content size */
 }
 
 .showtime-link:hover {
@@ -783,6 +824,37 @@ body {
 
 .showtime-link:hover .showtime-arrow {
     opacity: 1;
+}
+
+/* Calendar Button */
+.calendar-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.275rem;
+    height: 2.275rem;
+    background: #3182ce;
+    color: white;
+    border-radius: 0.375rem;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    font-size: 0.75rem;
+    flex-shrink: 0;
+}
+
+.calendar-button:hover {
+    background: #2c5aa0;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(49, 130, 206, 0.3);
+    color: white;
+}
+
+.calendar-button:active {
+    transform: translateY(0);
+}
+
+.calendar-button i {
+    font-size: 0.75rem;
 }
 
 /* Loading spinner animation */

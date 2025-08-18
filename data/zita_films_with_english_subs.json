@@ -14,7 +14,10 @@
         "date": "i morgon",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
-        "original_display_text": "i morgon 20:15"
+        "original_display_text": "i morgon 20:15",
+        "normalized_datetime": "2025-08-19T20:15:00",
+        "normalized_date": "19.08",
+        "normalized_time": "20:15"
       },
       {
         "datetime": "2025-08-21T8:15:00",
@@ -24,13 +27,16 @@
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
         "original_display_text": "tors 21 aug 20:15",
-        "original_datetime": "2025-08-21T20:15:00"
+        "original_datetime": "2025-08-21T20:15:00",
+        "normalized_datetime": "2025-08-21T08:15:00",
+        "normalized_date": "21.08",
+        "normalized_time": "08:15"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-08-18T06:33:57.499032+00:00",
+    "scraped_at": "2025-08-18T17:06:04.645958+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1214052,

@@ -239,6 +239,28 @@ process_scraper() {
     return 0
 }
 
+normalize_datetime_data() {
+    log_header "NORMALIZING DATETIME DATA"
+    
+    log_step "Running datetime normalization..."
+    
+    # Check if normalization script exists
+    if [[ ! -f "scripts/normalize_datetime.sh" ]]; then
+        log_warning "DateTime normalization script not found - skipping normalization"
+        return 0
+    fi
+    
+    # Run datetime normalization
+    if scripts/normalize_datetime.sh; then
+        log_success "DateTime normalization completed"
+        return 0
+    else
+        log_error "DateTime normalization failed"
+        log_warning "Continuing with next step..."
+        return 1
+    fi
+}
+
 generate_static_site() {
     log_header "GENERATING STATIC WEBSITE"
     
@@ -284,16 +306,6 @@ for source in sources:
         log_error "Static site generation failed"
         return 1
     fi
-}
-
-cleanup_backup_files() {
-    log_step "Cleaning up backup files..."
-    
-    # Remove any backup files created during the process
-    find . -name "*.json.backup*" -delete 2>/dev/null || true
-    # Note: *_translated.json files are now moved to replace original files
-    
-    log_success "Cleanup completed"
 }
 
 tmdb_only_mode() {
@@ -405,12 +417,15 @@ main() {
     
     log_success "Processed $processed_count scrapers successfully"
     
+    # Normalize datetime data
+    normalize_datetime_data
+    
     # Generate final static site
     if ! generate_static_site; then
         exit 1
     fi
     
-    cleanup_backup_files
+    rm -rf data/backups/
     show_results
 }
 

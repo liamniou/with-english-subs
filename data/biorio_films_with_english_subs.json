@@ -1,5 +1,99 @@
 [
   {
+    "film_id": "demon-slayer-kimetsu-no-yaiba-infinity-castle",
+    "url": "https://www.biorio.se/movies/demon-slayer-kimetsu-no-yaiba-infinity-castle",
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "director": "Haruo Sotozaki",
+    "showtimes": [
+      {
+        "datetime": "2025-09-12T18:30:00.000Z",
+        "display_text": "Friday September 12, 2025 at 6:30 PM",
+        "movie_id": "5612",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/852",
+        "api_data": {
+          "id": 852,
+          "movieId": 5612,
+          "movieVersionId": 294,
+          "startTime": "2025-09-12T18:30:00.000Z",
+          "endTime": "2025-09-12T21:05:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "created_at": "2025-08-18T07:49:03.589Z",
+          "movie": {
+            "id": 5612,
+            "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5612/posters/1755503286788-bi4oel.jpg",
+            "movieVersions": [
+              {
+                "duration": 155,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 294,
+            "duration": 155,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "isPublished": true
+        },
+        "original_display_text": "Friday September 12, 2025 at 18:30",
+        "normalized_datetime": "2025-09-12T18:30:00",
+        "normalized_date": "12.09",
+        "normalized_time": "18:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2025-08-18T19:00:20.144978",
+    "source": "biorio",
+    "tmdb": {
+      "id": 1311031,
+      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+      "release_date": "2025-07-18",
+      "rating": 7.2,
+      "vote_count": 77,
+      "genres": [
+        "Animation",
+        "Action",
+        "Fantasy",
+        "Thriller"
+      ],
+      "poster_path": "/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg",
+      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "imdb_id": "tt32820897",
+      "runtime": 155,
+      "budget": 68000000,
+      "revenue": 175000000
+    }
+  },
+  {
     "film_id": "tampopo",
     "url": "https://www.biorio.se/movies/tampopo",
     "title": "Tampopo",
@@ -61,13 +155,16 @@
           ],
           "isPublished": true
         },
-        "original_display_text": "Saturday September 13, 2025 at 18:30"
+        "original_display_text": "Saturday September 13, 2025 at 18:30",
+        "normalized_datetime": "2025-09-13T18:30:00",
+        "normalized_date": "13.09",
+        "normalized_time": "18:30"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-18T06:24:49.943016",
+    "scraped_at": "2025-08-18T19:00:44.774424",
     "source": "biorio",
     "tmdb": {
       "id": 11830,
@@ -97,7 +194,7 @@
     "showtimes": [
       {
         "datetime": "2025-09-08T16:00:00.000Z",
-        "display_text": "Monday September 08, 2025 at 4:00 PM",
+        "display_text": "Monday September 8, 2025 at 4:00 PM",
         "movie_id": "5495",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/828",
@@ -156,7 +253,10 @@
           ],
           "isPublished": true
         },
-        "original_display_text": "Monday September 08, 2025 at 16:00"
+        "original_display_text": "Monday September 08, 2025 at 16:00",
+        "normalized_datetime": "2025-09-08T16:00:00",
+        "normalized_date": "08.09",
+        "normalized_time": "16:00"
       },
       {
         "datetime": "2025-08-30T08:30:00.000Z",
@@ -220,13 +320,16 @@
           ],
           "isPublished": true
         },
-        "original_display_text": "Saturday August 30, 2025 at 08:30"
+        "original_display_text": "Saturday August 30, 2025 at 08:30",
+        "normalized_datetime": "2025-08-30T08:30:00",
+        "normalized_date": "30.08",
+        "normalized_time": "08:30"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-18T06:26:21.737618",
+    "scraped_at": "2025-08-18T19:01:49.945725",
     "source": "biorio",
     "tmdb": {
       "id": 149,

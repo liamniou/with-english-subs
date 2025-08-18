@@ -4,48 +4,27 @@ let filteredFilms = [];
 let cinemas = new Set();
 let genres = new Set();
 
-// DateTime parsing and formatting utilities
+// Simplified DateTime parsing using normalized data
 function parseDateTime(showtime) {
-    if (!showtime.datetime) return null;
-    
-    try {
-        // Check if it's already an ISO datetime string (Bio Rio/Bio Fågel Blå)
-        if (showtime.datetime.includes('T') && (showtime.datetime.includes('Z') || showtime.datetime.includes('+'))) {
-            return new Date(showtime.datetime);
+    // Use normalized_datetime if available (preferred)
+    if (showtime.normalized_datetime) {
+        try {
+            return new Date(showtime.normalized_datetime);
+        } catch (e) {
+            console.warn('Could not parse normalized_datetime:', showtime.normalized_datetime, e);
         }
-        
-        // Handle Cinemateket format "Sun 24/8 at 16:00"
-        if (showtime.datetime.includes(' at ')) {
-            const parts = showtime.datetime.split(' at ');
-            if (parts.length === 2) {
-                const datePart = parts[0]; // e.g., "Sun 24/8"
-                const timePart = parts[1]; // e.g., "16:00"
-                
-                // Extract day and month from "Sun 24/8"
-                const dateMatch = datePart.match(/(\d+)\/(\d+)/);
-                if (dateMatch) {
-                    const day = parseInt(dateMatch[1]);
-                    const month = parseInt(dateMatch[2]);
-                    const year = new Date().getFullYear(); // Use current year as default
-                    
-                    // Parse time "16:00"
-                    const timeMatch = timePart.match(/(\d+):(\d+)/);
-                    if (timeMatch) {
-                        const hours = parseInt(timeMatch[1]);
-                        const minutes = parseInt(timeMatch[2]);
-                        
-                        return new Date(year, month - 1, day, hours, minutes);
-                    }
-                }
-            }
-        }
-        
-        // Fallback: try to parse as standard date
-        return new Date(showtime.datetime);
-    } catch (e) {
-        console.warn('Could not parse datetime:', showtime.datetime, e);
-        return null;
     }
+    
+    // Fallback to original datetime field
+    if (showtime.datetime) {
+        try {
+            return new Date(showtime.datetime);
+        } catch (e) {
+            console.warn('Could not parse datetime:', showtime.datetime, e);
+        }
+    }
+    
+    return null;
 }
 
 function getSortedShowtimes(showtimes) {
@@ -65,42 +44,48 @@ function getSortedShowtimes(showtimes) {
 }
 
 function formatShowtime(showtime) {
+    // Use normalized data if available (much simpler!)
+    if (showtime.normalized_datetime && showtime.normalized_date && showtime.normalized_time) {
+        const parsedDate = new Date(showtime.normalized_datetime);
+        
+        // Validate the normalized date
+        if (!isNaN(parsedDate.getTime())) {
+            return {
+                display: showtime.normalized_time,
+                date: showtime.normalized_date,
+                time: showtime.normalized_time,
+                fullDate: parsedDate
+            };
+        }
+    }
+    
+    // Fallback to legacy parsing if normalized data is not available
     const parsedDate = parseDateTime(showtime);
     
-    if (!parsedDate) {
-        // Fallback to original display if parsing fails
+    if (!parsedDate || isNaN(parsedDate.getTime())) {
+        // Final fallback to original display
         return {
             display: showtime.display_text || showtime.datetime || 'TBA',
             date: '',
-            time: ''
+            time: '',
+            fullDate: null
         };
     }
     
     const now = new Date();
-    const isToday = parsedDate.toDateString() === now.toDateString();
-    const isTomorrow = parsedDate.toDateString() === new Date(now.getTime() + 24 * 60 * 60 * 1000).toDateString();
     
     // Format time
     const timeOptions = { hour: '2-digit', minute: '2-digit', hour12: false };
     const timeStr = parsedDate.toLocaleTimeString('en-GB', timeOptions);
     
-    // Format date
-    let dateStr;
-    if (isToday) {
-        dateStr = 'Today';
-    } else if (isTomorrow) {
-        dateStr = 'Tomorrow';
-    } else {
-        const dateOptions = { 
-            month: 'short', 
-            day: 'numeric'
-        };
-        dateStr = parsedDate.toLocaleDateString('en-GB', dateOptions);
-        
-        // Add year if not current year
-        if (parsedDate.getFullYear() !== now.getFullYear()) {
-            dateStr += ` ${parsedDate.getFullYear()}`;
-        }
+    // Format date - always use numeric format
+    const day = String(parsedDate.getDate()).padStart(2, '0');
+    const month = String(parsedDate.getMonth() + 1).padStart(2, '0');
+    let dateStr = `${day}.${month}`;
+    
+    // Add year if not current year
+    if (parsedDate.getFullYear() !== now.getFullYear()) {
+        dateStr += `.${parsedDate.getFullYear()}`;
     }
     
     return {
@@ -109,6 +94,98 @@ function formatShowtime(showtime) {
         time: timeStr,
         fullDate: parsedDate
     };
+}
+
+// Generate Google Calendar URL for a film showtime
+function createGoogleCalendarUrl(film, showtime, formattedDateTime) {
+    if (!formattedDateTime.fullDate) {
+        return null;
+    }
+    
+    const startDate = new Date(formattedDateTime.fullDate);
+    
+    // Check if the date is valid
+    if (isNaN(startDate.getTime())) {
+        console.warn('Invalid date for calendar URL:', formattedDateTime.fullDate);
+        return null;
+    }
+    
+    // Assume 2-hour duration for films (default)
+    const endDate = new Date(startDate.getTime() + (2 * 60 * 60 * 1000));
+    
+    // Format dates for Google Calendar (YYYYMMDDTHHMMSSZ)
+    const formatGoogleDate = (date) => {
+        try {
+            return date.toISOString().replace(/[-:.]/g, '').replace(/000Z$/, 'Z');
+        } catch (error) {
+            console.warn('Error formatting date for Google Calendar:', date, error);
+            return null;
+        }
+    };
+    
+    const startDateFormatted = formatGoogleDate(startDate);
+    const endDateFormatted = formatGoogleDate(endDate);
+    
+    // If date formatting failed, return null
+    if (!startDateFormatted || !endDateFormatted) {
+        return null;
+    }
+    
+    // Don't use encodeURIComponent here since URLSearchParams will handle encoding
+    const title = `🍿 ${film.tmdb?.title || film.title}`;
+    const cinemaName = cleanCinemaName(showtime.source_cinema || film.data_source || 'Stockholm Cinema');
+    const details = [
+        `Film: ${film.tmdb?.title || film.title}`,
+        film.tmdb?.overview ? `Description: ${film.tmdb.overview}` : '',
+        film.tmdb?.directors?.length > 0 ? `Director: ${film.tmdb.directors.join(', ')}` : '',
+        film.tmdb?.genres?.length > 0 ? `Genres: ${film.tmdb.genres.join(', ')}` : '',
+        film.tmdb?.rating ? `Rating: ⭐ ${film.tmdb.rating}/10` : '',
+        '',
+        `Cinema: ${cinemaName}`,
+        `Ticket URL: ${getShowtimeUrl(film, showtime)}`
+    ].filter(line => line.trim()).join('\n');
+    
+    const location = cinemaName;
+    
+    const baseUrl = 'https://calendar.google.com/calendar/render';
+    const params = new URLSearchParams({
+        action: 'TEMPLATE',
+        text: title,
+        dates: `${startDateFormatted}/${endDateFormatted}`,
+        details: details,
+        location: location
+    });
+    
+    return `${baseUrl}?${params.toString()}`;
+}
+
+// Helper function to clean cinema names (remove "Bio" prefix)
+function cleanCinemaName(cinemaName) {
+    if (!cinemaName) return '';
+    
+    // Remove "Bio " prefix (case insensitive)
+    return cinemaName.replace(/^Bio\s+/i, '').trim();
+}
+
+// Helper function to get the appropriate URL for a showtime
+function getShowtimeUrl(film, showtime) {
+    // Get the appropriate URL for this showtime's cinema
+    let showtimeUrl = film.url; // default fallback
+    const cinemaInfo = showtime.source_cinema || showtime.source_cinemas?.[0] || '';
+    
+    if (film.urls && film.data_sources && cinemaInfo) {
+        const cinemaIndex = film.data_sources.findIndex(source => 
+            source.toLowerCase().includes(cinemaInfo.toLowerCase()) ||
+            cinemaInfo.toLowerCase().includes(source.toLowerCase())
+        );
+        if (cinemaIndex >= 0 && film.urls[cinemaIndex]) {
+            showtimeUrl = film.urls[cinemaIndex];
+        }
+    } else if (showtime.source_url) {
+        showtimeUrl = showtime.source_url;
+    }
+    
+    return showtimeUrl;
 }
 
 // DOM elements
@@ -373,29 +450,25 @@ function createFilmCard(film) {
                         </div>
                         ${getSortedShowtimes(film.showtimes).slice(0, 5).map(showtime => {
                         const formattedDateTime = formatShowtime(showtime);
-                        const cinemaInfo = showtime.source_cinema || showtime.source_cinemas?.[0] || '';
-                        
-                        // Get the appropriate URL for this showtime's cinema
-                        let showtimeUrl = film.url; // default fallback
-                        if (film.urls && film.data_sources && cinemaInfo) {
-                            const cinemaIndex = film.data_sources.findIndex(source => 
-                                source.toLowerCase().includes(cinemaInfo.toLowerCase()) ||
-                                cinemaInfo.toLowerCase().includes(source.toLowerCase())
-                            );
-                            if (cinemaIndex >= 0 && film.urls[cinemaIndex]) {
-                                showtimeUrl = film.urls[cinemaIndex];
-                            }
-                        } else if (showtime.source_url) {
-                            showtimeUrl = showtime.source_url;
-                        }
+                        const rawCinemaInfo = showtime.source_cinema || showtime.source_cinemas?.[0] || '';
+                        const cleanedCinemaInfo = cleanCinemaName(rawCinemaInfo);
+                        const showtimeUrl = getShowtimeUrl(film, showtime);
+                        const calendarUrl = createGoogleCalendarUrl(film, showtime, formattedDateTime);
                         
                         return `
-                        <a href="${showtimeUrl}" target="_blank" class="showtime-link">
-                            <div class="showtime ${film.data_sources && film.data_sources.length > 1 ? 'multi-cinema' : ''}">
-                                <div class="showtime-time">${formattedDateTime.date} ${formattedDateTime.display}${cinemaInfo ? ` <span class="cinema-name">${cinemaInfo}</span>` : ''}</div>
-                                <div class="showtime-arrow">→</div>
-                            </div>
-                        </a>`;
+                        <div class="showtime-container">
+                            <a href="${showtimeUrl}" target="_blank" class="showtime-link">
+                                <div class="showtime ${film.data_sources && film.data_sources.length > 1 ? 'multi-cinema' : ''}">
+                                    <div class="showtime-time">${formattedDateTime.date} ${formattedDateTime.display}${cleanedCinemaInfo ? ` <span class="cinema-name">${cleanedCinemaInfo}</span>` : ''}</div>
+                                    <div class="showtime-arrow">→</div>
+                                </div>
+                            </a>
+                            ${calendarUrl ? `
+                                <a href="${calendarUrl}" target="_blank" class="calendar-button" title="Add to Google Calendar">
+                                    <i class="fas fa-calendar-plus"></i>
+                                </a>
+                            ` : ''}
+                        </div>`;
                     }).join('')}
                     ${film.showtimes.length > 5 ? `<div class="more-showtimes">+${film.showtimes.length - 5} more showtimes...</div>` : ''}
                     </div>
