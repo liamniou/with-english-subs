@@ -1,52 +1,5 @@
 [
   {
-    "film_id": "det-sjunde-inseglet",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Det sjunde inseglet",
-    "director": "Ingmar Bergman",
-    "duration": "1h 36 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2025-08-18T18:00:00+02:00",
-        "display_text": "Monday, 18th August 18:00",
-        "time": "18:00",
-        "date_section": "Måndag, 18th Augusti",
-        "ticket_url": "https://biofagelbla.se/movie/det-sjunde-inseglet/?showtime=48223",
-        "showtime_id": "48223",
-        "original_display_text": "Måndag, 18th Augusti 18:00",
-        "normalized_datetime": "2025-08-18T18:00:00",
-        "normalized_date": "18.08",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-08-18T17:05:34.274003+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 490,
-      "title": "The Seventh Seal",
-      "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
-      "release_date": "1957-02-16",
-      "rating": 8.182,
-      "vote_count": 3148,
-      "genres": [
-        "Fantasy",
-        "Drama"
-      ],
-      "poster_path": "/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
-      "backdrop_path": "/d9hWzWeRYg7sIy3PeQgenL32qoV.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/d9hWzWeRYg7sIy3PeQgenL32qoV.jpg",
-      "imdb_id": "tt0050976",
-      "runtime": 96,
-      "budget": 150000,
-      "revenue": 311212
-    }
-  },
-  {
     "film_id": "smultronstället",
     "url": "https://biofagelbla.se/program/",
     "title": "Smultronstället",
@@ -70,7 +23,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.275051+00:00",
+    "scraped_at": "2025-08-19T06:22:51.223015+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
@@ -116,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.275497+00:00",
+    "scraped_at": "2025-08-19T06:22:51.223489+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 75233,
@@ -162,7 +115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.275623+00:00",
+    "scraped_at": "2025-08-19T06:22:51.223636+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 30734,
@@ -209,7 +162,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.275904+00:00",
+    "scraped_at": "2025-08-19T06:22:51.223953+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -256,7 +209,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.276052+00:00",
+    "scraped_at": "2025-08-19T06:22:51.224118+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 135380,
@@ -302,7 +255,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.276282+00:00",
+    "scraped_at": "2025-08-19T06:22:51.224533+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1213,
@@ -350,7 +303,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.276370+00:00",
+    "scraped_at": "2025-08-19T06:22:51.224719+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1398,
@@ -397,7 +350,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.276469+00:00",
+    "scraped_at": "2025-08-19T06:22:51.224889+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 51143,
@@ -443,7 +396,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.276663+00:00",
+    "scraped_at": "2025-08-19T06:22:51.225123+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 398818,
@@ -490,7 +443,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.276903+00:00",
+    "scraped_at": "2025-08-19T06:22:51.225299+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47206,
@@ -536,7 +489,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.277177+00:00",
+    "scraped_at": "2025-08-19T06:22:51.225531+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 4173,
@@ -582,15 +535,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.277294+00:00",
+    "scraped_at": "2025-08-19T06:22:51.225662+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 71,
       "title": "Billy Elliot",
       "overview": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
       "release_date": "2000-09-28",
-      "rating": 7.595,
-      "vote_count": 3940,
+      "rating": 7.596,
+      "vote_count": 3941,
       "genres": [
         "Drama",
         "Comedy",
@@ -630,7 +583,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.277404+00:00",
+    "scraped_at": "2025-08-19T06:22:51.225848+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
@@ -676,7 +629,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.277568+00:00",
+    "scraped_at": "2025-08-19T06:22:51.226089+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1669,
@@ -724,7 +677,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.277670+00:00",
+    "scraped_at": "2025-08-19T06:22:51.226213+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 42692,
@@ -772,7 +725,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.277771+00:00",
+    "scraped_at": "2025-08-19T06:22:51.226341+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -820,7 +773,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.277872+00:00",
+    "scraped_at": "2025-08-19T06:22:51.226462+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -868,7 +821,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.278071+00:00",
+    "scraped_at": "2025-08-19T06:22:51.226678+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -914,7 +867,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.278185+00:00",
+    "scraped_at": "2025-08-19T06:22:51.226822+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
@@ -961,7 +914,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.278290+00:00",
+    "scraped_at": "2025-08-19T06:22:51.226952+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
@@ -1007,7 +960,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.278429+00:00",
+    "scraped_at": "2025-08-19T06:22:51.227152+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -1054,7 +1007,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.278537+00:00",
+    "scraped_at": "2025-08-19T06:22:51.227338+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -1102,7 +1055,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.278640+00:00",
+    "scraped_at": "2025-08-19T06:22:51.227468+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
@@ -1110,7 +1063,7 @@
       "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
       "release_date": "1984-07-16",
       "rating": 8.1,
-      "vote_count": 2021,
+      "vote_count": 2025,
       "genres": [
         "Drama"
       ],
@@ -1148,7 +1101,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.278771+00:00",
+    "scraped_at": "2025-08-19T06:22:51.227632+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -1196,7 +1149,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.279542+00:00",
+    "scraped_at": "2025-08-19T06:22:51.227789+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -1229,7 +1182,7 @@
     "showtimes": [
       {
         "datetime": "2025-11-17T17:45:00+01:00",
-        "display_text": "Monday, 17th November 17:45",
+        "display_text": "Monday, 17th November 5:45 PM",
         "time": "17:45",
         "date_section": "Måndag, 17th November",
         "ticket_url": "https://biofagelbla.se/movie/mannen-pa-taket/?showtime=48445",
@@ -1243,7 +1196,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-18T17:05:34.279663+00:00",
+    "scraped_at": "2025-08-19T06:22:51.227932+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
