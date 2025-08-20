@@ -8,13 +8,13 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2025-08-21T20:15:00",
-        "display_text": "Thu 21 Aug 8:15 PM",
+        "datetime": "",
+        "display_text": "tomorrow 8:15 PM",
         "time": "20:15",
-        "date": "tors 21 aug",
+        "date": "i morgon",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
-        "original_display_text": "tors 21 aug 20:15",
+        "original_display_text": "i morgon 20:15",
         "normalized_datetime": "2025-08-21T20:15:00",
         "normalized_date": "21.08",
         "normalized_time": "20:15"
@@ -23,7 +23,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-08-19T06:23:25.923846+00:00",
+    "scraped_at": "2025-08-20T06:29:39.423753+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1214052,
