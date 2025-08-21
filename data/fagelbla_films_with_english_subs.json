@@ -23,7 +23,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.958731+00:00",
+    "scraped_at": "2025-08-21T06:38:50.417639+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.959205+00:00",
+    "scraped_at": "2025-08-21T06:38:50.418102+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 75233,
@@ -115,7 +115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.959367+00:00",
+    "scraped_at": "2025-08-21T06:38:50.418267+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 30734,
@@ -162,7 +162,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.959664+00:00",
+    "scraped_at": "2025-08-21T06:38:50.418550+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -170,7 +170,7 @@
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
       "rating": 7.914,
-      "vote_count": 11895,
+      "vote_count": 11896,
       "genres": [
         "Comedy",
         "Romance"
@@ -209,7 +209,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.959831+00:00",
+    "scraped_at": "2025-08-21T06:38:50.418717+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 135380,
@@ -255,7 +255,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.960182+00:00",
+    "scraped_at": "2025-08-21T06:38:50.419169+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1213,
@@ -288,22 +288,22 @@
     "language": "Ryska",
     "showtimes": [
       {
-        "datetime": "2025-09-14T19:45:00+02:00",
-        "display_text": "Sunday, 14th September 19:45",
-        "time": "19:45",
+        "datetime": "2025-09-14T20:00:00+02:00",
+        "display_text": "Sunday, 14th September 20:00",
+        "time": "20:00",
         "date_section": "Söndag, 14th September",
         "ticket_url": "https://biofagelbla.se/movie/stalker/?showtime=49410",
         "showtime_id": "49410",
-        "original_display_text": "Söndag, 14th September 19:45",
-        "normalized_datetime": "2025-09-14T19:45:00",
+        "original_display_text": "Söndag, 14th September 20:00",
+        "normalized_datetime": "2025-09-14T20:00:00",
         "normalized_date": "14.09",
-        "normalized_time": "19:45"
+        "normalized_time": "20:00"
       }
     ],
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.960407+00:00",
+    "scraped_at": "2025-08-21T06:38:50.419354+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1398,
@@ -311,7 +311,7 @@
       "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
       "release_date": "1979-05-25",
       "rating": 8.111,
-      "vote_count": 2339,
+      "vote_count": 2340,
       "genres": [
         "Science Fiction",
         "Drama"
@@ -350,7 +350,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.960642+00:00",
+    "scraped_at": "2025-08-21T06:38:50.419511+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 51143,
@@ -396,15 +396,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.961029+00:00",
+    "scraped_at": "2025-08-21T06:38:50.419736+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 398818,
       "title": "Call Me by Your Name",
       "overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
       "release_date": "2017-07-28",
-      "rating": 8.113,
-      "vote_count": 12386,
+      "rating": 8.112,
+      "vote_count": 12387,
       "genres": [
         "Romance",
         "Drama"
@@ -443,7 +443,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.961372+00:00",
+    "scraped_at": "2025-08-21T06:38:50.419912+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47206,
@@ -489,7 +489,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.961780+00:00",
+    "scraped_at": "2025-08-21T06:38:50.420145+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 4173,
@@ -535,7 +535,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.961993+00:00",
+    "scraped_at": "2025-08-21T06:38:50.420266+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 71,
@@ -543,7 +543,7 @@
       "overview": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
       "release_date": "2000-09-28",
       "rating": 7.596,
-      "vote_count": 3941,
+      "vote_count": 3942,
       "genres": [
         "Drama",
         "Comedy",
@@ -583,7 +583,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.962239+00:00",
+    "scraped_at": "2025-08-21T06:38:50.420456+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
@@ -629,14 +629,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.962603+00:00",
+    "scraped_at": "2025-08-21T06:38:50.420753+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1669,
       "title": "The Hunt for Red October",
       "overview": "A new technologically-superior Soviet nuclear sub, the Red October, is heading for the U.S. coast under the command of Captain Marko Ramius. The American government thinks Ramius is planning to attack. Lone CIA analyst Jack Ryan has a different idea: he thinks Ramius is planning to defect, but he has only a few hours to find him and prove it - because the entire Russian naval and air commands are trying to find Ramius, too. The hunt is on!",
       "release_date": "1990-03-02",
-      "rating": 7.379,
+      "rating": 7.4,
       "vote_count": 3425,
       "genres": [
         "Action",
@@ -677,7 +677,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.962811+00:00",
+    "scraped_at": "2025-08-21T06:38:50.421003+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 42692,
@@ -725,7 +725,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.962999+00:00",
+    "scraped_at": "2025-08-21T06:38:50.421235+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -773,7 +773,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.963190+00:00",
+    "scraped_at": "2025-08-21T06:38:50.421475+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -821,7 +821,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.963585+00:00",
+    "scraped_at": "2025-08-21T06:38:50.421900+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -867,7 +867,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.963800+00:00",
+    "scraped_at": "2025-08-21T06:38:50.422044+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
@@ -914,7 +914,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.964011+00:00",
+    "scraped_at": "2025-08-21T06:38:50.422168+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
@@ -960,7 +960,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.964338+00:00",
+    "scraped_at": "2025-08-21T06:38:50.422386+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -1007,7 +1007,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.964559+00:00",
+    "scraped_at": "2025-08-21T06:38:50.422550+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -1055,7 +1055,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.964773+00:00",
+    "scraped_at": "2025-08-21T06:38:50.422680+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
@@ -1101,7 +1101,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.965049+00:00",
+    "scraped_at": "2025-08-21T06:38:50.422843+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -1149,7 +1149,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.965302+00:00",
+    "scraped_at": "2025-08-21T06:38:50.422995+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -1196,7 +1196,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-20T06:29:12.965518+00:00",
+    "scraped_at": "2025-08-21T06:38:50.423112+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
