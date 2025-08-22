@@ -1,5 +1,156 @@
 [
   {
+    "film_id": "depeche-mode-m",
+    "url": "https://www.biorio.se/movies/depeche-mode-m",
+    "title": "Depeche Mode: M",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "2025-10-30T19:30:00.000Z",
+        "display_text": "Thursday October 30, 2025 at 7:30 PM",
+        "movie_id": "5619",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/867",
+        "api_data": {
+          "id": 867,
+          "movieId": 5619,
+          "movieVersionId": 301,
+          "startTime": "2025-10-30T19:30:00.000Z",
+          "endTime": "2025-10-30T21:05:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": "2025-09-16T22:00:00.000Z",
+          "includeInReport": true,
+          "created_at": "2025-08-21T08:07:13.509Z",
+          "movie": {
+            "id": 5619,
+            "title": "Depeche Mode: M",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1755763526774-816632596-Depeche-Mode.webp",
+            "movieVersions": [
+              {
+                "duration": 95,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 301,
+            "duration": 95,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "isPublished": false
+        },
+        "original_display_text": "Thursday October 30, 2025 at 19:30",
+        "normalized_datetime": "2025-10-30T19:30:00",
+        "normalized_date": "30.10",
+        "normalized_time": "19:30"
+      },
+      {
+        "datetime": "2025-10-28T19:15:00.000Z",
+        "display_text": "Tuesday October 28, 2025 at 7:15 PM",
+        "movie_id": "5619",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/866",
+        "api_data": {
+          "id": 866,
+          "movieId": 5619,
+          "movieVersionId": 301,
+          "startTime": "2025-10-28T19:15:00.000Z",
+          "endTime": "2025-10-28T20:50:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": "2025-09-16T22:00:00.000Z",
+          "includeInReport": true,
+          "created_at": "2025-08-21T08:06:47.539Z",
+          "movie": {
+            "id": 5619,
+            "title": "Depeche Mode: M",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1755763526774-816632596-Depeche-Mode.webp",
+            "movieVersions": [
+              {
+                "duration": 95,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 301,
+            "duration": 95,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "isPublished": false
+        },
+        "original_display_text": "Tuesday October 28, 2025 at 19:15",
+        "normalized_datetime": "2025-10-28T19:15:00",
+        "normalized_date": "28.10",
+        "normalized_time": "19:15"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2025-08-22T06:21:02.976054",
+    "source": "biorio",
+    "tmdb": {
+      "id": 125974,
+      "title": "Depeche Mode: Black Celebration Tour 1986",
+      "overview": "Depeche Mode - Live at Wembley Arena, London, 17 April 1986 (Black Celebration Tour)  01. Black Celebration 02. A Question Of Time 03. Fly On The Windscreen 04. Shake The Disease 05. Leave In Silence 06. It's Called A Heart 07. Everything Counts 08. It Doesn't Matter Two 09. A Question Of Lust 10. Blasphemous Rumours 11. New Dress 12. Stripped 13. Something To Do 14. Master And Servant 15. Photographic 16. People Are People 17. Boys Say Go! 18. Just Can't Get Enough 19. More Than A Party",
+      "release_date": "1986-12-24",
+      "rating": 8.0,
+      "vote_count": 1,
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "poster_path": "/ykgsfdD9GyTOWuQk9HrNf7Oqrqx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ykgsfdD9GyTOWuQk9HrNf7Oqrqx.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "",
+      "runtime": 91,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
     "film_id": "demon-slayer-kimetsu-no-yaiba-infinity-castle",
     "url": "https://www.biorio.se/movies/demon-slayer-kimetsu-no-yaiba-infinity-castle",
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
@@ -68,15 +219,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-21T06:30:49.536943",
+    "scraped_at": "2025-08-22T06:21:10.982356",
     "source": "biorio",
     "tmdb": {
       "id": 1311031,
       "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
       "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "release_date": "2025-07-18",
-      "rating": 7.165,
-      "vote_count": 82,
+      "rating": 7.127,
+      "vote_count": 83,
       "genres": [
         "Animation",
         "Action",
@@ -164,7 +315,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-21T06:31:02.515220",
+    "scraped_at": "2025-08-22T06:21:25.157490",
     "source": "biorio",
     "tmdb": {
       "id": 11830,
@@ -194,7 +345,7 @@
     "showtimes": [
       {
         "datetime": "2025-09-08T16:00:00.000Z",
-        "display_text": "Monday September 8, 2025 at 4:00 PM",
+        "display_text": "Monday September 08, 2025 at 4:00 PM",
         "movie_id": "5495",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/828",
@@ -329,7 +480,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-21T06:31:46.420432",
+    "scraped_at": "2025-08-22T06:22:29.475613",
     "source": "biorio",
     "tmdb": {
       "id": 149,
