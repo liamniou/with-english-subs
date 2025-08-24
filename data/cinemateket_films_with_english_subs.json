@@ -7,7 +7,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sun 24/8 at 16:00",
+        "display_text": "Sun 24/8 at 4:00 PM",
         "original_display_text": "sön 24/8 kl. 16:00",
         "normalized_datetime": "2025-08-24T16:00:00",
         "normalized_date": "24.08",
@@ -17,7 +17,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:22:58.611516",
+    "scraped_at": "2025-08-24T06:21:53.655779",
     "tmdb": {
       "id": 393998,
       "title": "The Four Companions",
@@ -47,7 +47,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Thu 28/8 at 18:00",
+        "display_text": "Thu 28/8 at 6:00 PM",
         "original_display_text": "tor 28/8 kl. 18:00",
         "normalized_datetime": "2025-08-28T18:00:00",
         "normalized_date": "28.08",
@@ -57,7 +57,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:23:10.053217",
+    "scraped_at": "2025-08-24T06:22:10.191260",
     "tmdb": {
       "id": 984324,
       "title": "The Wages of Fear",
@@ -86,7 +86,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sat 30/8 at 14:00",
+        "display_text": "Sat 30/8 at 2:00 PM",
         "original_display_text": "lör 30/8 kl. 14:00",
         "normalized_datetime": "2025-08-30T14:00:00",
         "normalized_date": "30.08",
@@ -96,7 +96,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:23:15.337145",
+    "scraped_at": "2025-08-24T06:22:17.024288",
     "tmdb": {
       "id": 497849,
       "title": "Die Weber",
@@ -125,7 +125,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sun 31/8 at 16:00",
+        "display_text": "Sun 31/8 at 4:00 PM",
         "original_display_text": "sön 31/8 kl. 16:00",
         "normalized_datetime": "2025-08-31T16:00:00",
         "normalized_date": "31.08",
@@ -135,14 +135,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:23:24.685095",
+    "scraped_at": "2025-08-24T06:22:27.467100",
     "tmdb": {
       "id": 549509,
       "title": "The Brutalist",
       "overview": "When a visionary architect and his wife flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern United States, their lives are changed forever by a mysterious, wealthy client.",
       "release_date": "2024-12-20",
-      "rating": 6.994,
-      "vote_count": 1216,
+      "rating": 6.993,
+      "vote_count": 1217,
       "genres": [
         "Drama",
         "History"
@@ -165,7 +165,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Mon 8/9 at 18:00",
+        "display_text": "Mon 8/9 at 6:00 PM",
         "original_display_text": "mån 8/9 kl. 18:00",
         "normalized_datetime": "2025-09-08T18:00:00",
         "normalized_date": "08.09",
@@ -175,7 +175,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-08-22T06:23:51.000731",
+    "scraped_at": "2025-08-24T06:22:57.791905",
     "tmdb": {
       "id": 327041,
       "title": "Soviets Plus Electricity",
@@ -204,7 +204,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Wed 10/9 at 18:00",
+        "display_text": "Wed 10/9 at 6:00 PM",
         "original_display_text": "ons 10/9 kl. 18:00",
         "normalized_datetime": "2025-09-10T18:00:00",
         "normalized_date": "10.09",
@@ -214,7 +214,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:23:56.344232"
+    "scraped_at": "2025-08-24T06:23:03.900065"
   },
   {
     "film_id": "13899",
@@ -224,7 +224,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Mon 15/9 at 18:00",
+        "display_text": "Mon 15/9 at 6:00 PM",
         "original_display_text": "mån 15/9 kl. 18:00",
         "normalized_datetime": "2025-09-15T18:00:00",
         "normalized_date": "15.09",
@@ -234,7 +234,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-08-22T06:24:15.025517",
+    "scraped_at": "2025-08-24T06:23:25.222296",
     "tmdb": {
       "id": 512475,
       "title": "I Often Think of Hawaii",
@@ -264,7 +264,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Tue 16/9 at 18:00",
+        "display_text": "Tue 16/9 at 6:00 PM",
         "original_display_text": "tis 16/9 kl. 18:00",
         "normalized_datetime": "2025-09-16T18:00:00",
         "normalized_date": "16.09",
@@ -274,7 +274,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:24:18.433658",
+    "scraped_at": "2025-08-24T06:23:28.941243",
     "tmdb": {
       "id": 56935,
       "title": "The Lacemaker",
@@ -304,7 +304,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Thu 18/9 at 18:00",
+        "display_text": "Thu 18/9 at 6:00 PM",
         "original_display_text": "tor 18/9 kl. 18:00",
         "normalized_datetime": "2025-09-18T18:00:00",
         "normalized_date": "18.09",
@@ -314,7 +314,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:24:23.788729",
+    "scraped_at": "2025-08-24T06:23:34.877473",
     "tmdb": {
       "id": 56231,
       "title": "The Working Class Goes to Heaven",
@@ -343,7 +343,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Wed 24/9 at 18:00",
+        "display_text": "Wed 24/9 at 6:00 PM",
         "original_display_text": "ons 24/9 kl. 18:00",
         "normalized_datetime": "2025-09-24T18:00:00",
         "normalized_date": "24.09",
@@ -353,7 +353,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:24:42.122612",
+    "scraped_at": "2025-08-24T06:23:55.883816",
     "tmdb": {
       "id": 90560,
       "title": "Red Angel",
@@ -384,7 +384,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Fri 26/9 at 18:00",
+        "display_text": "Fri 26/9 at 6:00 PM",
         "original_display_text": "fre 26/9 kl. 18:00",
         "normalized_datetime": "2025-09-26T18:00:00",
         "normalized_date": "26.09",
@@ -394,7 +394,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:24:47.433016",
+    "scraped_at": "2025-08-24T06:24:01.815983",
     "tmdb": {
       "id": 8937,
       "title": "Tokyo Sonata",
@@ -423,7 +423,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sun 28/9 at 18:30",
+        "display_text": "Sun 28/9 at 6:30 PM",
         "original_display_text": "sön 28/9 kl. 18:30",
         "normalized_datetime": "2025-09-28T18:30:00",
         "normalized_date": "28.09",
@@ -433,7 +433,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-08-22T06:25:00.301191",
+    "scraped_at": "2025-08-24T06:24:16.859375",
     "tmdb": {
       "id": 216471,
       "title": "Irezumi",
@@ -463,7 +463,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Mon 29/9 at 18:00",
+        "display_text": "Mon 29/9 at 6:00 PM",
         "original_display_text": "mån 29/9 kl. 18:00",
         "normalized_datetime": "2025-09-29T18:00:00",
         "normalized_date": "29.09",
@@ -473,7 +473,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-08-22T06:25:03.765986"
+    "scraped_at": "2025-08-24T06:24:20.793508"
   },
   {
     "film_id": "10075",
@@ -483,7 +483,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Thu 2/10 at 18:00",
+        "display_text": "Thu 2/10 at 6:00 PM",
         "original_display_text": "tor 2/10 kl. 18:00",
         "normalized_datetime": "2025-10-02T18:00:00",
         "normalized_date": "02.10",
@@ -493,7 +493,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:25:11.014340",
+    "scraped_at": "2025-08-24T06:24:28.627646",
     "tmdb": {
       "id": 1040,
       "title": "The Leopard",
@@ -522,7 +522,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Fri 3/10 at 18:00",
+        "display_text": "Fri 3/10 at 6:00 PM",
         "original_display_text": "fre 3/10 kl. 18:00",
         "normalized_datetime": "2025-10-03T18:00:00",
         "normalized_date": "03.10",
@@ -532,7 +532,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:25:14.409917",
+    "scraped_at": "2025-08-24T06:24:32.575221",
     "tmdb": {
       "id": 1075610,
       "title": "Smiley",
@@ -559,7 +559,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Mon 6/10 at 18:00",
+        "display_text": "Mon 6/10 at 6:00 PM",
         "original_display_text": "mån 6/10 kl. 18:00",
         "normalized_datetime": "2025-10-06T18:00:00",
         "normalized_date": "06.10",
@@ -569,7 +569,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-08-22T06:25:29.284879",
+    "scraped_at": "2025-08-24T06:24:49.171929",
     "tmdb": {
       "id": 105554,
       "title": "The Forgotten Space",
@@ -598,7 +598,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Wed 8/10 at 18:00",
+        "display_text": "Wed 8/10 at 6:00 PM",
         "original_display_text": "ons 8/10 kl. 18:00",
         "normalized_datetime": "2025-10-08T18:00:00",
         "normalized_date": "08.10",
@@ -608,13 +608,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:25:34.496985",
+    "scraped_at": "2025-08-24T06:24:55.165973",
     "tmdb": {
       "id": 111397,
       "title": "A Wife Confesses",
       "overview": "Tied to a mountain between her brutalizing spouse and her secret lover, disaster strikes; the authorities accuse her of murder and prompt a confession.",
       "release_date": "1961-10-29",
-      "rating": 6.717,
+      "rating": 6.7,
       "vote_count": 30,
       "genres": [
         "Drama",
@@ -639,7 +639,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Thu 9/10 at 18:00",
+        "display_text": "Thu 9/10 at 6:00 PM",
         "original_display_text": "tor 9/10 kl. 18:00",
         "normalized_datetime": "2025-10-09T18:00:00",
         "normalized_date": "09.10",
@@ -649,7 +649,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:25:37.905667",
+    "scraped_at": "2025-08-24T06:24:58.901552",
     "tmdb": {
       "id": 43195,
       "title": "Senso",
@@ -680,7 +680,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sat 11/10 at 18:30",
+        "display_text": "Sat 11/10 at 6:30 PM",
         "original_display_text": "lör 11/10 kl. 18:30",
         "normalized_datetime": "2025-10-11T18:30:00",
         "normalized_date": "11.10",
@@ -690,7 +690,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:25:46.943263",
+    "scraped_at": "2025-08-24T06:25:08.997328",
     "tmdb": {
       "id": 39415,
       "title": "Loulou",
@@ -720,7 +720,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sun 12/10 at 16:30",
+        "display_text": "Sun 12/10 at 4:30 PM",
         "original_display_text": "sön 12/10 kl. 16:30",
         "normalized_datetime": "2025-10-12T16:30:00",
         "normalized_date": "12.10",
@@ -730,7 +730,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:25:52.251328"
+    "scraped_at": "2025-08-24T06:25:15.100129"
   },
   {
     "film_id": "784",
@@ -740,7 +740,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Thu 16/10 at 18:00",
+        "display_text": "Thu 16/10 at 6:00 PM",
         "original_display_text": "tor 16/10 kl. 18:00",
         "normalized_datetime": "2025-10-16T18:00:00",
         "normalized_date": "16.10",
@@ -750,7 +750,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:26:03.290103",
+    "scraped_at": "2025-08-24T06:25:27.311085",
     "tmdb": {
       "id": 41876,
       "title": "The Damned",
@@ -780,7 +780,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sat 18/10 at 18:00",
+        "display_text": "Sat 18/10 at 6:00 PM",
         "original_display_text": "lör 18/10 kl. 18:00",
         "normalized_datetime": "2025-10-18T18:00:00",
         "normalized_date": "18.10",
@@ -790,7 +790,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-08-22T06:26:12.458383",
+    "scraped_at": "2025-08-24T06:25:37.554022",
     "tmdb": {
       "id": 362951,
       "title": "Nagamadathu Thampuratti",
@@ -817,7 +817,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sun 19/10 at 18:00",
+        "display_text": "Sun 19/10 at 6:00 PM",
         "original_display_text": "sön 19/10 kl. 18:00",
         "normalized_datetime": "2025-10-19T18:00:00",
         "normalized_date": "19.10",
@@ -827,7 +827,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:26:19.631276",
+    "scraped_at": "2025-08-24T06:25:45.371210",
     "tmdb": {
       "id": 98636,
       "title": "Kisses",
@@ -857,7 +857,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Tue 21/10 at 18:00",
+        "display_text": "Tue 21/10 at 6:00 PM",
         "original_display_text": "tis 21/10 kl. 18:00",
         "normalized_datetime": "2025-10-21T18:00:00",
         "normalized_date": "21.10",
@@ -867,7 +867,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:26:25.002115",
+    "scraped_at": "2025-08-24T06:25:51.528047",
     "tmdb": {
       "id": 85550,
       "title": "Tale of Cinema",
@@ -896,7 +896,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sun 26/10 at 18:30",
+        "display_text": "Sun 26/10 at 6:30 PM",
         "original_display_text": "sön 26/10 kl. 18:30",
         "normalized_datetime": "2025-10-26T18:30:00",
         "normalized_date": "26.10",
@@ -906,7 +906,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:26:43.657813",
+    "scraped_at": "2025-08-24T06:26:12.286777",
     "tmdb": {
       "id": 1481312,
       "title": "Manji",
@@ -933,7 +933,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Tue 28/10 at 18:00",
+        "display_text": "Tue 28/10 at 6:00 PM",
         "original_display_text": "tis 28/10 kl. 18:00",
         "normalized_datetime": "2025-10-28T18:00:00",
         "normalized_date": "28.10",
@@ -943,7 +943,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-08-22T06:26:49.152691",
+    "scraped_at": "2025-08-24T06:26:18.195111",
     "tmdb": {
       "id": 434773,
       "title": "On the Beach at Night Alone",
@@ -972,7 +972,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sat 1/11 at 18:30",
+        "display_text": "Sat 1/11 at 6:30 PM",
         "original_display_text": "lör 1/11 kl. 18:30",
         "normalized_datetime": "2025-11-01T18:30:00",
         "normalized_date": "01.11",
@@ -982,7 +982,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:27:02.183702",
+    "scraped_at": "2025-08-24T06:26:32.615812",
     "tmdb": {
       "id": 103753,
       "title": "In Another Country",
@@ -1011,7 +1011,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sun 2/11 at 16:00",
+        "display_text": "Sun 2/11 at 4:00 PM",
         "original_display_text": "sön 2/11 kl. 16:00",
         "normalized_datetime": "2025-11-02T16:00:00",
         "normalized_date": "02.11",
@@ -1021,7 +1021,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:27:07.488562",
+    "scraped_at": "2025-08-24T06:26:38.775720",
     "tmdb": {
       "id": 3478,
       "title": "Ludwig",
@@ -1051,7 +1051,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Thu 6/11 at 18:00",
+        "display_text": "Thu 6/11 at 6:00 PM",
         "original_display_text": "tor 6/11 kl. 18:00",
         "normalized_datetime": "2025-11-06T18:00:00",
         "normalized_date": "06.11",
@@ -1061,7 +1061,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:27:16.627196",
+    "scraped_at": "2025-08-24T06:26:49.027550",
     "tmdb": {
       "id": 8422,
       "title": "Rocco and His Brothers",
@@ -1091,7 +1091,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sat 8/11 at 18:00",
+        "display_text": "Sat 8/11 at 6:00 PM",
         "original_display_text": "lör 8/11 kl. 18:00",
         "normalized_datetime": "2025-11-08T18:00:00",
         "normalized_date": "08.11",
@@ -1101,7 +1101,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:27:25.557548",
+    "scraped_at": "2025-08-24T06:26:59.467863",
     "tmdb": {
       "id": 230893,
       "title": "Scénario de 'Sauve qui peut la vie'",
@@ -1130,7 +1130,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Wed 12/11 at 18:00",
+        "display_text": "Wed 12/11 at 6:00 PM",
         "original_display_text": "ons 12/11 kl. 18:00",
         "normalized_datetime": "2025-11-12T18:00:00",
         "normalized_date": "12.11",
@@ -1140,7 +1140,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:27:38.460707",
+    "scraped_at": "2025-08-24T06:27:14.374711",
     "tmdb": {
       "id": 86262,
       "title": "Like You Know It All",
@@ -1170,7 +1170,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Thu 20/11 at 18:00",
+        "display_text": "Thu 20/11 at 6:00 PM",
         "original_display_text": "tor 20/11 kl. 18:00",
         "normalized_datetime": "2025-11-20T18:00:00",
         "normalized_date": "20.11",
@@ -1180,7 +1180,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:28:01.313277",
+    "scraped_at": "2025-08-24T06:27:40.812531",
     "tmdb": {
       "id": 1358533,
       "title": "Ossessione",
@@ -1210,7 +1210,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sat 22/11 at 16:00",
+        "display_text": "Sat 22/11 at 4:00 PM",
         "original_display_text": "lör 22/11 kl. 16:00",
         "normalized_datetime": "2025-11-22T16:00:00",
         "normalized_date": "22.11",
@@ -1220,7 +1220,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:28:08.577387",
+    "scraped_at": "2025-08-24T06:27:49.199713",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -1249,7 +1249,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Thu 27/11 at 18:00",
+        "display_text": "Thu 27/11 at 6:00 PM",
         "original_display_text": "tor 27/11 kl. 18:00",
         "normalized_datetime": "2025-11-27T18:00:00",
         "normalized_date": "27.11",
@@ -1259,7 +1259,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-08-22T06:28:23.918938"
+    "scraped_at": "2025-08-24T06:28:05.636269"
   },
   {
     "film_id": "13931",
@@ -1269,7 +1269,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sat 29/11 at 18:00",
+        "display_text": "Sat 29/11 at 6:00 PM",
         "original_display_text": "lör 29/11 kl. 18:00",
         "normalized_datetime": "2025-11-29T18:00:00",
         "normalized_date": "29.11",
@@ -1279,7 +1279,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:28:32.999947",
+    "scraped_at": "2025-08-24T06:28:15.775462",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -1308,7 +1308,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Wed 3/12 at 18:00",
+        "display_text": "Wed 3/12 at 6:00 PM",
         "original_display_text": "ons 3/12 kl. 18:00",
         "normalized_datetime": "2025-12-03T18:00:00",
         "normalized_date": "03.12",
@@ -1318,7 +1318,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:28:43.958692",
+    "scraped_at": "2025-08-24T06:28:28.032527",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -1347,7 +1347,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Thu 4/12 at 18:00",
+        "display_text": "Thu 4/12 at 6:00 PM",
         "original_display_text": "tor 4/12 kl. 18:00",
         "normalized_datetime": "2025-12-04T18:00:00",
         "normalized_date": "04.12",
@@ -1357,7 +1357,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:28:47.325086",
+    "scraped_at": "2025-08-24T06:28:31.962324",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -1386,7 +1386,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sat 6/12 at 18:30",
+        "display_text": "Sat 6/12 at 6:30 PM",
         "original_display_text": "lör 6/12 kl. 18:30",
         "normalized_datetime": "2025-12-06T18:30:00",
         "normalized_date": "06.12",
@@ -1396,7 +1396,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:28:56.265625",
+    "scraped_at": "2025-08-24T06:28:42.106050",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -1425,7 +1425,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Tue 9/12 at 18:00",
+        "display_text": "Tue 9/12 at 6:00 PM",
         "original_display_text": "tis 9/12 kl. 18:00",
         "normalized_datetime": "2025-12-09T18:00:00",
         "normalized_date": "09.12",
@@ -1435,7 +1435,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:29:07.450103",
+    "scraped_at": "2025-08-24T06:28:54.441993",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -1464,7 +1464,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Wed 10/12 at 18:00",
+        "display_text": "Wed 10/12 at 6:00 PM",
         "original_display_text": "ons 10/12 kl. 18:00",
         "normalized_datetime": "2025-12-10T18:00:00",
         "normalized_date": "10.12",
@@ -1474,7 +1474,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:29:10.801216",
+    "scraped_at": "2025-08-24T06:28:58.279543",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -1504,7 +1504,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sun 14/12 at 14:00",
+        "display_text": "Sun 14/12 at 2:00 PM",
         "original_display_text": "sön 14/12 kl. 14:00",
         "normalized_datetime": "2025-12-14T14:00:00",
         "normalized_date": "14.12",
@@ -1514,7 +1514,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:29:21.885203",
+    "scraped_at": "2025-08-24T06:29:10.414976",
     "tmdb": {
       "id": 989406,
       "title": "After Work",
@@ -1543,7 +1543,7 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "Sun 14/12 at 16:00",
+        "display_text": "Sun 14/12 at 4:00 PM",
         "original_display_text": "sön 14/12 kl. 16:00",
         "normalized_datetime": "2025-12-14T16:00:00",
         "normalized_date": "14.12",
@@ -1553,6 +1553,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-22T06:29:25.291135"
+    "scraped_at": "2025-08-24T06:29:14.342409"
   }
 ]
