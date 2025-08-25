@@ -127,7 +127,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-24T06:19:52.946572",
+    "scraped_at": "2025-08-25T06:22:55.551495",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
@@ -219,15 +219,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-24T06:20:01.748730",
+    "scraped_at": "2025-08-25T06:23:10.756965",
     "source": "biorio",
     "tmdb": {
       "id": 1311031,
       "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
       "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "release_date": "2025-07-18",
-      "rating": 7.121,
-      "vote_count": 87,
+      "rating": 7.1,
+      "vote_count": 88,
       "genres": [
         "Animation",
         "Action",
@@ -241,7 +241,7 @@
       "imdb_id": "tt32820897",
       "runtime": 155,
       "budget": 68000000,
-      "revenue": 175000000
+      "revenue": 203690000
     }
   },
   {
@@ -315,7 +315,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-24T06:20:19.276536",
+    "scraped_at": "2025-08-25T06:23:51.125858",
     "source": "biorio",
     "tmdb": {
       "id": 11830,
@@ -480,15 +480,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-24T06:21:22.887146",
+    "scraped_at": "2025-08-25T06:25:41.197722",
     "source": "biorio",
     "tmdb": {
       "id": 149,
       "title": "Akira",
       "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
       "release_date": "1988-06-10",
-      "rating": 7.9,
-      "vote_count": 4481,
+      "rating": 7.94,
+      "vote_count": 4482,
       "genres": [
         "Animation",
         "Science Fiction",
