@@ -1,51 +1,5 @@
 [
   {
-    "film_id": "smultronstället",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Smultronstället",
-    "director": "Ingmar Bergman",
-    "duration": "1h 31 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2025-08-25T17:45:00+02:00",
-        "display_text": "Monday, 25th August 17:45",
-        "time": "17:45",
-        "date_section": "Måndag, 25th Augusti",
-        "ticket_url": "https://biofagelbla.se/movie/smultronstallet/?showtime=48752",
-        "showtime_id": "48752",
-        "original_display_text": "Måndag, 25th Augusti 17:45",
-        "normalized_datetime": "2025-08-25T17:45:00",
-        "normalized_date": "25.08",
-        "normalized_time": "17:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-08-25T06:34:47.721484+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 614,
-      "title": "Wild Strawberries",
-      "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
-      "release_date": "1957-08-28",
-      "rating": 8.106,
-      "vote_count": 1707,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
-      "backdrop_path": "/BBVAUchYvkmPThVIqipgAfabfl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/BBVAUchYvkmPThVIqipgAfabfl.jpg",
-      "imdb_id": "tt0050986",
-      "runtime": 91,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "oslo-august-31st",
     "url": "https://biofagelbla.se/program/",
     "title": "Oslo, August 31st",
@@ -69,7 +23,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.722165+00:00",
+    "scraped_at": "2025-08-26T06:29:23.956172+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 75233,
@@ -115,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.722349+00:00",
+    "scraped_at": "2025-08-26T06:29:23.956390+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 30734,
@@ -162,7 +116,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.722647+00:00",
+    "scraped_at": "2025-08-26T06:29:23.956756+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -170,7 +124,7 @@
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
       "rating": 7.914,
-      "vote_count": 11901,
+      "vote_count": 11902,
       "genres": [
         "Comedy",
         "Romance"
@@ -186,9 +140,9 @@
     }
   },
   {
-    "film_id": "the-baby-carriage",
+    "film_id": "barvagnen",
     "url": "https://biofagelbla.se/program/",
-    "title": "The Baby Carriage",
+    "title": "Barvagnen",
     "director": "Bo Widerberg",
     "duration": "1h 35 mins",
     "language": "Svensk",
@@ -209,27 +163,8 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.722857+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 135380,
-      "title": "The Baby Carriage",
-      "overview": "A tale of a young woman, Britt, who has two flings, but finds herself with difficult decisions when she finds herself pregnant.",
-      "release_date": "1963-03-18",
-      "rating": 6.7,
-      "vote_count": 23,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/rG2b1lylsyKzVrO4e7KAAOeul7Z.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rG2b1lylsyKzVrO4e7KAAOeul7Z.jpg",
-      "backdrop_path": "/ooQhMzxHQ5o9q4lHMj0wI5Uqqn3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ooQhMzxHQ5o9q4lHMj0wI5Uqqn3.jpg",
-      "imdb_id": "tt0056854",
-      "runtime": 95,
-      "budget": 0,
-      "revenue": 0
-    }
+    "scraped_at": "2025-08-26T06:29:23.956945+00:00",
+    "source": "fagelbla"
   },
   {
     "film_id": "the-talented-mr-ripley",
@@ -255,15 +190,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.723211+00:00",
+    "scraped_at": "2025-08-26T06:29:23.957237+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1213,
       "title": "The Talented Mr. Ripley",
       "overview": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
       "release_date": "1999-12-25",
-      "rating": 7.197,
-      "vote_count": 3911,
+      "rating": 7.196,
+      "vote_count": 3912,
       "genres": [
         "Thriller",
         "Crime",
@@ -303,14 +238,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.723427+00:00",
+    "scraped_at": "2025-08-26T06:29:23.957427+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1398,
       "title": "Stalker",
       "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
       "release_date": "1979-05-25",
-      "rating": 8.111,
+      "rating": 8.1,
       "vote_count": 2342,
       "genres": [
         "Science Fiction",
@@ -350,7 +285,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.723560+00:00",
+    "scraped_at": "2025-08-26T06:29:23.957642+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 51143,
@@ -396,7 +331,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.723812+00:00",
+    "scraped_at": "2025-08-26T06:29:23.957993+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 398818,
@@ -404,7 +339,7 @@
       "overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
       "release_date": "2017-07-28",
       "rating": 8.112,
-      "vote_count": 12392,
+      "vote_count": 12393,
       "genres": [
         "Romance",
         "Drama"
@@ -443,7 +378,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.724003+00:00",
+    "scraped_at": "2025-08-26T06:29:23.958336+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47206,
@@ -489,14 +424,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.724240+00:00",
+    "scraped_at": "2025-08-26T06:29:23.958627+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 4173,
       "title": "Stromboli",
       "overview": "After the end of WWII, a young Lithuanian woman and a young Italian man from Stromboli impulsively marry, but married life on the island is more demanding than she can accept.",
       "release_date": "1950-02-15",
-      "rating": 7.073,
+      "rating": 7.1,
       "vote_count": 205,
       "genres": [
         "Drama"
@@ -535,7 +470,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.724364+00:00",
+    "scraped_at": "2025-08-26T06:29:23.958762+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 71,
@@ -583,7 +518,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.724491+00:00",
+    "scraped_at": "2025-08-26T06:29:23.958886+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
@@ -629,7 +564,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.724776+00:00",
+    "scraped_at": "2025-08-26T06:29:23.959093+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1669,
@@ -637,7 +572,7 @@
       "overview": "A new technologically-superior Soviet nuclear sub, the Red October, is heading for the U.S. coast under the command of Captain Marko Ramius. The American government thinks Ramius is planning to attack. Lone CIA analyst Jack Ryan has a different idea: he thinks Ramius is planning to defect, but he has only a few hours to find him and prove it - because the entire Russian naval and air commands are trying to find Ramius, too. The hunt is on!",
       "release_date": "1990-03-02",
       "rating": 7.38,
-      "vote_count": 3427,
+      "vote_count": 3428,
       "genres": [
         "Action",
         "Adventure",
@@ -677,7 +612,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.724982+00:00",
+    "scraped_at": "2025-08-26T06:29:23.959252+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 42692,
@@ -725,7 +660,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.725110+00:00",
+    "scraped_at": "2025-08-26T06:29:23.959375+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -773,7 +708,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.725330+00:00",
+    "scraped_at": "2025-08-26T06:29:23.959618+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -819,7 +754,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.725453+00:00",
+    "scraped_at": "2025-08-26T06:29:23.959791+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
@@ -866,7 +801,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.725579+00:00",
+    "scraped_at": "2025-08-26T06:29:23.959921+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
@@ -912,7 +847,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.725770+00:00",
+    "scraped_at": "2025-08-26T06:29:23.960099+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -959,7 +894,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.725902+00:00",
+    "scraped_at": "2025-08-26T06:29:23.960226+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -1007,7 +942,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.726053+00:00",
+    "scraped_at": "2025-08-26T06:29:23.960411+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
@@ -1053,7 +988,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.726333+00:00",
+    "scraped_at": "2025-08-26T06:29:23.960737+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -1101,7 +1036,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.726517+00:00",
+    "scraped_at": "2025-08-26T06:29:23.960908+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -1149,7 +1084,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.726676+00:00",
+    "scraped_at": "2025-08-26T06:29:23.961094+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -1182,7 +1117,7 @@
     "showtimes": [
       {
         "datetime": "2025-11-17T17:45:00+01:00",
-        "display_text": "Monday, 17th November 5:45 PM",
+        "display_text": "Monday, 17th November 17:45",
         "time": "17:45",
         "date_section": "Måndag, 17th November",
         "ticket_url": "https://biofagelbla.se/movie/mannen-pa-taket/?showtime=48445",
@@ -1196,7 +1131,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-25T06:34:47.726820+00:00",
+    "scraped_at": "2025-08-26T06:29:23.961215+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
