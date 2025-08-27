@@ -127,7 +127,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-26T06:21:22.738850",
+    "scraped_at": "2025-08-27T06:20:07.120210",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
@@ -219,15 +219,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-26T06:21:31.580176",
+    "scraped_at": "2025-08-27T06:20:12.129925",
     "source": "biorio",
     "tmdb": {
       "id": 1311031,
       "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
       "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "release_date": "2025-07-18",
-      "rating": 7.083,
-      "vote_count": 90,
+      "rating": 7.1,
+      "vote_count": 92,
       "genres": [
         "Animation",
         "Action",
@@ -241,7 +241,7 @@
       "imdb_id": "tt32820897",
       "runtime": 155,
       "budget": 68000000,
-      "revenue": 203690000
+      "revenue": 253005978
     }
   },
   {
@@ -315,7 +315,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-26T06:21:42.643078",
+    "scraped_at": "2025-08-27T06:20:21.195653",
     "source": "biorio",
     "tmdb": {
       "id": 11830,
@@ -343,6 +343,72 @@
     "title": "Akira",
     "director": "Katsuhiro Otomo",
     "showtimes": [
+      {
+        "datetime": "2025-09-04T18:10:00.000Z",
+        "display_text": "Thursday September 04, 2025 at 6:10 PM",
+        "movie_id": "5495",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/894",
+        "api_data": {
+          "id": 894,
+          "movieId": 5495,
+          "movieVersionId": 208,
+          "startTime": "2025-09-04T18:10:00.000Z",
+          "endTime": "2025-09-04T20:14:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "created_at": "2025-08-26T12:19:54.639Z",
+          "movie": {
+            "id": 5495,
+            "title": "Akira",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5495/posters/1748250084538-453oe.jpg",
+            "movieVersions": [
+              {
+                "duration": 124,
+                "audio": "Japanska",
+                "subtitles": "Svenska"
+              },
+              {
+                "duration": 124,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 208,
+            "duration": 124,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "reRUN"
+          ],
+          "isPublished": true
+        },
+        "original_display_text": "Thursday September 04, 2025 at 18:10",
+        "normalized_datetime": "2025-09-04T18:10:00",
+        "normalized_date": "04.09",
+        "normalized_time": "18:10"
+      },
       {
         "datetime": "2025-09-08T16:00:00.000Z",
         "display_text": "Monday September 08, 2025 at 4:00 PM",
@@ -480,7 +546,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-26T06:22:44.966839",
+    "scraped_at": "2025-08-27T06:20:50.797471",
     "source": "biorio",
     "tmdb": {
       "id": 149,
@@ -488,7 +554,7 @@
       "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
       "release_date": "1988-06-10",
       "rating": 7.94,
-      "vote_count": 4483,
+      "vote_count": 4484,
       "genres": [
         "Animation",
         "Science Fiction",
