@@ -1,8 +1,8 @@
 [
   {
-    "film_id": "oslo-august-31st",
+    "film_id": "oslo-31-augusti",
     "url": "https://biofagelbla.se/program/",
-    "title": "Oslo, August 31st",
+    "title": "Oslo, 31 augusti",
     "director": "Joachim Trier",
     "duration": "1h 35 mins",
     "language": "Norska",
@@ -23,7 +23,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.435299+00:00",
+    "scraped_at": "2025-08-28T06:28:47.383231+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 75233,
@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.435524+00:00",
+    "scraped_at": "2025-08-28T06:28:47.383464+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 30734,
@@ -116,7 +116,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.435902+00:00",
+    "scraped_at": "2025-08-28T06:28:47.383964+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -124,7 +124,7 @@
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
       "rating": 7.914,
-      "vote_count": 11905,
+      "vote_count": 11906,
       "genres": [
         "Comedy",
         "Romance"
@@ -163,7 +163,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.436122+00:00",
+    "scraped_at": "2025-08-28T06:28:47.384299+00:00",
     "source": "fagelbla"
   },
   {
@@ -190,7 +190,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.436406+00:00",
+    "scraped_at": "2025-08-28T06:28:47.384591+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1213,
@@ -238,7 +238,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.436576+00:00",
+    "scraped_at": "2025-08-28T06:28:47.384817+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1398,
@@ -285,7 +285,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.436805+00:00",
+    "scraped_at": "2025-08-28T06:28:47.385049+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 51143,
@@ -331,7 +331,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.437143+00:00",
+    "scraped_at": "2025-08-28T06:28:47.385440+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 398818,
@@ -378,7 +378,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.437454+00:00",
+    "scraped_at": "2025-08-28T06:28:47.385781+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47206,
@@ -424,7 +424,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.437881+00:00",
+    "scraped_at": "2025-08-28T06:28:47.386060+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 4173,
@@ -470,7 +470,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.438097+00:00",
+    "scraped_at": "2025-08-28T06:28:47.386188+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 71,
@@ -478,7 +478,7 @@
       "overview": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
       "release_date": "2000-09-28",
       "rating": 7.596,
-      "vote_count": 3944,
+      "vote_count": 3946,
       "genres": [
         "Drama",
         "Comedy",
@@ -518,7 +518,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.438317+00:00",
+    "scraped_at": "2025-08-28T06:28:47.386338+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
@@ -564,7 +564,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.438621+00:00",
+    "scraped_at": "2025-08-28T06:28:47.386524+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1669,
@@ -612,7 +612,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.438907+00:00",
+    "scraped_at": "2025-08-28T06:28:47.386702+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 42692,
@@ -660,7 +660,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.439168+00:00",
+    "scraped_at": "2025-08-28T06:28:47.386920+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -708,7 +708,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.439489+00:00",
+    "scraped_at": "2025-08-28T06:28:47.387190+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -754,7 +754,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.439691+00:00",
+    "scraped_at": "2025-08-28T06:28:47.387313+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
@@ -801,7 +801,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.439940+00:00",
+    "scraped_at": "2025-08-28T06:28:47.387441+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
@@ -847,7 +847,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.440192+00:00",
+    "scraped_at": "2025-08-28T06:28:47.387592+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -894,7 +894,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.440385+00:00",
+    "scraped_at": "2025-08-28T06:28:47.387746+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -942,7 +942,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.440583+00:00",
+    "scraped_at": "2025-08-28T06:28:47.387878+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
@@ -988,7 +988,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.440922+00:00",
+    "scraped_at": "2025-08-28T06:28:47.388115+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -1036,7 +1036,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.441129+00:00",
+    "scraped_at": "2025-08-28T06:28:47.388359+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -1084,7 +1084,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.441400+00:00",
+    "scraped_at": "2025-08-28T06:28:47.388657+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -1131,7 +1131,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:27:28.441596+00:00",
+    "scraped_at": "2025-08-28T06:28:47.388916+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,

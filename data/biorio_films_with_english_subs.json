@@ -6,8 +6,8 @@
     "director": "",
     "showtimes": [
       {
-        "datetime": "2025-10-30T19:30:00.000Z",
-        "display_text": "Thursday October 30, 2025 at 7:30 PM",
+        "datetime": "2025-10-30T19:10:00.000Z",
+        "display_text": "Thursday October 30, 2025 at 7:10 PM",
         "movie_id": "5619",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/867",
@@ -15,8 +15,8 @@
           "id": 867,
           "movieId": 5619,
           "movieVersionId": 301,
-          "startTime": "2025-10-30T19:30:00.000Z",
-          "endTime": "2025-10-30T21:05:00.000Z",
+          "startTime": "2025-10-30T19:10:00.000Z",
+          "endTime": "2025-10-30T20:45:00.000Z",
           "screenId": 1,
           "screenNumber": 1,
           "language": null,
@@ -59,10 +59,10 @@
           "tags": [],
           "isPublished": false
         },
-        "original_display_text": "Thursday October 30, 2025 at 19:30",
-        "normalized_datetime": "2025-10-30T19:30:00",
+        "original_display_text": "Thursday October 30, 2025 at 19:10",
+        "normalized_datetime": "2025-10-30T19:10:00",
         "normalized_date": "30.10",
-        "normalized_time": "19:30"
+        "normalized_time": "19:10"
       },
       {
         "datetime": "2025-10-28T19:15:00.000Z",
@@ -127,7 +127,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:20:07.120210",
+    "scraped_at": "2025-08-28T06:20:49.808329",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
@@ -219,14 +219,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:20:12.129925",
+    "scraped_at": "2025-08-28T06:20:53.753921",
     "source": "biorio",
     "tmdb": {
       "id": 1311031,
       "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
       "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "release_date": "2025-07-18",
-      "rating": 7.1,
+      "rating": 7.2,
       "vote_count": 92,
       "genres": [
         "Animation",
@@ -315,7 +315,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:20:21.195653",
+    "scraped_at": "2025-08-28T06:21:04.106482",
     "source": "biorio",
     "tmdb": {
       "id": 11830,
@@ -546,15 +546,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-08-27T06:20:50.797471",
+    "scraped_at": "2025-08-28T06:21:33.317227",
     "source": "biorio",
     "tmdb": {
       "id": 149,
       "title": "Akira",
       "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
       "release_date": "1988-06-10",
-      "rating": 7.94,
-      "vote_count": 4484,
+      "rating": 7.941,
+      "vote_count": 4485,
       "genres": [
         "Animation",
         "Science Fiction",
