@@ -1,45 +1,5 @@
 [
   {
-    "film_id": "13921",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13921&cityId=1",
-    "title": "Originaltitel: The Brutalist",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "Sun 31/8 at 4:00 PM",
-        "original_display_text": "sön 31/8 kl. 16:00",
-        "normalized_datetime": "2025-08-31T16:00:00",
-        "normalized_date": "31.08",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2025-08-31T06:19:50.348784",
-    "tmdb": {
-      "id": 549509,
-      "title": "The Brutalist",
-      "overview": "When a visionary architect and his wife flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern United States, their lives are changed forever by a mysterious, wealthy client.",
-      "release_date": "2024-12-20",
-      "rating": 6.991,
-      "vote_count": 1238,
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "poster_path": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
-      "backdrop_path": "/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
-      "imdb_id": "tt8999762",
-      "runtime": 215,
-      "budget": 9600000,
-      "revenue": 50145227
-    }
-  },
-  {
     "film_id": "13908",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13908&cityId=1",
     "title": "Originaltitel: Les soviets plus l'électricité",
@@ -57,7 +17,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-08-31T06:20:26.223065",
+    "scraped_at": "2025-09-01T06:26:21.387471",
     "tmdb": {
       "id": 327041,
       "title": "Soviets Plus Electricity",
@@ -96,7 +56,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:20:33.213135"
+    "scraped_at": "2025-09-01T06:26:26.675975"
   },
   {
     "film_id": "13899",
@@ -116,7 +76,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-08-31T06:20:57.258198",
+    "scraped_at": "2025-09-01T06:26:46.213688",
     "tmdb": {
       "id": 512475,
       "title": "I Often Think of Hawaii",
@@ -156,7 +116,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:21:01.348825",
+    "scraped_at": "2025-09-01T06:26:49.605018",
     "tmdb": {
       "id": 56935,
       "title": "The Lacemaker",
@@ -196,7 +156,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:21:08.084578",
+    "scraped_at": "2025-09-01T06:26:55.020008",
     "tmdb": {
       "id": 56231,
       "title": "The Working Class Goes to Heaven",
@@ -235,7 +195,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:21:31.996408",
+    "scraped_at": "2025-09-01T06:27:14.074676",
     "tmdb": {
       "id": 90560,
       "title": "Red Angel",
@@ -276,14 +236,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:21:38.628063",
+    "scraped_at": "2025-09-01T06:27:19.399194",
     "tmdb": {
       "id": 8937,
       "title": "Tokyo Sonata",
       "overview": "A young boy takes interest in piano while his family begins to disintegrate around him after his father loses his job.",
       "release_date": "2008-09-27",
-      "rating": 7.4,
-      "vote_count": 254,
+      "rating": 7.378,
+      "vote_count": 255,
       "genres": [
         "Drama"
       ],
@@ -315,7 +275,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-08-31T06:21:55.262774",
+    "scraped_at": "2025-09-01T06:27:32.276673",
     "tmdb": {
       "id": 216471,
       "title": "Irezumi",
@@ -355,7 +315,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-08-31T06:21:59.631784"
+    "scraped_at": "2025-09-01T06:27:35.629967"
   },
   {
     "film_id": "10075",
@@ -375,7 +335,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:22:08.891367",
+    "scraped_at": "2025-09-01T06:27:42.910077",
     "tmdb": {
       "id": 1040,
       "title": "The Leopard",
@@ -414,7 +374,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:22:13.021196",
+    "scraped_at": "2025-09-01T06:27:46.417441",
     "tmdb": {
       "id": 1075610,
       "title": "Smiley",
@@ -451,7 +411,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-08-31T06:22:32.036919",
+    "scraped_at": "2025-09-01T06:28:01.240703",
     "tmdb": {
       "id": 105554,
       "title": "The Forgotten Space",
@@ -490,7 +450,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:22:38.572309",
+    "scraped_at": "2025-09-01T06:28:06.575668",
     "tmdb": {
       "id": 111397,
       "title": "A Wife Confesses",
@@ -531,7 +491,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:22:42.788582",
+    "scraped_at": "2025-09-01T06:28:10.130756",
     "tmdb": {
       "id": 43195,
       "title": "Senso",
@@ -572,13 +532,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:22:54.371534",
+    "scraped_at": "2025-09-01T06:28:19.408510",
     "tmdb": {
       "id": 39415,
       "title": "Loulou",
       "overview": "A bored wife leaves her husband for an unemployed, petty criminal.",
       "release_date": "1980-09-03",
-      "rating": 6.286,
+      "rating": 6.3,
       "vote_count": 96,
       "genres": [
         "Drama",
@@ -612,7 +572,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:23:01.027602"
+    "scraped_at": "2025-09-01T06:28:24.792217"
   },
   {
     "film_id": "784",
@@ -632,7 +592,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:23:15.014747",
+    "scraped_at": "2025-09-01T06:28:35.682966",
     "tmdb": {
       "id": 41876,
       "title": "The Damned",
@@ -672,7 +632,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-08-31T06:23:26.624498",
+    "scraped_at": "2025-09-01T06:28:44.602950",
     "tmdb": {
       "id": 362951,
       "title": "Nagamadathu Thampuratti",
@@ -709,7 +669,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:23:35.800394",
+    "scraped_at": "2025-09-01T06:28:51.757280",
     "tmdb": {
       "id": 98636,
       "title": "Kisses",
@@ -749,7 +709,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:23:42.713251",
+    "scraped_at": "2025-09-01T06:28:56.856838",
     "tmdb": {
       "id": 85550,
       "title": "Tale of Cinema",
@@ -788,7 +748,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:24:06.614786",
+    "scraped_at": "2025-09-01T06:29:15.465036",
     "tmdb": {
       "id": 1481312,
       "title": "Manji",
@@ -825,7 +785,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-08-31T06:24:13.163050",
+    "scraped_at": "2025-09-01T06:29:20.869805",
     "tmdb": {
       "id": 434773,
       "title": "On the Beach at Night Alone",
@@ -864,7 +824,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:24:29.769290",
+    "scraped_at": "2025-09-01T06:29:34.045753",
     "tmdb": {
       "id": 103753,
       "title": "In Another Country",
@@ -903,7 +863,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:24:36.558872",
+    "scraped_at": "2025-09-01T06:29:39.372349",
     "tmdb": {
       "id": 3478,
       "title": "Ludwig",
@@ -943,7 +903,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:24:47.948419",
+    "scraped_at": "2025-09-01T06:29:48.537849",
     "tmdb": {
       "id": 8422,
       "title": "Rocco and His Brothers",
@@ -983,7 +943,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:25:00.332985",
+    "scraped_at": "2025-09-01T06:29:57.616395",
     "tmdb": {
       "id": 230893,
       "title": "Scénario de 'Sauve qui peut la vie'",
@@ -1022,7 +982,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:25:17.456342",
+    "scraped_at": "2025-09-01T06:30:10.521283",
     "tmdb": {
       "id": 86262,
       "title": "Like You Know It All",
@@ -1062,7 +1022,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:25:46.975390",
+    "scraped_at": "2025-09-01T06:30:33.013998",
     "tmdb": {
       "id": 1358533,
       "title": "Ossessione",
@@ -1102,7 +1062,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:25:56.342784",
+    "scraped_at": "2025-09-01T06:30:40.315867",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -1141,7 +1101,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-08-31T06:26:15.269812"
+    "scraped_at": "2025-09-01T06:30:55.119284"
   },
   {
     "film_id": "13931",
@@ -1161,7 +1121,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:26:27.110488",
+    "scraped_at": "2025-09-01T06:31:04.489573",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -1200,7 +1160,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:26:41.049468",
+    "scraped_at": "2025-09-01T06:31:15.766815",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -1239,7 +1199,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:26:45.242614",
+    "scraped_at": "2025-09-01T06:31:19.113960",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -1278,7 +1238,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:26:56.633395",
+    "scraped_at": "2025-09-01T06:31:28.473243",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -1317,7 +1277,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:27:10.800061",
+    "scraped_at": "2025-09-01T06:31:39.787447",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -1356,7 +1316,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:27:15.081784",
+    "scraped_at": "2025-09-01T06:31:43.187059",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -1396,7 +1356,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:27:29.338037",
+    "scraped_at": "2025-09-01T06:31:54.078346",
     "tmdb": {
       "id": 989406,
       "title": "After Work",
@@ -1435,6 +1395,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-08-31T06:27:33.721681"
+    "scraped_at": "2025-09-01T06:31:57.644226"
   }
 ]

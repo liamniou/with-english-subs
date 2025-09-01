@@ -1,51 +1,5 @@
 [
   {
-    "film_id": "oslo-31-augusti",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Oslo, 31 augusti",
-    "director": "Joachim Trier",
-    "duration": "1h 35 mins",
-    "language": "Norska",
-    "showtimes": [
-      {
-        "datetime": "2025-08-31T15:30:00+02:00",
-        "display_text": "Sunday, 31st August 15:30",
-        "time": "15:30",
-        "date_section": "Söndag, 31st Augusti",
-        "ticket_url": "https://biofagelbla.se/movie/oslo-august-31st/?showtime=48875",
-        "showtime_id": "48875",
-        "original_display_text": "Söndag, 31st Augusti 15:30",
-        "normalized_datetime": "2025-08-31T15:30:00",
-        "normalized_date": "31.08",
-        "normalized_time": "15:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-08-31T06:27:51.684887+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 75233,
-      "title": "Oslo, August 31st",
-      "overview": "One day in the life of Anders, a young recovering drug addict, who takes a brief leave from his treatment center to interview for a job and catch up with old friends in Oslo.",
-      "release_date": "2011-08-31",
-      "rating": 7.483,
-      "vote_count": 463,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/4lddePs5fHvj8ieVe6whe1qJMo5.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4lddePs5fHvj8ieVe6whe1qJMo5.jpg",
-      "backdrop_path": "/roCQcDKrrFjXEMDDMxEKpeL6h0F.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/roCQcDKrrFjXEMDDMxEKpeL6h0F.jpg",
-      "imdb_id": "tt1736633",
-      "runtime": 94,
-      "budget": 0,
-      "revenue": 1481665
-    }
-  },
-  {
     "film_id": "kris",
     "url": "https://biofagelbla.se/program/",
     "title": "Kris",
@@ -69,7 +23,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.685120+00:00",
+    "scraped_at": "2025-09-01T06:32:11.239098+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 30734,
@@ -116,15 +70,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.685577+00:00",
+    "scraped_at": "2025-09-01T06:32:11.239598+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
       "title": "Amélie",
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
-      "rating": 7.914,
-      "vote_count": 11910,
+      "rating": 7.913,
+      "vote_count": 11911,
       "genres": [
         "Comedy",
         "Romance"
@@ -163,7 +117,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.685926+00:00",
+    "scraped_at": "2025-09-01T06:32:11.239950+00:00",
     "source": "fagelbla"
   },
   {
@@ -190,7 +144,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.686208+00:00",
+    "scraped_at": "2025-09-01T06:32:11.240245+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1213,
@@ -238,15 +192,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.686342+00:00",
+    "scraped_at": "2025-09-01T06:32:11.240389+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1398,
       "title": "Stalker",
       "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
       "release_date": "1979-05-25",
-      "rating": 8.112,
-      "vote_count": 2344,
+      "rating": 8.113,
+      "vote_count": 2345,
       "genres": [
         "Science Fiction",
         "Drama"
@@ -285,7 +239,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.686532+00:00",
+    "scraped_at": "2025-09-01T06:32:11.240523+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 51143,
@@ -331,7 +285,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.686979+00:00",
+    "scraped_at": "2025-09-01T06:32:11.240787+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 398818,
@@ -378,7 +332,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.687288+00:00",
+    "scraped_at": "2025-09-01T06:32:11.241101+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47206,
@@ -424,7 +378,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.687666+00:00",
+    "scraped_at": "2025-09-01T06:32:11.241370+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 4173,
@@ -470,7 +424,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.687889+00:00",
+    "scraped_at": "2025-09-01T06:32:11.241493+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 71,
@@ -518,7 +472,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.688082+00:00",
+    "scraped_at": "2025-09-01T06:32:11.241619+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
@@ -564,7 +518,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.688385+00:00",
+    "scraped_at": "2025-09-01T06:32:11.241845+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1669,
@@ -572,7 +526,7 @@
       "overview": "A new technologically-superior Soviet nuclear sub, the Red October, is heading for the U.S. coast under the command of Captain Marko Ramius. The American government thinks Ramius is planning to attack. Lone CIA analyst Jack Ryan has a different idea: he thinks Ramius is planning to defect, but he has only a few hours to find him and prove it - because the entire Russian naval and air commands are trying to find Ramius, too. The hunt is on!",
       "release_date": "1990-03-02",
       "rating": 7.38,
-      "vote_count": 3431,
+      "vote_count": 3432,
       "genres": [
         "Action",
         "Adventure",
@@ -612,7 +566,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.688618+00:00",
+    "scraped_at": "2025-09-01T06:32:11.241971+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 42692,
@@ -660,7 +614,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.688915+00:00",
+    "scraped_at": "2025-09-01T06:32:11.242124+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -708,7 +662,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.689210+00:00",
+    "scraped_at": "2025-09-01T06:32:11.242471+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -754,14 +708,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.689395+00:00",
+    "scraped_at": "2025-09-01T06:32:11.242679+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
       "title": "A Nos Amours",
       "overview": "Fifteen-year-old Suzanne seeks refuge from a disintegrating family in a series of impulsive, promiscuous affairs. Her fulsome sexuality further ratchets up the suppressed passions of her narcissistic brother, insecure mother and brooding, authoritarian father.",
       "release_date": "1983-11-16",
-      "rating": 6.84,
+      "rating": 6.8,
       "vote_count": 210,
       "genres": [
         "Drama",
@@ -801,7 +755,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.689605+00:00",
+    "scraped_at": "2025-09-01T06:32:11.242805+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
@@ -847,7 +801,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.689902+00:00",
+    "scraped_at": "2025-09-01T06:32:11.242963+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -894,7 +848,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.690117+00:00",
+    "scraped_at": "2025-09-01T06:32:11.243088+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -942,7 +896,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.690325+00:00",
+    "scraped_at": "2025-09-01T06:32:11.243219+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
@@ -988,7 +942,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.690624+00:00",
+    "scraped_at": "2025-09-01T06:32:11.243380+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -1036,7 +990,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.690854+00:00",
+    "scraped_at": "2025-09-01T06:32:11.243498+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -1084,7 +1038,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.691131+00:00",
+    "scraped_at": "2025-09-01T06:32:11.243784+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -1131,7 +1085,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-08-31T06:27:51.691342+00:00",
+    "scraped_at": "2025-09-01T06:32:11.243990+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
