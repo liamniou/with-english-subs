@@ -127,7 +127,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:23:01.755560",
+    "scraped_at": "2025-09-02T06:21:24.839300",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
@@ -219,7 +219,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:23:16.306346",
+    "scraped_at": "2025-09-02T06:21:30.948214",
     "source": "biorio",
     "tmdb": {
       "id": 1311031,
@@ -227,7 +227,7 @@
       "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "release_date": "2025-07-18",
       "rating": 7.2,
-      "vote_count": 95,
+      "vote_count": 96,
       "genres": [
         "Animation",
         "Action",
@@ -315,7 +315,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:23:51.538043",
+    "scraped_at": "2025-09-02T06:21:44.451045",
     "source": "biorio",
     "tmdb": {
       "id": 11830,
@@ -343,6 +343,72 @@
     "title": "Akira",
     "director": "Katsuhiro Otomo",
     "showtimes": [
+      {
+        "datetime": "2025-09-17T18:40:00.000Z",
+        "display_text": "Wednesday September 17, 2025 at 6:40 PM",
+        "movie_id": "5495",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/923",
+        "api_data": {
+          "id": 923,
+          "movieId": 5495,
+          "movieVersionId": 208,
+          "startTime": "2025-09-17T18:40:00.000Z",
+          "endTime": "2025-09-17T20:44:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "created_at": "2025-09-01T11:20:17.355Z",
+          "movie": {
+            "id": 5495,
+            "title": "Akira",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5495/posters/1748250084538-453oe.jpg",
+            "movieVersions": [
+              {
+                "duration": 124,
+                "audio": "Japanska",
+                "subtitles": "Svenska"
+              },
+              {
+                "duration": 124,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 208,
+            "duration": 124,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "reRUN"
+          ],
+          "isPublished": true
+        },
+        "original_display_text": "Wednesday September 17, 2025 at 18:40",
+        "normalized_datetime": "2025-09-17T18:40:00",
+        "normalized_date": "17.09",
+        "normalized_time": "18:40"
+      },
       {
         "datetime": "2025-09-04T18:10:00.000Z",
         "display_text": "Thursday September 04, 2025 at 6:10 PM",
@@ -479,7 +545,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:25:45.940444",
+    "scraped_at": "2025-09-02T06:22:31.783427",
     "source": "biorio",
     "tmdb": {
       "id": 149,
@@ -487,7 +553,7 @@
       "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
       "release_date": "1988-06-10",
       "rating": 7.941,
-      "vote_count": 4489,
+      "vote_count": 4492,
       "genres": [
         "Animation",
         "Science Fiction",

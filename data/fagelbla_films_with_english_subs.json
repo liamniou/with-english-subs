@@ -1,52 +1,5 @@
 [
   {
-    "film_id": "kris",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Kris",
-    "director": "Ingmar Bergman",
-    "duration": "1h 33 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2025-09-01T17:45:00+02:00",
-        "display_text": "Monday, 1st September 17:45",
-        "time": "17:45",
-        "date_section": "Måndag, 1st September",
-        "ticket_url": "https://biofagelbla.se/movie/kris/?showtime=48433",
-        "showtime_id": "48433",
-        "original_display_text": "Måndag, 1st September 17:45",
-        "normalized_datetime": "2025-09-01T17:45:00",
-        "normalized_date": "01.09",
-        "normalized_time": "17:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-09-01T06:32:11.239098+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 30734,
-      "title": "Crisis",
-      "overview": "A small-town piano teacher is shocked by the arrival of her foster daughter's biological mother, whose young lover soon follows and causes further disruption.",
-      "release_date": "1946-02-25",
-      "rating": 6.4,
-      "vote_count": 99,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/j6nUMIm7SfqKMBXNo646iVPL2NP.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/j6nUMIm7SfqKMBXNo646iVPL2NP.jpg",
-      "backdrop_path": "/t4cfsFn0jX3PLLYQqxlbnZjLBlf.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/t4cfsFn0jX3PLLYQqxlbnZjLBlf.jpg",
-      "imdb_id": "tt0038675",
-      "runtime": 93,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "amélie-från-montmartre",
     "url": "https://biofagelbla.se/program/",
     "title": "Amélie från Montmartre",
@@ -70,15 +23,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.239598+00:00",
+    "scraped_at": "2025-09-02T06:30:50.425760+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
       "title": "Amélie",
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
-      "rating": 7.913,
-      "vote_count": 11911,
+      "rating": 7.914,
+      "vote_count": 11914,
       "genres": [
         "Comedy",
         "Romance"
@@ -117,7 +70,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.239950+00:00",
+    "scraped_at": "2025-09-02T06:30:50.426143+00:00",
     "source": "fagelbla"
   },
   {
@@ -144,15 +97,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.240245+00:00",
+    "scraped_at": "2025-09-02T06:30:50.426606+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1213,
       "title": "The Talented Mr. Ripley",
       "overview": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
       "release_date": "1999-12-25",
-      "rating": 7.196,
-      "vote_count": 3916,
+      "rating": 7.197,
+      "vote_count": 3918,
       "genres": [
         "Thriller",
         "Crime",
@@ -192,15 +145,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.240389+00:00",
+    "scraped_at": "2025-09-02T06:30:50.426753+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1398,
       "title": "Stalker",
       "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
       "release_date": "1979-05-25",
-      "rating": 8.113,
-      "vote_count": 2345,
+      "rating": 8.114,
+      "vote_count": 2347,
       "genres": [
         "Science Fiction",
         "Drama"
@@ -224,22 +177,22 @@
     "language": "Svensk",
     "showtimes": [
       {
-        "datetime": "2025-09-15T17:30:00+02:00",
-        "display_text": "Monday, 15th September 17:30",
-        "time": "17:30",
+        "datetime": "2025-09-15T18:00:00+02:00",
+        "display_text": "Monday, 15th September 18:00",
+        "time": "18:00",
         "date_section": "Måndag, 15th September",
         "ticket_url": "https://biofagelbla.se/movie/torst/?showtime=49318",
         "showtime_id": "49318",
-        "original_display_text": "Måndag, 15th September 17:30",
-        "normalized_datetime": "2025-09-15T17:30:00",
+        "original_display_text": "Måndag, 15th September 18:00",
+        "normalized_datetime": "2025-09-15T18:00:00",
         "normalized_date": "15.09",
-        "normalized_time": "17:30"
+        "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.240523+00:00",
+    "scraped_at": "2025-09-02T06:30:50.426885+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 51143,
@@ -285,7 +238,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.240787+00:00",
+    "scraped_at": "2025-09-02T06:30:50.427140+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 398818,
@@ -293,7 +246,7 @@
       "overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
       "release_date": "2017-07-28",
       "rating": 8.111,
-      "vote_count": 12396,
+      "vote_count": 12398,
       "genres": [
         "Romance",
         "Drama"
@@ -332,7 +285,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.241101+00:00",
+    "scraped_at": "2025-09-02T06:30:50.427445+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47206,
@@ -378,7 +331,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.241370+00:00",
+    "scraped_at": "2025-09-02T06:30:50.427711+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 4173,
@@ -424,7 +377,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.241493+00:00",
+    "scraped_at": "2025-09-02T06:30:50.427856+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 71,
@@ -457,22 +410,22 @@
     "language": "Svensk",
     "showtimes": [
       {
-        "datetime": "2025-09-29T17:45:00+02:00",
-        "display_text": "Monday, 29th September 17:45",
-        "time": "17:45",
+        "datetime": "2025-09-29T18:00:00+02:00",
+        "display_text": "Monday, 29th September 18:00",
+        "time": "18:00",
         "date_section": "Måndag, 29th September",
         "ticket_url": "https://biofagelbla.se/movie/hostsonaten/?showtime=48437",
         "showtime_id": "48437",
-        "original_display_text": "Måndag, 29th September 17:45",
-        "normalized_datetime": "2025-09-29T17:45:00",
+        "original_display_text": "Måndag, 29th September 18:00",
+        "normalized_datetime": "2025-09-29T18:00:00",
         "normalized_date": "29.09",
-        "normalized_time": "17:45"
+        "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.241619+00:00",
+    "scraped_at": "2025-09-02T06:30:50.427998+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
@@ -480,7 +433,7 @@
       "overview": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
       "release_date": "1978-10-08",
       "rating": 8.0,
-      "vote_count": 645,
+      "vote_count": 647,
       "genres": [
         "Drama"
       ],
@@ -518,7 +471,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.241845+00:00",
+    "scraped_at": "2025-09-02T06:30:50.428201+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1669,
@@ -566,7 +519,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.241971+00:00",
+    "scraped_at": "2025-09-02T06:30:50.428329+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 42692,
@@ -614,7 +567,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.242124+00:00",
+    "scraped_at": "2025-09-02T06:30:50.428490+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -662,7 +615,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.242471+00:00",
+    "scraped_at": "2025-09-02T06:30:50.428810+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -708,7 +661,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.242679+00:00",
+    "scraped_at": "2025-09-02T06:30:50.428933+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
@@ -755,15 +708,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.242805+00:00",
+    "scraped_at": "2025-09-02T06:30:50.429051+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
       "title": "Nights of Cabiria",
       "overview": "Rome, 1957. A woman, Cabiria, is robbed and left to drown by her boyfriend, Giorgio. Rescued, she resumes her life and tries her best to find happiness in a cynical world. Even when she thinks her struggles are over and she has found happiness and contentment, things may not be what they seem.",
       "release_date": "1957-10-03",
-      "rating": 8.0,
-      "vote_count": 805,
+      "rating": 7.989,
+      "vote_count": 807,
       "genres": [
         "Drama"
       ],
@@ -801,7 +754,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.242963+00:00",
+    "scraped_at": "2025-09-02T06:30:50.429237+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -848,7 +801,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.243088+00:00",
+    "scraped_at": "2025-09-02T06:30:50.429390+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -896,15 +849,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.243219+00:00",
+    "scraped_at": "2025-09-02T06:30:50.429509+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
       "title": "Paris, Texas",
       "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
       "release_date": "1984-07-16",
-      "rating": 8.1,
-      "vote_count": 2031,
+      "rating": 8.103,
+      "vote_count": 2034,
       "genres": [
         "Drama"
       ],
@@ -927,22 +880,22 @@
     "language": "Engelska",
     "showtimes": [
       {
-        "datetime": "2025-10-27T17:45:00+01:00",
-        "display_text": "Monday, 27th October 17:45",
-        "time": "17:45",
+        "datetime": "2025-10-27T18:00:00+01:00",
+        "display_text": "Monday, 27th October 18:00",
+        "time": "18:00",
         "date_section": "Måndag, 27th Oktober",
         "ticket_url": "https://biofagelbla.se/movie/the-serpents-egg/?showtime=48442",
         "showtime_id": "48442",
-        "original_display_text": "Måndag, 27th Oktober 17:45",
-        "normalized_datetime": "2025-10-27T17:45:00",
+        "original_display_text": "Måndag, 27th Oktober 18:00",
+        "normalized_datetime": "2025-10-27T18:00:00",
         "normalized_date": "27.10",
-        "normalized_time": "17:45"
+        "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.243380+00:00",
+    "scraped_at": "2025-09-02T06:30:50.429670+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -990,7 +943,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.243498+00:00",
+    "scraped_at": "2025-09-02T06:30:50.429792+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -1038,7 +991,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.243784+00:00",
+    "scraped_at": "2025-09-02T06:30:50.430056+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -1085,7 +1038,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-01T06:32:11.243990+00:00",
+    "scraped_at": "2025-09-02T06:30:50.430231+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
