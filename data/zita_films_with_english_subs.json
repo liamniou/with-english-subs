@@ -15,8 +15,8 @@
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
         "original_display_text": "20:15",
-        "normalized_datetime": "2025-09-03T20:15:00",
-        "normalized_date": "03.09",
+        "normalized_datetime": "2025-09-04T20:15:00",
+        "normalized_date": "04.09",
         "normalized_time": "20:15"
       }
     ],
@@ -30,7 +30,7 @@
       "title": "To a Land Unknown",
       "overview": "Cousins Chatila and Reda are saving to pay for fake passports to get out of Athens. When Reda loses their hard-earned cash to his drug addiction, Chatila hatches an extreme plan to pose as smugglers in an attempt to get them out of their desperate situation before it is too late.",
       "release_date": "2025-02-14",
-      "rating": 7.429,
+      "rating": 7.4,
       "vote_count": 7,
       "genres": [
         "Drama",
