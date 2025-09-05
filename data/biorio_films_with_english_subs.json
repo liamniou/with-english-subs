@@ -1,5 +1,100 @@
 [
   {
+    "film_id": "haxan-1922",
+    "url": "https://www.biorio.se/movies/haxan-1922",
+    "title": "Häxan (1922)",
+    "director": "Benjamin Christensen",
+    "showtimes": [
+      {
+        "datetime": "2025-11-04T17:00:00.000Z",
+        "display_text": "Tuesday November 04, 2025 at 17:00",
+        "movie_id": "5635",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/950",
+        "api_data": {
+          "id": 950,
+          "movieId": 5635,
+          "movieVersionId": 317,
+          "startTime": "2025-11-04T17:00:00.000Z",
+          "endTime": "2025-11-04T18:46:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "created_at": "2025-09-04T11:42:29.501Z",
+          "movie": {
+            "id": 5635,
+            "title": "Häxan (1922)",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5635/posters/1756986061250-9s8j8.jpg",
+            "movieVersions": [
+              {
+                "duration": 106,
+                "audio": "-",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "-"
+          },
+          "MovieVersion": {
+            "id": 317,
+            "duration": 106,
+            "subtitles": "Engelska",
+            "audio": "-"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "reRUN",
+            "Trick or Treat"
+          ],
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-11-04T17:00:00",
+        "normalized_date": "04.11",
+        "normalized_time": "17:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2025-09-05T06:20:18.685768",
+    "source": "biorio",
+    "tmdb": {
+      "id": 57283,
+      "title": "Häxan",
+      "overview": "Grave robbing, torture, possessed nuns, and a satanic Sabbath: Benjamin Christensen's legendary film uses a series of dramatic vignettes to explore the scientific hypothesis that the witches of the Middle Ages suffered the same hysteria as turn-of-the-century psychiatric patients. But the film itself is far from serious-- instead it's a witches' brew of the scary, gross, and darkly humorous.",
+      "release_date": "1922-09-18",
+      "rating": 7.614,
+      "vote_count": 400,
+      "genres": [
+        "Documentary",
+        "Horror",
+        "History"
+      ],
+      "poster_path": "/3LtaPLlwlA5HX2FjqAb8lsaBI8P.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3LtaPLlwlA5HX2FjqAb8lsaBI8P.jpg",
+      "backdrop_path": "/gZwQip2KQRDNZZOEDe0Yi25tW9Z.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gZwQip2KQRDNZZOEDe0Yi25tW9Z.jpg",
+      "imdb_id": "tt0013257",
+      "runtime": 105,
+      "budget": 220000,
+      "revenue": 0
+    }
+  },
+  {
     "film_id": "depeche-mode-m",
     "url": "https://www.biorio.se/movies/depeche-mode-m",
     "title": "Depeche Mode: M",
@@ -7,7 +102,7 @@
     "showtimes": [
       {
         "datetime": "2025-10-30T19:10:00.000Z",
-        "display_text": "Thursday October 30, 2025 at 7:10 PM",
+        "display_text": "Thursday October 30, 2025 at 19:10",
         "movie_id": "5619",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/867",
@@ -59,14 +154,13 @@
           "tags": [],
           "isPublished": false
         },
-        "original_display_text": "Thursday October 30, 2025 at 19:10",
         "normalized_datetime": "2025-10-30T19:10:00",
         "normalized_date": "30.10",
         "normalized_time": "19:10"
       },
       {
         "datetime": "2025-10-28T19:15:00.000Z",
-        "display_text": "Tuesday October 28, 2025 at 7:15 PM",
+        "display_text": "Tuesday October 28, 2025 at 19:15",
         "movie_id": "5619",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/866",
@@ -118,7 +212,6 @@
           "tags": [],
           "isPublished": false
         },
-        "original_display_text": "Tuesday October 28, 2025 at 19:15",
         "normalized_datetime": "2025-10-28T19:15:00",
         "normalized_date": "28.10",
         "normalized_time": "19:15"
@@ -127,7 +220,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-04T06:20:10.551661",
+    "scraped_at": "2025-09-05T06:20:24.742929",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
@@ -158,7 +251,7 @@
     "showtimes": [
       {
         "datetime": "2025-09-12T18:30:00.000Z",
-        "display_text": "Friday September 12, 2025 at 6:30 PM",
+        "display_text": "Friday September 12, 2025 at 18:30",
         "movie_id": "5612",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/852",
@@ -210,7 +303,6 @@
           "tags": [],
           "isPublished": true
         },
-        "original_display_text": "Friday September 12, 2025 at 18:30",
         "normalized_datetime": "2025-09-12T18:30:00",
         "normalized_date": "12.09",
         "normalized_time": "18:30"
@@ -219,15 +311,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-04T06:20:17.999918",
+    "scraped_at": "2025-09-05T06:20:28.403796",
     "source": "biorio",
     "tmdb": {
       "id": 1311031,
       "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
       "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "release_date": "2025-07-18",
-      "rating": 7.2,
-      "vote_count": 99,
+      "rating": 7.24,
+      "vote_count": 100,
       "genres": [
         "Animation",
         "Action",
@@ -252,7 +344,7 @@
     "showtimes": [
       {
         "datetime": "2025-09-13T18:30:00.000Z",
-        "display_text": "Saturday September 13, 2025 at 6:30 PM",
+        "display_text": "Saturday September 13, 2025 at 18:30",
         "movie_id": "5592",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/744",
@@ -306,7 +398,6 @@
           ],
           "isPublished": true
         },
-        "original_display_text": "Saturday September 13, 2025 at 18:30",
         "normalized_datetime": "2025-09-13T18:30:00",
         "normalized_date": "13.09",
         "normalized_time": "18:30"
@@ -315,15 +406,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-04T06:20:30.993099",
+    "scraped_at": "2025-09-05T06:20:41.581197",
     "source": "biorio",
     "tmdb": {
       "id": 11830,
       "title": "Tampopo",
       "overview": "In this humorous paean to the joys of food, a pair of truck drivers happen onto a decrepit roadside shop selling ramen noodles. The widowed owner, Tampopo, begs them to help her turn her establishment into a paragon of the \"art of noodle-soup making\". Interspersed are satirical vignettes about the importance of food to different aspects of human life.",
       "release_date": "1985-11-23",
-      "rating": 7.9,
-      "vote_count": 387,
+      "rating": 7.858,
+      "vote_count": 388,
       "genres": [
         "Comedy"
       ],
@@ -345,7 +436,7 @@
     "showtimes": [
       {
         "datetime": "2025-09-17T18:40:00.000Z",
-        "display_text": "Wednesday September 17, 2025 at 6:40 PM",
+        "display_text": "Wednesday September 17, 2025 at 18:40",
         "movie_id": "5495",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/923",
@@ -404,80 +495,13 @@
           ],
           "isPublished": true
         },
-        "original_display_text": "Wednesday September 17, 2025 at 18:40",
         "normalized_datetime": "2025-09-17T18:40:00",
         "normalized_date": "17.09",
         "normalized_time": "18:40"
       },
       {
-        "datetime": "2025-09-04T18:10:00.000Z",
-        "display_text": "Thursday September 04, 2025 at 6:10 PM",
-        "movie_id": "5495",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/894",
-        "api_data": {
-          "id": 894,
-          "movieId": 5495,
-          "movieVersionId": 208,
-          "startTime": "2025-09-04T18:10:00.000Z",
-          "endTime": "2025-09-04T20:14:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "created_at": "2025-08-26T12:19:54.639Z",
-          "movie": {
-            "id": 5495,
-            "title": "Akira",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5495/posters/1748250084538-453oe.jpg",
-            "movieVersions": [
-              {
-                "duration": 124,
-                "audio": "Japanska",
-                "subtitles": "Svenska"
-              },
-              {
-                "duration": 124,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 208,
-            "duration": 124,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [
-            "reRUN"
-          ],
-          "isPublished": true
-        },
-        "original_display_text": "Thursday September 04, 2025 at 18:10",
-        "normalized_datetime": "2025-09-04T18:10:00",
-        "normalized_date": "04.09",
-        "normalized_time": "18:10"
-      },
-      {
         "datetime": "2025-09-08T16:00:00.000Z",
-        "display_text": "Monday September 08, 2025 at 4:00 PM",
+        "display_text": "Monday September 08, 2025 at 16:00",
         "movie_id": "5495",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/828",
@@ -536,7 +560,6 @@
           ],
           "isPublished": true
         },
-        "original_display_text": "Monday September 08, 2025 at 16:00",
         "normalized_datetime": "2025-09-08T16:00:00",
         "normalized_date": "08.09",
         "normalized_time": "16:00"
@@ -545,7 +568,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-04T06:21:23.310656",
+    "scraped_at": "2025-09-05T06:21:20.704691",
     "source": "biorio",
     "tmdb": {
       "id": 149,
@@ -553,7 +576,7 @@
       "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
       "release_date": "1988-06-10",
       "rating": 7.941,
-      "vote_count": 4495,
+      "vote_count": 4499,
       "genres": [
         "Animation",
         "Science Fiction",
