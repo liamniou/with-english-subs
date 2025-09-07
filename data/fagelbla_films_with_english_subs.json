@@ -1,52 +1,5 @@
 [
   {
-    "film_id": "amélie-från-montmartre",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Amélie från Montmartre",
-    "director": "Jean-Pierre Jeunet",
-    "duration": "2h 3 mins",
-    "language": "Franska",
-    "showtimes": [
-      {
-        "datetime": "2025-09-06T10:30:00+02:00",
-        "display_text": "Saturday, 6th September 10:30",
-        "time": "10:30",
-        "date_section": "Lördag, 6th September",
-        "ticket_url": "https://biofagelbla.se/movie/amelie/?showtime=48515",
-        "showtime_id": "48515",
-        "original_display_text": "Lördag, 6th September 10:30",
-        "normalized_datetime": "2025-09-06T10:30:00",
-        "normalized_date": "06.09",
-        "normalized_time": "10:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-09-06T06:26:19.887094+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 194,
-      "title": "Amélie",
-      "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
-      "release_date": "2001-04-25",
-      "rating": 7.913,
-      "vote_count": 11921,
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "poster_path": "/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg",
-      "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
-      "imdb_id": "tt0211915",
-      "runtime": 122,
-      "budget": 10000000,
-      "revenue": 173921954
-    }
-  },
-  {
     "film_id": "barnvagnen",
     "url": "https://biofagelbla.se/program/",
     "title": "Barnvagnen",
@@ -70,7 +23,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.887484+00:00",
+    "scraped_at": "2025-09-07T06:25:09.981228+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 135380,
@@ -116,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.888062+00:00",
+    "scraped_at": "2025-09-07T06:25:09.981820+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1213,
@@ -164,7 +117,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.888241+00:00",
+    "scraped_at": "2025-09-07T06:25:09.982014+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1398,
@@ -211,7 +164,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.888398+00:00",
+    "scraped_at": "2025-09-07T06:25:09.982175+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 51143,
@@ -257,14 +210,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.888867+00:00",
+    "scraped_at": "2025-09-07T06:25:09.982601+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 398818,
       "title": "Call Me by Your Name",
       "overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
       "release_date": "2017-07-28",
-      "rating": 8.109,
+      "rating": 8.1,
       "vote_count": 12411,
       "genres": [
         "Romance",
@@ -304,7 +257,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.889168+00:00",
+    "scraped_at": "2025-09-07T06:25:09.982864+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47206,
@@ -350,7 +303,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.889512+00:00",
+    "scraped_at": "2025-09-07T06:25:09.983222+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 4173,
@@ -396,7 +349,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.889679+00:00",
+    "scraped_at": "2025-09-07T06:25:09.983378+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 71,
@@ -444,7 +397,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.889830+00:00",
+    "scraped_at": "2025-09-07T06:25:09.983525+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
@@ -490,7 +443,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.890005+00:00",
+    "scraped_at": "2025-09-07T06:25:09.983702+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1669,
@@ -538,7 +491,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.890128+00:00",
+    "scraped_at": "2025-09-07T06:25:09.983849+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 42692,
@@ -586,14 +539,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.890285+00:00",
+    "scraped_at": "2025-09-07T06:25:09.984012+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
       "title": "Wings of Desire",
       "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds -- with some words of wisdom from actor Peter Falk -- that it might be possible for him to take human form.",
       "release_date": "1987-09-23",
-      "rating": 7.782,
+      "rating": 7.8,
       "vote_count": 1408,
       "genres": [
         "Drama",
@@ -634,7 +587,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.890634+00:00",
+    "scraped_at": "2025-09-07T06:25:09.984253+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -680,7 +633,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.890833+00:00",
+    "scraped_at": "2025-09-07T06:25:09.984470+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
@@ -727,14 +680,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.890981+00:00",
+    "scraped_at": "2025-09-07T06:25:09.984608+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
       "title": "Nights of Cabiria",
       "overview": "Rome, 1957. A woman, Cabiria, is robbed and left to drown by her boyfriend, Giorgio. Rescued, she resumes her life and tries her best to find happiness in a cynical world. Even when she thinks her struggles are over and she has found happiness and contentment, things may not be what they seem.",
       "release_date": "1957-10-03",
-      "rating": 7.989,
+      "rating": 8.0,
       "vote_count": 807,
       "genres": [
         "Drama"
@@ -773,7 +726,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.891139+00:00",
+    "scraped_at": "2025-09-07T06:25:09.984779+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -820,7 +773,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.891285+00:00",
+    "scraped_at": "2025-09-07T06:25:09.984928+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -868,7 +821,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.891405+00:00",
+    "scraped_at": "2025-09-07T06:25:09.985054+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
@@ -914,7 +867,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.891595+00:00",
+    "scraped_at": "2025-09-07T06:25:09.985209+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -962,7 +915,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.891724+00:00",
+    "scraped_at": "2025-09-07T06:25:09.985327+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -1010,7 +963,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.892008+00:00",
+    "scraped_at": "2025-09-07T06:25:09.985513+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -1057,7 +1010,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-06T06:26:19.892212+00:00",
+    "scraped_at": "2025-09-07T06:25:09.985695+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,

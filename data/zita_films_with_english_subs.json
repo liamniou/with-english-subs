@@ -1,50 +1,48 @@
 [
   {
-    "film_id": "to-a-land-unknown",
-    "url": "https://zita.se/to-a-land-unknown",
-    "title": "To a Land Unknown",
+    "film_id": "wisdom-of-happiness",
+    "url": "https://zita.se/wisdom-of-happiness",
+    "title": "Wisdom of Happiness",
     "director": "",
-    "genre": "UK, Palestina, Frankrike, GreklandUK, Palestina...🔍20241 jan 2024106 minDramaFrån 15 årFolkets Bio StockholmGeoff Arbourne...🔍ArabiskaEngelska",
+    "genre": "USA, Schweiz20241 jan 202590 minDokumentärFrån 15 årFolkets Bio StockholmEngelskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "8:15 PM",
-        "time": "20:15",
+        "display_text": "6:00 PM",
+        "time": "18:00",
         "date": "",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5483",
-        "original_display_text": "20:15",
-        "normalized_datetime": "2025-09-06T20:15:00",
-        "normalized_date": "06.09",
-        "normalized_time": "20:15"
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5527",
+        "original_display_text": "18:00",
+        "normalized_datetime": "2025-09-07T18:00:00",
+        "normalized_date": "07.09",
+        "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-08-21T06:39:17.290844+00:00",
+    "scraped_at": "2025-09-07T06:25:41.948737+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1214052,
-      "title": "To a Land Unknown",
-      "overview": "Cousins Chatila and Reda are saving to pay for fake passports to get out of Athens. When Reda loses their hard-earned cash to his drug addiction, Chatila hatches an extreme plan to pose as smugglers in an attempt to get them out of their desperate situation before it is too late.",
-      "release_date": "2025-02-14",
-      "rating": 7.4,
-      "vote_count": 7,
+      "id": 1340449,
+      "title": "Wisdom of Happiness",
+      "overview": "A deeply intimate and highly cinematic documentary featuring the Dalai Lama, who, at nearly ninety year of age, offers practical advice for navigating the 21st century's challenges.",
+      "release_date": "2024-11-05",
+      "rating": 5.7,
+      "vote_count": 3,
       "genres": [
-        "Drama",
-        "Thriller",
-        "Crime"
+        "Documentary"
       ],
-      "poster_path": "/zEbBuROOI0gnehyITqHe00EwKcJ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zEbBuROOI0gnehyITqHe00EwKcJ.jpg",
-      "backdrop_path": "/vd500AWRxcBbKPcvzBHRN77sOcS.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vd500AWRxcBbKPcvzBHRN77sOcS.jpg",
-      "imdb_id": "tt22023622",
-      "runtime": 106,
+      "poster_path": "/fibl9AsK9ddiiEVZ8od78nDKOXT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fibl9AsK9ddiiEVZ8od78nDKOXT.jpg",
+      "backdrop_path": "/xUddkTwPfCYivi03iOZ3inCKTAB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xUddkTwPfCYivi03iOZ3inCKTAB.jpg",
+      "imdb_id": "tt33055004",
+      "runtime": 90,
       "budget": 0,
-      "revenue": 60171
+      "revenue": 0
     }
   }
 ]
