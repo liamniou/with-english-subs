@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-07T06:18:05.983874",
+    "scraped_at": "2025-09-08T06:21:44.076495",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -220,7 +220,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-07T06:18:12.125835",
+    "scraped_at": "2025-09-08T06:22:11.113240",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
@@ -311,15 +311,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-07T06:18:18.034958",
+    "scraped_at": "2025-09-08T06:22:22.817069",
     "source": "biorio",
     "tmdb": {
       "id": 1311031,
       "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
       "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "release_date": "2025-07-18",
-      "rating": 7.3,
-      "vote_count": 103,
+      "rating": 7.337,
+      "vote_count": 104,
       "genres": [
         "Animation",
         "Action",
@@ -406,7 +406,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-07T06:18:26.037703",
+    "scraped_at": "2025-09-08T06:22:57.561779",
     "source": "biorio",
     "tmdb": {
       "id": 11830,
@@ -568,15 +568,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-07T06:19:13.602089",
+    "scraped_at": "2025-09-08T06:24:34.861723",
     "source": "biorio",
     "tmdb": {
       "id": 149,
       "title": "Akira",
       "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
       "release_date": "1988-06-10",
-      "rating": 7.941,
-      "vote_count": 4501,
+      "rating": 7.9,
+      "vote_count": 4503,
       "genres": [
         "Animation",
         "Science Fiction",
