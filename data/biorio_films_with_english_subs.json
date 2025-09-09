@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-08T06:21:44.076495",
+    "scraped_at": "2025-09-09T06:20:56.764828",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -220,7 +220,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-08T06:22:11.113240",
+    "scraped_at": "2025-09-09T06:21:12.966354",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
@@ -311,14 +311,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-08T06:22:22.817069",
+    "scraped_at": "2025-09-09T06:21:20.124309",
     "source": "biorio",
     "tmdb": {
       "id": 1311031,
       "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
       "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "release_date": "2025-07-18",
-      "rating": 7.337,
+      "rating": 7.3,
       "vote_count": 104,
       "genres": [
         "Animation",
@@ -332,8 +332,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
       "imdb_id": "tt32820897",
       "runtime": 155,
-      "budget": 68000000,
-      "revenue": 294507474
+      "budget": 1100100,
+      "revenue": 67909489
     }
   },
   {
@@ -406,7 +406,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-08T06:22:57.561779",
+    "scraped_at": "2025-09-09T06:21:42.607027",
     "source": "biorio",
     "tmdb": {
       "id": 11830,
@@ -498,77 +498,12 @@
         "normalized_datetime": "2025-09-17T18:40:00",
         "normalized_date": "17.09",
         "normalized_time": "18:40"
-      },
-      {
-        "datetime": "2025-09-08T16:00:00.000Z",
-        "display_text": "Monday September 08, 2025 at 16:00",
-        "movie_id": "5495",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/828",
-        "api_data": {
-          "id": 828,
-          "movieId": 5495,
-          "movieVersionId": 208,
-          "startTime": "2025-09-08T16:00:00.000Z",
-          "endTime": "2025-09-08T18:04:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "created_at": "2025-08-14T14:59:43.275Z",
-          "movie": {
-            "id": 5495,
-            "title": "Akira",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5495/posters/1748250084538-453oe.jpg",
-            "movieVersions": [
-              {
-                "duration": 124,
-                "audio": "Japanska",
-                "subtitles": "Svenska"
-              },
-              {
-                "duration": 124,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 208,
-            "duration": 124,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [
-            "reRUN"
-          ],
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-09-08T16:00:00",
-        "normalized_date": "08.09",
-        "normalized_time": "16:00"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-08T06:24:34.861723",
+    "scraped_at": "2025-09-09T06:22:35.423168",
     "source": "biorio",
     "tmdb": {
       "id": 149,
