@@ -23,14 +23,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.486951+00:00",
+    "scraped_at": "2025-09-10T06:29:06.134267+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1213,
       "title": "The Talented Mr. Ripley",
       "overview": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
       "release_date": "1999-12-25",
-      "rating": 7.196,
+      "rating": 7.2,
       "vote_count": 3927,
       "genres": [
         "Thriller",
@@ -57,7 +57,7 @@
     "showtimes": [
       {
         "datetime": "2025-09-14T20:10:00+02:00",
-        "display_text": "Sunday, 14th September 8:10 PM",
+        "display_text": "Sunday, 14th September 20:10",
         "time": "20:10",
         "date_section": "Söndag, 14th September",
         "ticket_url": "https://biofagelbla.se/movie/stalker/?showtime=49410",
@@ -71,7 +71,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.487160+00:00",
+    "scraped_at": "2025-09-10T06:29:06.134484+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1398,
@@ -104,7 +104,7 @@
     "showtimes": [
       {
         "datetime": "2025-09-15T18:00:00+02:00",
-        "display_text": "Monday, 15th September 6 PM",
+        "display_text": "Monday, 15th September 18:00",
         "time": "18:00",
         "date_section": "Måndag, 15th September",
         "ticket_url": "https://biofagelbla.se/movie/torst/?showtime=49318",
@@ -118,7 +118,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.487322+00:00",
+    "scraped_at": "2025-09-10T06:29:06.134671+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 51143,
@@ -150,7 +150,7 @@
     "showtimes": [
       {
         "datetime": "2025-09-20T15:00:00+02:00",
-        "display_text": "Saturday, 20th September 3 PM",
+        "display_text": "Saturday, 20th September 15:00",
         "time": "15:00",
         "date_section": "Lördag, 20th September",
         "ticket_url": "https://biofagelbla.se/movie/call-me-by-your-name/?showtime=48278",
@@ -164,7 +164,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.487778+00:00",
+    "scraped_at": "2025-09-10T06:29:06.135114+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 398818,
@@ -211,7 +211,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.488021+00:00",
+    "scraped_at": "2025-09-10T06:29:06.135359+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47206,
@@ -243,7 +243,7 @@
     "showtimes": [
       {
         "datetime": "2025-09-27T15:45:00+02:00",
-        "display_text": "Saturday, 27th September 3:45 PM",
+        "display_text": "Saturday, 27th September 15:45",
         "time": "15:45",
         "date_section": "Lördag, 27th September",
         "ticket_url": "https://biofagelbla.se/movie/stromboli/?showtime=49339",
@@ -257,7 +257,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.488359+00:00",
+    "scraped_at": "2025-09-10T06:29:06.135733+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 4173,
@@ -303,7 +303,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.488670+00:00",
+    "scraped_at": "2025-09-10T06:29:06.136037+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 71,
@@ -337,7 +337,7 @@
     "showtimes": [
       {
         "datetime": "2025-09-29T18:00:00+02:00",
-        "display_text": "Monday, 29th September 6 PM",
+        "display_text": "Monday, 29th September 18:00",
         "time": "18:00",
         "date_section": "Måndag, 29th September",
         "ticket_url": "https://biofagelbla.se/movie/hostsonaten/?showtime=48437",
@@ -351,7 +351,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.488854+00:00",
+    "scraped_at": "2025-09-10T06:29:06.136378+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
@@ -383,7 +383,7 @@
     "showtimes": [
       {
         "datetime": "2025-10-04T17:30:00+02:00",
-        "display_text": "Saturday, 4th October 5:30 PM",
+        "display_text": "Saturday, 4th October 17:30",
         "time": "17:30",
         "date_section": "Lördag, 4th Oktober",
         "ticket_url": "https://biofagelbla.se/movie/the-hunt-for-red-october/?showtime=48656",
@@ -397,7 +397,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.489034+00:00",
+    "scraped_at": "2025-09-10T06:29:06.136730+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1669,
@@ -431,11 +431,12 @@
     "showtimes": [
       {
         "datetime": "2025-10-06T17:45:00+02:00",
-        "display_text": "Måndag, 6th Oktober 17:45",
+        "display_text": "Monday, 6th October 17:45",
         "time": "17:45",
         "date_section": "Måndag, 6th Oktober",
         "ticket_url": "https://biofagelbla.se/movie/elvira-madigan/?showtime=48438",
         "showtime_id": "48438",
+        "original_display_text": "Måndag, 6th Oktober 17:45",
         "normalized_datetime": "2025-10-06T17:45:00",
         "normalized_date": "06.10",
         "normalized_time": "17:45"
@@ -444,7 +445,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.489186+00:00",
+    "scraped_at": "2025-09-10T06:29:06.136994+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 42692,
@@ -478,11 +479,12 @@
     "showtimes": [
       {
         "datetime": "2025-10-09T17:30:00+02:00",
-        "display_text": "Torsdag, 9th Oktober 17:30",
+        "display_text": "Thursday, 9th October 17:30",
         "time": "17:30",
         "date_section": "Torsdag, 9th Oktober",
         "ticket_url": "https://biofagelbla.se/movie/wings-of-desire/?showtime=49288",
         "showtime_id": "49288",
+        "original_display_text": "Torsdag, 9th Oktober 17:30",
         "normalized_datetime": "2025-10-09T17:30:00",
         "normalized_date": "09.10",
         "normalized_time": "17:30"
@@ -491,7 +493,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.489343+00:00",
+    "scraped_at": "2025-09-10T06:29:06.137173+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -539,7 +541,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.489522+00:00",
+    "scraped_at": "2025-09-10T06:29:06.137357+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 153,
@@ -573,11 +575,12 @@
     "showtimes": [
       {
         "datetime": "2025-10-13T17:30:00+02:00",
-        "display_text": "Måndag, 13th Oktober 17:30",
+        "display_text": "Monday, 13th October 17:30",
         "time": "17:30",
         "date_section": "Måndag, 13th Oktober",
         "ticket_url": "https://biofagelbla.se/movie/viskningar-och-rop/?showtime=48439",
         "showtime_id": "48439",
+        "original_display_text": "Måndag, 13th Oktober 17:30",
         "normalized_datetime": "2025-10-13T17:30:00",
         "normalized_date": "13.10",
         "normalized_time": "17:30"
@@ -586,7 +589,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.489762+00:00",
+    "scraped_at": "2025-09-10T06:29:06.137532+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -618,7 +621,7 @@
     "showtimes": [
       {
         "datetime": "2025-10-14T17:45:00+02:00",
-        "display_text": "Tuesday, 14th October 5:45 PM",
+        "display_text": "Tuesday, 14th October 17:45",
         "time": "17:45",
         "date_section": "Tisdag, 14th Oktober",
         "ticket_url": "https://biofagelbla.se/movie/a-nos-amours/?showtime=49281",
@@ -632,7 +635,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.489958+00:00",
+    "scraped_at": "2025-09-10T06:29:06.137749+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
@@ -665,11 +668,12 @@
     "showtimes": [
       {
         "datetime": "2025-10-16T17:45:00+02:00",
-        "display_text": "Torsdag, 16th Oktober 17:45",
+        "display_text": "Thursday, 16th October 17:45",
         "time": "17:45",
         "date_section": "Torsdag, 16th Oktober",
         "ticket_url": "https://biofagelbla.se/movie/le-notti-di-cabiria/?showtime=49291",
         "showtime_id": "49291",
+        "original_display_text": "Torsdag, 16th Oktober 17:45",
         "normalized_datetime": "2025-10-16T17:45:00",
         "normalized_date": "16.10",
         "normalized_time": "17:45"
@@ -678,7 +682,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.490080+00:00",
+    "scraped_at": "2025-09-10T06:29:06.137977+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
@@ -710,11 +714,12 @@
     "showtimes": [
       {
         "datetime": "2025-10-19T10:30:00+02:00",
-        "display_text": "Söndag, 19th Oktober 10:30",
+        "display_text": "Sunday, 19th October 10:30",
         "time": "10:30",
         "date_section": "Söndag, 19th Oktober",
         "ticket_url": "https://biofagelbla.se/movie/a-room-with-a-view/?showtime=48662",
         "showtime_id": "48662",
+        "original_display_text": "Söndag, 19th Oktober 10:30",
         "normalized_datetime": "2025-10-19T10:30:00",
         "normalized_date": "19.10",
         "normalized_time": "10:30"
@@ -723,7 +728,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.490231+00:00",
+    "scraped_at": "2025-09-10T06:29:06.138311+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -756,11 +761,12 @@
     "showtimes": [
       {
         "datetime": "2025-10-20T17:45:00+02:00",
-        "display_text": "Måndag, 20th Oktober 17:45",
+        "display_text": "Monday, 20th October 17:45",
         "time": "17:45",
         "date_section": "Måndag, 20th Oktober",
         "ticket_url": "https://biofagelbla.se/movie/adalen-31/?showtime=48440",
         "showtime_id": "48440",
+        "original_display_text": "Måndag, 20th Oktober 17:45",
         "normalized_datetime": "2025-10-20T17:45:00",
         "normalized_date": "20.10",
         "normalized_time": "17:45"
@@ -769,7 +775,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.490379+00:00",
+    "scraped_at": "2025-09-10T06:29:06.138553+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -803,11 +809,12 @@
     "showtimes": [
       {
         "datetime": "2025-10-23T17:45:00+02:00",
-        "display_text": "Torsdag, 23rd Oktober 17:45",
+        "display_text": "Thursday, 23rd October 17:45",
         "time": "17:45",
         "date_section": "Torsdag, 23rd Oktober",
         "ticket_url": "https://biofagelbla.se/movie/paris-texas/?showtime=49338",
         "showtime_id": "49338",
+        "original_display_text": "Torsdag, 23rd Oktober 17:45",
         "normalized_datetime": "2025-10-23T17:45:00",
         "normalized_date": "23.10",
         "normalized_time": "17:45"
@@ -816,7 +823,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.490534+00:00",
+    "scraped_at": "2025-09-10T06:29:06.138784+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
@@ -848,11 +855,12 @@
     "showtimes": [
       {
         "datetime": "2025-10-26T10:30:00+01:00",
-        "display_text": "Söndag, 26th Oktober 10:30",
+        "display_text": "Sunday, 26th October 10:30",
         "time": "10:30",
         "date_section": "Söndag, 26th Oktober",
         "ticket_url": "https://biofagelbla.se/movie/rosemarys-baby/?showtime=48703",
         "showtime_id": "48703",
+        "original_display_text": "Söndag, 26th Oktober 10:30",
         "normalized_datetime": "2025-10-26T10:30:00",
         "normalized_date": "26.10",
         "normalized_time": "10:30"
@@ -861,7 +869,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.490736+00:00",
+    "scraped_at": "2025-09-10T06:29:06.138979+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 805,
@@ -895,11 +903,12 @@
     "showtimes": [
       {
         "datetime": "2025-10-27T18:00:00+01:00",
-        "display_text": "Måndag, 27th Oktober 18:00",
+        "display_text": "Monday, 27th October 18:00",
         "time": "18:00",
         "date_section": "Måndag, 27th Oktober",
         "ticket_url": "https://biofagelbla.se/movie/the-serpents-egg/?showtime=48442",
         "showtime_id": "48442",
+        "original_display_text": "Måndag, 27th Oktober 18:00",
         "normalized_datetime": "2025-10-27T18:00:00",
         "normalized_date": "27.10",
         "normalized_time": "18:00"
@@ -908,7 +917,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.490865+00:00",
+    "scraped_at": "2025-09-10T06:29:06.139108+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -942,11 +951,12 @@
     "showtimes": [
       {
         "datetime": "2025-10-28T18:00:00+01:00",
-        "display_text": "Tisdag, 28th Oktober 18:00",
+        "display_text": "Tuesday, 28th October 18:00",
         "time": "18:00",
         "date_section": "Tisdag, 28th Oktober",
         "ticket_url": "https://biofagelbla.se/movie/faust/?showtime=49702",
         "showtime_id": "49702",
+        "original_display_text": "Tisdag, 28th Oktober 18:00",
         "normalized_datetime": "2025-10-28T18:00:00",
         "normalized_date": "28.10",
         "normalized_time": "18:00"
@@ -955,7 +965,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.490989+00:00",
+    "scraped_at": "2025-09-10T06:29:06.139235+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -989,11 +999,12 @@
     "showtimes": [
       {
         "datetime": "2025-10-30T19:30:00+01:00",
-        "display_text": "Torsdag, 30th Oktober 19:30",
+        "display_text": "Thursday, 30th October 19:30",
         "time": "19:30",
         "date_section": "Torsdag, 30th Oktober",
         "ticket_url": "https://biofagelbla.se/movie/dont-look-now/?showtime=50098",
         "showtime_id": "50098",
+        "original_display_text": "Torsdag, 30th Oktober 19:30",
         "normalized_datetime": "2025-10-30T19:30:00",
         "normalized_date": "30.10",
         "normalized_time": "19:30"
@@ -1002,7 +1013,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.491207+00:00",
+    "scraped_at": "2025-09-10T06:29:06.139380+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 931,
@@ -1036,11 +1047,12 @@
     "showtimes": [
       {
         "datetime": "2025-10-31T21:45:00+01:00",
-        "display_text": "Fredag, 31st Oktober 21:45",
+        "display_text": "Friday, 31st October 21:45",
         "time": "21:45",
         "date_section": "Fredag, 31st Oktober",
         "ticket_url": "https://biofagelbla.se/movie/from-dusk-till-dawn/?showtime=48531",
         "showtime_id": "48531",
+        "original_display_text": "Fredag, 31st Oktober 21:45",
         "normalized_datetime": "2025-10-31T21:45:00",
         "normalized_date": "31.10",
         "normalized_time": "21:45"
@@ -1049,7 +1061,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.491501+00:00",
+    "scraped_at": "2025-09-10T06:29:06.139564+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 755,
@@ -1084,11 +1096,12 @@
     "showtimes": [
       {
         "datetime": "2025-11-06T17:30:00+01:00",
-        "display_text": "Torsdag, 6th November 17:30",
+        "display_text": "Thursday, 6th November 17:30",
         "time": "17:30",
         "date_section": "Torsdag, 6th November",
         "ticket_url": "https://biofagelbla.se/movie/leclisse/?showtime=48532",
         "showtime_id": "48532",
+        "original_display_text": "Torsdag, 6th November 17:30",
         "normalized_datetime": "2025-11-06T17:30:00",
         "normalized_date": "06.11",
         "normalized_time": "17:30"
@@ -1097,7 +1110,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.491968+00:00",
+    "scraped_at": "2025-09-10T06:29:06.139856+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 21135,
@@ -1130,11 +1143,12 @@
     "showtimes": [
       {
         "datetime": "2025-11-10T17:45:00+01:00",
-        "display_text": "Måndag, 10th November 17:45",
+        "display_text": "Monday, 10th November 17:45",
         "time": "17:45",
         "date_section": "Måndag, 10th November",
         "ticket_url": "https://biofagelbla.se/movie/beroringen/?showtime=48444",
         "showtime_id": "48444",
+        "original_display_text": "Måndag, 10th November 17:45",
         "normalized_datetime": "2025-11-10T17:45:00",
         "normalized_date": "10.11",
         "normalized_time": "17:45"
@@ -1143,7 +1157,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.492221+00:00",
+    "scraped_at": "2025-09-10T06:29:06.140014+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -1176,11 +1190,12 @@
     "showtimes": [
       {
         "datetime": "2025-11-15T10:30:00+01:00",
-        "display_text": "Lördag, 15th November 10:30",
+        "display_text": "Saturday, 15th November 10:30",
         "time": "10:30",
         "date_section": "Lördag, 15th November",
         "ticket_url": "https://biofagelbla.se/movie/amelie/?showtime=50095",
         "showtime_id": "50095",
+        "original_display_text": "Lördag, 15th November 10:30",
         "normalized_datetime": "2025-11-15T10:30:00",
         "normalized_date": "15.11",
         "normalized_time": "10:30"
@@ -1189,14 +1204,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.492378+00:00",
+    "scraped_at": "2025-09-10T06:29:06.140191+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
       "title": "Amélie",
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
-      "rating": 7.9,
+      "rating": 7.913,
       "vote_count": 11923,
       "genres": [
         "Comedy",
@@ -1222,11 +1237,12 @@
     "showtimes": [
       {
         "datetime": "2025-11-16T10:30:00+01:00",
-        "display_text": "Söndag, 16th November 10:30",
+        "display_text": "Sunday, 16th November 10:30",
         "time": "10:30",
         "date_section": "Söndag, 16th November",
         "ticket_url": "https://biofagelbla.se/movie/life-is-beautiful/?showtime=48712",
         "showtime_id": "48712",
+        "original_display_text": "Söndag, 16th November 10:30",
         "normalized_datetime": "2025-11-16T10:30:00",
         "normalized_date": "16.11",
         "normalized_time": "10:30"
@@ -1235,7 +1251,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.492509+00:00",
+    "scraped_at": "2025-09-10T06:29:06.140316+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
@@ -1243,7 +1259,7 @@
       "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
       "release_date": "1997-12-20",
       "rating": 8.44,
-      "vote_count": 13527,
+      "vote_count": 13528,
       "genres": [
         "Comedy",
         "Drama"
@@ -1268,11 +1284,12 @@
     "showtimes": [
       {
         "datetime": "2025-11-17T17:45:00+01:00",
-        "display_text": "Måndag, 17th November 17:45",
+        "display_text": "Monday, 17th November 17:45",
         "time": "17:45",
         "date_section": "Måndag, 17th November",
         "ticket_url": "https://biofagelbla.se/movie/mannen-pa-taket/?showtime=48445",
         "showtime_id": "48445",
+        "original_display_text": "Måndag, 17th November 17:45",
         "normalized_datetime": "2025-11-17T17:45:00",
         "normalized_date": "17.11",
         "normalized_time": "17:45"
@@ -1281,7 +1298,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.492680+00:00",
+    "scraped_at": "2025-09-10T06:29:06.140451+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -1315,11 +1332,12 @@
     "showtimes": [
       {
         "datetime": "2025-11-24T17:45:00+01:00",
-        "display_text": "Måndag, 24th November 17:45",
+        "display_text": "Monday, 24th November 17:45",
         "time": "17:45",
         "date_section": "Måndag, 24th November",
         "ticket_url": "https://biofagelbla.se/movie/det-sjunde-inseglet/?showtime=49290",
         "showtime_id": "49290",
+        "original_display_text": "Måndag, 24th November 17:45",
         "normalized_datetime": "2025-11-24T17:45:00",
         "normalized_date": "24.11",
         "normalized_time": "17:45"
@@ -1328,15 +1346,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.492862+00:00",
+    "scraped_at": "2025-09-10T06:29:06.140645+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
       "title": "The Seventh Seal",
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
-      "rating": 8.175,
-      "vote_count": 3164,
+      "rating": 8.176,
+      "vote_count": 3165,
       "genres": [
         "Fantasy",
         "Drama"
@@ -1361,11 +1379,12 @@
     "showtimes": [
       {
         "datetime": "2025-11-30T10:00:00+01:00",
-        "display_text": "Söndag, 30th November 10:00",
+        "display_text": "Sunday, 30th November 10:00",
         "time": "10:00",
         "date_section": "Söndag, 30th November",
         "ticket_url": "https://biofagelbla.se/movie/fanny-och-alexander/?showtime=48683",
         "showtime_id": "48683",
+        "original_display_text": "Söndag, 30th November 10:00",
         "normalized_datetime": "2025-11-30T10:00:00",
         "normalized_date": "30.11",
         "normalized_time": "10:00"
@@ -1374,7 +1393,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.493096+00:00",
+    "scraped_at": "2025-09-10T06:29:06.140905+00:00",
     "source": "fagelbla"
   },
   {
@@ -1387,11 +1406,12 @@
     "showtimes": [
       {
         "datetime": "2025-12-14T10:00:00+01:00",
-        "display_text": "Söndag, 14th December 10:00",
+        "display_text": "Sunday, 14th December 10:00",
         "time": "10:00",
         "date_section": "Söndag, 14th December",
         "ticket_url": "https://biofagelbla.se/movie/fanny-och-alexander/?showtime=48682",
         "showtime_id": "48682",
+        "original_display_text": "Söndag, 14th December 10:00",
         "normalized_datetime": "2025-12-14T10:00:00",
         "normalized_date": "14.12",
         "normalized_time": "10:00"
@@ -1400,7 +1420,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:23:36.493228+00:00",
+    "scraped_at": "2025-09-10T06:29:06.141050+00:00",
     "source": "fagelbla"
   }
 ]

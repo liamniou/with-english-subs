@@ -7,7 +7,7 @@
     "showtimes": [
       {
         "datetime": "2025-11-04T17:00:00.000Z",
-        "display_text": "Tuesday November 04, 2025 at 17:00",
+        "display_text": "Tuesday November 04, 2025 at 5:00 PM",
         "movie_id": "5635",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/950",
@@ -62,6 +62,7 @@
           ],
           "isPublished": true
         },
+        "original_display_text": "Tuesday November 04, 2025 at 17:00",
         "normalized_datetime": "2025-11-04T17:00:00",
         "normalized_date": "04.11",
         "normalized_time": "17:00"
@@ -70,7 +71,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:20:56.764828",
+    "scraped_at": "2025-09-10T06:20:17.299860",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -102,7 +103,7 @@
     "showtimes": [
       {
         "datetime": "2025-10-30T19:10:00.000Z",
-        "display_text": "Thursday October 30, 2025 at 19:10",
+        "display_text": "Thursday October 30, 2025 at 7:10 PM",
         "movie_id": "5619",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/867",
@@ -154,13 +155,14 @@
           "tags": [],
           "isPublished": false
         },
+        "original_display_text": "Thursday October 30, 2025 at 19:10",
         "normalized_datetime": "2025-10-30T19:10:00",
         "normalized_date": "30.10",
         "normalized_time": "19:10"
       },
       {
         "datetime": "2025-10-28T19:15:00.000Z",
-        "display_text": "Tuesday October 28, 2025 at 19:15",
+        "display_text": "Tuesday October 28, 2025 at 7:15 PM",
         "movie_id": "5619",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/866",
@@ -212,6 +214,7 @@
           "tags": [],
           "isPublished": false
         },
+        "original_display_text": "Tuesday October 28, 2025 at 19:15",
         "normalized_datetime": "2025-10-28T19:15:00",
         "normalized_date": "28.10",
         "normalized_time": "19:15"
@@ -220,7 +223,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:21:12.966354",
+    "scraped_at": "2025-09-10T06:20:27.008685",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
@@ -251,7 +254,7 @@
     "showtimes": [
       {
         "datetime": "2025-09-12T18:30:00.000Z",
-        "display_text": "Friday September 12, 2025 at 18:30",
+        "display_text": "Friday September 12, 2025 at 6:30 PM",
         "movie_id": "5612",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/852",
@@ -303,6 +306,7 @@
           "tags": [],
           "isPublished": true
         },
+        "original_display_text": "Friday September 12, 2025 at 18:30",
         "normalized_datetime": "2025-09-12T18:30:00",
         "normalized_date": "12.09",
         "normalized_time": "18:30"
@@ -311,7 +315,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:21:20.124309",
+    "scraped_at": "2025-09-10T06:20:31.840126",
     "source": "biorio",
     "tmdb": {
       "id": 1311031,
@@ -332,8 +336,8 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
       "imdb_id": "tt32820897",
       "runtime": 155,
-      "budget": 1100100,
-      "revenue": 67909489
+      "budget": 1100000,
+      "revenue": 295827974
     }
   },
   {
@@ -344,7 +348,7 @@
     "showtimes": [
       {
         "datetime": "2025-09-13T18:30:00.000Z",
-        "display_text": "Saturday September 13, 2025 at 18:30",
+        "display_text": "Saturday September 13, 2025 at 6:30 PM",
         "movie_id": "5592",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/744",
@@ -398,6 +402,7 @@
           ],
           "isPublished": true
         },
+        "original_display_text": "Saturday September 13, 2025 at 18:30",
         "normalized_datetime": "2025-09-13T18:30:00",
         "normalized_date": "13.09",
         "normalized_time": "18:30"
@@ -406,7 +411,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:21:42.607027",
+    "scraped_at": "2025-09-10T06:20:43.148546",
     "source": "biorio",
     "tmdb": {
       "id": 11830,
@@ -436,7 +441,7 @@
     "showtimes": [
       {
         "datetime": "2025-09-17T18:40:00.000Z",
-        "display_text": "Wednesday September 17, 2025 at 18:40",
+        "display_text": "Wednesday September 17, 2025 at 6:40 PM",
         "movie_id": "5495",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/923",
@@ -495,6 +500,7 @@
           ],
           "isPublished": true
         },
+        "original_display_text": "Wednesday September 17, 2025 at 18:40",
         "normalized_datetime": "2025-09-17T18:40:00",
         "normalized_date": "17.09",
         "normalized_time": "18:40"
@@ -503,15 +509,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-09T06:22:35.423168",
+    "scraped_at": "2025-09-10T06:21:21.147193",
     "source": "biorio",
     "tmdb": {
       "id": 149,
       "title": "Akira",
       "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
       "release_date": "1988-06-10",
-      "rating": 7.9,
-      "vote_count": 4503,
+      "rating": 7.942,
+      "vote_count": 4504,
       "genres": [
         "Animation",
         "Science Fiction",
