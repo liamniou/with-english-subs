@@ -1,5 +1,101 @@
 [
   {
+    "film_id": "paranorman",
+    "url": "https://www.biorio.se/movies/paranorman",
+    "title": "ParaNorman",
+    "director": "Sam Fell",
+    "showtimes": [
+      {
+        "datetime": "2025-10-25T08:30:00.000Z",
+        "display_text": "Saturday October 25, 2025 at 08:30",
+        "movie_id": "5636",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/957",
+        "api_data": {
+          "id": 957,
+          "movieId": 5636,
+          "movieVersionId": 318,
+          "startTime": "2025-10-25T08:30:00.000Z",
+          "endTime": "2025-10-25T10:14:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": "2025-09-12T13:00:00.000Z",
+          "includeInReport": true,
+          "created_at": "2025-09-10T12:48:23.379Z",
+          "movie": {
+            "id": 5636,
+            "title": "ParaNorman",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5636/posters/1757508434697-wa46b8.jpg",
+            "movieVersions": [
+              {
+                "duration": 104,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 318,
+            "duration": 104,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 3,
+              "name": "Frukostbio"
+            }
+          ],
+          "tags": [
+            "reRUN",
+            "Frukostbio"
+          ],
+          "isPublished": false
+        },
+        "normalized_datetime": "2025-10-25T08:30:00",
+        "normalized_date": "25.10",
+        "normalized_time": "08:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2025-09-11T06:20:34.421437",
+    "source": "biorio",
+    "tmdb": {
+      "id": 77174,
+      "title": "ParaNorman",
+      "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
+      "release_date": "2012-08-03",
+      "rating": 7.002,
+      "vote_count": 2624,
+      "genres": [
+        "Family",
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "poster_path": "/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
+      "backdrop_path": "/cXPOtGdWhx9MNMOOQCIFjnKBPoi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cXPOtGdWhx9MNMOOQCIFjnKBPoi.jpg",
+      "imdb_id": "tt1623288",
+      "runtime": 90,
+      "budget": 60000000,
+      "revenue": 107139399
+    }
+  },
+  {
     "film_id": "haxan-1922",
     "url": "https://www.biorio.se/movies/haxan-1922",
     "title": "Häxan (1922)",
@@ -7,7 +103,7 @@
     "showtimes": [
       {
         "datetime": "2025-11-04T17:00:00.000Z",
-        "display_text": "Tuesday November 04, 2025 at 5:00 PM",
+        "display_text": "Tuesday November 4, 2025 at 17:00",
         "movie_id": "5635",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/950",
@@ -71,14 +167,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-10T06:20:17.299860",
+    "scraped_at": "2025-09-11T06:20:35.690962",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
       "title": "Häxan",
       "overview": "Grave robbing, torture, possessed nuns, and a satanic Sabbath: Benjamin Christensen's legendary film uses a series of dramatic vignettes to explore the scientific hypothesis that the witches of the Middle Ages suffered the same hysteria as turn-of-the-century psychiatric patients. But the film itself is far from serious-- instead it's a witches' brew of the scary, gross, and darkly humorous.",
       "release_date": "1922-09-18",
-      "rating": 7.614,
+      "rating": 7.6,
       "vote_count": 400,
       "genres": [
         "Documentary",
@@ -103,7 +199,7 @@
     "showtimes": [
       {
         "datetime": "2025-10-30T19:10:00.000Z",
-        "display_text": "Thursday October 30, 2025 at 7:10 PM",
+        "display_text": "Thursday October 30, 2025 at 19:10",
         "movie_id": "5619",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/867",
@@ -155,14 +251,13 @@
           "tags": [],
           "isPublished": false
         },
-        "original_display_text": "Thursday October 30, 2025 at 19:10",
         "normalized_datetime": "2025-10-30T19:10:00",
         "normalized_date": "30.10",
         "normalized_time": "19:10"
       },
       {
         "datetime": "2025-10-28T19:15:00.000Z",
-        "display_text": "Tuesday October 28, 2025 at 7:15 PM",
+        "display_text": "Tuesday October 28, 2025 at 19:15",
         "movie_id": "5619",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/866",
@@ -214,7 +309,6 @@
           "tags": [],
           "isPublished": false
         },
-        "original_display_text": "Tuesday October 28, 2025 at 19:15",
         "normalized_datetime": "2025-10-28T19:15:00",
         "normalized_date": "28.10",
         "normalized_time": "19:15"
@@ -223,7 +317,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-10T06:20:27.008685",
+    "scraped_at": "2025-09-11T06:20:43.047499",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
@@ -254,7 +348,7 @@
     "showtimes": [
       {
         "datetime": "2025-09-12T18:30:00.000Z",
-        "display_text": "Friday September 12, 2025 at 6:30 PM",
+        "display_text": "Friday September 12, 2025 at 18:30",
         "movie_id": "5612",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/852",
@@ -306,7 +400,6 @@
           "tags": [],
           "isPublished": true
         },
-        "original_display_text": "Friday September 12, 2025 at 18:30",
         "normalized_datetime": "2025-09-12T18:30:00",
         "normalized_date": "12.09",
         "normalized_time": "18:30"
@@ -315,15 +408,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-10T06:20:31.840126",
+    "scraped_at": "2025-09-11T06:20:49.467131",
     "source": "biorio",
     "tmdb": {
       "id": 1311031,
       "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
       "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "release_date": "2025-07-18",
-      "rating": 7.3,
-      "vote_count": 104,
+      "rating": 7.352,
+      "vote_count": 105,
       "genres": [
         "Animation",
         "Action",
@@ -348,7 +441,7 @@
     "showtimes": [
       {
         "datetime": "2025-09-13T18:30:00.000Z",
-        "display_text": "Saturday September 13, 2025 at 6:30 PM",
+        "display_text": "Saturday September 13, 2025 at 18:30",
         "movie_id": "5592",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/744",
@@ -402,7 +495,6 @@
           ],
           "isPublished": true
         },
-        "original_display_text": "Saturday September 13, 2025 at 18:30",
         "normalized_datetime": "2025-09-13T18:30:00",
         "normalized_date": "13.09",
         "normalized_time": "18:30"
@@ -411,7 +503,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-10T06:20:43.148546",
+    "scraped_at": "2025-09-11T06:20:57.703869",
     "source": "biorio",
     "tmdb": {
       "id": 11830,
@@ -441,7 +533,7 @@
     "showtimes": [
       {
         "datetime": "2025-09-17T18:40:00.000Z",
-        "display_text": "Wednesday September 17, 2025 at 6:40 PM",
+        "display_text": "Wednesday September 17, 2025 at 18:40",
         "movie_id": "5495",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/923",
@@ -500,7 +592,6 @@
           ],
           "isPublished": true
         },
-        "original_display_text": "Wednesday September 17, 2025 at 18:40",
         "normalized_datetime": "2025-09-17T18:40:00",
         "normalized_date": "17.09",
         "normalized_time": "18:40"
@@ -509,7 +600,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-10T06:21:21.147193",
+    "scraped_at": "2025-09-11T06:21:34.455704",
     "source": "biorio",
     "tmdb": {
       "id": 149,
