@@ -70,15 +70,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-11T06:20:34.421437",
+    "scraped_at": "2025-09-12T06:19:54.405311",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
       "title": "ParaNorman",
       "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
       "release_date": "2012-08-03",
-      "rating": 7.002,
-      "vote_count": 2624,
+      "rating": 7.003,
+      "vote_count": 2625,
       "genres": [
         "Family",
         "Animation",
@@ -167,7 +167,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-11T06:20:35.690962",
+    "scraped_at": "2025-09-12T06:19:55.717630",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -317,7 +317,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-11T06:20:43.047499",
+    "scraped_at": "2025-09-12T06:20:04.495373",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
@@ -408,15 +408,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-11T06:20:49.467131",
+    "scraped_at": "2025-09-12T06:20:11.790147",
     "source": "biorio",
     "tmdb": {
       "id": 1311031,
       "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
       "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "release_date": "2025-07-18",
-      "rating": 7.352,
-      "vote_count": 105,
+      "rating": 7.3,
+      "vote_count": 110,
       "genres": [
         "Animation",
         "Action",
@@ -503,14 +503,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-11T06:20:57.703869",
+    "scraped_at": "2025-09-12T06:20:20.517898",
     "source": "biorio",
     "tmdb": {
       "id": 11830,
       "title": "Tampopo",
       "overview": "In this humorous paean to the joys of food, a pair of truck drivers happen onto a decrepit roadside shop selling ramen noodles. The widowed owner, Tampopo, begs them to help her turn her establishment into a paragon of the \"art of noodle-soup making\". Interspersed are satirical vignettes about the importance of food to different aspects of human life.",
       "release_date": "1985-11-23",
-      "rating": 7.858,
+      "rating": 7.9,
       "vote_count": 388,
       "genres": [
         "Comedy"
@@ -531,6 +531,71 @@
     "title": "Akira",
     "director": "Katsuhiro Otomo",
     "showtimes": [
+      {
+        "datetime": "2025-09-22T18:10:00.000Z",
+        "display_text": "Monday September 22, 2025 at 18:10",
+        "movie_id": "5495",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/958",
+        "api_data": {
+          "id": 958,
+          "movieId": 5495,
+          "movieVersionId": 208,
+          "startTime": "2025-09-22T18:10:00.000Z",
+          "endTime": "2025-09-22T20:14:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "created_at": "2025-09-11T10:16:43.063Z",
+          "movie": {
+            "id": 5495,
+            "title": "Akira",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5495/posters/1748250084538-453oe.jpg",
+            "movieVersions": [
+              {
+                "duration": 124,
+                "audio": "Japanska",
+                "subtitles": "Svenska"
+              },
+              {
+                "duration": 124,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 208,
+            "duration": 124,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "reRUN"
+          ],
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-09-22T18:10:00",
+        "normalized_date": "22.09",
+        "normalized_time": "18:10"
+      },
       {
         "datetime": "2025-09-17T18:40:00.000Z",
         "display_text": "Wednesday September 17, 2025 at 18:40",
@@ -600,15 +665,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-11T06:21:34.455704",
+    "scraped_at": "2025-09-12T06:20:58.793030",
     "source": "biorio",
     "tmdb": {
       "id": 149,
       "title": "Akira",
       "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
       "release_date": "1988-06-10",
-      "rating": 7.942,
-      "vote_count": 4504,
+      "rating": 7.9,
+      "vote_count": 4505,
       "genres": [
         "Animation",
         "Science Fiction",

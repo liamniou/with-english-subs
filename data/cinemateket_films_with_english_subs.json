@@ -17,7 +17,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-09-11T06:22:04.590025",
+    "scraped_at": "2025-09-12T06:21:29.888967",
     "tmdb": {
       "id": 512475,
       "title": "I Often Think of Hawaii",
@@ -57,13 +57,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:22:08.361170",
+    "scraped_at": "2025-09-12T06:21:33.535715",
     "tmdb": {
       "id": 56935,
       "title": "The Lacemaker",
       "overview": "Pomme is a meek and mild French beautician whose life takes a fateful turn during a vacation to Normandy. She becomes the lover of middle-class literature-student François. The relationship sours when François takes her home to meet his parents, thanks in no small part to their differing social backgrounds.",
       "release_date": "1977-05-25",
-      "rating": 6.799,
+      "rating": 6.8,
       "vote_count": 72,
       "genres": [
         "Drama",
@@ -97,7 +97,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:22:13.864191",
+    "scraped_at": "2025-09-12T06:21:38.977484",
     "tmdb": {
       "id": 56231,
       "title": "The Working Class Goes to Heaven",
@@ -136,7 +136,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:22:32.700005",
+    "scraped_at": "2025-09-12T06:21:57.688094",
     "tmdb": {
       "id": 422406,
       "title": "Red Account: My Bloody Angel",
@@ -176,14 +176,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:22:37.819684",
+    "scraped_at": "2025-09-12T06:22:02.880611",
     "tmdb": {
       "id": 8937,
       "title": "Tokyo Sonata",
       "overview": "A young boy takes interest in piano while his family begins to disintegrate around him after his father loses his job.",
       "release_date": "2008-09-27",
-      "rating": 7.377,
-      "vote_count": 256,
+      "rating": 7.4,
+      "vote_count": 257,
       "genres": [
         "Drama"
       ],
@@ -215,7 +215,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-09-11T06:22:50.156856",
+    "scraped_at": "2025-09-12T06:22:15.241278",
     "tmdb": {
       "id": 216471,
       "title": "Irezumi",
@@ -255,7 +255,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-09-11T06:22:53.407693"
+    "scraped_at": "2025-09-12T06:22:18.463091"
   },
   {
     "film_id": "10075",
@@ -275,13 +275,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:23:00.988494",
+    "scraped_at": "2025-09-12T06:22:25.341737",
     "tmdb": {
       "id": 1040,
       "title": "The Leopard",
       "overview": "As Garibaldi's troops begin the unification of Italy in the 1860s, an aristocratic Sicilian family grudgingly adapts to the sweeping social changes undermining their way of life. Proud but pragmatic Prince Don Fabrizio Salina allows his war hero nephew, Tancredi, to marry Angelica, the beautiful daughter of gauche, bourgeois Don Calogero, in order to maintain the family's accustomed level of comfort and political clout.",
       "release_date": "1963-03-27",
-      "rating": 7.749,
+      "rating": 7.7,
       "vote_count": 884,
       "genres": [
         "Drama"
@@ -314,7 +314,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:23:04.610029",
+    "scraped_at": "2025-09-12T06:22:28.597941",
     "tmdb": {
       "id": 1075610,
       "title": "Smiley",
@@ -351,7 +351,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-09-11T06:23:18.864376",
+    "scraped_at": "2025-09-12T06:22:42.814577",
     "tmdb": {
       "id": 105554,
       "title": "The Forgotten Space",
@@ -390,7 +390,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:23:23.706800",
+    "scraped_at": "2025-09-12T06:22:48.063947",
     "tmdb": {
       "id": 111397,
       "title": "A Wife Confesses",
@@ -431,7 +431,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:23:27.024395",
+    "scraped_at": "2025-09-12T06:22:51.314582",
     "tmdb": {
       "id": 43195,
       "title": "Senso",
@@ -472,7 +472,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:23:35.677794",
+    "scraped_at": "2025-09-12T06:23:00.060185",
     "tmdb": {
       "id": 39415,
       "title": "Loulou",
@@ -512,7 +512,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:23:40.725314"
+    "scraped_at": "2025-09-12T06:23:05.086854"
   },
   {
     "film_id": "784",
@@ -532,7 +532,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:23:51.202079",
+    "scraped_at": "2025-09-12T06:23:15.738897",
     "tmdb": {
       "id": 41876,
       "title": "The Damned",
@@ -572,7 +572,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-09-11T06:23:59.741913",
+    "scraped_at": "2025-09-12T06:23:24.424596",
     "tmdb": {
       "id": 362951,
       "title": "Nagamadathu Thampuratti",
@@ -609,7 +609,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:24:06.756274",
+    "scraped_at": "2025-09-12T06:23:31.437890",
     "tmdb": {
       "id": 98636,
       "title": "Kisses",
@@ -649,13 +649,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:24:11.813741",
+    "scraped_at": "2025-09-12T06:23:36.502178",
     "tmdb": {
       "id": 85550,
       "title": "Tale of Cinema",
       "overview": "In Seoul, a suicidal student meets a young woman who decides to join him in his fatal gesture. Dong-soo, an unsuccessful filmmaker, spots a beautiful young woman, who happens to be the lead actress in the film he has just seen. Their stories will cross paths thanks to their love for cinema.",
       "release_date": "2005-05-27",
-      "rating": 6.866,
+      "rating": 6.9,
       "vote_count": 72,
       "genres": [
         "Drama"
@@ -688,7 +688,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:24:30.740472",
+    "scraped_at": "2025-09-12T06:23:54.485276",
     "tmdb": {
       "id": 1481312,
       "title": "Manji",
@@ -725,7 +725,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-09-11T06:24:35.802347",
+    "scraped_at": "2025-09-12T06:23:59.431968",
     "tmdb": {
       "id": 434773,
       "title": "On the Beach at Night Alone",
@@ -764,7 +764,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:24:48.295426",
+    "scraped_at": "2025-09-12T06:24:11.923751",
     "tmdb": {
       "id": 103753,
       "title": "In Another Country",
@@ -803,13 +803,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:24:53.277791",
+    "scraped_at": "2025-09-12T06:24:17.059162",
     "tmdb": {
       "id": 3478,
       "title": "Ludwig",
       "overview": "Historical evocation of Ludwig, king of Bavaria, from his crowning in 1864 until his death in 1886, as a romantic hero. Fan of Richard Wagner, betrayed by him, in love with his cousin Elisabeth of Austria, abandoned by her, tormented by his homosexuality, he will little by little slip towards madness.",
       "release_date": "1973-03-07",
-      "rating": 7.479,
+      "rating": 7.5,
       "vote_count": 168,
       "genres": [
         "Drama",
@@ -843,7 +843,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:25:02.008930",
+    "scraped_at": "2025-09-12T06:24:25.578995",
     "tmdb": {
       "id": 8422,
       "title": "Rocco and His Brothers",
@@ -883,7 +883,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:25:10.653154",
+    "scraped_at": "2025-09-12T06:24:34.292297",
     "tmdb": {
       "id": 230893,
       "title": "Scénario de 'Sauve qui peut la vie'",
@@ -922,13 +922,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:25:23.017705",
+    "scraped_at": "2025-09-12T06:24:46.643397",
     "tmdb": {
       "id": 86262,
       "title": "Like You Know It All",
       "overview": "A South Korean art house film director is first invited to serve on the panel of a film festival, then to guest lecture at a film school.",
       "release_date": "2009-05-14",
-      "rating": 5.882,
+      "rating": 5.9,
       "vote_count": 34,
       "genres": [
         "Drama",
@@ -962,7 +962,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:25:44.474097",
+    "scraped_at": "2025-09-12T06:25:08.253124",
     "tmdb": {
       "id": 1358533,
       "title": "Ossessione",
@@ -1002,7 +1002,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:25:51.391748",
+    "scraped_at": "2025-09-12T06:25:15.062356",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -1041,7 +1041,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-09-11T06:26:06.765270"
+    "scraped_at": "2025-09-12T06:25:29.007997"
   },
   {
     "film_id": "13931",
@@ -1061,7 +1061,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:26:15.342489",
+    "scraped_at": "2025-09-12T06:25:37.839858",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -1100,7 +1100,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:26:25.772735",
+    "scraped_at": "2025-09-12T06:25:48.471983",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -1139,7 +1139,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:26:29.060496",
+    "scraped_at": "2025-09-12T06:25:51.699112",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -1178,7 +1178,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:26:37.694590",
+    "scraped_at": "2025-09-12T06:26:00.468677",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -1217,7 +1217,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:26:48.211561",
+    "scraped_at": "2025-09-12T06:26:11.001931",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -1256,13 +1256,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:26:51.498614",
+    "scraped_at": "2025-09-12T06:26:14.091037",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
       "overview": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return.",
       "release_date": "1957-11-14",
-      "rating": 7.464,
+      "rating": 7.5,
       "vote_count": 236,
       "genres": [
         "Drama",
@@ -1296,7 +1296,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:27:02.166824",
+    "scraped_at": "2025-09-12T06:26:24.996040",
     "tmdb": {
       "id": 989406,
       "title": "After Work",
@@ -1335,6 +1335,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-11T06:27:05.487527"
+    "scraped_at": "2025-09-12T06:26:28.444010"
   }
 ]

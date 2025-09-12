@@ -1,46 +1,46 @@
 [
   {
-    "film_id": "wisdom-of-happiness",
-    "url": "https://zita.se/wisdom-of-happiness",
-    "title": "Wisdom of Happiness",
+    "film_id": "unknown-title",
+    "url": "https://zita.se/jeanne-dielman",
+    "title": "Unknown Title",
     "director": "",
-    "genre": "USA, Schweiz20241 jan 202590 minDokumentärFrån 15 årFolkets Bio StockholmEngelskaEngelska",
+    "genre": "Belgien, Frankrike19751 jan 2014201 minDramaFrån 15 årChantal AkermanFranskaEngelska",
     "duration": "",
     "showtimes": [
       {
-        "datetime": "",
-        "display_text": "6:00 PM",
-        "time": "18:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5527",
-        "original_display_text": "18:00",
-        "normalized_datetime": "2025-09-11T18:00:00",
-        "normalized_date": "11.09",
-        "normalized_time": "18:00"
+        "datetime": "2025-10-11T16:00:00",
+        "display_text": "Sat 11 Oct 4:00 PM",
+        "time": "16:00",
+        "date": "lör 11 okt",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3685",
+        "original_display_text": "lör 11 okt 16:00",
+        "normalized_datetime": "2025-10-11T16:00:00",
+        "normalized_date": "11.10",
+        "normalized_time": "16:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-09-07T06:25:41.948737+00:00",
+    "scraped_at": "2025-09-12T06:27:13.272320+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1340449,
-      "title": "Wisdom of Happiness",
-      "overview": "A deeply intimate and highly cinematic documentary featuring the Dalai Lama, who, at nearly ninety year of age, offers practical advice for navigating the 21st century's challenges.",
-      "release_date": "2024-11-05",
-      "rating": 5.7,
-      "vote_count": 3,
+      "id": 949470,
+      "title": "Unknown Title",
+      "overview": "A short film by Andrei Ventslova",
+      "release_date": "1988-04-15",
+      "rating": 0.0,
+      "vote_count": 0,
       "genres": [
-        "Documentary"
+        "Drama"
       ],
-      "poster_path": "/fibl9AsK9ddiiEVZ8od78nDKOXT.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fibl9AsK9ddiiEVZ8od78nDKOXT.jpg",
-      "backdrop_path": "/xUddkTwPfCYivi03iOZ3inCKTAB.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xUddkTwPfCYivi03iOZ3inCKTAB.jpg",
-      "imdb_id": "tt33055004",
-      "runtime": 90,
+      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "imdb_id": null,
+      "runtime": 1,
       "budget": 0,
       "revenue": 0
     }
