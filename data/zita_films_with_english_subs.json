@@ -1,5 +1,99 @@
 [
   {
+    "film_id": "arze",
+    "url": "https://zita.se/arze",
+    "title": "Arze",
+    "director": "",
+    "genre": "Egypten, Libanon, SaudiarabienEgypten, Libanon...🔍20241 jan 202490 minDrama, komediFrån 15 årFolkets Bio StockholmArabiskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "6:00 PM",
+        "time": "18:00",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5562",
+        "original_display_text": "18:00",
+        "normalized_datetime": "2025-09-13T18:00:00",
+        "normalized_date": "13.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-09-13T06:26:01.051087+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 85365,
+      "title": "Tony Arzenta",
+      "overview": "A mob hitman wants to retire, but his bosses don't think that's a good idea. Complications - and many bloody shootouts - ensue.",
+      "release_date": "1973-08-23",
+      "rating": 6.1,
+      "vote_count": 59,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "poster_path": "/p0IIvxBNY5N3CUEVooSTvjeUcUb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p0IIvxBNY5N3CUEVooSTvjeUcUb.jpg",
+      "backdrop_path": "/mSBdSd2vRGLdNMmUewsY1kqEkPi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mSBdSd2vRGLdNMmUewsY1kqEkPi.jpg",
+      "imdb_id": "tt0069013",
+      "runtime": 113,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "il-signore",
+    "url": "https://zita.se/il-signore",
+    "title": "Il Signore",
+    "director": "",
+    "genre": "Saudiarabien20241 jan 2024110 minDrama, komediFolkets Bio StockholmArabiskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "8:00 PM",
+        "time": "20:00",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5565",
+        "original_display_text": "20:00",
+        "normalized_datetime": "2025-09-13T20:00:00",
+        "normalized_date": "13.09",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-09-13T06:26:09.228154+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1327526,
+      "title": "Il Signore",
+      "overview": "Salem, a Saudi engineer, pretends to be an Italian expert to work at a big company, exploiting the foreigner's advantage. He finds himself entangled with a dangerous gang. Will he be able to get out of this predicament and return to his true identity?",
+      "release_date": "2024-08-01",
+      "rating": 1.0,
+      "vote_count": 1,
+      "genres": [
+        "Comedy"
+      ],
+      "poster_path": "/iNIwJYbyOpkRY0iwwthuZhNWpRP.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iNIwJYbyOpkRY0iwwthuZhNWpRP.jpg",
+      "backdrop_path": "/op58ovSR6tfNJ00rUCF8CumhNY0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/op58ovSR6tfNJ00rUCF8CumhNY0.jpg",
+      "imdb_id": null,
+      "runtime": 0,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
     "film_id": "unknown-title",
     "url": "https://zita.se/jeanne-dielman",
     "title": "Unknown Title",
@@ -8,22 +102,23 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2025-10-11T16:00:00",
+        "datetime": "2025-10-11T4:00:00",
         "display_text": "Sat 11 Oct 4:00 PM",
         "time": "16:00",
         "date": "lör 11 okt",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=3685",
         "original_display_text": "lör 11 okt 16:00",
-        "normalized_datetime": "2025-10-11T16:00:00",
+        "original_datetime": "2025-10-11T16:00:00",
+        "normalized_datetime": "2025-10-11T04:00:00",
         "normalized_date": "11.10",
-        "normalized_time": "16:00"
+        "normalized_time": "04:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-09-12T06:27:13.272320+00:00",
+    "scraped_at": "2025-09-13T06:26:11.951108+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
@@ -41,6 +136,80 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
       "imdb_id": null,
       "runtime": 1,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "maff-short-film-package",
+    "url": "https://zita.se/maff-short-film-package",
+    "title": "MAFF Short Film Package",
+    "director": "",
+    "genre": "",
+    "duration": "Saudi Arabien, Algeriet, Tunisien, JordanienSaudi Arabien...🔍202475 minKortfilmFrån 15 årArabiskaEngelska",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "4:00 PM",
+        "time": "16:00",
+        "date": "",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5561",
+        "original_display_text": "16:00",
+        "normalized_datetime": "2025-09-13T16:00:00",
+        "normalized_date": "13.09",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-09-13T06:26:14.741470+00:00",
+    "source": "zita"
+  },
+  {
+    "film_id": "yalla-parkour",
+    "url": "https://zita.se/yalla-parkour",
+    "title": "Yalla parkour",
+    "director": "",
+    "genre": "Sverige, Qatar, Saudiarabien, PalestinaSverige, Qatar...🔍20251 jan 202488 minDokumentärFrån 15 årFolkets Bio StockholmArabiskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "2:00 PM",
+        "time": "14:00",
+        "date": "",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
+        "original_display_text": "14:00",
+        "normalized_datetime": "2025-09-13T14:00:00",
+        "normalized_date": "13.09",
+        "normalized_time": "14:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-09-13T06:26:22.908957+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1370210,
+      "title": "Yalla Parkour",
+      "overview": "In a relentless pursuit of a memory that reinforces her sense of belonging, Areeb gets in touch with a parkour athlete. Together, they navigate what is left of Gaza, exploring a cemetery, a run-down shopping centre and the remains of an airport.",
+      "release_date": "2024-11-14",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eANxqeFoOn3u2kraxhY324VocO7.jpg",
+      "backdrop_path": "/rwN4zT0W4QUvgFhgw8y380Xl2uj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/rwN4zT0W4QUvgFhgw8y380Xl2uj.jpg",
+      "imdb_id": "tt12402876",
+      "runtime": 89,
       "budget": 0,
       "revenue": 0
     }

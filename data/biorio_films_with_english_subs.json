@@ -60,7 +60,7 @@
             "reRUN",
             "Frukostbio"
           ],
-          "isPublished": false
+          "isPublished": true
         },
         "normalized_datetime": "2025-10-25T08:30:00",
         "normalized_date": "25.10",
@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-12T06:19:54.405311",
+    "scraped_at": "2025-09-13T06:17:37.971768",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
@@ -167,7 +167,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-12T06:19:55.717630",
+    "scraped_at": "2025-09-13T06:17:39.673113",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -317,7 +317,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-12T06:20:04.495373",
+    "scraped_at": "2025-09-13T06:17:50.172713",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
@@ -338,99 +338,6 @@
       "runtime": 91,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "demon-slayer-kimetsu-no-yaiba-infinity-castle",
-    "url": "https://www.biorio.se/movies/demon-slayer-kimetsu-no-yaiba-infinity-castle",
-    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-    "director": "Haruo Sotozaki",
-    "showtimes": [
-      {
-        "datetime": "2025-09-12T18:30:00.000Z",
-        "display_text": "Friday September 12, 2025 at 18:30",
-        "movie_id": "5612",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/852",
-        "api_data": {
-          "id": 852,
-          "movieId": 5612,
-          "movieVersionId": 294,
-          "startTime": "2025-09-12T18:30:00.000Z",
-          "endTime": "2025-09-12T21:05:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "created_at": "2025-08-18T07:49:03.589Z",
-          "movie": {
-            "id": 5612,
-            "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5612/posters/1755503286788-bi4oel.jpg",
-            "movieVersions": [
-              {
-                "duration": 155,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 294,
-            "duration": 155,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-09-12T18:30:00",
-        "normalized_date": "12.09",
-        "normalized_time": "18:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2025-09-12T06:20:11.790147",
-    "source": "biorio",
-    "tmdb": {
-      "id": 1311031,
-      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-      "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-      "release_date": "2025-07-18",
-      "rating": 7.3,
-      "vote_count": 110,
-      "genres": [
-        "Animation",
-        "Action",
-        "Fantasy",
-        "Thriller"
-      ],
-      "poster_path": "/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg",
-      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-      "imdb_id": "tt32820897",
-      "runtime": 155,
-      "budget": 1100000,
-      "revenue": 295827974
     }
   },
   {
@@ -503,7 +410,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-12T06:20:20.517898",
+    "scraped_at": "2025-09-13T06:18:08.574591",
     "source": "biorio",
     "tmdb": {
       "id": 11830,
@@ -665,15 +572,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-12T06:20:58.793030",
+    "scraped_at": "2025-09-13T06:18:47.765000",
     "source": "biorio",
     "tmdb": {
       "id": 149,
       "title": "Akira",
       "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
       "release_date": "1988-06-10",
-      "rating": 7.9,
-      "vote_count": 4505,
+      "rating": 7.942,
+      "vote_count": 4507,
       "genres": [
         "Animation",
         "Science Fiction",
