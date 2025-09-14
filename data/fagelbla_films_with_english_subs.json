@@ -23,7 +23,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.857419+00:00",
+    "scraped_at": "2025-09-14T06:26:22.392034+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1213,
@@ -71,7 +71,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.857637+00:00",
+    "scraped_at": "2025-09-14T06:26:22.392263+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1398,
@@ -118,7 +118,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.857796+00:00",
+    "scraped_at": "2025-09-14T06:26:22.392437+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 51143,
@@ -164,7 +164,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.858227+00:00",
+    "scraped_at": "2025-09-14T06:26:22.392862+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 398818,
@@ -172,13 +172,13 @@
       "overview": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
       "release_date": "2017-07-28",
       "rating": 8.1,
-      "vote_count": 12416,
+      "vote_count": 12417,
       "genres": [
         "Romance",
         "Drama"
       ],
-      "poster_path": "/gXiE0WveDnT0n5J4sW9TMxXF4oT.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gXiE0WveDnT0n5J4sW9TMxXF4oT.jpg",
+      "poster_path": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
       "backdrop_path": "/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
       "imdb_id": "tt5726616",
@@ -211,7 +211,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.858470+00:00",
+    "scraped_at": "2025-09-14T06:26:22.393132+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47206,
@@ -257,7 +257,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.858739+00:00",
+    "scraped_at": "2025-09-14T06:26:22.393407+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 4173,
@@ -303,7 +303,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.859015+00:00",
+    "scraped_at": "2025-09-14T06:26:22.393647+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 71,
@@ -351,7 +351,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.859245+00:00",
+    "scraped_at": "2025-09-14T06:26:22.393960+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
@@ -397,7 +397,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.859424+00:00",
+    "scraped_at": "2025-09-14T06:26:22.394147+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1669,
@@ -445,7 +445,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.859578+00:00",
+    "scraped_at": "2025-09-14T06:26:22.394307+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 42692,
@@ -493,7 +493,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.859735+00:00",
+    "scraped_at": "2025-09-14T06:26:22.394467+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -541,7 +541,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.859913+00:00",
+    "scraped_at": "2025-09-14T06:26:22.394646+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 153,
@@ -589,7 +589,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.860127+00:00",
+    "scraped_at": "2025-09-14T06:26:22.394820+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -635,7 +635,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.860312+00:00",
+    "scraped_at": "2025-09-14T06:26:22.394971+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
@@ -682,7 +682,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.860519+00:00",
+    "scraped_at": "2025-09-14T06:26:22.395201+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
@@ -728,7 +728,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.860839+00:00",
+    "scraped_at": "2025-09-14T06:26:22.395501+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -775,7 +775,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.861092+00:00",
+    "scraped_at": "2025-09-14T06:26:22.395787+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -823,7 +823,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.861259+00:00",
+    "scraped_at": "2025-09-14T06:26:22.396083+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
@@ -831,7 +831,7 @@
       "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
       "release_date": "1984-07-16",
       "rating": 8.1,
-      "vote_count": 2041,
+      "vote_count": 2042,
       "genres": [
         "Drama"
       ],
@@ -869,14 +869,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.861440+00:00",
+    "scraped_at": "2025-09-14T06:26:22.396457+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 805,
       "title": "Rosemary's Baby",
       "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
       "release_date": "1968-06-12",
-      "rating": 7.825,
+      "rating": 7.8,
       "vote_count": 4126,
       "genres": [
         "Drama",
@@ -917,7 +917,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.861562+00:00",
+    "scraped_at": "2025-09-14T06:26:22.396708+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -965,7 +965,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.861684+00:00",
+    "scraped_at": "2025-09-14T06:26:22.396965+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -1013,15 +1013,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.861834+00:00",
+    "scraped_at": "2025-09-14T06:26:22.397201+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 931,
       "title": "Don't Look Now",
       "overview": "While grieving a terrible loss, a married couple meet two mysterious sisters, one of whom gives them a message sent from the afterlife.",
       "release_date": "1973-10-11",
-      "rating": 6.9,
-      "vote_count": 1118,
+      "rating": 6.933,
+      "vote_count": 1120,
       "genres": [
         "Thriller",
         "Drama",
@@ -1061,14 +1061,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.862072+00:00",
+    "scraped_at": "2025-09-14T06:26:22.397462+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 755,
       "title": "From Dusk Till Dawn",
       "overview": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
       "release_date": "1996-01-19",
-      "rating": 7.027,
+      "rating": 7.0,
       "vote_count": 6181,
       "genres": [
         "Horror",
@@ -1110,7 +1110,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.862319+00:00",
+    "scraped_at": "2025-09-14T06:26:22.397839+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 21135,
@@ -1157,7 +1157,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.862471+00:00",
+    "scraped_at": "2025-09-14T06:26:22.398149+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -1204,15 +1204,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.862642+00:00",
+    "scraped_at": "2025-09-14T06:26:22.398430+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
       "title": "Amélie",
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
-      "rating": 7.914,
-      "vote_count": 11925,
+      "rating": 7.913,
+      "vote_count": 11926,
       "genres": [
         "Comedy",
         "Romance"
@@ -1251,7 +1251,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.862767+00:00",
+    "scraped_at": "2025-09-14T06:26:22.398661+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
@@ -1259,7 +1259,7 @@
       "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
       "release_date": "1997-12-20",
       "rating": 8.44,
-      "vote_count": 13530,
+      "vote_count": 13532,
       "genres": [
         "Comedy",
         "Drama"
@@ -1298,7 +1298,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.862891+00:00",
+    "scraped_at": "2025-09-14T06:26:22.398883+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -1346,7 +1346,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.863085+00:00",
+    "scraped_at": "2025-09-14T06:26:22.399160+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -1393,7 +1393,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.863321+00:00",
+    "scraped_at": "2025-09-14T06:26:22.399518+00:00",
     "source": "fagelbla"
   },
   {
@@ -1420,7 +1420,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-13T06:25:29.863531+00:00",
+    "scraped_at": "2025-09-14T06:26:22.399734+00:00",
     "source": "fagelbla"
   }
 ]
