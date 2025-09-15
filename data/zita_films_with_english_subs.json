@@ -23,7 +23,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-09-14T06:27:05.881685+00:00",
+    "scraped_at": "2025-09-15T06:30:32.271264+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
@@ -43,53 +43,6 @@
       "runtime": 1,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "snow-white",
-    "url": "https://zita.se/snow-white",
-    "title": "Snow White",
-    "director": "",
-    "genre": "Egypten20241 jan 2024105 minDramaFolkets Bio StockholmArabiskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "4 PM",
-        "time": "16:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5558",
-        "original_display_text": "16:00",
-        "normalized_datetime": "2025-09-14T16:00:00",
-        "normalized_date": "14.09",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2025-09-14T06:27:16.695742+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 447273,
-      "title": "Snow White",
-      "overview": "Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom.",
-      "release_date": "2025-03-12",
-      "rating": 4.3,
-      "vote_count": 1379,
-      "genres": [
-        "Family",
-        "Fantasy"
-      ],
-      "poster_path": "/xWWg47tTfparvjK0WJNX4xL8lW2.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xWWg47tTfparvjK0WJNX4xL8lW2.jpg",
-      "backdrop_path": "/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
-      "imdb_id": "tt6208148",
-      "runtime": 109,
-      "budget": 270000000,
-      "revenue": 205067778
     }
   }
 ]
