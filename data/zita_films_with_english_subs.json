@@ -1,5 +1,54 @@
 [
   {
+    "film_id": "idioterna",
+    "url": "https://zita.se/idioterna",
+    "title": "Idioterna",
+    "director": "",
+    "genre": "IdioterneDanmark19981 jan 1998114 minDramaFolkets Bio StockholmDanskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "8:00 PM",
+        "time": "20:00",
+        "date": "",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5578",
+        "original_display_text": "20:00",
+        "normalized_datetime": "2025-09-19T20:00:00",
+        "normalized_date": "19.09",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-09-19T06:28:51.984374+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 90214,
+      "title": "Cosi",
+      "overview": "Lewis, a young amateur theater director, is offered a job with a governmental program for the rehabilitation of mentally ill patients in a Sydney institution. His project is overrun by one of the patients who wants to stage the opera Cosi Fan Tutte by Mozart despite the fact that none of the patients are able to sing and none of them speak Italian. A comedy of errors ensues, but one which unifies the patients and their director in unexpected ways.",
+      "release_date": "1996-03-04",
+      "rating": 6.3,
+      "vote_count": 37,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "poster_path": "/g4b3tEgmPSq7mZ7db1r9i5jHEHV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g4b3tEgmPSq7mZ7db1r9i5jHEHV.jpg",
+      "backdrop_path": "/9fay2wNCKqEuewn9XFq45PavmI3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9fay2wNCKqEuewn9XFq45PavmI3.jpg",
+      "imdb_id": "tt0115951",
+      "runtime": 102,
+      "budget": 0,
+      "revenue": 35918
+    }
+  },
+  {
     "film_id": "unknown-title",
     "url": "https://zita.se/jeanne-dielman",
     "title": "Unknown Title",
@@ -8,22 +57,23 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2025-10-11T16:00:00",
-        "display_text": "Sat 11 Oct 4 PM",
+        "datetime": "2025-10-11T4:00:00",
+        "display_text": "Sat 11 Oct 4:00 PM",
         "time": "16:00",
         "date": "lör 11 okt",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=3685",
         "original_display_text": "lör 11 okt 16:00",
-        "normalized_datetime": "2025-10-11T16:00:00",
+        "original_datetime": "2025-10-11T16:00:00",
+        "normalized_datetime": "2025-10-11T04:00:00",
         "normalized_date": "11.10",
-        "normalized_time": "16:00"
+        "normalized_time": "04:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-09-18T06:28:40.188576+00:00",
+    "scraped_at": "2025-09-19T06:28:53.873924+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,

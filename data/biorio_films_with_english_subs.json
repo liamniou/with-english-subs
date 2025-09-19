@@ -70,15 +70,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-18T06:20:17.794653",
+    "scraped_at": "2025-09-19T06:20:31.784901",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
       "title": "ParaNorman",
       "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
       "release_date": "2012-08-03",
-      "rating": 7.0,
-      "vote_count": 2628,
+      "rating": 7.004,
+      "vote_count": 2630,
       "genres": [
         "Family",
         "Animation",
@@ -167,7 +167,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-18T06:20:19.438316",
+    "scraped_at": "2025-09-19T06:20:33.386009",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -197,6 +197,65 @@
     "title": "Depeche Mode: M",
     "director": "",
     "showtimes": [
+      {
+        "datetime": "2025-11-03T17:00:00.000Z",
+        "display_text": "Monday November 3, 2025 at 17:00",
+        "movie_id": "5619",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/998",
+        "api_data": {
+          "id": 998,
+          "movieId": 5619,
+          "movieVersionId": 301,
+          "startTime": "2025-11-03T17:00:00.000Z",
+          "endTime": "2025-11-03T18:35:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "created_at": "2025-09-18T08:57:35.556Z",
+          "movie": {
+            "id": 5619,
+            "title": "Depeche Mode: M",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1755763526774-816632596-Depeche-Mode.webp",
+            "movieVersions": [
+              {
+                "duration": 95,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 301,
+            "duration": 95,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "isPublished": true
+        },
+        "original_display_text": "Monday November 03, 2025 at 17:00",
+        "normalized_datetime": "2025-11-03T17:00:00",
+        "normalized_date": "03.11",
+        "normalized_time": "17:00"
+      },
       {
         "datetime": "2025-10-30T19:10:00.000Z",
         "display_text": "Thursday October 30, 2025 at 19:10",
@@ -317,7 +376,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-18T06:20:26.601143",
+    "scraped_at": "2025-09-19T06:20:44.447616",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
@@ -415,7 +474,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-18T06:21:02.156282",
+    "scraped_at": "2025-09-19T06:21:47.244935",
     "source": "biorio",
     "tmdb": {
       "id": 149,
