@@ -20,7 +20,7 @@
           "screenId": 1,
           "screenNumber": 1,
           "language": null,
-          "subtitles": null,
+          "subtitles": "Engelska",
           "membersOnly": false,
           "screeningLive": true,
           "isArchived": false,
@@ -58,7 +58,8 @@
           ],
           "tags": [
             "reRUN",
-            "Frukostbio"
+            "Frukostbio",
+            "Trick or Treat"
           ],
           "isPublished": true
         },
@@ -70,7 +71,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-19T06:20:31.784901",
+    "scraped_at": "2025-09-20T06:18:40.750226",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
@@ -78,7 +79,7 @@
       "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
       "release_date": "2012-08-03",
       "rating": 7.004,
-      "vote_count": 2630,
+      "vote_count": 2631,
       "genres": [
         "Family",
         "Animation",
@@ -167,7 +168,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-19T06:20:33.386009",
+    "scraped_at": "2025-09-20T06:18:42.120771",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -376,7 +377,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-19T06:20:44.447616",
+    "scraped_at": "2025-09-20T06:18:48.767386",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
@@ -474,7 +475,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-19T06:21:47.244935",
+    "scraped_at": "2025-09-20T06:19:29.689362",
     "source": "biorio",
     "tmdb": {
       "id": 149,
@@ -482,7 +483,7 @@
       "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
       "release_date": "1988-06-10",
       "rating": 7.941,
-      "vote_count": 4511,
+      "vote_count": 4512,
       "genres": [
         "Animation",
         "Science Fiction",

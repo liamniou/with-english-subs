@@ -1,51 +1,95 @@
 [
   {
-    "film_id": "idioterna",
-    "url": "https://zita.se/idioterna",
-    "title": "Idioterna",
+    "film_id": "älskar-dig-för-evigt",
+    "url": "https://zita.se/alskar-dig-for-evigt",
+    "title": "Älskar dig för evigt",
     "director": "",
-    "genre": "IdioterneDanmark19981 jan 1998114 minDramaFolkets Bio StockholmDanskaEngelska",
+    "genre": "Elsker dig for evigtDanmark20021 jan 2002113 minDramaFolkets Bio StockholmDanskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "8:00 PM",
-        "time": "20:00",
+        "display_text": "4:00 PM",
+        "time": "16:00",
         "date": "",
         "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5578",
-        "original_display_text": "20:00",
-        "normalized_datetime": "2025-09-19T20:00:00",
-        "normalized_date": "19.09",
-        "normalized_time": "20:00"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5580",
+        "original_display_text": "16:00",
+        "normalized_datetime": "2025-09-20T16:00:00",
+        "normalized_date": "20.09",
+        "normalized_time": "16:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-09-19T06:28:51.984374+00:00",
+    "scraped_at": "2025-09-20T06:25:30.680142+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 90214,
-      "title": "Cosi",
-      "overview": "Lewis, a young amateur theater director, is offered a job with a governmental program for the rehabilitation of mentally ill patients in a Sydney institution. His project is overrun by one of the patients who wants to stage the opera Cosi Fan Tutte by Mozart despite the fact that none of the patients are able to sing and none of them speak Italian. A comedy of errors ensues, but one which unifies the patients and their director in unexpected ways.",
-      "release_date": "1996-03-04",
-      "rating": 6.3,
-      "vote_count": 37,
+      "id": 102,
+      "title": "Open Hearts",
+      "overview": "Cecilie and Joachim are about to get married when a freak car accident leaves Joachim disabled, throwing their lives into a spin. The driver of the other car, Marie, and her family don’t get off lightly, either. Her husband Niels works in the hospital where he meets Cecilie and falls madly in love with her.",
+      "release_date": "2002-09-06",
+      "rating": 7.073,
+      "vote_count": 116,
       "genres": [
-        "Comedy",
         "Drama",
-        "Music",
         "Romance"
       ],
-      "poster_path": "/g4b3tEgmPSq7mZ7db1r9i5jHEHV.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/g4b3tEgmPSq7mZ7db1r9i5jHEHV.jpg",
-      "backdrop_path": "/9fay2wNCKqEuewn9XFq45PavmI3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9fay2wNCKqEuewn9XFq45PavmI3.jpg",
-      "imdb_id": "tt0115951",
-      "runtime": 102,
+      "poster_path": "/hOrV2fCw2kmSiS4ZMGFPfXqr3lt.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hOrV2fCw2kmSiS4ZMGFPfXqr3lt.jpg",
+      "backdrop_path": "/1pRNzOM7OQA29cVayaCheBI4vn7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1pRNzOM7OQA29cVayaCheBI4vn7.jpg",
+      "imdb_id": "tt0315543",
+      "runtime": 113,
       "budget": 0,
-      "revenue": 35918
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "festen",
+    "url": "https://zita.se/festen",
+    "title": "Festen",
+    "director": "",
+    "genre": "Danmark19981 jan 1998105 minDramaFolkets Bio StockholmDanskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "6:15 PM",
+        "time": "18:15",
+        "date": "",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5581",
+        "original_display_text": "18:15",
+        "normalized_datetime": "2025-09-20T18:15:00",
+        "normalized_date": "20.09",
+        "normalized_time": "18:15"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-09-20T06:25:36.670869+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 309,
+      "title": "The Celebration",
+      "overview": "The family of a wealthy businessman gather to celebrate his 60th birthday. During the course of the party, his eldest son presents a speech that reveals a shocking secret.",
+      "release_date": "1998-06-19",
+      "rating": 7.714,
+      "vote_count": 1176,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/2LRzNq41yrY8EjCnD1S8sCCPvKk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2LRzNq41yrY8EjCnD1S8sCCPvKk.jpg",
+      "backdrop_path": "/fENWhR8FPuQcBfFX752jlmmMqPU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fENWhR8FPuQcBfFX752jlmmMqPU.jpg",
+      "imdb_id": "tt0154420",
+      "runtime": 105,
+      "budget": 1300000,
+      "revenue": 0
     }
   },
   {
@@ -73,7 +117,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-09-19T06:28:53.873924+00:00",
+    "scraped_at": "2025-09-20T06:25:41.023845+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
