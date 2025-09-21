@@ -1,98 +1,5 @@
 [
   {
-    "film_id": "älskar-dig-för-evigt",
-    "url": "https://zita.se/alskar-dig-for-evigt",
-    "title": "Älskar dig för evigt",
-    "director": "",
-    "genre": "Elsker dig for evigtDanmark20021 jan 2002113 minDramaFolkets Bio StockholmDanskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "4:00 PM",
-        "time": "16:00",
-        "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5580",
-        "original_display_text": "16:00",
-        "normalized_datetime": "2025-09-20T16:00:00",
-        "normalized_date": "20.09",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2025-09-20T06:25:30.680142+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 102,
-      "title": "Open Hearts",
-      "overview": "Cecilie and Joachim are about to get married when a freak car accident leaves Joachim disabled, throwing their lives into a spin. The driver of the other car, Marie, and her family don’t get off lightly, either. Her husband Niels works in the hospital where he meets Cecilie and falls madly in love with her.",
-      "release_date": "2002-09-06",
-      "rating": 7.073,
-      "vote_count": 116,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/hOrV2fCw2kmSiS4ZMGFPfXqr3lt.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hOrV2fCw2kmSiS4ZMGFPfXqr3lt.jpg",
-      "backdrop_path": "/1pRNzOM7OQA29cVayaCheBI4vn7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1pRNzOM7OQA29cVayaCheBI4vn7.jpg",
-      "imdb_id": "tt0315543",
-      "runtime": 113,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "festen",
-    "url": "https://zita.se/festen",
-    "title": "Festen",
-    "director": "",
-    "genre": "Danmark19981 jan 1998105 minDramaFolkets Bio StockholmDanskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "6:15 PM",
-        "time": "18:15",
-        "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5581",
-        "original_display_text": "18:15",
-        "normalized_datetime": "2025-09-20T18:15:00",
-        "normalized_date": "20.09",
-        "normalized_time": "18:15"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2025-09-20T06:25:36.670869+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 309,
-      "title": "The Celebration",
-      "overview": "The family of a wealthy businessman gather to celebrate his 60th birthday. During the course of the party, his eldest son presents a speech that reveals a shocking secret.",
-      "release_date": "1998-06-19",
-      "rating": 7.714,
-      "vote_count": 1176,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/2LRzNq41yrY8EjCnD1S8sCCPvKk.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2LRzNq41yrY8EjCnD1S8sCCPvKk.jpg",
-      "backdrop_path": "/fENWhR8FPuQcBfFX752jlmmMqPU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fENWhR8FPuQcBfFX752jlmmMqPU.jpg",
-      "imdb_id": "tt0154420",
-      "runtime": 105,
-      "budget": 1300000,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "unknown-title",
     "url": "https://zita.se/jeanne-dielman",
     "title": "Unknown Title",
@@ -101,23 +8,22 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2025-10-11T4:00:00",
+        "datetime": "2025-10-11T16:00:00",
         "display_text": "Sat 11 Oct 4:00 PM",
         "time": "16:00",
         "date": "lör 11 okt",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=3685",
         "original_display_text": "lör 11 okt 16:00",
-        "original_datetime": "2025-10-11T16:00:00",
-        "normalized_datetime": "2025-10-11T04:00:00",
+        "normalized_datetime": "2025-10-11T16:00:00",
         "normalized_date": "11.10",
-        "normalized_time": "04:00"
+        "normalized_time": "16:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-09-20T06:25:41.023845+00:00",
+    "scraped_at": "2025-09-21T06:26:53.851518+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
@@ -135,6 +41,53 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
       "imdb_id": null,
       "runtime": 1,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "woman-life-freedom",
+    "url": "https://zita.se/woman-life-freedom-",
+    "title": "Woman Life Freedom",
+    "director": "",
+    "genre": "",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "5:00 PM",
+        "time": "17:00",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5610",
+        "original_display_text": "17:00",
+        "normalized_datetime": "2025-09-21T17:00:00",
+        "normalized_date": "21.09",
+        "normalized_time": "17:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-09-21T06:27:14.111942+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1173462,
+      "title": "Woman, Life, Freedom: An Iranian Revolution",
+      "overview": "On September 16, 2022, in Teheran, the murder by police of the young Mahsa Amini, arrested for \"wearing a headscarf contrary to the law\", sparked off an unprecedented insurrection. Within hours, a spontaneous movement formed around the rallying cry: \"Woman, life, freedom\". For the first time, women, joined by men and students, took the initiative and removed their veils, the hated symbol of the Islamic Republic. The Iranian population, from all regions and social categories, rose up in protest. Social networks went wild. The diaspora (between 5–8 million Iranians) took up the cause, and the whole world discovered the scale of this mobilization: could the theocratic regime be overthrown this time?",
+      "release_date": "2023-09-19",
+      "rating": 8.5,
+      "vote_count": 3,
+      "genres": [
+        "Documentary",
+        "History"
+      ],
+      "poster_path": "/dOcXkkxJWn63IhDOYM4GWIrrHNt.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dOcXkkxJWn63IhDOYM4GWIrrHNt.jpg",
+      "backdrop_path": "/5cQUjLf8LX8gRjWyRuhjITphHC1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5cQUjLf8LX8gRjWyRuhjITphHC1.jpg",
+      "imdb_id": "tt29229458",
+      "runtime": 53,
       "budget": 0,
       "revenue": 0
     }
