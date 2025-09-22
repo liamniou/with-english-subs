@@ -71,15 +71,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-21T06:19:00.098160",
+    "scraped_at": "2025-09-22T06:21:59.155568",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
       "title": "ParaNorman",
       "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
       "release_date": "2012-08-03",
-      "rating": 7.004,
-      "vote_count": 2631,
+      "rating": 7.005,
+      "vote_count": 2633,
       "genres": [
         "Family",
         "Animation",
@@ -168,7 +168,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-21T06:19:01.762720",
+    "scraped_at": "2025-09-22T06:22:01.632351",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -377,7 +377,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-21T06:19:10.642516",
+    "scraped_at": "2025-09-22T06:22:28.933434",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
@@ -475,15 +475,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-21T06:20:05.324487",
+    "scraped_at": "2025-09-22T06:24:37.540807",
     "source": "biorio",
     "tmdb": {
       "id": 149,
       "title": "Akira",
       "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
       "release_date": "1988-06-10",
-      "rating": 7.941,
-      "vote_count": 4513,
+      "rating": 7.9,
+      "vote_count": 4515,
       "genres": [
         "Animation",
         "Science Fiction",

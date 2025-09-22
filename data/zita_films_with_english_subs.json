@@ -23,7 +23,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-09-21T06:26:53.851518+00:00",
+    "scraped_at": "2025-09-22T06:30:10.238850+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
@@ -41,53 +41,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
       "imdb_id": null,
       "runtime": 1,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "woman-life-freedom",
-    "url": "https://zita.se/woman-life-freedom-",
-    "title": "Woman Life Freedom",
-    "director": "",
-    "genre": "",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "5:00 PM",
-        "time": "17:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5610",
-        "original_display_text": "17:00",
-        "normalized_datetime": "2025-09-21T17:00:00",
-        "normalized_date": "21.09",
-        "normalized_time": "17:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2025-09-21T06:27:14.111942+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 1173462,
-      "title": "Woman, Life, Freedom: An Iranian Revolution",
-      "overview": "On September 16, 2022, in Teheran, the murder by police of the young Mahsa Amini, arrested for \"wearing a headscarf contrary to the law\", sparked off an unprecedented insurrection. Within hours, a spontaneous movement formed around the rallying cry: \"Woman, life, freedom\". For the first time, women, joined by men and students, took the initiative and removed their veils, the hated symbol of the Islamic Republic. The Iranian population, from all regions and social categories, rose up in protest. Social networks went wild. The diaspora (between 5–8 million Iranians) took up the cause, and the whole world discovered the scale of this mobilization: could the theocratic regime be overthrown this time?",
-      "release_date": "2023-09-19",
-      "rating": 8.5,
-      "vote_count": 3,
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "poster_path": "/dOcXkkxJWn63IhDOYM4GWIrrHNt.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dOcXkkxJWn63IhDOYM4GWIrrHNt.jpg",
-      "backdrop_path": "/5cQUjLf8LX8gRjWyRuhjITphHC1.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5cQUjLf8LX8gRjWyRuhjITphHC1.jpg",
-      "imdb_id": "tt29229458",
-      "runtime": 53,
       "budget": 0,
       "revenue": 0
     }
