@@ -26,7 +26,6 @@
           "isArchived": false,
           "onlineAvailableFrom": "2025-09-12T13:00:00.000Z",
           "includeInReport": true,
-          "created_at": "2025-09-10T12:48:23.379Z",
           "movie": {
             "id": 5636,
             "title": "ParaNorman",
@@ -71,14 +70,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-22T06:21:59.155568",
+    "scraped_at": "2025-09-23T06:20:52.550468",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
       "title": "ParaNorman",
       "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
       "release_date": "2012-08-03",
-      "rating": 7.005,
+      "rating": 7.0,
       "vote_count": 2633,
       "genres": [
         "Family",
@@ -104,7 +103,7 @@
     "showtimes": [
       {
         "datetime": "2025-11-04T17:00:00.000Z",
-        "display_text": "Tuesday November 4, 2025 at 17:00",
+        "display_text": "Tuesday November 04, 2025 at 17:00",
         "movie_id": "5635",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/950",
@@ -123,7 +122,6 @@
           "isArchived": false,
           "onlineAvailableFrom": null,
           "includeInReport": true,
-          "created_at": "2025-09-04T11:42:29.501Z",
           "movie": {
             "id": 5635,
             "title": "Häxan (1922)",
@@ -159,7 +157,6 @@
           ],
           "isPublished": true
         },
-        "original_display_text": "Tuesday November 04, 2025 at 17:00",
         "normalized_datetime": "2025-11-04T17:00:00",
         "normalized_date": "04.11",
         "normalized_time": "17:00"
@@ -168,7 +165,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-22T06:22:01.632351",
+    "scraped_at": "2025-09-23T06:20:53.856848",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -200,7 +197,7 @@
     "showtimes": [
       {
         "datetime": "2025-11-03T17:00:00.000Z",
-        "display_text": "Monday November 3, 2025 at 17:00",
+        "display_text": "Monday November 03, 2025 at 17:00",
         "movie_id": "5619",
         "cinema_id": "10",
         "booking_url": "https://biorio.se/showtime/998",
@@ -219,7 +216,6 @@
           "isArchived": false,
           "onlineAvailableFrom": null,
           "includeInReport": true,
-          "created_at": "2025-09-18T08:57:35.556Z",
           "movie": {
             "id": 5619,
             "title": "Depeche Mode: M",
@@ -252,7 +248,6 @@
           "tags": [],
           "isPublished": true
         },
-        "original_display_text": "Monday November 03, 2025 at 17:00",
         "normalized_datetime": "2025-11-03T17:00:00",
         "normalized_date": "03.11",
         "normalized_time": "17:00"
@@ -278,7 +273,6 @@
           "isArchived": false,
           "onlineAvailableFrom": "2025-09-16T22:00:00.000Z",
           "includeInReport": true,
-          "created_at": "2025-08-21T08:07:13.509Z",
           "movie": {
             "id": 5619,
             "title": "Depeche Mode: M",
@@ -336,7 +330,6 @@
           "isArchived": false,
           "onlineAvailableFrom": "2025-09-16T22:00:00.000Z",
           "includeInReport": true,
-          "created_at": "2025-08-21T08:06:47.539Z",
           "movie": {
             "id": 5619,
             "title": "Depeche Mode: M",
@@ -377,7 +370,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-22T06:22:28.933434",
+    "scraped_at": "2025-09-23T06:20:59.960174",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
@@ -398,105 +391,6 @@
       "runtime": 91,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "akira",
-    "url": "https://www.biorio.se/movies/akira",
-    "title": "Akira",
-    "director": "Katsuhiro Otomo",
-    "showtimes": [
-      {
-        "datetime": "2025-09-22T18:10:00.000Z",
-        "display_text": "Monday September 22, 2025 at 18:10",
-        "movie_id": "5495",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/958",
-        "api_data": {
-          "id": 958,
-          "movieId": 5495,
-          "movieVersionId": 208,
-          "startTime": "2025-09-22T18:10:00.000Z",
-          "endTime": "2025-09-22T20:14:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "created_at": "2025-09-11T10:16:43.063Z",
-          "movie": {
-            "id": 5495,
-            "title": "Akira",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5495/posters/1748250084538-453oe.jpg",
-            "movieVersions": [
-              {
-                "duration": 124,
-                "audio": "Japanska",
-                "subtitles": "Svenska"
-              },
-              {
-                "duration": 124,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 208,
-            "duration": 124,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [
-            "reRUN"
-          ],
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-09-22T18:10:00",
-        "normalized_date": "22.09",
-        "normalized_time": "18:10"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2025-09-22T06:24:37.540807",
-    "source": "biorio",
-    "tmdb": {
-      "id": 149,
-      "title": "Akira",
-      "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
-      "release_date": "1988-06-10",
-      "rating": 7.9,
-      "vote_count": 4515,
-      "genres": [
-        "Animation",
-        "Science Fiction",
-        "Action"
-      ],
-      "poster_path": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
-      "backdrop_path": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
-      "imdb_id": "tt0094625",
-      "runtime": 124,
-      "budget": 5700000,
-      "revenue": 49000000
     }
   }
 ]
