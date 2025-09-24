@@ -23,7 +23,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.871136+00:00",
+    "scraped_at": "2025-09-24T06:27:59.632058+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 4173,
@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.871364+00:00",
+    "scraped_at": "2025-09-24T06:27:59.632261+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 71,
@@ -117,7 +117,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.871587+00:00",
+    "scraped_at": "2025-09-24T06:27:59.632507+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
@@ -163,14 +163,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.872062+00:00",
+    "scraped_at": "2025-09-24T06:27:59.632971+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1669,
       "title": "The Hunt for Red October",
       "overview": "A new technologically-superior Soviet nuclear sub, the Red October, is heading for the U.S. coast under the command of Captain Marko Ramius. The American government thinks Ramius is planning to attack. Lone CIA analyst Jack Ryan has a different idea: he thinks Ramius is planning to defect, but he has only a few hours to find him and prove it - because the entire Russian naval and air commands are trying to find Ramius, too. The hunt is on!",
       "release_date": "1990-03-02",
-      "rating": 7.376,
+      "rating": 7.4,
       "vote_count": 3445,
       "genres": [
         "Action",
@@ -211,7 +211,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.872313+00:00",
+    "scraped_at": "2025-09-24T06:27:59.633203+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 42692,
@@ -259,15 +259,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.872535+00:00",
+    "scraped_at": "2025-09-24T06:27:59.633400+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
       "title": "Wings of Desire",
       "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds -- with some words of wisdom from actor Peter Falk -- that it might be possible for him to take human form.",
       "release_date": "1987-09-23",
-      "rating": 7.779,
-      "vote_count": 1414,
+      "rating": 7.778,
+      "vote_count": 1415,
       "genres": [
         "Drama",
         "Fantasy",
@@ -307,15 +307,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.872795+00:00",
+    "scraped_at": "2025-09-24T06:27:59.633676+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 153,
       "title": "Lost in Translation",
       "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
       "release_date": "2003-09-18",
-      "rating": 7.387,
-      "vote_count": 7683,
+      "rating": 7.386,
+      "vote_count": 7684,
       "genres": [
         "Drama",
         "Romance",
@@ -355,7 +355,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.872982+00:00",
+    "scraped_at": "2025-09-24T06:27:59.633854+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -401,7 +401,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.873106+00:00",
+    "scraped_at": "2025-09-24T06:27:59.633976+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
@@ -433,22 +433,22 @@
     "language": "Italienska",
     "showtimes": [
       {
-        "datetime": "2025-10-16T17:45:00+02:00",
-        "display_text": "Thursday, 16th October 17:45",
-        "time": "17:45",
+        "datetime": "2025-10-16T20:30:00+02:00",
+        "display_text": "Thursday, 16th October 20:30",
+        "time": "20:30",
         "date_section": "Torsdag, 16th Oktober",
         "ticket_url": "https://biofagelbla.se/movie/le-notti-di-cabiria/?showtime=49291",
         "showtime_id": "49291",
-        "original_display_text": "Torsdag, 16th Oktober 17:45",
-        "normalized_datetime": "2025-10-16T17:45:00",
+        "original_display_text": "Torsdag, 16th Oktober 20:30",
+        "normalized_datetime": "2025-10-16T20:30:00",
         "normalized_date": "16.10",
-        "normalized_time": "17:45"
+        "normalized_time": "20:30"
       }
     ],
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.873254+00:00",
+    "scraped_at": "2025-09-24T06:27:59.634112+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
@@ -494,7 +494,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.873483+00:00",
+    "scraped_at": "2025-09-24T06:27:59.634315+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -541,7 +541,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.873636+00:00",
+    "scraped_at": "2025-09-24T06:27:59.634486+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -589,7 +589,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.873821+00:00",
+    "scraped_at": "2025-09-24T06:27:59.634681+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
@@ -635,7 +635,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.874060+00:00",
+    "scraped_at": "2025-09-24T06:27:59.634924+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 805,
@@ -683,7 +683,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.874244+00:00",
+    "scraped_at": "2025-09-24T06:27:59.635107+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -731,7 +731,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.874387+00:00",
+    "scraped_at": "2025-09-24T06:27:59.635227+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -779,7 +779,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.874508+00:00",
+    "scraped_at": "2025-09-24T06:27:59.635353+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 931,
@@ -827,7 +827,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.874655+00:00",
+    "scraped_at": "2025-09-24T06:27:59.635529+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 755,
@@ -876,7 +876,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.874884+00:00",
+    "scraped_at": "2025-09-24T06:27:59.635767+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 21135,
@@ -923,7 +923,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.875032+00:00",
+    "scraped_at": "2025-09-24T06:27:59.635923+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -970,7 +970,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.875273+00:00",
+    "scraped_at": "2025-09-24T06:27:59.636096+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -1017,7 +1017,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.875471+00:00",
+    "scraped_at": "2025-09-24T06:27:59.636306+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
@@ -1064,7 +1064,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.875600+00:00",
+    "scraped_at": "2025-09-24T06:27:59.636478+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -1097,22 +1097,22 @@
     "language": "Svensk",
     "showtimes": [
       {
-        "datetime": "2025-11-24T17:45:00+01:00",
-        "display_text": "Monday, 24th November 17:45",
-        "time": "17:45",
+        "datetime": "2025-11-24T19:30:00+01:00",
+        "display_text": "Monday, 24th November 19:30",
+        "time": "19:30",
         "date_section": "Måndag, 24th November",
         "ticket_url": "https://biofagelbla.se/movie/det-sjunde-inseglet/?showtime=49290",
         "showtime_id": "49290",
-        "original_display_text": "Måndag, 24th November 17:45",
-        "normalized_datetime": "2025-11-24T17:45:00",
+        "original_display_text": "Måndag, 24th November 19:30",
+        "normalized_datetime": "2025-11-24T19:30:00",
         "normalized_date": "24.11",
-        "normalized_time": "17:45"
+        "normalized_time": "19:30"
       }
     ],
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.875750+00:00",
+    "scraped_at": "2025-09-24T06:27:59.636631+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -1159,7 +1159,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.875935+00:00",
+    "scraped_at": "2025-09-24T06:27:59.636838+00:00",
     "source": "fagelbla"
   },
   {
@@ -1186,7 +1186,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:26:18.876057+00:00",
+    "scraped_at": "2025-09-24T06:27:59.636970+00:00",
     "source": "fagelbla"
   }
 ]

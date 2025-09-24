@@ -17,7 +17,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:21:48.453433",
+    "scraped_at": "2025-09-24T06:22:12.314746",
     "tmdb": {
       "id": 422406,
       "title": "Red Account: My Bloody Angel",
@@ -57,7 +57,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:21:53.755114",
+    "scraped_at": "2025-09-24T06:22:19.390421",
     "tmdb": {
       "id": 8937,
       "title": "Tokyo Sonata",
@@ -96,7 +96,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-09-23T06:22:06.480473",
+    "scraped_at": "2025-09-24T06:22:35.366722",
     "tmdb": {
       "id": 216471,
       "title": "Irezumi",
@@ -136,7 +136,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-09-23T06:22:09.562030"
+    "scraped_at": "2025-09-24T06:22:39.253392"
   },
   {
     "film_id": "10075",
@@ -156,7 +156,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:22:16.597263",
+    "scraped_at": "2025-09-24T06:22:47.862297",
     "tmdb": {
       "id": 1040,
       "title": "The Leopard",
@@ -195,7 +195,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:22:19.699898",
+    "scraped_at": "2025-09-24T06:22:51.738412",
     "tmdb": {
       "id": 1075610,
       "title": "Smiley",
@@ -232,7 +232,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-09-23T06:22:33.692208",
+    "scraped_at": "2025-09-24T06:23:09.136218",
     "tmdb": {
       "id": 105554,
       "title": "The Forgotten Space",
@@ -271,7 +271,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:22:38.569314",
+    "scraped_at": "2025-09-24T06:23:15.200256",
     "tmdb": {
       "id": 111397,
       "title": "A Wife Confesses",
@@ -312,7 +312,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:22:41.648337",
+    "scraped_at": "2025-09-24T06:23:19.112280",
     "tmdb": {
       "id": 43195,
       "title": "Senso",
@@ -353,7 +353,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:22:49.920362",
+    "scraped_at": "2025-09-24T06:23:29.724135",
     "tmdb": {
       "id": 39415,
       "title": "Loulou",
@@ -393,7 +393,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:22:54.944556"
+    "scraped_at": "2025-09-24T06:23:35.803175"
   },
   {
     "film_id": "784",
@@ -413,7 +413,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:23:05.201124",
+    "scraped_at": "2025-09-24T06:23:48.616007",
     "tmdb": {
       "id": 41876,
       "title": "The Damned",
@@ -453,7 +453,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-09-23T06:23:13.652487",
+    "scraped_at": "2025-09-24T06:23:59.259855",
     "tmdb": {
       "id": 362951,
       "title": "Nagamadathu Thampuratti",
@@ -490,7 +490,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:23:20.291255",
+    "scraped_at": "2025-09-24T06:24:07.947264",
     "tmdb": {
       "id": 98636,
       "title": "Kisses",
@@ -530,7 +530,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:23:25.025485",
+    "scraped_at": "2025-09-24T06:24:14.059321",
     "tmdb": {
       "id": 85550,
       "title": "Tale of Cinema",
@@ -569,7 +569,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:23:41.958348",
+    "scraped_at": "2025-09-24T06:24:35.586616",
     "tmdb": {
       "id": 1481312,
       "title": "Manji",
@@ -606,14 +606,14 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-09-23T06:23:46.803588",
+    "scraped_at": "2025-09-24T06:24:41.494029",
     "tmdb": {
       "id": 434773,
       "title": "On the Beach at Night Alone",
       "overview": "Young-hee, an actress reeling in the aftermath of an affair with a married film director, escapes to Hamburg. But when she returns to Korea and meets with friends for drinks, startling confessions emerge.",
       "release_date": "2017-03-23",
-      "rating": 6.6,
-      "vote_count": 148,
+      "rating": 6.564,
+      "vote_count": 149,
       "genres": [
         "Drama"
       ],
@@ -645,7 +645,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:23:58.410705",
+    "scraped_at": "2025-09-24T06:24:56.437966",
     "tmdb": {
       "id": 103753,
       "title": "In Another Country",
@@ -684,7 +684,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:24:03.357825",
+    "scraped_at": "2025-09-24T06:25:02.357283",
     "tmdb": {
       "id": 3478,
       "title": "Ludwig",
@@ -724,7 +724,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:24:11.445337",
+    "scraped_at": "2025-09-24T06:25:12.785657",
     "tmdb": {
       "id": 8422,
       "title": "Rocco and His Brothers",
@@ -764,7 +764,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:24:19.689879",
+    "scraped_at": "2025-09-24T06:25:23.391274",
     "tmdb": {
       "id": 230893,
       "title": "Scénario de 'Sauve qui peut la vie'",
@@ -803,7 +803,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:24:31.373039",
+    "scraped_at": "2025-09-24T06:25:38.220771",
     "tmdb": {
       "id": 86262,
       "title": "Like You Know It All",
@@ -843,7 +843,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:24:51.816263",
+    "scraped_at": "2025-09-24T06:26:04.187990",
     "tmdb": {
       "id": 1358533,
       "title": "Ossessione",
@@ -883,7 +883,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:24:58.261926",
+    "scraped_at": "2025-09-24T06:26:12.508199",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -922,7 +922,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-09-23T06:25:11.677324"
+    "scraped_at": "2025-09-24T06:26:29.645852"
   },
   {
     "film_id": "13931",
@@ -942,7 +942,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:25:19.862122",
+    "scraped_at": "2025-09-24T06:26:40.239778",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -981,7 +981,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:25:29.784770",
+    "scraped_at": "2025-09-24T06:26:53.083348",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -1020,7 +1020,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:25:32.809904",
+    "scraped_at": "2025-09-24T06:26:56.967820",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -1059,7 +1059,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:25:41.016132",
+    "scraped_at": "2025-09-24T06:27:07.547365",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -1098,7 +1098,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:25:50.982246",
+    "scraped_at": "2025-09-24T06:27:20.689563",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -1137,7 +1137,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:25:54.195991",
+    "scraped_at": "2025-09-24T06:27:24.849353",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -1177,7 +1177,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:26:04.242174",
+    "scraped_at": "2025-09-24T06:27:38.004689",
     "tmdb": {
       "id": 989406,
       "title": "After Work",
@@ -1216,6 +1216,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-09-23T06:26:07.254386"
+    "scraped_at": "2025-09-24T06:27:42.052847"
   }
 ]

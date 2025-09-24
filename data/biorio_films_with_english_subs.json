@@ -70,15 +70,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:20:52.550468",
+    "scraped_at": "2025-09-24T06:20:50.774126",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
       "title": "ParaNorman",
       "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
       "release_date": "2012-08-03",
-      "rating": 7.0,
-      "vote_count": 2633,
+      "rating": 7.006,
+      "vote_count": 2634,
       "genres": [
         "Family",
         "Animation",
@@ -165,7 +165,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:20:53.856848",
+    "scraped_at": "2025-09-24T06:20:52.437612",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -370,7 +370,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-23T06:20:59.960174",
+    "scraped_at": "2025-09-24T06:21:01.918744",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
