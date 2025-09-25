@@ -5,7 +5,7 @@
     "title": "Stromboli",
     "director": "Roberto Rossellini",
     "duration": "1h 46 mins",
-    "language": "Engelska",
+    "language": "Italienska",
     "showtimes": [
       {
         "datetime": "2025-09-27T15:45:00+02:00",
@@ -23,7 +23,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.632058+00:00",
+    "scraped_at": "2025-09-25T06:26:41.901175+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 4173,
@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.632261+00:00",
+    "scraped_at": "2025-09-25T06:26:41.901409+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 71,
@@ -77,7 +77,7 @@
       "overview": "County Durham, England, 1984. The miners' strike has started and the police have started coming up from Bethnal Green, starting a class war with the lower classes suffering. Caught in the middle of the conflict is 11-year old Billy Elliot, who, after leaving his boxing club for the day, stumbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs. Wilkinson for an upcoming audition in Newcastle-upon Tyne for the royal Ballet school in London.",
       "release_date": "2000-09-28",
       "rating": 7.598,
-      "vote_count": 3956,
+      "vote_count": 3957,
       "genres": [
         "Drama",
         "Comedy",
@@ -117,7 +117,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.632507+00:00",
+    "scraped_at": "2025-09-25T06:26:41.901680+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
@@ -163,15 +163,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.632971+00:00",
+    "scraped_at": "2025-09-25T06:26:41.902178+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1669,
       "title": "The Hunt for Red October",
       "overview": "A new technologically-superior Soviet nuclear sub, the Red October, is heading for the U.S. coast under the command of Captain Marko Ramius. The American government thinks Ramius is planning to attack. Lone CIA analyst Jack Ryan has a different idea: he thinks Ramius is planning to defect, but he has only a few hours to find him and prove it - because the entire Russian naval and air commands are trying to find Ramius, too. The hunt is on!",
       "release_date": "1990-03-02",
-      "rating": 7.4,
-      "vote_count": 3445,
+      "rating": 7.375,
+      "vote_count": 3447,
       "genres": [
         "Action",
         "Adventure",
@@ -211,7 +211,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.633203+00:00",
+    "scraped_at": "2025-09-25T06:26:41.902440+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 42692,
@@ -259,7 +259,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.633400+00:00",
+    "scraped_at": "2025-09-25T06:26:41.902641+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -267,7 +267,7 @@
       "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds -- with some words of wisdom from actor Peter Falk -- that it might be possible for him to take human form.",
       "release_date": "1987-09-23",
       "rating": 7.778,
-      "vote_count": 1415,
+      "vote_count": 1416,
       "genres": [
         "Drama",
         "Fantasy",
@@ -307,15 +307,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.633676+00:00",
+    "scraped_at": "2025-09-25T06:26:41.902941+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 153,
       "title": "Lost in Translation",
       "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
       "release_date": "2003-09-18",
-      "rating": 7.386,
-      "vote_count": 7684,
+      "rating": 7.387,
+      "vote_count": 7687,
       "genres": [
         "Drama",
         "Romance",
@@ -355,7 +355,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.633854+00:00",
+    "scraped_at": "2025-09-25T06:26:41.903276+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -401,7 +401,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.633976+00:00",
+    "scraped_at": "2025-09-25T06:26:41.903484+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
@@ -448,7 +448,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.634112+00:00",
+    "scraped_at": "2025-09-25T06:26:41.903740+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
@@ -456,7 +456,7 @@
       "overview": "Rome, 1957. A woman, Cabiria, is robbed and left to drown by her boyfriend, Giorgio. Rescued, she resumes her life and tries her best to find happiness in a cynical world. Even when she thinks her struggles are over and she has found happiness and contentment, things may not be what they seem.",
       "release_date": "1957-10-03",
       "rating": 7.991,
-      "vote_count": 810,
+      "vote_count": 811,
       "genres": [
         "Drama"
       ],
@@ -494,15 +494,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.634315+00:00",
+    "scraped_at": "2025-09-25T06:26:41.904101+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
       "title": "A Room with a View",
       "overview": "When Lucy Honeychurch and chaperon Charlotte Bartlett find themselves in Florence with rooms without views, fellow guests Mr Emerson and son George step in to remedy the situation. Meeting the Emersons could change Lucy's life forever but, once back in England, how will her experiences in Tuscany affect her marriage plans?",
       "release_date": "1986-03-07",
-      "rating": 6.941,
-      "vote_count": 800,
+      "rating": 6.939,
+      "vote_count": 801,
       "genres": [
         "Drama",
         "Romance"
@@ -541,7 +541,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.634486+00:00",
+    "scraped_at": "2025-09-25T06:26:41.904430+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -589,15 +589,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.634681+00:00",
+    "scraped_at": "2025-09-25T06:26:41.904730+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
       "title": "Paris, Texas",
       "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
       "release_date": "1984-07-16",
-      "rating": 8.1,
-      "vote_count": 2049,
+      "rating": 8.101,
+      "vote_count": 2053,
       "genres": [
         "Drama"
       ],
@@ -635,7 +635,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.634924+00:00",
+    "scraped_at": "2025-09-25T06:26:41.905068+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 805,
@@ -643,7 +643,7 @@
       "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
       "release_date": "1968-06-12",
       "rating": 7.825,
-      "vote_count": 4139,
+      "vote_count": 4140,
       "genres": [
         "Drama",
         "Horror",
@@ -683,7 +683,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.635107+00:00",
+    "scraped_at": "2025-09-25T06:26:41.905297+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -731,7 +731,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.635227+00:00",
+    "scraped_at": "2025-09-25T06:26:41.905500+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -779,7 +779,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.635353+00:00",
+    "scraped_at": "2025-09-25T06:26:41.905703+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 931,
@@ -827,7 +827,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.635529+00:00",
+    "scraped_at": "2025-09-25T06:26:41.905932+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 755,
@@ -835,7 +835,7 @@
       "overview": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
       "release_date": "1996-01-19",
       "rating": 7.028,
-      "vote_count": 6186,
+      "vote_count": 6189,
       "genres": [
         "Horror",
         "Action",
@@ -876,7 +876,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.635767+00:00",
+    "scraped_at": "2025-09-25T06:26:41.906357+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 21135,
@@ -923,7 +923,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.635923+00:00",
+    "scraped_at": "2025-09-25T06:26:41.906626+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -970,7 +970,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.636096+00:00",
+    "scraped_at": "2025-09-25T06:26:41.906927+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -978,7 +978,7 @@
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
       "rating": 7.913,
-      "vote_count": 11936,
+      "vote_count": 11938,
       "genres": [
         "Comedy",
         "Romance"
@@ -1017,7 +1017,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.636306+00:00",
+    "scraped_at": "2025-09-25T06:26:41.907246+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
@@ -1025,7 +1025,7 @@
       "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
       "release_date": "1997-12-20",
       "rating": 8.44,
-      "vote_count": 13544,
+      "vote_count": 13547,
       "genres": [
         "Comedy",
         "Drama"
@@ -1064,7 +1064,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.636478+00:00",
+    "scraped_at": "2025-09-25T06:26:41.907455+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -1112,15 +1112,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.636631+00:00",
+    "scraped_at": "2025-09-25T06:26:41.907716+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
       "title": "The Seventh Seal",
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
-      "rating": 8.175,
-      "vote_count": 3173,
+      "rating": 8.173,
+      "vote_count": 3176,
       "genres": [
         "Fantasy",
         "Drama"
@@ -1159,7 +1159,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.636838+00:00",
+    "scraped_at": "2025-09-25T06:26:41.908027+00:00",
     "source": "fagelbla"
   },
   {
@@ -1186,7 +1186,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:27:59.636970+00:00",
+    "scraped_at": "2025-09-25T06:26:41.908270+00:00",
     "source": "fagelbla"
   }
 ]

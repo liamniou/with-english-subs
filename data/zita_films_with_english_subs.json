@@ -9,7 +9,7 @@
     "showtimes": [
       {
         "datetime": "2025-10-11T16:00:00",
-        "display_text": "Sat 11 Oct 4:00 PM",
+        "display_text": "Sat 11 Oct 4 PM",
         "time": "16:00",
         "date": "lör 11 okt",
         "cinema": "(Zita 2)",
@@ -23,7 +23,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-09-24T06:28:39.149806+00:00",
+    "scraped_at": "2025-09-25T06:27:08.626900+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
