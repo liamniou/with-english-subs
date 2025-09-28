@@ -1,50 +1,5 @@
 [
   {
-    "film_id": "stromboli",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Stromboli",
-    "director": "Roberto Rossellini",
-    "duration": "1h 46 mins",
-    "language": "Italienska",
-    "showtimes": [
-      {
-        "datetime": "2025-09-27T15:45:00+02:00",
-        "display_text": "Lördag, 27th September 15:45",
-        "time": "15:45",
-        "date_section": "Lördag, 27th September",
-        "ticket_url": "https://biofagelbla.se/movie/stromboli/?showtime=49339",
-        "showtime_id": "49339",
-        "normalized_datetime": "2025-09-27T15:45:00",
-        "normalized_date": "27.09",
-        "normalized_time": "15:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-09-27T06:24:07.871649+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 4173,
-      "title": "Stromboli",
-      "overview": "After the end of WWII, a young Lithuanian woman and a young Italian man from Stromboli impulsively marry, but married life on the island is more demanding than she can accept.",
-      "release_date": "1950-02-15",
-      "rating": 7.1,
-      "vote_count": 206,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/tsyyzGSspKsawHocchfokskwbeM.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tsyyzGSspKsawHocchfokskwbeM.jpg",
-      "backdrop_path": "/58wyozfcoM7mFiA0soOJfHEA27N.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/58wyozfcoM7mFiA0soOJfHEA27N.jpg",
-      "imdb_id": "tt0041931",
-      "runtime": 107,
-      "budget": 900000,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "billy-elliot",
     "url": "https://biofagelbla.se/program/",
     "title": "Billy Elliot",
@@ -67,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.871853+00:00",
+    "scraped_at": "2025-09-28T06:25:39.848552+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 71,
@@ -114,15 +69,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.872101+00:00",
+    "scraped_at": "2025-09-28T06:25:39.848821+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
       "title": "Autumn Sonata",
       "overview": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
       "release_date": "1978-10-08",
-      "rating": 7.971,
-      "vote_count": 649,
+      "rating": 7.975,
+      "vote_count": 651,
       "genres": [
         "Drama"
       ],
@@ -159,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.872594+00:00",
+    "scraped_at": "2025-09-28T06:25:39.849345+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1669,
@@ -167,7 +122,7 @@
       "overview": "A new technologically-superior Soviet nuclear sub, the Red October, is heading for the U.S. coast under the command of Captain Marko Ramius. The American government thinks Ramius is planning to attack. Lone CIA analyst Jack Ryan has a different idea: he thinks Ramius is planning to defect, but he has only a few hours to find him and prove it - because the entire Russian naval and air commands are trying to find Ramius, too. The hunt is on!",
       "release_date": "1990-03-02",
       "rating": 7.375,
-      "vote_count": 3447,
+      "vote_count": 3450,
       "genres": [
         "Action",
         "Adventure",
@@ -206,7 +161,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.872826+00:00",
+    "scraped_at": "2025-09-28T06:25:39.849587+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 42692,
@@ -253,7 +208,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.872995+00:00",
+    "scraped_at": "2025-09-28T06:25:39.849766+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -261,7 +216,7 @@
       "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds -- with some words of wisdom from actor Peter Falk -- that it might be possible for him to take human form.",
       "release_date": "1987-09-23",
       "rating": 7.777,
-      "vote_count": 1417,
+      "vote_count": 1419,
       "genres": [
         "Drama",
         "Fantasy",
@@ -300,7 +255,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.873250+00:00",
+    "scraped_at": "2025-09-28T06:25:39.849922+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 153,
@@ -308,7 +263,7 @@
       "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
       "release_date": "2003-09-18",
       "rating": 7.387,
-      "vote_count": 7690,
+      "vote_count": 7692,
       "genres": [
         "Drama",
         "Romance",
@@ -347,7 +302,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.873515+00:00",
+    "scraped_at": "2025-09-28T06:25:39.850132+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -392,14 +347,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.873634+00:00",
+    "scraped_at": "2025-09-28T06:25:39.850368+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
       "title": "A Nos Amours",
       "overview": "Fifteen-year-old Suzanne seeks refuge from a disintegrating family in a series of impulsive, promiscuous affairs. Her fulsome sexuality further ratchets up the suppressed passions of her narcissistic brother, insecure mother and brooding, authoritarian father.",
       "release_date": "1983-11-16",
-      "rating": 6.8,
+      "rating": 6.84,
       "vote_count": 210,
       "genres": [
         "Drama",
@@ -438,7 +393,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.873774+00:00",
+    "scraped_at": "2025-09-28T06:25:39.850542+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
@@ -446,7 +401,7 @@
       "overview": "Rome, 1957. A woman, Cabiria, is robbed and left to drown by her boyfriend, Giorgio. Rescued, she resumes her life and tries her best to find happiness in a cynical world. Even when she thinks her struggles are over and she has found happiness and contentment, things may not be what they seem.",
       "release_date": "1957-10-03",
       "rating": 7.991,
-      "vote_count": 811,
+      "vote_count": 813,
       "genres": [
         "Drama"
       ],
@@ -483,7 +438,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.873971+00:00",
+    "scraped_at": "2025-09-28T06:25:39.850750+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -529,7 +484,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.874118+00:00",
+    "scraped_at": "2025-09-28T06:25:39.850906+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -576,15 +531,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.874298+00:00",
+    "scraped_at": "2025-09-28T06:25:39.851187+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
       "title": "Paris, Texas",
       "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
       "release_date": "1984-07-16",
-      "rating": 8.1,
-      "vote_count": 2054,
+      "rating": 8.101,
+      "vote_count": 2057,
       "genres": [
         "Drama"
       ],
@@ -621,15 +576,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.874550+00:00",
+    "scraped_at": "2025-09-28T06:25:39.851586+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 805,
       "title": "Rosemary's Baby",
       "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
       "release_date": "1968-06-12",
-      "rating": 7.825,
-      "vote_count": 4141,
+      "rating": 7.8,
+      "vote_count": 4142,
       "genres": [
         "Drama",
         "Horror",
@@ -668,7 +623,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.874786+00:00",
+    "scraped_at": "2025-09-28T06:25:39.851812+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -715,7 +670,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.874907+00:00",
+    "scraped_at": "2025-09-28T06:25:39.852078+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -762,7 +717,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.875030+00:00",
+    "scraped_at": "2025-09-28T06:25:39.852334+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 931,
@@ -809,15 +764,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.875166+00:00",
+    "scraped_at": "2025-09-28T06:25:39.852629+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 755,
       "title": "From Dusk Till Dawn",
       "overview": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
       "release_date": "1996-01-19",
-      "rating": 7.028,
-      "vote_count": 6191,
+      "rating": 7.029,
+      "vote_count": 6192,
       "genres": [
         "Horror",
         "Action",
@@ -857,15 +812,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.875416+00:00",
+    "scraped_at": "2025-09-28T06:25:39.853017+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 21135,
       "title": "L'Eclisse",
       "overview": "This romantic drama by Michelangelo Antonioni follows the love life of Vittoria, a beautiful literary translator living in Rome. After splitting from her writer boyfriend, Riccardo, Vittoria meets Piero, a lively stockbroker, on the hectic floor of the Roman stock exchange. Though Vittoria and Piero begin a relationship, it is not one without difficulties, and their commitment to one another is tested during an eclipse.",
       "release_date": "1962-04-13",
-      "rating": 7.717,
-      "vote_count": 505,
+      "rating": 7.7,
+      "vote_count": 507,
       "genres": [
         "Drama",
         "Romance"
@@ -903,7 +858,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.875575+00:00",
+    "scraped_at": "2025-09-28T06:25:39.853180+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -949,7 +904,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.875745+00:00",
+    "scraped_at": "2025-09-28T06:25:39.853406+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -957,7 +912,7 @@
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
       "rating": 7.913,
-      "vote_count": 11942,
+      "vote_count": 11944,
       "genres": [
         "Comedy",
         "Romance"
@@ -995,7 +950,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.875902+00:00",
+    "scraped_at": "2025-09-28T06:25:39.853627+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
@@ -1003,7 +958,7 @@
       "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
       "release_date": "1997-12-20",
       "rating": 8.44,
-      "vote_count": 13550,
+      "vote_count": 13552,
       "genres": [
         "Comedy",
         "Drama"
@@ -1041,7 +996,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.876073+00:00",
+    "scraped_at": "2025-09-28T06:25:39.853904+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -1088,15 +1043,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.876237+00:00",
+    "scraped_at": "2025-09-28T06:25:39.854250+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
       "title": "The Seventh Seal",
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
-      "rating": 8.174,
-      "vote_count": 3178,
+      "rating": 8.173,
+      "vote_count": 3180,
       "genres": [
         "Fantasy",
         "Drama"
@@ -1134,7 +1089,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.876592+00:00",
+    "scraped_at": "2025-09-28T06:25:39.854649+00:00",
     "source": "fagelbla"
   },
   {
@@ -1160,7 +1115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-27T06:24:07.876846+00:00",
+    "scraped_at": "2025-09-28T06:25:39.854885+00:00",
     "source": "fagelbla"
   }
 ]
