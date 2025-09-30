@@ -1,50 +1,5 @@
 [
   {
-    "film_id": "höstsonaten",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Höstsonaten",
-    "director": "Ingmar Bergman",
-    "duration": "1h 39 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2025-09-29T18:00:00+02:00",
-        "display_text": "Måndag, 29th September 18:00",
-        "time": "18:00",
-        "date_section": "Måndag, 29th September",
-        "ticket_url": "https://biofagelbla.se/movie/hostsonaten/?showtime=48437",
-        "showtime_id": "48437",
-        "normalized_datetime": "2025-09-29T18:00:00",
-        "normalized_date": "29.09",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-09-29T06:30:14.483677+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 12761,
-      "title": "Autumn Sonata",
-      "overview": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
-      "release_date": "1978-10-08",
-      "rating": 7.975,
-      "vote_count": 651,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg",
-      "backdrop_path": "/3DOOgeZfoYUKXAyYrpRObv2PNDd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3DOOgeZfoYUKXAyYrpRObv2PNDd.jpg",
-      "imdb_id": "tt0077711",
-      "runtime": 93,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "the-hunt-for-red-october",
     "url": "https://biofagelbla.se/program/",
     "title": "The Hunt for Red October",
@@ -67,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.484283+00:00",
+    "scraped_at": "2025-09-30T06:27:13.817032+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1669,
@@ -114,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.484527+00:00",
+    "scraped_at": "2025-09-30T06:27:13.817328+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 42692,
@@ -161,7 +116,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.484693+00:00",
+    "scraped_at": "2025-09-30T06:27:13.817657+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -208,15 +163,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.484891+00:00",
+    "scraped_at": "2025-09-30T06:27:13.817900+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 153,
       "title": "Lost in Translation",
       "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
       "release_date": "2003-09-18",
-      "rating": 7.387,
-      "vote_count": 7692,
+      "rating": 7.388,
+      "vote_count": 7693,
       "genres": [
         "Drama",
         "Romance",
@@ -255,7 +210,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.485089+00:00",
+    "scraped_at": "2025-09-30T06:27:13.818178+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -300,7 +255,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.485255+00:00",
+    "scraped_at": "2025-09-30T06:27:13.818333+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
@@ -346,7 +301,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.485498+00:00",
+    "scraped_at": "2025-09-30T06:27:13.818572+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
@@ -391,7 +346,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.485918+00:00",
+    "scraped_at": "2025-09-30T06:27:13.818924+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -437,7 +392,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.486158+00:00",
+    "scraped_at": "2025-09-30T06:27:13.819072+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -484,7 +439,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.486451+00:00",
+    "scraped_at": "2025-09-30T06:27:13.819255+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
@@ -529,15 +484,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.486700+00:00",
+    "scraped_at": "2025-09-30T06:27:13.819418+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 805,
       "title": "Rosemary's Baby",
       "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
       "release_date": "1968-06-12",
-      "rating": 7.8,
-      "vote_count": 4142,
+      "rating": 7.825,
+      "vote_count": 4143,
       "genres": [
         "Drama",
         "Horror",
@@ -576,7 +531,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.486995+00:00",
+    "scraped_at": "2025-09-30T06:27:13.819583+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -623,7 +578,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.487192+00:00",
+    "scraped_at": "2025-09-30T06:27:13.819721+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -670,7 +625,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.487422+00:00",
+    "scraped_at": "2025-09-30T06:27:13.819883+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 166897,
@@ -717,7 +672,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.487671+00:00",
+    "scraped_at": "2025-09-30T06:27:13.820126+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 755,
@@ -725,7 +680,7 @@
       "overview": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
       "release_date": "1996-01-19",
       "rating": 7.029,
-      "vote_count": 6193,
+      "vote_count": 6195,
       "genres": [
         "Horror",
         "Action",
@@ -765,7 +720,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.488183+00:00",
+    "scraped_at": "2025-09-30T06:27:13.820400+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 21135,
@@ -811,7 +766,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.488435+00:00",
+    "scraped_at": "2025-09-30T06:27:13.820557+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -857,7 +812,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.488743+00:00",
+    "scraped_at": "2025-09-30T06:27:13.820752+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -903,14 +858,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.488990+00:00",
+    "scraped_at": "2025-09-30T06:27:13.820873+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
       "title": "Life Is Beautiful",
       "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
       "release_date": "1997-12-20",
-      "rating": 8.44,
+      "rating": 8.4,
       "vote_count": 13552,
       "genres": [
         "Comedy",
@@ -949,7 +904,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.489186+00:00",
+    "scraped_at": "2025-09-30T06:27:13.820988+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -996,7 +951,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.489458+00:00",
+    "scraped_at": "2025-09-30T06:27:13.821147+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -1042,7 +997,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.489758+00:00",
+    "scraped_at": "2025-09-30T06:27:13.821377+00:00",
     "source": "fagelbla"
   },
   {
@@ -1068,7 +1023,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-09-29T06:30:14.489990+00:00",
+    "scraped_at": "2025-09-30T06:27:13.821552+00:00",
     "source": "fagelbla"
   }
 ]
