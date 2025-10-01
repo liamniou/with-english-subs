@@ -22,7 +22,52 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-09-30T06:27:37.475951+00:00",
+    "scraped_at": "2025-10-01T06:28:26.065035+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 949470,
+      "title": "Unknown Title",
+      "overview": "A short film by Andrei Ventslova",
+      "release_date": "1988-04-15",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "imdb_id": null,
+      "runtime": 1,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "unknown-title",
+    "url": "https://zita.se/when-the-swallows-fall-silent",
+    "title": "Unknown Title",
+    "director": "",
+    "genre": "",
+    "duration": "Cypern202563 minFrån 15 årGrekiskaEngelska",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "18:00",
+        "time": "18:00",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5612",
+        "normalized_datetime": "2025-10-01T18:00:00",
+        "normalized_date": "01.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-10-01T06:28:43.404268+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,

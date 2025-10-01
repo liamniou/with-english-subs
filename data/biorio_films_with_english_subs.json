@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-30T06:21:14.869139",
+    "scraped_at": "2025-10-01T06:21:19.738355",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
@@ -78,7 +78,7 @@
       "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
       "release_date": "2012-08-03",
       "rating": 7.0,
-      "vote_count": 2637,
+      "vote_count": 2638,
       "genres": [
         "Family",
         "Animation",
@@ -165,7 +165,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-30T06:21:16.418879",
+    "scraped_at": "2025-10-01T06:21:21.436167",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -370,7 +370,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-09-30T06:21:25.983771",
+    "scraped_at": "2025-10-01T06:21:29.698762",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
@@ -391,104 +391,6 @@
       "runtime": 91,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "akira",
-    "url": "https://www.biorio.se/movies/akira",
-    "title": "Akira",
-    "director": "Katsuhiro Otomo",
-    "showtimes": [
-      {
-        "datetime": "2025-10-12T18:20:00.000Z",
-        "display_text": "Sunday October 12, 2025 at 18:20",
-        "movie_id": "5495",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/1053",
-        "api_data": {
-          "id": 1053,
-          "movieId": 5495,
-          "movieVersionId": 208,
-          "startTime": "2025-10-12T18:20:00.000Z",
-          "endTime": "2025-10-12T20:24:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5495,
-            "title": "Akira",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5495/posters/1748250084538-453oe.jpg",
-            "movieVersions": [
-              {
-                "duration": 124,
-                "audio": "Japanska",
-                "subtitles": "Svenska"
-              },
-              {
-                "duration": 124,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 208,
-            "duration": 124,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [
-            "reRUN"
-          ],
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-10-12T18:20:00",
-        "normalized_date": "12.10",
-        "normalized_time": "18:20"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2025-09-30T06:22:08.582427",
-    "source": "biorio",
-    "tmdb": {
-      "id": 149,
-      "title": "Akira",
-      "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
-      "release_date": "1988-06-10",
-      "rating": 7.94,
-      "vote_count": 4522,
-      "genres": [
-        "Animation",
-        "Science Fiction",
-        "Action"
-      ],
-      "poster_path": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
-      "backdrop_path": "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
-      "imdb_id": "tt0094625",
-      "runtime": 124,
-      "budget": 5700000,
-      "revenue": 49000000
     }
   }
 ]
