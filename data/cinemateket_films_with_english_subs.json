@@ -1,79 +1,5 @@
 [
   {
-    "film_id": "10075",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=10075&cityId=1",
-    "title": "Originaltitel: Il gattopardo",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "tor 2/10 kl. 18:00",
-        "normalized_datetime": "2025-10-02T18:00:00",
-        "normalized_date": "02.10",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2025-10-02T06:21:39.470616",
-    "tmdb": {
-      "id": 1040,
-      "title": "The Leopard",
-      "overview": "As Garibaldi's troops begin the unification of Italy in the 1860s, an aristocratic Sicilian family grudgingly adapts to the sweeping social changes undermining their way of life. Proud but pragmatic Prince Don Fabrizio Salina allows his war hero nephew, Tancredi, to marry Angelica, the beautiful daughter of gauche, bourgeois Don Calogero, in order to maintain the family's accustomed level of comfort and political clout.",
-      "release_date": "1963-03-27",
-      "rating": 7.733,
-      "vote_count": 891,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
-      "backdrop_path": "/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg",
-      "imdb_id": "tt0057091",
-      "runtime": 186,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "13967",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13967&cityId=1",
-    "title": "Originaltitel: Moju",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "fre 3/10 kl. 18:00",
-        "normalized_datetime": "2025-10-03T18:00:00",
-        "normalized_date": "03.10",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2025-10-02T06:21:45.097203",
-    "tmdb": {
-      "id": 1075610,
-      "title": "Smiley",
-      "overview": "A modern take on old Sámi legends about the battle between man and evil.",
-      "release_date": "",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [],
-      "poster_path": null,
-      "poster_url": null,
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": null,
-      "runtime": 29,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "13907",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13907&cityId=1",
     "title": "Originaltitel: The Forgotten Space",
@@ -90,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-10-02T06:22:14.212028",
+    "scraped_at": "2025-10-04T06:19:17.780130",
     "tmdb": {
       "id": 105554,
       "title": "The Forgotten Space",
@@ -128,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:22:26.535280",
+    "scraped_at": "2025-10-04T06:19:23.184077",
     "tmdb": {
       "id": 111397,
       "title": "A Wife Confesses",
@@ -168,7 +94,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:22:29.890334",
+    "scraped_at": "2025-10-04T06:19:26.740145",
     "tmdb": {
       "id": 43195,
       "title": "Senso",
@@ -208,7 +134,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:22:39.048318",
+    "scraped_at": "2025-10-04T06:19:35.805457",
     "tmdb": {
       "id": 39415,
       "title": "Loulou",
@@ -247,7 +173,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:22:44.328668"
+    "scraped_at": "2025-10-04T06:19:41.006175"
   },
   {
     "film_id": "784",
@@ -266,7 +192,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:22:55.083465",
+    "scraped_at": "2025-10-04T06:19:51.608861",
     "tmdb": {
       "id": 41876,
       "title": "The Damned",
@@ -305,7 +231,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-10-02T06:23:03.766383",
+    "scraped_at": "2025-10-04T06:20:00.367805",
     "tmdb": {
       "id": 362951,
       "title": "Nagamadathu Thampuratti",
@@ -341,7 +267,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:23:10.534636",
+    "scraped_at": "2025-10-04T06:20:07.342911",
     "tmdb": {
       "id": 98636,
       "title": "Kisses",
@@ -380,7 +306,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:23:15.488328",
+    "scraped_at": "2025-10-04T06:20:12.581103",
     "tmdb": {
       "id": 85550,
       "title": "Tale of Cinema",
@@ -418,7 +344,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:23:33.400472",
+    "scraped_at": "2025-10-04T06:20:30.540266",
     "tmdb": {
       "id": 1481312,
       "title": "Manji",
@@ -454,14 +380,14 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-10-02T06:23:38.274196",
+    "scraped_at": "2025-10-04T06:20:35.744910",
     "tmdb": {
       "id": 434773,
       "title": "On the Beach at Night Alone",
       "overview": "Young-hee, an actress reeling in the aftermath of an affair with a married film director, escapes to Hamburg. But when she returns to Korea and meets with friends for drinks, startling confessions emerge.",
       "release_date": "2017-03-23",
-      "rating": 6.567,
-      "vote_count": 150,
+      "rating": 6.543,
+      "vote_count": 151,
       "genres": [
         "Drama"
       ],
@@ -492,7 +418,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:24:07.277238",
+    "scraped_at": "2025-10-04T06:20:48.253327",
     "tmdb": {
       "id": 103753,
       "title": "In Another Country",
@@ -530,14 +456,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:24:12.486335",
+    "scraped_at": "2025-10-04T06:20:53.343533",
     "tmdb": {
       "id": 3478,
       "title": "Ludwig",
       "overview": "Historical evocation of Ludwig, king of Bavaria, from his crowning in 1864 until his death in 1886, as a romantic hero. Fan of Richard Wagner, betrayed by him, in love with his cousin Elisabeth of Austria, abandoned by her, tormented by his homosexuality, he will little by little slip towards madness.",
       "release_date": "1973-03-07",
-      "rating": 7.482,
-      "vote_count": 169,
+      "rating": 7.488,
+      "vote_count": 171,
       "genres": [
         "Drama",
         "History"
@@ -569,14 +495,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:24:21.123940",
+    "scraped_at": "2025-10-04T06:21:01.970471",
     "tmdb": {
       "id": 8422,
       "title": "Rocco and His Brothers",
       "overview": "When a impoverished widow’s family moves to the big city, two of her five sons become romantic rivals with deadly results.",
       "release_date": "1960-10-07",
-      "rating": 8.0,
-      "vote_count": 630,
+      "rating": 8.013,
+      "vote_count": 631,
       "genres": [
         "Drama",
         "Romance"
@@ -608,7 +534,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:24:29.861465",
+    "scraped_at": "2025-10-04T06:21:10.724835",
     "tmdb": {
       "id": 230893,
       "title": "Scénario de 'Sauve qui peut la vie'",
@@ -646,7 +572,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:24:42.137913",
+    "scraped_at": "2025-10-04T06:21:22.961444",
     "tmdb": {
       "id": 86262,
       "title": "Like You Know It All",
@@ -685,7 +611,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:25:03.570179",
+    "scraped_at": "2025-10-04T06:21:44.656573",
     "tmdb": {
       "id": 1358533,
       "title": "Ossessione",
@@ -724,7 +650,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:25:10.396380",
+    "scraped_at": "2025-10-04T06:21:51.683938",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -762,7 +688,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-10-02T06:25:30.484617"
+    "scraped_at": "2025-10-04T06:22:06.104086"
   },
   {
     "film_id": "13931",
@@ -781,7 +707,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:25:41.878269",
+    "scraped_at": "2025-10-04T06:22:14.833815",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -819,7 +745,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:26:10.529568",
+    "scraped_at": "2025-10-04T06:22:25.337884",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -857,7 +783,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:26:23.961273",
+    "scraped_at": "2025-10-04T06:22:28.577148",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -895,7 +821,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:26:32.613726",
+    "scraped_at": "2025-10-04T06:22:37.366903",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -933,7 +859,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:26:43.190657",
+    "scraped_at": "2025-10-04T06:22:48.016006",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -971,7 +897,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:26:46.417392",
+    "scraped_at": "2025-10-04T06:22:51.332955",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -1010,7 +936,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-02T06:26:59.078085",
+    "scraped_at": "2025-10-04T06:23:01.908348",
     "tmdb": {
       "id": 989406,
       "title": "After Work",
@@ -1030,5 +956,24 @@
       "budget": 0,
       "revenue": 0
     }
+  },
+  {
+    "film_id": "13910",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13910&cityId=1",
+    "title": "Originaltitel: Arbeiter verlassen die Fabrik / Schnittstelle / Der Ausdruck der Hände",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 14/12 kl. 16:00",
+        "normalized_datetime": "2025-12-14T16:00:00",
+        "normalized_date": "14.12",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2025-10-04T06:23:05.225586"
   }
 ]

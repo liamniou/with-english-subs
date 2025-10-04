@@ -1,5 +1,96 @@
 [
   {
+    "film_id": "chainsaw-man",
+    "url": "https://www.biorio.se/movies/chainsaw-man",
+    "title": "Chainsaw Man",
+    "director": "Tatsuya Yoshihara",
+    "showtimes": [
+      {
+        "datetime": "2025-10-29T19:30:00.000Z",
+        "display_text": "Wednesday October 29, 2025 at 19:30",
+        "movie_id": "5648",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/1092",
+        "api_data": {
+          "id": 1092,
+          "movieId": 5648,
+          "movieVersionId": 330,
+          "startTime": "2025-10-29T19:30:00.000Z",
+          "endTime": "2025-10-29T21:10:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5648,
+            "title": "Chainsaw Man",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5648/posters/1758538518462-r6ekq.jpg",
+            "movieVersions": [
+              {
+                "duration": 100,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 330,
+            "duration": 100,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-10-29T19:30:00",
+        "normalized_date": "29.10",
+        "normalized_time": "19:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2025-10-04T06:18:01.476192",
+    "source": "biorio",
+    "tmdb": {
+      "id": 1218925,
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+      "release_date": "2025-09-19",
+      "rating": 9.3,
+      "vote_count": 9,
+      "genres": [
+        "Animation",
+        "Action",
+        "Fantasy"
+      ],
+      "poster_path": "/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
+      "backdrop_path": "/dh0dLVLDLqUKhtytCFjkf3EHeJI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/dh0dLVLDLqUKhtytCFjkf3EHeJI.jpg",
+      "imdb_id": "tt30472557",
+      "runtime": 100,
+      "budget": 0,
+      "revenue": 20385000
+    }
+  },
+  {
     "film_id": "paranorman",
     "url": "https://www.biorio.se/movies/paranorman",
     "title": "ParaNorman",
@@ -70,15 +161,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-03T06:20:07.084490",
+    "scraped_at": "2025-10-04T06:18:07.361465",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
       "title": "ParaNorman",
       "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
       "release_date": "2012-08-03",
-      "rating": 7.007,
-      "vote_count": 2639,
+      "rating": 7.006,
+      "vote_count": 2640,
       "genres": [
         "Family",
         "Animation",
@@ -165,7 +256,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-03T06:20:08.399494",
+    "scraped_at": "2025-10-04T06:18:08.709423",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -370,7 +461,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-03T06:20:14.854704",
+    "scraped_at": "2025-10-04T06:18:17.687742",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
