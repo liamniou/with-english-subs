@@ -1,52 +1,5 @@
 [
   {
-    "film_id": "jakten-på-röd-oktober",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Jakten på Röd Oktober",
-    "director": "John McTiernan",
-    "duration": "2h 15 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2025-10-04T17:30:00+02:00",
-        "display_text": "Lördag, 4th Oktober 17:30",
-        "time": "17:30",
-        "date_section": "Lördag, 4th Oktober",
-        "ticket_url": "https://biofagelbla.se/movie/the-hunt-for-red-october/?showtime=48656",
-        "showtime_id": "48656",
-        "normalized_datetime": "2025-10-04T17:30:00",
-        "normalized_date": "04.10",
-        "normalized_time": "17:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-10-04T06:23:15.291380+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 1669,
-      "title": "The Hunt for Red October",
-      "overview": "A new technologically-superior Soviet nuclear sub, the Red October, is heading for the U.S. coast under the command of Captain Marko Ramius. The American government thinks Ramius is planning to attack. Lone CIA analyst Jack Ryan has a different idea: he thinks Ramius is planning to defect, but he has only a few hours to find him and prove it - because the entire Russian naval and air commands are trying to find Ramius, too. The hunt is on!",
-      "release_date": "1990-03-02",
-      "rating": 7.375,
-      "vote_count": 3453,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Thriller"
-      ],
-      "poster_path": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
-      "backdrop_path": "/xwVkihNJYn6wR8Sip1aoIz5ax35.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xwVkihNJYn6wR8Sip1aoIz5ax35.jpg",
-      "imdb_id": "tt0099810",
-      "runtime": 135,
-      "budget": 30000000,
-      "revenue": 200512643
-    }
-  },
-  {
     "film_id": "elvira-madigan",
     "url": "https://biofagelbla.se/program/",
     "title": "Elvira Madigan",
@@ -69,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.291716+00:00",
+    "scraped_at": "2025-10-05T06:23:18.021286+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 42692,
@@ -116,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.292061+00:00",
+    "scraped_at": "2025-10-05T06:23:18.021596+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -163,7 +116,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.292302+00:00",
+    "scraped_at": "2025-10-05T06:23:18.021840+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 153,
@@ -210,14 +163,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.292584+00:00",
+    "scraped_at": "2025-10-05T06:23:18.022113+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
       "title": "Cries and Whispers",
       "overview": "As Agnes slowly dies of cancer, her sisters are so immersed in their own psychic pains that they are unable to offer her the support she needs.",
       "release_date": "1972-12-21",
-      "rating": 7.903,
+      "rating": 7.9,
       "vote_count": 734,
       "genres": [
         "Drama"
@@ -255,7 +208,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.292729+00:00",
+    "scraped_at": "2025-10-05T06:23:18.022231+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
@@ -301,7 +254,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.292972+00:00",
+    "scraped_at": "2025-10-05T06:23:18.022370+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
@@ -346,7 +299,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.293423+00:00",
+    "scraped_at": "2025-10-05T06:23:18.022607+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -392,7 +345,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.293700+00:00",
+    "scraped_at": "2025-10-05T06:23:18.022806+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -439,7 +392,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.294047+00:00",
+    "scraped_at": "2025-10-05T06:23:18.022981+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
@@ -484,7 +437,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.294240+00:00",
+    "scraped_at": "2025-10-05T06:23:18.023130+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 805,
@@ -531,7 +484,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.294420+00:00",
+    "scraped_at": "2025-10-05T06:23:18.023275+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -578,7 +531,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.294543+00:00",
+    "scraped_at": "2025-10-05T06:23:18.023384+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -625,7 +578,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.294689+00:00",
+    "scraped_at": "2025-10-05T06:23:18.023494+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 166897,
@@ -672,7 +625,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.294911+00:00",
+    "scraped_at": "2025-10-05T06:23:18.023618+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 755,
@@ -720,7 +673,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.295324+00:00",
+    "scraped_at": "2025-10-05T06:23:18.023910+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 16372,
@@ -767,7 +720,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.295498+00:00",
+    "scraped_at": "2025-10-05T06:23:18.024093+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 21135,
@@ -813,7 +766,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.295654+00:00",
+    "scraped_at": "2025-10-05T06:23:18.024235+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -859,7 +812,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.295879+00:00",
+    "scraped_at": "2025-10-05T06:23:18.024395+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -867,7 +820,7 @@
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
       "rating": 7.913,
-      "vote_count": 11949,
+      "vote_count": 11952,
       "genres": [
         "Comedy",
         "Romance"
@@ -905,15 +858,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.296040+00:00",
+    "scraped_at": "2025-10-05T06:23:18.024525+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
       "title": "Life Is Beautiful",
       "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
       "release_date": "1997-12-20",
-      "rating": 8.44,
-      "vote_count": 13558,
+      "rating": 8.441,
+      "vote_count": 13561,
       "genres": [
         "Comedy",
         "Drama"
@@ -951,7 +904,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.296162+00:00",
+    "scraped_at": "2025-10-05T06:23:18.024633+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -998,15 +951,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.296380+00:00",
+    "scraped_at": "2025-10-05T06:23:18.024859+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
       "title": "The Seventh Seal",
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
-      "rating": 8.173,
-      "vote_count": 3183,
+      "rating": 8.172,
+      "vote_count": 3184,
       "genres": [
         "Fantasy",
         "Drama"
@@ -1044,7 +997,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.296649+00:00",
+    "scraped_at": "2025-10-05T06:23:18.025037+00:00",
     "source": "fagelbla"
   },
   {
@@ -1070,7 +1023,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-04T06:23:15.296905+00:00",
+    "scraped_at": "2025-10-05T06:23:18.025189+00:00",
     "source": "fagelbla"
   }
 ]
