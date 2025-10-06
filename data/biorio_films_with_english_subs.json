@@ -66,15 +66,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-05T06:18:20.919406",
+    "scraped_at": "2025-10-06T06:22:09.795904",
     "source": "biorio",
     "tmdb": {
       "id": 1218925,
       "title": "Chainsaw Man - The Movie: Reze Arc",
       "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
       "release_date": "2025-09-19",
-      "rating": 9.0,
-      "vote_count": 11,
+      "rating": 8.6,
+      "vote_count": 14,
       "genres": [
         "Animation",
         "Action",
@@ -161,15 +161,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-05T06:18:25.563405",
+    "scraped_at": "2025-10-06T06:22:26.079256",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
       "title": "ParaNorman",
       "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
       "release_date": "2012-08-03",
-      "rating": 7.007,
-      "vote_count": 2641,
+      "rating": 7.008,
+      "vote_count": 2643,
       "genres": [
         "Family",
         "Animation",
@@ -256,7 +256,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-05T06:18:26.875404",
+    "scraped_at": "2025-10-06T06:22:27.634835",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -461,7 +461,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-05T06:18:33.372009",
+    "scraped_at": "2025-10-06T06:22:54.764236",
     "source": "biorio",
     "tmdb": {
       "id": 125974,

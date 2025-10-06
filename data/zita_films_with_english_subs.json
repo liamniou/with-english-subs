@@ -1,50 +1,5 @@
 [
   {
-    "film_id": "giannis-in-the-cities",
-    "url": "https://zita.se/giannis-in-the-cities",
-    "title": "Giannis in the cities",
-    "director": "",
-    "genre": "Grekland20241 jan 202490 minDramaFrån 15 årFolkets Bio StockholmGrekiskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "17:00",
-        "time": "17:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5596",
-        "normalized_datetime": "2025-10-05T17:00:00",
-        "normalized_date": "05.10",
-        "normalized_time": "17:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2025-10-05T06:23:41.038253+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 1383152,
-      "title": "Giannis in the Cities",
-      "overview": "1949, towards the end of the Greek Civil War. Yannis, the son of a rebel, is torn from his village and deported to the Childcare Cities where his ideas and desires are manipulated. Nightmares and dark feelings for his father slowly inhabit his heart. Only when he reaches adulthood does he redefine his existence, so he decides to go and meet the man.",
-      "release_date": "2024-11-04",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/qzYgx3Hj8eI6bF04bC3wVtvNPgw.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qzYgx3Hj8eI6bF04bC3wVtvNPgw.jpg",
-      "backdrop_path": "/wthFVKzKvaWlqPj5f8v0jcouVsC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/wthFVKzKvaWlqPj5f8v0jcouVsC.jpg",
-      "imdb_id": "tt34517134",
-      "runtime": 90,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "unknown-title",
     "url": "https://zita.se/jeanne-dielman",
     "title": "Unknown Title",
@@ -67,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-10-05T06:23:43.368804+00:00",
+    "scraped_at": "2025-10-06T06:30:16.611694+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
