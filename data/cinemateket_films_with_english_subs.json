@@ -1,43 +1,5 @@
 [
   {
-    "film_id": "13907",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13907&cityId=1",
-    "title": "Originaltitel: The Forgotten Space",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "mån 6/10 kl. 18:00",
-        "normalized_datetime": "2025-10-06T18:00:00",
-        "normalized_date": "06.10",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Mauritz"
-    ],
-    "scraped_at": "2025-10-06T06:24:40.338806",
-    "tmdb": {
-      "id": 105554,
-      "title": "The Forgotten Space",
-      "overview": "Details the catastrophic effects globalization has wrought on the ship, truck and train industries. We visit displaced farmers and villagers in Holland and Belgium, underpaid truck drivers in Los Angeles, seafarers aboard mega-ships shuttling between Asia and Europe, and factory workers in China, whose low wages are the fragile key to the whole puzzle. At a moment when collective bargaining rights are under attack in the United States, and China continues to bow to foreign pressures to prevent such rights from being granted at all, this film asks: Is capitalism the Trojan horse that turns on its inventors?",
-      "release_date": "2010-12-31",
-      "rating": 5.4,
-      "vote_count": 7,
-      "genres": [
-        "Documentary"
-      ],
-      "poster_path": "/f7Dg4t7hOFsRRNfmVM9ebEomYdM.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/f7Dg4t7hOFsRRNfmVM9ebEomYdM.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt1772382",
-      "runtime": 112,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "13963",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13963&cityId=1",
     "title": "Originaltitel: Tsuma wa kokuhaku suru",
@@ -54,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:24:47.917493",
+    "scraped_at": "2025-10-07T06:22:06.850797",
     "tmdb": {
       "id": 111397,
       "title": "A Wife Confesses",
@@ -94,7 +56,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:24:52.437074",
+    "scraped_at": "2025-10-07T06:22:11.633353",
     "tmdb": {
       "id": 43195,
       "title": "Senso",
@@ -134,7 +96,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:25:03.747191",
+    "scraped_at": "2025-10-07T06:22:24.510893",
     "tmdb": {
       "id": 39415,
       "title": "Loulou",
@@ -173,7 +135,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:25:10.661118"
+    "scraped_at": "2025-10-07T06:22:31.506281"
   },
   {
     "film_id": "784",
@@ -192,7 +154,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:25:24.627110",
+    "scraped_at": "2025-10-07T06:22:46.205360",
     "tmdb": {
       "id": 41876,
       "title": "The Damned",
@@ -231,7 +193,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-10-06T06:25:35.958940",
+    "scraped_at": "2025-10-07T06:22:58.018681",
     "tmdb": {
       "id": 362951,
       "title": "Nagamadathu Thampuratti",
@@ -267,7 +229,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:25:45.059289",
+    "scraped_at": "2025-10-07T06:23:07.674001",
     "tmdb": {
       "id": 98636,
       "title": "Kisses",
@@ -306,7 +268,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:25:51.414140",
+    "scraped_at": "2025-10-07T06:23:14.565627",
     "tmdb": {
       "id": 85550,
       "title": "Tale of Cinema",
@@ -344,7 +306,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:26:14.545119",
+    "scraped_at": "2025-10-07T06:23:38.721587",
     "tmdb": {
       "id": 1481312,
       "title": "Manji",
@@ -380,7 +342,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-10-06T06:26:20.959219",
+    "scraped_at": "2025-10-07T06:23:45.407768",
     "tmdb": {
       "id": 434773,
       "title": "On the Beach at Night Alone",
@@ -418,7 +380,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:26:36.917019",
+    "scraped_at": "2025-10-07T06:24:02.347527",
     "tmdb": {
       "id": 103753,
       "title": "In Another Country",
@@ -456,7 +418,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:26:43.493944",
+    "scraped_at": "2025-10-07T06:24:09.228021",
     "tmdb": {
       "id": 3478,
       "title": "Ludwig",
@@ -495,7 +457,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:26:54.732699",
+    "scraped_at": "2025-10-07T06:24:21.042487",
     "tmdb": {
       "id": 8422,
       "title": "Rocco and His Brothers",
@@ -534,7 +496,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:27:05.991348",
+    "scraped_at": "2025-10-07T06:24:32.790939",
     "tmdb": {
       "id": 230893,
       "title": "Scénario de 'Sauve qui peut la vie'",
@@ -572,7 +534,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:27:22.059476",
+    "scraped_at": "2025-10-07T06:24:49.475491",
     "tmdb": {
       "id": 86262,
       "title": "Like You Know It All",
@@ -611,7 +573,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:27:50.005502",
+    "scraped_at": "2025-10-07T06:25:18.628339",
     "tmdb": {
       "id": 1358533,
       "title": "Ossessione",
@@ -650,7 +612,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:27:58.928270",
+    "scraped_at": "2025-10-07T06:25:28.047571",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -688,7 +650,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-10-06T06:28:17.336937"
+    "scraped_at": "2025-10-07T06:25:47.491392"
   },
   {
     "film_id": "13931",
@@ -707,7 +669,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:28:28.568713",
+    "scraped_at": "2025-10-07T06:25:59.381452",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -745,7 +707,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:28:42.236823",
+    "scraped_at": "2025-10-07T06:26:13.663341",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -783,7 +745,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:28:46.376157",
+    "scraped_at": "2025-10-07T06:26:17.974169",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -821,7 +783,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:28:57.642505",
+    "scraped_at": "2025-10-07T06:26:29.635813",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -859,7 +821,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:29:11.299519",
+    "scraped_at": "2025-10-07T06:26:44.055858",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -897,7 +859,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:29:15.350157",
+    "scraped_at": "2025-10-07T06:26:48.430115",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -936,7 +898,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:29:29.125281",
+    "scraped_at": "2025-10-07T06:27:02.710482",
     "tmdb": {
       "id": 989406,
       "title": "After Work",
@@ -974,6 +936,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-06T06:29:33.280951"
+    "scraped_at": "2025-10-07T06:27:07.043265"
   }
 ]

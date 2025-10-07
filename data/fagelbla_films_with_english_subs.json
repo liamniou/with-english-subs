@@ -1,52 +1,5 @@
 [
   {
-    "film_id": "elvira-madigan",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Elvira Madigan",
-    "director": "Bo Widerberg",
-    "duration": "1h 30 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2025-10-06T17:45:00+02:00",
-        "display_text": "Måndag, 6th Oktober 17:45",
-        "time": "17:45",
-        "date_section": "Måndag, 6th Oktober",
-        "ticket_url": "https://biofagelbla.se/movie/elvira-madigan/?showtime=48438",
-        "showtime_id": "48438",
-        "normalized_datetime": "2025-10-06T17:45:00",
-        "normalized_date": "06.10",
-        "normalized_time": "17:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-10-06T06:29:47.898258+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 42692,
-      "title": "Elvira Madigan",
-      "overview": "Bound by their all-consuming desire, a young circus tightrope walker and a lieutenant forsake everything to be together and escape to the countryside—only to see their lovers’ idyll gradually give way to poverty and desperation.",
-      "release_date": "1967-04-24",
-      "rating": 6.8,
-      "vote_count": 46,
-      "genres": [
-        "Drama",
-        "Romance",
-        "History"
-      ],
-      "poster_path": "/odjkOW8BYVTj1q73Ad5KIHFfAge.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/odjkOW8BYVTj1q73Ad5KIHFfAge.jpg",
-      "backdrop_path": "/npDDNi2b7XBvaFL2Noh2MbS2EWd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/npDDNi2b7XBvaFL2Noh2MbS2EWd.jpg",
-      "imdb_id": "tt0061620",
-      "runtime": 91,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "himmel-över-berlin",
     "url": "https://biofagelbla.se/program/",
     "title": "Himmel över Berlin",
@@ -69,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.898619+00:00",
+    "scraped_at": "2025-10-07T06:27:22.056516+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -116,15 +69,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.898869+00:00",
+    "scraped_at": "2025-10-07T06:27:22.056802+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 153,
       "title": "Lost in Translation",
       "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
       "release_date": "2003-09-18",
-      "rating": 7.389,
-      "vote_count": 7699,
+      "rating": 7.388,
+      "vote_count": 7701,
       "genres": [
         "Drama",
         "Romance",
@@ -163,7 +116,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.899189+00:00",
+    "scraped_at": "2025-10-07T06:27:22.057135+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -208,7 +161,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.899332+00:00",
+    "scraped_at": "2025-10-07T06:27:22.057309+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
@@ -254,7 +207,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.899570+00:00",
+    "scraped_at": "2025-10-07T06:27:22.057541+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
@@ -299,7 +252,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.899941+00:00",
+    "scraped_at": "2025-10-07T06:27:22.057845+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -345,7 +298,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.900254+00:00",
+    "scraped_at": "2025-10-07T06:27:22.058153+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -392,7 +345,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.900586+00:00",
+    "scraped_at": "2025-10-07T06:27:22.058517+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
@@ -437,7 +390,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.900847+00:00",
+    "scraped_at": "2025-10-07T06:27:22.058791+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 805,
@@ -484,14 +437,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.901122+00:00",
+    "scraped_at": "2025-10-07T06:27:22.059081+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
       "title": "The Serpent's Egg",
       "overview": "In 1923 Berlin, following the suicide of his brother, an American acrobat struggles to survive while facing unemployment, depression, alcoholism, and the social decay of Germany during the Weimar Republic.",
       "release_date": "1977-10-28",
-      "rating": 6.297,
+      "rating": 6.3,
       "vote_count": 118,
       "genres": [
         "Mystery",
@@ -531,7 +484,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.901318+00:00",
+    "scraped_at": "2025-10-07T06:27:22.059305+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -578,7 +531,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.901551+00:00",
+    "scraped_at": "2025-10-07T06:27:22.059520+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 166897,
@@ -625,15 +578,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.901801+00:00",
+    "scraped_at": "2025-10-07T06:27:22.059739+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 755,
       "title": "From Dusk Till Dawn",
       "overview": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
       "release_date": "1996-01-19",
-      "rating": 7.0,
-      "vote_count": 6201,
+      "rating": 7.028,
+      "vote_count": 6202,
       "genres": [
         "Horror",
         "Action",
@@ -673,15 +626,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.902215+00:00",
+    "scraped_at": "2025-10-07T06:27:22.060138+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 16372,
       "title": "The Innocents",
       "overview": "A young governess for two children becomes convinced that the house and grounds are haunted by ghosts and that the children are being possessed.",
       "release_date": "1961-11-24",
-      "rating": 7.467,
-      "vote_count": 629,
+      "rating": 7.466,
+      "vote_count": 631,
       "genres": [
         "Horror",
         "Mystery",
@@ -720,7 +673,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.902487+00:00",
+    "scraped_at": "2025-10-07T06:27:22.060418+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 21135,
@@ -766,7 +719,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.902736+00:00",
+    "scraped_at": "2025-10-07T06:27:22.060667+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -812,7 +765,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.903018+00:00",
+    "scraped_at": "2025-10-07T06:27:22.060966+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -820,7 +773,7 @@
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
       "rating": 7.913,
-      "vote_count": 11954,
+      "vote_count": 11955,
       "genres": [
         "Comedy",
         "Romance"
@@ -858,7 +811,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.903246+00:00",
+    "scraped_at": "2025-10-07T06:27:22.061192+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
@@ -866,7 +819,7 @@
       "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
       "release_date": "1997-12-20",
       "rating": 8.441,
-      "vote_count": 13564,
+      "vote_count": 13566,
       "genres": [
         "Comedy",
         "Drama"
@@ -904,7 +857,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.903468+00:00",
+    "scraped_at": "2025-10-07T06:27:22.061408+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -951,7 +904,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.903813+00:00",
+    "scraped_at": "2025-10-07T06:27:22.061749+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -997,7 +950,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.904160+00:00",
+    "scraped_at": "2025-10-07T06:27:22.062065+00:00",
     "source": "fagelbla"
   },
   {
@@ -1023,7 +976,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:29:47.904355+00:00",
+    "scraped_at": "2025-10-07T06:27:22.062323+00:00",
     "source": "fagelbla"
   }
 ]

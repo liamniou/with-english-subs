@@ -66,15 +66,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:22:09.795904",
+    "scraped_at": "2025-10-07T06:20:52.244101",
     "source": "biorio",
     "tmdb": {
       "id": 1218925,
       "title": "Chainsaw Man - The Movie: Reze Arc",
       "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
       "release_date": "2025-09-19",
-      "rating": 8.6,
-      "vote_count": 14,
+      "rating": 8.625,
+      "vote_count": 16,
       "genres": [
         "Animation",
         "Action",
@@ -161,7 +161,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:22:26.079256",
+    "scraped_at": "2025-10-07T06:20:57.605688",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
@@ -169,7 +169,7 @@
       "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
       "release_date": "2012-08-03",
       "rating": 7.008,
-      "vote_count": 2643,
+      "vote_count": 2645,
       "genres": [
         "Family",
         "Animation",
@@ -256,7 +256,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:22:27.634835",
+    "scraped_at": "2025-10-07T06:20:59.073212",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -286,6 +286,63 @@
     "title": "Depeche Mode: M",
     "director": "",
     "showtimes": [
+      {
+        "datetime": "2025-11-10T17:00:00.000Z",
+        "display_text": "Monday November 10, 2025 at 17:00",
+        "movie_id": "5619",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/1099",
+        "api_data": {
+          "id": 1099,
+          "movieId": 5619,
+          "movieVersionId": 301,
+          "startTime": "2025-11-10T17:00:00.000Z",
+          "endTime": "2025-11-10T18:35:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5619,
+            "title": "Depeche Mode: M",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1755763526774-816632596-Depeche-Mode.webp",
+            "movieVersions": [
+              {
+                "duration": 95,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 301,
+            "duration": 95,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-11-10T17:00:00",
+        "normalized_date": "10.11",
+        "normalized_time": "17:00"
+      },
       {
         "datetime": "2025-11-03T17:00:00.000Z",
         "display_text": "Monday November 03, 2025 at 17:00",
@@ -461,7 +518,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-06T06:22:54.764236",
+    "scraped_at": "2025-10-07T06:21:09.167629",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
