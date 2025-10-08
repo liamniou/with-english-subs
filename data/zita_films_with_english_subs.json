@@ -22,52 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-10-07T06:27:47.998328+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 949470,
-      "title": "Unknown Title",
-      "overview": "A short film by Andrei Ventslova",
-      "release_date": "1988-04-15",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "imdb_id": null,
-      "runtime": 1,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "unknown-title",
-    "url": "https://zita.se/journalister-under-attack",
-    "title": "Unknown Title",
-    "director": "",
-    "genre": "Palestina20251 jan 202557 minDokumentärFrån 15 årFolkets Bio StockholmArabiskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "20:00",
-        "time": "20:00",
-        "date": "",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5620",
-        "normalized_datetime": "2025-10-07T20:00:00",
-        "normalized_date": "07.10",
-        "normalized_time": "20:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2025-10-07T06:27:49.783362+00:00",
+    "scraped_at": "2025-10-08T06:26:24.052791+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
