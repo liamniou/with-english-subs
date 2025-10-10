@@ -8,10 +8,10 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2025-10-11T16:00:00",
-        "display_text": "lör 11 okt 16:00",
+        "datetime": "",
+        "display_text": "i morgon 16:00",
         "time": "16:00",
-        "date": "lör 11 okt",
+        "date": "i morgon",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=3685",
         "normalized_datetime": "2025-10-11T16:00:00",
@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-10-09T06:28:03.476331+00:00",
+    "scraped_at": "2025-10-10T06:27:53.740059+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
