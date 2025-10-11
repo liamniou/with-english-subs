@@ -1,5 +1,99 @@
 [
   {
+    "film_id": "tokyo-godfathers",
+    "url": "https://www.biorio.se/movies/tokyo-godfathers",
+    "title": "Tokyo Godfathers",
+    "director": "Satoshi Kon",
+    "showtimes": [
+      {
+        "datetime": "2025-12-03T17:00:00.000Z",
+        "display_text": "Wednesday December 03, 2025 at 17:00",
+        "movie_id": "5678",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/1144",
+        "api_data": {
+          "id": 1144,
+          "movieId": 5678,
+          "movieVersionId": 361,
+          "startTime": "2025-12-03T17:00:00.000Z",
+          "endTime": "2025-12-03T18:32:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5678,
+            "title": "Tokyo Godfathers",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5678/posters/1760104162969-hsupo8.jpg",
+            "movieVersions": [
+              {
+                "duration": 92,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 361,
+            "duration": 92,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "reRUN",
+            "Snowtime"
+          ],
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-12-03T17:00:00",
+        "normalized_date": "03.12",
+        "normalized_time": "17:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2025-10-11T06:18:12.415928",
+    "source": "biorio",
+    "tmdb": {
+      "id": 13398,
+      "title": "Tokyo Godfathers",
+      "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
+      "release_date": "2003-12-05",
+      "rating": 7.914,
+      "vote_count": 1401,
+      "genres": [
+        "Animation",
+        "Drama",
+        "Comedy"
+      ],
+      "poster_path": "/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg",
+      "backdrop_path": "/mnppPdfdtKPNoRemzIZDwOKpgfv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mnppPdfdtKPNoRemzIZDwOKpgfv.jpg",
+      "imdb_id": "tt0388473",
+      "runtime": 92,
+      "budget": 0,
+      "revenue": 607735
+    }
+  },
+  {
     "film_id": "chainsaw-man",
     "url": "https://www.biorio.se/movies/chainsaw-man",
     "title": "Chainsaw Man",
@@ -66,15 +160,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-10T06:21:29.283393",
+    "scraped_at": "2025-10-11T06:18:27.432612",
     "source": "biorio",
     "tmdb": {
       "id": 1218925,
       "title": "Chainsaw Man - The Movie: Reze Arc",
       "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
       "release_date": "2025-09-19",
-      "rating": 8.611,
-      "vote_count": 18,
+      "rating": 8.632,
+      "vote_count": 19,
       "genres": [
         "Animation",
         "Action",
@@ -161,15 +255,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-10T06:21:34.704160",
+    "scraped_at": "2025-10-11T06:18:33.243582",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
       "title": "ParaNorman",
       "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
       "release_date": "2012-08-03",
-      "rating": 7.009,
-      "vote_count": 2646,
+      "rating": 7.01,
+      "vote_count": 2648,
       "genres": [
         "Family",
         "Animation",
@@ -256,7 +350,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-10T06:21:36.241098",
+    "scraped_at": "2025-10-11T06:18:34.881153",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -518,7 +612,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-10T06:21:46.344889",
+    "scraped_at": "2025-10-11T06:18:42.685600",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
