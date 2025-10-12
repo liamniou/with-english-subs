@@ -1,71 +1,46 @@
 [
   {
-    "film_id": "annas-möten",
-    "url": "https://zita.se/annas-moten",
-    "title": "Annas möten",
+    "film_id": "athens-midnight-radio",
+    "url": "https://zita.se/midnight-radio",
+    "title": "Athens Midnight Radio",
     "director": "",
-    "genre": "Les Rendez-vous d’AnnaBelgien1978127 minDramaFrån 15 årFranskaEngelska",
+    "genre": "Grekland20241 jan 202472 minDramaFrån 15 årFolkets Bio StockholmGrekiskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "20:00",
-        "time": "20:00",
+        "display_text": "17:00",
+        "time": "17:00",
         "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5590",
-        "normalized_datetime": "2025-10-11T20:00:00",
-        "normalized_date": "11.10",
-        "normalized_time": "20:00"
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5597",
+        "normalized_datetime": "2025-10-12T17:00:00",
+        "normalized_date": "12.10",
+        "normalized_time": "17:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-10-11T06:24:39.743969+00:00",
-    "source": "zita"
-  },
-  {
-    "film_id": "unknown-title",
-    "url": "https://zita.se/jeanne-dielman",
-    "title": "Unknown Title",
-    "director": "",
-    "genre": "Belgien, Frankrike19751 jan 2014201 minDramaFrån 15 årChantal AkermanFranskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "16:00",
-        "time": "16:00",
-        "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3685",
-        "normalized_datetime": "2025-10-11T16:00:00",
-        "normalized_date": "11.10",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2025-10-11T06:24:49.089154+00:00",
+    "scraped_at": "2025-10-12T06:23:24.735248+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 949470,
-      "title": "Unknown Title",
-      "overview": "A short film by Andrei Ventslova",
-      "release_date": "1988-04-15",
-      "rating": 0.0,
-      "vote_count": 0,
+      "id": 1306893,
+      "title": "Night Announcer",
+      "overview": "A veteran late-night radio announcer, on the night he turns 50, realizes with embarrassment that he is no longer one of the young and unravels his life in the wind.",
+      "release_date": "2024-06-20",
+      "rating": 7.0,
+      "vote_count": 1,
       "genres": [
-        "Drama"
+        "Drama",
+        "Romance"
       ],
-      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "poster_path": "/pGZRlGNw06psQtonIt632WqyEzr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pGZRlGNw06psQtonIt632WqyEzr.jpg",
+      "backdrop_path": "/rEduz5XRAajU6J17uadhusuyUxX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/rEduz5XRAajU6J17uadhusuyUxX.jpg",
       "imdb_id": null,
-      "runtime": 1,
+      "runtime": 72,
       "budget": 0,
       "revenue": 0
     }
