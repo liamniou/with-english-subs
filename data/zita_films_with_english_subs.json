@@ -1,46 +1,45 @@
 [
   {
-    "film_id": "athens-midnight-radio",
-    "url": "https://zita.se/midnight-radio",
-    "title": "Athens Midnight Radio",
+    "film_id": "kvarteret-korpen",
+    "url": "https://zita.se/kvarteret-korpen",
+    "title": "Kvarteret Korpen",
     "director": "",
-    "genre": "Grekland20241 jan 202472 minDramaFrån 15 årFolkets Bio StockholmGrekiskaEngelska",
+    "genre": "Sverige19631 jan 1963101 minDramaSvenskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "17:00",
-        "time": "17:00",
+        "display_text": "20:00",
+        "time": "20:00",
         "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5597",
-        "normalized_datetime": "2025-10-13T17:00:00",
-        "normalized_date": "13.10",
-        "normalized_time": "17:00"
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5631",
+        "normalized_datetime": "2025-10-14T20:00:00",
+        "normalized_date": "14.10",
+        "normalized_time": "20:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-10-12T06:23:24.735248+00:00",
+    "scraped_at": "2025-10-14T06:25:56.021119+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1306893,
-      "title": "Night Announcer",
-      "overview": "A veteran late-night radio announcer, on the night he turns 50, realizes with embarrassment that he is no longer one of the young and unravels his life in the wind.",
-      "release_date": "2024-06-20",
+      "id": 47206,
+      "title": "Raven's End",
+      "overview": "In 1936 Sweden, a teenager drifts through life in his small town, hoping that a novel about the neighborhood he grew up and lives in will reverse the fortunes of his family.",
+      "release_date": "1963-12-25",
       "rating": 7.0,
-      "vote_count": 1,
+      "vote_count": 35,
       "genres": [
-        "Drama",
-        "Romance"
+        "Drama"
       ],
-      "poster_path": "/pGZRlGNw06psQtonIt632WqyEzr.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pGZRlGNw06psQtonIt632WqyEzr.jpg",
-      "backdrop_path": "/rEduz5XRAajU6J17uadhusuyUxX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/rEduz5XRAajU6J17uadhusuyUxX.jpg",
-      "imdb_id": null,
-      "runtime": 72,
+      "poster_path": "/mOct6yh6AFO4DyPiklDq0TYS02L.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mOct6yh6AFO4DyPiklDq0TYS02L.jpg",
+      "backdrop_path": "/wo91tuso6gBXwwKiiiNkLZZM7Q3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/wo91tuso6gBXwwKiiiNkLZZM7Q3.jpg",
+      "imdb_id": "tt0057237",
+      "runtime": 101,
       "budget": 0,
       "revenue": 0
     }

@@ -1,50 +1,5 @@
 [
   {
-    "film_id": "viskningar-och-rop",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Viskningar och rop",
-    "director": "Ingmar Bergman",
-    "duration": "1h 31 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2025-10-13T17:30:00+02:00",
-        "display_text": "Måndag, 13th Oktober 17:30",
-        "time": "17:30",
-        "date_section": "Måndag, 13th Oktober",
-        "ticket_url": "https://biofagelbla.se/movie/viskningar-och-rop/?showtime=48439",
-        "showtime_id": "48439",
-        "normalized_datetime": "2025-10-13T17:30:00",
-        "normalized_date": "13.10",
-        "normalized_time": "17:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-10-13T06:30:02.789417+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 10238,
-      "title": "Cries and Whispers",
-      "overview": "As Agnes slowly dies of cancer, her sisters are so immersed in their own psychic pains that they are unable to offer her the support she needs.",
-      "release_date": "1972-12-21",
-      "rating": 7.901,
-      "vote_count": 735,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/a1bMgB09YDvvRN9SitCclUYragr.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/a1bMgB09YDvvRN9SitCclUYragr.jpg",
-      "backdrop_path": "/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
-      "imdb_id": "tt0069467",
-      "runtime": 95,
-      "budget": 400000,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "a-nos-amours",
     "url": "https://biofagelbla.se/program/",
     "title": "A Nos Amours",
@@ -67,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.789602+00:00",
+    "scraped_at": "2025-10-14T06:25:36.646241+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 2282,
@@ -113,7 +68,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.789860+00:00",
+    "scraped_at": "2025-10-14T06:25:36.646548+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 19426,
@@ -158,7 +113,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.790193+00:00",
+    "scraped_at": "2025-10-14T06:25:36.646888+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -204,7 +159,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.790402+00:00",
+    "scraped_at": "2025-10-14T06:25:36.647102+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -251,7 +206,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.790692+00:00",
+    "scraped_at": "2025-10-14T06:25:36.647393+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
@@ -296,7 +251,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.791074+00:00",
+    "scraped_at": "2025-10-14T06:25:36.647706+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 805,
@@ -343,14 +298,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.791432+00:00",
+    "scraped_at": "2025-10-14T06:25:36.647993+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
       "title": "The Serpent's Egg",
       "overview": "In 1923 Berlin, following the suicide of his brother, an American acrobat struggles to survive while facing unemployment, depression, alcoholism, and the social decay of Germany during the Weimar Republic.",
       "release_date": "1977-10-28",
-      "rating": 6.3,
+      "rating": 6.297,
       "vote_count": 118,
       "genres": [
         "Mystery",
@@ -390,7 +345,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.791631+00:00",
+    "scraped_at": "2025-10-14T06:25:36.648169+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -437,7 +392,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.791862+00:00",
+    "scraped_at": "2025-10-14T06:25:36.648303+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 166897,
@@ -470,21 +425,21 @@
     "language": "Engelska",
     "showtimes": [
       {
-        "datetime": "2025-10-31T21:50:00+01:00",
-        "display_text": "Fredag, 31st Oktober 21:50",
-        "time": "21:50",
+        "datetime": "2025-10-31T20:00:00+01:00",
+        "display_text": "Fredag, 31st Oktober 20:00",
+        "time": "20:00",
         "date_section": "Fredag, 31st Oktober",
         "ticket_url": "https://biofagelbla.se/movie/from-dusk-till-dawn/?showtime=48531",
         "showtime_id": "48531",
-        "normalized_datetime": "2025-10-31T21:50:00",
+        "normalized_datetime": "2025-10-31T20:00:00",
         "normalized_date": "31.10",
-        "normalized_time": "21:50"
+        "normalized_time": "20:00"
       }
     ],
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.792134+00:00",
+    "scraped_at": "2025-10-14T06:25:36.648534+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 755,
@@ -532,7 +487,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.792534+00:00",
+    "scraped_at": "2025-10-14T06:25:36.648818+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 16372,
@@ -579,7 +534,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.792930+00:00",
+    "scraped_at": "2025-10-14T06:25:36.649034+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -625,7 +580,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.793328+00:00",
+    "scraped_at": "2025-10-14T06:25:36.649232+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -633,7 +588,7 @@
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
       "rating": 7.913,
-      "vote_count": 11969,
+      "vote_count": 11970,
       "genres": [
         "Comedy",
         "Romance"
@@ -671,7 +626,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.793559+00:00",
+    "scraped_at": "2025-10-14T06:25:36.649447+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
@@ -679,7 +634,7 @@
       "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
       "release_date": "1997-12-20",
       "rating": 8.441,
-      "vote_count": 13575,
+      "vote_count": 13578,
       "genres": [
         "Comedy",
         "Drama"
@@ -717,7 +672,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.793764+00:00",
+    "scraped_at": "2025-10-14T06:25:36.649589+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -764,7 +719,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.794131+00:00",
+    "scraped_at": "2025-10-14T06:25:36.649789+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -810,7 +765,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.794427+00:00",
+    "scraped_at": "2025-10-14T06:25:36.649975+00:00",
     "source": "fagelbla"
   },
   {
@@ -836,7 +791,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-13T06:30:02.794620+00:00",
+    "scraped_at": "2025-10-14T06:25:36.650101+00:00",
     "source": "fagelbla"
   }
 ]
