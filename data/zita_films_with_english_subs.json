@@ -1,47 +1,96 @@
 [
   {
-    "film_id": "kvarteret-korpen",
-    "url": "https://zita.se/kvarteret-korpen",
-    "title": "Kvarteret Korpen",
+    "film_id": "ådalen-31",
+    "url": "https://zita.se/adalen-31",
+    "title": "Ådalen 31",
     "director": "",
-    "genre": "Sverige19631 jan 1963101 minDramaSvenskaEngelska",
+    "genre": "Sverige19691 jan 2020122 minDramaSvenskaEngelska",
     "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "20:15",
+        "time": "20:15",
+        "date": "",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5443",
+        "normalized_datetime": "2025-10-15T20:15:00",
+        "normalized_date": "15.10",
+        "normalized_time": "20:15"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-10-15T06:25:56.012376+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 87208,
+      "title": "Adalen 31",
+      "overview": "A film about the 1931 Ådalen shootings, in which Swedish military forces opened fire against labour demonstrators in the Swedish sawmill district of Ådalen.",
+      "release_date": "1969-05-01",
+      "rating": 6.7,
+      "vote_count": 40,
+      "genres": [
+        "Drama",
+        "History",
+        "Romance"
+      ],
+      "poster_path": "/36nb5JRvhdaEcpE71LKexPtYIa1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/36nb5JRvhdaEcpE71LKexPtYIa1.jpg",
+      "backdrop_path": "/u0RDI1DwWsDq883peRTRAU3iVZ8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/u0RDI1DwWsDq883peRTRAU3iVZ8.jpg",
+      "imdb_id": "tt0065261",
+      "runtime": 114,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "time-masters",
+    "url": "https://zita.se/time-masters",
+    "title": "Time Masters",
+    "director": "",
+    "genre": "",
+    "duration": "Frankrike19821 jan 198279 minAnimerad filmFranska institutetFranskaEngelska",
     "showtimes": [
       {
         "datetime": "",
         "display_text": "20:00",
         "time": "20:00",
         "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5631",
-        "normalized_datetime": "2025-10-14T20:00:00",
-        "normalized_date": "14.10",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5619",
+        "normalized_datetime": "2025-10-15T20:00:00",
+        "normalized_date": "15.10",
         "normalized_time": "20:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-10-14T06:25:56.021119+00:00",
+    "scraped_at": "2025-10-15T06:26:29.930161+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 47206,
-      "title": "Raven's End",
-      "overview": "In 1936 Sweden, a teenager drifts through life in his small town, hoping that a novel about the neighborhood he grew up and lives in will reverse the fortunes of his family.",
-      "release_date": "1963-12-25",
-      "rating": 7.0,
-      "vote_count": 35,
+      "id": 22501,
+      "title": "Time Masters",
+      "overview": "On planet Perdide, an attack of giant hornets leaves young Piel alone in a wrecked car with his dying father. A mayday message reaches their friend Jaffar, an adventurer travelling through space. Onboard Jaffar’s shuttle are the renegade Prince Matton, his fiancée, and Silbad, who knows Perdide well. Thus begins an incredible race across space to save Piel.",
+      "release_date": "1982-03-24",
+      "rating": 7.28,
+      "vote_count": 168,
       "genres": [
-        "Drama"
+        "Animation",
+        "Science Fiction",
+        "Adventure"
       ],
-      "poster_path": "/mOct6yh6AFO4DyPiklDq0TYS02L.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mOct6yh6AFO4DyPiklDq0TYS02L.jpg",
-      "backdrop_path": "/wo91tuso6gBXwwKiiiNkLZZM7Q3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/wo91tuso6gBXwwKiiiNkLZZM7Q3.jpg",
-      "imdb_id": "tt0057237",
-      "runtime": 101,
+      "poster_path": "/2brFFdhCSdcSzBbTOWg9VQra6QI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2brFFdhCSdcSzBbTOWg9VQra6QI.jpg",
+      "backdrop_path": "/eOgq3wNremNJ5V3hxapQop7JXvP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/eOgq3wNremNJ5V3hxapQop7JXvP.jpg",
+      "imdb_id": "tt0084315",
+      "runtime": 80,
       "budget": 0,
-      "revenue": 0
+      "revenue": 4368
     }
   }
 ]
