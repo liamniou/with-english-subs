@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:21:12.944858",
+    "scraped_at": "2025-10-17T06:20:17.954537",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -160,7 +160,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:21:32.403664",
+    "scraped_at": "2025-10-17T06:20:34.498150",
     "source": "biorio",
     "tmdb": {
       "id": 1218925,
@@ -176,12 +176,12 @@
       ],
       "poster_path": "/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
-      "backdrop_path": "/dh0dLVLDLqUKhtytCFjkf3EHeJI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/dh0dLVLDLqUKhtytCFjkf3EHeJI.jpg",
+      "backdrop_path": "/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
       "imdb_id": "tt30472557",
       "runtime": 100,
       "budget": 0,
-      "revenue": 59000000
+      "revenue": 36000000
     }
   },
   {
@@ -255,15 +255,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:21:42.447469",
+    "scraped_at": "2025-10-17T06:20:40.062171",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
       "title": "ParaNorman",
       "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
       "release_date": "2012-08-03",
-      "rating": 7.0,
-      "vote_count": 2650,
+      "rating": 7.012,
+      "vote_count": 2651,
       "genres": [
         "Family",
         "Animation",
@@ -350,7 +350,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:21:43.976824",
+    "scraped_at": "2025-10-17T06:20:41.747084",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -612,7 +612,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:21:52.974965",
+    "scraped_at": "2025-10-17T06:20:52.702814",
     "source": "biorio",
     "tmdb": {
       "id": 125974,

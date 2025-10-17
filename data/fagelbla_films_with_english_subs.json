@@ -1,50 +1,5 @@
 [
   {
-    "film_id": "cabirias-nätter",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Cabirias nätter",
-    "director": "Federico Fellini",
-    "duration": "1h 58 mins",
-    "language": "Italienska",
-    "showtimes": [
-      {
-        "datetime": "2025-10-16T20:30:00+02:00",
-        "display_text": "Torsdag, 16th Oktober 20:30",
-        "time": "20:30",
-        "date_section": "Torsdag, 16th Oktober",
-        "ticket_url": "https://biofagelbla.se/movie/le-notti-di-cabiria/?showtime=49291",
-        "showtime_id": "49291",
-        "normalized_datetime": "2025-10-16T20:30:00",
-        "normalized_date": "16.10",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-10-16T06:27:01.218614+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 19426,
-      "title": "Nights of Cabiria",
-      "overview": "Rome, 1957. A woman, Cabiria, is robbed and left to drown by her boyfriend, Giorgio. Rescued, she resumes her life and tries her best to find happiness in a cynical world. Even when she thinks her struggles are over and she has found happiness and contentment, things may not be what they seem.",
-      "release_date": "1957-10-03",
-      "rating": 7.991,
-      "vote_count": 814,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg",
-      "backdrop_path": "/5Ls2O8NnH8PR21Yqh0u7PU8GPtk.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5Ls2O8NnH8PR21Yqh0u7PU8GPtk.jpg",
-      "imdb_id": "tt0050783",
-      "runtime": 110,
-      "budget": 0,
-      "revenue": 752045
-    }
-  },
-  {
     "film_id": "a-room-with-a-view",
     "url": "https://biofagelbla.se/program/",
     "title": "A Room with a View",
@@ -67,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:27:01.219007+00:00",
+    "scraped_at": "2025-10-17T06:25:58.184579+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -113,7 +68,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:27:01.219283+00:00",
+    "scraped_at": "2025-10-17T06:25:58.184840+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -160,14 +115,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:27:01.219580+00:00",
+    "scraped_at": "2025-10-17T06:25:58.185193+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
       "title": "Paris, Texas",
       "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
       "release_date": "1984-07-16",
-      "rating": 8.093,
+      "rating": 8.094,
       "vote_count": 2066,
       "genres": [
         "Drama"
@@ -205,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:27:01.219907+00:00",
+    "scraped_at": "2025-10-17T06:25:58.185519+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 805,
@@ -252,7 +207,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:27:01.220114+00:00",
+    "scraped_at": "2025-10-17T06:25:58.185733+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -299,7 +254,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:27:01.220312+00:00",
+    "scraped_at": "2025-10-17T06:25:58.185856+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -346,7 +301,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:27:01.220487+00:00",
+    "scraped_at": "2025-10-17T06:25:58.186012+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 166897,
@@ -393,7 +348,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:27:01.220637+00:00",
+    "scraped_at": "2025-10-17T06:25:58.186301+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 755,
@@ -441,7 +396,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:27:01.220869+00:00",
+    "scraped_at": "2025-10-17T06:25:58.186601+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 16372,
@@ -488,7 +443,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:27:01.221081+00:00",
+    "scraped_at": "2025-10-17T06:25:58.186817+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -534,7 +489,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:27:01.221334+00:00",
+    "scraped_at": "2025-10-17T06:25:58.187022+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -580,7 +535,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:27:01.221481+00:00",
+    "scraped_at": "2025-10-17T06:25:58.187182+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
@@ -626,7 +581,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:27:01.221609+00:00",
+    "scraped_at": "2025-10-17T06:25:58.187312+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -673,7 +628,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:27:01.221937+00:00",
+    "scraped_at": "2025-10-17T06:25:58.187517+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -719,7 +674,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:27:01.222144+00:00",
+    "scraped_at": "2025-10-17T06:25:58.187827+00:00",
     "source": "fagelbla"
   },
   {
@@ -745,7 +700,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-16T06:27:01.222275+00:00",
+    "scraped_at": "2025-10-17T06:25:58.187950+00:00",
     "source": "fagelbla"
   }
 ]
