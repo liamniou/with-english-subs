@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-17T06:25:58.184579+00:00",
+    "scraped_at": "2025-10-18T06:22:58.870198+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11257,
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-17T06:25:58.184840+00:00",
+    "scraped_at": "2025-10-18T06:22:58.870487+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -115,7 +115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-17T06:25:58.185193+00:00",
+    "scraped_at": "2025-10-18T06:22:58.870797+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
@@ -160,14 +160,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-17T06:25:58.185519+00:00",
+    "scraped_at": "2025-10-18T06:22:58.871114+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 805,
       "title": "Rosemary's Baby",
       "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
       "release_date": "1968-06-12",
-      "rating": 7.826,
+      "rating": 7.8,
       "vote_count": 4152,
       "genres": [
         "Drama",
@@ -207,7 +207,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-17T06:25:58.185733+00:00",
+    "scraped_at": "2025-10-18T06:22:58.871324+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -254,7 +254,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-17T06:25:58.185856+00:00",
+    "scraped_at": "2025-10-18T06:22:58.871464+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -301,7 +301,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-17T06:25:58.186012+00:00",
+    "scraped_at": "2025-10-18T06:22:58.871658+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 166897,
@@ -348,7 +348,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-17T06:25:58.186301+00:00",
+    "scraped_at": "2025-10-18T06:22:58.871879+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 755,
@@ -396,7 +396,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-17T06:25:58.186601+00:00",
+    "scraped_at": "2025-10-18T06:22:58.872117+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 16372,
@@ -418,6 +418,51 @@
       "runtime": 100,
       "budget": 430000,
       "revenue": 1200000
+    }
+  },
+  {
+    "film_id": "persona",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Persona",
+    "director": "Ingmar Bergman",
+    "duration": "1h 24 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2025-11-03T18:00:00+01:00",
+        "display_text": "Måndag, 3rd November 18:00",
+        "time": "18:00",
+        "date_section": "Måndag, 3rd November",
+        "ticket_url": "https://biofagelbla.se/movie/persona/?showtime=51127",
+        "showtime_id": "51127",
+        "normalized_datetime": "2025-11-03T18:00:00",
+        "normalized_date": "03.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2025-10-18T06:22:58.872234+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 797,
+      "title": "Persona",
+      "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
+      "release_date": "1966-10-18",
+      "rating": 8.1,
+      "vote_count": 2314,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/v2KsLNChpT6vLf0YFhkJmAtGkNq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/v2KsLNChpT6vLf0YFhkJmAtGkNq.jpg",
+      "backdrop_path": "/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
+      "imdb_id": "tt0060827",
+      "runtime": 84,
+      "budget": 0,
+      "revenue": 0
     }
   },
   {
@@ -443,7 +488,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-17T06:25:58.186817+00:00",
+    "scraped_at": "2025-10-18T06:22:58.872409+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -489,7 +534,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-17T06:25:58.187022+00:00",
+    "scraped_at": "2025-10-18T06:22:58.872637+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -535,7 +580,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-17T06:25:58.187182+00:00",
+    "scraped_at": "2025-10-18T06:22:58.872779+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
@@ -581,7 +626,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-17T06:25:58.187312+00:00",
+    "scraped_at": "2025-10-18T06:22:58.872978+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -628,7 +673,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-17T06:25:58.187517+00:00",
+    "scraped_at": "2025-10-18T06:22:58.873381+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -674,7 +719,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-17T06:25:58.187827+00:00",
+    "scraped_at": "2025-10-18T06:22:58.873748+00:00",
     "source": "fagelbla"
   },
   {
@@ -690,8 +735,8 @@
         "display_text": "Söndag, 14th December 10:00",
         "time": "10:00",
         "date_section": "Söndag, 14th December",
-        "ticket_url": "https://biofagelbla.se/movie/fanny-och-alexander/?showtime=48682",
-        "showtime_id": "48682",
+        "ticket_url": "https://biofagelbla.se/movie/fanny-och-alexander/?showtime=51128",
+        "showtime_id": "51128",
         "normalized_datetime": "2025-12-14T10:00:00",
         "normalized_date": "14.12",
         "normalized_time": "10:00"
@@ -700,7 +745,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-17T06:25:58.187950+00:00",
+    "scraped_at": "2025-10-18T06:22:58.873978+00:00",
     "source": "fagelbla"
   }
 ]
