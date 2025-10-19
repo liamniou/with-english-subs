@@ -1,45 +1,47 @@
 [
   {
-    "film_id": "unknown-title",
-    "url": "https://zita.se/en-av-oss",
-    "title": "Unknown Title",
+    "film_id": "meat",
+    "url": "https://zita.se/meat",
+    "title": "Meat",
     "director": "",
-    "genre": "Finland20241 jan 202472 minDokumentär, kortfilmFrån 15 årFolkets Bio StockholmFinskaEngelska",
+    "genre": "Grekland20241 jan 2024104 minDramaFrån 15 årFolkets Bio StockholmGrekiskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "14:00",
-        "time": "14:00",
+        "display_text": "17:00",
+        "time": "17:00",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5633",
-        "normalized_datetime": "2025-10-18T14:00:00",
-        "normalized_date": "18.10",
-        "normalized_time": "14:00"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5598",
+        "normalized_datetime": "2025-10-19T17:00:00",
+        "normalized_date": "19.10",
+        "normalized_time": "17:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-10-18T06:23:09.373194+00:00",
+    "scraped_at": "2025-10-19T06:25:41.045550+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 949470,
-      "title": "Unknown Title",
-      "overview": "A short film by Andrei Ventslova",
-      "release_date": "1988-04-15",
-      "rating": 0.0,
-      "vote_count": 0,
+      "id": 369620,
+      "title": "Meat",
+      "overview": "Brilliant, brutal and shocking drama starring Jonny Lee Miller and John Simm, following an ex-convict who falls for a prostitute, but makes a dangerous enemy of her pimp.",
+      "release_date": "1994-09-25",
+      "rating": 4.0,
+      "vote_count": 2,
       "genres": [
-        "Drama"
+        "Drama",
+        "Crime",
+        "TV Movie"
       ],
-      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "imdb_id": null,
-      "runtime": 1,
+      "poster_path": "/zL2Y7DokeBcJHyFtTHv3oDVbkBC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zL2Y7DokeBcJHyFtTHv3oDVbkBC.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt0134816",
+      "runtime": 84,
       "budget": 0,
       "revenue": 0
     }
