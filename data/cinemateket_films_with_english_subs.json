@@ -1,44 +1,5 @@
 [
   {
-    "film_id": "13962",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13962&cityId=1",
-    "title": "Originaltitel: Kuchizuke",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "sön 19/10 kl. 18:00",
-        "normalized_datetime": "2025-10-19T18:00:00",
-        "normalized_date": "19.10",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2025-10-19T06:21:08.385216",
-    "tmdb": {
-      "id": 98636,
-      "title": "Kisses",
-      "overview": "Kinichi and Akiko meet when they visit their fathers in prison. After successfully gambling on a bicycle race, they spend an enjoyable day together at the beach.",
-      "release_date": "1957-07-23",
-      "rating": 6.6,
-      "vote_count": 21,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/i0j7rKjHgzC1eSkfoVkq02gzQbx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/i0j7rKjHgzC1eSkfoVkq02gzQbx.jpg",
-      "backdrop_path": "/gwIuUi5hCt8mTbPX4At0YSY8UuY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gwIuUi5hCt8mTbPX4At0YSY8UuY.jpg",
-      "imdb_id": "tt0050612",
-      "runtime": 74,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "13954",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13954&cityId=1",
     "title": "Originaltitel: Geuk jang jeon",
@@ -55,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:21:14.975504",
+    "scraped_at": "2025-10-20T06:24:52.493485",
     "tmdb": {
       "id": 85550,
       "title": "Tale of Cinema",
@@ -93,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:21:40.521902",
+    "scraped_at": "2025-10-20T06:25:12.100846",
     "tmdb": {
       "id": 1481312,
       "title": "Manji",
@@ -129,7 +90,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-10-19T06:21:47.117798",
+    "scraped_at": "2025-10-20T06:25:17.470624",
     "tmdb": {
       "id": 434773,
       "title": "On the Beach at Night Alone",
@@ -167,7 +128,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:22:03.285514",
+    "scraped_at": "2025-10-20T06:25:29.738274",
     "tmdb": {
       "id": 103753,
       "title": "In Another Country",
@@ -205,7 +166,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:22:09.877139",
+    "scraped_at": "2025-10-20T06:25:34.676913",
     "tmdb": {
       "id": 3478,
       "title": "Ludwig",
@@ -244,7 +205,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:22:21.210736",
+    "scraped_at": "2025-10-20T06:25:44.337034",
     "tmdb": {
       "id": 8422,
       "title": "Rocco and His Brothers",
@@ -283,7 +244,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:22:32.548140",
+    "scraped_at": "2025-10-20T06:25:52.932960",
     "tmdb": {
       "id": 230893,
       "title": "Scénario de 'Sauve qui peut la vie'",
@@ -321,7 +282,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:22:48.537153",
+    "scraped_at": "2025-10-20T06:26:05.357699",
     "tmdb": {
       "id": 86262,
       "title": "Like You Know It All",
@@ -360,7 +321,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:23:17.088292",
+    "scraped_at": "2025-10-20T06:26:26.090077",
     "tmdb": {
       "id": 1358533,
       "title": "Ossessione",
@@ -399,7 +360,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:23:25.979592",
+    "scraped_at": "2025-10-20T06:26:33.170370",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -437,7 +398,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-10-19T06:23:44.478085"
+    "scraped_at": "2025-10-20T06:26:47.147463"
   },
   {
     "film_id": "13931",
@@ -456,7 +417,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:23:55.891601",
+    "scraped_at": "2025-10-20T06:26:55.679131",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -494,7 +455,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:24:09.708676",
+    "scraped_at": "2025-10-20T06:27:05.822754",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -532,7 +493,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:24:14.291353",
+    "scraped_at": "2025-10-20T06:27:09.141658",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -570,7 +531,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:24:25.711377",
+    "scraped_at": "2025-10-20T06:27:17.722061",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -608,7 +569,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:24:39.625563",
+    "scraped_at": "2025-10-20T06:27:27.864266",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -646,7 +607,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:24:43.861892",
+    "scraped_at": "2025-10-20T06:27:31.068237",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -685,7 +646,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:24:57.691064",
+    "scraped_at": "2025-10-20T06:27:41.279346",
     "tmdb": {
       "id": 989406,
       "title": "After Work",
@@ -723,6 +684,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-19T06:25:01.912276"
+    "scraped_at": "2025-10-20T06:27:44.544367"
   }
 ]

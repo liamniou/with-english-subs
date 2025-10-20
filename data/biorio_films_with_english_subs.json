@@ -69,15 +69,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:19:54.369959",
+    "scraped_at": "2025-10-20T06:22:01.420529",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
       "title": "Tokyo Godfathers",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
-      "rating": 7.914,
-      "vote_count": 1402,
+      "rating": 7.913,
+      "vote_count": 1403,
       "genres": [
         "Animation",
         "Drama",
@@ -160,15 +160,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:20:08.567886",
+    "scraped_at": "2025-10-20T06:22:51.175324",
     "source": "biorio",
     "tmdb": {
       "id": 1218925,
       "title": "Chainsaw Man - The Movie: Reze Arc",
       "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
       "release_date": "2025-09-19",
-      "rating": 8.6,
-      "vote_count": 22,
+      "rating": 8.478,
+      "vote_count": 23,
       "genres": [
         "Animation",
         "Action",
@@ -255,7 +255,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:20:14.949020",
+    "scraped_at": "2025-10-20T06:23:07.416338",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
@@ -350,7 +350,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:20:16.566735",
+    "scraped_at": "2025-10-20T06:23:09.765370",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -612,7 +612,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:20:24.552872",
+    "scraped_at": "2025-10-20T06:23:35.847960",
     "source": "biorio",
     "tmdb": {
       "id": 125974,

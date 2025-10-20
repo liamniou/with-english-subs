@@ -1,51 +1,5 @@
 [
   {
-    "film_id": "a-room-with-a-view",
-    "url": "https://biofagelbla.se/program/",
-    "title": "A Room with a View",
-    "director": "James Ivory",
-    "duration": "1h 57 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2025-10-19T10:30:00+02:00",
-        "display_text": "Söndag, 19th Oktober 10:30",
-        "time": "10:30",
-        "date_section": "Söndag, 19th Oktober",
-        "ticket_url": "https://biofagelbla.se/movie/a-room-with-a-view/?showtime=48662",
-        "showtime_id": "48662",
-        "normalized_datetime": "2025-10-19T10:30:00",
-        "normalized_date": "19.10",
-        "normalized_time": "10:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-10-19T06:25:14.037724+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 11257,
-      "title": "A Room with a View",
-      "overview": "When Lucy Honeychurch and chaperon Charlotte Bartlett find themselves in Florence with rooms without views, fellow guests Mr Emerson and son George step in to remedy the situation. Meeting the Emersons could change Lucy's life forever but, once back in England, how will her experiences in Tuscany affect her marriage plans?",
-      "release_date": "1986-03-07",
-      "rating": 6.9,
-      "vote_count": 801,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/5xRAqywVo6tNUNQbAESGVP930la.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5xRAqywVo6tNUNQbAESGVP930la.jpg",
-      "backdrop_path": "/7BawlYbO8j434ovY0xTHpaNNE0Y.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7BawlYbO8j434ovY0xTHpaNNE0Y.jpg",
-      "imdb_id": "tt0091867",
-      "runtime": 117,
-      "budget": 3000000,
-      "revenue": 20966644
-    }
-  },
-  {
     "film_id": "ådalen-31",
     "url": "https://biofagelbla.se/program/",
     "title": "Ådalen 31",
@@ -68,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:14.037968+00:00",
+    "scraped_at": "2025-10-20T06:27:52.486376+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 87208,
@@ -115,15 +69,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:14.038340+00:00",
+    "scraped_at": "2025-10-20T06:27:52.486767+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
       "title": "Paris, Texas",
       "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
       "release_date": "1984-07-16",
-      "rating": 8.094,
-      "vote_count": 2066,
+      "rating": 8.095,
+      "vote_count": 2068,
       "genres": [
         "Drama"
       ],
@@ -160,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:14.038686+00:00",
+    "scraped_at": "2025-10-20T06:27:52.487161+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 805,
@@ -168,7 +122,7 @@
       "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
       "release_date": "1968-06-12",
       "rating": 7.826,
-      "vote_count": 4154,
+      "vote_count": 4156,
       "genres": [
         "Drama",
         "Horror",
@@ -207,7 +161,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:14.038894+00:00",
+    "scraped_at": "2025-10-20T06:27:52.487384+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -254,7 +208,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:14.039015+00:00",
+    "scraped_at": "2025-10-20T06:27:52.487513+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -301,7 +255,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:14.039146+00:00",
+    "scraped_at": "2025-10-20T06:27:52.487641+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 166897,
@@ -348,7 +302,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:14.039442+00:00",
+    "scraped_at": "2025-10-20T06:27:52.487794+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 755,
@@ -396,15 +350,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:14.039814+00:00",
+    "scraped_at": "2025-10-20T06:27:52.488206+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 16372,
       "title": "The Innocents",
       "overview": "A young governess for two children becomes convinced that the house and grounds are haunted by ghosts and that the children are being possessed.",
       "release_date": "1961-11-24",
-      "rating": 7.465,
-      "vote_count": 632,
+      "rating": 7.466,
+      "vote_count": 633,
       "genres": [
         "Horror",
         "Mystery",
@@ -443,15 +397,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:14.039952+00:00",
+    "scraped_at": "2025-10-20T06:27:52.488340+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.1,
-      "vote_count": 2315,
+      "rating": 8.144,
+      "vote_count": 2317,
       "genres": [
         "Drama"
       ],
@@ -488,7 +442,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:14.040135+00:00",
+    "scraped_at": "2025-10-20T06:27:52.488529+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -534,7 +488,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:14.040390+00:00",
+    "scraped_at": "2025-10-20T06:27:52.488757+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -542,7 +496,7 @@
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
       "rating": 7.913,
-      "vote_count": 11971,
+      "vote_count": 11972,
       "genres": [
         "Comedy",
         "Romance"
@@ -580,7 +534,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:14.040537+00:00",
+    "scraped_at": "2025-10-20T06:27:52.488901+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
@@ -626,7 +580,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:14.040658+00:00",
+    "scraped_at": "2025-10-20T06:27:52.489076+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -673,7 +627,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:14.040899+00:00",
+    "scraped_at": "2025-10-20T06:27:52.489309+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -681,7 +635,7 @@
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
       "rating": 8.171,
-      "vote_count": 3190,
+      "vote_count": 3192,
       "genres": [
         "Fantasy",
         "Drama"
@@ -719,7 +673,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:14.041278+00:00",
+    "scraped_at": "2025-10-20T06:27:52.489564+00:00",
     "source": "fagelbla"
   },
   {
@@ -745,7 +699,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:14.041484+00:00",
+    "scraped_at": "2025-10-20T06:27:52.489781+00:00",
     "source": "fagelbla"
   }
 ]
