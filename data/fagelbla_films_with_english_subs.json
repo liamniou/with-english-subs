@@ -1,52 +1,5 @@
 [
   {
-    "film_id": "ådalen-31",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Ådalen 31",
-    "director": "Bo Widerberg",
-    "duration": "",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2025-10-20T17:45:00+02:00",
-        "display_text": "Måndag, 20th Oktober 17:45",
-        "time": "17:45",
-        "date_section": "Måndag, 20th Oktober",
-        "ticket_url": "https://biofagelbla.se/movie/adalen-31/?showtime=48440",
-        "showtime_id": "48440",
-        "normalized_datetime": "2025-10-20T17:45:00",
-        "normalized_date": "20.10",
-        "normalized_time": "17:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-10-20T06:27:52.486376+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 87208,
-      "title": "Adalen 31",
-      "overview": "A film about the 1931 Ådalen shootings, in which Swedish military forces opened fire against labour demonstrators in the Swedish sawmill district of Ådalen.",
-      "release_date": "1969-05-01",
-      "rating": 6.7,
-      "vote_count": 40,
-      "genres": [
-        "Drama",
-        "History",
-        "Romance"
-      ],
-      "poster_path": "/36nb5JRvhdaEcpE71LKexPtYIa1.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/36nb5JRvhdaEcpE71LKexPtYIa1.jpg",
-      "backdrop_path": "/u0RDI1DwWsDq883peRTRAU3iVZ8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/u0RDI1DwWsDq883peRTRAU3iVZ8.jpg",
-      "imdb_id": "tt0065261",
-      "runtime": 114,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "paris-texas",
     "url": "https://biofagelbla.se/program/",
     "title": "Paris, Texas",
@@ -69,15 +22,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-20T06:27:52.486767+00:00",
+    "scraped_at": "2025-10-21T06:27:23.449820+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 655,
       "title": "Paris, Texas",
       "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
       "release_date": "1984-07-16",
-      "rating": 8.095,
-      "vote_count": 2068,
+      "rating": 8.1,
+      "vote_count": 2067,
       "genres": [
         "Drama"
       ],
@@ -114,14 +67,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-20T06:27:52.487161+00:00",
+    "scraped_at": "2025-10-21T06:27:23.450171+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 805,
       "title": "Rosemary's Baby",
       "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
       "release_date": "1968-06-12",
-      "rating": 7.826,
+      "rating": 7.8,
       "vote_count": 4156,
       "genres": [
         "Drama",
@@ -161,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-20T06:27:52.487384+00:00",
+    "scraped_at": "2025-10-21T06:27:23.450384+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47474,
@@ -208,7 +161,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-20T06:27:52.487513+00:00",
+    "scraped_at": "2025-10-21T06:27:23.450595+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -255,7 +208,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-20T06:27:52.487641+00:00",
+    "scraped_at": "2025-10-21T06:27:23.450776+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 166897,
@@ -288,28 +241,28 @@
     "language": "Engelska",
     "showtimes": [
       {
-        "datetime": "2025-10-31T20:00:00+01:00",
-        "display_text": "Fredag, 31st Oktober 20:00",
-        "time": "20:00",
+        "datetime": "2025-10-31T20:15:00+01:00",
+        "display_text": "Fredag, 31st Oktober 20:15",
+        "time": "20:15",
         "date_section": "Fredag, 31st Oktober",
         "ticket_url": "https://biofagelbla.se/movie/from-dusk-till-dawn/?showtime=48531",
         "showtime_id": "48531",
-        "normalized_datetime": "2025-10-31T20:00:00",
+        "normalized_datetime": "2025-10-31T20:15:00",
         "normalized_date": "31.10",
-        "normalized_time": "20:00"
+        "normalized_time": "20:15"
       }
     ],
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-20T06:27:52.487794+00:00",
+    "scraped_at": "2025-10-21T06:27:23.451038+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 755,
       "title": "From Dusk Till Dawn",
       "overview": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
       "release_date": "1996-01-19",
-      "rating": 7.028,
+      "rating": 7.0,
       "vote_count": 6213,
       "genres": [
         "Horror",
@@ -336,21 +289,21 @@
     "language": "Engelska",
     "showtimes": [
       {
-        "datetime": "2025-11-02T15:00:00+01:00",
-        "display_text": "Söndag, 2nd November 15:00",
-        "time": "15:00",
+        "datetime": "2025-11-02T15:30:00+01:00",
+        "display_text": "Söndag, 2nd November 15:30",
+        "time": "15:30",
         "date_section": "Söndag, 2nd November",
         "ticket_url": "https://biofagelbla.se/movie/the-innocents/?showtime=48665",
         "showtime_id": "48665",
-        "normalized_datetime": "2025-11-02T15:00:00",
+        "normalized_datetime": "2025-11-02T15:30:00",
         "normalized_date": "02.11",
-        "normalized_time": "15:00"
+        "normalized_time": "15:30"
       }
     ],
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-20T06:27:52.488206+00:00",
+    "scraped_at": "2025-10-21T06:27:23.451431+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 16372,
@@ -358,7 +311,7 @@
       "overview": "A young governess for two children becomes convinced that the house and grounds are haunted by ghosts and that the children are being possessed.",
       "release_date": "1961-11-24",
       "rating": 7.466,
-      "vote_count": 633,
+      "vote_count": 634,
       "genres": [
         "Horror",
         "Mystery",
@@ -397,7 +350,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-20T06:27:52.488340+00:00",
+    "scraped_at": "2025-10-21T06:27:23.451724+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -442,7 +395,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-20T06:27:52.488529+00:00",
+    "scraped_at": "2025-10-21T06:27:23.451959+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -488,7 +441,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-20T06:27:52.488757+00:00",
+    "scraped_at": "2025-10-21T06:27:23.452168+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -496,7 +449,7 @@
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
       "rating": 7.913,
-      "vote_count": 11972,
+      "vote_count": 11973,
       "genres": [
         "Comedy",
         "Romance"
@@ -534,7 +487,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-20T06:27:52.488901+00:00",
+    "scraped_at": "2025-10-21T06:27:23.452306+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
@@ -542,7 +495,7 @@
       "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
       "release_date": "1997-12-20",
       "rating": 8.441,
-      "vote_count": 13581,
+      "vote_count": 13583,
       "genres": [
         "Comedy",
         "Drama"
@@ -580,7 +533,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-20T06:27:52.489076+00:00",
+    "scraped_at": "2025-10-21T06:27:23.452428+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -627,14 +580,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-20T06:27:52.489309+00:00",
+    "scraped_at": "2025-10-21T06:27:23.452664+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
       "title": "The Seventh Seal",
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
-      "rating": 8.171,
+      "rating": 8.2,
       "vote_count": 3192,
       "genres": [
         "Fantasy",
@@ -673,7 +626,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-20T06:27:52.489564+00:00",
+    "scraped_at": "2025-10-21T06:27:23.452911+00:00",
     "source": "fagelbla"
   },
   {
@@ -699,7 +652,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-20T06:27:52.489781+00:00",
+    "scraped_at": "2025-10-21T06:27:23.453097+00:00",
     "source": "fagelbla"
   }
 ]
