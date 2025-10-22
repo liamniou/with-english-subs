@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-21T06:21:21.726897",
+    "scraped_at": "2025-10-22T06:21:55.180119",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -160,14 +160,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-21T06:21:56.230387",
+    "scraped_at": "2025-10-22T06:22:12.568385",
     "source": "biorio",
     "tmdb": {
       "id": 1218925,
       "title": "Chainsaw Man - The Movie: Reze Arc",
       "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
       "release_date": "2025-09-19",
-      "rating": 8.478,
+      "rating": 8.4,
       "vote_count": 23,
       "genres": [
         "Animation",
@@ -255,7 +255,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-21T06:22:04.912730",
+    "scraped_at": "2025-10-22T06:22:19.225459",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
@@ -263,7 +263,7 @@
       "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
       "release_date": "2012-08-03",
       "rating": 7.0,
-      "vote_count": 2651,
+      "vote_count": 2652,
       "genres": [
         "Family",
         "Animation",
@@ -350,15 +350,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-21T06:22:07.603551",
+    "scraped_at": "2025-10-22T06:22:20.721452",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
       "title": "Häxan",
       "overview": "Grave robbing, torture, possessed nuns, and a satanic Sabbath: Benjamin Christensen's legendary film uses a series of dramatic vignettes to explore the scientific hypothesis that the witches of the Middle Ages suffered the same hysteria as turn-of-the-century psychiatric patients. But the film itself is far from serious-- instead it's a witches' brew of the scary, gross, and darkly humorous.",
       "release_date": "1922-09-18",
-      "rating": 7.623,
-      "vote_count": 404,
+      "rating": 7.621,
+      "vote_count": 405,
       "genres": [
         "Documentary",
         "Horror",
@@ -669,7 +669,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-21T06:22:24.679503",
+    "scraped_at": "2025-10-22T06:22:30.663940",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
