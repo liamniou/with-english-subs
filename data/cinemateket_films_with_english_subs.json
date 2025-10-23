@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-22T06:23:40.226720",
+    "scraped_at": "2025-10-23T06:23:33.944615",
     "tmdb": {
       "id": 1481312,
       "title": "Manji",
@@ -52,7 +52,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-10-22T06:23:47.377859",
+    "scraped_at": "2025-10-23T06:23:40.840146",
     "tmdb": {
       "id": 434773,
       "title": "On the Beach at Night Alone",
@@ -90,7 +90,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-22T06:24:04.489307",
+    "scraped_at": "2025-10-23T06:23:57.011085",
     "tmdb": {
       "id": 103753,
       "title": "In Another Country",
@@ -128,24 +128,23 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-22T06:24:11.491397",
+    "scraped_at": "2025-10-23T06:24:03.729133",
     "tmdb": {
-      "id": 3478,
+      "id": 353225,
       "title": "Ludwig",
-      "overview": "Historical evocation of Ludwig, king of Bavaria, from his crowning in 1864 until his death in 1886, as a romantic hero. Fan of Richard Wagner, betrayed by him, in love with his cousin Elisabeth of Austria, abandoned by her, tormented by his homosexuality, he will little by little slip towards madness.",
-      "release_date": "1973-03-07",
-      "rating": 7.5,
-      "vote_count": 172,
+      "overview": "A film about a young man (Otto Sander) in a poor Bavarian village who plays the role of the village idiot.",
+      "release_date": "1964-11-28",
+      "rating": 5.3,
+      "vote_count": 3,
       "genres": [
-        "Drama",
-        "History"
+        "Drama"
       ],
-      "poster_path": "/9ruh503sW0dkIcWdTKkvY01B8rc.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9ruh503sW0dkIcWdTKkvY01B8rc.jpg",
-      "backdrop_path": "/2liRXUfoFDCBA9lUAQy6juakzAZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2liRXUfoFDCBA9lUAQy6juakzAZ.jpg",
-      "imdb_id": "tt0068883",
-      "runtime": 238,
+      "poster_path": null,
+      "poster_url": null,
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt0196725",
+      "runtime": 15,
       "budget": 0,
       "revenue": 0
     }
@@ -167,7 +166,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-22T06:24:23.303188",
+    "scraped_at": "2025-10-23T06:24:15.424708",
     "tmdb": {
       "id": 8422,
       "title": "Rocco and His Brothers",
@@ -206,7 +205,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-22T06:24:35.186624",
+    "scraped_at": "2025-10-23T06:24:26.881251",
     "tmdb": {
       "id": 230893,
       "title": "Scénario de 'Sauve qui peut la vie'",
@@ -244,7 +243,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-22T06:24:51.866626",
+    "scraped_at": "2025-10-23T06:24:42.870085",
     "tmdb": {
       "id": 86262,
       "title": "Like You Know It All",
@@ -283,24 +282,25 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-22T06:25:21.487523",
+    "scraped_at": "2025-10-23T06:25:11.013351",
     "tmdb": {
-      "id": 1358533,
-      "title": "Ossessione",
-      "overview": "Two Italian brothers, Franco and Giovanni, are marked by envy and resentment. While Giovanni, a talented painter, gains recognition in Brazil, Franco stays in Italy, enjoying the attention of their parents —attention that was always denied to the younger brother. When Franco asks Giovanni for a painting during a brief trip to Brazil, the bitterness between them reaches a breaking point, revealing a truth as painful as the artwork created.",
-      "release_date": "2024-06-22",
-      "rating": 10.0,
-      "vote_count": 1,
+      "id": 5155,
+      "title": "Obsession",
+      "overview": "Gino, a drifter, begins an affair with inn-owner Giovanna as they plan to get rid of her older husband.",
+      "release_date": "1944-04-08",
+      "rating": 7.525,
+      "vote_count": 259,
       "genres": [
-        "Thriller",
-        "Mystery"
+        "Crime",
+        "Drama",
+        "Romance"
       ],
-      "poster_path": "/qSK6lqkDIYyQpGyIrH6tVJRJp55.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qSK6lqkDIYyQpGyIrH6tVJRJp55.jpg",
-      "backdrop_path": "/6u7ymDvGG892jaztt424mNHJ1wB.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6u7ymDvGG892jaztt424mNHJ1wB.jpg",
-      "imdb_id": null,
-      "runtime": 0,
+      "poster_path": "/qgDF8yuJa9eEcfBqEQrqbJuxe5z.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qgDF8yuJa9eEcfBqEQrqbJuxe5z.jpg",
+      "backdrop_path": "/6efjJuY8dUUSmMZ3ERS4CNXEp1j.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6efjJuY8dUUSmMZ3ERS4CNXEp1j.jpg",
+      "imdb_id": "tt0035160",
+      "runtime": 140,
       "budget": 0,
       "revenue": 0
     }
@@ -322,7 +322,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-22T06:25:30.829739",
+    "scraped_at": "2025-10-23T06:25:19.957035",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -360,7 +360,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-10-22T06:25:50.344661"
+    "scraped_at": "2025-10-23T06:25:38.593762"
   },
   {
     "film_id": "13931",
@@ -379,7 +379,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-22T06:26:02.109846",
+    "scraped_at": "2025-10-23T06:25:49.838033",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -417,7 +417,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-22T06:26:16.488153",
+    "scraped_at": "2025-10-23T06:26:03.662946",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -455,7 +455,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-22T06:26:20.835290",
+    "scraped_at": "2025-10-23T06:26:07.847044",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -493,7 +493,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-22T06:26:32.448130",
+    "scraped_at": "2025-10-23T06:26:19.151678",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -531,7 +531,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-22T06:26:46.809786",
+    "scraped_at": "2025-10-23T06:26:32.976352",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -569,7 +569,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-22T06:26:51.216670",
+    "scraped_at": "2025-10-23T06:26:36.992586",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -608,23 +608,23 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-22T06:27:05.565411",
+    "scraped_at": "2025-10-23T06:26:51.931581",
     "tmdb": {
-      "id": 989406,
+      "id": 1091360,
       "title": "After Work",
-      "overview": "A collaboration between filmmaker Ben Rivers and sculptor Céline Condorelli, with contributions by writer and artist Jay Bernard, After Work blurs boundaries between labour and leisure using nimble essayistic encounters that are as suggestive as they are concrete.",
-      "release_date": "2022-07-07",
-      "rating": 6.0,
-      "vote_count": 1,
+      "overview": "Kuwait’s constitution says that every person has the right to a job, so in some places 20 people are employed for one person’s job. In South Korea, they work so much that a policy has been introduced to turn off computers at the end of the day so that employees can’t work any more. In the US, they give up over 500 million holiday hours each year, while Amazon’s drivers are trying to form a union. Meanwhile, robots are poised to take over most jobs and put the rest of us out of work. Work is so crucial to our identity and what we spend our waking hours on that it is barely noticed anymore. A lot has happened since a group of Puritan priests invented the concept of work ethic in the 1600s, and in the 21st century the very concept of work is in many ways disintegrating. A perfect situation for a filmmaker like Swedish mastermind Erik Gandini, who travels the world to explore what the concept of work means today – if it means anything at all.",
+      "release_date": "2023-08-04",
+      "rating": 6.2,
+      "vote_count": 4,
       "genres": [
         "Documentary"
       ],
-      "poster_path": "/qtQ5hboqQZVlD6ktiI200CrXDbO.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qtQ5hboqQZVlD6ktiI200CrXDbO.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": null,
-      "runtime": 13,
+      "poster_path": "/hICRG1PBNe1MBvpDfNNsznkwj1a.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hICRG1PBNe1MBvpDfNNsznkwj1a.jpg",
+      "backdrop_path": "/67VhQB8AiWV1jQNevuhhrL5v2LV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67VhQB8AiWV1jQNevuhhrL5v2LV.jpg",
+      "imdb_id": "tt10400026",
+      "runtime": 81,
       "budget": 0,
       "revenue": 0
     }
@@ -646,6 +646,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-22T06:27:09.865092"
+    "scraped_at": "2025-10-23T06:26:56.083541"
   }
 ]

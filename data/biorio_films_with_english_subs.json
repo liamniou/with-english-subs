@@ -69,14 +69,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-22T06:21:55.180119",
+    "scraped_at": "2025-10-23T06:21:23.439561",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
       "title": "Tokyo Godfathers",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
-      "rating": 7.913,
+      "rating": 7.9,
       "vote_count": 1403,
       "genres": [
         "Animation",
@@ -160,15 +160,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-22T06:22:12.568385",
+    "scraped_at": "2025-10-23T06:21:47.676754",
     "source": "biorio",
     "tmdb": {
       "id": 1218925,
       "title": "Chainsaw Man - The Movie: Reze Arc",
       "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
       "release_date": "2025-09-19",
-      "rating": 8.4,
-      "vote_count": 23,
+      "rating": 8.5,
+      "vote_count": 26,
       "genres": [
         "Animation",
         "Action",
@@ -255,7 +255,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-22T06:22:19.225459",
+    "scraped_at": "2025-10-23T06:21:56.312647",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
@@ -350,7 +350,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-22T06:22:20.721452",
+    "scraped_at": "2025-10-23T06:21:57.856595",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -371,6 +371,98 @@
       "imdb_id": "tt0013257",
       "runtime": 105,
       "budget": 220000,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "predator-badlands",
+    "url": "https://www.biorio.se/movies/predator-badlands",
+    "title": "Predator: Badlands",
+    "director": "Dan Trachtenberg",
+    "showtimes": [
+      {
+        "datetime": "2025-11-05T19:00:00.000Z",
+        "display_text": "Wednesday November 05, 2025 at 19:00",
+        "movie_id": "5631",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/1188",
+        "api_data": {
+          "id": 1188,
+          "movieId": 5631,
+          "movieVersionId": 313,
+          "startTime": "2025-11-05T19:00:00.000Z",
+          "endTime": "2025-11-05T20:47:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5631,
+            "title": "Predator: Badlands",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5631/posters/1756809400983-vvna7u.jpg",
+            "movieVersions": [
+              {
+                "duration": 107,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 313,
+            "duration": 107,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "English subtitles"
+          ],
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-11-05T19:00:00",
+        "normalized_date": "05.11",
+        "normalized_time": "19:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2025-10-23T06:22:04.976481",
+    "source": "biorio",
+    "tmdb": {
+      "id": 1242898,
+      "title": "Predator: Badlands",
+      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+      "release_date": "2025-11-05",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Action",
+        "Science Fiction"
+      ],
+      "poster_path": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "backdrop_path": "/e0Z7TWHJrd7vk4kKS9HoxmHaake.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/e0Z7TWHJrd7vk4kKS9HoxmHaake.jpg",
+      "imdb_id": "tt31227572",
+      "runtime": 106,
+      "budget": 0,
       "revenue": 0
     }
   },
@@ -669,7 +761,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-22T06:22:30.663940",
+    "scraped_at": "2025-10-23T06:22:19.194479",
     "source": "biorio",
     "tmdb": {
       "id": 125974,

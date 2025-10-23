@@ -14,8 +14,8 @@
         "date": "",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5598",
-        "normalized_datetime": "2025-10-22T17:00:00",
-        "normalized_date": "22.10",
+        "normalized_datetime": "2025-10-23T17:00:00",
+        "normalized_date": "23.10",
         "normalized_time": "17:00"
       }
     ],
@@ -25,23 +25,21 @@
     "scraped_at": "2025-10-19T06:25:41.045550+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 369620,
+      "id": 1129215,
       "title": "Meat",
-      "overview": "Brilliant, brutal and shocking drama starring Jonny Lee Miller and John Simm, following an ex-convict who falls for a prostitute, but makes a dangerous enemy of her pimp.",
-      "release_date": "1994-09-25",
-      "rating": 4.0,
-      "vote_count": 2,
+      "overview": "Behind the closed doors of an elite boarding school, Matthews and his friends are cruising through life - but when a weekend joyride ends in disaster, he has to deal with the guilt that consumes him.",
+      "release_date": "2015-09-19",
+      "rating": 2.0,
+      "vote_count": 1,
       "genres": [
-        "Drama",
-        "Crime",
-        "TV Movie"
+        "Drama"
       ],
-      "poster_path": "/zL2Y7DokeBcJHyFtTHv3oDVbkBC.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zL2Y7DokeBcJHyFtTHv3oDVbkBC.jpg",
+      "poster_path": "/j99XNBGPG9mY5vmQVCcPdiW7Fz2.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/j99XNBGPG9mY5vmQVCcPdiW7Fz2.jpg",
       "backdrop_path": null,
       "backdrop_url": null,
-      "imdb_id": "tt0134816",
-      "runtime": 84,
+      "imdb_id": "tt4231422",
+      "runtime": 10,
       "budget": 0,
       "revenue": 0
     }
