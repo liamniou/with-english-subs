@@ -1,45 +1,45 @@
 [
   {
-    "film_id": "meat",
-    "url": "https://zita.se/meat",
-    "title": "Meat",
+    "film_id": "a-rare-grand-alignment",
+    "url": "https://zita.se/a-rare-grand-alignment",
+    "title": "A Rare Grand Alignment",
     "director": "",
-    "genre": "Grekland20241 jan 2024104 minDramaFrån 15 årFolkets Bio StockholmGrekiskaEngelska",
+    "genre": "Finland202398 minThrillerFrån 15 årEngelska, Norska, FinskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "17:00",
-        "time": "17:00",
+        "display_text": "18:00",
+        "time": "18:00",
         "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5598",
-        "normalized_datetime": "2025-10-23T17:00:00",
-        "normalized_date": "23.10",
-        "normalized_time": "17:00"
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5658",
+        "normalized_datetime": "2025-10-24T18:00:00",
+        "normalized_date": "24.10",
+        "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-10-19T06:25:41.045550+00:00",
+    "scraped_at": "2025-10-24T06:25:39.963714+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1129215,
-      "title": "Meat",
-      "overview": "Behind the closed doors of an elite boarding school, Matthews and his friends are cruising through life - but when a weekend joyride ends in disaster, he has to deal with the guilt that consumes him.",
-      "release_date": "2015-09-19",
-      "rating": 2.0,
-      "vote_count": 1,
+      "id": 1056841,
+      "title": "A Rare Grand Alignment",
+      "overview": "In the winter of 1982, three American boys find themselves stranded in a cable car with a dead body, suspended midair in the mountains of Norway during a rare celestial event.",
+      "release_date": "2024-10-03",
+      "rating": 0.0,
+      "vote_count": 0,
       "genres": [
-        "Drama"
+        "Thriller"
       ],
-      "poster_path": "/j99XNBGPG9mY5vmQVCcPdiW7Fz2.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/j99XNBGPG9mY5vmQVCcPdiW7Fz2.jpg",
+      "poster_path": "/kAtUDiv9BZzsusE9Hld6xiAlwqQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kAtUDiv9BZzsusE9Hld6xiAlwqQ.jpg",
       "backdrop_path": null,
       "backdrop_url": null,
-      "imdb_id": "tt4231422",
-      "runtime": 10,
+      "imdb_id": "tt12209830",
+      "runtime": 93,
       "budget": 0,
       "revenue": 0
     }
