@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-24T06:22:38.062342",
+    "scraped_at": "2025-10-25T06:20:46.327925",
     "tmdb": {
       "id": 1481312,
       "title": "Manji",
@@ -52,14 +52,14 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-10-24T06:22:43.409848",
+    "scraped_at": "2025-10-25T06:20:53.107345",
     "tmdb": {
       "id": 434773,
       "title": "On the Beach at Night Alone",
       "overview": "Young-hee, an actress reeling in the aftermath of an affair with a married film director, escapes to Hamburg. But when she returns to Korea and meets with friends for drinks, startling confessions emerge.",
       "release_date": "2017-03-23",
-      "rating": 6.543,
-      "vote_count": 151,
+      "rating": 6.52,
+      "vote_count": 152,
       "genres": [
         "Drama"
       ],
@@ -90,14 +90,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-24T06:22:56.522068",
+    "scraped_at": "2025-10-25T06:21:09.256786",
     "tmdb": {
       "id": 103753,
       "title": "In Another Country",
       "overview": "A young woman and her mother run away to the seaside town of Mohang to escape their mounting debt. The young woman begins writing a script for a short film in order to calm her nerves: There are three women named Anne, and each woman consecutively visits the seaside town of Mohang. A young woman tends to the small hotel by the Mohang foreshore owned by her parents. A certain lifeguard can be seen restlessly wandering up and down the beach that lies nearby. Each Anne stays at this small hotel, receives some assistance from the owner’s daughter, and ventures onto the beach where they meet the lifeguard.",
       "release_date": "2012-05-31",
-      "rating": 6.2,
-      "vote_count": 114,
+      "rating": 6.126,
+      "vote_count": 115,
       "genres": [
         "Drama"
       ],
@@ -128,7 +128,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-24T06:23:01.802824",
+    "scraped_at": "2025-10-25T06:21:15.921951",
     "tmdb": {
       "id": 353225,
       "title": "Ludwig",
@@ -166,14 +166,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-24T06:23:10.696722",
+    "scraped_at": "2025-10-25T06:21:27.360883",
     "tmdb": {
       "id": 8422,
       "title": "Rocco and His Brothers",
       "overview": "When a impoverished widow’s family moves to the big city, two of her five sons become romantic rivals with deadly results.",
       "release_date": "1960-10-07",
-      "rating": 8.0,
-      "vote_count": 631,
+      "rating": 7.998,
+      "vote_count": 633,
       "genres": [
         "Drama",
         "Romance"
@@ -205,7 +205,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-24T06:23:19.786597",
+    "scraped_at": "2025-10-25T06:21:38.782821",
     "tmdb": {
       "id": 230893,
       "title": "Scénario de 'Sauve qui peut la vie'",
@@ -243,14 +243,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-24T06:23:32.458549",
+    "scraped_at": "2025-10-25T06:21:54.381857",
     "tmdb": {
       "id": 86262,
       "title": "Like You Know It All",
       "overview": "A South Korean art house film director is first invited to serve on the panel of a film festival, then to guest lecture at a film school.",
       "release_date": "2009-05-14",
-      "rating": 5.9,
-      "vote_count": 34,
+      "rating": 5.743,
+      "vote_count": 35,
       "genres": [
         "Drama",
         "Comedy"
@@ -282,14 +282,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-24T06:23:54.664863",
+    "scraped_at": "2025-10-25T06:22:22.330816",
     "tmdb": {
       "id": 5155,
       "title": "Obsession",
       "overview": "Gino, a drifter, begins an affair with inn-owner Giovanna as they plan to get rid of her older husband.",
       "release_date": "1944-04-08",
-      "rating": 7.525,
-      "vote_count": 259,
+      "rating": 7.5,
+      "vote_count": 262,
       "genres": [
         "Crime",
         "Drama",
@@ -322,7 +322,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-24T06:24:01.988336",
+    "scraped_at": "2025-10-25T06:22:31.248202",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -360,7 +360,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-10-24T06:24:16.629247"
+    "scraped_at": "2025-10-25T06:22:49.529512"
   },
   {
     "film_id": "13931",
@@ -379,14 +379,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-24T06:24:25.831819",
+    "scraped_at": "2025-10-25T06:23:00.827600",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
       "overview": "Alma, alone in her big townhouse, and Mina, a single mother from a housing project in another city, have organized their lives around the prison visits they make to their respective partners. When the two women meet in the room outside the visiting area, an unlikely friendship begins...",
       "release_date": "2024-08-28",
-      "rating": 5.8,
-      "vote_count": 23,
+      "rating": 5.848,
+      "vote_count": 24,
       "genres": [
         "Drama"
       ],
@@ -417,14 +417,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-24T06:24:36.952876",
+    "scraped_at": "2025-10-25T06:23:14.383195",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
       "overview": "Stymied by writer's block while crafting his latest script, director Kim Jung-rae persuades his friend Won Chang-wook to drive him to a beach resort where he promptly becomes involved with Chang-wook's girlfriend. Abandoning her and taking up with another woman, Jung-rae winds up creating enough drama to inspire his writing.",
       "release_date": "2006-08-31",
-      "rating": 6.3,
-      "vote_count": 35,
+      "rating": 6.181,
+      "vote_count": 36,
       "genres": [
         "Drama"
       ],
@@ -455,14 +455,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-24T06:24:40.366027",
+    "scraped_at": "2025-10-25T06:23:18.428637",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
       "overview": "In rural Sicily, the fishermen live at the mercy of the greedy wholesalers. One family risks everything to buy their own boat and operate independently.",
       "release_date": "1949-12-03",
-      "rating": 7.7,
-      "vote_count": 166,
+      "rating": 7.695,
+      "vote_count": 167,
       "genres": [
         "Drama"
       ],
@@ -493,7 +493,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-24T06:24:49.338287",
+    "scraped_at": "2025-10-25T06:23:29.521882",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -531,7 +531,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-24T06:25:00.221476",
+    "scraped_at": "2025-10-25T06:23:43.216857",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -569,14 +569,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-24T06:25:03.611413",
+    "scraped_at": "2025-10-25T06:23:47.421427",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
       "overview": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return.",
       "release_date": "1957-11-14",
-      "rating": 7.466,
-      "vote_count": 236,
+      "rating": 7.439,
+      "vote_count": 238,
       "genres": [
         "Drama",
         "Romance"
@@ -608,7 +608,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-24T06:25:14.569532",
+    "scraped_at": "2025-10-25T06:24:01.038199",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -646,6 +646,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-24T06:25:17.954785"
+    "scraped_at": "2025-10-25T06:24:05.210089"
   }
 ]

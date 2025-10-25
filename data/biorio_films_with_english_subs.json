@@ -69,15 +69,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-24T06:20:48.400746",
+    "scraped_at": "2025-10-25T06:19:07.165775",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
       "title": "Tokyo Godfathers",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
-      "rating": 7.9,
-      "vote_count": 1403,
+      "rating": 7.912,
+      "vote_count": 1405,
       "genres": [
         "Animation",
         "Drama",
@@ -160,15 +160,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-24T06:21:14.784134",
+    "scraped_at": "2025-10-25T06:19:26.536556",
     "source": "biorio",
     "tmdb": {
       "id": 1218925,
       "title": "Chainsaw Man - The Movie: Reze Arc",
       "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
       "release_date": "2025-09-19",
-      "rating": 8.244,
-      "vote_count": 43,
+      "rating": 8.109,
+      "vote_count": 55,
       "genres": [
         "Animation",
         "Action",
@@ -255,15 +255,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-24T06:21:22.942316",
+    "scraped_at": "2025-10-25T06:19:35.183481",
     "source": "biorio",
     "tmdb": {
       "id": 77174,
       "title": "ParaNorman",
       "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
       "release_date": "2012-08-03",
-      "rating": 7.012,
-      "vote_count": 2653,
+      "rating": 7.0,
+      "vote_count": 2656,
       "genres": [
         "Family",
         "Animation",
@@ -272,8 +272,8 @@
       ],
       "poster_path": "/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
-      "backdrop_path": "/cXPOtGdWhx9MNMOOQCIFjnKBPoi.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cXPOtGdWhx9MNMOOQCIFjnKBPoi.jpg",
+      "backdrop_path": "/fRhpdmaA1wTAboeiKW2ZHvDezIm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fRhpdmaA1wTAboeiKW2ZHvDezIm.jpg",
       "imdb_id": "tt1623288",
       "runtime": 90,
       "budget": 60000000,
@@ -350,15 +350,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-24T06:21:24.201404",
+    "scraped_at": "2025-10-25T06:19:36.618470",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
       "title": "Häxan",
       "overview": "Grave robbing, torture, possessed nuns, and a satanic Sabbath: Benjamin Christensen's legendary film uses a series of dramatic vignettes to explore the scientific hypothesis that the witches of the Middle Ages suffered the same hysteria as turn-of-the-century psychiatric patients. But the film itself is far from serious-- instead it's a witches' brew of the scary, gross, and darkly humorous.",
       "release_date": "1922-09-18",
-      "rating": 7.622,
-      "vote_count": 406,
+      "rating": 7.629,
+      "vote_count": 408,
       "genres": [
         "Documentary",
         "Horror",
@@ -443,7 +443,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-24T06:21:29.471388",
+    "scraped_at": "2025-10-25T06:19:39.413992",
     "source": "biorio",
     "tmdb": {
       "id": 1242898,
@@ -761,7 +761,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-24T06:21:40.914495",
+    "scraped_at": "2025-10-25T06:19:47.361634",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
