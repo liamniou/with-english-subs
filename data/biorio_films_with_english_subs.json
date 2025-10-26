@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-25T06:19:07.165775",
+    "scraped_at": "2025-10-26T06:19:26.449656",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -160,15 +160,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-25T06:19:26.536556",
+    "scraped_at": "2025-10-26T06:19:42.744730",
     "source": "biorio",
     "tmdb": {
       "id": 1218925,
       "title": "Chainsaw Man - The Movie: Reze Arc",
       "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
       "release_date": "2025-09-19",
-      "rating": 8.109,
-      "vote_count": 55,
+      "rating": 8.077,
+      "vote_count": 65,
       "genres": [
         "Animation",
         "Action",
@@ -182,102 +182,6 @@
       "runtime": 100,
       "budget": 0,
       "revenue": 51524244
-    }
-  },
-  {
-    "film_id": "paranorman",
-    "url": "https://www.biorio.se/movies/paranorman",
-    "title": "ParaNorman",
-    "director": "Sam Fell",
-    "showtimes": [
-      {
-        "datetime": "2025-10-25T08:30:00.000Z",
-        "display_text": "Saturday October 25, 2025 at 08:30",
-        "movie_id": "5636",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/957",
-        "api_data": {
-          "id": 957,
-          "movieId": 5636,
-          "movieVersionId": 318,
-          "startTime": "2025-10-25T08:30:00.000Z",
-          "endTime": "2025-10-25T10:14:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": "Engelska",
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": "2025-09-12T13:00:00.000Z",
-          "includeInReport": true,
-          "movie": {
-            "id": 5636,
-            "title": "ParaNorman",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5636/posters/1757508434697-wa46b8.jpg",
-            "movieVersions": [
-              {
-                "duration": 104,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 318,
-            "duration": 104,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 3,
-              "name": "Frukostbio"
-            }
-          ],
-          "tags": [
-            "reRUN",
-            "Frukostbio",
-            "Trick or Treat"
-          ],
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-10-25T08:30:00",
-        "normalized_date": "25.10",
-        "normalized_time": "08:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2025-10-25T06:19:35.183481",
-    "source": "biorio",
-    "tmdb": {
-      "id": 77174,
-      "title": "ParaNorman",
-      "overview": "In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.",
-      "release_date": "2012-08-03",
-      "rating": 7.0,
-      "vote_count": 2656,
-      "genres": [
-        "Family",
-        "Animation",
-        "Adventure",
-        "Comedy"
-      ],
-      "poster_path": "/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
-      "backdrop_path": "/fRhpdmaA1wTAboeiKW2ZHvDezIm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fRhpdmaA1wTAboeiKW2ZHvDezIm.jpg",
-      "imdb_id": "tt1623288",
-      "runtime": 90,
-      "budget": 60000000,
-      "revenue": 107139399
     }
   },
   {
@@ -350,14 +254,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-25T06:19:36.618470",
+    "scraped_at": "2025-10-26T06:19:51.966056",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
       "title": "Häxan",
       "overview": "Grave robbing, torture, possessed nuns, and a satanic Sabbath: Benjamin Christensen's legendary film uses a series of dramatic vignettes to explore the scientific hypothesis that the witches of the Middle Ages suffered the same hysteria as turn-of-the-century psychiatric patients. But the film itself is far from serious-- instead it's a witches' brew of the scary, gross, and darkly humorous.",
       "release_date": "1922-09-18",
-      "rating": 7.629,
+      "rating": 7.6,
       "vote_count": 408,
       "genres": [
         "Documentary",
@@ -443,7 +347,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-25T06:19:39.413992",
+    "scraped_at": "2025-10-26T06:19:57.157670",
     "source": "biorio",
     "tmdb": {
       "id": 1242898,
@@ -761,7 +665,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-25T06:19:47.361634",
+    "scraped_at": "2025-10-26T06:20:06.660437",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
