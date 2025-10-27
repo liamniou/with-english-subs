@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:19:26.449656",
+    "scraped_at": "2025-10-27T06:23:41.911106",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -160,19 +160,21 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:19:42.744730",
+    "scraped_at": "2025-10-27T06:23:53.114363",
     "source": "biorio",
     "tmdb": {
       "id": 1218925,
       "title": "Chainsaw Man - The Movie: Reze Arc",
       "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
       "release_date": "2025-09-19",
-      "rating": 8.077,
-      "vote_count": 65,
+      "rating": 8.04,
+      "vote_count": 75,
       "genres": [
         "Animation",
         "Action",
-        "Fantasy"
+        "Romance",
+        "Fantasy",
+        "Horror"
       ],
       "poster_path": "/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
@@ -254,7 +256,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:19:51.966056",
+    "scraped_at": "2025-10-27T06:23:59.780104",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -347,7 +349,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:19:57.157670",
+    "scraped_at": "2025-10-27T06:24:02.147979",
     "source": "biorio",
     "tmdb": {
       "id": 1242898,
@@ -665,7 +667,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:20:06.660437",
+    "scraped_at": "2025-10-27T06:24:08.072465",
     "source": "biorio",
     "tmdb": {
       "id": 125974,

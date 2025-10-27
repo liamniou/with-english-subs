@@ -1,99 +1,5 @@
 [
   {
-    "film_id": "rosemarys-baby",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Rosemary’s Baby",
-    "director": "Roman Polański",
-    "duration": "2h 17 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2025-10-26T10:30:00+01:00",
-        "display_text": "Söndag, 26th Oktober 10:30",
-        "time": "10:30",
-        "date_section": "Söndag, 26th Oktober",
-        "ticket_url": "https://biofagelbla.se/movie/rosemarys-baby/?showtime=48703",
-        "showtime_id": "48703",
-        "normalized_datetime": "2025-10-26T10:30:00",
-        "normalized_date": "26.10",
-        "normalized_time": "10:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-10-26T06:24:19.617278+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 805,
-      "title": "Rosemary's Baby",
-      "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
-      "release_date": "1968-06-12",
-      "rating": 7.825,
-      "vote_count": 4165,
-      "genres": [
-        "Drama",
-        "Horror",
-        "Thriller"
-      ],
-      "poster_path": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
-      "backdrop_path": "/qszuXKhzYR24oRpsmh7eZaPbvL8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qszuXKhzYR24oRpsmh7eZaPbvL8.jpg",
-      "imdb_id": "tt0063522",
-      "runtime": 138,
-      "budget": 3200000,
-      "revenue": 33395426
-    }
-  },
-  {
-    "film_id": "the-serpents-egg",
-    "url": "https://biofagelbla.se/program/",
-    "title": "The Serpent’s Egg",
-    "director": "Ingmar Bergman",
-    "duration": "",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2025-10-27T17:30:00+01:00",
-        "display_text": "Måndag, 27th Oktober 17:30",
-        "time": "17:30",
-        "date_section": "Måndag, 27th Oktober",
-        "ticket_url": "https://biofagelbla.se/movie/the-serpents-egg/?showtime=48442",
-        "showtime_id": "48442",
-        "normalized_datetime": "2025-10-27T17:30:00",
-        "normalized_date": "27.10",
-        "normalized_time": "17:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-10-26T06:24:19.617505+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 47474,
-      "title": "The Serpent's Egg",
-      "overview": "In 1923 Berlin, following the suicide of his brother, an American acrobat struggles to survive while facing unemployment, depression, alcoholism, and the social decay of Germany during the Weimar Republic.",
-      "release_date": "1977-10-28",
-      "rating": 6.25,
-      "vote_count": 120,
-      "genres": [
-        "Mystery",
-        "Drama",
-        "Thriller"
-      ],
-      "poster_path": "/n7z0doFkXHcvo8QQWHLFnkEPXRU.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/n7z0doFkXHcvo8QQWHLFnkEPXRU.jpg",
-      "backdrop_path": "/luHUQITsjkkRzStHlkbEejatTx.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/luHUQITsjkkRzStHlkbEejatTx.jpg",
-      "imdb_id": "tt0076686",
-      "runtime": 120,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "faust",
     "url": "https://biofagelbla.se/program/",
     "title": "Faust",
@@ -116,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.617681+00:00",
+    "scraped_at": "2025-10-27T06:27:10.412506+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -138,54 +44,6 @@
       "runtime": 116,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "hyresgästen",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Hyresgästen",
-    "director": "Roman Polański",
-    "duration": "2h 6 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2025-10-29T17:30:00+01:00",
-        "display_text": "Onsdag, 29th Oktober 17:30",
-        "time": "17:30",
-        "date_section": "Onsdag, 29th Oktober",
-        "ticket_url": "https://biofagelbla.se/movie/the-tenant/?showtime=48753",
-        "showtime_id": "48753",
-        "normalized_datetime": "2025-10-29T17:30:00",
-        "normalized_date": "29.10",
-        "normalized_time": "17:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-10-26T06:24:19.617840+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 11482,
-      "title": "The Tenant",
-      "overview": "A quiet and inconspicuous man rents an apartment in Paris where he finds himself drawn into a rabbit hole of dangerous paranoia.",
-      "release_date": "1976-05-26",
-      "rating": 7.617,
-      "vote_count": 1180,
-      "genres": [
-        "Thriller",
-        "Horror",
-        "Mystery",
-        "Drama"
-      ],
-      "poster_path": "/4Qhzb1ICFMqE3isWoln497qSH7n.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4Qhzb1ICFMqE3isWoln497qSH7n.jpg",
-      "backdrop_path": "/w2jKdLXZXz93X9ynjHs9MoR3UKF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/w2jKdLXZXz93X9ynjHs9MoR3UKF.jpg",
-      "imdb_id": "tt0074811",
-      "runtime": 126,
-      "budget": 0,
-      "revenue": 5100000
     }
   },
   {
@@ -211,14 +69,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.618089+00:00",
+    "scraped_at": "2025-10-27T06:27:10.412884+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 755,
       "title": "From Dusk Till Dawn",
       "overview": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
       "release_date": "1996-01-19",
-      "rating": 7.029,
+      "rating": 7.0,
       "vote_count": 6223,
       "genres": [
         "Horror",
@@ -259,7 +117,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.618372+00:00",
+    "scraped_at": "2025-10-27T06:27:10.413203+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 16372,
@@ -306,7 +164,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.618563+00:00",
+    "scraped_at": "2025-10-27T06:27:10.413399+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -337,21 +195,21 @@
     "language": "Svensk",
     "showtimes": [
       {
-        "datetime": "2025-11-10T17:45:00+01:00",
-        "display_text": "Måndag, 10th November 17:45",
-        "time": "17:45",
+        "datetime": "2025-11-10T17:40:00+01:00",
+        "display_text": "Måndag, 10th November 17:40",
+        "time": "17:40",
         "date_section": "Måndag, 10th November",
         "ticket_url": "https://biofagelbla.se/movie/beroringen/?showtime=48444",
         "showtime_id": "48444",
-        "normalized_datetime": "2025-11-10T17:45:00",
+        "normalized_datetime": "2025-11-10T17:40:00",
         "normalized_date": "10.11",
-        "normalized_time": "17:45"
+        "normalized_time": "17:40"
       }
     ],
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.619504+00:00",
+    "scraped_at": "2025-10-27T06:27:10.414014+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -397,7 +255,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.619654+00:00",
+    "scraped_at": "2025-10-27T06:27:10.414224+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 21135,
@@ -443,7 +301,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.619824+00:00",
+    "scraped_at": "2025-10-27T06:27:10.414545+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -489,7 +347,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.619974+00:00",
+    "scraped_at": "2025-10-27T06:27:10.414819+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
@@ -497,7 +355,7 @@
       "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
       "release_date": "1997-12-20",
       "rating": 8.44,
-      "vote_count": 13589,
+      "vote_count": 13591,
       "genres": [
         "Comedy",
         "Drama"
@@ -535,7 +393,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.620121+00:00",
+    "scraped_at": "2025-10-27T06:27:10.415119+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -582,7 +440,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.620400+00:00",
+    "scraped_at": "2025-10-27T06:27:10.415571+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -629,7 +487,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.620629+00:00",
+    "scraped_at": "2025-10-27T06:27:10.415895+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -675,15 +533,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.620770+00:00",
+    "scraped_at": "2025-10-27T06:27:10.416101+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 5279,
       "title": "Gosford Park",
       "overview": "In 1930s England, a group of pretentious rich and famous gather together for a weekend of relaxation at a hunting resort. But when a murder occurs, each one of these interesting characters becomes a suspect.",
       "release_date": "2001-12-26",
-      "rating": 6.822,
-      "vote_count": 1166,
+      "rating": 6.8,
+      "vote_count": 1167,
       "genres": [
         "Drama",
         "Mystery",
@@ -722,7 +580,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.620885+00:00",
+    "scraped_at": "2025-10-27T06:27:10.416282+00:00",
     "source": "fagelbla"
   },
   {
@@ -748,15 +606,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.621053+00:00",
+    "scraped_at": "2025-10-27T06:27:10.416524+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 8321,
       "title": "In Bruges",
       "overview": "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.",
       "release_date": "2008-02-08",
-      "rating": 7.493,
-      "vote_count": 5478,
+      "rating": 7.5,
+      "vote_count": 5480,
       "genres": [
         "Comedy",
         "Drama",
@@ -795,7 +653,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.621160+00:00",
+    "scraped_at": "2025-10-27T06:27:10.416638+00:00",
     "source": "fagelbla"
   },
   {
@@ -821,7 +679,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.621284+00:00",
+    "scraped_at": "2025-10-27T06:27:10.416793+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 114034,
@@ -866,7 +724,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.621511+00:00",
+    "scraped_at": "2025-10-27T06:27:10.417002+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 52331,
@@ -913,7 +771,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.621657+00:00",
+    "scraped_at": "2025-10-27T06:27:10.417126+00:00",
     "source": "fagelbla"
   },
   {
@@ -939,15 +797,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.621840+00:00",
+    "scraped_at": "2025-10-27T06:27:10.417261+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 562,
       "title": "Die Hard",
       "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her offices Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
       "release_date": "1988-07-15",
-      "rating": 7.8,
-      "vote_count": 11742,
+      "rating": 7.802,
+      "vote_count": 11743,
       "genres": [
         "Action",
         "Thriller"
@@ -985,7 +843,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.622005+00:00",
+    "scraped_at": "2025-10-27T06:27:10.417412+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1585,
@@ -1032,7 +890,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.622106+00:00",
+    "scraped_at": "2025-10-27T06:27:10.417579+00:00",
     "source": "fagelbla"
   },
   {
@@ -1058,7 +916,54 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-26T06:24:19.622253+00:00",
+    "scraped_at": "2025-10-27T06:27:10.417719+00:00",
     "source": "fagelbla"
+  },
+  {
+    "film_id": "breakfast-at-tiffanys",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Breakfast at Tiffany’s",
+    "director": "William McGarry, Blake Edwards",
+    "duration": "1h 55 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2025-12-27T10:30:00+01:00",
+        "display_text": "Lördag, 27th December 10:30",
+        "time": "10:30",
+        "date_section": "Lördag, 27th December",
+        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=51280",
+        "showtime_id": "51280",
+        "normalized_datetime": "2025-12-27T10:30:00",
+        "normalized_date": "27.12",
+        "normalized_time": "10:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2025-10-27T06:27:10.417889+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 164,
+      "title": "Breakfast at Tiffany's",
+      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+      "release_date": "1961-10-06",
+      "rating": 7.637,
+      "vote_count": 4341,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "imdb_id": "tt0054698",
+      "runtime": 115,
+      "budget": 2500000,
+      "revenue": 9500000
+    }
   }
 ]
