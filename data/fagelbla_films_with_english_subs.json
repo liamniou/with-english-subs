@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.412506+00:00",
+    "scraped_at": "2025-10-28T06:27:11.457073+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10728,
@@ -44,6 +44,54 @@
       "runtime": 116,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "hyresgästen",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Hyresgästen",
+    "director": "Roman Polański",
+    "duration": "2h 6 mins",
+    "language": "Franska",
+    "showtimes": [
+      {
+        "datetime": "2025-10-29T17:30:00+01:00",
+        "display_text": "Onsdag, 29th Oktober 17:30",
+        "time": "17:30",
+        "date_section": "Onsdag, 29th Oktober",
+        "ticket_url": "https://biofagelbla.se/movie/the-tenant/?showtime=48753",
+        "showtime_id": "48753",
+        "normalized_datetime": "2025-10-29T17:30:00",
+        "normalized_date": "29.10",
+        "normalized_time": "17:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2025-10-28T06:27:11.457293+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 11482,
+      "title": "The Tenant",
+      "overview": "A quiet and inconspicuous man rents an apartment in Paris where he finds himself drawn into a rabbit hole of dangerous paranoia.",
+      "release_date": "1976-05-26",
+      "rating": 7.617,
+      "vote_count": 1182,
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Mystery",
+        "Drama"
+      ],
+      "poster_path": "/4Qhzb1ICFMqE3isWoln497qSH7n.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4Qhzb1ICFMqE3isWoln497qSH7n.jpg",
+      "backdrop_path": "/w2jKdLXZXz93X9ynjHs9MoR3UKF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/w2jKdLXZXz93X9ynjHs9MoR3UKF.jpg",
+      "imdb_id": "tt0074811",
+      "runtime": 126,
+      "budget": 0,
+      "revenue": 5100000
     }
   },
   {
@@ -69,15 +117,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.412884+00:00",
+    "scraped_at": "2025-10-28T06:27:11.457600+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 755,
       "title": "From Dusk Till Dawn",
       "overview": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
       "release_date": "1996-01-19",
-      "rating": 7.0,
-      "vote_count": 6223,
+      "rating": 7.029,
+      "vote_count": 6225,
       "genres": [
         "Horror",
         "Action",
@@ -117,14 +165,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.413203+00:00",
+    "scraped_at": "2025-10-28T06:27:11.457921+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 16372,
       "title": "The Innocents",
       "overview": "A young governess for two children becomes convinced that the house and grounds are haunted by ghosts and that the children are being possessed.",
       "release_date": "1961-11-24",
-      "rating": 7.465,
+      "rating": 7.5,
       "vote_count": 635,
       "genres": [
         "Horror",
@@ -164,14 +212,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.413399+00:00",
+    "scraped_at": "2025-10-28T06:27:11.458134+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.142,
+      "rating": 8.1,
       "vote_count": 2320,
       "genres": [
         "Drama"
@@ -209,7 +257,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.414014+00:00",
+    "scraped_at": "2025-10-28T06:27:11.458832+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -255,7 +303,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.414224+00:00",
+    "scraped_at": "2025-10-28T06:27:11.459054+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 21135,
@@ -301,15 +349,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.414545+00:00",
+    "scraped_at": "2025-10-28T06:27:11.459244+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
       "title": "Amélie",
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
-      "rating": 7.913,
-      "vote_count": 11981,
+      "rating": 7.9,
+      "vote_count": 11982,
       "genres": [
         "Comedy",
         "Romance"
@@ -347,7 +395,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.414819+00:00",
+    "scraped_at": "2025-10-28T06:27:11.459451+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
@@ -355,7 +403,7 @@
       "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
       "release_date": "1997-12-20",
       "rating": 8.44,
-      "vote_count": 13591,
+      "vote_count": 13594,
       "genres": [
         "Comedy",
         "Drama"
@@ -393,7 +441,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.415119+00:00",
+    "scraped_at": "2025-10-28T06:27:11.459627+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -440,7 +488,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.415571+00:00",
+    "scraped_at": "2025-10-28T06:27:11.459907+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -487,7 +535,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.415895+00:00",
+    "scraped_at": "2025-10-28T06:27:11.460081+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -533,15 +581,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.416101+00:00",
+    "scraped_at": "2025-10-28T06:27:11.460237+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 5279,
       "title": "Gosford Park",
       "overview": "In 1930s England, a group of pretentious rich and famous gather together for a weekend of relaxation at a hunting resort. But when a murder occurs, each one of these interesting characters becomes a suspect.",
       "release_date": "2001-12-26",
-      "rating": 6.8,
-      "vote_count": 1167,
+      "rating": 6.822,
+      "vote_count": 1169,
       "genres": [
         "Drama",
         "Mystery",
@@ -580,7 +628,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.416282+00:00",
+    "scraped_at": "2025-10-28T06:27:11.460491+00:00",
     "source": "fagelbla"
   },
   {
@@ -606,15 +654,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.416524+00:00",
+    "scraped_at": "2025-10-28T06:27:11.460666+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 8321,
       "title": "In Bruges",
       "overview": "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.",
       "release_date": "2008-02-08",
-      "rating": 7.5,
-      "vote_count": 5480,
+      "rating": 7.493,
+      "vote_count": 5481,
       "genres": [
         "Comedy",
         "Drama",
@@ -653,7 +701,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.416638+00:00",
+    "scraped_at": "2025-10-28T06:27:11.460785+00:00",
     "source": "fagelbla"
   },
   {
@@ -679,7 +727,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.416793+00:00",
+    "scraped_at": "2025-10-28T06:27:11.460910+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 114034,
@@ -724,7 +772,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.417002+00:00",
+    "scraped_at": "2025-10-28T06:27:11.461119+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 52331,
@@ -771,7 +819,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.417126+00:00",
+    "scraped_at": "2025-10-28T06:27:11.461243+00:00",
     "source": "fagelbla"
   },
   {
@@ -797,15 +845,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.417261+00:00",
+    "scraped_at": "2025-10-28T06:27:11.461407+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 562,
       "title": "Die Hard",
       "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her offices Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
       "release_date": "1988-07-15",
-      "rating": 7.802,
-      "vote_count": 11743,
+      "rating": 7.8,
+      "vote_count": 11746,
       "genres": [
         "Action",
         "Thriller"
@@ -843,14 +891,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.417412+00:00",
+    "scraped_at": "2025-10-28T06:27:11.461589+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1585,
       "title": "It's a Wonderful Life",
       "overview": "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
       "release_date": "1946-12-20",
-      "rating": 8.3,
+      "rating": 8.273,
       "vote_count": 4625,
       "genres": [
         "Drama",
@@ -890,7 +938,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.417579+00:00",
+    "scraped_at": "2025-10-28T06:27:11.461760+00:00",
     "source": "fagelbla"
   },
   {
@@ -916,7 +964,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.417719+00:00",
+    "scraped_at": "2025-10-28T06:27:11.461885+00:00",
     "source": "fagelbla"
   },
   {
@@ -942,7 +990,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-10-27T06:27:10.417889+00:00",
+    "scraped_at": "2025-10-28T06:27:11.462009+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,

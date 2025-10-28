@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-10-27T06:24:34.829094",
+    "scraped_at": "2025-10-28T06:24:25.732331",
     "tmdb": {
       "id": 434773,
       "title": "On the Beach at Night Alone",
@@ -54,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-27T06:24:48.715538",
+    "scraped_at": "2025-10-28T06:24:40.091988",
     "tmdb": {
       "id": 103753,
       "title": "In Another Country",
@@ -92,7 +92,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-27T06:24:53.783686",
+    "scraped_at": "2025-10-28T06:24:45.886378",
     "tmdb": {
       "id": 353225,
       "title": "Ludwig",
@@ -130,7 +130,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-27T06:25:03.238338",
+    "scraped_at": "2025-10-28T06:24:55.230983",
     "tmdb": {
       "id": 8422,
       "title": "Rocco and His Brothers",
@@ -169,7 +169,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-27T06:25:11.881438",
+    "scraped_at": "2025-10-28T06:25:04.488375",
     "tmdb": {
       "id": 230893,
       "title": "Scénario de 'Sauve qui peut la vie'",
@@ -207,7 +207,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-27T06:25:24.422572",
+    "scraped_at": "2025-10-28T06:25:17.209533",
     "tmdb": {
       "id": 86262,
       "title": "Like You Know It All",
@@ -246,7 +246,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-27T06:25:45.442807",
+    "scraped_at": "2025-10-28T06:25:39.602909",
     "tmdb": {
       "id": 5155,
       "title": "Obsession",
@@ -286,7 +286,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-27T06:25:52.421781",
+    "scraped_at": "2025-10-28T06:25:46.775432",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -324,7 +324,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-10-27T06:26:06.222575"
+    "scraped_at": "2025-10-28T06:26:01.666229"
   },
   {
     "film_id": "13931",
@@ -343,7 +343,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-27T06:26:14.639581",
+    "scraped_at": "2025-10-28T06:26:10.750113",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -381,7 +381,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-27T06:26:24.629964",
+    "scraped_at": "2025-10-28T06:26:21.618429",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -419,7 +419,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-27T06:26:27.849830",
+    "scraped_at": "2025-10-28T06:26:25.012069",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -457,7 +457,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-27T06:26:36.016204",
+    "scraped_at": "2025-10-28T06:26:34.021210",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -495,7 +495,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-27T06:26:46.305246",
+    "scraped_at": "2025-10-28T06:26:44.941585",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -533,7 +533,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-27T06:26:49.331709",
+    "scraped_at": "2025-10-28T06:26:48.430485",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -572,7 +572,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-27T06:26:59.526189",
+    "scraped_at": "2025-10-28T06:26:59.218540",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -610,6 +610,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-27T06:27:02.784831"
+    "scraped_at": "2025-10-28T06:27:02.719230"
   }
 ]
