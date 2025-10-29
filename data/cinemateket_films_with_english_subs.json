@@ -1,43 +1,5 @@
 [
   {
-    "film_id": "13959",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13959&cityId=1",
-    "title": "Originaltitel: Bamui haebyun-eoseo honja",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "tis 28/10 kl. 18:00",
-        "normalized_datetime": "2025-10-28T18:00:00",
-        "normalized_date": "28.10",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Mauritz"
-    ],
-    "scraped_at": "2025-10-28T06:24:25.732331",
-    "tmdb": {
-      "id": 434773,
-      "title": "On the Beach at Night Alone",
-      "overview": "Young-hee, an actress reeling in the aftermath of an affair with a married film director, escapes to Hamburg. But when she returns to Korea and meets with friends for drinks, startling confessions emerge.",
-      "release_date": "2017-03-23",
-      "rating": 6.52,
-      "vote_count": 152,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/mprIyn1rl5ukAVP9Vi9ZaRKtKkw.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mprIyn1rl5ukAVP9Vi9ZaRKtKkw.jpg",
-      "backdrop_path": "/tncYCCUZn8fI5XNYvOUnnaMYEHY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tncYCCUZn8fI5XNYvOUnnaMYEHY.jpg",
-      "imdb_id": "tt6412864",
-      "runtime": 101,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "13929",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13929&cityId=1",
     "title": "Originaltitel: Da-reun na-ra-e-seo",
@@ -54,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-28T06:24:40.091988",
+    "scraped_at": "2025-10-29T06:24:54.952849",
     "tmdb": {
       "id": 103753,
       "title": "In Another Country",
@@ -92,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-28T06:24:45.886378",
+    "scraped_at": "2025-10-29T06:25:01.164481",
     "tmdb": {
       "id": 353225,
       "title": "Ludwig",
@@ -130,7 +92,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-28T06:24:55.230983",
+    "scraped_at": "2025-10-29T06:25:12.934730",
     "tmdb": {
       "id": 8422,
       "title": "Rocco and His Brothers",
@@ -169,7 +131,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-28T06:25:04.488375",
+    "scraped_at": "2025-10-29T06:25:23.749974",
     "tmdb": {
       "id": 230893,
       "title": "Scénario de 'Sauve qui peut la vie'",
@@ -207,7 +169,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-28T06:25:17.209533",
+    "scraped_at": "2025-10-29T06:25:38.967213",
     "tmdb": {
       "id": 86262,
       "title": "Like You Know It All",
@@ -246,7 +208,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-28T06:25:39.602909",
+    "scraped_at": "2025-10-29T06:26:05.422241",
     "tmdb": {
       "id": 5155,
       "title": "Obsession",
@@ -286,7 +248,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-28T06:25:46.775432",
+    "scraped_at": "2025-10-29T06:26:13.972825",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -324,7 +286,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-10-28T06:26:01.666229"
+    "scraped_at": "2025-10-29T06:26:31.582758"
   },
   {
     "film_id": "13931",
@@ -343,7 +305,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-28T06:26:10.750113",
+    "scraped_at": "2025-10-29T06:26:42.310748",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -381,7 +343,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-28T06:26:21.618429",
+    "scraped_at": "2025-10-29T06:26:55.479621",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -419,7 +381,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-28T06:26:25.012069",
+    "scraped_at": "2025-10-29T06:26:59.441928",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -457,7 +419,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-28T06:26:34.021210",
+    "scraped_at": "2025-10-29T06:27:10.110808",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -495,7 +457,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-28T06:26:44.941585",
+    "scraped_at": "2025-10-29T06:27:23.330045",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -533,14 +495,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-28T06:26:48.430485",
+    "scraped_at": "2025-10-29T06:27:27.190237",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
       "overview": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return.",
       "release_date": "1957-11-14",
-      "rating": 7.439,
-      "vote_count": 238,
+      "rating": 7.441,
+      "vote_count": 239,
       "genres": [
         "Drama",
         "Romance"
@@ -572,7 +534,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-28T06:26:59.218540",
+    "scraped_at": "2025-10-29T06:27:39.995493",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -610,6 +572,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-28T06:27:02.719230"
+    "scraped_at": "2025-10-29T06:27:43.912602"
   }
 ]

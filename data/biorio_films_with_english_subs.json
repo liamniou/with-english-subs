@@ -1,5 +1,95 @@
 [
   {
+    "film_id": "the-doors-when-youre-strange",
+    "url": "https://www.biorio.se/movies/the-doors-when-youre-strange",
+    "title": "The Doors: When You’re Strange",
+    "director": "Tom DiCillo",
+    "showtimes": [
+      {
+        "datetime": "2025-12-04T17:00:00.000Z",
+        "display_text": "Thursday December 04, 2025 at 17:00",
+        "movie_id": "5688",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/1213",
+        "api_data": {
+          "id": 1213,
+          "movieId": 5688,
+          "movieVersionId": 371,
+          "startTime": "2025-12-04T17:00:00.000Z",
+          "endTime": "2025-12-04T18:36:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5688,
+            "title": "The Doors: When You’re Strange",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1761299449571-400879890-1-%281%29.jpg",
+            "movieVersions": [
+              {
+                "duration": 96,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 371,
+            "duration": 96,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-12-04T17:00:00",
+        "normalized_date": "04.12",
+        "normalized_time": "17:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2025-10-29T06:22:41.618381",
+    "source": "biorio",
+    "tmdb": {
+      "id": 37659,
+      "title": "When You're Strange",
+      "overview": "The creative chemistry of four brilliant artists —drummer John Densmore, guitarist Robby Kreiger, keyboardist Ray Manzarek and singer Jim Morrison— made The Doors one of America's most iconic and influential rock bands. Using footage shot between their formation in 1965 and Morrison's death in 1971, it follows the band from the corridors of UCLA's film school, where Manzarek and Morrison met, to the stages of sold-out arenas.",
+      "release_date": "2010-04-09",
+      "rating": 7.3,
+      "vote_count": 218,
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "poster_path": "/yd5X8f1mt13ETAWLI7dp0MEEZLL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yd5X8f1mt13ETAWLI7dp0MEEZLL.jpg",
+      "backdrop_path": "/vP7V2cb4xNovVxblCWTychWtBN3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vP7V2cb4xNovVxblCWTychWtBN3.jpg",
+      "imdb_id": "tt1333667",
+      "runtime": 86,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
     "film_id": "tokyo-godfathers",
     "url": "https://www.biorio.se/movies/tokyo-godfathers",
     "title": "Tokyo Godfathers",
@@ -69,7 +159,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-28T06:22:38.396800",
+    "scraped_at": "2025-10-29T06:22:59.474702",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -160,26 +250,25 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-28T06:22:59.391382",
+    "scraped_at": "2025-10-29T06:23:28.700855",
     "source": "biorio",
     "tmdb": {
       "id": 1218925,
       "title": "Chainsaw Man - The Movie: Reze Arc",
       "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
       "release_date": "2025-09-19",
-      "rating": 8.1,
-      "vote_count": 81,
+      "rating": 8.088,
+      "vote_count": 85,
       "genres": [
         "Animation",
         "Action",
         "Romance",
-        "Fantasy",
-        "Horror"
+        "Fantasy"
       ],
       "poster_path": "/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
-      "backdrop_path": "/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
+      "backdrop_path": "/r3d74bF46TkiNX8kyOk1AeD9k0n.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/r3d74bF46TkiNX8kyOk1AeD9k0n.jpg",
       "imdb_id": "tt30472557",
       "runtime": 100,
       "budget": 0,
@@ -256,15 +345,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-28T06:23:15.208143",
+    "scraped_at": "2025-10-29T06:23:37.784363",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
       "title": "Häxan",
       "overview": "Grave robbing, torture, possessed nuns, and a satanic Sabbath: Benjamin Christensen's legendary film uses a series of dramatic vignettes to explore the scientific hypothesis that the witches of the Middle Ages suffered the same hysteria as turn-of-the-century psychiatric patients. But the film itself is far from serious-- instead it's a witches' brew of the scary, gross, and darkly humorous.",
       "release_date": "1922-09-18",
-      "rating": 7.6,
-      "vote_count": 408,
+      "rating": 7.63,
+      "vote_count": 409,
       "genres": [
         "Documentary",
         "Horror",
@@ -349,7 +438,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-28T06:23:19.740715",
+    "scraped_at": "2025-10-29T06:23:43.144585",
     "source": "biorio",
     "tmdb": {
       "id": 1242898,
@@ -367,7 +456,7 @@
       "backdrop_path": "/e0Z7TWHJrd7vk4kKS9HoxmHaake.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/e0Z7TWHJrd7vk4kKS9HoxmHaake.jpg",
       "imdb_id": "tt31227572",
-      "runtime": 106,
+      "runtime": 107,
       "budget": 0,
       "revenue": 0
     }
@@ -605,69 +694,12 @@
         "normalized_datetime": "2025-10-30T19:10:00",
         "normalized_date": "30.10",
         "normalized_time": "19:10"
-      },
-      {
-        "datetime": "2025-10-28T19:15:00.000Z",
-        "display_text": "Tuesday October 28, 2025 at 19:15",
-        "movie_id": "5619",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/866",
-        "api_data": {
-          "id": 866,
-          "movieId": 5619,
-          "movieVersionId": 301,
-          "startTime": "2025-10-28T19:15:00.000Z",
-          "endTime": "2025-10-28T20:50:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": "2025-09-16T22:00:00.000Z",
-          "includeInReport": true,
-          "movie": {
-            "id": 5619,
-            "title": "Depeche Mode: M",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1755763526774-816632596-Depeche-Mode.webp",
-            "movieVersions": [
-              {
-                "duration": 95,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 301,
-            "duration": 95,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-10-28T19:15:00",
-        "normalized_date": "28.10",
-        "normalized_time": "19:15"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-28T06:23:31.811716",
+    "scraped_at": "2025-10-29T06:23:54.608701",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
