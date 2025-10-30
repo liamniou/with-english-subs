@@ -66,15 +66,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-29T06:22:41.618381",
+    "scraped_at": "2025-10-30T06:21:24.505064",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
       "title": "When You're Strange",
       "overview": "The creative chemistry of four brilliant artists —drummer John Densmore, guitarist Robby Kreiger, keyboardist Ray Manzarek and singer Jim Morrison— made The Doors one of America's most iconic and influential rock bands. Using footage shot between their formation in 1965 and Morrison's death in 1971, it follows the band from the corridors of UCLA's film school, where Manzarek and Morrison met, to the stages of sold-out arenas.",
       "release_date": "2010-04-09",
-      "rating": 7.3,
-      "vote_count": 218,
+      "rating": 7.304,
+      "vote_count": 219,
       "genres": [
         "Documentary",
         "Music"
@@ -95,6 +95,66 @@
     "title": "Tokyo Godfathers",
     "director": "Satoshi Kon",
     "showtimes": [
+      {
+        "datetime": "2025-12-18T17:00:00.000Z",
+        "display_text": "Thursday December 18, 2025 at 17:00",
+        "movie_id": "5678",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/1219",
+        "api_data": {
+          "id": 1219,
+          "movieId": 5678,
+          "movieVersionId": 361,
+          "startTime": "2025-12-18T17:00:00.000Z",
+          "endTime": "2025-12-18T18:32:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5678,
+            "title": "Tokyo Godfathers",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5678/posters/1760104162969-hsupo8.jpg",
+            "movieVersions": [
+              {
+                "duration": 92,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 361,
+            "duration": 92,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "reRUN",
+            "Snowtime"
+          ],
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-12-18T17:00:00",
+        "normalized_date": "18.12",
+        "normalized_time": "17:00"
+      },
       {
         "datetime": "2025-12-03T17:00:00.000Z",
         "display_text": "Wednesday December 03, 2025 at 17:00",
@@ -159,7 +219,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-29T06:22:59.474702",
+    "scraped_at": "2025-10-30T06:21:35.279494",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -181,98 +241,6 @@
       "runtime": 92,
       "budget": 0,
       "revenue": 607735
-    }
-  },
-  {
-    "film_id": "chainsaw-man",
-    "url": "https://www.biorio.se/movies/chainsaw-man",
-    "title": "Chainsaw Man",
-    "director": "Tatsuya Yoshihara",
-    "showtimes": [
-      {
-        "datetime": "2025-10-29T19:30:00.000Z",
-        "display_text": "Wednesday October 29, 2025 at 19:30",
-        "movie_id": "5648",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/1092",
-        "api_data": {
-          "id": 1092,
-          "movieId": 5648,
-          "movieVersionId": 330,
-          "startTime": "2025-10-29T19:30:00.000Z",
-          "endTime": "2025-10-29T21:10:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5648,
-            "title": "Chainsaw Man",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5648/posters/1758538518462-r6ekq.jpg",
-            "movieVersions": [
-              {
-                "duration": 100,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 330,
-            "duration": 100,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-10-29T19:30:00",
-        "normalized_date": "29.10",
-        "normalized_time": "19:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2025-10-29T06:23:28.700855",
-    "source": "biorio",
-    "tmdb": {
-      "id": 1218925,
-      "title": "Chainsaw Man - The Movie: Reze Arc",
-      "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
-      "release_date": "2025-09-19",
-      "rating": 8.088,
-      "vote_count": 85,
-      "genres": [
-        "Animation",
-        "Action",
-        "Romance",
-        "Fantasy"
-      ],
-      "poster_path": "/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
-      "backdrop_path": "/r3d74bF46TkiNX8kyOk1AeD9k0n.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/r3d74bF46TkiNX8kyOk1AeD9k0n.jpg",
-      "imdb_id": "tt30472557",
-      "runtime": 100,
-      "budget": 0,
-      "revenue": 51524244
     }
   },
   {
@@ -345,7 +313,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-29T06:23:37.784363",
+    "scraped_at": "2025-10-30T06:22:07.491976",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -438,7 +406,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-29T06:23:43.144585",
+    "scraped_at": "2025-10-30T06:22:11.573361",
     "source": "biorio",
     "tmdb": {
       "id": 1242898,
@@ -699,7 +667,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-29T06:23:54.608701",
+    "scraped_at": "2025-10-30T06:22:23.498557",
     "source": "biorio",
     "tmdb": {
       "id": 125974,

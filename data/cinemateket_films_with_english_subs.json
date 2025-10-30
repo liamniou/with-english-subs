@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-29T06:24:54.952849",
+    "scraped_at": "2025-10-30T06:23:12.531287",
     "tmdb": {
       "id": 103753,
       "title": "In Another Country",
@@ -54,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-29T06:25:01.164481",
+    "scraped_at": "2025-10-30T06:23:19.067130",
     "tmdb": {
       "id": 353225,
       "title": "Ludwig",
@@ -92,7 +92,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-29T06:25:12.934730",
+    "scraped_at": "2025-10-30T06:23:30.225624",
     "tmdb": {
       "id": 8422,
       "title": "Rocco and His Brothers",
@@ -131,7 +131,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-29T06:25:23.749974",
+    "scraped_at": "2025-10-30T06:23:41.292661",
     "tmdb": {
       "id": 230893,
       "title": "Scénario de 'Sauve qui peut la vie'",
@@ -169,7 +169,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-29T06:25:38.967213",
+    "scraped_at": "2025-10-30T06:23:56.412287",
     "tmdb": {
       "id": 86262,
       "title": "Like You Know It All",
@@ -208,7 +208,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-29T06:26:05.422241",
+    "scraped_at": "2025-10-30T06:24:23.178360",
     "tmdb": {
       "id": 5155,
       "title": "Obsession",
@@ -248,7 +248,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-29T06:26:13.972825",
+    "scraped_at": "2025-10-30T06:24:31.754445",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -286,7 +286,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-10-29T06:26:31.582758"
+    "scraped_at": "2025-10-30T06:24:49.492373"
   },
   {
     "film_id": "13931",
@@ -305,7 +305,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-29T06:26:42.310748",
+    "scraped_at": "2025-10-30T06:25:00.373774",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -343,7 +343,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-29T06:26:55.479621",
+    "scraped_at": "2025-10-30T06:25:13.378369",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -381,7 +381,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-29T06:26:59.441928",
+    "scraped_at": "2025-10-30T06:25:17.396173",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -419,7 +419,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-29T06:27:10.110808",
+    "scraped_at": "2025-10-30T06:25:28.122413",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -457,7 +457,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-29T06:27:23.330045",
+    "scraped_at": "2025-10-30T06:25:41.223577",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -495,7 +495,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-29T06:27:27.190237",
+    "scraped_at": "2025-10-30T06:25:45.234915",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -534,7 +534,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-29T06:27:39.995493",
+    "scraped_at": "2025-10-30T06:25:58.396243",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -572,6 +572,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-10-29T06:27:43.912602"
+    "scraped_at": "2025-10-30T06:26:02.407425"
   }
 ]
