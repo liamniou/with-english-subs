@@ -66,7 +66,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-30T06:21:24.505064",
+    "scraped_at": "2025-10-31T06:21:27.324879",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -85,6 +85,98 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/vP7V2cb4xNovVxblCWTychWtBN3.jpg",
       "imdb_id": "tt1333667",
       "runtime": 86,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "jujutsu-kaisen-execution",
+    "url": "https://www.biorio.se/movies/jujutsu-kaisen-execution",
+    "title": "JUJUTSU KAISEN: Execution",
+    "director": "Shota Goshozono",
+    "showtimes": [
+      {
+        "datetime": "2025-11-29T19:20:00.000Z",
+        "display_text": "Saturday November 29, 2025 at 19:20",
+        "movie_id": "5687",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/1231",
+        "api_data": {
+          "id": 1231,
+          "movieId": 5687,
+          "movieVersionId": 370,
+          "startTime": "2025-11-29T19:20:00.000Z",
+          "endTime": "2025-11-29T20:50:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5687,
+            "title": "JUJUTSU KAISEN: Execution",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5687/posters/1761143875323-d4m9e.jpg",
+            "movieVersions": [
+              {
+                "duration": 90,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 370,
+            "duration": 90,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "English subtitles"
+          ],
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-11-29T19:20:00",
+        "normalized_date": "29.11",
+        "normalized_time": "19:20"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2025-10-31T06:21:29.379057",
+    "source": "biorio",
+    "tmdb": {
+      "id": 1539104,
+      "title": "JUJUTSU KAISEN: Execution -Shibuya Incident x The Culling Game Begins-",
+      "overview": "A veil abruptly descends over the busy Shibuya area amid the bustling Halloween crowds, trapping countless civilians inside. Satoru Gojo, the strongest jujutsu sorcerer, steps into the chaos. But lying in wait are curse users and spirits scheming to seal him away. Yuji Itadori, accompanied by his classmates and other top-tier jujutsu sorcerers, enters the fray in an unprecedented clash of curses — the Shibuya Incident. In the aftermath, ten colonies across Japan are transformed into dens of curses in a plan orchestrated by Noritoshi Kamo. As the deadly Culling Game starts, Special Grade sorcerer Yuta Okkotsu is assigned to carry out Yuji's execution for his perceived crimes. A compilation movie of Shibuya Incident including the first two episodes of the Culling Games arc.",
+      "release_date": "2025-11-07",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Animation",
+        "Action"
+      ],
+      "poster_path": "/tc7RrVW5FGvyO2tsgW6LIN1esHI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tc7RrVW5FGvyO2tsgW6LIN1esHI.jpg",
+      "backdrop_path": "/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
+      "imdb_id": "tt38121182",
+      "runtime": 0,
       "budget": 0,
       "revenue": 0
     }
@@ -219,7 +311,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-30T06:21:35.279494",
+    "scraped_at": "2025-10-31T06:21:40.515401",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -313,7 +405,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-30T06:22:07.491976",
+    "scraped_at": "2025-10-31T06:22:34.435659",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -321,7 +413,7 @@
       "overview": "Grave robbing, torture, possessed nuns, and a satanic Sabbath: Benjamin Christensen's legendary film uses a series of dramatic vignettes to explore the scientific hypothesis that the witches of the Middle Ages suffered the same hysteria as turn-of-the-century psychiatric patients. But the film itself is far from serious-- instead it's a witches' brew of the scary, gross, and darkly humorous.",
       "release_date": "1922-09-18",
       "rating": 7.63,
-      "vote_count": 409,
+      "vote_count": 410,
       "genres": [
         "Documentary",
         "Horror",
@@ -406,23 +498,23 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-30T06:22:11.573361",
+    "scraped_at": "2025-10-31T06:22:37.393456",
     "source": "biorio",
     "tmdb": {
       "id": 1242898,
       "title": "Predator: Badlands",
       "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
       "release_date": "2025-11-05",
-      "rating": 0.0,
-      "vote_count": 0,
+      "rating": 8.0,
+      "vote_count": 2,
       "genres": [
         "Action",
         "Science Fiction"
       ],
-      "poster_path": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
-      "backdrop_path": "/e0Z7TWHJrd7vk4kKS9HoxmHaake.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/e0Z7TWHJrd7vk4kKS9HoxmHaake.jpg",
+      "poster_path": "/zxhavGoVhMW08rtOyJ0W5GmYtGG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zxhavGoVhMW08rtOyJ0W5GmYtGG.jpg",
+      "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
       "imdb_id": "tt31227572",
       "runtime": 107,
       "budget": 0,
@@ -605,69 +697,12 @@
         "normalized_datetime": "2025-11-03T17:00:00",
         "normalized_date": "03.11",
         "normalized_time": "17:00"
-      },
-      {
-        "datetime": "2025-10-30T19:10:00.000Z",
-        "display_text": "Thursday October 30, 2025 at 19:10",
-        "movie_id": "5619",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/867",
-        "api_data": {
-          "id": 867,
-          "movieId": 5619,
-          "movieVersionId": 301,
-          "startTime": "2025-10-30T19:10:00.000Z",
-          "endTime": "2025-10-30T20:45:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": "2025-09-16T22:00:00.000Z",
-          "includeInReport": true,
-          "movie": {
-            "id": 5619,
-            "title": "Depeche Mode: M",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1755763526774-816632596-Depeche-Mode.webp",
-            "movieVersions": [
-              {
-                "duration": 95,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 301,
-            "duration": 95,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-10-30T19:10:00",
-        "normalized_date": "30.10",
-        "normalized_time": "19:10"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-10-30T06:22:23.498557",
+    "scraped_at": "2025-10-31T06:22:50.664882",
     "source": "biorio",
     "tmdb": {
       "id": 125974,

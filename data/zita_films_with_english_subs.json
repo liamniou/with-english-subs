@@ -1,47 +1,48 @@
 [
   {
-    "film_id": "a-rare-grand-alignment",
-    "url": "https://zita.se/a-rare-grand-alignment",
-    "title": "A Rare Grand Alignment",
+    "film_id": "låt-den-rätte-komma-in",
+    "url": "https://zita.se/lat-den-ratte",
+    "title": "Låt den rätte komma in",
     "director": "",
-    "genre": "Finland202398 minThrillerFrån 15 årEngelska, Norska, FinskaEngelska",
+    "genre": "Sverige20081 jan 2023114 minSkräck, thriller, dramaFrån 15 årSvenskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "18:00",
-        "time": "18:00",
+        "display_text": "20:30",
+        "time": "20:30",
         "date": "",
         "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5658",
-        "normalized_datetime": "2025-10-30T18:00:00",
-        "normalized_date": "30.10",
-        "normalized_time": "18:00"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5641",
+        "normalized_datetime": "2025-10-31T20:30:00",
+        "normalized_date": "31.10",
+        "normalized_time": "20:30"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-10-24T06:25:39.963714+00:00",
+    "scraped_at": "2025-10-31T06:27:33.619669+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1056841,
-      "title": "A Rare Grand Alignment",
-      "overview": "In the winter of 1982, three American boys find themselves stranded in a cable car with a dead body, suspended midair in the mountains of Norway during a rare celestial event.",
-      "release_date": "2024-10-03",
-      "rating": 0.0,
-      "vote_count": 0,
+      "id": 13310,
+      "title": "Let the Right One In",
+      "overview": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl.",
+      "release_date": "2008-10-24",
+      "rating": 7.541,
+      "vote_count": 3101,
       "genres": [
-        "Thriller"
+        "Horror",
+        "Drama"
       ],
-      "poster_path": "/kAtUDiv9BZzsusE9Hld6xiAlwqQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kAtUDiv9BZzsusE9Hld6xiAlwqQ.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt12209830",
-      "runtime": 93,
-      "budget": 0,
-      "revenue": 0
+      "poster_path": "/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
+      "backdrop_path": "/zIXJ7MJKdEHYw5epU8pxYiYY698.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/zIXJ7MJKdEHYw5epU8pxYiYY698.jpg",
+      "imdb_id": "tt1139797",
+      "runtime": 115,
+      "budget": 4000000,
+      "revenue": 10785801
     }
   }
 ]
