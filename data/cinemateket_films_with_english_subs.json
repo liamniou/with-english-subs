@@ -1,43 +1,5 @@
 [
   {
-    "film_id": "13929",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13929&cityId=1",
-    "title": "Originaltitel: Da-reun na-ra-e-seo",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "lör 1/11 kl. 18:30",
-        "normalized_datetime": "2025-11-01T18:30:00",
-        "normalized_date": "01.11",
-        "normalized_time": "18:30"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2025-11-01T06:20:27.155299",
-    "tmdb": {
-      "id": 103753,
-      "title": "In Another Country",
-      "overview": "A young woman and her mother run away to the seaside town of Mohang to escape their mounting debt. The young woman begins writing a script for a short film in order to calm her nerves: There are three women named Anne, and each woman consecutively visits the seaside town of Mohang. A young woman tends to the small hotel by the Mohang foreshore owned by her parents. A certain lifeguard can be seen restlessly wandering up and down the beach that lies nearby. Each Anne stays at this small hotel, receives some assistance from the owner’s daughter, and ventures onto the beach where they meet the lifeguard.",
-      "release_date": "2012-05-31",
-      "rating": 6.126,
-      "vote_count": 115,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/k3yhKHTkMzmgHyN5uArZNqxNoq.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/k3yhKHTkMzmgHyN5uArZNqxNoq.jpg",
-      "backdrop_path": "/1LypzdyfUOxSfuJk5S5hiXORDn3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1LypzdyfUOxSfuJk5S5hiXORDn3.jpg",
-      "imdb_id": "tt1989712",
-      "runtime": 89,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "3204",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=3204&cityId=1",
     "title": "Originaltitel: Ludwig",
@@ -54,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-01T06:20:32.455779",
+    "scraped_at": "2025-11-02T06:22:25.882772",
     "tmdb": {
       "id": 353225,
       "title": "Ludwig",
@@ -92,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-01T06:20:42.250730",
+    "scraped_at": "2025-11-02T06:22:35.127689",
     "tmdb": {
       "id": 8422,
       "title": "Rocco and His Brothers",
@@ -131,7 +93,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-01T06:20:51.158081",
+    "scraped_at": "2025-11-02T06:22:44.062578",
     "tmdb": {
       "id": 230893,
       "title": "Scénario de 'Sauve qui peut la vie'",
@@ -169,7 +131,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-01T06:21:03.719938",
+    "scraped_at": "2025-11-02T06:22:57.001846",
     "tmdb": {
       "id": 86262,
       "title": "Like You Know It All",
@@ -208,7 +170,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-01T06:21:25.137785",
+    "scraped_at": "2025-11-02T06:23:17.875122",
     "tmdb": {
       "id": 5155,
       "title": "Obsession",
@@ -248,7 +210,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-01T06:21:32.051299",
+    "scraped_at": "2025-11-02T06:23:24.525767",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -286,7 +248,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-11-01T06:21:46.170808"
+    "scraped_at": "2025-11-02T06:23:38.097493"
   },
   {
     "film_id": "13931",
@@ -305,7 +267,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-01T06:21:54.938180",
+    "scraped_at": "2025-11-02T06:23:46.438617",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -343,7 +305,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-01T06:22:05.397352",
+    "scraped_at": "2025-11-02T06:23:57.360813",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -381,7 +343,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-01T06:22:08.629508",
+    "scraped_at": "2025-11-02T06:24:00.424969",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -419,7 +381,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-01T06:22:17.177059",
+    "scraped_at": "2025-11-02T06:24:08.918633",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -457,7 +419,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-01T06:22:27.679353",
+    "scraped_at": "2025-11-02T06:24:19.048634",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -495,7 +457,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-01T06:22:30.786327",
+    "scraped_at": "2025-11-02T06:24:22.090645",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -534,7 +496,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-01T06:22:41.131549",
+    "scraped_at": "2025-11-02T06:24:32.316956",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -572,6 +534,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-01T06:22:44.407738"
+    "scraped_at": "2025-11-02T06:24:35.368134"
   }
 ]

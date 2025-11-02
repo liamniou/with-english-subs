@@ -66,7 +66,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-01T06:19:02.609176",
+    "scraped_at": "2025-11-02T06:20:11.993139",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -158,7 +158,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-01T06:19:04.393630",
+    "scraped_at": "2025-11-02T06:20:19.363218",
     "source": "biorio",
     "tmdb": {
       "id": 1539104,
@@ -311,7 +311,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-01T06:19:10.209805",
+    "scraped_at": "2025-11-02T06:20:32.135297",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -405,7 +405,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-01T06:19:37.520161",
+    "scraped_at": "2025-11-02T06:21:23.691276",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -498,23 +498,23 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-01T06:19:39.937009",
+    "scraped_at": "2025-11-02T06:21:28.162239",
     "source": "biorio",
     "tmdb": {
       "id": 1242898,
       "title": "Predator: Badlands",
       "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
       "release_date": "2025-11-05",
-      "rating": 8.7,
-      "vote_count": 3,
+      "rating": 9.2,
+      "vote_count": 5,
       "genres": [
         "Action",
         "Science Fiction",
         "Adventure",
         "Thriller"
       ],
-      "poster_path": "/s4LOi1nn6PemZLSG46g3MkwUKyF.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/s4LOi1nn6PemZLSG46g3MkwUKyF.jpg",
+      "poster_path": "/hiD9PSPrZhWDB9ubTuVdq7uLx5s.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hiD9PSPrZhWDB9ubTuVdq7uLx5s.jpg",
       "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
       "imdb_id": "tt31227572",
@@ -704,7 +704,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-01T06:19:52.703529",
+    "scraped_at": "2025-11-02T06:21:45.529364",
     "source": "biorio",
     "tmdb": {
       "id": 125974,

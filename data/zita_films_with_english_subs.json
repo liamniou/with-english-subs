@@ -1,48 +1,50 @@
 [
   {
-    "film_id": "låt-den-rätte-komma-in",
-    "url": "https://zita.se/lat-den-ratte",
-    "title": "Låt den rätte komma in",
+    "film_id": "sista-vittnet",
+    "url": "https://zita.se/sista-vittnet",
+    "title": "Sista vittnet",
     "director": "",
-    "genre": "Sverige20081 jan 2023114 minSkräck, thriller, dramaFrån 15 årSvenskaEngelska",
+    "genre": "The Parallax ViewUSA19741 jan 1974102 minPolitisk thrillerFrån 15 årFolkets Bio StockholmEngelskaEngelska",
     "duration": "",
     "showtimes": [
       {
-        "datetime": "",
-        "display_text": "20:30",
-        "time": "20:30",
-        "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5641",
-        "normalized_datetime": "2025-11-01T20:30:00",
-        "normalized_date": "01.11",
-        "normalized_time": "20:30"
+        "datetime": "2025-12-01T20:00:00",
+        "display_text": "mån 1 dec 20:00",
+        "time": "20:00",
+        "date": "mån 1 dec",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5652",
+        "normalized_datetime": "2025-12-01T20:00:00",
+        "normalized_date": "01.12",
+        "normalized_time": "20:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-10-31T06:27:33.619669+00:00",
+    "scraped_at": "2025-11-02T06:25:18.459830+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 13310,
-      "title": "Let the Right One In",
-      "overview": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl.",
-      "release_date": "2008-10-24",
-      "rating": 7.541,
-      "vote_count": 3101,
+      "id": 137190,
+      "title": "Beck 16 - The Last Witness",
+      "overview": "A series of grisly murders where the victims faces have been removed by acid starts to turn up around Stockholm. Detective Martin Beck and Gunvald Larsson are once again drawn into the darkness.",
+      "release_date": "2002-04-17",
+      "rating": 6.5,
+      "vote_count": 30,
       "genres": [
-        "Horror",
-        "Drama"
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
       ],
-      "poster_path": "/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
-      "backdrop_path": "/zIXJ7MJKdEHYw5epU8pxYiYY698.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/zIXJ7MJKdEHYw5epU8pxYiYY698.jpg",
-      "imdb_id": "tt1139797",
-      "runtime": 115,
-      "budget": 4000000,
-      "revenue": 10785801
+      "poster_path": "/o4SoVGex5KMgI6fC9UhfIbPguWQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o4SoVGex5KMgI6fC9UhfIbPguWQ.jpg",
+      "backdrop_path": "/uFWAUliquPGCRyxxaYNm6Sc7QzY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/uFWAUliquPGCRyxxaYNm6Sc7QzY.jpg",
+      "imdb_id": "tt0303727",
+      "runtime": 105,
+      "budget": 0,
+      "revenue": 0
     }
   }
 ]
