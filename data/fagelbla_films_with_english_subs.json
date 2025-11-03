@@ -1,52 +1,5 @@
 [
   {
-    "film_id": "the-innocents",
-    "url": "https://biofagelbla.se/program/",
-    "title": "The Innocents",
-    "director": "Jack Clayton",
-    "duration": "1h 39 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2025-11-02T15:30:00+01:00",
-        "display_text": "Söndag, 2nd November 15:30",
-        "time": "15:30",
-        "date_section": "Söndag, 2nd November",
-        "ticket_url": "https://biofagelbla.se/movie/the-innocents/?showtime=48665",
-        "showtime_id": "48665",
-        "normalized_datetime": "2025-11-02T15:30:00",
-        "normalized_date": "02.11",
-        "normalized_time": "15:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-11-02T06:24:43.087985+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 16372,
-      "title": "The Innocents",
-      "overview": "A young governess for two children becomes convinced that the house and grounds are haunted by ghosts and that the children are being possessed.",
-      "release_date": "1961-11-24",
-      "rating": 7.466,
-      "vote_count": 636,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Drama"
-      ],
-      "poster_path": "/idqvLBmlEHUITMnQ0EJ6Yb5TpVw.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/idqvLBmlEHUITMnQ0EJ6Yb5TpVw.jpg",
-      "backdrop_path": "/oog0DJtSuPnWoSTYM7cKmAFbeuU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/oog0DJtSuPnWoSTYM7cKmAFbeuU.jpg",
-      "imdb_id": "tt0055018",
-      "runtime": 100,
-      "budget": 430000,
-      "revenue": 1200000
-    }
-  },
-  {
     "film_id": "persona",
     "url": "https://biofagelbla.se/program/",
     "title": "Persona",
@@ -69,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.088238+00:00",
+    "scraped_at": "2025-11-03T06:27:48.957831+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -77,7 +30,7 @@
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
       "rating": 8.14,
-      "vote_count": 2322,
+      "vote_count": 2323,
       "genres": [
         "Drama"
       ],
@@ -114,7 +67,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.088855+00:00",
+    "scraped_at": "2025-11-03T06:27:48.958490+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 105254,
@@ -160,7 +113,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.089180+00:00",
+    "scraped_at": "2025-11-03T06:27:48.958813+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 21135,
@@ -206,7 +159,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.089404+00:00",
+    "scraped_at": "2025-11-03T06:27:48.959040+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -214,7 +167,7 @@
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
       "rating": 7.913,
-      "vote_count": 11990,
+      "vote_count": 11992,
       "genres": [
         "Comedy",
         "Romance"
@@ -252,7 +205,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.089636+00:00",
+    "scraped_at": "2025-11-03T06:27:48.959226+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
@@ -260,7 +213,7 @@
       "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
       "release_date": "1997-12-20",
       "rating": 8.44,
-      "vote_count": 13604,
+      "vote_count": 13605,
       "genres": [
         "Comedy",
         "Drama"
@@ -298,7 +251,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.089989+00:00",
+    "scraped_at": "2025-11-03T06:27:48.959459+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -345,14 +298,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.090531+00:00",
+    "scraped_at": "2025-11-03T06:27:48.959832+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.636,
+      "rating": 7.6,
       "vote_count": 4342,
       "genres": [
         "Comedy",
@@ -392,7 +345,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.090832+00:00",
+    "scraped_at": "2025-11-03T06:27:48.960011+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -438,7 +391,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.091121+00:00",
+    "scraped_at": "2025-11-03T06:27:48.960188+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 5279,
@@ -485,7 +438,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.091345+00:00",
+    "scraped_at": "2025-11-03T06:27:48.960308+00:00",
     "source": "fagelbla"
   },
   {
@@ -511,7 +464,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.091600+00:00",
+    "scraped_at": "2025-11-03T06:27:48.960453+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 8321,
@@ -519,7 +472,7 @@
       "overview": "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.",
       "release_date": "2008-02-08",
       "rating": 7.495,
-      "vote_count": 5490,
+      "vote_count": 5491,
       "genres": [
         "Comedy",
         "Drama",
@@ -558,7 +511,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.091796+00:00",
+    "scraped_at": "2025-11-03T06:27:48.960559+00:00",
     "source": "fagelbla"
   },
   {
@@ -584,7 +537,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.092029+00:00",
+    "scraped_at": "2025-11-03T06:27:48.960677+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 114034,
@@ -629,7 +582,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.092392+00:00",
+    "scraped_at": "2025-11-03T06:27:48.960982+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 52331,
@@ -676,7 +629,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.092585+00:00",
+    "scraped_at": "2025-11-03T06:27:48.961107+00:00",
     "source": "fagelbla"
   },
   {
@@ -702,7 +655,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.092875+00:00",
+    "scraped_at": "2025-11-03T06:27:48.961272+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 562,
@@ -710,7 +663,7 @@
       "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her offices Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
       "release_date": "1988-07-15",
       "rating": 7.803,
-      "vote_count": 11756,
+      "vote_count": 11757,
       "genres": [
         "Action",
         "Thriller"
@@ -748,14 +701,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.093209+00:00",
+    "scraped_at": "2025-11-03T06:27:48.961438+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1585,
       "title": "It's a Wonderful Life",
       "overview": "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
       "release_date": "1946-12-20",
-      "rating": 8.274,
+      "rating": 8.3,
       "vote_count": 4628,
       "genres": [
         "Drama",
@@ -795,7 +748,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.093401+00:00",
+    "scraped_at": "2025-11-03T06:27:48.961544+00:00",
     "source": "fagelbla"
   },
   {
@@ -821,7 +774,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.093607+00:00",
+    "scraped_at": "2025-11-03T06:27:48.961660+00:00",
     "source": "fagelbla"
   },
   {
@@ -847,14 +800,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:24:43.093840+00:00",
+    "scraped_at": "2025-11-03T06:27:48.961802+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.636,
+      "rating": 7.6,
       "vote_count": 4342,
       "genres": [
         "Comedy",

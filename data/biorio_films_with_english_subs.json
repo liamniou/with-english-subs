@@ -66,7 +66,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:20:11.993139",
+    "scraped_at": "2025-11-03T06:22:57.493519",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -158,7 +158,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:20:19.363218",
+    "scraped_at": "2025-11-03T06:22:59.629862",
     "source": "biorio",
     "tmdb": {
       "id": 1539104,
@@ -311,7 +311,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:20:32.135297",
+    "scraped_at": "2025-11-03T06:23:06.444370",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -405,15 +405,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:21:23.691276",
+    "scraped_at": "2025-11-03T06:23:31.441389",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
       "title": "Häxan",
       "overview": "Grave robbing, torture, possessed nuns, and a satanic Sabbath: Benjamin Christensen's legendary film uses a series of dramatic vignettes to explore the scientific hypothesis that the witches of the Middle Ages suffered the same hysteria as turn-of-the-century psychiatric patients. But the film itself is far from serious-- instead it's a witches' brew of the scary, gross, and darkly humorous.",
       "release_date": "1922-09-18",
-      "rating": 7.63,
-      "vote_count": 410,
+      "rating": 7.6,
+      "vote_count": 411,
       "genres": [
         "Documentary",
         "Horror",
@@ -498,23 +498,23 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:21:28.162239",
+    "scraped_at": "2025-11-03T06:23:34.324614",
     "source": "biorio",
     "tmdb": {
       "id": 1242898,
       "title": "Predator: Badlands",
       "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
       "release_date": "2025-11-05",
-      "rating": 9.2,
-      "vote_count": 5,
+      "rating": 9.4,
+      "vote_count": 7,
       "genres": [
         "Action",
         "Science Fiction",
         "Adventure",
         "Thriller"
       ],
-      "poster_path": "/hiD9PSPrZhWDB9ubTuVdq7uLx5s.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hiD9PSPrZhWDB9ubTuVdq7uLx5s.jpg",
+      "poster_path": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
       "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
       "imdb_id": "tt31227572",
@@ -704,7 +704,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-02T06:21:45.529364",
+    "scraped_at": "2025-11-03T06:23:54.020300",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
