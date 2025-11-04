@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-03T06:28:28.060498+00:00",
+    "scraped_at": "2025-11-04T06:28:00.613166+00:00",
     "source": "zita",
     "tmdb": {
       "id": 137190,
@@ -43,51 +43,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/uFWAUliquPGCRyxxaYNm6Sc7QzY.jpg",
       "imdb_id": "tt0303727",
       "runtime": 105,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "unknown-title",
-    "url": "https://zita.se/undersokning-av-en-medborgare-hojd-over-alla-misstankar",
-    "title": "Unknown Title",
-    "director": "",
-    "genre": "Investigation of a Citizen Above SuspicionInvestigation of a...🔍Italien19701 jan 1970115 minThriller, dramaFrån 15 årFolkets Bio StockholmItalienskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "20:00",
-        "time": "20:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5649",
-        "normalized_datetime": "2025-11-03T20:00:00",
-        "normalized_date": "03.11",
-        "normalized_time": "20:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2025-11-03T06:28:31.990241+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 949470,
-      "title": "Unknown Title",
-      "overview": "A short film by Andrei Ventslova",
-      "release_date": "1988-04-15",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "imdb_id": null,
-      "runtime": 1,
       "budget": 0,
       "revenue": 0
     }

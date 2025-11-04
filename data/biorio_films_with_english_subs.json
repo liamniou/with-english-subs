@@ -1,5 +1,99 @@
 [
   {
+    "film_id": "fanny-och-alexander",
+    "url": "https://www.biorio.se/movies/fanny-och-alexander",
+    "title": "Fanny och Alexander",
+    "director": "Ingmar Bergman",
+    "showtimes": [
+      {
+        "datetime": "2025-12-14T09:30:00.000Z",
+        "display_text": "Sunday December 14, 2025 at 09:30",
+        "movie_id": "5700",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/1241",
+        "api_data": {
+          "id": 1241,
+          "movieId": 5700,
+          "movieVersionId": 383,
+          "startTime": "2025-12-14T09:30:00.000Z",
+          "endTime": "2025-12-14T14:56:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5700,
+            "title": "Fanny och Alexander",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5700/posters/1761743405855-4lb86b.jpg",
+            "movieVersions": [
+              {
+                "duration": 326,
+                "audio": "Svenska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Svenska"
+          },
+          "MovieVersion": {
+            "id": 383,
+            "duration": 326,
+            "subtitles": "Engelska",
+            "audio": "Svenska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 25,
+              "name": "Fanny & Alexander"
+            }
+          ],
+          "tags": [
+            "reRUN",
+            "Snowtime"
+          ],
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-12-14T09:30:00",
+        "normalized_date": "14.12",
+        "normalized_time": "09:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2025-11-04T06:21:50.903436",
+    "source": "biorio",
+    "tmdb": {
+      "id": 5961,
+      "title": "Fanny and Alexander",
+      "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
+      "release_date": "1982-12-17",
+      "rating": 7.8,
+      "vote_count": 829,
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Mystery"
+      ],
+      "poster_path": "/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+      "backdrop_path": "/jVzoKlWUpsKV3y5oLafLQhEvgX6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jVzoKlWUpsKV3y5oLafLQhEvgX6.jpg",
+      "imdb_id": "tt0083922",
+      "runtime": 188,
+      "budget": 6000000,
+      "revenue": 6800000
+    }
+  },
+  {
     "film_id": "the-doors-when-youre-strange",
     "url": "https://www.biorio.se/movies/the-doors-when-youre-strange",
     "title": "The Doors: When You’re Strange",
@@ -66,7 +160,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-03T06:22:57.493519",
+    "scraped_at": "2025-11-04T06:22:08.275285",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -158,7 +252,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-03T06:22:59.629862",
+    "scraped_at": "2025-11-04T06:22:14.003732",
     "source": "biorio",
     "tmdb": {
       "id": 1539104,
@@ -311,7 +405,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-03T06:23:06.444370",
+    "scraped_at": "2025-11-04T06:22:33.221526",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -405,7 +499,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-03T06:23:31.441389",
+    "scraped_at": "2025-11-04T06:23:26.942442",
     "source": "biorio",
     "tmdb": {
       "id": 57283,
@@ -498,23 +592,22 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-03T06:23:34.324614",
+    "scraped_at": "2025-11-04T06:23:31.993826",
     "source": "biorio",
     "tmdb": {
       "id": 1242898,
       "title": "Predator: Badlands",
       "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
       "release_date": "2025-11-05",
-      "rating": 9.4,
-      "vote_count": 7,
+      "rating": 9.333,
+      "vote_count": 9,
       "genres": [
         "Action",
         "Science Fiction",
-        "Adventure",
-        "Thriller"
+        "Adventure"
       ],
-      "poster_path": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "poster_path": "/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
       "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
       "imdb_id": "tt31227572",
@@ -642,69 +735,12 @@
         "normalized_datetime": "2025-11-10T17:00:00",
         "normalized_date": "10.11",
         "normalized_time": "17:00"
-      },
-      {
-        "datetime": "2025-11-03T17:00:00.000Z",
-        "display_text": "Monday November 03, 2025 at 17:00",
-        "movie_id": "5619",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/998",
-        "api_data": {
-          "id": 998,
-          "movieId": 5619,
-          "movieVersionId": 301,
-          "startTime": "2025-11-03T17:00:00.000Z",
-          "endTime": "2025-11-03T18:35:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5619,
-            "title": "Depeche Mode: M",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1755763526774-816632596-Depeche-Mode.webp",
-            "movieVersions": [
-              {
-                "duration": 95,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 301,
-            "duration": 95,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-11-03T17:00:00",
-        "normalized_date": "03.11",
-        "normalized_time": "17:00"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-03T06:23:54.020300",
+    "scraped_at": "2025-11-04T06:23:42.531127",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
