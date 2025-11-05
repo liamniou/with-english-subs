@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-04T06:21:50.903436",
+    "scraped_at": "2025-11-05T06:21:37.016346",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -160,7 +160,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-04T06:22:08.275285",
+    "scraped_at": "2025-11-05T06:21:42.333825",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -252,7 +252,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-04T06:22:14.003732",
+    "scraped_at": "2025-11-05T06:21:45.279502",
     "source": "biorio",
     "tmdb": {
       "id": 1539104,
@@ -405,7 +405,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-04T06:22:33.221526",
+    "scraped_at": "2025-11-05T06:21:53.636871",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -427,100 +427,6 @@
       "runtime": 92,
       "budget": 0,
       "revenue": 607735
-    }
-  },
-  {
-    "film_id": "haxan-1922",
-    "url": "https://www.biorio.se/movies/haxan-1922",
-    "title": "Häxan (1922)",
-    "director": "Benjamin Christensen",
-    "showtimes": [
-      {
-        "datetime": "2025-11-04T17:00:00.000Z",
-        "display_text": "Tuesday November 04, 2025 at 17:00",
-        "movie_id": "5635",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/950",
-        "api_data": {
-          "id": 950,
-          "movieId": 5635,
-          "movieVersionId": 317,
-          "startTime": "2025-11-04T17:00:00.000Z",
-          "endTime": "2025-11-04T18:46:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5635,
-            "title": "Häxan (1922)",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5635/posters/1756986061250-9s8j8.jpg",
-            "movieVersions": [
-              {
-                "duration": 106,
-                "audio": "-",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "-"
-          },
-          "MovieVersion": {
-            "id": 317,
-            "duration": 106,
-            "subtitles": "Engelska",
-            "audio": "-"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [
-            "reRUN",
-            "Trick or Treat"
-          ],
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-11-04T17:00:00",
-        "normalized_date": "04.11",
-        "normalized_time": "17:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2025-11-04T06:23:26.942442",
-    "source": "biorio",
-    "tmdb": {
-      "id": 57283,
-      "title": "Häxan",
-      "overview": "Grave robbing, torture, possessed nuns, and a satanic Sabbath: Benjamin Christensen's legendary film uses a series of dramatic vignettes to explore the scientific hypothesis that the witches of the Middle Ages suffered the same hysteria as turn-of-the-century psychiatric patients. But the film itself is far from serious-- instead it's a witches' brew of the scary, gross, and darkly humorous.",
-      "release_date": "1922-09-18",
-      "rating": 7.6,
-      "vote_count": 411,
-      "genres": [
-        "Documentary",
-        "Horror",
-        "History"
-      ],
-      "poster_path": "/3LtaPLlwlA5HX2FjqAb8lsaBI8P.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3LtaPLlwlA5HX2FjqAb8lsaBI8P.jpg",
-      "backdrop_path": "/gZwQip2KQRDNZZOEDe0Yi25tW9Z.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gZwQip2KQRDNZZOEDe0Yi25tW9Z.jpg",
-      "imdb_id": "tt0013257",
-      "runtime": 105,
-      "budget": 220000,
-      "revenue": 0
     }
   },
   {
@@ -592,15 +498,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-04T06:23:31.993826",
+    "scraped_at": "2025-11-05T06:22:22.732391",
     "source": "biorio",
     "tmdb": {
       "id": 1242898,
       "title": "Predator: Badlands",
       "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
       "release_date": "2025-11-05",
-      "rating": 9.333,
-      "vote_count": 9,
+      "rating": 7.3,
+      "vote_count": 13,
       "genres": [
         "Action",
         "Science Fiction",
@@ -614,6 +520,101 @@
       "runtime": 107,
       "budget": 100000000,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "phantom-of-the-paradise",
+    "url": "https://www.biorio.se/movies/phantom-of-the-paradise",
+    "title": "Phantom of the Paradise",
+    "director": "Brian De Palma",
+    "showtimes": [
+      {
+        "datetime": "2025-11-05T17:00:00.000Z",
+        "display_text": "Wednesday November 05, 2025 at 17:00",
+        "movie_id": "5629",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/922",
+        "api_data": {
+          "id": 922,
+          "movieId": 5629,
+          "movieVersionId": 311,
+          "startTime": "2025-11-05T17:00:00.000Z",
+          "endTime": "2025-11-05T18:32:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": "Svenska",
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5629,
+            "title": "Phantom of the Paradise",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5629/posters/1756725244712-jyuzuh.jpg",
+            "movieVersions": [
+              {
+                "duration": 92,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 311,
+            "duration": 92,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "reRUN",
+            "Trick or Treat",
+            "English subtitles"
+          ],
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-11-05T17:00:00",
+        "normalized_date": "05.11",
+        "normalized_time": "17:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2025-11-05T06:22:24.400820",
+    "source": "biorio",
+    "tmdb": {
+      "id": 27327,
+      "title": "Phantom of the Paradise",
+      "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
+      "release_date": "1974-10-31",
+      "rating": 7.475,
+      "vote_count": 713,
+      "genres": [
+        "Music",
+        "Comedy",
+        "Horror"
+      ],
+      "poster_path": "/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg",
+      "backdrop_path": "/8KgVSZglXRO9Z71rUnhVAvYEmu5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8KgVSZglXRO9Z71rUnhVAvYEmu5.jpg",
+      "imdb_id": "tt0071994",
+      "runtime": 92,
+      "budget": 1300000,
+      "revenue": 250000
     }
   },
   {
@@ -740,7 +741,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-04T06:23:42.531127",
+    "scraped_at": "2025-11-05T06:22:32.476895",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
