@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-05T06:22:58.059411",
+    "scraped_at": "2025-11-06T06:23:23.189771",
     "tmdb": {
       "id": 8422,
       "title": "Rocco and His Brothers",
@@ -55,7 +55,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-05T06:23:08.565508",
+    "scraped_at": "2025-11-06T06:23:35.439511",
     "tmdb": {
       "id": 230893,
       "title": "Scénario de 'Sauve qui peut la vie'",
@@ -93,7 +93,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-05T06:23:23.170183",
+    "scraped_at": "2025-11-06T06:23:50.503793",
     "tmdb": {
       "id": 86262,
       "title": "Like You Know It All",
@@ -132,7 +132,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-05T06:23:47.091880",
+    "scraped_at": "2025-11-06T06:24:16.423276",
     "tmdb": {
       "id": 5155,
       "title": "Obsession",
@@ -172,7 +172,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-05T06:23:54.699296",
+    "scraped_at": "2025-11-06T06:24:24.352192",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -210,7 +210,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-11-05T06:24:10.266397"
+    "scraped_at": "2025-11-06T06:24:40.881767"
   },
   {
     "film_id": "13931",
@@ -229,7 +229,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-05T06:24:20.008844",
+    "scraped_at": "2025-11-06T06:24:50.493640",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -267,7 +267,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-05T06:24:31.582280",
+    "scraped_at": "2025-11-06T06:25:02.378094",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -305,7 +305,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-05T06:24:34.954060",
+    "scraped_at": "2025-11-06T06:25:05.829240",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -343,7 +343,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-05T06:24:44.548943",
+    "scraped_at": "2025-11-06T06:25:15.457573",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -381,7 +381,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-05T06:24:56.177623",
+    "scraped_at": "2025-11-06T06:25:27.361357",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -419,20 +419,20 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-05T06:24:59.746838",
+    "scraped_at": "2025-11-06T06:25:31.023746",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
       "overview": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return.",
       "release_date": "1957-11-14",
-      "rating": 7.441,
+      "rating": 7.4,
       "vote_count": 239,
       "genres": [
         "Drama",
         "Romance"
       ],
-      "poster_path": "/gSfjIw7kF6ioQ4KTO0MxVODluiz.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gSfjIw7kF6ioQ4KTO0MxVODluiz.jpg",
+      "poster_path": "/vD3cTATsUwQtYxFL9qDZiUgPYxQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vD3cTATsUwQtYxFL9qDZiUgPYxQ.jpg",
       "backdrop_path": "/2ijE67SW7xwy7hBb1mdsSOTdaxy.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/2ijE67SW7xwy7hBb1mdsSOTdaxy.jpg",
       "imdb_id": "tt0050782",
@@ -458,7 +458,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-05T06:25:11.306375",
+    "scraped_at": "2025-11-06T06:25:42.939050",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -496,6 +496,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-05T06:25:14.834017"
+    "scraped_at": "2025-11-06T06:25:46.637576"
   }
 ]

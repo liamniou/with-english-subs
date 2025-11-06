@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-05T06:21:37.016346",
+    "scraped_at": "2025-11-06T06:21:39.800844",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -160,7 +160,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-05T06:21:42.333825",
+    "scraped_at": "2025-11-06T06:21:50.261740",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -252,7 +252,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-05T06:21:45.279502",
+    "scraped_at": "2025-11-06T06:21:53.422348",
     "source": "biorio",
     "tmdb": {
       "id": 1539104,
@@ -405,7 +405,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-05T06:21:53.636871",
+    "scraped_at": "2025-11-06T06:22:00.087321",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -427,194 +427,6 @@
       "runtime": 92,
       "budget": 0,
       "revenue": 607735
-    }
-  },
-  {
-    "film_id": "predator-badlands",
-    "url": "https://www.biorio.se/movies/predator-badlands",
-    "title": "Predator: Badlands",
-    "director": "Dan Trachtenberg",
-    "showtimes": [
-      {
-        "datetime": "2025-11-05T19:00:00.000Z",
-        "display_text": "Wednesday November 05, 2025 at 19:00",
-        "movie_id": "5631",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/1188",
-        "api_data": {
-          "id": 1188,
-          "movieId": 5631,
-          "movieVersionId": 313,
-          "startTime": "2025-11-05T19:00:00.000Z",
-          "endTime": "2025-11-05T20:47:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5631,
-            "title": "Predator: Badlands",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5631/posters/1756809400983-vvna7u.jpg",
-            "movieVersions": [
-              {
-                "duration": 107,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 313,
-            "duration": 107,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [
-            "English subtitles"
-          ],
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-11-05T19:00:00",
-        "normalized_date": "05.11",
-        "normalized_time": "19:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2025-11-05T06:22:22.732391",
-    "source": "biorio",
-    "tmdb": {
-      "id": 1242898,
-      "title": "Predator: Badlands",
-      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-      "release_date": "2025-11-05",
-      "rating": 7.3,
-      "vote_count": 13,
-      "genres": [
-        "Action",
-        "Science Fiction",
-        "Adventure"
-      ],
-      "poster_path": "/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
-      "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
-      "imdb_id": "tt31227572",
-      "runtime": 107,
-      "budget": 100000000,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "phantom-of-the-paradise",
-    "url": "https://www.biorio.se/movies/phantom-of-the-paradise",
-    "title": "Phantom of the Paradise",
-    "director": "Brian De Palma",
-    "showtimes": [
-      {
-        "datetime": "2025-11-05T17:00:00.000Z",
-        "display_text": "Wednesday November 05, 2025 at 17:00",
-        "movie_id": "5629",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/922",
-        "api_data": {
-          "id": 922,
-          "movieId": 5629,
-          "movieVersionId": 311,
-          "startTime": "2025-11-05T17:00:00.000Z",
-          "endTime": "2025-11-05T18:32:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": "Svenska",
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5629,
-            "title": "Phantom of the Paradise",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5629/posters/1756725244712-jyuzuh.jpg",
-            "movieVersions": [
-              {
-                "duration": 92,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 311,
-            "duration": 92,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [
-            "reRUN",
-            "Trick or Treat",
-            "English subtitles"
-          ],
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-11-05T17:00:00",
-        "normalized_date": "05.11",
-        "normalized_time": "17:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2025-11-05T06:22:24.400820",
-    "source": "biorio",
-    "tmdb": {
-      "id": 27327,
-      "title": "Phantom of the Paradise",
-      "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
-      "release_date": "1974-10-31",
-      "rating": 7.475,
-      "vote_count": 713,
-      "genres": [
-        "Music",
-        "Comedy",
-        "Horror"
-      ],
-      "poster_path": "/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg",
-      "backdrop_path": "/8KgVSZglXRO9Z71rUnhVAvYEmu5.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8KgVSZglXRO9Z71rUnhVAvYEmu5.jpg",
-      "imdb_id": "tt0071994",
-      "runtime": 92,
-      "budget": 1300000,
-      "revenue": 250000
     }
   },
   {
@@ -741,7 +553,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-05T06:22:32.476895",
+    "scraped_at": "2025-11-06T06:22:51.266331",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
