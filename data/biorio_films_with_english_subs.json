@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-06T06:21:39.800844",
+    "scraped_at": "2025-11-07T06:21:38.965835",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -160,7 +160,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-06T06:21:50.261740",
+    "scraped_at": "2025-11-07T06:21:45.017455",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -252,7 +252,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-06T06:21:53.422348",
+    "scraped_at": "2025-11-07T06:21:46.899685",
     "source": "biorio",
     "tmdb": {
       "id": 1539104,
@@ -405,7 +405,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-06T06:22:00.087321",
+    "scraped_at": "2025-11-07T06:21:51.643354",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -435,6 +435,63 @@
     "title": "Depeche Mode: M",
     "director": "",
     "showtimes": [
+      {
+        "datetime": "2025-11-24T19:40:00.000Z",
+        "display_text": "Monday November 24, 2025 at 19:40",
+        "movie_id": "5619",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/1270",
+        "api_data": {
+          "id": 1270,
+          "movieId": 5619,
+          "movieVersionId": 301,
+          "startTime": "2025-11-24T19:40:00.000Z",
+          "endTime": "2025-11-24T21:15:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5619,
+            "title": "Depeche Mode: M",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1755763526774-816632596-Depeche-Mode.webp",
+            "movieVersions": [
+              {
+                "duration": 95,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 301,
+            "duration": 95,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-11-24T19:40:00",
+        "normalized_date": "24.11",
+        "normalized_time": "19:40"
+      },
       {
         "datetime": "2025-11-19T19:40:00.000Z",
         "display_text": "Wednesday November 19, 2025 at 19:40",
@@ -553,7 +610,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-06T06:22:51.266331",
+    "scraped_at": "2025-11-07T06:22:24.921053",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
