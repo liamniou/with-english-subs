@@ -59,6 +59,8 @@
             "reRUN",
             "Snowtime"
           ],
+          "ticketsSold": 2,
+          "ticketsAvailable": 178,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-14T09:30:00",
@@ -69,7 +71,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-07T06:21:38.965835",
+    "scraped_at": "2025-11-08T06:19:08.389501",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -99,6 +101,65 @@
     "title": "The Doors: When You’re Strange",
     "director": "Tom DiCillo",
     "showtimes": [
+      {
+        "datetime": "2025-12-06T17:30:00.000Z",
+        "display_text": "Saturday December 06, 2025 at 17:30",
+        "movie_id": "5688",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/1275",
+        "api_data": {
+          "id": 1275,
+          "movieId": 5688,
+          "movieVersionId": 371,
+          "startTime": "2025-12-06T17:30:00.000Z",
+          "endTime": "2025-12-06T19:06:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5688,
+            "title": "The Doors: When You’re Strange",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1761299449571-400879890-1-%281%29.jpg",
+            "movieVersions": [
+              {
+                "duration": 96,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 371,
+            "duration": 96,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-12-06T17:30:00",
+        "normalized_date": "06.12",
+        "normalized_time": "17:30"
+      },
       {
         "datetime": "2025-12-04T17:00:00.000Z",
         "display_text": "Thursday December 04, 2025 at 17:00",
@@ -150,6 +211,8 @@
             }
           ],
           "tags": [],
+          "ticketsSold": 33,
+          "ticketsAvailable": 147,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-04T17:00:00",
@@ -160,7 +223,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-07T06:21:45.017455",
+    "scraped_at": "2025-11-08T06:19:12.541678",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -242,6 +305,8 @@
           "tags": [
             "English subtitles"
           ],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-29T19:20:00",
@@ -252,7 +317,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-07T06:21:46.899685",
+    "scraped_at": "2025-11-08T06:19:14.309656",
     "source": "biorio",
     "tmdb": {
       "id": 1539104,
@@ -335,6 +400,8 @@
             "reRUN",
             "Snowtime"
           ],
+          "ticketsSold": 37,
+          "ticketsAvailable": 143,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-18T17:00:00",
@@ -395,6 +462,8 @@
             "reRUN",
             "Snowtime"
           ],
+          "ticketsSold": 24,
+          "ticketsAvailable": 156,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-03T17:00:00",
@@ -405,7 +474,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-07T06:21:51.643354",
+    "scraped_at": "2025-11-08T06:19:18.782845",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -486,6 +555,8 @@
             }
           ],
           "tags": [],
+          "ticketsSold": 4,
+          "ticketsAvailable": 176,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-24T19:40:00",
@@ -543,6 +614,8 @@
             }
           ],
           "tags": [],
+          "ticketsSold": 40,
+          "ticketsAvailable": 140,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-19T19:40:00",
@@ -600,6 +673,8 @@
             }
           ],
           "tags": [],
+          "ticketsSold": 163,
+          "ticketsAvailable": 17,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-10T17:00:00",
@@ -610,7 +685,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-07T06:22:24.921053",
+    "scraped_at": "2025-11-08T06:19:46.241586",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
