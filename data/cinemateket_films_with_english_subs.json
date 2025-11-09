@@ -1,43 +1,5 @@
 [
   {
-    "film_id": "4736",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=4736&cityId=1",
-    "title": "Originaltitel: Sauve qui peut (la vie)",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "lör 8/11 kl. 18:00",
-        "normalized_datetime": "2025-11-08T18:00:00",
-        "normalized_date": "08.11",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2025-11-08T06:20:12.183165",
-    "tmdb": {
-      "id": 230893,
-      "title": "Scénario de 'Sauve qui peut la vie'",
-      "overview": "Jean-Luc Godard proposes a diary of his creative process. Looking at photos of three actors, Jacques Dutronc, Isabelle Huppert, and Miou-Miou, who were previously cast to play in \"Sauve qui peut (la vie),\" Godard speaks about great image makers: Dreyer and Wim Wenders, the painters Edward Hopper and Pierre Bonnard.",
-      "release_date": "1979-04-10",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Documentary"
-      ],
-      "poster_path": "/5mq8b3U3XSiJPOTajMiiCuw8vlK.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5mq8b3U3XSiJPOTajMiiCuw8vlK.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt0126022",
-      "runtime": 21,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "12521",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=12521&cityId=1",
     "title": "Originaltitel: The Wild Party",
@@ -54,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-08T06:20:18.089874",
+    "scraped_at": "2025-11-09T06:21:39.912581",
     "tmdb": {
       "id": 112087,
       "title": "The Wild Party",
@@ -93,7 +55,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-08T06:20:27.437571",
+    "scraped_at": "2025-11-09T06:21:49.869558",
     "tmdb": {
       "id": 86262,
       "title": "Like You Know It All",
@@ -132,7 +94,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-08T06:20:49.706699",
+    "scraped_at": "2025-11-09T06:22:12.762074",
     "tmdb": {
       "id": 5155,
       "title": "Obsession",
@@ -172,7 +134,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-08T06:20:56.906746",
+    "scraped_at": "2025-11-09T06:22:19.797773",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -210,7 +172,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-11-08T06:21:11.772808"
+    "scraped_at": "2025-11-09T06:22:33.790156"
   },
   {
     "film_id": "13931",
@@ -229,7 +191,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-08T06:21:20.806498",
+    "scraped_at": "2025-11-09T06:22:42.297264",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -267,7 +229,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-08T06:21:36.698811",
+    "scraped_at": "2025-11-09T06:22:52.758060",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -305,7 +267,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-08T06:21:40.070023",
+    "scraped_at": "2025-11-09T06:22:56.041083",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -343,7 +305,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-08T06:21:49.116638",
+    "scraped_at": "2025-11-09T06:23:04.474748",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -381,7 +343,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-08T06:21:59.836547",
+    "scraped_at": "2025-11-09T06:23:14.398668",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -419,7 +381,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-08T06:22:03.215961",
+    "scraped_at": "2025-11-09T06:23:17.711989",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -458,7 +420,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-08T06:22:14.494873",
+    "scraped_at": "2025-11-09T06:23:27.706759",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -496,6 +458,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-08T06:22:17.870739"
+    "scraped_at": "2025-11-09T06:23:30.898984"
   }
 ]
