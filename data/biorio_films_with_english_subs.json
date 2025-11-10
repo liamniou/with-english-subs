@@ -59,8 +59,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 2,
-          "ticketsAvailable": 178,
+          "ticketsSold": 4,
+          "ticketsAvailable": 176,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-14T09:30:00",
@@ -71,15 +71,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-09T06:19:40.905233",
+    "scraped_at": "2025-11-10T06:23:49.437502",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
       "title": "Fanny and Alexander",
       "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
       "release_date": "1982-12-17",
-      "rating": 7.8,
-      "vote_count": 829,
+      "rating": 7.78,
+      "vote_count": 830,
       "genres": [
         "Fantasy",
         "Drama",
@@ -211,8 +211,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 39,
-          "ticketsAvailable": 141,
+          "ticketsSold": 42,
+          "ticketsAvailable": 138,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-04T17:00:00",
@@ -223,7 +223,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-09T06:19:52.176956",
+    "scraped_at": "2025-11-10T06:24:02.112187",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -305,8 +305,8 @@
           "tags": [
             "English subtitles"
           ],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 1,
+          "ticketsAvailable": 179,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-29T19:20:00",
@@ -317,7 +317,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-09T06:19:53.924934",
+    "scraped_at": "2025-11-10T06:24:07.041321",
     "source": "biorio",
     "tmdb": {
       "id": 1539104,
@@ -400,8 +400,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 43,
-          "ticketsAvailable": 137,
+          "ticketsSold": 46,
+          "ticketsAvailable": 134,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-18T17:00:00",
@@ -462,8 +462,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 24,
-          "ticketsAvailable": 156,
+          "ticketsSold": 26,
+          "ticketsAvailable": 154,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-03T17:00:00",
@@ -474,7 +474,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-09T06:20:04.349682",
+    "scraped_at": "2025-11-10T06:24:19.251453",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -614,8 +614,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 40,
-          "ticketsAvailable": 140,
+          "ticketsSold": 42,
+          "ticketsAvailable": 138,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-19T19:40:00",
@@ -673,8 +673,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 164,
-          "ticketsAvailable": 16,
+          "ticketsSold": 166,
+          "ticketsAvailable": 14,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-10T17:00:00",
@@ -685,7 +685,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-09T06:21:02.184815",
+    "scraped_at": "2025-11-10T06:25:19.262083",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
