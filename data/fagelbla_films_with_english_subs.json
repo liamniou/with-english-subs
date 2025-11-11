@@ -1,51 +1,5 @@
 [
   {
-    "film_id": "beröringen",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Beröringen",
-    "director": "Ingmar Bergman",
-    "duration": "1h 55 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2025-11-10T17:40:00+01:00",
-        "display_text": "Måndag, 10th November 17:40",
-        "time": "17:40",
-        "date_section": "Måndag, 10th November",
-        "ticket_url": "https://biofagelbla.se/movie/beroringen/?showtime=48444",
-        "showtime_id": "48444",
-        "normalized_datetime": "2025-11-10T17:40:00",
-        "normalized_date": "10.11",
-        "normalized_time": "17:40"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-11-10T06:28:28.937682+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 105254,
-      "title": "The Touch",
-      "overview": "A Swedish housewife begins an adulterous affair with an American archaeologist, unaware of his emotional scars as a Holocaust survivor; consequently, their relationship will be painfully difficult.",
-      "release_date": "1971-07-14",
-      "rating": 5.802,
-      "vote_count": 53,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/4bz8hRBj8jsLFBa5nKP28MQufEd.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4bz8hRBj8jsLFBa5nKP28MQufEd.jpg",
-      "backdrop_path": "/q94dUDBVP3RqLyAS0DkADJXmB4H.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/q94dUDBVP3RqLyAS0DkADJXmB4H.jpg",
-      "imdb_id": "tt0066826",
-      "runtime": 115,
-      "budget": 6900000,
-      "revenue": 6530000
-    }
-  },
-  {
     "film_id": "leclisse",
     "url": "https://biofagelbla.se/program/",
     "title": "L’Eclisse",
@@ -68,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.938036+00:00",
+    "scraped_at": "2025-11-11T06:25:19.110049+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 21135,
@@ -114,7 +68,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.938326+00:00",
+    "scraped_at": "2025-11-11T06:25:19.110332+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -160,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.938521+00:00",
+    "scraped_at": "2025-11-11T06:25:19.110573+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 637,
@@ -168,7 +122,7 @@
       "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
       "release_date": "1997-12-20",
       "rating": 8.44,
-      "vote_count": 13613,
+      "vote_count": 13614,
       "genres": [
         "Comedy",
         "Drama"
@@ -206,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.938764+00:00",
+    "scraped_at": "2025-11-11T06:25:19.110818+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 25699,
@@ -253,15 +207,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.939225+00:00",
+    "scraped_at": "2025-11-11T06:25:19.111284+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.637,
-      "vote_count": 4344,
+      "rating": 7.636,
+      "vote_count": 4346,
       "genres": [
         "Comedy",
         "Romance",
@@ -300,15 +254,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.939524+00:00",
+    "scraped_at": "2025-11-11T06:25:19.111563+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
       "title": "The Seventh Seal",
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
-      "rating": 8.2,
-      "vote_count": 3199,
+      "rating": 8.17,
+      "vote_count": 3200,
       "genres": [
         "Fantasy",
         "Drama"
@@ -346,7 +300,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.939827+00:00",
+    "scraped_at": "2025-11-11T06:25:19.111861+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 5279,
@@ -393,7 +347,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.939954+00:00",
+    "scraped_at": "2025-11-11T06:25:19.112004+00:00",
     "source": "fagelbla"
   },
   {
@@ -419,15 +373,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.940109+00:00",
+    "scraped_at": "2025-11-11T06:25:19.112166+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 8321,
       "title": "In Bruges",
       "overview": "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.",
       "release_date": "2008-02-08",
-      "rating": 7.5,
-      "vote_count": 5497,
+      "rating": 7.494,
+      "vote_count": 5500,
       "genres": [
         "Comedy",
         "Drama",
@@ -466,7 +420,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.940245+00:00",
+    "scraped_at": "2025-11-11T06:25:19.112278+00:00",
     "source": "fagelbla"
   },
   {
@@ -492,7 +446,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.940379+00:00",
+    "scraped_at": "2025-11-11T06:25:19.112395+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 114034,
@@ -537,7 +491,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.940579+00:00",
+    "scraped_at": "2025-11-11T06:25:19.112645+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 52331,
@@ -584,7 +538,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.940734+00:00",
+    "scraped_at": "2025-11-11T06:25:19.112793+00:00",
     "source": "fagelbla"
   },
   {
@@ -610,15 +564,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.940991+00:00",
+    "scraped_at": "2025-11-11T06:25:19.113064+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 562,
       "title": "Die Hard",
       "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her offices Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
       "release_date": "1988-07-15",
-      "rating": 7.8,
-      "vote_count": 11764,
+      "rating": 7.803,
+      "vote_count": 11765,
       "genres": [
         "Action",
         "Thriller"
@@ -656,15 +610,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.941183+00:00",
+    "scraped_at": "2025-11-11T06:25:19.113260+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1585,
       "title": "It's a Wonderful Life",
       "overview": "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
       "release_date": "1946-12-20",
-      "rating": 8.275,
-      "vote_count": 4634,
+      "rating": 8.276,
+      "vote_count": 4635,
       "genres": [
         "Drama",
         "Family",
@@ -703,7 +657,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.941298+00:00",
+    "scraped_at": "2025-11-11T06:25:19.113369+00:00",
     "source": "fagelbla"
   },
   {
@@ -729,7 +683,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.941420+00:00",
+    "scraped_at": "2025-11-11T06:25:19.113516+00:00",
     "source": "fagelbla"
   },
   {
@@ -755,15 +709,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:28:28.941539+00:00",
+    "scraped_at": "2025-11-11T06:25:19.113644+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.637,
-      "vote_count": 4344,
+      "rating": 7.636,
+      "vote_count": 4346,
       "genres": [
         "Comedy",
         "Romance",

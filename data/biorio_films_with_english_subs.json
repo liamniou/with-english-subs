@@ -51,8 +51,16 @@
           },
           "TicketTypes": [
             {
+              "id": 27,
+              "name": "Fribiljett från distro"
+            },
+            {
               "id": 25,
               "name": "Fanny & Alexander"
+            },
+            {
+              "id": 26,
+              "name": "Diff. pris"
             }
           ],
           "tags": [
@@ -71,7 +79,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:23:49.437502",
+    "scraped_at": "2025-11-11T06:22:29.744601",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -149,11 +157,19 @@
             {
               "id": 1,
               "name": "Ordinarie"
+            },
+            {
+              "id": 26,
+              "name": "Diff. pris"
+            },
+            {
+              "id": 27,
+              "name": "Fribiljett från distro"
             }
           ],
           "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 2,
+          "ticketsAvailable": 178,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-06T17:30:00",
@@ -208,11 +224,19 @@
             {
               "id": 1,
               "name": "Ordinarie"
+            },
+            {
+              "id": 26,
+              "name": "Diff. pris"
+            },
+            {
+              "id": 27,
+              "name": "Fribiljett från distro"
             }
           ],
           "tags": [],
-          "ticketsSold": 42,
-          "ticketsAvailable": 138,
+          "ticketsSold": 46,
+          "ticketsAvailable": 134,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-04T17:00:00",
@@ -223,7 +247,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:24:02.112187",
+    "scraped_at": "2025-11-11T06:22:33.759390",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -298,15 +322,23 @@
           },
           "TicketTypes": [
             {
+              "id": 27,
+              "name": "Fribiljett från distro"
+            },
+            {
               "id": 1,
               "name": "Ordinarie"
+            },
+            {
+              "id": 26,
+              "name": "Diff. pris"
             }
           ],
           "tags": [
             "English subtitles"
           ],
-          "ticketsSold": 1,
-          "ticketsAvailable": 179,
+          "ticketsSold": 3,
+          "ticketsAvailable": 177,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-29T19:20:00",
@@ -317,7 +349,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:24:07.041321",
+    "scraped_at": "2025-11-11T06:22:35.493623",
     "source": "biorio",
     "tmdb": {
       "id": 1539104,
@@ -394,6 +426,14 @@
             {
               "id": 1,
               "name": "Ordinarie"
+            },
+            {
+              "id": 26,
+              "name": "Diff. pris"
+            },
+            {
+              "id": 27,
+              "name": "Fribiljett från distro"
             }
           ],
           "tags": [
@@ -456,14 +496,22 @@
             {
               "id": 1,
               "name": "Ordinarie"
+            },
+            {
+              "id": 26,
+              "name": "Diff. pris"
+            },
+            {
+              "id": 27,
+              "name": "Fribiljett från distro"
             }
           ],
           "tags": [
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 26,
-          "ticketsAvailable": 154,
+          "ticketsSold": 33,
+          "ticketsAvailable": 147,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-03T17:00:00",
@@ -474,7 +522,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:24:19.251453",
+    "scraped_at": "2025-11-11T06:22:39.919650",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -550,13 +598,21 @@
           },
           "TicketTypes": [
             {
+              "id": 27,
+              "name": "Fribiljett från distro"
+            },
+            {
               "id": 1,
               "name": "Ordinarie"
+            },
+            {
+              "id": 26,
+              "name": "Diff. pris"
             }
           ],
           "tags": [],
-          "ticketsSold": 9,
-          "ticketsAvailable": 171,
+          "ticketsSold": 13,
+          "ticketsAvailable": 167,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-24T19:40:00",
@@ -611,81 +667,30 @@
             {
               "id": 1,
               "name": "Ordinarie"
+            },
+            {
+              "id": 26,
+              "name": "Diff. pris"
+            },
+            {
+              "id": 27,
+              "name": "Fribiljett från distro"
             }
           ],
           "tags": [],
-          "ticketsSold": 42,
-          "ticketsAvailable": 138,
+          "ticketsSold": 45,
+          "ticketsAvailable": 135,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-19T19:40:00",
         "normalized_date": "19.11",
         "normalized_time": "19:40"
-      },
-      {
-        "datetime": "2025-11-10T17:00:00.000Z",
-        "display_text": "Monday November 10, 2025 at 17:00",
-        "movie_id": "5619",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/1099",
-        "api_data": {
-          "id": 1099,
-          "movieId": 5619,
-          "movieVersionId": 301,
-          "startTime": "2025-11-10T17:00:00.000Z",
-          "endTime": "2025-11-10T18:35:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5619,
-            "title": "Depeche Mode: M",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1755763526774-816632596-Depeche-Mode.webp",
-            "movieVersions": [
-              {
-                "duration": 95,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 301,
-            "duration": 95,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 166,
-          "ticketsAvailable": 14,
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-11-10T17:00:00",
-        "normalized_date": "10.11",
-        "normalized_time": "17:00"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-10T06:25:19.262083",
+    "scraped_at": "2025-11-11T06:23:06.209493",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
