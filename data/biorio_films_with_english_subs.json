@@ -79,15 +79,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-11T06:22:29.744601",
+    "scraped_at": "2025-11-12T06:22:07.451029",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
       "title": "Fanny and Alexander",
       "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
       "release_date": "1982-12-17",
-      "rating": 7.78,
-      "vote_count": 830,
+      "rating": 7.779,
+      "vote_count": 832,
       "genres": [
         "Fantasy",
         "Drama",
@@ -168,8 +168,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 2,
-          "ticketsAvailable": 178,
+          "ticketsSold": 8,
+          "ticketsAvailable": 172,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-06T17:30:00",
@@ -235,8 +235,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 46,
-          "ticketsAvailable": 134,
+          "ticketsSold": 53,
+          "ticketsAvailable": 127,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-04T17:00:00",
@@ -247,7 +247,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-11T06:22:33.759390",
+    "scraped_at": "2025-11-12T06:22:11.541433",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -273,7 +273,7 @@
   {
     "film_id": "jujutsu-kaisen-execution",
     "url": "https://www.biorio.se/movies/jujutsu-kaisen-execution",
-    "title": "JUJUTSU KAISEN: Execution",
+    "title": "Jujutsi Kaisen: Execution",
     "director": "Shota Goshozono",
     "showtimes": [
       {
@@ -337,8 +337,8 @@
           "tags": [
             "English subtitles"
           ],
-          "ticketsSold": 3,
-          "ticketsAvailable": 177,
+          "ticketsSold": 5,
+          "ticketsAvailable": 175,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-29T19:20:00",
@@ -349,28 +349,8 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-11T06:22:35.493623",
-    "source": "biorio",
-    "tmdb": {
-      "id": 1539104,
-      "title": "JUJUTSU KAISEN: Execution -Shibuya Incident x The Culling Game Begins-",
-      "overview": "A veil abruptly descends over the busy Shibuya area amid the bustling Halloween crowds, trapping countless civilians inside. Satoru Gojo, the strongest jujutsu sorcerer, steps into the chaos. But lying in wait are curse users and spirits scheming to seal him away. Yuji Itadori, accompanied by his classmates and other top-tier jujutsu sorcerers, enters the fray in an unprecedented clash of curses — the Shibuya Incident. In the aftermath, ten colonies across Japan are transformed into dens of curses in a plan orchestrated by Noritoshi Kamo. As the deadly Culling Game starts, Special Grade sorcerer Yuta Okkotsu is assigned to carry out Yuji's execution for his perceived crimes. A compilation movie of Shibuya Incident including the first two episodes of the Culling Games arc.",
-      "release_date": "2025-11-07",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Animation",
-        "Action"
-      ],
-      "poster_path": "/tc7RrVW5FGvyO2tsgW6LIN1esHI.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tc7RrVW5FGvyO2tsgW6LIN1esHI.jpg",
-      "backdrop_path": "/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
-      "imdb_id": "tt38121182",
-      "runtime": 0,
-      "budget": 0,
-      "revenue": 0
-    }
+    "scraped_at": "2025-11-12T06:22:13.267030",
+    "source": "biorio"
   },
   {
     "film_id": "tokyo-godfathers",
@@ -440,8 +420,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 46,
-          "ticketsAvailable": 134,
+          "ticketsSold": 47,
+          "ticketsAvailable": 133,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-18T17:00:00",
@@ -510,8 +490,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 33,
-          "ticketsAvailable": 147,
+          "ticketsSold": 35,
+          "ticketsAvailable": 145,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-03T17:00:00",
@@ -522,7 +502,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-11T06:22:39.919650",
+    "scraped_at": "2025-11-12T06:22:18.461177",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -611,8 +591,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 13,
-          "ticketsAvailable": 167,
+          "ticketsSold": 15,
+          "ticketsAvailable": 165,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-24T19:40:00",
@@ -678,8 +658,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 45,
-          "ticketsAvailable": 135,
+          "ticketsSold": 47,
+          "ticketsAvailable": 133,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-19T19:40:00",
@@ -690,7 +670,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-11T06:23:06.209493",
+    "scraped_at": "2025-11-12T06:22:43.309191",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
