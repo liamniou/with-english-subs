@@ -1,44 +1,5 @@
 [
   {
-    "film_id": "13957",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13957&cityId=1",
-    "title": "Originaltitel: Jal al-ji-do mot-ha-myeon-seo",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "ons 12/11 kl. 18:00",
-        "normalized_datetime": "2025-11-12T18:00:00",
-        "normalized_date": "12.11",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2025-11-12T06:23:01.355082",
-    "tmdb": {
-      "id": 86262,
-      "title": "Like You Know It All",
-      "overview": "A South Korean art house film director is first invited to serve on the panel of a film festival, then to guest lecture at a film school.",
-      "release_date": "2009-05-14",
-      "rating": 5.743,
-      "vote_count": 35,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster_path": "/bTLZiYLeDDh7IYnHRXqYElKw8BV.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bTLZiYLeDDh7IYnHRXqYElKw8BV.jpg",
-      "backdrop_path": "/9hbE134FXDnx1Lw8fSRQq1m6LKJ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9hbE134FXDnx1Lw8fSRQq1m6LKJ.jpg",
-      "imdb_id": "tt1275891",
-      "runtime": 128,
-      "budget": 100000,
-      "revenue": 208867
-    }
-  },
-  {
     "film_id": "4005",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=4005&cityId=1",
     "title": "Originaltitel: Ossessione",
@@ -55,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-12T06:23:24.784138",
+    "scraped_at": "2025-11-13T06:24:50.844266",
     "tmdb": {
       "id": 5155,
       "title": "Obsession",
@@ -95,7 +56,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-12T06:23:31.848007",
+    "scraped_at": "2025-11-13T06:24:59.549057",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -133,7 +94,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-11-12T06:23:46.361052"
+    "scraped_at": "2025-11-13T06:25:17.576995"
   },
   {
     "film_id": "13931",
@@ -152,7 +113,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-12T06:23:55.202146",
+    "scraped_at": "2025-11-13T06:25:28.509972",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -190,7 +151,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-12T06:24:06.019877",
+    "scraped_at": "2025-11-13T06:25:41.861092",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -228,7 +189,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-12T06:24:09.403917",
+    "scraped_at": "2025-11-13T06:25:46.015159",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -266,7 +227,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-12T06:24:18.324964",
+    "scraped_at": "2025-11-13T06:25:57.166857",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -304,7 +265,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-12T06:24:29.114704",
+    "scraped_at": "2025-11-13T06:26:10.513414",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -342,7 +303,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-12T06:24:32.487491",
+    "scraped_at": "2025-11-13T06:26:14.480062",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -381,7 +342,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-12T06:24:43.228977",
+    "scraped_at": "2025-11-13T06:26:27.901868",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -419,6 +380,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-12T06:24:46.532104"
+    "scraped_at": "2025-11-13T06:26:32.051618"
   }
 ]
