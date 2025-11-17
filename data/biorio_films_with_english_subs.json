@@ -67,8 +67,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 12,
-          "ticketsAvailable": 168,
+          "ticketsSold": 14,
+          "ticketsAvailable": 166,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-14T09:30:00",
@@ -79,15 +79,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-16T06:20:25.969420",
+    "scraped_at": "2025-11-17T06:23:00.211357",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
       "title": "Fanny and Alexander",
       "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
       "release_date": "1982-12-17",
-      "rating": 7.78,
-      "vote_count": 833,
+      "rating": 7.779,
+      "vote_count": 834,
       "genres": [
         "Fantasy",
         "Drama",
@@ -168,8 +168,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 13,
-          "ticketsAvailable": 167,
+          "ticketsSold": 15,
+          "ticketsAvailable": 165,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-06T17:30:00",
@@ -235,8 +235,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 62,
-          "ticketsAvailable": 118,
+          "ticketsSold": 64,
+          "ticketsAvailable": 116,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-04T17:00:00",
@@ -247,7 +247,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-16T06:20:28.965094",
+    "scraped_at": "2025-11-17T06:23:06.025505",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -349,7 +349,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-16T06:20:30.360637",
+    "scraped_at": "2025-11-17T06:23:07.390203",
     "source": "biorio"
   },
   {
@@ -420,8 +420,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 59,
-          "ticketsAvailable": 121,
+          "ticketsSold": 70,
+          "ticketsAvailable": 110,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-18T17:00:00",
@@ -490,8 +490,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 54,
-          "ticketsAvailable": 126,
+          "ticketsSold": 56,
+          "ticketsAvailable": 124,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-03T17:00:00",
@@ -502,7 +502,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-16T06:20:34.717561",
+    "scraped_at": "2025-11-17T06:23:15.194760",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -510,7 +510,7 @@
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
       "rating": 7.914,
-      "vote_count": 1405,
+      "vote_count": 1406,
       "genres": [
         "Animation",
         "Drama",
@@ -591,8 +591,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 30,
-          "ticketsAvailable": 150,
+          "ticketsSold": 37,
+          "ticketsAvailable": 143,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-24T19:40:00",
@@ -670,7 +670,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-16T06:21:00.001646",
+    "scraped_at": "2025-11-17T06:23:56.211132",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
