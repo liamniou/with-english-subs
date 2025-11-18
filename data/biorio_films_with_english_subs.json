@@ -67,8 +67,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 14,
-          "ticketsAvailable": 166,
+          "ticketsSold": 17,
+          "ticketsAvailable": 163,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-14T09:30:00",
@@ -79,7 +79,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-17T06:23:00.211357",
+    "scraped_at": "2025-11-18T06:22:07.183603",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -235,8 +235,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 64,
-          "ticketsAvailable": 116,
+          "ticketsSold": 65,
+          "ticketsAvailable": 115,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-04T17:00:00",
@@ -247,7 +247,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-17T06:23:06.025505",
+    "scraped_at": "2025-11-18T06:22:12.199025",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -349,7 +349,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-17T06:23:07.390203",
+    "scraped_at": "2025-11-18T06:22:13.798716",
     "source": "biorio"
   },
   {
@@ -490,8 +490,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 56,
-          "ticketsAvailable": 124,
+          "ticketsSold": 62,
+          "ticketsAvailable": 118,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-03T17:00:00",
@@ -502,7 +502,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-17T06:23:15.194760",
+    "scraped_at": "2025-11-18T06:22:19.108053",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -524,6 +524,109 @@
       "runtime": 92,
       "budget": 0,
       "revenue": 607735
+    }
+  },
+  {
+    "film_id": "thief",
+    "url": "https://www.biorio.se/movies/thief",
+    "title": "Thief",
+    "director": "Michael Mann",
+    "showtimes": [
+      {
+        "datetime": "2025-11-20T19:30:00.000Z",
+        "display_text": "Thursday November 20, 2025 at 19:30",
+        "movie_id": "5665",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/1075",
+        "api_data": {
+          "id": 1075,
+          "movieId": 5665,
+          "movieVersionId": 347,
+          "startTime": "2025-11-20T19:30:00.000Z",
+          "endTime": "2025-11-20T21:35:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5665,
+            "title": "Thief",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5665/posters/1759329236022-gywrta.jpg",
+            "movieVersions": [
+              {
+                "duration": 125,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 347,
+            "duration": 125,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            },
+            {
+              "id": 26,
+              "name": "Diff. pris"
+            },
+            {
+              "id": 27,
+              "name": "Fribiljett från distro"
+            }
+          ],
+          "tags": [
+            "reRUN"
+          ],
+          "ticketsSold": 41,
+          "ticketsAvailable": 139,
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-11-20T19:30:00",
+        "normalized_date": "20.11",
+        "normalized_time": "19:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2025-11-18T06:22:28.055171",
+    "source": "biorio",
+    "tmdb": {
+      "id": 11524,
+      "title": "Thief",
+      "overview": "Frank is an expert professional safecracker, specialized in high-profile diamond heists. He plans to use his ill-gotten income to retire from crime and build a nice life for himself complete with a home, wife and kids. To accelerate the process, he signs on with a top gangster for a big score.",
+      "release_date": "1981-03-27",
+      "rating": 7.208,
+      "vote_count": 777,
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "poster_path": "/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
+      "backdrop_path": "/gdntMCBO69lLW3eRsqd5dj4sB4J.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gdntMCBO69lLW3eRsqd5dj4sB4J.jpg",
+      "imdb_id": "tt0083190",
+      "runtime": 123,
+      "budget": 5500000,
+      "revenue": 11494812
     }
   },
   {
@@ -591,8 +694,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 37,
-          "ticketsAvailable": 143,
+          "ticketsSold": 39,
+          "ticketsAvailable": 141,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-24T19:40:00",
@@ -658,8 +761,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 54,
-          "ticketsAvailable": 126,
+          "ticketsSold": 56,
+          "ticketsAvailable": 124,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-19T19:40:00",
@@ -670,7 +773,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-17T06:23:56.211132",
+    "scraped_at": "2025-11-18T06:23:07.090260",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
