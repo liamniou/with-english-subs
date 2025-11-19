@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-18T06:23:40.845023",
+    "scraped_at": "2025-11-19T06:23:28.898533",
     "tmdb": {
       "id": 5155,
       "title": "Obsession",
@@ -56,7 +56,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-18T06:23:50.772407",
+    "scraped_at": "2025-11-19T06:23:36.654809",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -94,7 +94,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-11-18T06:24:10.435021"
+    "scraped_at": "2025-11-19T06:23:51.407042"
   },
   {
     "film_id": "13931",
@@ -113,21 +113,21 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-18T06:24:22.349390",
+    "scraped_at": "2025-11-19T06:24:00.657583",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
       "overview": "Alma, alone in her big townhouse, and Mina, a single mother from a housing project in another city, have organized their lives around the prison visits they make to their respective partners. When the two women meet in the room outside the visiting area, an unlikely friendship begins...",
       "release_date": "2024-08-28",
-      "rating": 5.84,
+      "rating": 5.8,
       "vote_count": 25,
       "genres": [
         "Drama"
       ],
       "poster_path": "/wr8i5zOkT8c4VPKYcqhwWNlsLId.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/wr8i5zOkT8c4VPKYcqhwWNlsLId.jpg",
-      "backdrop_path": "/tCGfmGfACCfVh6Hz6gHpeF8Jmg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tCGfmGfACCfVh6Hz6gHpeF8Jmg.jpg",
+      "backdrop_path": "/sOD3UBuOYPNh8keNJ4XvK6zHcIq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sOD3UBuOYPNh8keNJ4XvK6zHcIq.jpg",
       "imdb_id": "tt30851085",
       "runtime": 108,
       "budget": 0,
@@ -151,7 +151,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-18T06:24:36.343305",
+    "scraped_at": "2025-11-19T06:24:12.089900",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -189,7 +189,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-18T06:24:40.485907",
+    "scraped_at": "2025-11-19T06:24:15.364216",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -227,7 +227,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-18T06:24:51.977113",
+    "scraped_at": "2025-11-19T06:24:24.474581",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -265,7 +265,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-18T06:25:06.081858",
+    "scraped_at": "2025-11-19T06:24:35.647854",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -303,7 +303,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-18T06:25:10.245556",
+    "scraped_at": "2025-11-19T06:24:38.996174",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -315,8 +315,8 @@
         "Drama",
         "Romance"
       ],
-      "poster_path": "/vD3cTATsUwQtYxFL9qDZiUgPYxQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vD3cTATsUwQtYxFL9qDZiUgPYxQ.jpg",
+      "poster_path": "/qWiI8U9lhSPR2ccMtNap5fh9zrk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qWiI8U9lhSPR2ccMtNap5fh9zrk.jpg",
       "backdrop_path": "/2ijE67SW7xwy7hBb1mdsSOTdaxy.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/2ijE67SW7xwy7hBb1mdsSOTdaxy.jpg",
       "imdb_id": "tt0050782",
@@ -342,7 +342,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-18T06:25:24.262816",
+    "scraped_at": "2025-11-19T06:24:50.101512",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -380,6 +380,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-18T06:25:28.493967"
+    "scraped_at": "2025-11-19T06:24:53.477035"
   }
 ]

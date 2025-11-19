@@ -1,56 +1,11 @@
 [
   {
     "film_id": "unknown-title",
-    "url": "https://zita.se/international-competition-1",
+    "url": "https://zita.se/international-competition-3",
     "title": "Unknown Title",
     "director": "",
     "genre": "",
-    "duration": "70 minFrån 15 årEngelska",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "18:00",
-        "time": "18:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=4871",
-        "normalized_datetime": "2025-11-18T18:00:00",
-        "normalized_date": "18.11",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2025-11-18T06:26:01.908146+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 949470,
-      "title": "Unknown Title",
-      "overview": "A short film by Andrei Ventslova",
-      "release_date": "1988-04-15",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "imdb_id": null,
-      "runtime": 1,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "unknown-title",
-    "url": "https://zita.se/international-competition-2",
-    "title": "Unknown Title",
-    "director": "",
-    "genre": "",
-    "duration": "69 minFrån 15 årEngelska",
+    "duration": "62 minFrån 15 årEngelska",
     "showtimes": [
       {
         "datetime": "",
@@ -58,16 +13,16 @@
         "time": "19:30",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=4872",
-        "normalized_datetime": "2025-11-18T19:30:00",
-        "normalized_date": "18.11",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=4873",
+        "normalized_datetime": "2025-11-19T19:30:00",
+        "normalized_date": "19.11",
         "normalized_time": "19:30"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-18T06:26:03.763950+00:00",
+    "scraped_at": "2025-11-19T06:25:21.721116+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
@@ -112,7 +67,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-18T06:26:11.361192+00:00",
+    "scraped_at": "2025-11-19T06:25:33.294475+00:00",
     "source": "zita",
     "tmdb": {
       "id": 137190,

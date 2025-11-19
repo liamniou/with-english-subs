@@ -67,8 +67,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 17,
-          "ticketsAvailable": 163,
+          "ticketsSold": 19,
+          "ticketsAvailable": 161,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-14T09:30:00",
@@ -79,7 +79,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-18T06:22:07.183603",
+    "scraped_at": "2025-11-19T06:21:59.716745",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -247,7 +247,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-18T06:22:12.199025",
+    "scraped_at": "2025-11-19T06:22:07.353418",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -337,8 +337,8 @@
           "tags": [
             "English subtitles"
           ],
-          "ticketsSold": 11,
-          "ticketsAvailable": 169,
+          "ticketsSold": 12,
+          "ticketsAvailable": 168,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-29T19:20:00",
@@ -349,7 +349,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-18T06:22:13.798716",
+    "scraped_at": "2025-11-19T06:22:08.771121",
     "source": "biorio"
   },
   {
@@ -358,6 +358,68 @@
     "title": "Tokyo Godfathers",
     "director": "Satoshi Kon",
     "showtimes": [
+      {
+        "datetime": "2025-12-28T19:30:00.000Z",
+        "display_text": "Sunday December 28, 2025 at 19:30",
+        "movie_id": "5678",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/1329",
+        "api_data": {
+          "id": 1329,
+          "movieId": 5678,
+          "movieVersionId": 361,
+          "startTime": "2025-12-28T19:30:00.000Z",
+          "endTime": "2025-12-28T21:02:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5678,
+            "title": "Tokyo Godfathers",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5678/posters/1760104162969-hsupo8.jpg",
+            "movieVersions": [
+              {
+                "duration": 92,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 361,
+            "duration": 92,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "reRUN",
+            "Snowtime"
+          ],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-12-28T19:30:00",
+        "normalized_date": "28.12",
+        "normalized_time": "19:30"
+      },
       {
         "datetime": "2025-12-18T17:00:00.000Z",
         "display_text": "Thursday December 18, 2025 at 17:00",
@@ -420,8 +482,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 70,
-          "ticketsAvailable": 110,
+          "ticketsSold": 78,
+          "ticketsAvailable": 102,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-18T17:00:00",
@@ -490,8 +552,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 62,
-          "ticketsAvailable": 118,
+          "ticketsSold": 68,
+          "ticketsAvailable": 112,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-03T17:00:00",
@@ -502,7 +564,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-18T06:22:19.108053",
+    "scraped_at": "2025-11-19T06:22:16.336431",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -593,8 +655,8 @@
           "tags": [
             "reRUN"
           ],
-          "ticketsSold": 41,
-          "ticketsAvailable": 139,
+          "ticketsSold": 48,
+          "ticketsAvailable": 132,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-20T19:30:00",
@@ -605,7 +667,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-18T06:22:28.055171",
+    "scraped_at": "2025-11-19T06:22:26.962332",
     "source": "biorio",
     "tmdb": {
       "id": 11524,
@@ -761,8 +823,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 56,
-          "ticketsAvailable": 124,
+          "ticketsSold": 59,
+          "ticketsAvailable": 121,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-19T19:40:00",
@@ -773,7 +835,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-18T06:23:07.090260",
+    "scraped_at": "2025-11-19T06:23:05.430793",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
