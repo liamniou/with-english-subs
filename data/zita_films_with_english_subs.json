@@ -1,48 +1,55 @@
 [
   {
-    "film_id": "unknown-title",
-    "url": "https://zita.se/international-competition-3",
-    "title": "Unknown Title",
+    "film_id": "eunic-selection",
+    "url": "https://zita.se/eunic-selection",
+    "title": "Eunic Selection",
     "director": "",
     "genre": "",
-    "duration": "62 minFrån 15 årEngelska",
+    "duration": "75 minFrån 15 årEngelska",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "19:30",
-        "time": "19:30",
+        "display_text": "18:00",
+        "time": "18:00",
         "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=4873",
-        "normalized_datetime": "2025-11-19T19:30:00",
-        "normalized_date": "19.11",
-        "normalized_time": "19:30"
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=4876",
+        "normalized_datetime": "2025-11-20T18:00:00",
+        "normalized_date": "20.11",
+        "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:25:21.721116+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 949470,
-      "title": "Unknown Title",
-      "overview": "A short film by Andrei Ventslova",
-      "release_date": "1988-04-15",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "imdb_id": null,
-      "runtime": 1,
-      "budget": 0,
-      "revenue": 0
-    }
+    "scraped_at": "2025-11-20T06:24:19.929991+00:00",
+    "source": "zita"
+  },
+  {
+    "film_id": "nordic-competition",
+    "url": "https://zita.se/nordic-competition",
+    "title": "Nordic Competition",
+    "director": "",
+    "genre": "",
+    "duration": "Norden60 minengelska",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "20:10",
+        "time": "20:10",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5236",
+        "normalized_datetime": "2025-11-20T20:10:00",
+        "normalized_date": "20.11",
+        "normalized_time": "20:10"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-11-20T06:24:32.779660+00:00",
+    "source": "zita"
   },
   {
     "film_id": "sista-vittnet",
@@ -67,7 +74,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:25:33.294475+00:00",
+    "scraped_at": "2025-11-20T06:24:39.123968+00:00",
     "source": "zita",
     "tmdb": {
       "id": 137190,

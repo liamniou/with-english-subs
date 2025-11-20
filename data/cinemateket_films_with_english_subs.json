@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-19T06:23:28.898533",
+    "scraped_at": "2025-11-20T06:22:36.199177",
     "tmdb": {
       "id": 5155,
       "title": "Obsession",
@@ -56,7 +56,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-19T06:23:36.654809",
+    "scraped_at": "2025-11-20T06:22:43.827552",
     "tmdb": {
       "id": 85525,
       "title": "The Day He Arrives",
@@ -94,7 +94,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-11-19T06:23:51.407042"
+    "scraped_at": "2025-11-20T06:22:59.474658"
   },
   {
     "film_id": "13931",
@@ -113,7 +113,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-19T06:24:00.657583",
+    "scraped_at": "2025-11-20T06:23:08.872270",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -151,7 +151,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-19T06:24:12.089900",
+    "scraped_at": "2025-11-20T06:23:18.952180",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -189,7 +189,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-19T06:24:15.364216",
+    "scraped_at": "2025-11-20T06:23:22.090726",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -227,7 +227,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-19T06:24:24.474581",
+    "scraped_at": "2025-11-20T06:23:30.467628",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -265,7 +265,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-19T06:24:35.647854",
+    "scraped_at": "2025-11-20T06:23:40.788056",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -303,7 +303,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-19T06:24:38.996174",
+    "scraped_at": "2025-11-20T06:23:43.765191",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -342,7 +342,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-19T06:24:50.101512",
+    "scraped_at": "2025-11-20T06:23:54.017189",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -380,6 +380,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-19T06:24:53.477035"
+    "scraped_at": "2025-11-20T06:23:57.128406"
   }
 ]

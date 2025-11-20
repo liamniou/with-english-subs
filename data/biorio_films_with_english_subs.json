@@ -67,8 +67,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 19,
-          "ticketsAvailable": 161,
+          "ticketsSold": 21,
+          "ticketsAvailable": 159,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-14T09:30:00",
@@ -79,7 +79,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:21:59.716745",
+    "scraped_at": "2025-11-20T06:21:19.657028",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -168,8 +168,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 15,
-          "ticketsAvailable": 165,
+          "ticketsSold": 17,
+          "ticketsAvailable": 163,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-06T17:30:00",
@@ -235,8 +235,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 65,
-          "ticketsAvailable": 115,
+          "ticketsSold": 67,
+          "ticketsAvailable": 113,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-04T17:00:00",
@@ -247,7 +247,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:22:07.353418",
+    "scraped_at": "2025-11-20T06:21:22.707037",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -337,8 +337,8 @@
           "tags": [
             "English subtitles"
           ],
-          "ticketsSold": 12,
-          "ticketsAvailable": 168,
+          "ticketsSold": 14,
+          "ticketsAvailable": 166,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-29T19:20:00",
@@ -349,7 +349,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:22:08.771121",
+    "scraped_at": "2025-11-20T06:21:24.103440",
     "source": "biorio"
   },
   {
@@ -552,8 +552,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 68,
-          "ticketsAvailable": 112,
+          "ticketsSold": 73,
+          "ticketsAvailable": 107,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-03T17:00:00",
@@ -564,7 +564,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:22:16.336431",
+    "scraped_at": "2025-11-20T06:21:28.459155",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -655,8 +655,8 @@
           "tags": [
             "reRUN"
           ],
-          "ticketsSold": 48,
-          "ticketsAvailable": 132,
+          "ticketsSold": 56,
+          "ticketsAvailable": 124,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-20T19:30:00",
@@ -667,7 +667,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:22:26.962332",
+    "scraped_at": "2025-11-20T06:21:33.870230",
     "source": "biorio",
     "tmdb": {
       "id": 11524,
@@ -756,86 +756,19 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 39,
-          "ticketsAvailable": 141,
+          "ticketsSold": 42,
+          "ticketsAvailable": 138,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-24T19:40:00",
         "normalized_date": "24.11",
-        "normalized_time": "19:40"
-      },
-      {
-        "datetime": "2025-11-19T19:40:00.000Z",
-        "display_text": "Wednesday November 19, 2025 at 19:40",
-        "movie_id": "5619",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/1175",
-        "api_data": {
-          "id": 1175,
-          "movieId": 5619,
-          "movieVersionId": 301,
-          "startTime": "2025-11-19T19:40:00.000Z",
-          "endTime": "2025-11-19T21:15:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5619,
-            "title": "Depeche Mode: M",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1755763526774-816632596-Depeche-Mode.webp",
-            "movieVersions": [
-              {
-                "duration": 95,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 301,
-            "duration": 95,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            },
-            {
-              "id": 26,
-              "name": "Diff. pris"
-            },
-            {
-              "id": 27,
-              "name": "Fribiljett från distro"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 59,
-          "ticketsAvailable": 121,
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-11-19T19:40:00",
-        "normalized_date": "19.11",
         "normalized_time": "19:40"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:23:05.430793",
+    "scraped_at": "2025-11-20T06:22:06.467384",
     "source": "biorio",
     "tmdb": {
       "id": 125974,

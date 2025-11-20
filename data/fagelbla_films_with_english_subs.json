@@ -22,15 +22,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:24:59.974785+00:00",
+    "scraped_at": "2025-11-20T06:24:03.705987+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.634,
-      "vote_count": 4352,
+      "rating": 7.633,
+      "vote_count": 4353,
       "genres": [
         "Comedy",
         "Romance",
@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:24:59.975136+00:00",
+    "scraped_at": "2025-11-20T06:24:03.706353+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -115,7 +115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:24:59.975555+00:00",
+    "scraped_at": "2025-11-20T06:24:03.706792+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 5279,
@@ -162,7 +162,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:24:59.975791+00:00",
+    "scraped_at": "2025-11-20T06:24:03.707004+00:00",
     "source": "fagelbla"
   },
   {
@@ -188,7 +188,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:24:59.975997+00:00",
+    "scraped_at": "2025-11-20T06:24:03.707321+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 8321,
@@ -235,7 +235,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:24:59.976159+00:00",
+    "scraped_at": "2025-11-20T06:24:03.707526+00:00",
     "source": "fagelbla"
   },
   {
@@ -261,7 +261,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:24:59.976382+00:00",
+    "scraped_at": "2025-11-20T06:24:03.707747+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 114034,
@@ -306,7 +306,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:24:59.976818+00:00",
+    "scraped_at": "2025-11-20T06:24:03.708161+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 52331,
@@ -353,8 +353,53 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:24:59.977036+00:00",
+    "scraped_at": "2025-11-20T06:24:03.708338+00:00",
     "source": "fagelbla"
+  },
+  {
+    "film_id": "nattvardsgästerna",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Nattvardsgästerna",
+    "director": "Ingmar Bergman",
+    "duration": "1h 21 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2025-12-15T17:45:00+01:00",
+        "display_text": "Måndag, 15th December 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 15th December",
+        "ticket_url": "https://biofagelbla.se/movie/nattvardsgasterna/?showtime=51905",
+        "showtime_id": "51905",
+        "normalized_datetime": "2025-12-15T17:45:00",
+        "normalized_date": "15.12",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2025-11-20T06:24:03.708473+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 29455,
+      "title": "Winter Light",
+      "overview": "A Swedish pastor fails a loving woman, a suicidal fisherman and God.",
+      "release_date": "1963-02-11",
+      "rating": 7.885,
+      "vote_count": 482,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/wDxrEssdjFWYwIZLbr06RQNcg1q.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wDxrEssdjFWYwIZLbr06RQNcg1q.jpg",
+      "backdrop_path": "/tis6nrWakUsuG6Jwdm4yESfTU0o.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tis6nrWakUsuG6Jwdm4yESfTU0o.jpg",
+      "imdb_id": "tt0057358",
+      "runtime": 80,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "die-hard",
@@ -379,7 +424,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:24:59.977389+00:00",
+    "scraped_at": "2025-11-20T06:24:03.708713+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 562,
@@ -387,7 +432,7 @@
       "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her offices Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
       "release_date": "1988-07-15",
       "rating": 7.802,
-      "vote_count": 11780,
+      "vote_count": 11781,
       "genres": [
         "Action",
         "Thriller"
@@ -425,7 +470,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:24:59.977688+00:00",
+    "scraped_at": "2025-11-20T06:24:03.708892+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1585,
@@ -433,7 +478,7 @@
       "overview": "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
       "release_date": "1946-12-20",
       "rating": 8.275,
-      "vote_count": 4641,
+      "vote_count": 4644,
       "genres": [
         "Drama",
         "Family",
@@ -472,7 +517,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:24:59.977912+00:00",
+    "scraped_at": "2025-11-20T06:24:03.709009+00:00",
     "source": "fagelbla"
   },
   {
@@ -498,7 +543,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:24:59.978112+00:00",
+    "scraped_at": "2025-11-20T06:24:03.709197+00:00",
     "source": "fagelbla"
   },
   {
@@ -524,15 +569,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:24:59.978336+00:00",
+    "scraped_at": "2025-11-20T06:24:03.709359+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.634,
-      "vote_count": 4352,
+      "rating": 7.633,
+      "vote_count": 4353,
       "genres": [
         "Comedy",
         "Romance",
@@ -571,15 +616,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-19T06:24:59.978608+00:00",
+    "scraped_at": "2025-11-20T06:24:03.709543+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.634,
-      "vote_count": 4352,
+      "rating": 7.633,
+      "vote_count": 4353,
       "genres": [
         "Comedy",
         "Romance",
