@@ -1,57 +1,5 @@
 [
   {
-    "film_id": "eunic-selection",
-    "url": "https://zita.se/eunic-selection",
-    "title": "Eunic Selection",
-    "director": "",
-    "genre": "",
-    "duration": "75 minFrån 15 årEngelska",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "18:00",
-        "time": "18:00",
-        "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=4876",
-        "normalized_datetime": "2025-11-20T18:00:00",
-        "normalized_date": "20.11",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2025-11-20T06:24:19.929991+00:00",
-    "source": "zita"
-  },
-  {
-    "film_id": "nordic-competition",
-    "url": "https://zita.se/nordic-competition",
-    "title": "Nordic Competition",
-    "director": "",
-    "genre": "",
-    "duration": "Norden60 minengelska",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "20:10",
-        "time": "20:10",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5236",
-        "normalized_datetime": "2025-11-20T20:10:00",
-        "normalized_date": "20.11",
-        "normalized_time": "20:10"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2025-11-20T06:24:32.779660+00:00",
-    "source": "zita"
-  },
-  {
     "film_id": "sista-vittnet",
     "url": "https://zita.se/sista-vittnet",
     "title": "Sista vittnet",
@@ -74,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-20T06:24:39.123968+00:00",
+    "scraped_at": "2025-11-21T06:27:32.205340+00:00",
     "source": "zita",
     "tmdb": {
       "id": 137190,
@@ -98,5 +46,31 @@
       "budget": 0,
       "revenue": 0
     }
+  },
+  {
+    "film_id": "student-competition",
+    "url": "https://zita.se/student-competition",
+    "title": "Student Competition",
+    "director": "",
+    "genre": "",
+    "duration": "65 minFrån 15 årEngelska",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "18:00",
+        "time": "18:00",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=4875",
+        "normalized_datetime": "2025-11-21T18:00:00",
+        "normalized_date": "21.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-11-21T06:27:36.577007+00:00",
+    "source": "zita"
   }
 ]

@@ -79,15 +79,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-20T06:21:19.657028",
+    "scraped_at": "2025-11-21T06:23:09.208045",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
       "title": "Fanny and Alexander",
       "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
       "release_date": "1982-12-17",
-      "rating": 7.779,
-      "vote_count": 834,
+      "rating": 7.78,
+      "vote_count": 835,
       "genres": [
         "Fantasy",
         "Drama",
@@ -168,8 +168,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 17,
-          "ticketsAvailable": 163,
+          "ticketsSold": 20,
+          "ticketsAvailable": 160,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-06T17:30:00",
@@ -235,8 +235,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 67,
-          "ticketsAvailable": 113,
+          "ticketsSold": 68,
+          "ticketsAvailable": 112,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-04T17:00:00",
@@ -247,7 +247,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-20T06:21:22.707037",
+    "scraped_at": "2025-11-21T06:23:16.487879",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -349,7 +349,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-20T06:21:24.103440",
+    "scraped_at": "2025-11-21T06:23:17.991788",
     "source": "biorio"
   },
   {
@@ -412,8 +412,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 4,
+          "ticketsAvailable": 176,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-28T19:30:00",
@@ -552,8 +552,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 73,
-          "ticketsAvailable": 107,
+          "ticketsSold": 77,
+          "ticketsAvailable": 103,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-03T17:00:00",
@@ -564,7 +564,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-20T06:21:28.459155",
+    "scraped_at": "2025-11-21T06:23:26.187205",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -572,7 +572,7 @@
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
       "rating": 7.914,
-      "vote_count": 1406,
+      "vote_count": 1407,
       "genres": [
         "Animation",
         "Drama",
@@ -586,109 +586,6 @@
       "runtime": 92,
       "budget": 0,
       "revenue": 607735
-    }
-  },
-  {
-    "film_id": "thief",
-    "url": "https://www.biorio.se/movies/thief",
-    "title": "Thief",
-    "director": "Michael Mann",
-    "showtimes": [
-      {
-        "datetime": "2025-11-20T19:30:00.000Z",
-        "display_text": "Thursday November 20, 2025 at 19:30",
-        "movie_id": "5665",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/1075",
-        "api_data": {
-          "id": 1075,
-          "movieId": 5665,
-          "movieVersionId": 347,
-          "startTime": "2025-11-20T19:30:00.000Z",
-          "endTime": "2025-11-20T21:35:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5665,
-            "title": "Thief",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5665/posters/1759329236022-gywrta.jpg",
-            "movieVersions": [
-              {
-                "duration": 125,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 347,
-            "duration": 125,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            },
-            {
-              "id": 26,
-              "name": "Diff. pris"
-            },
-            {
-              "id": 27,
-              "name": "Fribiljett från distro"
-            }
-          ],
-          "tags": [
-            "reRUN"
-          ],
-          "ticketsSold": 56,
-          "ticketsAvailable": 124,
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-11-20T19:30:00",
-        "normalized_date": "20.11",
-        "normalized_time": "19:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2025-11-20T06:21:33.870230",
-    "source": "biorio",
-    "tmdb": {
-      "id": 11524,
-      "title": "Thief",
-      "overview": "Frank is an expert professional safecracker, specialized in high-profile diamond heists. He plans to use his ill-gotten income to retire from crime and build a nice life for himself complete with a home, wife and kids. To accelerate the process, he signs on with a top gangster for a big score.",
-      "release_date": "1981-03-27",
-      "rating": 7.208,
-      "vote_count": 777,
-      "genres": [
-        "Crime",
-        "Thriller",
-        "Drama"
-      ],
-      "poster_path": "/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
-      "backdrop_path": "/gdntMCBO69lLW3eRsqd5dj4sB4J.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gdntMCBO69lLW3eRsqd5dj4sB4J.jpg",
-      "imdb_id": "tt0083190",
-      "runtime": 123,
-      "budget": 5500000,
-      "revenue": 11494812
     }
   },
   {
@@ -756,8 +653,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 42,
-          "ticketsAvailable": 138,
+          "ticketsSold": 43,
+          "ticketsAvailable": 137,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-24T19:40:00",
@@ -768,7 +665,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-20T06:22:06.467384",
+    "scraped_at": "2025-11-21T06:24:29.388458",
     "source": "biorio",
     "tmdb": {
       "id": 125974,
