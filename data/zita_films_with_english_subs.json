@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-21T06:27:32.205340+00:00",
+    "scraped_at": "2025-11-22T06:23:29.857570+00:00",
     "source": "zita",
     "tmdb": {
       "id": 137190,
@@ -46,31 +46,5 @@
       "budget": 0,
       "revenue": 0
     }
-  },
-  {
-    "film_id": "student-competition",
-    "url": "https://zita.se/student-competition",
-    "title": "Student Competition",
-    "director": "",
-    "genre": "",
-    "duration": "65 minFrån 15 årEngelska",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "18:00",
-        "time": "18:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=4875",
-        "normalized_datetime": "2025-11-21T18:00:00",
-        "normalized_date": "21.11",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2025-11-21T06:27:36.577007+00:00",
-    "source": "zita"
   }
 ]
