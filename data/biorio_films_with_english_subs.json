@@ -79,7 +79,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-22T06:19:58.348038",
+    "scraped_at": "2025-11-23T06:20:39.174883",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -168,8 +168,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 20,
-          "ticketsAvailable": 160,
+          "ticketsSold": 24,
+          "ticketsAvailable": 156,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-06T17:30:00",
@@ -247,7 +247,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-22T06:20:02.332843",
+    "scraped_at": "2025-11-23T06:20:44.080801",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -337,8 +337,8 @@
           "tags": [
             "English subtitles"
           ],
-          "ticketsSold": 18,
-          "ticketsAvailable": 162,
+          "ticketsSold": 19,
+          "ticketsAvailable": 161,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-29T19:20:00",
@@ -349,7 +349,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-22T06:20:03.755263",
+    "scraped_at": "2025-11-23T06:20:45.447317",
     "source": "biorio"
   },
   {
@@ -552,8 +552,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 86,
-          "ticketsAvailable": 94,
+          "ticketsSold": 90,
+          "ticketsAvailable": 90,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-03T17:00:00",
@@ -564,7 +564,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-22T06:20:10.741768",
+    "scraped_at": "2025-11-23T06:20:53.487240",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -665,7 +665,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-22T06:21:08.599036",
+    "scraped_at": "2025-11-23T06:21:39.408729",
     "source": "biorio",
     "tmdb": {
       "id": 125974,

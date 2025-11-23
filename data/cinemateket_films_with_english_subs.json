@@ -1,43 +1,5 @@
 [
   {
-    "film_id": "13958",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13958&cityId=1",
-    "title": "Originaltitel: Book chon bang hyang",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "lör 22/11 kl. 16:00",
-        "normalized_datetime": "2025-11-22T16:00:00",
-        "normalized_date": "22.11",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2025-11-22T06:21:31.940947",
-    "tmdb": {
-      "id": 85525,
-      "title": "The Day He Arrives",
-      "overview": "A film director who no longer makes films arrives in Seoul to meet a close friend. When the friend doesn't show up, he wanders the city aimlessly for three days, grabbing drinks and meeting women, with each day playing out like a version of the last.",
-      "release_date": "2011-09-08",
-      "rating": 6.914,
-      "vote_count": 81,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/nYgTNFSFKJMDQF4mq9vt3ieJ7eQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nYgTNFSFKJMDQF4mq9vt3ieJ7eQ.jpg",
-      "backdrop_path": "/6KmUwyVzHTaq30Q3LWfNeFj2lcT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6KmUwyVzHTaq30Q3LWfNeFj2lcT.jpg",
-      "imdb_id": "tt1922561",
-      "runtime": 79,
-      "budget": 0,
-      "revenue": 11819
-    }
-  },
-  {
     "film_id": "13960",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13960&cityId=1",
     "title": "Originaltitel: Gangbyeon hotel",
@@ -54,7 +16,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-11-22T06:21:47.557150"
+    "scraped_at": "2025-11-23T06:22:13.762917"
   },
   {
     "film_id": "13931",
@@ -73,7 +35,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-22T06:21:56.303677",
+    "scraped_at": "2025-11-23T06:22:23.301785",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -111,7 +73,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-22T06:22:06.699041",
+    "scraped_at": "2025-11-23T06:22:35.515323",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -149,7 +111,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-22T06:22:09.901019",
+    "scraped_at": "2025-11-23T06:22:39.096296",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -187,7 +149,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-22T06:22:18.127016",
+    "scraped_at": "2025-11-23T06:22:48.099780",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -225,7 +187,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-22T06:22:28.470654",
+    "scraped_at": "2025-11-23T06:22:58.142778",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -263,7 +225,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-22T06:22:31.808449",
+    "scraped_at": "2025-11-23T06:23:01.303938",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -302,7 +264,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-22T06:22:42.008302",
+    "scraped_at": "2025-11-23T06:23:11.671749",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -340,6 +302,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-22T06:22:44.994647"
+    "scraped_at": "2025-11-23T06:23:14.828895"
   }
 ]
