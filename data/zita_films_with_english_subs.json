@@ -1,5 +1,52 @@
 [
   {
+    "film_id": "alla-presidentens-män",
+    "url": "https://zita.se/alla-presidentens-man",
+    "title": "Alla presidentens män",
+    "director": "",
+    "genre": "All the President's MenAll the...🔍USA19761 jan 2016138 minPolitisk thrillerFrån 15 årWarner BrosEngelskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "20:00",
+        "time": "20:00",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5650",
+        "normalized_datetime": "2025-11-24T20:00:00",
+        "normalized_date": "24.11",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-11-24T06:27:10.579578+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 891,
+      "title": "All the President's Men",
+      "overview": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
+      "release_date": "1976-04-09",
+      "rating": 7.652,
+      "vote_count": 1967,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "poster_path": "/qwdcIdiTAk8iANsJEK2JmrYQx5o.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qwdcIdiTAk8iANsJEK2JmrYQx5o.jpg",
+      "backdrop_path": "/eHUsvxdZzHyjdPbppBkYkW9EQUx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/eHUsvxdZzHyjdPbppBkYkW9EQUx.jpg",
+      "imdb_id": "tt0074119",
+      "runtime": 138,
+      "budget": 8500000,
+      "revenue": 70600000
+    }
+  },
+  {
     "film_id": "sista-vittnet",
     "url": "https://zita.se/sista-vittnet",
     "title": "Sista vittnet",
@@ -22,7 +69,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-23T06:23:54.896639+00:00",
+    "scraped_at": "2025-11-24T06:27:35.386267+00:00",
     "source": "zita",
     "tmdb": {
       "id": 137190,
