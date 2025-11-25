@@ -79,7 +79,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:23:31.327391",
+    "scraped_at": "2025-11-25T06:23:23.261711",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -247,14 +247,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:23:38.354520",
+    "scraped_at": "2025-11-25T06:23:27.950885",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
       "title": "When You're Strange",
       "overview": "The creative chemistry of four brilliant artists —drummer John Densmore, guitarist Robby Kreiger, keyboardist Ray Manzarek and singer Jim Morrison— made The Doors one of America's most iconic and influential rock bands. Using footage shot between their formation in 1965 and Morrison's death in 1971, it follows the band from the corridors of UCLA's film school, where Manzarek and Morrison met, to the stages of sold-out arenas.",
       "release_date": "2010-04-09",
-      "rating": 7.304,
+      "rating": 7.3,
       "vote_count": 219,
       "genres": [
         "Documentary",
@@ -337,8 +337,8 @@
           "tags": [
             "English subtitles"
           ],
-          "ticketsSold": 19,
-          "ticketsAvailable": 161,
+          "ticketsSold": 22,
+          "ticketsAvailable": 158,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-29T19:20:00",
@@ -349,7 +349,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:23:39.948893",
+    "scraped_at": "2025-11-25T06:23:29.467540",
     "source": "biorio"
   },
   {
@@ -552,8 +552,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 91,
-          "ticketsAvailable": 89,
+          "ticketsSold": 95,
+          "ticketsAvailable": 85,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-03T17:00:00",
@@ -564,15 +564,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:23:49.143325",
+    "scraped_at": "2025-11-25T06:23:37.461788",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
       "title": "Tokyo Godfathers",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
-      "rating": 7.913,
-      "vote_count": 1408,
+      "rating": 7.9,
+      "vote_count": 1409,
       "genres": [
         "Animation",
         "Drama",
@@ -586,106 +586,6 @@
       "runtime": 92,
       "budget": 0,
       "revenue": 607735
-    }
-  },
-  {
-    "film_id": "depeche-mode-m",
-    "url": "https://www.biorio.se/movies/depeche-mode-m",
-    "title": "Depeche Mode: M",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "2025-11-24T19:40:00.000Z",
-        "display_text": "Monday November 24, 2025 at 19:40",
-        "movie_id": "5619",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/1270",
-        "api_data": {
-          "id": 1270,
-          "movieId": 5619,
-          "movieVersionId": 301,
-          "startTime": "2025-11-24T19:40:00.000Z",
-          "endTime": "2025-11-24T21:15:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5619,
-            "title": "Depeche Mode: M",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1755763526774-816632596-Depeche-Mode.webp",
-            "movieVersions": [
-              {
-                "duration": 95,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 301,
-            "duration": 95,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 27,
-              "name": "Fribiljett från distro"
-            },
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            },
-            {
-              "id": 26,
-              "name": "Diff. pris"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 51,
-          "ticketsAvailable": 129,
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-11-24T19:40:00",
-        "normalized_date": "24.11",
-        "normalized_time": "19:40"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2025-11-24T06:24:53.252553",
-    "source": "biorio",
-    "tmdb": {
-      "id": 125974,
-      "title": "Depeche Mode: Black Celebration Tour 1986",
-      "overview": "Depeche Mode - Live at Wembley Arena, London, 17 April 1986 (Black Celebration Tour)  01. Black Celebration 02. A Question Of Time 03. Fly On The Windscreen 04. Shake The Disease 05. Leave In Silence 06. It's Called A Heart 07. Everything Counts 08. It Doesn't Matter Two 09. A Question Of Lust 10. Blasphemous Rumours 11. New Dress 12. Stripped 13. Something To Do 14. Master And Servant 15. Photographic 16. People Are People 17. Boys Say Go! 18. Just Can't Get Enough 19. More Than A Party",
-      "release_date": "1986-12-24",
-      "rating": 8.0,
-      "vote_count": 1,
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "poster_path": "/ykgsfdD9GyTOWuQk9HrNf7Oqrqx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ykgsfdD9GyTOWuQk9HrNf7Oqrqx.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "",
-      "runtime": 91,
-      "budget": 0,
-      "revenue": 0
     }
   }
 ]

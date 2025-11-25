@@ -1,49 +1,58 @@
 [
   {
-    "film_id": "alla-presidentens-män",
-    "url": "https://zita.se/alla-presidentens-man",
-    "title": "Alla presidentens män",
+    "film_id": "unknown-title",
+    "url": "https://zita.se/kaamelott-deuxieme-volet",
+    "title": "Unknown Title",
     "director": "",
-    "genre": "All the President's MenAll the...🔍USA19761 jan 2016138 minPolitisk thrillerFrån 15 årWarner BrosEngelskaEngelska",
+    "genre": "Frankrike20251 jan 2025120 minfantasy, drama, komediFrån 15 årFolkets Bio StockholmFranskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "20:00",
-        "time": "20:00",
+        "display_text": "18:00",
+        "time": "18:00",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5650",
-        "normalized_datetime": "2025-11-24T20:00:00",
-        "normalized_date": "24.11",
-        "normalized_time": "20:00"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5660",
+        "normalized_datetime": "2025-11-25T18:00:00",
+        "normalized_date": "25.11",
+        "normalized_time": "18:00"
+      },
+      {
+        "datetime": "",
+        "display_text": "20:45",
+        "time": "20:45",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5660",
+        "normalized_datetime": "2025-11-25T20:45:00",
+        "normalized_date": "25.11",
+        "normalized_time": "20:45"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:27:10.579578+00:00",
+    "scraped_at": "2025-11-25T06:26:25.833895+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 891,
-      "title": "All the President's Men",
-      "overview": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
-      "release_date": "1976-04-09",
-      "rating": 7.652,
-      "vote_count": 1967,
+      "id": 949470,
+      "title": "Unknown Title",
+      "overview": "A short film by Andrei Ventslova",
+      "release_date": "1988-04-15",
+      "rating": 0.0,
+      "vote_count": 0,
       "genres": [
-        "Drama",
-        "Mystery",
-        "Thriller"
+        "Drama"
       ],
-      "poster_path": "/qwdcIdiTAk8iANsJEK2JmrYQx5o.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qwdcIdiTAk8iANsJEK2JmrYQx5o.jpg",
-      "backdrop_path": "/eHUsvxdZzHyjdPbppBkYkW9EQUx.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/eHUsvxdZzHyjdPbppBkYkW9EQUx.jpg",
-      "imdb_id": "tt0074119",
-      "runtime": 138,
-      "budget": 8500000,
-      "revenue": 70600000
+      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "imdb_id": null,
+      "runtime": 1,
+      "budget": 0,
+      "revenue": 0
     }
   },
   {
@@ -69,7 +78,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:27:35.386267+00:00",
+    "scraped_at": "2025-11-25T06:26:31.481032+00:00",
     "source": "zita",
     "tmdb": {
       "id": 137190,

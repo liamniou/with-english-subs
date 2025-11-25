@@ -1,51 +1,5 @@
 [
   {
-    "film_id": "det-sjunde-inseglet",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Det sjunde inseglet",
-    "director": "Ingmar Bergman",
-    "duration": "1h 36 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2025-11-24T20:00:00+01:00",
-        "display_text": "Måndag, 24th November 20:00",
-        "time": "20:00",
-        "date_section": "Måndag, 24th November",
-        "ticket_url": "https://biofagelbla.se/movie/det-sjunde-inseglet/?showtime=49290",
-        "showtime_id": "49290",
-        "normalized_datetime": "2025-11-24T20:00:00",
-        "normalized_date": "24.11",
-        "normalized_time": "20:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-11-24T06:26:53.692045+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 490,
-      "title": "The Seventh Seal",
-      "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
-      "release_date": "1957-02-16",
-      "rating": 8.163,
-      "vote_count": 3212,
-      "genres": [
-        "Fantasy",
-        "Drama"
-      ],
-      "poster_path": "/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
-      "backdrop_path": "/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
-      "imdb_id": "tt0050976",
-      "runtime": 96,
-      "budget": 150000,
-      "revenue": 311212
-    }
-  },
-  {
     "film_id": "loulou",
     "url": "https://biofagelbla.se/program/",
     "title": "Loulou",
@@ -68,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:26:53.692379+00:00",
+    "scraped_at": "2025-11-25T06:26:04.311110+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 39415,
@@ -114,7 +68,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:26:53.692610+00:00",
+    "scraped_at": "2025-11-25T06:26:04.311359+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 5279,
@@ -161,7 +115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:26:53.692824+00:00",
+    "scraped_at": "2025-11-25T06:26:04.311669+00:00",
     "source": "fagelbla"
   },
   {
@@ -187,7 +141,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:26:53.693387+00:00",
+    "scraped_at": "2025-11-25T06:26:04.312179+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 8321,
@@ -195,7 +149,7 @@
       "overview": "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.",
       "release_date": "2008-02-08",
       "rating": 7.5,
-      "vote_count": 5515,
+      "vote_count": 5516,
       "genres": [
         "Comedy",
         "Drama",
@@ -234,7 +188,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:26:53.693532+00:00",
+    "scraped_at": "2025-11-25T06:26:04.312324+00:00",
     "source": "fagelbla"
   },
   {
@@ -260,7 +214,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:26:53.693826+00:00",
+    "scraped_at": "2025-11-25T06:26:04.312495+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 114034,
@@ -305,7 +259,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:26:53.694230+00:00",
+    "scraped_at": "2025-11-25T06:26:04.312909+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 52331,
@@ -352,7 +306,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:26:53.694449+00:00",
+    "scraped_at": "2025-11-25T06:26:04.313131+00:00",
     "source": "fagelbla"
   },
   {
@@ -378,14 +332,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:26:53.694643+00:00",
+    "scraped_at": "2025-11-25T06:26:04.313343+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29455,
       "title": "Winter Light",
       "overview": "A Swedish pastor fails a loving woman, a suicidal fisherman and God.",
       "release_date": "1963-02-11",
-      "rating": 7.885,
+      "rating": 7.9,
       "vote_count": 482,
       "genres": [
         "Drama"
@@ -423,15 +377,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:26:53.694857+00:00",
+    "scraped_at": "2025-11-25T06:26:04.313736+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 562,
       "title": "Die Hard",
       "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her offices Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
       "release_date": "1988-07-15",
-      "rating": 7.8,
-      "vote_count": 11789,
+      "rating": 7.802,
+      "vote_count": 11790,
       "genres": [
         "Action",
         "Thriller"
@@ -469,15 +423,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:26:53.695202+00:00",
+    "scraped_at": "2025-11-25T06:26:04.314064+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1585,
       "title": "It's a Wonderful Life",
       "overview": "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
       "release_date": "1946-12-20",
-      "rating": 8.274,
-      "vote_count": 4649,
+      "rating": 8.3,
+      "vote_count": 4651,
       "genres": [
         "Drama",
         "Family",
@@ -516,7 +470,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:26:53.695437+00:00",
+    "scraped_at": "2025-11-25T06:26:04.314251+00:00",
     "source": "fagelbla"
   },
   {
@@ -542,7 +496,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:26:53.695685+00:00",
+    "scraped_at": "2025-11-25T06:26:04.314441+00:00",
     "source": "fagelbla"
   },
   {
@@ -568,7 +522,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:26:53.695895+00:00",
+    "scraped_at": "2025-11-25T06:26:04.314689+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -615,7 +569,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-24T06:26:53.696183+00:00",
+    "scraped_at": "2025-11-25T06:26:04.314954+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
