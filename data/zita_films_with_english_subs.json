@@ -1,61 +1,5 @@
 [
   {
-    "film_id": "unknown-title",
-    "url": "https://zita.se/kaamelott-deuxieme-volet",
-    "title": "Unknown Title",
-    "director": "",
-    "genre": "Frankrike20251 jan 2025120 minfantasy, drama, komediFrån 15 årFolkets Bio StockholmFranskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "18:00",
-        "time": "18:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5660",
-        "normalized_datetime": "2025-11-25T18:00:00",
-        "normalized_date": "25.11",
-        "normalized_time": "18:00"
-      },
-      {
-        "datetime": "",
-        "display_text": "20:45",
-        "time": "20:45",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5660",
-        "normalized_datetime": "2025-11-25T20:45:00",
-        "normalized_date": "25.11",
-        "normalized_time": "20:45"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2025-11-25T06:26:25.833895+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 949470,
-      "title": "Unknown Title",
-      "overview": "A short film by Andrei Ventslova",
-      "release_date": "1988-04-15",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "imdb_id": null,
-      "runtime": 1,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "sista-vittnet",
     "url": "https://zita.se/sista-vittnet",
     "title": "Sista vittnet",
@@ -78,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-25T06:26:31.481032+00:00",
+    "scraped_at": "2025-11-26T06:25:53.344686+00:00",
     "source": "zita",
     "tmdb": {
       "id": 137190,
