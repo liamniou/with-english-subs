@@ -67,8 +67,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 34,
-          "ticketsAvailable": 146,
+          "ticketsSold": 40,
+          "ticketsAvailable": 140,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-14T09:30:00",
@@ -79,7 +79,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-26T06:22:55.982197",
+    "scraped_at": "2025-11-27T06:23:18.602900",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -168,8 +168,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 26,
-          "ticketsAvailable": 154,
+          "ticketsSold": 31,
+          "ticketsAvailable": 149,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-06T17:30:00",
@@ -235,8 +235,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 74,
-          "ticketsAvailable": 106,
+          "ticketsSold": 83,
+          "ticketsAvailable": 97,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-04T17:00:00",
@@ -247,7 +247,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-26T06:23:00.213873",
+    "scraped_at": "2025-11-27T06:23:21.915549",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -337,8 +337,8 @@
           "tags": [
             "English subtitles"
           ],
-          "ticketsSold": 23,
-          "ticketsAvailable": 157,
+          "ticketsSold": 25,
+          "ticketsAvailable": 155,
           "isPublished": true
         },
         "normalized_datetime": "2025-11-29T19:20:00",
@@ -349,7 +349,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-26T06:23:01.657706",
+    "scraped_at": "2025-11-27T06:23:23.383941",
     "source": "biorio"
   },
   {
@@ -412,8 +412,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 4,
-          "ticketsAvailable": 176,
+          "ticketsSold": 5,
+          "ticketsAvailable": 175,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-28T19:30:00",
@@ -482,8 +482,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 78,
-          "ticketsAvailable": 102,
+          "ticketsSold": 86,
+          "ticketsAvailable": 94,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-18T17:00:00",
@@ -552,8 +552,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 99,
-          "ticketsAvailable": 81,
+          "ticketsSold": 106,
+          "ticketsAvailable": 74,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-03T17:00:00",
@@ -564,15 +564,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-26T06:23:08.810292",
+    "scraped_at": "2025-11-27T06:23:29.175489",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
       "title": "Tokyo Godfathers",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
-      "rating": 7.9,
-      "vote_count": 1411,
+      "rating": 7.918,
+      "vote_count": 1413,
       "genres": [
         "Animation",
         "Drama",

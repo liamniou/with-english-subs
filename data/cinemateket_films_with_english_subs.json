@@ -16,7 +16,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-11-26T06:24:15.243384"
+    "scraped_at": "2025-11-27T06:24:32.019422"
   },
   {
     "film_id": "13931",
@@ -35,7 +35,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-26T06:24:24.206242",
+    "scraped_at": "2025-11-27T06:24:43.389296",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -73,7 +73,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-26T06:24:35.401284",
+    "scraped_at": "2025-11-27T06:24:55.621230",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
@@ -111,7 +111,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-26T06:24:38.420923",
+    "scraped_at": "2025-11-27T06:24:59.685681",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -149,7 +149,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-26T06:24:47.676872",
+    "scraped_at": "2025-11-27T06:25:09.747576",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -187,7 +187,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-26T06:24:58.656170",
+    "scraped_at": "2025-11-27T06:25:22.362526",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -225,7 +225,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-26T06:25:01.900132",
+    "scraped_at": "2025-11-27T06:25:25.786489",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -264,7 +264,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-26T06:25:12.175978",
+    "scraped_at": "2025-11-27T06:25:37.871949",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -302,6 +302,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-26T06:25:15.598661"
+    "scraped_at": "2025-11-27T06:25:41.543009"
   }
 ]
