@@ -1,24 +1,5 @@
 [
   {
-    "film_id": "13960",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13960&cityId=1",
-    "title": "Originaltitel: Gangbyeon hotel",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "tor 27/11 kl. 18:00",
-        "normalized_datetime": "2025-11-27T18:00:00",
-        "normalized_date": "27.11",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Skandia"
-    ],
-    "scraped_at": "2025-11-27T06:24:32.019422"
-  },
-  {
     "film_id": "13931",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13931&cityId=1",
     "title": "Originaltitel: La prisonnière de Bordeaux",
@@ -35,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-27T06:24:43.389296",
+    "scraped_at": "2025-11-28T06:25:09.822345",
     "tmdb": {
       "id": 961080,
       "title": "Visiting Hours",
@@ -73,11 +54,11 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-27T06:24:55.621230",
+    "scraped_at": "2025-11-28T06:25:21.388693",
     "tmdb": {
       "id": 54659,
       "title": "Woman on the Beach",
-      "overview": "A movie director entices his young friend to come to the beach on the pretext of writing a script. He then starts an affair with the friend's girlfriend.",
+      "overview": "Film director, Joongrae, is preparing for his next movie but is unable to finish his script. So he pleads his friend, Chang-wook, a production designer, to go with him on a trip even though Changwook had already made plans with his girlfriend, Moonsook, a composer. Eventually Changwook brings his girlfriend along and they all go on a trip to the west coast to visit Shinduri Beach Resort, which is covered with cherry blossoms and a flowing mist. There, Joongrae makes advances on Changwook's girlfriend, Moonsook. Already a fan of his films, Moonsook doesn't hide her interest. So later, while avoiding Changwook's eyes, the two spend a heated night together. But the next day Joongrae's face is filled with anxiety as he proposes to go back to Seoul. He and Moonsook then part awkwardly.",
       "release_date": "2006-08-31",
       "rating": 6.2,
       "vote_count": 36,
@@ -111,7 +92,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-27T06:24:59.685681",
+    "scraped_at": "2025-11-28T06:25:24.758521",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -149,7 +130,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-27T06:25:09.747576",
+    "scraped_at": "2025-11-28T06:25:33.702752",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -187,7 +168,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-27T06:25:22.362526",
+    "scraped_at": "2025-11-28T06:25:44.335753",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -225,7 +206,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-27T06:25:25.786489",
+    "scraped_at": "2025-11-28T06:25:47.569586",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -264,7 +245,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-27T06:25:37.871949",
+    "scraped_at": "2025-11-28T06:25:57.942496",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -302,6 +283,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-11-27T06:25:41.543009"
+    "scraped_at": "2025-11-28T06:26:01.025743"
   }
 ]

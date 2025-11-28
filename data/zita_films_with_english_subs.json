@@ -1,10 +1,55 @@
 [
   {
-    "film_id": "family-therapy",
-    "url": "https://zita.se/family-therapy",
-    "title": "Family Therapy",
+    "film_id": "patrick-and-the-whale",
+    "url": "https://zita.se/patrick-and-the-whale",
+    "title": "Patrick and the whale",
     "director": "",
-    "genre": "Odrešitev za začetnikeSlovenien2024122 minKomedi, DramaFrån 15 årSlovenska, Franska, EngelskaSlovenska, Franska...🔍Engelska",
+    "genre": "Österrike202372 minDokumentärFrån 15 årEngelskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "18:00",
+        "time": "18:00",
+        "date": "",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5674",
+        "normalized_datetime": "2025-11-28T18:00:00",
+        "normalized_date": "28.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-11-28T06:26:33.514347+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1016208,
+      "title": "Patrick and the Whale",
+      "overview": "Marine videographer Patrick Dykstra explores the wondrous world of whales in this breathtaking and revealing documentary.",
+      "release_date": "2024-04-18",
+      "rating": 4.6,
+      "vote_count": 5,
+      "genres": [
+        "Documentary"
+      ],
+      "poster_path": "/bjA5GFMN2d0pplljl21rXhsRPKz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bjA5GFMN2d0pplljl21rXhsRPKz.jpg",
+      "backdrop_path": "/5MvHzzRf9wy0dWz9pBdrcwjrUMe.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5MvHzzRf9wy0dWz9pBdrcwjrUMe.jpg",
+      "imdb_id": "tt21094966",
+      "runtime": 72,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "pause",
+    "url": "https://zita.se/pause",
+    "title": "Pause",
+    "director": "",
+    "genre": "PafsiCypern20181 jan 201896 minDramaFrån 15 årGrekiskaEngelska",
     "duration": "",
     "showtimes": [
       {
@@ -12,36 +57,35 @@
         "display_text": "20:00",
         "time": "20:00",
         "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5672",
-        "normalized_datetime": "2025-11-27T20:00:00",
-        "normalized_date": "27.11",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5677",
+        "normalized_datetime": "2025-11-28T20:00:00",
+        "normalized_date": "28.11",
         "normalized_time": "20:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-27T06:26:09.704496+00:00",
+    "scraped_at": "2025-11-28T06:26:34.990919+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1208795,
-      "title": "Family Therapy",
-      "overview": "In this black comedy drama, we meet a seemingly perfect family consisting of Olivia, Alexander and their daughter Agata. With the arrival of 25-year-old Julian in their home, their lives are turned upside down and their dysfunctional relationships are revealed. Redemption through humour explores the theme of emotionally drained elites and places it in the context of contemporary social issues.",
-      "release_date": "2024-06-08",
-      "rating": 7.2,
-      "vote_count": 6,
+      "id": 1382383,
+      "title": "Pause",
+      "overview": "When two hired killers find a baby on their latest job, they both must make a decision as to how they should live their lives.",
+      "release_date": "2010-08-17",
+      "rating": 0.0,
+      "vote_count": 0,
       "genres": [
-        "Drama",
-        "Comedy"
+        "Action"
       ],
-      "poster_path": "/eT4zVXTvMr730miZJlSuBBv1XyB.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eT4zVXTvMr730miZJlSuBBv1XyB.jpg",
-      "backdrop_path": "/6ZXceiGC1BUniIHfFLmBqQ4UpJA.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6ZXceiGC1BUniIHfFLmBqQ4UpJA.jpg",
-      "imdb_id": "tt28090401",
-      "runtime": 122,
-      "budget": 0,
+      "poster_path": null,
+      "poster_url": null,
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt1792604",
+      "runtime": 0,
+      "budget": 500,
       "revenue": 0
     }
   },
@@ -68,7 +112,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-27T06:26:19.966421+00:00",
+    "scraped_at": "2025-11-28T06:26:37.312171+00:00",
     "source": "zita",
     "tmdb": {
       "id": 137190,
@@ -94,91 +138,93 @@
     }
   },
   {
-    "film_id": "tereza37",
-    "url": "https://zita.se/tereza37",
-    "title": "Tereza37",
+    "film_id": "the-kingdom",
+    "url": "https://zita.se/the-kingdom",
+    "title": "The Kingdom",
     "director": "",
-    "genre": "Kroatien20201 jan 2020100 minDramaFrån 15 årKroatiskaEngelska",
+    "genre": "Le RoyaumeFrankrike20241 jan 2024108 minThrillerFrån 15 årFranskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "18:15",
-        "time": "18:15",
+        "display_text": "20:15",
+        "time": "20:15",
         "date": "",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5673",
-        "normalized_datetime": "2025-11-27T18:15:00",
-        "normalized_date": "27.11",
-        "normalized_time": "18:15"
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5675",
+        "normalized_datetime": "2025-11-28T20:15:00",
+        "normalized_date": "28.11",
+        "normalized_time": "20:15"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-27T06:26:23.591255+00:00",
+    "scraped_at": "2025-11-28T06:26:43.222318+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 763806,
-      "title": "Tereza37",
-      "overview": "After several miscarriages, Tereza's gynecologist, in an attempt to cheer her up, jokes she should try to conceive with a different partner. This remark shakes up her monotonous life and steers it in a new direction.",
-      "release_date": "2020-07-30",
-      "rating": 4.6,
-      "vote_count": 5,
+      "id": 4349,
+      "title": "The Kingdom",
+      "overview": "A team of U.S. government agents is sent to investigate the bombing of an American facility in the Middle East.",
+      "release_date": "2007-08-22",
+      "rating": 6.721,
+      "vote_count": 1747,
       "genres": [
+        "Thriller",
+        "Action",
         "Drama"
       ],
-      "poster_path": "/4uSjVBYIv7RDDBEPXzRg0X8oWu3.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4uSjVBYIv7RDDBEPXzRg0X8oWu3.jpg",
-      "backdrop_path": "/b7lT8mQTFoeXSdOsH57njaCFttR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/b7lT8mQTFoeXSdOsH57njaCFttR.jpg",
-      "imdb_id": "tt12794392",
-      "runtime": 100,
-      "budget": 0,
-      "revenue": 0
+      "poster_path": "/8CSiRnMRLuKT58JiOGzQ7p1oa1b.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8CSiRnMRLuKT58JiOGzQ7p1oa1b.jpg",
+      "backdrop_path": "/qzmCz3tK2v5BFLQYgbQVGmTI3YD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qzmCz3tK2v5BFLQYgbQVGmTI3YD.jpg",
+      "imdb_id": "tt0431197",
+      "runtime": 110,
+      "budget": 70000000,
+      "revenue": 86658558
     }
   },
   {
-    "film_id": "the-chair",
-    "url": "https://zita.se/the-chair",
-    "title": "The Chair",
+    "film_id": "toubab",
+    "url": "https://zita.se/toubab",
+    "title": "Toubab",
     "director": "",
-    "genre": "SavardzeliGeorgien201799 minKomediFrån 15 årGeorgiskaEngelska",
+    "genre": "Tyskland202196 minDramaFrån 15 årTyskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "18:00",
-        "time": "18:00",
+        "display_text": "17:45",
+        "time": "17:45",
         "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5671",
-        "normalized_datetime": "2025-11-27T18:00:00",
-        "normalized_date": "27.11",
-        "normalized_time": "18:00"
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5676",
+        "normalized_datetime": "2025-11-28T17:45:00",
+        "normalized_date": "28.11",
+        "normalized_time": "17:45"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-27T06:26:25.146845+00:00",
+    "scraped_at": "2025-11-28T06:26:44.752082+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 297719,
-      "title": "The Chair",
-      "overview": "Follows a crusading lawyer as he embarks on a campaign to save an African-American man, Paul Crump, from the electric chair.  Preserved by the Academy Film Archive in partnership with The Film Foundation in 2007.",
-      "release_date": "1963-08-24",
-      "rating": 6.0,
-      "vote_count": 1,
+      "id": 743115,
+      "title": "Toubab",
+      "overview": "Matured through two years in prison, Babtou is looking forward to a new beginning with his buddy Dennis. A free man in a free world! But of all things, his welcome party where all the boys from the block are gathered ends in a police operation. Babtou has his hands cuffed again and is confronted with dramatic news. He will soon be deported to his “home country” of Senegal. To prevent a deportation, Babtou and Dennis are willing to do anything, including marriage.",
+      "release_date": "2021-09-23",
+      "rating": 6.167,
+      "vote_count": 21,
       "genres": [
-        "Documentary"
+        "Comedy"
       ],
-      "poster_path": "/fuZ5E6M2VTx904UkJTNC7usuwto.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fuZ5E6M2VTx904UkJTNC7usuwto.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt0263189",
-      "runtime": 54,
+      "poster_path": "/4efGW5TEzU1NlrMKZDZbXxo9dfB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4efGW5TEzU1NlrMKZDZbXxo9dfB.jpg",
+      "backdrop_path": "/hI8yKTHQ5MBO2KchUkMzmHnAMMY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hI8yKTHQ5MBO2KchUkMzmHnAMMY.jpg",
+      "imdb_id": "tt9233428",
+      "runtime": 96,
       "budget": 0,
       "revenue": 0
     }
