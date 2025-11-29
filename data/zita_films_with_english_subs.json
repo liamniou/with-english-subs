@@ -1,10 +1,10 @@
 [
   {
-    "film_id": "patrick-and-the-whale",
-    "url": "https://zita.se/patrick-and-the-whale",
-    "title": "Patrick and the whale",
+    "film_id": "girl-america",
+    "url": "https://zita.se/girl-america",
+    "title": "Girl America",
     "director": "",
-    "genre": "Österrike202372 minDokumentärFrån 15 årEngelskaEngelska",
+    "genre": "AmerikánkaTjeckien2024108 minDramaFrån 15 årTjeckiskaEngelska",
     "duration": "",
     "showtimes": [
       {
@@ -13,81 +13,62 @@
         "time": "18:00",
         "date": "",
         "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5674",
-        "normalized_datetime": "2025-11-28T18:00:00",
-        "normalized_date": "28.11",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5692",
+        "normalized_datetime": "2025-11-29T18:00:00",
+        "normalized_date": "29.11",
         "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-28T06:26:33.514347+00:00",
+    "scraped_at": "2025-11-29T06:23:50.361824+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1016208,
-      "title": "Patrick and the Whale",
-      "overview": "Marine videographer Patrick Dykstra explores the wondrous world of whales in this breathtaking and revealing documentary.",
-      "release_date": "2024-04-18",
-      "rating": 4.6,
-      "vote_count": 5,
+      "id": 878987,
+      "title": "American Girl",
+      "overview": "When her mother gets sick, 13-year-old Fen moves back to Taiwan, where she struggles to fit in amid the 2003 SARS epidemic.",
+      "release_date": "2021-12-03",
+      "rating": 6.6,
+      "vote_count": 31,
       "genres": [
-        "Documentary"
+        "Drama"
       ],
-      "poster_path": "/bjA5GFMN2d0pplljl21rXhsRPKz.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bjA5GFMN2d0pplljl21rXhsRPKz.jpg",
-      "backdrop_path": "/5MvHzzRf9wy0dWz9pBdrcwjrUMe.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5MvHzzRf9wy0dWz9pBdrcwjrUMe.jpg",
-      "imdb_id": "tt21094966",
-      "runtime": 72,
+      "poster_path": "/lRWpwTW5YSbZSu6xUqIBy2VCvKH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lRWpwTW5YSbZSu6xUqIBy2VCvKH.jpg",
+      "backdrop_path": "/oeeRdWLAxTQjaOF0uZnRbEBPntD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/oeeRdWLAxTQjaOF0uZnRbEBPntD.jpg",
+      "imdb_id": "tt15620158",
+      "runtime": 101,
       "budget": 0,
       "revenue": 0
     }
   },
   {
-    "film_id": "pause",
-    "url": "https://zita.se/pause",
-    "title": "Pause",
+    "film_id": "kad-je-zazvonio-telefon",
+    "url": "https://zita.se/kad-je-zazvonio-telefon",
+    "title": "Kad je zazvonio telefon",
     "director": "",
-    "genre": "PafsiCypern20181 jan 201896 minDramaFrån 15 årGrekiskaEngelska",
+    "genre": "Serbien20241 jan 202473 minDramaFrån 15 årSerbiskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "20:00",
-        "time": "20:00",
+        "display_text": "17:45",
+        "time": "17:45",
         "date": "",
         "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5677",
-        "normalized_datetime": "2025-11-28T20:00:00",
-        "normalized_date": "28.11",
-        "normalized_time": "20:00"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5680",
+        "normalized_datetime": "2025-11-29T17:45:00",
+        "normalized_date": "29.11",
+        "normalized_time": "17:45"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-28T06:26:34.990919+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 1382383,
-      "title": "Pause",
-      "overview": "When two hired killers find a baby on their latest job, they both must make a decision as to how they should live their lives.",
-      "release_date": "2010-08-17",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Action"
-      ],
-      "poster_path": null,
-      "poster_url": null,
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt1792604",
-      "runtime": 0,
-      "budget": 500,
-      "revenue": 0
-    }
+    "scraped_at": "2025-11-29T06:23:55.081122+00:00",
+    "source": "zita"
   },
   {
     "film_id": "sista-vittnet",
@@ -112,7 +93,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-28T06:26:37.312171+00:00",
+    "scraped_at": "2025-11-29T06:24:05.991467+00:00",
     "source": "zita",
     "tmdb": {
       "id": 137190,
@@ -138,93 +119,182 @@
     }
   },
   {
-    "film_id": "the-kingdom",
-    "url": "https://zita.se/the-kingdom",
-    "title": "The Kingdom",
+    "film_id": "the-47",
+    "url": "https://zita.se/the-47",
+    "title": "The 47",
     "director": "",
-    "genre": "Le RoyaumeFrankrike20241 jan 2024108 minThrillerFrån 15 årFranskaEngelska",
+    "genre": "El 47Spanien2024110 minDramaFrån 15 årSpanskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "20:15",
-        "time": "20:15",
+        "display_text": "20:30",
+        "time": "20:30",
         "date": "",
         "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5675",
-        "normalized_datetime": "2025-11-28T20:15:00",
-        "normalized_date": "28.11",
-        "normalized_time": "20:15"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5693",
+        "normalized_datetime": "2025-11-29T20:30:00",
+        "normalized_date": "29.11",
+        "normalized_time": "20:30"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-28T06:26:43.222318+00:00",
+    "scraped_at": "2025-11-29T06:24:11.718618+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 4349,
-      "title": "The Kingdom",
-      "overview": "A team of U.S. government agents is sent to investigate the bombing of an American facility in the Middle East.",
-      "release_date": "2007-08-22",
-      "rating": 6.721,
-      "vote_count": 1747,
+      "id": 45978,
+      "title": "The 47 Ronin",
+      "overview": "In 1701, Lord Takuminokami Asano has a feud with Lord Kira and he tries to kill Kira in the corridors of the Shogun's palace. The Shogun sentences Lord Asano to commit suppuku and deprives the palace and lands from his clan, but does not punish Lord Kira. Lord Asano's vassals leave the land and his samurais become ronin and want to seek revenge against the dishonor of their Lord. But their leader Kuranosuke Oishi asks the Shogun to restore the Asano clan with his brother Daigaku Asano. One year later, the Shogun refuses his request and Oishi and forty-six ronin revenge their Lord.",
+      "release_date": "1941-12-08",
+      "rating": 6.9,
+      "vote_count": 72,
       "genres": [
-        "Thriller",
-        "Action",
-        "Drama"
+        "Drama",
+        "History"
       ],
-      "poster_path": "/8CSiRnMRLuKT58JiOGzQ7p1oa1b.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8CSiRnMRLuKT58JiOGzQ7p1oa1b.jpg",
-      "backdrop_path": "/qzmCz3tK2v5BFLQYgbQVGmTI3YD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qzmCz3tK2v5BFLQYgbQVGmTI3YD.jpg",
-      "imdb_id": "tt0431197",
-      "runtime": 110,
-      "budget": 70000000,
-      "revenue": 86658558
+      "poster_path": "/9xCbHN8pITzOcJewSIPNxvxLT7k.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9xCbHN8pITzOcJewSIPNxvxLT7k.jpg",
+      "backdrop_path": "/v3sXtq2P6o086UV1LJ82agPASVa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/v3sXtq2P6o086UV1LJ82agPASVa.jpg",
+      "imdb_id": "tt0033654",
+      "runtime": 223,
+      "budget": 0,
+      "revenue": 0
     }
   },
   {
-    "film_id": "toubab",
-    "url": "https://zita.se/toubab",
-    "title": "Toubab",
+    "film_id": "the-mariana-trench",
+    "url": "https://zita.se/the-mariana-trench",
+    "title": "The Mariana Trench",
     "director": "",
-    "genre": "Tyskland202196 minDramaFrån 15 årTyskaEngelska",
+    "genre": "Marianengraben Luxemburg202482 minDramaFrån 15 årTyska, Italienska, EngelskaTyska, Italienska...🔍Engelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "17:45",
-        "time": "17:45",
+        "display_text": "15:30",
+        "time": "15:30",
         "date": "",
         "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5676",
-        "normalized_datetime": "2025-11-28T17:45:00",
-        "normalized_date": "28.11",
-        "normalized_time": "17:45"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5679",
+        "normalized_datetime": "2025-11-29T15:30:00",
+        "normalized_date": "29.11",
+        "normalized_time": "15:30"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-28T06:26:44.752082+00:00",
+    "scraped_at": "2025-11-29T06:24:17.055948+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 743115,
-      "title": "Toubab",
-      "overview": "Matured through two years in prison, Babtou is looking forward to a new beginning with his buddy Dennis. A free man in a free world! But of all things, his welcome party where all the boys from the block are gathered ends in a police operation. Babtou has his hands cuffed again and is confronted with dramatic news. He will soon be deported to his “home country” of Senegal. To prevent a deportation, Babtou and Dennis are willing to do anything, including marriage.",
-      "release_date": "2021-09-23",
-      "rating": 6.167,
-      "vote_count": 21,
+      "id": 578097,
+      "title": "Deep Ocean: Descent into the Mariana Trench",
+      "overview": "Exploring an unknown world 10,000 m beneath the waves. After capturing a giant squid on film, NHK's deep-sea film crew explores our planet's deepest point The Mariana Trench is nearly 7 miles deep. The water pressure is immense, and it's a world that's long been out of our reach. What creatures could survive such hostile conditions? This is an expedition to explore the earth's deepest frontier. Narrated By David Attenborough.",
+      "release_date": "2018-07-13",
+      "rating": 9.3,
+      "vote_count": 3,
       "genres": [
-        "Comedy"
+        "Documentary"
       ],
-      "poster_path": "/4efGW5TEzU1NlrMKZDZbXxo9dfB.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4efGW5TEzU1NlrMKZDZbXxo9dfB.jpg",
-      "backdrop_path": "/hI8yKTHQ5MBO2KchUkMzmHnAMMY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hI8yKTHQ5MBO2KchUkMzmHnAMMY.jpg",
-      "imdb_id": "tt9233428",
-      "runtime": 96,
+      "poster_path": "/v9RNO6NUbKHujkwqkleyOFixEkd.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/v9RNO6NUbKHujkwqkleyOFixEkd.jpg",
+      "backdrop_path": "/oINMa3ZzqmjraWAQ0l0Mgc0J3Iq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/oINMa3ZzqmjraWAQ0l0Mgc0J3Iq.jpg",
+      "imdb_id": null,
+      "runtime": 52,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "un-film-fatto-per-bene",
+    "url": "https://zita.se/un-film-fatto-per-bene",
+    "title": "Un film fatto per Bene",
+    "director": "",
+    "genre": "Italien2025100 minDokumentärFrån 15 årItalienskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "15:45",
+        "time": "15:45",
+        "date": "",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5678",
+        "normalized_datetime": "2025-11-29T15:45:00",
+        "normalized_date": "29.11",
+        "normalized_time": "15:45"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-11-29T06:24:20.621380+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1276271,
+      "title": "Bravo Bene!",
+      "overview": "Filming on Franco Maresco's film about Carmelo Bene is abruptly halted after yet another on-set accident. Producer Andrea Occhipinti pulls the plug, exasperated by the endless takes and repeated delays. Angered, the director simply disappears. Maresco's friend, Umberto Cantone, attempts to mend the rift by calling witnesses from all those involved in the project, in an investigation that offers an opportunity to retrace the personality and ideas of the most corrosive and apocalyptic auteur in Italian cinema.",
+      "release_date": "2025-09-05",
+      "rating": 7.577,
+      "vote_count": 13,
+      "genres": [
+        "Documentary"
+      ],
+      "poster_path": "/3xKygU0ce9Sd0q7zo6Cg7PPbAgL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3xKygU0ce9Sd0q7zo6Cg7PPbAgL.jpg",
+      "backdrop_path": "/lYhpl0vilv0CwLH5rZypRSqxeZx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/lYhpl0vilv0CwLH5rZypRSqxeZx.jpg",
+      "imdb_id": "tt30874362",
+      "runtime": 100,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "varvara",
+    "url": "https://zita.se/varvara",
+    "title": "Varvara",
+    "director": "",
+    "genre": "Annat20231 jan 202393 minDramaFrån 15 årRumänskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "20:00",
+        "time": "20:00",
+        "date": "",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5681",
+        "normalized_datetime": "2025-11-29T20:00:00",
+        "normalized_date": "29.11",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-11-29T06:24:22.428195+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1025385,
+      "title": "Varvara",
+      "overview": "Sasha works for a natural gas company. When his wife gives birth 2 months early, Sasha is searching for money to save the premature baby. Despite this, he refuses to take bribes, which threatens his job and leads to friction with his colleagues. His wife doesn't understand him anymore. Faced with a crisis, Sasha receives an order to install a furnace in a church, where he will have to destroy an icon painted on the church wall. Hoping to save the sacred image, Sasha has to corrupt the system.",
+      "release_date": "2023-11-06",
+      "rating": 7.0,
+      "vote_count": 2,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/fklS78lJseoVb1BCaxXsA0grBKz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fklS78lJseoVb1BCaxXsA0grBKz.jpg",
+      "backdrop_path": "/pCMqdpPcwsBvbuuJwhJoTl4QSAF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pCMqdpPcwsBvbuuJwhJoTl4QSAF.jpg",
+      "imdb_id": "tt21482434",
+      "runtime": 97,
       "budget": 0,
       "revenue": 0
     }
