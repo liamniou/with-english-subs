@@ -1,55 +1,98 @@
 [
   {
-    "film_id": "girl-america",
-    "url": "https://zita.se/girl-america",
-    "title": "Girl America",
+    "film_id": "clear",
+    "url": "https://zita.se/clear",
+    "title": "Clear",
     "director": "",
-    "genre": "AmerikánkaTjeckien2024108 minDramaFrån 15 årTjeckiskaEngelska",
+    "genre": "Sombras BrancasPortugal20231 jan 2023114 minDramaFrån 15 årPortugisiskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "18:00",
-        "time": "18:00",
+        "display_text": "15:30",
+        "time": "15:30",
         "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5692",
-        "normalized_datetime": "2025-11-29T18:00:00",
-        "normalized_date": "29.11",
-        "normalized_time": "18:00"
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5687",
+        "normalized_datetime": "2025-11-30T15:30:00",
+        "normalized_date": "30.11",
+        "normalized_time": "15:30"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-29T06:23:50.361824+00:00",
+    "scraped_at": "2025-11-30T06:24:54.941981+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 878987,
-      "title": "American Girl",
-      "overview": "When her mother gets sick, 13-year-old Fen moves back to Taiwan, where she struggles to fit in amid the 2003 SARS epidemic.",
-      "release_date": "2021-12-03",
-      "rating": 6.6,
-      "vote_count": 31,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/lRWpwTW5YSbZSu6xUqIBy2VCvKH.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lRWpwTW5YSbZSu6xUqIBy2VCvKH.jpg",
-      "backdrop_path": "/oeeRdWLAxTQjaOF0uZnRbEBPntD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/oeeRdWLAxTQjaOF0uZnRbEBPntD.jpg",
-      "imdb_id": "tt15620158",
-      "runtime": 101,
+      "id": 1394185,
+      "title": "Clear",
+      "overview": "Clear is a visceral confrontation with the illusion of \"safety,\" where altered 16mm footage and layered audio reveal the quiet violence surveillance imposes on trans and gender-nonconforming bodies.",
+      "release_date": "2024-11-24",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [],
+      "poster_path": "/eI1rnQPS0wd7ftfNsJaqCYT8I4x.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eI1rnQPS0wd7ftfNsJaqCYT8I4x.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": null,
+      "runtime": 6,
       "budget": 0,
       "revenue": 0
     }
   },
   {
-    "film_id": "kad-je-zazvonio-telefon",
-    "url": "https://zita.se/kad-je-zazvonio-telefon",
-    "title": "Kad je zazvonio telefon",
+    "film_id": "my-lake",
+    "url": "https://zita.se/my-lake",
+    "title": "My Lake",
     "director": "",
-    "genre": "Serbien20241 jan 202473 minDramaFrån 15 årSerbiskaEngelska",
+    "genre": "Liqeni imAlbanien20201 jan 2020100 minDramaFrån 15 årAlbanskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "20:00",
+        "time": "20:00",
+        "date": "",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5689",
+        "normalized_datetime": "2025-11-30T20:00:00",
+        "normalized_date": "30.11",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-11-30T06:25:11.605333+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1300814,
+      "title": "My Mind Is Like a Lake",
+      "overview": "",
+      "release_date": "1964-06-27",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/4SQelIzh0IjZBgaV5Ip78K6XewE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4SQelIzh0IjZBgaV5Ip78K6XewE.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt0414297",
+      "runtime": 0,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "nora",
+    "url": "https://zita.se/nora",
+    "title": "Nora",
+    "director": "",
+    "genre": "De ce ma cheama Nora, când cerul meu e seninDe ce ma cheama...🔍Rumänien20231 jan 202385 minDokumentärFrån 15 årRumänskaEngelska",
     "duration": "",
     "showtimes": [
       {
@@ -58,17 +101,36 @@
         "time": "17:45",
         "date": "",
         "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5680",
-        "normalized_datetime": "2025-11-29T17:45:00",
-        "normalized_date": "29.11",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5688",
+        "normalized_datetime": "2025-11-30T17:45:00",
+        "normalized_date": "30.11",
         "normalized_time": "17:45"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-29T06:23:55.081122+00:00",
-    "source": "zita"
+    "scraped_at": "2025-11-30T06:25:13.924892+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 262106,
+      "title": "Nora",
+      "overview": "The film is an adaptation of Henrik Ibsen's play A Doll's House. The film uses Ibsen's alternate ending where the unhappy couple are reconciled at the end",
+      "release_date": "1944-02-14",
+      "rating": 4.5,
+      "vote_count": 2,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/majKZ2PIR84xWdmeaQaEIBE7JTz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/majKZ2PIR84xWdmeaQaEIBE7JTz.jpg",
+      "backdrop_path": "/4FDU077abfHG1Ag47lz4YKKPwKp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/4FDU077abfHG1Ag47lz4YKKPwKp.jpg",
+      "imdb_id": "tt0037137",
+      "runtime": 101,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "sista-vittnet",
@@ -79,10 +141,10 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2025-12-01T20:00:00",
-        "display_text": "mån 1 dec 20:00",
+        "datetime": "",
+        "display_text": "i morgon 20:00",
         "time": "20:00",
-        "date": "mån 1 dec",
+        "date": "i morgon",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5652",
         "normalized_datetime": "2025-12-01T20:00:00",
@@ -93,7 +155,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-29T06:24:05.991467+00:00",
+    "scraped_at": "2025-11-30T06:25:20.872421+00:00",
     "source": "zita",
     "tmdb": {
       "id": 137190,
@@ -119,102 +181,56 @@
     }
   },
   {
-    "film_id": "the-47",
-    "url": "https://zita.se/the-47",
-    "title": "The 47",
+    "film_id": "unknown-title",
+    "url": "https://zita.se/the-house-with-no-address",
+    "title": "Unknown Title",
     "director": "",
-    "genre": "El 47Spanien2024110 minDramaFrån 15 årSpanskaEngelska",
-    "duration": "",
+    "genre": "",
+    "duration": "Adresi Olmayan EvTurkiet20241 jan 202496 minSci-FiFrån 15 årTurkiskaEngelska",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "20:30",
-        "time": "20:30",
+        "display_text": "20:15",
+        "time": "20:15",
         "date": "",
         "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5693",
-        "normalized_datetime": "2025-11-29T20:30:00",
-        "normalized_date": "29.11",
-        "normalized_time": "20:30"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5686",
+        "normalized_datetime": "2025-11-30T20:15:00",
+        "normalized_date": "30.11",
+        "normalized_time": "20:15"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-29T06:24:11.718618+00:00",
+    "scraped_at": "2025-11-30T06:25:28.196766+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 45978,
-      "title": "The 47 Ronin",
-      "overview": "In 1701, Lord Takuminokami Asano has a feud with Lord Kira and he tries to kill Kira in the corridors of the Shogun's palace. The Shogun sentences Lord Asano to commit suppuku and deprives the palace and lands from his clan, but does not punish Lord Kira. Lord Asano's vassals leave the land and his samurais become ronin and want to seek revenge against the dishonor of their Lord. But their leader Kuranosuke Oishi asks the Shogun to restore the Asano clan with his brother Daigaku Asano. One year later, the Shogun refuses his request and Oishi and forty-six ronin revenge their Lord.",
-      "release_date": "1941-12-08",
-      "rating": 6.9,
-      "vote_count": 72,
+      "id": 949470,
+      "title": "Unknown Title",
+      "overview": "A short film by Andrei Ventslova",
+      "release_date": "1988-04-15",
+      "rating": 0.0,
+      "vote_count": 0,
       "genres": [
-        "Drama",
-        "History"
+        "Drama"
       ],
-      "poster_path": "/9xCbHN8pITzOcJewSIPNxvxLT7k.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9xCbHN8pITzOcJewSIPNxvxLT7k.jpg",
-      "backdrop_path": "/v3sXtq2P6o086UV1LJ82agPASVa.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/v3sXtq2P6o086UV1LJ82agPASVa.jpg",
-      "imdb_id": "tt0033654",
-      "runtime": 223,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "the-mariana-trench",
-    "url": "https://zita.se/the-mariana-trench",
-    "title": "The Mariana Trench",
-    "director": "",
-    "genre": "Marianengraben Luxemburg202482 minDramaFrån 15 årTyska, Italienska, EngelskaTyska, Italienska...🔍Engelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "15:30",
-        "time": "15:30",
-        "date": "",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5679",
-        "normalized_datetime": "2025-11-29T15:30:00",
-        "normalized_date": "29.11",
-        "normalized_time": "15:30"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2025-11-29T06:24:17.055948+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 578097,
-      "title": "Deep Ocean: Descent into the Mariana Trench",
-      "overview": "Exploring an unknown world 10,000 m beneath the waves. After capturing a giant squid on film, NHK's deep-sea film crew explores our planet's deepest point The Mariana Trench is nearly 7 miles deep. The water pressure is immense, and it's a world that's long been out of our reach. What creatures could survive such hostile conditions? This is an expedition to explore the earth's deepest frontier. Narrated By David Attenborough.",
-      "release_date": "2018-07-13",
-      "rating": 9.3,
-      "vote_count": 3,
-      "genres": [
-        "Documentary"
-      ],
-      "poster_path": "/v9RNO6NUbKHujkwqkleyOFixEkd.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/v9RNO6NUbKHujkwqkleyOFixEkd.jpg",
-      "backdrop_path": "/oINMa3ZzqmjraWAQ0l0Mgc0J3Iq.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/oINMa3ZzqmjraWAQ0l0Mgc0J3Iq.jpg",
+      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
       "imdb_id": null,
-      "runtime": 52,
+      "runtime": 1,
       "budget": 0,
       "revenue": 0
     }
   },
   {
-    "film_id": "un-film-fatto-per-bene",
-    "url": "https://zita.se/un-film-fatto-per-bene",
-    "title": "Un film fatto per Bene",
+    "film_id": "the-trap",
+    "url": "https://zita.se/the-trap",
+    "title": "The Trap",
     "director": "",
-    "genre": "Italien2025100 minDokumentärFrån 15 årItalienskaEngelska",
+    "genre": "КлопкаBulgarien, Tyskland20231 jan 202495 minDramaFrån 15 årBulgariskaEngelska",
     "duration": "",
     "showtimes": [
       {
@@ -223,78 +239,79 @@
         "time": "15:45",
         "date": "",
         "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5678",
-        "normalized_datetime": "2025-11-29T15:45:00",
-        "normalized_date": "29.11",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5682",
+        "normalized_datetime": "2025-11-30T15:45:00",
+        "normalized_date": "30.11",
         "normalized_time": "15:45"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-29T06:24:20.621380+00:00",
+    "scraped_at": "2025-11-30T06:25:32.347093+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1276271,
-      "title": "Bravo Bene!",
-      "overview": "Filming on Franco Maresco's film about Carmelo Bene is abruptly halted after yet another on-set accident. Producer Andrea Occhipinti pulls the plug, exasperated by the endless takes and repeated delays. Angered, the director simply disappears. Maresco's friend, Umberto Cantone, attempts to mend the rift by calling witnesses from all those involved in the project, in an investigation that offers an opportunity to retrace the personality and ideas of the most corrosive and apocalyptic auteur in Italian cinema.",
-      "release_date": "2025-09-05",
-      "rating": 7.577,
-      "vote_count": 13,
+      "id": 592348,
+      "title": "The Trap",
+      "overview": "A man returns home to Atlanta to help and turn around his family's struggling restaurant with the help of a new chicken recipe.",
+      "release_date": "2019-04-01",
+      "rating": 4.794,
+      "vote_count": 80,
       "genres": [
-        "Documentary"
+        "Comedy"
       ],
-      "poster_path": "/3xKygU0ce9Sd0q7zo6Cg7PPbAgL.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3xKygU0ce9Sd0q7zo6Cg7PPbAgL.jpg",
-      "backdrop_path": "/lYhpl0vilv0CwLH5rZypRSqxeZx.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/lYhpl0vilv0CwLH5rZypRSqxeZx.jpg",
-      "imdb_id": "tt30874362",
-      "runtime": 100,
+      "poster_path": "/swk3ionimeKwX1e6k1XbHCSeYv0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/swk3ionimeKwX1e6k1XbHCSeYv0.jpg",
+      "backdrop_path": "/yoOD6LzFyHS7pTgTcUqL6D6r85i.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yoOD6LzFyHS7pTgTcUqL6D6r85i.jpg",
+      "imdb_id": "tt5990444",
+      "runtime": 90,
       "budget": 0,
       "revenue": 0
     }
   },
   {
-    "film_id": "varvara",
-    "url": "https://zita.se/varvara",
-    "title": "Varvara",
+    "film_id": "we-got-what-we-wanted",
+    "url": "https://zita.se/we-got-what-we-wanted",
+    "title": "We got what we wanted",
     "director": "",
-    "genre": "Annat20231 jan 202393 minDramaFrån 15 årRumänskaEngelska",
+    "genre": "A máme čo sme chceliSlovakia, Kanada2023101 minDrama, KomediFrån 15 årSlovakiska, TjeckiskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "20:00",
-        "time": "20:00",
+        "display_text": "18:00",
+        "time": "18:00",
         "date": "",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5681",
-        "normalized_datetime": "2025-11-29T20:00:00",
-        "normalized_date": "29.11",
-        "normalized_time": "20:00"
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5683",
+        "normalized_datetime": "2025-11-30T18:00:00",
+        "normalized_date": "30.11",
+        "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-11-29T06:24:22.428195+00:00",
+    "scraped_at": "2025-11-30T06:25:38.814118+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1025385,
-      "title": "Varvara",
-      "overview": "Sasha works for a natural gas company. When his wife gives birth 2 months early, Sasha is searching for money to save the premature baby. Despite this, he refuses to take bribes, which threatens his job and leads to friction with his colleagues. His wife doesn't understand him anymore. Faced with a crisis, Sasha receives an order to install a furnace in a church, where he will have to destroy an icon painted on the church wall. Hoping to save the sacred image, Sasha has to corrupt the system.",
-      "release_date": "2023-11-06",
-      "rating": 7.0,
-      "vote_count": 2,
+      "id": 1191895,
+      "title": "Réveillon",
+      "overview": "What was supposed to be a joyful celebration over the dissolution of Czechoslovakia turns chaotic when the Varchal family discovers that their father betrayed both country and family by working for the secret police. The family members turn against each other.",
+      "release_date": "2023-10-19",
+      "rating": 4.667,
+      "vote_count": 3,
       "genres": [
+        "Comedy",
         "Drama"
       ],
-      "poster_path": "/fklS78lJseoVb1BCaxXsA0grBKz.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fklS78lJseoVb1BCaxXsA0grBKz.jpg",
-      "backdrop_path": "/pCMqdpPcwsBvbuuJwhJoTl4QSAF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pCMqdpPcwsBvbuuJwhJoTl4QSAF.jpg",
-      "imdb_id": "tt21482434",
-      "runtime": 97,
+      "poster_path": "/l4hJCRWhODB1gPTC1J2J2s5Z0CS.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/l4hJCRWhODB1gPTC1J2J2s5Z0CS.jpg",
+      "backdrop_path": "/fEoYi9czl9qfH0m8FqjHt7uAmf6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fEoYi9czl9qfH0m8FqjHt7uAmf6.jpg",
+      "imdb_id": "tt26679171",
+      "runtime": 101,
       "budget": 0,
       "revenue": 0
     }

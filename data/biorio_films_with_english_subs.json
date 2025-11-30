@@ -67,8 +67,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 52,
-          "ticketsAvailable": 128,
+          "ticketsSold": 53,
+          "ticketsAvailable": 127,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-14T09:30:00",
@@ -79,7 +79,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-29T06:20:40.282737",
+    "scraped_at": "2025-11-30T06:21:57.755893",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -168,8 +168,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 31,
-          "ticketsAvailable": 149,
+          "ticketsSold": 32,
+          "ticketsAvailable": 148,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-06T17:30:00",
@@ -235,8 +235,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 91,
-          "ticketsAvailable": 89,
+          "ticketsSold": 97,
+          "ticketsAvailable": 83,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-04T17:00:00",
@@ -247,7 +247,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-29T06:20:43.839696",
+    "scraped_at": "2025-11-30T06:22:01.797564",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -269,88 +269,6 @@
       "budget": 0,
       "revenue": 0
     }
-  },
-  {
-    "film_id": "jujutsu-kaisen-execution",
-    "url": "https://www.biorio.se/movies/jujutsu-kaisen-execution",
-    "title": "Jujutsi Kaisen: Execution",
-    "director": "Shota Goshozono",
-    "showtimes": [
-      {
-        "datetime": "2025-11-29T19:20:00.000Z",
-        "display_text": "Saturday November 29, 2025 at 19:20",
-        "movie_id": "5687",
-        "cinema_id": "10",
-        "booking_url": "https://biorio.se/showtime/1231",
-        "api_data": {
-          "id": 1231,
-          "movieId": 5687,
-          "movieVersionId": 370,
-          "startTime": "2025-11-29T19:20:00.000Z",
-          "endTime": "2025-11-29T20:50:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5687,
-            "title": "JUJUTSU KAISEN: Execution",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5687/posters/1761143875323-d4m9e.jpg",
-            "movieVersions": [
-              {
-                "duration": 90,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 370,
-            "duration": 90,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 27,
-              "name": "Fribiljett från distro"
-            },
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            },
-            {
-              "id": 26,
-              "name": "Diff. pris"
-            }
-          ],
-          "tags": [
-            "English subtitles"
-          ],
-          "ticketsSold": 29,
-          "ticketsAvailable": 151,
-          "isPublished": true
-        },
-        "normalized_datetime": "2025-11-29T19:20:00",
-        "normalized_date": "29.11",
-        "normalized_time": "19:20"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2025-11-29T06:20:45.522377",
-    "source": "biorio"
   },
   {
     "film_id": "tokyo-godfathers",
@@ -412,8 +330,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 5,
-          "ticketsAvailable": 175,
+          "ticketsSold": 7,
+          "ticketsAvailable": 173,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-28T19:30:00",
@@ -552,8 +470,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 126,
-          "ticketsAvailable": 54,
+          "ticketsSold": 129,
+          "ticketsAvailable": 51,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-03T17:00:00",
@@ -564,7 +482,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-29T06:20:50.683100",
+    "scraped_at": "2025-11-30T06:22:16.692818",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
