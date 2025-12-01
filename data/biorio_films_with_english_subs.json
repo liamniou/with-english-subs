@@ -67,8 +67,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 53,
-          "ticketsAvailable": 127,
+          "ticketsSold": 55,
+          "ticketsAvailable": 125,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-14T09:30:00",
@@ -79,7 +79,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-30T06:21:57.755893",
+    "scraped_at": "2025-12-01T06:25:12.306574",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -168,8 +168,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 32,
-          "ticketsAvailable": 148,
+          "ticketsSold": 34,
+          "ticketsAvailable": 146,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-06T17:30:00",
@@ -235,8 +235,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 97,
-          "ticketsAvailable": 83,
+          "ticketsSold": 99,
+          "ticketsAvailable": 81,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-04T17:00:00",
@@ -247,7 +247,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-30T06:22:01.797564",
+    "scraped_at": "2025-12-01T06:25:15.407366",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -330,8 +330,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 7,
-          "ticketsAvailable": 173,
+          "ticketsSold": 9,
+          "ticketsAvailable": 171,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-28T19:30:00",
@@ -470,8 +470,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 129,
-          "ticketsAvailable": 51,
+          "ticketsSold": 134,
+          "ticketsAvailable": 46,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-03T17:00:00",
@@ -482,14 +482,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-11-30T06:22:16.692818",
+    "scraped_at": "2025-12-01T06:25:21.267536",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
       "title": "Tokyo Godfathers",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
-      "rating": 7.919,
+      "rating": 7.9,
       "vote_count": 1414,
       "genres": [
         "Animation",

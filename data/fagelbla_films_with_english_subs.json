@@ -1,31 +1,5 @@
 [
   {
-    "film_id": "fanny-och-alexander--complete-version",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Fanny och Alexander – Complete version",
-    "director": "Ingmar Bergman",
-    "duration": "5h 12 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2025-11-30T10:00:00+01:00",
-        "display_text": "Söndag, 30th November 10:00",
-        "time": "10:00",
-        "date_section": "Söndag, 30th November",
-        "ticket_url": "https://biofagelbla.se/movie/fanny-och-alexander/?showtime=48683",
-        "showtime_id": "48683",
-        "normalized_datetime": "2025-11-30T10:00:00",
-        "normalized_date": "30.11",
-        "normalized_time": "10:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-11-30T06:24:43.842228+00:00",
-    "source": "fagelbla"
-  },
-  {
     "film_id": "in-bruges",
     "url": "https://biofagelbla.se/program/",
     "title": "In Bruges",
@@ -48,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-30T06:24:43.842847+00:00",
+    "scraped_at": "2025-12-01T06:27:01.133184+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 8321,
@@ -56,7 +30,7 @@
       "overview": "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.",
       "release_date": "2008-02-08",
       "rating": 7.495,
-      "vote_count": 5520,
+      "vote_count": 5521,
       "genres": [
         "Comedy",
         "Drama",
@@ -95,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-30T06:24:43.843000+00:00",
+    "scraped_at": "2025-12-01T06:27:01.133363+00:00",
     "source": "fagelbla"
   },
   {
@@ -121,7 +95,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-30T06:24:43.843169+00:00",
+    "scraped_at": "2025-12-01T06:27:01.133550+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 114034,
@@ -166,7 +140,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-30T06:24:43.843641+00:00",
+    "scraped_at": "2025-12-01T06:27:01.134063+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 52331,
@@ -213,7 +187,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-30T06:24:43.843868+00:00",
+    "scraped_at": "2025-12-01T06:27:01.134224+00:00",
     "source": "fagelbla"
   },
   {
@@ -239,7 +213,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-30T06:24:43.844053+00:00",
+    "scraped_at": "2025-12-01T06:27:01.134381+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29455,
@@ -284,15 +258,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-30T06:24:43.844398+00:00",
+    "scraped_at": "2025-12-01T06:27:01.134683+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 562,
       "title": "Die Hard",
       "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her offices Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
       "release_date": "1988-07-15",
-      "rating": 7.802,
-      "vote_count": 11801,
+      "rating": 7.803,
+      "vote_count": 11803,
       "genres": [
         "Action",
         "Thriller"
@@ -330,7 +304,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-30T06:24:43.844696+00:00",
+    "scraped_at": "2025-12-01T06:27:01.134913+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1585,
@@ -338,7 +312,7 @@
       "overview": "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
       "release_date": "1946-12-20",
       "rating": 8.275,
-      "vote_count": 4654,
+      "vote_count": 4656,
       "genres": [
         "Drama",
         "Family",
@@ -377,7 +351,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-30T06:24:43.844885+00:00",
+    "scraped_at": "2025-12-01T06:27:01.135035+00:00",
     "source": "fagelbla"
   },
   {
@@ -403,7 +377,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-30T06:24:43.845104+00:00",
+    "scraped_at": "2025-12-01T06:27:01.135161+00:00",
     "source": "fagelbla"
   },
   {
@@ -429,7 +403,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-30T06:24:43.845400+00:00",
+    "scraped_at": "2025-12-01T06:27:01.135275+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -437,7 +411,7 @@
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
       "rating": 7.632,
-      "vote_count": 4363,
+      "vote_count": 4365,
       "genres": [
         "Comedy",
         "Romance",
@@ -476,7 +450,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-11-30T06:24:43.845697+00:00",
+    "scraped_at": "2025-12-01T06:27:01.135439+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -484,7 +458,7 @@
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
       "rating": 7.632,
-      "vote_count": 4363,
+      "vote_count": 4365,
       "genres": [
         "Comedy",
         "Romance",
