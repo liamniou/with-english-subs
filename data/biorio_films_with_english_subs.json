@@ -67,8 +67,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 55,
-          "ticketsAvailable": 125,
+          "ticketsSold": 57,
+          "ticketsAvailable": 123,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-14T09:30:00",
@@ -79,7 +79,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-12-01T06:25:12.306574",
+    "scraped_at": "2025-12-02T06:24:49.666454",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -168,8 +168,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 34,
-          "ticketsAvailable": 146,
+          "ticketsSold": 37,
+          "ticketsAvailable": 143,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-06T17:30:00",
@@ -235,8 +235,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 99,
-          "ticketsAvailable": 81,
+          "ticketsSold": 103,
+          "ticketsAvailable": 77,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-04T17:00:00",
@@ -247,7 +247,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-12-01T06:25:15.407366",
+    "scraped_at": "2025-12-02T06:24:54.501657",
     "source": "biorio",
     "tmdb": {
       "id": 37659,
@@ -330,8 +330,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 9,
-          "ticketsAvailable": 171,
+          "ticketsSold": 14,
+          "ticketsAvailable": 166,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-28T19:30:00",
@@ -400,8 +400,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 99,
-          "ticketsAvailable": 81,
+          "ticketsSold": 106,
+          "ticketsAvailable": 74,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-18T17:00:00",
@@ -470,8 +470,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 134,
-          "ticketsAvailable": 46,
+          "ticketsSold": 135,
+          "ticketsAvailable": 45,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-03T17:00:00",
@@ -482,7 +482,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-12-01T06:25:21.267536",
+    "scraped_at": "2025-12-02T06:25:04.376491",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
