@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-02T06:27:16.569090+00:00",
+    "scraped_at": "2025-12-03T06:26:40.661233+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 8321,
@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-02T06:27:16.569307+00:00",
+    "scraped_at": "2025-12-03T06:26:40.661414+00:00",
     "source": "fagelbla"
   },
   {
@@ -95,7 +95,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-02T06:27:16.569531+00:00",
+    "scraped_at": "2025-12-03T06:26:40.661620+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 114034,
@@ -140,7 +140,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-02T06:27:16.569989+00:00",
+    "scraped_at": "2025-12-03T06:26:40.662088+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 52331,
@@ -187,7 +187,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-02T06:27:16.570164+00:00",
+    "scraped_at": "2025-12-03T06:26:40.662241+00:00",
     "source": "fagelbla"
   },
   {
@@ -213,7 +213,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-02T06:27:16.570332+00:00",
+    "scraped_at": "2025-12-03T06:26:40.662410+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29455,
@@ -258,7 +258,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-02T06:27:16.570768+00:00",
+    "scraped_at": "2025-12-03T06:26:40.662853+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 562,
@@ -304,7 +304,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-02T06:27:16.571100+00:00",
+    "scraped_at": "2025-12-03T06:26:40.663121+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1585,
@@ -318,10 +318,10 @@
         "Family",
         "Fantasy"
       ],
-      "poster_path": "/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
-      "backdrop_path": "/ch3lDc4xQ9MpsNEpnRhvR8PIxxK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ch3lDc4xQ9MpsNEpnRhvR8PIxxK.jpg",
+      "poster_path": "/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg",
+      "backdrop_path": "/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg",
       "imdb_id": "tt0038650",
       "runtime": 130,
       "budget": 3180000,
@@ -351,7 +351,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-02T06:27:16.571266+00:00",
+    "scraped_at": "2025-12-03T06:26:40.663235+00:00",
     "source": "fagelbla"
   },
   {
@@ -377,7 +377,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-02T06:27:16.571427+00:00",
+    "scraped_at": "2025-12-03T06:26:40.663368+00:00",
     "source": "fagelbla"
   },
   {
@@ -403,7 +403,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-02T06:27:16.571546+00:00",
+    "scraped_at": "2025-12-03T06:26:40.663487+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -450,7 +450,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-02T06:27:16.571695+00:00",
+    "scraped_at": "2025-12-03T06:26:40.663711+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
