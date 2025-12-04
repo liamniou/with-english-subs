@@ -1,43 +1,5 @@
 [
   {
-    "film_id": "13955",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13955&cityId=1",
-    "title": "Originaltitel: Haebyeonui yeoin",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "ons 3/12 kl. 18:00",
-        "normalized_datetime": "2025-12-03T18:00:00",
-        "normalized_date": "03.12",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2025-12-03T06:25:39.951935",
-    "tmdb": {
-      "id": 54659,
-      "title": "Woman on the Beach",
-      "overview": "Film director, Joongrae, is preparing for his next movie but is unable to finish his script. So he pleads his friend, Changwook a production designer, to go with him on a trip even though Changwook had already made plans with his girlfriend, Moonsook, a composer. Eventually Changwook brings his girlfriend along and they all go on a trip to the west coast to visit Shinduri Beach Resort, which is covered with cherry blossoms and a flowing mist. There, Joongrae makes advances on Changwook's girlfriend, Moonsook. Already a fan of his films, Moonsook doesn't hide her interest. So later, while avoiding Changwook's eyes, the two spend a heated night together. But the next day Joongrae's face is filled with anxiety as he proposes to go back to Seoul. He and Moonsook then part awkwardly.",
-      "release_date": "2006-08-31",
-      "rating": 6.2,
-      "vote_count": 36,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/xYgJt5vETydZuFofUUgvJUtFVzz.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xYgJt5vETydZuFofUUgvJUtFVzz.jpg",
-      "backdrop_path": "/6bFE0lj2QkcNc6Y9CTSdlqr0WPE.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6bFE0lj2QkcNc6Y9CTSdlqr0WPE.jpg",
-      "imdb_id": "tt0835787",
-      "runtime": 127,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "5360",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=5360&cityId=1",
     "title": "Originaltitel: La terra trema",
@@ -54,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-03T06:25:44.980605",
+    "scraped_at": "2025-12-04T06:24:18.433226",
     "tmdb": {
       "id": 43445,
       "title": "La Terra Trema",
@@ -92,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-03T06:25:57.039608",
+    "scraped_at": "2025-12-04T06:24:31.460702",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -130,7 +92,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-03T06:26:11.056996",
+    "scraped_at": "2025-12-04T06:24:45.728448",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -168,7 +130,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-03T06:26:15.231768",
+    "scraped_at": "2025-12-04T06:24:50.070502",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -207,7 +169,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-03T06:26:29.084631",
+    "scraped_at": "2025-12-04T06:25:03.504998",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -245,6 +207,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-03T06:26:33.269662"
+    "scraped_at": "2025-12-04T06:25:07.613583"
   }
 ]
