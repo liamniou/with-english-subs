@@ -1,43 +1,5 @@
 [
   {
-    "film_id": "5360",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=5360&cityId=1",
-    "title": "Originaltitel: La terra trema",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "tor 4/12 kl. 18:00",
-        "normalized_datetime": "2025-12-04T18:00:00",
-        "normalized_date": "04.12",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2025-12-04T06:24:18.433226",
-    "tmdb": {
-      "id": 43445,
-      "title": "La Terra Trema",
-      "overview": "In rural Sicily, the fishermen live at the mercy of the greedy wholesalers. One family risks everything to buy their own boat and operate independently.",
-      "release_date": "1949-12-03",
-      "rating": 7.696,
-      "vote_count": 168,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/xSaazq8Am0eLjapiAcCXadXZaqZ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xSaazq8Am0eLjapiAcCXadXZaqZ.jpg",
-      "backdrop_path": "/fM0KgZqgd8o2uvDL46Xuq0ntPCY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fM0KgZqgd8o2uvDL46Xuq0ntPCY.jpg",
-      "imdb_id": "tt0040866",
-      "runtime": 160,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "13961",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13961&cityId=1",
     "title": "Originaltitel: So-seol-ga-ui yeong-hwa",
@@ -54,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-04T06:24:31.460702",
+    "scraped_at": "2025-12-05T06:25:02.140370",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -92,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-04T06:24:45.728448",
+    "scraped_at": "2025-12-05T06:25:14.950021",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -130,7 +92,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-04T06:24:50.070502",
+    "scraped_at": "2025-12-05T06:25:18.794829",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -169,7 +131,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-04T06:25:03.504998",
+    "scraped_at": "2025-12-05T06:25:31.986117",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -207,6 +169,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-04T06:25:07.613583"
+    "scraped_at": "2025-12-05T06:25:35.640120"
   }
 ]
