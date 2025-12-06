@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-05T06:25:02.140370",
+    "scraped_at": "2025-12-06T06:21:54.268834",
     "tmdb": {
       "id": 928713,
       "title": "The Novelist's Film",
@@ -54,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-05T06:25:14.950021",
+    "scraped_at": "2025-12-06T06:22:06.172559",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -92,7 +92,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-05T06:25:18.794829",
+    "scraped_at": "2025-12-06T06:22:09.909813",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -131,7 +131,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-05T06:25:31.986117",
+    "scraped_at": "2025-12-06T06:22:21.485872",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -169,6 +169,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-05T06:25:35.640120"
+    "scraped_at": "2025-12-06T06:22:25.068297"
   }
 ]
