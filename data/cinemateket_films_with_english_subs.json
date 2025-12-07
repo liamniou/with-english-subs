@@ -1,43 +1,5 @@
 [
   {
-    "film_id": "13961",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13961&cityId=1",
-    "title": "Originaltitel: So-seol-ga-ui yeong-hwa",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "lör 6/12 kl. 18:30",
-        "normalized_datetime": "2025-12-06T18:30:00",
-        "normalized_date": "06.12",
-        "normalized_time": "18:30"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2025-12-06T06:21:54.268834",
-    "tmdb": {
-      "id": 928713,
-      "title": "The Novelist's Film",
-      "overview": "A novelist visits a bookstore run by a young colleague who's been out of touch, then takes a walk with a film director and his wife. She meets an actress and tries to convince her to make a film together.",
-      "release_date": "2022-04-21",
-      "rating": 6.6,
-      "vote_count": 42,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/5o4LNNBvc0kquSMaahjT2RTGFBR.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5o4LNNBvc0kquSMaahjT2RTGFBR.jpg",
-      "backdrop_path": "/pAxhLwCuA5HuuMtnHu9SebB26M2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pAxhLwCuA5HuuMtnHu9SebB26M2.jpg",
-      "imdb_id": "tt17146978",
-      "runtime": 92,
-      "budget": 71560,
-      "revenue": 382227
-    }
-  },
-  {
     "film_id": "13956",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13956&cityId=1",
     "title": "Originaltitel: Bam gua nat",
@@ -54,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-06T06:22:06.172559",
+    "scraped_at": "2025-12-07T06:22:04.171626",
     "tmdb": {
       "id": 57859,
       "title": "Night and Day",
@@ -92,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-06T06:22:09.909813",
+    "scraped_at": "2025-12-07T06:22:08.132692",
     "tmdb": {
       "id": 43231,
       "title": "Le Notti Bianche",
@@ -131,7 +93,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-06T06:22:21.485872",
+    "scraped_at": "2025-12-07T06:22:20.987615",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -169,6 +131,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-06T06:22:25.068297"
+    "scraped_at": "2025-12-07T06:22:25.236249"
   }
 ]

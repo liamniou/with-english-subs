@@ -14,8 +14,8 @@
         "date": "",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5655",
-        "normalized_datetime": "2025-12-06T20:00:00",
-        "normalized_date": "06.12",
+        "normalized_datetime": "2025-12-07T20:00:00",
+        "normalized_date": "07.12",
         "normalized_time": "20:00"
       }
     ],
@@ -29,8 +29,8 @@
       "title": "Klute",
       "overview": "A high-priced call girl is forced to depend on a reluctant private eye when she is stalked by a psychopath.",
       "release_date": "1971-06-23",
-      "rating": 6.7,
-      "vote_count": 485,
+      "rating": 6.736,
+      "vote_count": 486,
       "genres": [
         "Thriller",
         "Mystery",
