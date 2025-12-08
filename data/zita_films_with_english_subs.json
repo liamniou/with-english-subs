@@ -1,10 +1,10 @@
 [
   {
-    "film_id": "klute",
-    "url": "https://zita.se/klute",
-    "title": "Klute",
+    "film_id": "unknown-title",
+    "url": "https://zita.se/colossus--the-forbin-project",
+    "title": "Unknown Title",
     "director": "",
-    "genre": "USA197115 nov 1971114 minThrillerFrån 15 årEngelskaEngelska",
+    "genre": "USA19701 jan 1970100 minPolitisk thrillerFrån 15 årFolkets Bio StockholmEngelskaEngelska",
     "duration": "",
     "showtimes": [
       {
@@ -13,37 +13,35 @@
         "time": "20:00",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5655",
-        "normalized_datetime": "2025-12-07T20:00:00",
-        "normalized_date": "07.12",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5653",
+        "normalized_datetime": "2025-12-08T20:00:00",
+        "normalized_date": "08.12",
         "normalized_time": "20:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-12-06T06:22:54.658968+00:00",
+    "scraped_at": "2025-12-08T06:27:46.012829+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 466,
-      "title": "Klute",
-      "overview": "A high-priced call girl is forced to depend on a reluctant private eye when she is stalked by a psychopath.",
-      "release_date": "1971-06-23",
-      "rating": 6.736,
-      "vote_count": 486,
+      "id": 949470,
+      "title": "Unknown Title",
+      "overview": "A short film by Andrei Ventslova",
+      "release_date": "1988-04-15",
+      "rating": 0.0,
+      "vote_count": 0,
       "genres": [
-        "Thriller",
-        "Mystery",
-        "Crime"
+        "Drama"
       ],
-      "poster_path": "/tVyINAsNGSgD1OIstqwCcs7wyGH.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tVyINAsNGSgD1OIstqwCcs7wyGH.jpg",
-      "backdrop_path": "/bxh7ybql4p24u9WsX1GI9v9PDLg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bxh7ybql4p24u9WsX1GI9v9PDLg.jpg",
-      "imdb_id": "tt0067309",
-      "runtime": 114,
-      "budget": 2500000,
-      "revenue": 12512637
+      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "imdb_id": null,
+      "runtime": 1,
+      "budget": 0,
+      "revenue": 0
     }
   }
 ]
