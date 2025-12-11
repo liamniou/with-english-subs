@@ -1,44 +1,5 @@
 [
   {
-    "film_id": "3832",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=3832&cityId=1",
-    "title": "Originaltitel: Le notti bianche",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "ons 10/12 kl. 18:00",
-        "normalized_datetime": "2025-12-10T18:00:00",
-        "normalized_date": "10.12",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2025-12-10T06:25:46.427836",
-    "tmdb": {
-      "id": 43231,
-      "title": "Le Notti Bianche",
-      "overview": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return.",
-      "release_date": "1957-11-14",
-      "rating": 7.446,
-      "vote_count": 240,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/qWiI8U9lhSPR2ccMtNap5fh9zrk.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qWiI8U9lhSPR2ccMtNap5fh9zrk.jpg",
-      "backdrop_path": "/2ijE67SW7xwy7hBb1mdsSOTdaxy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2ijE67SW7xwy7hBb1mdsSOTdaxy.jpg",
-      "imdb_id": "tt0050782",
-      "runtime": 101,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "13916",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13916&cityId=1",
     "title": "Originaltitel: After Work",
@@ -55,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-10T06:25:57.407908",
+    "scraped_at": "2025-12-11T06:26:34.970976",
     "tmdb": {
       "id": 1091360,
       "title": "After Work",
@@ -93,6 +54,6 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-10T06:26:00.698600"
+    "scraped_at": "2025-12-11T06:26:38.803485"
   }
 ]
