@@ -198,30 +198,49 @@ class BioRio:
                 try:
                     api_data = response.json()
                     print(f"    📋 API response type: {type(api_data)}")
-                    print(f"    📋 Found {len(api_data)} showtimes in API response" if isinstance(api_data, list) else f"    📋 API response: {api_data}")
                     
-                    # The new Bio Rio API returns showtimes directly as a list
+                    # Normalize to a list of showtime dicts whether API returned a list or a wrapper dict
+                    data_list = None
                     if isinstance(api_data, list):
-                        movie_showtimes = []
-                        print(f"    🔍 Processing showtimes for movie ID: {movie_id}")
-                        
-                        for showtime in api_data:
-                            if isinstance(showtime, dict):
-                                formatted_showtime = {
-                                    'datetime': showtime.get('startTime', ''),
-                                    'display_text': self.format_api_showtime(showtime),
-                                    'movie_id': movie_id,
-                                    'cinema_id': cinema_id,
-                                    'booking_url': f"https://biorio.se/showtime/{showtime.get('id', '')}",
-                                    'api_data': showtime
-                                }
-                                movie_showtimes.append(formatted_showtime)
-                        
-                        print(f"    ✅ Successfully processed {len(movie_showtimes)} showtimes")
-                        return movie_showtimes
-                    else:
-                        print(f"    ❌ Expected list but got: {type(api_data)}")
+                        data_list = api_data
+                    elif isinstance(api_data, dict):
+                        # Common wrapper shape: {'showtimes': [...]}
+                        if 'showtimes' in api_data and isinstance(api_data['showtimes'], list):
+                            data_list = api_data['showtimes']
+                        # Sometimes it's {'data': [...]}
+                        elif 'data' in api_data and isinstance(api_data['data'], list):
+                            data_list = api_data['data']
+                        else:
+                            # Try to find any first list value inside the dict
+                            for v in api_data.values():
+                                if isinstance(v, list):
+                                    data_list = v
+                                    break
+                    
+                    if not isinstance(data_list, list):
+                        print(f"    ❌ Could not find a showtimes list inside API response. Full response keys: {list(api_data.keys()) if isinstance(api_data, dict) else 'n/a'}")
+                        print(f"    📋 Raw response (truncated): {response.text[:500]}...")
                         return []
+                    
+                    print(f"    📋 Found {len(data_list)} showtimes in API response")
+                    
+                    movie_showtimes = []
+                    print(f"    🔍 Processing showtimes for movie ID: {movie_id}")
+                    
+                    for showtime in data_list:
+                        if isinstance(showtime, dict):
+                            formatted_showtime = {
+                                'datetime': showtime.get('startTime', ''),
+                                'display_text': self.format_api_showtime(showtime),
+                                'movie_id': movie_id,
+                                'cinema_id': cinema_id,
+                                'booking_url': f"https://biorio.se/showtime/{showtime.get('id', '')}",
+                                'api_data': showtime
+                            }
+                            movie_showtimes.append(formatted_showtime)
+                    
+                    print(f"    ✅ Successfully processed {len(movie_showtimes)} showtimes")
+                    return movie_showtimes
                 except Exception as json_error:
                     print(f"    ❌ Error parsing JSON response: {json_error}")
                     print(f"    📋 Raw response: {response.text[:500]}...")
