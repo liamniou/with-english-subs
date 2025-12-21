@@ -1,1 +1,160 @@
-[]
+[
+  {
+    "film_id": "tokyo-godfathers",
+    "url": "https://www.biorio.se/movies/tokyo-godfathers",
+    "title": "Tokyo Godfathers",
+    "director": "Satoshi Kon",
+    "showtimes": [
+      {
+        "datetime": "2025-12-29T19:45:00.000Z",
+        "display_text": "Monday December 29, 2025 at 19:45",
+        "movie_id": "5678",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/1440",
+        "api_data": {
+          "id": 1440,
+          "movieId": 5678,
+          "movieVersionId": 361,
+          "startTime": "2025-12-29T19:45:00.000Z",
+          "endTime": "2025-12-29T21:17:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5678,
+            "title": "Tokyo Godfathers",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5678/posters/1760104162969-hsupo8.jpg",
+            "movieVersions": [
+              {
+                "duration": 92,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 361,
+            "duration": 92,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "reRUN",
+            "Snowtime"
+          ],
+          "ticketsSold": 11,
+          "ticketsAvailable": 169,
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-12-29T19:45:00",
+        "normalized_date": "29.12",
+        "normalized_time": "19:45"
+      },
+      {
+        "datetime": "2025-12-28T19:30:00.000Z",
+        "display_text": "Sunday December 28, 2025 at 19:30",
+        "movie_id": "5678",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/1329",
+        "api_data": {
+          "id": 1329,
+          "movieId": 5678,
+          "movieVersionId": 361,
+          "startTime": "2025-12-28T19:30:00.000Z",
+          "endTime": "2025-12-28T21:02:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5678,
+            "title": "Tokyo Godfathers",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5678/posters/1760104162969-hsupo8.jpg",
+            "movieVersions": [
+              {
+                "duration": 92,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 361,
+            "duration": 92,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "reRUN",
+            "Snowtime"
+          ],
+          "ticketsSold": 92,
+          "ticketsAvailable": 88,
+          "isPublished": true
+        },
+        "normalized_datetime": "2025-12-28T19:30:00",
+        "normalized_date": "28.12",
+        "normalized_time": "19:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2025-12-21T18:58:42.066352",
+    "source": "biorio",
+    "tmdb": {
+      "id": 13398,
+      "title": "Tokyo Godfathers",
+      "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
+      "release_date": "2003-12-05",
+      "rating": 7.917,
+      "vote_count": 1422,
+      "genres": [
+        "Animation",
+        "Drama",
+        "Comedy"
+      ],
+      "poster_path": "/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg",
+      "backdrop_path": "/mnppPdfdtKPNoRemzIZDwOKpgfv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mnppPdfdtKPNoRemzIZDwOKpgfv.jpg",
+      "imdb_id": "tt0388473",
+      "runtime": 92,
+      "budget": 0,
+      "revenue": 607735
+    }
+  }
+]

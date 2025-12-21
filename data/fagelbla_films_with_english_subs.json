@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-21T06:31:34.253217+00:00",
+    "scraped_at": "2025-12-21T19:07:25.017934+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1585,
@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-21T06:31:34.253386+00:00",
+    "scraped_at": "2025-12-21T19:07:25.018084+00:00",
     "source": "fagelbla"
   },
   {
@@ -95,7 +95,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-21T06:31:34.253632+00:00",
+    "scraped_at": "2025-12-21T19:07:25.018343+00:00",
     "source": "fagelbla"
   },
   {
@@ -121,7 +121,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-21T06:31:34.254002+00:00",
+    "scraped_at": "2025-12-21T19:07:25.018707+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -168,7 +168,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-21T06:31:34.254474+00:00",
+    "scraped_at": "2025-12-21T19:07:25.019155+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
@@ -214,7 +214,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-21T06:31:34.254753+00:00",
+    "scraped_at": "2025-12-21T19:07:25.019462+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -261,7 +261,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-21T06:31:34.255017+00:00",
+    "scraped_at": "2025-12-21T19:07:25.019764+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
@@ -307,7 +307,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-21T06:31:34.255220+00:00",
+    "scraped_at": "2025-12-21T19:07:25.020016+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -354,7 +354,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-21T06:31:34.255410+00:00",
+    "scraped_at": "2025-12-21T19:07:25.020219+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 137,
@@ -362,7 +362,7 @@
       "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
       "release_date": "1993-02-11",
       "rating": 7.62,
-      "vote_count": 8548,
+      "vote_count": 8550,
       "genres": [
         "Romance",
         "Fantasy",
