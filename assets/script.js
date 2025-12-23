@@ -15,12 +15,45 @@ function parseDateTime(showtime) {
         }
     }
     
-    // Fallback to original datetime field
+    // Fallback to original datetime field with intelligent date parsing
     if (showtime.datetime) {
         try {
-            return new Date(showtime.datetime);
+            // Parse various datetime formats
+            let dateStr = showtime.datetime. trim();
+            
+            // Try to detect format:  DD.MM HH:MM or DD.MM. YYYY HH:MM
+            const dateTimeRegex = /^(\d{1,2})\.(\d{1,2})(? :\.(\d{4}))?\s+(\d{1,2}):(\d{2})(?::(\d{2}))?$/;
+            const match = dateStr.match(dateTimeRegex);
+            
+            if (match) {
+                const day = parseInt(match[1], 10);
+                const month = parseInt(match[2], 10);
+                let year = match[3] ? parseInt(match[3], 10) : null;
+                const hours = parseInt(match[4], 10);
+                const minutes = parseInt(match[5], 10);
+                
+                // If no year provided, intelligently determine it
+                if (!year) {
+                    const now = new Date();
+                    const currentYear = now.getFullYear();
+                    const currentMonth = now.getMonth() + 1;
+                    const currentDay = now.getDate();
+                    
+                    // If the month/day is in the past this year, use next year
+                    if (month < currentMonth || (month === currentMonth && day < currentDay)) {
+                        year = currentYear + 1;
+                    } else {
+                        year = currentYear;
+                    }
+                }
+                
+                return new Date(year, month - 1, day, hours, minutes, 0);
+            }
+            
+            // Fallback to native Date parsing
+            return new Date(dateStr);
         } catch (e) {
-            console.warn('Could not parse datetime:', showtime.datetime, e);
+            console.warn('Could not parse datetime:', showtime. datetime, e);
         }
     }
     
