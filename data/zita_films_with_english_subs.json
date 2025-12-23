@@ -8,32 +8,10 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2025-12-24T16:00:00",
-        "display_text": "ons 24 dec 16:00",
-        "time": "16:00",
-        "date": "ons 24 dec",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5712",
-        "normalized_datetime": "2025-12-24T16:00:00",
-        "normalized_date": "24.12",
-        "normalized_time": "16:00"
-      },
-      {
-        "datetime": "2025-12-24T18:00:00",
-        "display_text": "ons 24 dec 18:00",
-        "time": "18:00",
-        "date": "ons 24 dec",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5712",
-        "normalized_datetime": "2025-12-24T18:00:00",
-        "normalized_date": "24.12",
-        "normalized_time": "18:00"
-      },
-      {
-        "datetime": "2025-12-24T12:00:00",
-        "display_text": "ons 24 dec 12:00",
+        "datetime": "",
+        "display_text": "i morgon 12:00",
         "time": "12:00",
-        "date": "ons 24 dec",
+        "date": "i morgon",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5712",
         "normalized_datetime": "2025-12-24T12:00:00",
@@ -44,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-12-21T19:07:44.540920+00:00",
+    "scraped_at": "2025-12-23T06:34:07.229958+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1576197,

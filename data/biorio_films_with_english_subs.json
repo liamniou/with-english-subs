@@ -133,15 +133,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-12-22T06:26:55.612500",
+    "scraped_at": "2025-12-23T06:25:33.372727",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
       "title": "Tokyo Godfathers",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
-      "rating": 7.917,
-      "vote_count": 1425,
+      "rating": 7.918,
+      "vote_count": 1426,
       "genres": [
         "Animation",
         "Drama",

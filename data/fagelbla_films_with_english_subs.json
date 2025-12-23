@@ -1,31 +1,5 @@
 [
   {
-    "film_id": "fanny-och-alexander--theatrical-version",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Fanny och Alexander – Theatrical version",
-    "director": "Ingmar Bergman",
-    "duration": "3h 8 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2025-12-22T19:40:00+01:00",
-        "display_text": "Måndag, 22nd December 19:40",
-        "time": "19:40",
-        "date_section": "Måndag, 22nd December",
-        "ticket_url": "https://biofagelbla.se/movie/fanny-och-alexander-theatrical-version/?showtime=48740",
-        "showtime_id": "48740",
-        "normalized_datetime": "2025-12-22T19:40:00",
-        "normalized_date": "22.12",
-        "normalized_time": "19:40"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-12-22T06:33:50.473999+00:00",
-    "source": "fagelbla"
-  },
-  {
     "film_id": "breakfast-at-tiffanys",
     "url": "https://biofagelbla.se/program/",
     "title": "Breakfast at Tiffany’s",
@@ -48,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-22T06:33:50.474449+00:00",
+    "scraped_at": "2025-12-23T06:33:49.742846+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -95,15 +69,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-22T06:33:50.475011+00:00",
+    "scraped_at": "2025-12-23T06:33:49.743367+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
       "title": "Amélie",
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
-      "rating": 7.914,
-      "vote_count": 12059,
+      "rating": 7.9,
+      "vote_count": 12060,
       "genres": [
         "Comedy",
         "Romance"
@@ -141,7 +115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-22T06:33:50.475287+00:00",
+    "scraped_at": "2025-12-23T06:33:49.743622+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -188,7 +162,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-22T06:33:50.475492+00:00",
+    "scraped_at": "2025-12-23T06:33:49.743780+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
@@ -234,7 +208,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-22T06:33:50.475676+00:00",
+    "scraped_at": "2025-12-23T06:33:49.743907+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -281,7 +255,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-22T06:33:50.475891+00:00",
+    "scraped_at": "2025-12-23T06:33:49.744060+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 137,
@@ -289,7 +263,7 @@
       "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
       "release_date": "1993-02-11",
       "rating": 7.62,
-      "vote_count": 8551,
+      "vote_count": 8552,
       "genres": [
         "Romance",
         "Fantasy",
