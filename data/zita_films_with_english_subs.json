@@ -9,9 +9,9 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "i morgon 12:00",
+        "display_text": "12:00",
         "time": "12:00",
-        "date": "i morgon",
+        "date": "",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5712",
         "normalized_datetime": "2025-12-24T12:00:00",
@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-12-23T06:34:07.229958+00:00",
+    "scraped_at": "2025-12-24T06:26:20.187210+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1576197,

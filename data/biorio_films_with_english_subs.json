@@ -1,5 +1,99 @@
 [
   {
+    "film_id": "gimme-danger---filmen-om-the-stooges",
+    "url": "https://www.biorio.se/movies/gimme-danger---filmen-om-the-stooges",
+    "title": "Gimme Danger - filmen om the Stooges",
+    "director": "Jim Jarmusch",
+    "showtimes": [
+      {
+        "datetime": "2026-02-25T17:00:00.000Z",
+        "display_text": "Wednesday February 25, 2026 at 17:00",
+        "movie_id": "5761",
+        "cinema_id": "10",
+        "booking_url": "https://biorio.se/showtime/1499",
+        "api_data": {
+          "id": 1499,
+          "movieId": 5761,
+          "movieVersionId": 446,
+          "startTime": "2026-02-25T17:00:00.000Z",
+          "endTime": "2026-02-25T18:48:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5761,
+            "title": "Gimme Danger - filmen om the Stooges",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5761/posters/1766479761576-hswl4f.avif",
+            "movieVersions": [
+              {
+                "duration": 108,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 446,
+            "duration": 108,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "reRUN"
+          ],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-02-25T17:00:00",
+        "normalized_date": "25.02.2026",
+        "normalized_time": "17:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2025-12-24T06:24:35.720343",
+    "source": "biorio",
+    "tmdb": {
+      "id": 392820,
+      "title": "Gimme Danger",
+      "overview": "No other band in rock'n'roll history has rivaled The Stooges' combination of heavy primal throb, spiked psychedelia, blues-a-billy grind, complete with succinct angst-ridden lyrics, and a snarling, preening leopard of a frontman who somehow embodies Nijinsky, Bruce Lee, Harpo Marx, and Arthur Rimbaud all rolled into one. There is no precedent for The Stooges, while those inspired by them are now legion.  The film will present the context of their emergence musically, culturally, politically, historically, and relate their adventures and misadventures while charting their inspirations and the reasons behind their initial commercial challenges, as well as their long-lasting legacy.",
+      "release_date": "2016-08-05",
+      "rating": 6.813,
+      "vote_count": 136,
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "poster_path": "/8YHqUETRBIFza756s8kcuU8XhEQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8YHqUETRBIFza756s8kcuU8XhEQ.jpg",
+      "backdrop_path": "/9gqyoUyBzpGCY7kLQ2VbGgo1mkT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9gqyoUyBzpGCY7kLQ2VbGgo1mkT.jpg",
+      "imdb_id": "tt1714917",
+      "runtime": 108,
+      "budget": 0,
+      "revenue": 950040
+    }
+  },
+  {
     "film_id": "tokyo-godfathers",
     "url": "https://www.biorio.se/movies/tokyo-godfathers",
     "title": "Tokyo Godfathers",
@@ -59,8 +153,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 14,
-          "ticketsAvailable": 166,
+          "ticketsSold": 16,
+          "ticketsAvailable": 164,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-29T19:45:00",
@@ -133,7 +227,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-12-23T06:25:33.372727",
+    "scraped_at": "2025-12-24T06:25:15.042065",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
