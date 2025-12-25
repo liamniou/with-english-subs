@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-12-24T06:24:35.720343",
+    "scraped_at": "2025-12-25T06:24:13.158202",
     "source": "biorio",
     "tmdb": {
       "id": 392820,
@@ -215,8 +215,8 @@
             "reRUN",
             "Snowtime"
           ],
-          "ticketsSold": 92,
-          "ticketsAvailable": 88,
+          "ticketsSold": 99,
+          "ticketsAvailable": 81,
           "isPublished": true
         },
         "normalized_datetime": "2025-12-28T19:30:00",
@@ -227,15 +227,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-12-24T06:25:15.042065",
+    "scraped_at": "2025-12-25T06:24:51.934621",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
       "title": "Tokyo Godfathers",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
-      "rating": 7.918,
-      "vote_count": 1426,
+      "rating": 7.921,
+      "vote_count": 1429,
       "genres": [
         "Animation",
         "Drama",
