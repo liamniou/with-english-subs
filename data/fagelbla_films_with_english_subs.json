@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-26T06:25:01.328058+00:00",
+    "scraped_at": "2025-12-27T06:29:47.329779+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -69,15 +69,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-26T06:25:01.328547+00:00",
+    "scraped_at": "2025-12-27T06:29:47.330424+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
       "title": "Amélie",
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
-      "rating": 7.9,
-      "vote_count": 12069,
+      "rating": 7.914,
+      "vote_count": 12071,
       "genres": [
         "Comedy",
         "Romance"
@@ -115,7 +115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-26T06:25:01.328785+00:00",
+    "scraped_at": "2025-12-27T06:29:47.330788+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -162,7 +162,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-26T06:25:01.328954+00:00",
+    "scraped_at": "2025-12-27T06:29:47.330947+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
@@ -208,7 +208,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-26T06:25:01.329078+00:00",
+    "scraped_at": "2025-12-27T06:29:47.331075+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -255,7 +255,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-26T06:25:01.329188+00:00",
+    "scraped_at": "2025-12-27T06:29:47.331192+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 137,
@@ -263,7 +263,7 @@
       "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
       "release_date": "1993-02-11",
       "rating": 7.621,
-      "vote_count": 8558,
+      "vote_count": 8561,
       "genres": [
         "Romance",
         "Fantasy",

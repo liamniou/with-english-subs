@@ -1,45 +1,73 @@
 [
   {
-    "film_id": "en-juldröm",
-    "url": "https://zita.se/en-juldrom",
-    "title": "En Juldröm",
+    "film_id": "motståndets-melankoli",
+    "url": "https://zita.se/motstandets-melankoli",
+    "title": "Motståndets melankoli",
     "director": "",
-    "genre": "Sverige202421 dec 202515 minDrama, Familjefilm, KortfilmBarntillåtenFolkets BioLinus Andersson...🔍SvenskaEngelska",
+    "genre": "Werckmeister harmóniákUngern20001 jan 2000145 minDramaFrån 15 årFolkets Bio StockholmUngerskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "12:00",
-        "time": "12:00",
+        "display_text": "17:00",
+        "time": "17:00",
         "date": "",
         "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5712",
-        "normalized_datetime": "2025-12-26T12:00:00",
-        "normalized_date": "26.12",
-        "normalized_time": "12:00"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5742",
+        "normalized_datetime": "2025-12-27T17:00:00",
+        "normalized_date": "27.12",
+        "normalized_time": "17:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-12-24T06:26:20.187210+00:00",
+    "scraped_at": "2025-12-27T06:30:10.530357+00:00",
+    "source": "zita"
+  },
+  {
+    "film_id": "turinhästen",
+    "url": "https://zita.se/turinhasten",
+    "title": "Turinhästen",
+    "director": "",
+    "genre": "A torinói lóUngern, Frankrike20111 jan 2011148 minDramaFrån 15 årFolkets Bio StockholmUngerskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "14:00",
+        "time": "14:00",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5741",
+        "normalized_datetime": "2025-12-27T14:00:00",
+        "normalized_date": "27.12",
+        "normalized_time": "14:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2025-12-27T06:30:25.073970+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1576197,
-      "title": "En juldröm",
-      "overview": "",
-      "release_date": "2025-11-27",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [],
-      "poster_path": "/cVNDuXZmBFnCiLHSFSRPHnBAC0A.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cVNDuXZmBFnCiLHSFSRPHnBAC0A.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt38881612",
-      "runtime": 0,
-      "budget": 0,
-      "revenue": 0
+      "id": 81401,
+      "title": "The Turin Horse",
+      "overview": "A monumental windstorm and an abused horse's refusal to work or eat signal the beginning of the end for a poor farmer and his daughter.",
+      "release_date": "2011-03-31",
+      "rating": 7.609,
+      "vote_count": 393,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/2kSElneXSKmMsGL55k0CbPGqLbu.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2kSElneXSKmMsGL55k0CbPGqLbu.jpg",
+      "backdrop_path": "/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
+      "imdb_id": "tt1316540",
+      "runtime": 155,
+      "budget": 1000000,
+      "revenue": 162088
     }
   }
 ]
