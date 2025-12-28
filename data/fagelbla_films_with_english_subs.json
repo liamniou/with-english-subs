@@ -1,52 +1,5 @@
 [
   {
-    "film_id": "breakfast-at-tiffanys",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Breakfast at Tiffany’s",
-    "director": "Blake Edwards",
-    "duration": "1h 55 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2025-12-27T10:30:00+01:00",
-        "display_text": "Lördag, 27th December 10:30",
-        "time": "10:30",
-        "date_section": "Lördag, 27th December",
-        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=51280",
-        "showtime_id": "51280",
-        "normalized_datetime": "2025-12-27T10:30:00",
-        "normalized_date": "27.12",
-        "normalized_time": "10:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2025-12-27T06:29:47.329779+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 164,
-      "title": "Breakfast at Tiffany's",
-      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
-      "release_date": "1961-10-06",
-      "rating": 7.628,
-      "vote_count": 4382,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "imdb_id": "tt0054698",
-      "runtime": 115,
-      "budget": 2500000,
-      "revenue": 9500000
-    }
-  },
-  {
     "film_id": "amélie-från-montmartre",
     "url": "https://biofagelbla.se/program/",
     "title": "Amélie från Montmartre",
@@ -69,15 +22,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-27T06:29:47.330424+00:00",
+    "scraped_at": "2025-12-28T06:33:07.689531+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 194,
       "title": "Amélie",
       "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
       "release_date": "2001-04-25",
-      "rating": 7.914,
-      "vote_count": 12071,
+      "rating": 7.913,
+      "vote_count": 12074,
       "genres": [
         "Comedy",
         "Romance"
@@ -115,7 +68,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-27T06:29:47.330788+00:00",
+    "scraped_at": "2025-12-28T06:33:07.689930+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -162,7 +115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-27T06:29:47.330947+00:00",
+    "scraped_at": "2025-12-28T06:33:07.690113+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
@@ -208,15 +161,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-27T06:29:47.331075+00:00",
+    "scraped_at": "2025-12-28T06:33:07.690249+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
       "title": "Wings of Desire",
       "overview": "Two angels glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed, but never interacting with them. When one falls in love with lonely trapeze artist, the angel longs to experience life in the physical world and finds that it might be possible for him to take human form.",
       "release_date": "1987-09-23",
-      "rating": 7.8,
-      "vote_count": 1444,
+      "rating": 7.771,
+      "vote_count": 1445,
       "genres": [
         "Drama",
         "Fantasy",
@@ -255,7 +208,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2025-12-27T06:29:47.331192+00:00",
+    "scraped_at": "2025-12-28T06:33:07.690376+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 137,
@@ -263,7 +216,7 @@
       "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
       "release_date": "1993-02-11",
       "rating": 7.621,
-      "vote_count": 8561,
+      "vote_count": 8562,
       "genres": [
         "Romance",
         "Fantasy",
