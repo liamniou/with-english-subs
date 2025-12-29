@@ -14,8 +14,8 @@
         "date": "",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5742",
-        "normalized_datetime": "2025-12-28T17:00:00",
-        "normalized_date": "28.12",
+        "normalized_datetime": "2025-12-29T17:00:00",
+        "normalized_date": "29.12",
         "normalized_time": "17:00"
       }
     ],
@@ -40,8 +40,8 @@
         "date": "",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5741",
-        "normalized_datetime": "2025-12-28T14:00:00",
-        "normalized_date": "28.12",
+        "normalized_datetime": "2025-12-29T14:00:00",
+        "normalized_date": "29.12",
         "normalized_time": "14:00"
       }
     ],
@@ -55,8 +55,8 @@
       "title": "The Turin Horse",
       "overview": "A monumental windstorm and an abused horse's refusal to work or eat signal the beginning of the end for a poor farmer and his daughter.",
       "release_date": "2011-03-31",
-      "rating": 7.609,
-      "vote_count": 393,
+      "rating": 7.61,
+      "vote_count": 394,
       "genres": [
         "Drama"
       ],
