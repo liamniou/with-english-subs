@@ -8,7 +8,7 @@
       {
         "datetime": "",
         "display_text": "tis 27/1 kl. 18:00",
-        "normalized_datetime": "2025-01-27T18:00:00",
+        "normalized_datetime": "2026-01-27T18:00:00",
         "normalized_date": "27.01",
         "normalized_time": "18:00"
       }
@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:26:38.942506",
+    "scraped_at": "2026-01-01T06:27:22.149895",
     "tmdb": {
       "id": 199177,
       "title": "Stars",
@@ -47,7 +47,7 @@
       {
         "datetime": "",
         "display_text": "ons 28/1 kl. 18:00",
-        "normalized_datetime": "2025-01-28T18:00:00",
+        "normalized_datetime": "2026-01-28T18:00:00",
         "normalized_date": "28.01",
         "normalized_time": "18:00"
       }
@@ -55,7 +55,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:26:42.610391",
+    "scraped_at": "2026-01-01T06:27:26.210289",
     "tmdb": {
       "id": 46918,
       "title": "Floating Weeds",
@@ -85,7 +85,7 @@
       {
         "datetime": "",
         "display_text": "tor 29/1 kl. 18:00",
-        "normalized_datetime": "2025-01-29T18:00:00",
+        "normalized_datetime": "2026-01-29T18:00:00",
         "normalized_date": "29.01",
         "normalized_time": "18:00"
       }
@@ -93,7 +93,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:26:46.153732",
+    "scraped_at": "2026-01-01T06:27:30.103536",
     "tmdb": {
       "id": 26302,
       "title": "The Color of Pomegranates",
@@ -124,7 +124,7 @@
       {
         "datetime": "",
         "display_text": "lör 7/2 kl. 14:00",
-        "normalized_datetime": "2025-02-07T14:00:00",
+        "normalized_datetime": "2026-02-07T14:00:00",
         "normalized_date": "07.02",
         "normalized_time": "14:00"
       }
@@ -132,7 +132,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:27:12.522554",
+    "scraped_at": "2026-01-01T06:27:58.011458",
     "tmdb": {
       "id": 729916,
       "title": "Andriesh",
@@ -162,7 +162,7 @@
       {
         "datetime": "",
         "display_text": "lör 7/2 kl. 16:00",
-        "normalized_datetime": "2025-02-07T16:00:00",
+        "normalized_datetime": "2026-02-07T16:00:00",
         "normalized_date": "07.02",
         "normalized_time": "16:00"
       }
@@ -170,7 +170,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:27:16.601670",
+    "scraped_at": "2026-01-01T06:28:01.952952",
     "tmdb": {
       "id": 55197,
       "title": "The Flavor of Green Tea Over Rice",
@@ -200,7 +200,7 @@
       {
         "datetime": "",
         "display_text": "ons 11/2 kl. 18:00",
-        "normalized_datetime": "2025-02-11T18:00:00",
+        "normalized_datetime": "2026-02-11T18:00:00",
         "normalized_date": "11.02",
         "normalized_time": "18:00"
       }
@@ -208,7 +208,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:27:32.529221",
+    "scraped_at": "2026-01-01T06:28:19.233766",
     "tmdb": {
       "id": 957471,
       "title": "The Villain from Edo Kochiyama Soshun",
@@ -238,7 +238,7 @@
       {
         "datetime": "",
         "display_text": "lör 14/2 kl. 14:00",
-        "normalized_datetime": "2025-02-14T14:00:00",
+        "normalized_datetime": "2026-02-14T14:00:00",
         "normalized_date": "14.02",
         "normalized_time": "14:00"
       }
@@ -246,7 +246,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:27:40.169314",
+    "scraped_at": "2026-01-01T06:28:27.431826",
     "tmdb": {
       "id": 1297647,
       "title": "The First Lad",
@@ -276,7 +276,7 @@
       {
         "datetime": "",
         "display_text": "sön 15/2 kl. 16:00",
-        "normalized_datetime": "2025-02-15T16:00:00",
+        "normalized_datetime": "2026-02-15T16:00:00",
         "normalized_date": "15.02",
         "normalized_time": "16:00"
       }
@@ -284,7 +284,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:27:49.966489",
+    "scraped_at": "2026-01-01T06:28:37.918093",
     "tmdb": {
       "id": 353588,
       "title": "Ohayo Sapporo",
@@ -315,7 +315,7 @@
       {
         "datetime": "",
         "display_text": "lör 21/2 kl. 14:00",
-        "normalized_datetime": "2025-02-21T14:00:00",
+        "normalized_datetime": "2026-02-21T14:00:00",
         "normalized_date": "21.02",
         "normalized_time": "14:00"
       }
@@ -323,7 +323,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:28:05.886014"
+    "scraped_at": "2026-01-01T06:28:54.839339"
   },
   {
     "film_id": "4717",
@@ -334,7 +334,7 @@
       {
         "datetime": "",
         "display_text": "ons 25/2 kl. 18:00",
-        "normalized_datetime": "2025-02-25T18:00:00",
+        "normalized_datetime": "2026-02-25T18:00:00",
         "normalized_date": "25.02",
         "normalized_time": "18:00"
       }
@@ -342,7 +342,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:28:23.552437",
+    "scraped_at": "2026-01-01T06:29:13.587723",
     "tmdb": {
       "id": 50759,
       "title": "An Autumn Afternoon",
@@ -372,7 +372,7 @@
       {
         "datetime": "",
         "display_text": "lör 28/2 kl. 14:00",
-        "normalized_datetime": "2025-02-28T14:00:00",
+        "normalized_datetime": "2026-02-28T14:00:00",
         "normalized_date": "28.02",
         "normalized_time": "14:00"
       }
@@ -380,7 +380,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:28:31.269684",
+    "scraped_at": "2026-01-01T06:29:21.849230",
     "tmdb": {
       "id": 103590,
       "title": "The Legend of Suram Fortress",
@@ -411,7 +411,7 @@
       {
         "datetime": "",
         "display_text": "ons 4/3 kl. 18:00",
-        "normalized_datetime": "2025-03-04T18:00:00",
+        "normalized_datetime": "2026-03-04T18:00:00",
         "normalized_date": "04.03",
         "normalized_time": "18:00"
       }
@@ -419,7 +419,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:28:49.263243",
+    "scraped_at": "2026-01-01T06:29:40.543470",
     "tmdb": {
       "id": 50247,
       "title": "Early Summer",
@@ -449,7 +449,7 @@
       {
         "datetime": "",
         "display_text": "mån 9/3 kl. 18:00",
-        "normalized_datetime": "2025-03-09T18:00:00",
+        "normalized_datetime": "2026-03-09T18:00:00",
         "normalized_date": "09.03",
         "normalized_time": "18:00"
       }
@@ -457,7 +457,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2025-12-31T06:29:09.257987"
+    "scraped_at": "2026-01-01T06:30:01.729461"
   },
   {
     "film_id": "8068",
@@ -468,7 +468,7 @@
       {
         "datetime": "",
         "display_text": "tis 10/3 kl. 18:00",
-        "normalized_datetime": "2025-03-10T18:00:00",
+        "normalized_datetime": "2026-03-10T18:00:00",
         "normalized_date": "10.03",
         "normalized_time": "18:00"
       }
@@ -476,7 +476,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:29:12.740681",
+    "scraped_at": "2026-01-01T06:30:05.623813",
     "tmdb": {
       "id": 43981,
       "title": "Salaam Cinema",
@@ -508,7 +508,7 @@
       {
         "datetime": "",
         "display_text": "lör 14/3 kl. 14:00",
-        "normalized_datetime": "2025-03-14T14:00:00",
+        "normalized_datetime": "2026-03-14T14:00:00",
         "normalized_date": "14.03",
         "normalized_time": "14:00"
       }
@@ -516,7 +516,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:29:22.700882",
+    "scraped_at": "2026-01-01T06:30:16.345010",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -548,7 +548,7 @@
       {
         "datetime": "",
         "display_text": "ons 18/3 kl. 18:00",
-        "normalized_datetime": "2025-03-18T18:00:00",
+        "normalized_datetime": "2026-03-18T18:00:00",
         "normalized_date": "18.03",
         "normalized_time": "18:00"
       }
@@ -556,7 +556,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:29:36.536009"
+    "scraped_at": "2026-01-01T06:30:31.293711"
   },
   {
     "film_id": "2794",
@@ -567,7 +567,7 @@
       {
         "datetime": "",
         "display_text": "ons 25/3 kl. 18:00",
-        "normalized_datetime": "2025-03-25T18:00:00",
+        "normalized_datetime": "2026-03-25T18:00:00",
         "normalized_date": "25.03",
         "normalized_time": "18:00"
       }
@@ -575,7 +575,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:29:58.588691",
+    "scraped_at": "2026-01-01T06:30:54.971994",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -605,7 +605,7 @@
       {
         "datetime": "",
         "display_text": "tor 9/4 kl. 18:00",
-        "normalized_datetime": "2025-04-09T18:00:00",
+        "normalized_datetime": "2026-04-09T18:00:00",
         "normalized_date": "09.04",
         "normalized_time": "18:00"
       }
@@ -613,7 +613,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:30:46.858712",
+    "scraped_at": "2026-01-01T06:31:47.458950",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -643,7 +643,7 @@
       {
         "datetime": "",
         "display_text": "lör 11/4 kl. 18:00",
-        "normalized_datetime": "2025-04-11T18:00:00",
+        "normalized_datetime": "2026-04-11T18:00:00",
         "normalized_date": "11.04",
         "normalized_time": "18:00"
       }
@@ -651,7 +651,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:30:56.878174",
+    "scraped_at": "2026-01-01T06:31:58.000767",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -683,7 +683,7 @@
       {
         "datetime": "",
         "display_text": "tor 16/4 kl. 18:00",
-        "normalized_datetime": "2025-04-16T18:00:00",
+        "normalized_datetime": "2026-04-16T18:00:00",
         "normalized_date": "16.04",
         "normalized_time": "18:00"
       }
@@ -691,7 +691,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:31:13.447440",
+    "scraped_at": "2026-01-01T06:32:15.583537",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
@@ -723,7 +723,7 @@
       {
         "datetime": "",
         "display_text": "lör 18/4 kl. 18:00",
-        "normalized_datetime": "2025-04-18T18:00:00",
+        "normalized_datetime": "2026-04-18T18:00:00",
         "normalized_date": "18.04",
         "normalized_time": "18:00"
       }
@@ -731,7 +731,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:31:23.304326",
+    "scraped_at": "2026-01-01T06:32:26.060023",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -763,7 +763,7 @@
       {
         "datetime": "",
         "display_text": "lör 25/4 kl. 18:30",
-        "normalized_datetime": "2025-04-25T18:30:00",
+        "normalized_datetime": "2026-04-25T18:30:00",
         "normalized_date": "25.04",
         "normalized_time": "18:30"
       }
@@ -771,7 +771,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:31:48.177123",
+    "scraped_at": "2026-01-01T06:32:51.858416",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -803,7 +803,7 @@
       {
         "datetime": "",
         "display_text": "lör 9/5 kl. 19:00",
-        "normalized_datetime": "2025-05-09T19:00:00",
+        "normalized_datetime": "2026-05-09T19:00:00",
         "normalized_date": "09.05",
         "normalized_time": "19:00"
       }
@@ -811,7 +811,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:32:33.094576",
+    "scraped_at": "2026-01-01T06:33:39.290428",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -842,7 +842,7 @@
       {
         "datetime": "",
         "display_text": "tor 14/5 kl. 18:00",
-        "normalized_datetime": "2025-05-14T18:00:00",
+        "normalized_datetime": "2026-05-14T18:00:00",
         "normalized_date": "14.05",
         "normalized_time": "18:00"
       }
@@ -850,7 +850,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2025-12-31T06:32:49.098117",
+    "scraped_at": "2026-01-01T06:33:55.821500",
     "tmdb": {
       "id": 336748,
       "title": "Silence of the Sea",
@@ -883,7 +883,7 @@
       {
         "datetime": "",
         "display_text": "lör 16/5 kl. 18:30",
-        "normalized_datetime": "2025-05-16T18:30:00",
+        "normalized_datetime": "2026-05-16T18:30:00",
         "normalized_date": "16.05",
         "normalized_time": "18:30"
       }
@@ -891,7 +891,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2025-12-31T06:32:58.872350",
+    "scraped_at": "2026-01-01T06:34:06.171410",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",

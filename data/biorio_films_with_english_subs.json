@@ -63,14 +63,14 @@
           "isPublished": true
         },
         "normalized_datetime": "2026-02-25T17:00:00",
-        "normalized_date": "25.02.2026",
+        "normalized_date": "25.02",
         "normalized_time": "17:00"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2025-12-31T06:24:37.329700",
+    "scraped_at": "2026-01-01T06:24:37.434897",
     "source": "biorio",
     "tmdb": {
       "id": 392820,
