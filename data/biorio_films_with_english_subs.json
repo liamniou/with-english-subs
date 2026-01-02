@@ -70,14 +70,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-01-01T06:24:37.434897",
+    "scraped_at": "2026-01-02T06:24:44.587079",
     "source": "biorio",
     "tmdb": {
       "id": 392820,
       "title": "Gimme Danger",
       "overview": "No other band in rock'n'roll history has rivaled The Stooges' combination of heavy primal throb, spiked psychedelia, blues-a-billy grind, complete with succinct angst-ridden lyrics, and a snarling, preening leopard of a frontman who somehow embodies Nijinsky, Bruce Lee, Harpo Marx, and Arthur Rimbaud all rolled into one. There is no precedent for The Stooges, while those inspired by them are now legion.  The film will present the context of their emergence musically, culturally, politically, historically, and relate their adventures and misadventures while charting their inspirations and the reasons behind their initial commercial challenges, as well as their long-lasting legacy.",
       "release_date": "2016-08-05",
-      "rating": 6.813,
+      "rating": 6.8,
       "vote_count": 136,
       "genres": [
         "Documentary",
@@ -85,8 +85,8 @@
       ],
       "poster_path": "/8YHqUETRBIFza756s8kcuU8XhEQ.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/8YHqUETRBIFza756s8kcuU8XhEQ.jpg",
-      "backdrop_path": "/9gqyoUyBzpGCY7kLQ2VbGgo1mkT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9gqyoUyBzpGCY7kLQ2VbGgo1mkT.jpg",
+      "backdrop_path": "/pZpNErsqNbzODGAudQvhJ7pp6oH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pZpNErsqNbzODGAudQvhJ7pp6oH.jpg",
       "imdb_id": "tt1714917",
       "runtime": 108,
       "budget": 0,

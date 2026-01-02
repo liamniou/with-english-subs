@@ -1,51 +1,5 @@
 [
   {
-    "film_id": "amélie-från-montmartre",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Amélie från Montmartre",
-    "director": "Jean-Pierre Jeunet",
-    "duration": "2h 3 mins",
-    "language": "Franska",
-    "showtimes": [
-      {
-        "datetime": "2026-01-04T10:30:00+01:00",
-        "display_text": "Söndag, 4th Januari 10:30",
-        "time": "10:30",
-        "date_section": "Söndag, 4th Januari",
-        "ticket_url": "https://biofagelbla.se/movie/amelie/?showtime=52631",
-        "showtime_id": "52631",
-        "normalized_datetime": "2026-01-04T10:30:00",
-        "normalized_date": "04.01",
-        "normalized_time": "10:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-01-01T06:34:23.958483+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 194,
-      "title": "Amélie",
-      "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
-      "release_date": "2001-04-25",
-      "rating": 7.914,
-      "vote_count": 12081,
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "poster_path": "/vZ9NhNbQQ3yhtiC5sbhpy5KTXns.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vZ9NhNbQQ3yhtiC5sbhpy5KTXns.jpg",
-      "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
-      "imdb_id": "tt0211915",
-      "runtime": 122,
-      "budget": 10000000,
-      "revenue": 173921954
-    }
-  },
-  {
     "film_id": "persona",
     "url": "https://biofagelbla.se/program/",
     "title": "Persona",
@@ -68,15 +22,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-01T06:34:23.959398+00:00",
+    "scraped_at": "2026-01-02T06:27:10.852486+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.141,
-      "vote_count": 2341,
+      "rating": 8.142,
+      "vote_count": 2342,
       "genres": [
         "Drama"
       ],
@@ -113,7 +67,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-01T06:34:23.959604+00:00",
+    "scraped_at": "2026-01-02T06:27:10.852711+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -160,15 +114,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-01T06:34:23.959792+00:00",
+    "scraped_at": "2026-01-02T06:27:10.852888+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
       "title": "Marie Antoinette",
       "overview": "The retelling of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles.",
       "release_date": "2006-05-24",
-      "rating": 6.694,
-      "vote_count": 2883,
+      "rating": 6.695,
+      "vote_count": 2884,
       "genres": [
         "Drama",
         "History"
@@ -206,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-01T06:34:23.959905+00:00",
+    "scraped_at": "2026-01-02T06:27:10.853003+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -253,15 +207,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-01T06:34:23.960044+00:00",
+    "scraped_at": "2026-01-02T06:27:10.853115+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 137,
       "title": "Groundhog Day",
       "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
       "release_date": "1993-02-11",
-      "rating": 7.621,
-      "vote_count": 8569,
+      "rating": 7.622,
+      "vote_count": 8573,
       "genres": [
         "Romance",
         "Fantasy",
