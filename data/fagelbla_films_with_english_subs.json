@@ -22,15 +22,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-04T06:30:49.392123+00:00",
+    "scraped_at": "2026-01-05T06:36:38.572751+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.1,
-      "vote_count": 2342,
+      "rating": 8.141,
+      "vote_count": 2344,
       "genres": [
         "Drama"
       ],
@@ -67,15 +67,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-04T06:30:49.392369+00:00",
+    "scraped_at": "2026-01-05T06:36:38.573025+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.629,
-      "vote_count": 4386,
+      "rating": 7.628,
+      "vote_count": 4389,
       "genres": [
         "Comedy",
         "Romance",
@@ -114,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-04T06:30:49.392590+00:00",
+    "scraped_at": "2026-01-05T06:36:38.573230+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
@@ -122,7 +122,7 @@
       "overview": "The retelling of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles.",
       "release_date": "2006-05-24",
       "rating": 6.695,
-      "vote_count": 2884,
+      "vote_count": 2886,
       "genres": [
         "Drama",
         "History"
@@ -160,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-04T06:30:49.392721+00:00",
+    "scraped_at": "2026-01-05T06:36:38.573376+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -168,7 +168,7 @@
       "overview": "Two angels glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed, but never interacting with them. When one falls in love with lonely trapeze artist, the angel longs to experience life in the physical world and finds that it might be possible for him to take human form.",
       "release_date": "1987-09-23",
       "rating": 7.773,
-      "vote_count": 1448,
+      "vote_count": 1449,
       "genres": [
         "Drama",
         "Fantasy",
@@ -207,19 +207,18 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-04T06:30:49.392846+00:00",
+    "scraped_at": "2026-01-05T06:36:38.573508+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 137,
       "title": "Groundhog Day",
       "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
       "release_date": "1993-02-11",
-      "rating": 7.622,
-      "vote_count": 8579,
+      "rating": 7.621,
+      "vote_count": 8582,
       "genres": [
         "Romance",
         "Fantasy",
-        "Drama",
         "Comedy"
       ],
       "poster_path": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
