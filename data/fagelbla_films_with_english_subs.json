@@ -22,15 +22,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-05T06:36:38.572751+00:00",
+    "scraped_at": "2026-01-06T06:31:58.351654+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.141,
-      "vote_count": 2344,
+      "rating": 8.1,
+      "vote_count": 2345,
       "genres": [
         "Drama"
       ],
@@ -42,6 +42,52 @@
       "runtime": 84,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "the-end",
+    "url": "https://biofagelbla.se/program/",
+    "title": "The End",
+    "director": "Joshua Oppenheimer",
+    "duration": "2h 29 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-01-16T20:30:00+01:00",
+        "display_text": "Fredag, 16th Januari 20:30",
+        "time": "20:30",
+        "date_section": "Fredag, 16th Januari",
+        "ticket_url": "https://biofagelbla.se/movie/the-end/?showtime=53320",
+        "showtime_id": "53320",
+        "normalized_datetime": "2026-01-16T20:30:00",
+        "normalized_date": "16.01",
+        "normalized_time": "20:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-06T06:31:58.352058+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 881366,
+      "title": "The End",
+      "overview": "Twenty-five years after environmental collapse left the Earth uninhabitable, Mother, Father and Son are confined to their palatial bunker, where they struggle to maintain hope and a sense of normalcy by clinging to the rituals of daily life—until the arrival of a stranger, Girl, upends their happy routine. As tensions rise, their seemingly idyllic existence starts to crumble.",
+      "release_date": "2024-12-06",
+      "rating": 5.292,
+      "vote_count": 65,
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "poster_path": "/kYMLpw3DQjQjp2jzNrg3KvNFIr6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kYMLpw3DQjQjp2jzNrg3KvNFIr6.jpg",
+      "backdrop_path": "/fnuftuStugg1sbEOeefQKQu7EE6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fnuftuStugg1sbEOeefQKQu7EE6.jpg",
+      "imdb_id": "tt15551346",
+      "runtime": 149,
+      "budget": 0,
+      "revenue": 141660
     }
   },
   {
@@ -67,7 +113,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-05T06:36:38.573025+00:00",
+    "scraped_at": "2026-01-06T06:31:58.352203+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -89,6 +135,52 @@
       "runtime": 115,
       "budget": 2500000,
       "revenue": 9500000
+    }
+  },
+  {
+    "film_id": "the-end",
+    "url": "https://biofagelbla.se/program/",
+    "title": "The End",
+    "director": "Joshua Oppenheimer",
+    "duration": "2h 29 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-01-17T17:30:00+01:00",
+        "display_text": "Lördag, 17th Januari 17:30",
+        "time": "17:30",
+        "date_section": "Lördag, 17th Januari",
+        "ticket_url": "https://biofagelbla.se/movie/the-end/?showtime=53321",
+        "showtime_id": "53321",
+        "normalized_datetime": "2026-01-17T17:30:00",
+        "normalized_date": "17.01",
+        "normalized_time": "17:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-06T06:31:58.352353+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 881366,
+      "title": "The End",
+      "overview": "Twenty-five years after environmental collapse left the Earth uninhabitable, Mother, Father and Son are confined to their palatial bunker, where they struggle to maintain hope and a sense of normalcy by clinging to the rituals of daily life—until the arrival of a stranger, Girl, upends their happy routine. As tensions rise, their seemingly idyllic existence starts to crumble.",
+      "release_date": "2024-12-06",
+      "rating": 5.292,
+      "vote_count": 65,
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "poster_path": "/kYMLpw3DQjQjp2jzNrg3KvNFIr6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kYMLpw3DQjQjp2jzNrg3KvNFIr6.jpg",
+      "backdrop_path": "/fnuftuStugg1sbEOeefQKQu7EE6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fnuftuStugg1sbEOeefQKQu7EE6.jpg",
+      "imdb_id": "tt15551346",
+      "runtime": 149,
+      "budget": 0,
+      "revenue": 141660
     }
   },
   {
@@ -114,7 +206,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-05T06:36:38.573230+00:00",
+    "scraped_at": "2026-01-06T06:31:58.352679+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
@@ -122,7 +214,7 @@
       "overview": "The retelling of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles.",
       "release_date": "2006-05-24",
       "rating": 6.695,
-      "vote_count": 2886,
+      "vote_count": 2887,
       "genres": [
         "Drama",
         "History"
@@ -160,7 +252,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-05T06:36:38.573376+00:00",
+    "scraped_at": "2026-01-06T06:31:58.352851+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -207,7 +299,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-05T06:36:38.573508+00:00",
+    "scraped_at": "2026-01-06T06:31:58.353076+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 137,
@@ -215,7 +307,7 @@
       "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
       "release_date": "1993-02-11",
       "rating": 7.621,
-      "vote_count": 8582,
+      "vote_count": 8584,
       "genres": [
         "Romance",
         "Fantasy",
