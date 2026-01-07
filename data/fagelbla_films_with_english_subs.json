@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-06T06:31:58.351654+00:00",
+    "scraped_at": "2026-01-07T06:31:34.858371+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -67,7 +67,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-06T06:31:58.352058+00:00",
+    "scraped_at": "2026-01-07T06:31:34.858846+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 881366,
@@ -113,15 +113,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-06T06:31:58.352203+00:00",
+    "scraped_at": "2026-01-07T06:31:34.858995+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.628,
-      "vote_count": 4389,
+      "rating": 7.627,
+      "vote_count": 4390,
       "genres": [
         "Comedy",
         "Romance",
@@ -160,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-06T06:31:58.352353+00:00",
+    "scraped_at": "2026-01-07T06:31:34.859158+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 881366,
@@ -206,7 +206,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-06T06:31:58.352679+00:00",
+    "scraped_at": "2026-01-07T06:31:34.859440+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
@@ -252,7 +252,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-06T06:31:58.352851+00:00",
+    "scraped_at": "2026-01-07T06:31:34.859673+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -299,7 +299,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-06T06:31:58.353076+00:00",
+    "scraped_at": "2026-01-07T06:31:34.859951+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 137,
@@ -307,7 +307,7 @@
       "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
       "release_date": "1993-02-11",
       "rating": 7.621,
-      "vote_count": 8584,
+      "vote_count": 8585,
       "genres": [
         "Romance",
         "Fantasy",
@@ -321,6 +321,53 @@
       "runtime": 101,
       "budget": 14600000,
       "revenue": 71108778
+    }
+  },
+  {
+    "film_id": "breakfast-at-tiffanys",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Breakfast at Tiffany’s",
+    "director": "Blake Edwards",
+    "duration": "1h 55 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-02-07T10:30:00+01:00",
+        "display_text": "Lördag, 7th Februari 10:30",
+        "time": "10:30",
+        "date_section": "Lördag, 7th Februari",
+        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=53356",
+        "showtime_id": "53356",
+        "normalized_datetime": "2026-02-07T10:30:00",
+        "normalized_date": "07.02",
+        "normalized_time": "10:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-07T06:31:34.860158+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 164,
+      "title": "Breakfast at Tiffany's",
+      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+      "release_date": "1961-10-06",
+      "rating": 7.627,
+      "vote_count": 4390,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "imdb_id": "tt0054698",
+      "runtime": 115,
+      "budget": 2500000,
+      "revenue": 9500000
     }
   }
 ]
