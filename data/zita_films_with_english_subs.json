@@ -1,73 +1,50 @@
 [
   {
-    "film_id": "motståndets-melankoli",
-    "url": "https://zita.se/motstandets-melankoli",
-    "title": "Motståndets melankoli",
+    "film_id": "thelma--louise",
+    "url": "https://zita.se/thelma-louise",
+    "title": "Thelma & Louise",
     "director": "",
-    "genre": "Werckmeister harmóniákUngern20001 jan 2000145 minDramaFrån 15 årFolkets Bio StockholmUngerskaEngelska",
+    "genre": "USA19911 jan 1991130 minDramaFrån 15 årFolkets Bio StockholmEngelskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "17:00",
-        "time": "17:00",
-        "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5742",
-        "normalized_datetime": "2026-01-07T17:00:00",
-        "normalized_date": "07.01",
-        "normalized_time": "17:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2025-12-27T06:30:10.530357+00:00",
-    "source": "zita"
-  },
-  {
-    "film_id": "turinhästen",
-    "url": "https://zita.se/turinhasten",
-    "title": "Turinhästen",
-    "director": "",
-    "genre": "A torinói lóUngern, Frankrike20111 jan 2011148 minDramaFrån 15 årFolkets Bio StockholmUngerskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "14:00",
-        "time": "14:00",
+        "display_text": "20:00",
+        "time": "20:00",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5741",
-        "normalized_datetime": "2026-01-07T14:00:00",
-        "normalized_date": "07.01",
-        "normalized_time": "14:00"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5490",
+        "normalized_datetime": "2026-01-08T20:00:00",
+        "normalized_date": "08.01",
+        "normalized_time": "20:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2025-12-27T06:30:25.073970+00:00",
+    "scraped_at": "2026-01-08T06:32:40.273364+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 81401,
-      "title": "The Turin Horse",
-      "overview": "A monumental windstorm and an abused horse's refusal to work or eat signal the beginning of the end for a poor farmer and his daughter.",
-      "release_date": "2011-03-31",
-      "rating": 7.61,
-      "vote_count": 394,
+      "id": 1541,
+      "title": "Thelma & Louise",
+      "overview": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
+      "release_date": "1991-05-24",
+      "rating": 7.593,
+      "vote_count": 3738,
       "genres": [
-        "Drama"
+        "Drama",
+        "Thriller",
+        "Crime",
+        "Adventure"
       ],
-      "poster_path": "/2kSElneXSKmMsGL55k0CbPGqLbu.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2kSElneXSKmMsGL55k0CbPGqLbu.jpg",
-      "backdrop_path": "/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
-      "imdb_id": "tt1316540",
-      "runtime": 155,
-      "budget": 1000000,
-      "revenue": 162088
+      "poster_path": "/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg",
+      "backdrop_path": "/4EwtX20mFGsT0Ws3iRXMS6yffTJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/4EwtX20mFGsT0Ws3iRXMS6yffTJ.jpg",
+      "imdb_id": "tt0103074",
+      "runtime": 130,
+      "budget": 16000000,
+      "revenue": 45361000
     }
   }
 ]
