@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-08T06:32:08.309147+00:00",
+    "scraped_at": "2026-01-09T06:31:37.275567+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -67,15 +67,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-08T06:32:08.309647+00:00",
+    "scraped_at": "2026-01-09T06:31:37.276042+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.627,
-      "vote_count": 4392,
+      "rating": 7.628,
+      "vote_count": 4394,
       "genres": [
         "Comedy",
         "Romance",
@@ -114,14 +114,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-08T06:32:08.309998+00:00",
+    "scraped_at": "2026-01-09T06:31:37.276405+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
       "title": "Marie Antoinette",
       "overview": "The retelling of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles.",
       "release_date": "2006-05-24",
-      "rating": 6.695,
+      "rating": 6.7,
       "vote_count": 2888,
       "genres": [
         "Drama",
@@ -160,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-08T06:32:08.310134+00:00",
+    "scraped_at": "2026-01-09T06:31:37.276569+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -207,7 +207,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-08T06:32:08.310290+00:00",
+    "scraped_at": "2026-01-09T06:31:37.276754+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 137,
@@ -215,7 +215,7 @@
       "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
       "release_date": "1993-02-11",
       "rating": 7.621,
-      "vote_count": 8589,
+      "vote_count": 8593,
       "genres": [
         "Romance",
         "Fantasy",
@@ -254,15 +254,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-08T06:32:08.310480+00:00",
+    "scraped_at": "2026-01-09T06:31:37.277002+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.627,
-      "vote_count": 4392,
+      "rating": 7.628,
+      "vote_count": 4394,
       "genres": [
         "Comedy",
         "Romance",
