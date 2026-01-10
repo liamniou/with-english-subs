@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-09T06:31:37.275567+00:00",
+    "scraped_at": "2026-01-10T06:30:18.104375+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -67,14 +67,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-09T06:31:37.276042+00:00",
+    "scraped_at": "2026-01-10T06:30:18.104844+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.628,
+      "rating": 7.6,
       "vote_count": 4394,
       "genres": [
         "Comedy",
@@ -89,6 +89,51 @@
       "runtime": 115,
       "budget": 2500000,
       "revenue": 9500000
+    }
+  },
+  {
+    "film_id": "nattvardsgästerna",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Nattvardsgästerna",
+    "director": "Ingmar Bergman",
+    "duration": "1h 21 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-01-19T17:45:00+01:00",
+        "display_text": "Måndag, 19th Januari 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 19th Januari",
+        "ticket_url": "https://biofagelbla.se/movie/nattvardsgasterna/?showtime=53387",
+        "showtime_id": "53387",
+        "normalized_datetime": "2026-01-19T17:45:00",
+        "normalized_date": "19.01",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-10T06:30:18.105138+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 29455,
+      "title": "Winter Light",
+      "overview": "A Swedish pastor fails a loving woman, a suicidal fisherman and God.",
+      "release_date": "1963-02-11",
+      "rating": 7.891,
+      "vote_count": 485,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/wDxrEssdjFWYwIZLbr06RQNcg1q.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wDxrEssdjFWYwIZLbr06RQNcg1q.jpg",
+      "backdrop_path": "/tis6nrWakUsuG6Jwdm4yESfTU0o.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tis6nrWakUsuG6Jwdm4yESfTU0o.jpg",
+      "imdb_id": "tt0057358",
+      "runtime": 80,
+      "budget": 0,
+      "revenue": 0
     }
   },
   {
@@ -114,15 +159,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-09T06:31:37.276405+00:00",
+    "scraped_at": "2026-01-10T06:30:18.105337+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
       "title": "Marie Antoinette",
       "overview": "The retelling of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles.",
       "release_date": "2006-05-24",
-      "rating": 6.7,
-      "vote_count": 2888,
+      "rating": 6.696,
+      "vote_count": 2889,
       "genres": [
         "Drama",
         "History"
@@ -160,7 +205,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-09T06:31:37.276569+00:00",
+    "scraped_at": "2026-01-10T06:30:18.105468+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -182,6 +227,52 @@
       "runtime": 128,
       "budget": 2500000,
       "revenue": 3210139
+    }
+  },
+  {
+    "film_id": "det-sjunde-inseglet",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Det sjunde inseglet",
+    "director": "Ingmar Bergman",
+    "duration": "1h 36 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-01-26T17:45:00+01:00",
+        "display_text": "Måndag, 26th Januari 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 26th Januari",
+        "ticket_url": "https://biofagelbla.se/movie/det-sjunde-inseglet/?showtime=53388",
+        "showtime_id": "53388",
+        "normalized_datetime": "2026-01-26T17:45:00",
+        "normalized_date": "26.01",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-10T06:30:18.105591+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 490,
+      "title": "The Seventh Seal",
+      "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+      "release_date": "1957-02-16",
+      "rating": 8.163,
+      "vote_count": 3237,
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "poster_path": "/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+      "backdrop_path": "/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
+      "imdb_id": "tt0050976",
+      "runtime": 96,
+      "budget": 150000,
+      "revenue": 311212
     }
   },
   {
@@ -207,7 +298,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-09T06:31:37.276754+00:00",
+    "scraped_at": "2026-01-10T06:30:18.105913+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 137,
@@ -229,6 +320,52 @@
       "runtime": 101,
       "budget": 14600000,
       "revenue": 71108778
+    }
+  },
+  {
+    "film_id": "jungfrukällan",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Jungfrukällan",
+    "director": "Ingmar Bergman",
+    "duration": "1h 26 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-02-02T17:45:00+01:00",
+        "display_text": "Måndag, 2nd Februari 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 2nd Februari",
+        "ticket_url": "https://biofagelbla.se/movie/jungfrukallan/?showtime=53389",
+        "showtime_id": "53389",
+        "normalized_datetime": "2026-02-02T17:45:00",
+        "normalized_date": "02.02",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-10T06:30:18.106161+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 11656,
+      "title": "The Virgin Spring",
+      "overview": "Devout Christians Töre and Märeta send their only daughter, the virginal Karin, and their foster daughter, the unrepentant Ingeri, to deliver candles to a distant church. On their way through the woods, the girls encounter a group of savage goat herders who brutally rape and murder Karin as Ingeri remains hidden. When the killers unwittingly seek refuge in the farmhouse of Töre and Märeta, Töre plots a fitting revenge.",
+      "release_date": "1960-02-08",
+      "rating": 7.845,
+      "vote_count": 657,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "poster_path": "/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
+      "backdrop_path": "/pcBIabUibUmpOBggWckkjohXtiP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pcBIabUibUmpOBggWckkjohXtiP.jpg",
+      "imdb_id": "tt0053976",
+      "runtime": 90,
+      "budget": 0,
+      "revenue": 700000
     }
   },
   {
@@ -254,14 +391,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-09T06:31:37.277002+00:00",
+    "scraped_at": "2026-01-10T06:30:18.106432+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.628,
+      "rating": 7.6,
       "vote_count": 4394,
       "genres": [
         "Comedy",
@@ -276,6 +413,597 @@
       "runtime": 115,
       "budget": 2500000,
       "revenue": 9500000
+    }
+  },
+  {
+    "film_id": "skammen",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Skammen",
+    "director": "Ingmar Bergman",
+    "duration": "1h 43 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-02-09T17:45:00+01:00",
+        "display_text": "Måndag, 9th Februari 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 9th Februari",
+        "ticket_url": "https://biofagelbla.se/movie/skammen/?showtime=53390",
+        "showtime_id": "53390",
+        "normalized_datetime": "2026-02-09T17:45:00",
+        "normalized_date": "09.02",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-10T06:30:18.106637+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 26372,
+      "title": "Shame",
+      "overview": "In the midst of a civil war, a pair of former violinists in a tempestuous marriage oversee a farm on a rural island. In spite of their best efforts to escape their homeland, the war impinges on every aspect of their lives.",
+      "release_date": "1968-09-29",
+      "rating": 7.5,
+      "vote_count": 235,
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "poster_path": "/cRJFOadujA7COrBV4HqB6bWcpLs.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cRJFOadujA7COrBV4HqB6bWcpLs.jpg",
+      "backdrop_path": "/mq8Vguqv4GjHfpSVIWFkIsOS6YK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mq8Vguqv4GjHfpSVIWFkIsOS6YK.jpg",
+      "imdb_id": "tt0063611",
+      "runtime": 104,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "persona",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Persona",
+    "director": "Ingmar Bergman",
+    "duration": "1h 24 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-02-16T20:30:00+01:00",
+        "display_text": "Måndag, 16th Februari 20:30",
+        "time": "20:30",
+        "date_section": "Måndag, 16th Februari",
+        "ticket_url": "https://biofagelbla.se/movie/persona/?showtime=53391",
+        "showtime_id": "53391",
+        "normalized_datetime": "2026-02-16T20:30:00",
+        "normalized_date": "16.02",
+        "normalized_time": "20:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-10T06:30:18.106792+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 797,
+      "title": "Persona",
+      "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
+      "release_date": "1966-10-18",
+      "rating": 8.1,
+      "vote_count": 2345,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/v2KsLNChpT6vLf0YFhkJmAtGkNq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/v2KsLNChpT6vLf0YFhkJmAtGkNq.jpg",
+      "backdrop_path": "/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
+      "imdb_id": "tt0060827",
+      "runtime": 84,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "smultronstället",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Smultronstället",
+    "director": "Ingmar Bergman",
+    "duration": "1h 31 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-02-23T17:45:00+01:00",
+        "display_text": "Måndag, 23rd Februari 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 23rd Februari",
+        "ticket_url": "https://biofagelbla.se/movie/smultronstallet/?showtime=53392",
+        "showtime_id": "53392",
+        "normalized_datetime": "2026-02-23T17:45:00",
+        "normalized_date": "23.02",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-10T06:30:18.106930+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 614,
+      "title": "Wild Strawberries",
+      "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
+      "release_date": "1957-08-28",
+      "rating": 8.093,
+      "vote_count": 1758,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
+      "backdrop_path": "/BBVAUchYvkmPThVIqipgAfabfl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/BBVAUchYvkmPThVIqipgAfabfl.jpg",
+      "imdb_id": "tt0050986",
+      "runtime": 91,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "tystnaden",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Tystnaden",
+    "director": "Ingmar Bergman",
+    "duration": "1h 36 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-03-02T17:45:00+01:00",
+        "display_text": "Måndag, 2nd Mars 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 2nd Mars",
+        "ticket_url": "https://biofagelbla.se/movie/tystnaden/?showtime=53394",
+        "showtime_id": "53394",
+        "normalized_datetime": "2026-03-02T17:45:00",
+        "normalized_date": "02.03",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-10T06:30:18.107045+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 11506,
+      "title": "The Silence",
+      "overview": "Traveling through an unnamed European country on the brink of war, sickly, intellectual Ester, her sister Anna and Anna's young son, Johan, check into a near-empty hotel. A basic inability to communicate among the three seems only to worsen during their stay. Anna provokes her sister by enjoying a dalliance with a local man, while the boy, left to himself, has a series of enigmatic encounters that heighten the growing air of isolation.",
+      "release_date": "1963-09-23",
+      "rating": 7.5,
+      "vote_count": 389,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/2KkHAsBVZVoMO1Zauvm5rFSxp09.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2KkHAsBVZVoMO1Zauvm5rFSxp09.jpg",
+      "backdrop_path": "/mNpd8763X64KKGXnrdnBHdON9np.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mNpd8763X64KKGXnrdnBHdON9np.jpg",
+      "imdb_id": "tt0057611",
+      "runtime": 95,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "viskningar-och-rop",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Viskningar och rop",
+    "director": "Ingmar Bergman",
+    "duration": "1h 31 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-03-09T17:45:00+01:00",
+        "display_text": "Måndag, 9th Mars 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 9th Mars",
+        "ticket_url": "https://biofagelbla.se/movie/viskningar-och-rop/?showtime=53395",
+        "showtime_id": "53395",
+        "normalized_datetime": "2026-03-09T17:45:00",
+        "normalized_date": "09.03",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-10T06:30:18.107170+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 10238,
+      "title": "Cries and Whispers",
+      "overview": "As Agnes slowly dies of cancer, her sisters are so immersed in their own psychic pains that they are unable to offer her the support she needs.",
+      "release_date": "1972-12-21",
+      "rating": 7.9,
+      "vote_count": 753,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/a1bMgB09YDvvRN9SitCclUYragr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/a1bMgB09YDvvRN9SitCclUYragr.jpg",
+      "backdrop_path": "/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
+      "imdb_id": "tt0069467",
+      "runtime": 95,
+      "budget": 400000,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "sommaren-med-monika",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Sommaren med Monika",
+    "director": "Ingmar Bergman",
+    "duration": "1h 36 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-03-16T17:45:00+01:00",
+        "display_text": "Måndag, 16th Mars 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 16th Mars",
+        "ticket_url": "https://biofagelbla.se/movie/sommaren-med-monika/?showtime=53396",
+        "showtime_id": "53396",
+        "normalized_datetime": "2026-03-16T17:45:00",
+        "normalized_date": "16.03",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-10T06:30:18.107342+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 47735,
+      "title": "Summer with Monika",
+      "overview": "One summer day, two teens begin a reckless affair and abandon their families to be with one another.",
+      "release_date": "1953-02-09",
+      "rating": 7.305,
+      "vote_count": 379,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/82hLsn67V9TjgrLOZCFL7247pJd.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/82hLsn67V9TjgrLOZCFL7247pJd.jpg",
+      "backdrop_path": "/kF5UhtIbadVqR0sfhzBBmwq8ToG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kF5UhtIbadVqR0sfhzBBmwq8ToG.jpg",
+      "imdb_id": "tt0046345",
+      "runtime": 98,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "såsom-i-en-spegel",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Såsom i en spegel",
+    "director": "Ingmar Bergman",
+    "duration": "1h 31 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-03-23T17:45:00+01:00",
+        "display_text": "Måndag, 23rd Mars 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 23rd Mars",
+        "ticket_url": "https://biofagelbla.se/movie/sasom-i-en-spegel/?showtime=53398",
+        "showtime_id": "53398",
+        "normalized_datetime": "2026-03-23T17:45:00",
+        "normalized_date": "23.03",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-10T06:30:18.107515+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 11602,
+      "title": "Through a Glass Darkly",
+      "overview": "Karin hopes to recover from her recent stay at a mental hospital by spending the summer at her family's cottage on a tiny island. Her husband, Martin, cares for her but is frustrated by her physical withdrawal. Her younger brother, Minus, is confused by Karin's vulnerability and his own budding sexuality. Their father, David, cannot overcome his haughty remoteness. Beset by visions, Karin descends further into madness.",
+      "release_date": "1961-10-16",
+      "rating": 7.8,
+      "vote_count": 523,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/rYD30Fm4vAcBqk1kTsxHw1s8P29.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rYD30Fm4vAcBqk1kTsxHw1s8P29.jpg",
+      "backdrop_path": "/ziTptDmkMLIC50LB0to2OU3hwOy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ziTptDmkMLIC50LB0to2OU3hwOy.jpg",
+      "imdb_id": "tt0055499",
+      "runtime": 91,
+      "budget": 0,
+      "revenue": 8939
+    }
+  },
+  {
+    "film_id": "det-sjunde-inseglet",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Det sjunde inseglet",
+    "director": "Ingmar Bergman",
+    "duration": "1h 36 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-03-30T17:45:00+02:00",
+        "display_text": "Måndag, 30th Mars 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 30th Mars",
+        "ticket_url": "https://biofagelbla.se/movie/det-sjunde-inseglet/?showtime=53399",
+        "showtime_id": "53399",
+        "normalized_datetime": "2026-03-30T17:45:00",
+        "normalized_date": "30.03",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-10T06:30:18.107641+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 490,
+      "title": "The Seventh Seal",
+      "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+      "release_date": "1957-02-16",
+      "rating": 8.163,
+      "vote_count": 3237,
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "poster_path": "/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+      "backdrop_path": "/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
+      "imdb_id": "tt0050976",
+      "runtime": 96,
+      "budget": 150000,
+      "revenue": 311212
+    }
+  },
+  {
+    "film_id": "gycklarnas-afton",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Gycklarnas Afton",
+    "director": "Ingmar Bergman",
+    "duration": "1h 33 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-04-13T17:45:00+02:00",
+        "display_text": "Måndag, 13th April 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 13th April",
+        "ticket_url": "https://biofagelbla.se/movie/gycklarnas-afton/?showtime=53401",
+        "showtime_id": "53401",
+        "normalized_datetime": "2026-04-13T17:45:00",
+        "normalized_date": "13.04",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-10T06:30:18.107790+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 47721,
+      "title": "Sawdust and Tinsel",
+      "overview": "A number of complicated relationships develop between a circus ringmaster, his estranged wife and his lover.",
+      "release_date": "1953-09-14",
+      "rating": 7.277,
+      "vote_count": 148,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/o1LGjSnibRtFuoBXrttm6pueNiD.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o1LGjSnibRtFuoBXrttm6pueNiD.jpg",
+      "backdrop_path": "/fMYjzQAqTlz8kWAcSmjSH9s7QIN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fMYjzQAqTlz8kWAcSmjSH9s7QIN.jpg",
+      "imdb_id": "tt0045848",
+      "runtime": 93,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "ansiktet",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Ansiktet",
+    "director": "Ingmar Bergman",
+    "duration": "1h 47 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-04-20T17:45:00+02:00",
+        "display_text": "Måndag, 20th April 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 20th April",
+        "ticket_url": "https://biofagelbla.se/movie/ansiktet/?showtime=53402",
+        "showtime_id": "53402",
+        "normalized_datetime": "2026-04-20T17:45:00",
+        "normalized_date": "20.04",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-10T06:30:18.107910+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 29453,
+      "title": "The Magician",
+      "overview": "A traveling magician and his assistants are persecuted by authorities in 19th century Sweden. Their capture, however, didn't bring victory to those in power.",
+      "release_date": "1958-12-26",
+      "rating": 7.4,
+      "vote_count": 234,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/46DEYkr96MxzUmdwgmj2U7gWokZ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/46DEYkr96MxzUmdwgmj2U7gWokZ.jpg",
+      "backdrop_path": "/eEPY5W9ZSMHk48kaowcRNbzCilf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/eEPY5W9ZSMHk48kaowcRNbzCilf.jpg",
+      "imdb_id": "tt0051365",
+      "runtime": 102,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "jungfrukällan",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Jungfrukällan",
+    "director": "Ingmar Bergman",
+    "duration": "1h 26 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-04-27T17:45:00+02:00",
+        "display_text": "Måndag, 27th April 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 27th April",
+        "ticket_url": "https://biofagelbla.se/movie/jungfrukallan/?showtime=53403",
+        "showtime_id": "53403",
+        "normalized_datetime": "2026-04-27T17:45:00",
+        "normalized_date": "27.04",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-10T06:30:18.108033+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 11656,
+      "title": "The Virgin Spring",
+      "overview": "Devout Christians Töre and Märeta send their only daughter, the virginal Karin, and their foster daughter, the unrepentant Ingeri, to deliver candles to a distant church. On their way through the woods, the girls encounter a group of savage goat herders who brutally rape and murder Karin as Ingeri remains hidden. When the killers unwittingly seek refuge in the farmhouse of Töre and Märeta, Töre plots a fitting revenge.",
+      "release_date": "1960-02-08",
+      "rating": 7.845,
+      "vote_count": 657,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "poster_path": "/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
+      "backdrop_path": "/pcBIabUibUmpOBggWckkjohXtiP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pcBIabUibUmpOBggWckkjohXtiP.jpg",
+      "imdb_id": "tt0053976",
+      "runtime": 90,
+      "budget": 0,
+      "revenue": 700000
+    }
+  },
+  {
+    "film_id": "persona",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Persona",
+    "director": "Ingmar Bergman",
+    "duration": "1h 24 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-05-04T17:45:00+02:00",
+        "display_text": "Måndag, 4th Maj 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 4th Maj",
+        "ticket_url": "https://biofagelbla.se/movie/persona/?showtime=53404",
+        "showtime_id": "53404",
+        "normalized_datetime": "2026-05-04T17:45:00",
+        "normalized_date": "04.05",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-10T06:30:18.108148+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 797,
+      "title": "Persona",
+      "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
+      "release_date": "1966-10-18",
+      "rating": 8.1,
+      "vote_count": 2345,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/v2KsLNChpT6vLf0YFhkJmAtGkNq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/v2KsLNChpT6vLf0YFhkJmAtGkNq.jpg",
+      "backdrop_path": "/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
+      "imdb_id": "tt0060827",
+      "runtime": 84,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "sommarnattens-leende",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Sommarnattens leende",
+    "director": "Ingmar Bergman",
+    "duration": "1h 48 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-05-11T17:45:00+02:00",
+        "display_text": "Måndag, 11th Maj 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 11th Maj",
+        "ticket_url": "https://biofagelbla.se/movie/sommarnattens-leende/?showtime=53405",
+        "showtime_id": "53405",
+        "normalized_datetime": "2026-05-11T17:45:00",
+        "normalized_date": "11.05",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-10T06:30:18.108269+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 11700,
+      "title": "Smiles of a Summer Night",
+      "overview": "Early in the 20th century, middle-aged lawyer Fredrik Egerman and his young wife, Anne, have still not consummated their marriage, while Fredrik's son finds himself increasingly attracted to his new stepmother. To make matters worse, Fredrik's old flame Desiree makes a public bet that she can seduce him at a romantic weekend retreat where four couples convene, swapping partners and pairing off in unexpected ways.",
+      "release_date": "1955-12-26",
+      "rating": 7.415,
+      "vote_count": 260,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "poster_path": "/wKeV8lKz8k9DDBCw6MJ9MkhvhqF.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wKeV8lKz8k9DDBCw6MJ9MkhvhqF.jpg",
+      "backdrop_path": "/mPpEL0P0JSw8AdjB2fx4NzIUIFZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mPpEL0P0JSw8AdjB2fx4NzIUIFZ.jpg",
+      "imdb_id": "tt0048641",
+      "runtime": 109,
+      "budget": 0,
+      "revenue": 0
     }
   }
 ]
