@@ -14,8 +14,8 @@
         "date": "",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5490",
-        "normalized_datetime": "2026-01-13T20:00:00",
-        "normalized_date": "13.01",
+        "normalized_datetime": "2026-01-14T20:00:00",
+        "normalized_date": "14.01",
         "normalized_time": "20:00"
       }
     ],
@@ -33,14 +33,13 @@
       "vote_count": 3740,
       "genres": [
         "Drama",
-        "Thriller",
         "Crime",
         "Adventure"
       ],
       "poster_path": "/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg",
-      "backdrop_path": "/4EwtX20mFGsT0Ws3iRXMS6yffTJ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/4EwtX20mFGsT0Ws3iRXMS6yffTJ.jpg",
+      "backdrop_path": "/dj5NoTNjmeGPyP8PSmvPFqMIv9n.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/dj5NoTNjmeGPyP8PSmvPFqMIv9n.jpg",
       "imdb_id": "tt0103074",
       "runtime": 130,
       "budget": 16000000,
