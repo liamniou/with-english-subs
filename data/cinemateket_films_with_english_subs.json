@@ -16,14 +16,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:28:01.666828",
+    "scraped_at": "2026-01-15T06:26:03.250604",
     "tmdb": {
       "id": 199177,
       "title": "Stars",
       "overview": "Stationed in a secluded Bulgarian village in 1943, Walter – a German Wehrmacht sergeant and artist – lives in almost idyllic distance from the war. Then a transit camp is set up for Jews arriving from Greece. When Ruth, one of the internees, asks Walter to help a pregnant woman, the two form an unlikely bond.",
       "release_date": "1959-03-23",
-      "rating": 7.412,
-      "vote_count": 17,
+      "rating": 7.389,
+      "vote_count": 18,
       "genres": [
         "Drama",
         "War"
@@ -55,7 +55,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:28:05.593353",
+    "scraped_at": "2026-01-15T06:26:07.528867",
     "tmdb": {
       "id": 46918,
       "title": "Floating Weeds",
@@ -93,14 +93,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:28:09.519879",
+    "scraped_at": "2026-01-15T06:26:11.775904",
     "tmdb": {
       "id": 26302,
       "title": "The Color of Pomegranates",
       "overview": "The life of the revered 18th-century Armenian poet and musician Sayat-Nova. Portraying events in the life of the artist from childhood up to his death, the movie addresses in particular his relationships with women, including his muse. The production tells Sayat-Nova's dramatic story by using both his poems and largely still camerawork, creating a work hailed as revolutionary by Mikhail Vartanov.",
       "release_date": "1969-10-01",
-      "rating": 7.326,
-      "vote_count": 313,
+      "rating": 7.318,
+      "vote_count": 314,
       "genres": [
         "Drama",
         "History"
@@ -132,7 +132,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:28:37.897468",
+    "scraped_at": "2026-01-15T06:26:43.007048",
     "tmdb": {
       "id": 729916,
       "title": "Andriesh",
@@ -170,7 +170,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:28:41.780622",
+    "scraped_at": "2026-01-15T06:26:47.228927",
     "tmdb": {
       "id": 55197,
       "title": "The Flavor of Green Tea Over Rice",
@@ -208,7 +208,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:28:58.967034",
+    "scraped_at": "2026-01-15T06:27:06.091994",
     "tmdb": {
       "id": 957471,
       "title": "The Villain from Edo Kochiyama Soshun",
@@ -246,7 +246,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:29:07.057839",
+    "scraped_at": "2026-01-15T06:27:15.263778",
     "tmdb": {
       "id": 1297647,
       "title": "The First Lad",
@@ -284,7 +284,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:29:17.144529",
+    "scraped_at": "2026-01-15T06:27:26.866797",
     "tmdb": {
       "id": 353588,
       "title": "Ohayo Sapporo",
@@ -323,7 +323,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:29:34.105197"
+    "scraped_at": "2026-01-15T06:27:45.789995"
   },
   {
     "film_id": "4717",
@@ -342,7 +342,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:29:53.460831",
+    "scraped_at": "2026-01-15T06:28:07.027488",
     "tmdb": {
       "id": 50759,
       "title": "An Autumn Afternoon",
@@ -380,7 +380,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:30:01.836951",
+    "scraped_at": "2026-01-15T06:28:16.044531",
     "tmdb": {
       "id": 103590,
       "title": "The Legend of Suram Fortress",
@@ -419,7 +419,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:30:21.057235",
+    "scraped_at": "2026-01-15T06:28:37.411430",
     "tmdb": {
       "id": 50247,
       "title": "Early Summer",
@@ -457,7 +457,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-01-14T06:30:42.810413"
+    "scraped_at": "2026-01-15T06:29:01.261023"
   },
   {
     "film_id": "8068",
@@ -476,7 +476,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:30:46.560002",
+    "scraped_at": "2026-01-15T06:29:05.546790",
     "tmdb": {
       "id": 43981,
       "title": "Salaam Cinema",
@@ -516,7 +516,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:30:57.079426",
+    "scraped_at": "2026-01-15T06:29:16.749773",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -556,7 +556,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:31:11.772781"
+    "scraped_at": "2026-01-15T06:29:33.203884"
   },
   {
     "film_id": "2794",
@@ -575,7 +575,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:31:35.198903",
+    "scraped_at": "2026-01-15T06:29:59.570115",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -613,7 +613,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:32:28.287083",
+    "scraped_at": "2026-01-15T06:30:59.181646",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -651,13 +651,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:32:39.023983",
+    "scraped_at": "2026-01-15T06:31:11.146410",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
       "overview": "In Paris, Bob Montagne is practically synonymous with gambling -- and winning. He is kind, classy and well-liked by virtually everyone in town, including police inspector Ledru. However, when Bob's luck turns sour, he begins to lose friends and makes the most desperate gamble of his life: to rob the Deauville casino during Grand Prix weekend, when the vaults are full. Unfortunately, Bob soon learns that the game is rigged and the cops are on to him.",
       "release_date": "1956-08-24",
-      "rating": 7.258,
+      "rating": 7.256,
       "vote_count": 287,
       "genres": [
         "Drama",
@@ -691,7 +691,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:32:56.772210",
+    "scraped_at": "2026-01-15T06:31:29.932655",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
@@ -731,7 +731,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:33:07.571015",
+    "scraped_at": "2026-01-15T06:31:41.719294",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -771,7 +771,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:33:33.538016",
+    "scraped_at": "2026-01-15T06:32:10.305343",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -811,7 +811,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:34:21.306482",
+    "scraped_at": "2026-01-15T06:33:03.852579",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -850,7 +850,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-01-14T06:34:38.420616",
+    "scraped_at": "2026-01-15T06:33:22.726934",
     "tmdb": {
       "id": 40650,
       "title": "The Silence of the Sea",
@@ -889,7 +889,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-14T06:34:48.970473",
+    "scraped_at": "2026-01-15T06:33:34.315206",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
