@@ -14,8 +14,8 @@
         "date": "",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5490",
-        "normalized_datetime": "2026-01-17T20:00:00",
-        "normalized_date": "17.01",
+        "normalized_datetime": "2026-01-18T20:00:00",
+        "normalized_date": "18.01",
         "normalized_time": "20:00"
       }
     ],
@@ -29,8 +29,8 @@
       "title": "Thelma & Louise",
       "overview": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
       "release_date": "1991-05-24",
-      "rating": 7.593,
-      "vote_count": 3746,
+      "rating": 7.6,
+      "vote_count": 3747,
       "genres": [
         "Drama",
         "Crime",
@@ -38,8 +38,8 @@
       ],
       "poster_path": "/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg",
-      "backdrop_path": "/dj5NoTNjmeGPyP8PSmvPFqMIv9n.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/dj5NoTNjmeGPyP8PSmvPFqMIv9n.jpg",
+      "backdrop_path": "/eA15zhxnhQSg4k5MUbbTERIU23Z.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/eA15zhxnhQSg4k5MUbbTERIU23Z.jpg",
       "imdb_id": "tt0103074",
       "runtime": 130,
       "budget": 16000000,
