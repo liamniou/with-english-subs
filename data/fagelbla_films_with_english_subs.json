@@ -1,50 +1,5 @@
 [
   {
-    "film_id": "nattvardsgästerna",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Nattvardsgästerna",
-    "director": "Ingmar Bergman",
-    "duration": "1h 21 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2026-01-19T17:45:00+01:00",
-        "display_text": "Måndag, 19th Januari 17:45",
-        "time": "17:45",
-        "date_section": "Måndag, 19th Januari",
-        "ticket_url": "https://biofagelbla.se/movie/nattvardsgasterna/?showtime=53387",
-        "showtime_id": "53387",
-        "normalized_datetime": "2026-01-19T17:45:00",
-        "normalized_date": "19.01",
-        "normalized_time": "17:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-01-19T06:30:01.214310+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 29455,
-      "title": "Winter Light",
-      "overview": "A Swedish pastor fails a loving woman, a suicidal fisherman and God.",
-      "release_date": "1963-02-11",
-      "rating": 7.889,
-      "vote_count": 486,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/wDxrEssdjFWYwIZLbr06RQNcg1q.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wDxrEssdjFWYwIZLbr06RQNcg1q.jpg",
-      "backdrop_path": "/tis6nrWakUsuG6Jwdm4yESfTU0o.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tis6nrWakUsuG6Jwdm4yESfTU0o.jpg",
-      "imdb_id": "tt0057358",
-      "runtime": 80,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "marie-antoinette",
     "url": "https://biofagelbla.se/program/",
     "title": "Marie Antoinette",
@@ -67,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.214844+00:00",
+    "scraped_at": "2026-01-20T06:34:32.358329+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
@@ -113,7 +68,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.215072+00:00",
+    "scraped_at": "2026-01-20T06:34:32.358613+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 144,
@@ -160,7 +115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.215283+00:00",
+    "scraped_at": "2026-01-20T06:34:32.358827+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -168,7 +123,7 @@
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
       "rating": 8.161,
-      "vote_count": 3245,
+      "vote_count": 3246,
       "genres": [
         "Fantasy",
         "Drama"
@@ -206,7 +161,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.215782+00:00",
+    "scraped_at": "2026-01-20T06:34:32.359293+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 137,
@@ -214,7 +169,7 @@
       "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
       "release_date": "1993-02-11",
       "rating": 7.621,
-      "vote_count": 8608,
+      "vote_count": 8610,
       "genres": [
         "Romance",
         "Fantasy",
@@ -253,7 +208,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.215966+00:00",
+    "scraped_at": "2026-01-20T06:34:32.359438+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -299,7 +254,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.216249+00:00",
+    "scraped_at": "2026-01-20T06:34:32.359704+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -346,7 +301,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.216620+00:00",
+    "scraped_at": "2026-01-20T06:34:32.360066+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 26372,
@@ -392,7 +347,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.216765+00:00",
+    "scraped_at": "2026-01-20T06:34:32.360280+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -437,15 +392,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.216893+00:00",
+    "scraped_at": "2026-01-20T06:34:32.360491+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
       "title": "Wild Strawberries",
       "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
       "release_date": "1957-08-28",
-      "rating": 8.091,
-      "vote_count": 1761,
+      "rating": 8.088,
+      "vote_count": 1762,
       "genres": [
         "Drama"
       ],
@@ -457,6 +412,53 @@
       "runtime": 91,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "breakfast-at-tiffanys",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Breakfast at Tiffany’s",
+    "director": "Blake Edwards",
+    "duration": "1h 55 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-02-28T10:30:00+01:00",
+        "display_text": "Lördag, 28th Februari 10:30",
+        "time": "10:30",
+        "date_section": "Lördag, 28th Februari",
+        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=53650",
+        "showtime_id": "53650",
+        "normalized_datetime": "2026-02-28T10:30:00",
+        "normalized_date": "28.02",
+        "normalized_time": "10:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-01-20T06:34:32.360649+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 164,
+      "title": "Breakfast at Tiffany's",
+      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+      "release_date": "1961-10-06",
+      "rating": 7.628,
+      "vote_count": 4401,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "imdb_id": "tt0054698",
+      "runtime": 115,
+      "budget": 2500000,
+      "revenue": 9500000
     }
   },
   {
@@ -482,7 +484,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.217017+00:00",
+    "scraped_at": "2026-01-20T06:34:32.360772+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11506,
@@ -528,7 +530,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.217135+00:00",
+    "scraped_at": "2026-01-20T06:34:32.360900+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -559,21 +561,21 @@
     "language": "Svensk",
     "showtimes": [
       {
-        "datetime": "2026-03-16T17:45:00+01:00",
-        "display_text": "Måndag, 16th Mars 17:45",
-        "time": "17:45",
+        "datetime": "2026-03-16T19:30:00+01:00",
+        "display_text": "Måndag, 16th Mars 19:30",
+        "time": "19:30",
         "date_section": "Måndag, 16th Mars",
         "ticket_url": "https://biofagelbla.se/movie/sommaren-med-monika/?showtime=53396",
         "showtime_id": "53396",
-        "normalized_datetime": "2026-03-16T17:45:00",
+        "normalized_datetime": "2026-03-16T19:30:00",
         "normalized_date": "16.03",
-        "normalized_time": "17:45"
+        "normalized_time": "19:30"
       }
     ],
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.217258+00:00",
+    "scraped_at": "2026-01-20T06:34:32.361019+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47735,
@@ -619,7 +621,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.217416+00:00",
+    "scraped_at": "2026-01-20T06:34:32.361138+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11602,
@@ -664,7 +666,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.217612+00:00",
+    "scraped_at": "2026-01-20T06:34:32.361321+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -672,7 +674,7 @@
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
       "rating": 8.161,
-      "vote_count": 3245,
+      "vote_count": 3246,
       "genres": [
         "Fantasy",
         "Drama"
@@ -710,7 +712,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.217814+00:00",
+    "scraped_at": "2026-01-20T06:34:32.361542+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -755,7 +757,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.218016+00:00",
+    "scraped_at": "2026-01-20T06:34:32.361705+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29453,
@@ -800,7 +802,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.218209+00:00",
+    "scraped_at": "2026-01-20T06:34:32.361827+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -846,7 +848,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.218332+00:00",
+    "scraped_at": "2026-01-20T06:34:32.361937+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -891,7 +893,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-19T06:30:01.218488+00:00",
+    "scraped_at": "2026-01-20T06:34:32.362054+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
