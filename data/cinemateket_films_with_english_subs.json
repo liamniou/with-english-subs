@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:28:15.111570",
+    "scraped_at": "2026-01-21T06:28:15.617182",
     "tmdb": {
       "id": 199177,
       "title": "Stars",
@@ -55,23 +55,24 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:28:19.094671",
+    "scraped_at": "2026-01-21T06:28:19.002238",
     "tmdb": {
-      "id": 46918,
-      "title": "Floating Weeds",
-      "overview": "When a theater troupe's master visits his old flame, he unintentionally sets off a chain of unexpected events with devastating consequences.",
-      "release_date": "1959-11-17",
-      "rating": 7.5,
-      "vote_count": 198,
+      "id": 622431,
+      "title": "Floating Weeds Diary",
+      "overview": "A travelling theater troupe, led by Umagoro Ichikawa, comes to play in a mining town, and manages to sell every seat. Before the play begins, however, a miners' strike is announced, creating an uproar. In addition, the players find they have been cheated out of their profits by a crooked impresario.",
+      "release_date": "1955-11-15",
+      "rating": 4.3,
+      "vote_count": 3,
       "genres": [
-        "Drama"
+        "History",
+        "Comedy"
       ],
-      "poster_path": "/nLepKtb48XSnPQNsuS4svbtNBY7.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nLepKtb48XSnPQNsuS4svbtNBY7.jpg",
-      "backdrop_path": "/o7l1P351p4gh9dTlcQy1xB8NL8H.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/o7l1P351p4gh9dTlcQy1xB8NL8H.jpg",
-      "imdb_id": "tt0053390",
-      "runtime": 115,
+      "poster_path": "/8HbR6CFiLla47ohfR6Kv4kmVXWF.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8HbR6CFiLla47ohfR6Kv4kmVXWF.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt1994593",
+      "runtime": 106,
       "budget": 0,
       "revenue": 0
     }
@@ -93,14 +94,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:28:22.428719",
+    "scraped_at": "2026-01-21T06:28:22.134668",
     "tmdb": {
       "id": 26302,
       "title": "The Color of Pomegranates",
       "overview": "The life of the revered 18th-century Armenian poet and musician Sayat-Nova. Portraying events in the life of the artist from childhood up to his death, the movie addresses in particular his relationships with women, including his muse. The production tells Sayat-Nova's dramatic story by using both his poems and largely still camerawork, creating a work hailed as revolutionary by Mikhail Vartanov.",
       "release_date": "1969-10-01",
-      "rating": 7.317,
-      "vote_count": 315,
+      "rating": 7.328,
+      "vote_count": 317,
       "genres": [
         "Drama",
         "History"
@@ -132,7 +133,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:28:48.404848",
+    "scraped_at": "2026-01-21T06:28:43.714434",
     "tmdb": {
       "id": 729916,
       "title": "Andriesh",
@@ -170,7 +171,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:28:51.804098",
+    "scraped_at": "2026-01-21T06:28:46.830344",
     "tmdb": {
       "id": 55197,
       "title": "The Flavor of Green Tea Over Rice",
@@ -208,7 +209,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:29:07.114953",
+    "scraped_at": "2026-01-21T06:29:00.291234",
     "tmdb": {
       "id": 957471,
       "title": "The Villain from Edo Kochiyama Soshun",
@@ -246,7 +247,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:29:14.227272",
+    "scraped_at": "2026-01-21T06:29:06.508603",
     "tmdb": {
       "id": 1297647,
       "title": "The First Lad",
@@ -284,7 +285,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:29:23.453815",
+    "scraped_at": "2026-01-21T06:29:14.270487",
     "tmdb": {
       "id": 353588,
       "title": "Ohayo Sapporo",
@@ -323,7 +324,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:29:38.834310"
+    "scraped_at": "2026-01-21T06:29:27.320824"
   },
   {
     "film_id": "4717",
@@ -342,7 +343,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:29:55.445367",
+    "scraped_at": "2026-01-21T06:29:42.066927",
     "tmdb": {
       "id": 50759,
       "title": "An Autumn Afternoon",
@@ -380,7 +381,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:30:02.645891",
+    "scraped_at": "2026-01-21T06:29:48.299202",
     "tmdb": {
       "id": 103590,
       "title": "The Legend of Suram Fortress",
@@ -419,13 +420,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:30:19.602009",
+    "scraped_at": "2026-01-21T06:30:03.119916",
     "tmdb": {
       "id": 50247,
       "title": "Early Summer",
       "overview": "A 28-year-old single woman is pressured to marry.",
       "release_date": "1951-10-03",
-      "rating": 7.848,
+      "rating": 7.8,
       "vote_count": 200,
       "genres": [
         "Drama"
@@ -457,7 +458,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-01-20T06:30:38.369593"
+    "scraped_at": "2026-01-21T06:30:20.023290"
   },
   {
     "film_id": "8068",
@@ -476,7 +477,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:30:41.788777",
+    "scraped_at": "2026-01-21T06:30:23.112797",
     "tmdb": {
       "id": 43981,
       "title": "Salaam Cinema",
@@ -516,7 +517,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:30:50.966691",
+    "scraped_at": "2026-01-21T06:30:31.387325",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -556,7 +557,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:31:03.922405"
+    "scraped_at": "2026-01-21T06:30:42.943269"
   },
   {
     "film_id": "2794",
@@ -575,7 +576,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:31:24.769121",
+    "scraped_at": "2026-01-21T06:31:01.101017",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -613,7 +614,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:31:49.414079",
+    "scraped_at": "2026-01-21T06:31:22.253109",
     "tmdb": {
       "id": 64903,
       "title": "A Cop",
@@ -651,7 +652,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:32:12.126428",
+    "scraped_at": "2026-01-21T06:31:41.877203",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -689,7 +690,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:32:21.307263",
+    "scraped_at": "2026-01-21T06:31:49.874727",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -729,7 +730,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:32:36.360272",
+    "scraped_at": "2026-01-21T06:32:02.936604",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
@@ -769,7 +770,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:32:45.467704",
+    "scraped_at": "2026-01-21T06:32:11.053035",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -809,7 +810,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:33:08.492791",
+    "scraped_at": "2026-01-21T06:32:30.935141",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -849,7 +850,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:33:51.907866",
+    "scraped_at": "2026-01-21T06:33:07.245074",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -888,7 +889,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-01-20T06:34:07.145890",
+    "scraped_at": "2026-01-21T06:33:20.674665",
     "tmdb": {
       "id": 40650,
       "title": "The Silence of the Sea",
@@ -927,7 +928,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-01-20T06:34:16.375203",
+    "scraped_at": "2026-01-21T06:33:29.114569",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
