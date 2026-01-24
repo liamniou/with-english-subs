@@ -14,8 +14,8 @@
         "date": "",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5490",
-        "normalized_datetime": "2026-01-23T20:00:00",
-        "normalized_date": "23.01",
+        "normalized_datetime": "2026-01-24T20:00:00",
+        "normalized_date": "24.01",
         "normalized_time": "20:00"
       }
     ],
@@ -30,7 +30,7 @@
       "overview": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
       "release_date": "1991-05-24",
       "rating": 7.594,
-      "vote_count": 3751,
+      "vote_count": 3752,
       "genres": [
         "Drama",
         "Crime",
