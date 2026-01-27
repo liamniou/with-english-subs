@@ -1,51 +1,5 @@
 [
   {
-    "film_id": "det-sjunde-inseglet",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Det sjunde inseglet",
-    "director": "Ingmar Bergman",
-    "duration": "1h 36 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2026-01-26T17:45:00+01:00",
-        "display_text": "Måndag, 26th Januari 17:45",
-        "time": "17:45",
-        "date_section": "Måndag, 26th Januari",
-        "ticket_url": "https://biofagelbla.se/movie/det-sjunde-inseglet/?showtime=53388",
-        "showtime_id": "53388",
-        "normalized_datetime": "2026-01-26T17:45:00",
-        "normalized_date": "26.01",
-        "normalized_time": "17:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-01-26T06:34:50.004299+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 490,
-      "title": "The Seventh Seal",
-      "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
-      "release_date": "1957-02-16",
-      "rating": 8.164,
-      "vote_count": 3253,
-      "genres": [
-        "Fantasy",
-        "Drama"
-      ],
-      "poster_path": "/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
-      "backdrop_path": "/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
-      "imdb_id": "tt0050976",
-      "runtime": 96,
-      "budget": 150000,
-      "revenue": 311212
-    }
-  },
-  {
     "film_id": "groundhog-day",
     "url": "https://biofagelbla.se/program/",
     "title": "Groundhog Day",
@@ -68,15 +22,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.004896+00:00",
+    "scraped_at": "2026-01-27T06:33:51.132026+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 137,
       "title": "Groundhog Day",
       "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
       "release_date": "1993-02-11",
-      "rating": 7.621,
-      "vote_count": 8623,
+      "rating": 7.622,
+      "vote_count": 8624,
       "genres": [
         "Romance",
         "Fantasy",
@@ -115,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.005142+00:00",
+    "scraped_at": "2026-01-27T06:33:51.132283+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -161,7 +115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.005572+00:00",
+    "scraped_at": "2026-01-27T06:33:51.132726+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -208,7 +162,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.005858+00:00",
+    "scraped_at": "2026-01-27T06:33:51.133019+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 26372,
@@ -254,15 +208,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.006098+00:00",
+    "scraped_at": "2026-01-27T06:33:51.133175+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.139,
-      "vote_count": 2356,
+      "rating": 8.1,
+      "vote_count": 2355,
       "genres": [
         "Drama"
       ],
@@ -299,7 +253,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.006341+00:00",
+    "scraped_at": "2026-01-27T06:33:51.133366+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
@@ -344,7 +298,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.006486+00:00",
+    "scraped_at": "2026-01-27T06:33:51.133568+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -391,7 +345,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.006665+00:00",
+    "scraped_at": "2026-01-27T06:33:51.133697+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11506,
@@ -437,7 +391,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.006789+00:00",
+    "scraped_at": "2026-01-27T06:33:51.133823+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -482,7 +436,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.006915+00:00",
+    "scraped_at": "2026-01-27T06:33:51.133992+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47735,
@@ -528,7 +482,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.007042+00:00",
+    "scraped_at": "2026-01-27T06:33:51.134118+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11602,
@@ -573,7 +527,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.007174+00:00",
+    "scraped_at": "2026-01-27T06:33:51.134242+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -619,7 +573,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.007291+00:00",
+    "scraped_at": "2026-01-27T06:33:51.134363+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -664,7 +618,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.007465+00:00",
+    "scraped_at": "2026-01-27T06:33:51.134475+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29453,
@@ -709,7 +663,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.007683+00:00",
+    "scraped_at": "2026-01-27T06:33:51.134654+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -755,15 +709,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.007804+00:00",
+    "scraped_at": "2026-01-27T06:33:51.134786+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.139,
-      "vote_count": 2356,
+      "rating": 8.1,
+      "vote_count": 2355,
       "genres": [
         "Drama"
       ],
@@ -800,7 +754,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-01-26T06:34:50.007930+00:00",
+    "scraped_at": "2026-01-27T06:33:51.134921+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
