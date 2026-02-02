@@ -1,52 +1,5 @@
 [
   {
-    "film_id": "groundhog-day",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Groundhog Day",
-    "director": "Harold Ramis",
-    "duration": "1h 41 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2026-02-01T10:30:00+01:00",
-        "display_text": "Söndag, 1st Februari 10:30",
-        "time": "10:30",
-        "date_section": "Söndag, 1st Februari",
-        "ticket_url": "https://biofagelbla.se/movie/groundhog-day/?showtime=52638",
-        "showtime_id": "52638",
-        "normalized_datetime": "2026-02-01T10:30:00",
-        "normalized_date": "01.02",
-        "normalized_time": "10:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-02-01T06:46:44.241901+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 137,
-      "title": "Groundhog Day",
-      "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
-      "release_date": "1993-02-11",
-      "rating": 7.622,
-      "vote_count": 8633,
-      "genres": [
-        "Romance",
-        "Fantasy",
-        "Comedy"
-      ],
-      "poster_path": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
-      "backdrop_path": "/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
-      "imdb_id": "tt0107048",
-      "runtime": 101,
-      "budget": 14600000,
-      "revenue": 71108778
-    }
-  },
-  {
     "film_id": "jungfrukällan",
     "url": "https://biofagelbla.se/program/",
     "title": "Jungfrukällan",
@@ -69,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-01T06:46:44.242251+00:00",
+    "scraped_at": "2026-02-02T07:00:38.612541+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -115,7 +68,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-01T06:46:44.242726+00:00",
+    "scraped_at": "2026-02-02T07:00:38.613078+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -123,7 +76,7 @@
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
       "rating": 7.628,
-      "vote_count": 4407,
+      "vote_count": 4408,
       "genres": [
         "Comedy",
         "Romance",
@@ -162,7 +115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-01T06:46:44.243030+00:00",
+    "scraped_at": "2026-02-02T07:00:38.613393+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 26372,
@@ -208,7 +161,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-01T06:46:44.243535+00:00",
+    "scraped_at": "2026-02-02T07:00:38.613896+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -253,7 +206,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-01T06:46:44.243758+00:00",
+    "scraped_at": "2026-02-02T07:00:38.614057+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
@@ -298,7 +251,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-01T06:46:44.243987+00:00",
+    "scraped_at": "2026-02-02T07:00:38.614248+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -306,7 +259,7 @@
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
       "rating": 7.628,
-      "vote_count": 4407,
+      "vote_count": 4408,
       "genres": [
         "Comedy",
         "Romance",
@@ -345,7 +298,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-01T06:46:44.244236+00:00",
+    "scraped_at": "2026-02-02T07:00:38.614462+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11506,
@@ -391,7 +344,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-01T06:46:44.244447+00:00",
+    "scraped_at": "2026-02-02T07:00:38.614677+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -436,7 +389,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-01T06:46:44.244704+00:00",
+    "scraped_at": "2026-02-02T07:00:38.614966+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47735,
@@ -482,7 +435,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-01T06:46:44.244897+00:00",
+    "scraped_at": "2026-02-02T07:00:38.615165+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11602,
@@ -527,15 +480,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-01T06:46:44.245113+00:00",
+    "scraped_at": "2026-02-02T07:00:38.615370+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
       "title": "The Seventh Seal",
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
-      "rating": 8.165,
-      "vote_count": 3258,
+      "rating": 8.164,
+      "vote_count": 3261,
       "genres": [
         "Fantasy",
         "Drama"
@@ -573,7 +526,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-01T06:46:44.245319+00:00",
+    "scraped_at": "2026-02-02T07:00:38.615557+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -618,14 +571,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-01T06:46:44.245527+00:00",
+    "scraped_at": "2026-02-02T07:00:38.615747+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29453,
       "title": "The Magician",
-      "overview": "A traveling magician and his assistants are persecuted by authorities in 19th century Sweden. Their capture, however, didn't bring victory to those in power.",
+      "overview": "A traveling magician and his troupe arrive in a Swedish town in the 1840s, where their act is scrutinized by local authorities and a skeptical medical official. Their stay leads to a series of confrontations that test the boundaries between performance, belief, and deception.",
       "release_date": "1958-12-26",
-      "rating": 7.367,
+      "rating": 7.4,
       "vote_count": 236,
       "genres": [
         "Drama"
@@ -663,7 +616,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-01T06:46:44.245759+00:00",
+    "scraped_at": "2026-02-02T07:00:38.615976+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -709,7 +662,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-01T06:46:44.245962+00:00",
+    "scraped_at": "2026-02-02T07:00:38.616215+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -754,7 +707,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-01T06:46:44.246190+00:00",
+    "scraped_at": "2026-02-02T07:00:38.616421+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,

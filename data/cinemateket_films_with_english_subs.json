@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:41:40.264244",
+    "scraped_at": "2026-02-02T06:55:31.259018",
     "tmdb": {
       "id": 729916,
       "title": "Andriesh",
@@ -54,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:41:43.546127",
+    "scraped_at": "2026-02-02T06:55:35.322442",
     "tmdb": {
       "id": 55197,
       "title": "The Flavor of Green Tea Over Rice",
@@ -92,7 +92,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:41:57.970198",
+    "scraped_at": "2026-02-02T06:55:50.210805",
     "tmdb": {
       "id": 957471,
       "title": "The Villain from Edo Kochiyama Soshun",
@@ -130,7 +130,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:42:04.441647",
+    "scraped_at": "2026-02-02T06:55:56.721052",
     "tmdb": {
       "id": 1297647,
       "title": "The First Lad",
@@ -168,7 +168,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:42:12.794053",
+    "scraped_at": "2026-02-02T06:56:04.836097",
     "tmdb": {
       "id": 353588,
       "title": "Ohayo Sapporo",
@@ -207,7 +207,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:42:27.271447"
+    "scraped_at": "2026-02-02T06:56:18.338007"
   },
   {
     "film_id": "4717",
@@ -226,7 +226,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:42:42.348472",
+    "scraped_at": "2026-02-02T06:56:34.396938",
     "tmdb": {
       "id": 50759,
       "title": "An Autumn Afternoon",
@@ -264,14 +264,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:42:48.805824",
+    "scraped_at": "2026-02-02T06:56:40.830309",
     "tmdb": {
       "id": 103590,
       "title": "The Legend of Suram Fortress",
       "overview": "A film version of a well-known Georgian folk-tale. A young boy has to be immured into the walls of a fortress in order to stop it from crumbling to pieces.",
       "release_date": "1985-12-01",
-      "rating": 6.8,
-      "vote_count": 39,
+      "rating": 6.725,
+      "vote_count": 40,
       "genres": [
         "Drama",
         "Fantasy"
@@ -303,7 +303,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:43:03.800205",
+    "scraped_at": "2026-02-02T06:56:55.639075",
     "tmdb": {
       "id": 50247,
       "title": "Early Summer",
@@ -341,7 +341,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:43:10.205546"
+    "scraped_at": "2026-02-02T06:57:02.359818"
   },
   {
     "film_id": "13991",
@@ -360,7 +360,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-02-01T06:43:21.760299"
+    "scraped_at": "2026-02-02T06:57:14.192326"
   },
   {
     "film_id": "8068",
@@ -379,7 +379,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:43:24.821331",
+    "scraped_at": "2026-02-02T06:57:17.243792",
     "tmdb": {
       "id": 43981,
       "title": "Salaam Cinema",
@@ -419,7 +419,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:43:32.943228",
+    "scraped_at": "2026-02-02T06:57:25.493954",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -459,7 +459,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:43:44.468950"
+    "scraped_at": "2026-02-02T06:57:37.102529"
   },
   {
     "film_id": "2794",
@@ -478,7 +478,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:44:02.741434",
+    "scraped_at": "2026-02-02T06:57:55.694642",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -516,7 +516,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:44:24.379069",
+    "scraped_at": "2026-02-02T06:58:17.653624",
     "tmdb": {
       "id": 64903,
       "title": "A Cop",
@@ -554,7 +554,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:44:44.310697",
+    "scraped_at": "2026-02-02T06:58:37.754624",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -592,7 +592,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:44:52.307364",
+    "scraped_at": "2026-02-02T06:58:45.912496",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -632,7 +632,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:45:05.458291",
+    "scraped_at": "2026-02-02T06:58:59.358086",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
@@ -672,7 +672,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:45:13.520951",
+    "scraped_at": "2026-02-02T06:59:07.498328",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -712,14 +712,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:45:33.365532",
+    "scraped_at": "2026-02-02T06:59:27.436404",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
       "overview": "Enigmatic gangster Silien may or may not be responsible for informing on Faugel,  who was just released from prison and is already involved in what should be a simple heist. By the end of this brutal, twisting, and multilayered policier, who will be left to trust?",
       "release_date": "1962-12-13",
-      "rating": 7.366,
-      "vote_count": 295,
+      "rating": 7.365,
+      "vote_count": 296,
       "genres": [
         "Drama",
         "Thriller",
@@ -752,7 +752,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:46:10.341697",
+    "scraped_at": "2026-02-02T07:00:04.661900",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -791,7 +791,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-02-01T06:46:23.602332",
+    "scraped_at": "2026-02-02T07:00:17.782404",
     "tmdb": {
       "id": 40650,
       "title": "Le Silence de la mer",
@@ -830,7 +830,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-01T06:46:31.871952",
+    "scraped_at": "2026-02-02T07:00:26.216476",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
