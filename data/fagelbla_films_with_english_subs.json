@@ -1,52 +1,5 @@
 [
   {
-    "film_id": "breakfast-at-tiffanys",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Breakfast at Tiffany’s",
-    "director": "Blake Edwards",
-    "duration": "1h 55 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2026-02-07T10:30:00+01:00",
-        "display_text": "Lördag, 7th Februari 10:30",
-        "time": "10:30",
-        "date_section": "Lördag, 7th Februari",
-        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=53356",
-        "showtime_id": "53356",
-        "normalized_datetime": "2026-02-07T10:30:00",
-        "normalized_date": "07.02",
-        "normalized_time": "10:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-02-07T06:41:32.875270+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 164,
-      "title": "Breakfast at Tiffany's",
-      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
-      "release_date": "1961-10-06",
-      "rating": 7.628,
-      "vote_count": 4410,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "imdb_id": "tt0054698",
-      "runtime": 115,
-      "budget": 2500000,
-      "revenue": 9500000
-    }
-  },
-  {
     "film_id": "skammen",
     "url": "https://biofagelbla.se/program/",
     "title": "Skammen",
@@ -69,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-07T06:41:32.875622+00:00",
+    "scraped_at": "2026-02-08T06:46:20.410827+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 26372,
@@ -115,15 +68,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-07T06:41:32.876304+00:00",
+    "scraped_at": "2026-02-08T06:46:20.411659+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.1,
-      "vote_count": 2360,
+      "rating": 8.141,
+      "vote_count": 2361,
       "genres": [
         "Drama"
       ],
@@ -160,7 +113,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-07T06:41:32.876476+00:00",
+    "scraped_at": "2026-02-08T06:46:20.412037+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
@@ -205,7 +158,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-07T06:41:32.876603+00:00",
+    "scraped_at": "2026-02-08T06:46:20.412174+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -252,7 +205,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-07T06:41:32.876722+00:00",
+    "scraped_at": "2026-02-08T06:46:20.412302+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11506,
@@ -298,7 +251,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-07T06:41:32.876883+00:00",
+    "scraped_at": "2026-02-08T06:46:20.412484+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -306,7 +259,7 @@
       "overview": "As Agnes slowly dies of cancer, her sisters are so immersed in their own psychic pains that they are unable to offer her the support she needs.",
       "release_date": "1972-12-21",
       "rating": 7.88,
-      "vote_count": 760,
+      "vote_count": 761,
       "genres": [
         "Drama"
       ],
@@ -343,15 +296,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-07T06:41:32.877168+00:00",
+    "scraped_at": "2026-02-08T06:46:20.412759+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47735,
       "title": "Summer with Monika",
       "overview": "One summer day, two teens begin a reckless affair and abandon their families to be with one another.",
       "release_date": "1953-02-09",
-      "rating": 7.326,
-      "vote_count": 385,
+      "rating": 7.323,
+      "vote_count": 386,
       "genres": [
         "Drama",
         "Romance"
@@ -389,7 +342,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-07T06:41:32.877386+00:00",
+    "scraped_at": "2026-02-08T06:46:20.412904+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11602,
@@ -434,15 +387,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-07T06:41:32.877590+00:00",
+    "scraped_at": "2026-02-08T06:46:20.413029+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
       "title": "The Seventh Seal",
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
-      "rating": 8.163,
-      "vote_count": 3263,
+      "rating": 8.164,
+      "vote_count": 3265,
       "genres": [
         "Fantasy",
         "Drama"
@@ -480,7 +433,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-07T06:41:32.877787+00:00",
+    "scraped_at": "2026-02-08T06:46:20.413157+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -525,15 +478,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-07T06:41:32.877982+00:00",
+    "scraped_at": "2026-02-08T06:46:20.413283+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29453,
       "title": "The Magician",
       "overview": "A traveling magician and his troupe arrive in a Swedish town in the 1840s, where their act is scrutinized by local authorities and a skeptical medical official. Their stay leads to a series of confrontations that test the boundaries between performance, belief, and deception.",
       "release_date": "1958-12-26",
-      "rating": 7.4,
-      "vote_count": 236,
+      "rating": 7.365,
+      "vote_count": 237,
       "genres": [
         "Drama"
       ],
@@ -570,7 +523,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-07T06:41:32.878213+00:00",
+    "scraped_at": "2026-02-08T06:46:20.413419+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -616,15 +569,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-07T06:41:32.878398+00:00",
+    "scraped_at": "2026-02-08T06:46:20.413537+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.1,
-      "vote_count": 2360,
+      "rating": 8.141,
+      "vote_count": 2361,
       "genres": [
         "Drama"
       ],
@@ -661,7 +614,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-07T06:41:32.878619+00:00",
+    "scraped_at": "2026-02-08T06:46:20.413706+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,

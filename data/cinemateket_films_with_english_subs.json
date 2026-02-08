@@ -1,81 +1,5 @@
 [
   {
-    "film_id": "14004",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14004&cityId=1",
-    "title": "Originaltitel: Andriesh",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "lör 7/2 kl. 14:00",
-        "normalized_datetime": "2026-02-07T14:00:00",
-        "normalized_date": "07.02",
-        "normalized_time": "14:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-02-07T06:34:49.512051",
-    "tmdb": {
-      "id": 729916,
-      "title": "Andriesh",
-      "overview": "A short diploma film based on a fairy tale by Yemelian Bukov and directed by Sergei Parajanov. The film was made in 1952, since that moment it was considered to be lost, but finally it was found in VGIK in 2025.",
-      "release_date": "1952-01-01",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Family"
-      ],
-      "poster_path": null,
-      "poster_url": null,
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt0174029",
-      "runtime": 17,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "3893",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=3893&cityId=1",
-    "title": "Originaltitel: Ochazuke no aji",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "lör 7/2 kl. 16:00",
-        "normalized_datetime": "2026-02-07T16:00:00",
-        "normalized_date": "07.02",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-02-07T06:34:54.371929",
-    "tmdb": {
-      "id": 55197,
-      "title": "The Flavor of Green Tea Over Rice",
-      "overview": "The arranged marriage between a capricious woman from Tokyo high society and a quiet and rustic man is tested by a marital crisis.",
-      "release_date": "1952-10-01",
-      "rating": 7.5,
-      "vote_count": 98,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/mCXg9AfQlcwCR7E7vJCI96n4nLv.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mCXg9AfQlcwCR7E7vJCI96n4nLv.jpg",
-      "backdrop_path": "/p5BLZ8KmcQFOaT51KnmDmRxrpnb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/p5BLZ8KmcQFOaT51KnmDmRxrpnb.jpg",
-      "imdb_id": "tt0044982",
-      "runtime": 116,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "12562",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=12562&cityId=1",
     "title": "Originaltitel: Soshun",
@@ -92,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:35:13.254292",
+    "scraped_at": "2026-02-08T06:41:38.281772",
     "tmdb": {
       "id": 957471,
       "title": "The Villain from Edo Kochiyama Soshun",
@@ -130,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:35:21.576212",
+    "scraped_at": "2026-02-08T06:41:45.792663",
     "tmdb": {
       "id": 1297647,
       "title": "The First Lad",
@@ -168,7 +92,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:35:32.425748",
+    "scraped_at": "2026-02-08T06:41:54.679904",
     "tmdb": {
       "id": 353588,
       "title": "Ohayo Sapporo",
@@ -207,7 +131,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:35:49.987083"
+    "scraped_at": "2026-02-08T06:42:07.694119"
   },
   {
     "film_id": "4717",
@@ -226,7 +150,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:36:09.741360",
+    "scraped_at": "2026-02-08T06:42:22.432519",
     "tmdb": {
       "id": 50759,
       "title": "An Autumn Afternoon",
@@ -264,7 +188,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:36:18.258689",
+    "scraped_at": "2026-02-08T06:42:29.669939",
     "tmdb": {
       "id": 103590,
       "title": "The Legend of Suram Fortress",
@@ -303,7 +227,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:36:37.809873",
+    "scraped_at": "2026-02-08T06:42:44.900665",
     "tmdb": {
       "id": 50247,
       "title": "Early Summer",
@@ -341,7 +265,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:36:46.390053"
+    "scraped_at": "2026-02-08T06:42:51.229524"
   },
   {
     "film_id": "13991",
@@ -360,7 +284,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-02-07T06:37:01.668469"
+    "scraped_at": "2026-02-08T06:43:02.602341"
   },
   {
     "film_id": "8068",
@@ -379,7 +303,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:37:05.610839",
+    "scraped_at": "2026-02-08T06:43:05.617018",
     "tmdb": {
       "id": 43981,
       "title": "Salaam Cinema",
@@ -419,7 +343,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:37:16.424925",
+    "scraped_at": "2026-02-08T06:43:13.576452",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -459,7 +383,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:37:31.743540"
+    "scraped_at": "2026-02-08T06:43:24.975515"
   },
   {
     "film_id": "2794",
@@ -478,7 +402,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:37:55.979360",
+    "scraped_at": "2026-02-08T06:43:42.748477",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -516,7 +440,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:38:24.748383",
+    "scraped_at": "2026-02-08T06:44:04.020894",
     "tmdb": {
       "id": 64903,
       "title": "A Cop",
@@ -554,7 +478,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:38:51.431963",
+    "scraped_at": "2026-02-08T06:44:23.539594",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -592,7 +516,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:39:02.114850",
+    "scraped_at": "2026-02-08T06:44:31.526054",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -632,7 +556,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:39:19.304444",
+    "scraped_at": "2026-02-08T06:44:44.465324",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
@@ -672,7 +596,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:39:29.916182",
+    "scraped_at": "2026-02-08T06:44:52.396992",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -712,7 +636,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:39:56.565839",
+    "scraped_at": "2026-02-08T06:45:11.995416",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -752,7 +676,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:40:46.404968",
+    "scraped_at": "2026-02-08T06:45:48.369517",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -791,7 +715,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-02-07T06:41:03.786319",
+    "scraped_at": "2026-02-08T06:46:01.357472",
     "tmdb": {
       "id": 40650,
       "title": "Le Silence de la mer",
@@ -830,7 +754,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-07T06:41:14.439951",
+    "scraped_at": "2026-02-08T06:46:09.218329",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
