@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T06:57:53.425511",
+    "scraped_at": "2026-02-10T06:57:19.697837",
     "tmdb": {
       "id": 957471,
       "title": "The Villain from Edo Kochiyama Soshun",
@@ -54,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T06:58:02.651557",
+    "scraped_at": "2026-02-10T06:57:28.301320",
     "tmdb": {
       "id": 1297647,
       "title": "The First Lad",
@@ -92,7 +92,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T06:58:13.775896",
+    "scraped_at": "2026-02-10T06:57:37.936613",
     "tmdb": {
       "id": 353588,
       "title": "Ohayo Sapporo",
@@ -131,7 +131,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T06:58:33.312561"
+    "scraped_at": "2026-02-10T06:57:54.346806"
   },
   {
     "film_id": "4717",
@@ -150,7 +150,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T06:58:53.477011",
+    "scraped_at": "2026-02-10T06:58:11.804961",
     "tmdb": {
       "id": 50759,
       "title": "An Autumn Afternoon",
@@ -188,7 +188,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T06:59:02.131831",
+    "scraped_at": "2026-02-10T06:58:19.650153",
     "tmdb": {
       "id": 103590,
       "title": "The Legend of Suram Fortress",
@@ -227,7 +227,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T06:59:22.487160",
+    "scraped_at": "2026-02-10T06:58:36.673989",
     "tmdb": {
       "id": 50247,
       "title": "Early Summer",
@@ -265,7 +265,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T06:59:31.218733"
+    "scraped_at": "2026-02-10T06:58:44.023285"
   },
   {
     "film_id": "13991",
@@ -284,7 +284,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-02-09T06:59:46.881350"
+    "scraped_at": "2026-02-10T06:58:57.275221"
   },
   {
     "film_id": "8068",
@@ -303,7 +303,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T06:59:50.945742",
+    "scraped_at": "2026-02-10T06:59:00.796037",
     "tmdb": {
       "id": 43981,
       "title": "Salaam Cinema",
@@ -343,7 +343,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T07:00:02.024842",
+    "scraped_at": "2026-02-10T06:59:10.299172",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -383,7 +383,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T07:00:17.691207"
+    "scraped_at": "2026-02-10T06:59:23.483243"
   },
   {
     "film_id": "2794",
@@ -402,7 +402,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T07:00:42.660706",
+    "scraped_at": "2026-02-10T06:59:44.795541",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -440,7 +440,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T07:01:12.201106",
+    "scraped_at": "2026-02-10T07:00:09.777814",
     "tmdb": {
       "id": 64903,
       "title": "A Cop",
@@ -478,7 +478,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T07:01:39.423771",
+    "scraped_at": "2026-02-10T07:00:33.065478",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -516,7 +516,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T07:01:50.258166",
+    "scraped_at": "2026-02-10T07:00:42.782103",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -556,14 +556,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T07:02:08.144312",
+    "scraped_at": "2026-02-10T07:00:58.162726",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
       "overview": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
       "release_date": "1969-09-10",
-      "rating": 7.9,
-      "vote_count": 721,
+      "rating": 7.907,
+      "vote_count": 722,
       "genres": [
         "War",
         "Drama",
@@ -596,7 +596,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T07:02:19.212442",
+    "scraped_at": "2026-02-10T07:01:07.623151",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -636,7 +636,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T07:02:46.219146",
+    "scraped_at": "2026-02-10T07:01:30.755772",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -676,7 +676,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T07:03:38.657695",
+    "scraped_at": "2026-02-10T07:02:13.924520",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -715,7 +715,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-02-09T07:03:56.847244",
+    "scraped_at": "2026-02-10T07:02:29.720923",
     "tmdb": {
       "id": 40650,
       "title": "Le Silence de la mer",
@@ -754,7 +754,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-09T07:04:07.944566",
+    "scraped_at": "2026-02-10T07:02:39.554966",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",

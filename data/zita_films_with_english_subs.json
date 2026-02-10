@@ -1,49 +1,47 @@
 [
   {
-    "film_id": "thelma--louise",
-    "url": "https://zita.se/thelma-louise",
-    "title": "Thelma & Louise",
+    "film_id": "baise-en-ville",
+    "url": "https://zita.se/baiseenville",
+    "title": "Baise-en-ville",
     "director": "",
-    "genre": "USA19911 jan 1991130 minDramaFrån 15 årFolkets Bio StockholmEngelskaEngelska",
+    "genre": "Frankrike202594 minKomediFrån 15 årFranskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "20:00",
-        "time": "20:00",
+        "display_text": "18:00",
+        "time": "18:00",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5490",
-        "normalized_datetime": "2026-02-09T20:00:00",
-        "normalized_date": "09.02",
-        "normalized_time": "20:00"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5774",
+        "normalized_datetime": "2026-02-10T18:00:00",
+        "normalized_date": "10.02",
+        "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-01-08T06:32:40.273364+00:00",
+    "scraped_at": "2026-02-10T07:03:05.109895+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1541,
-      "title": "Thelma & Louise",
-      "overview": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
-      "release_date": "1991-05-24",
-      "rating": 7.596,
-      "vote_count": 3767,
+      "id": 1235303,
+      "title": "Baise-en-ville",
+      "overview": "Sprite, a 20-year-old young adult, returns to Chelles after a breakup. To pay for his driver’s license and please his parents, he joins Allo Nettoyo, a night-time cleaning start-up in the Paris suburbs. Unable to get around without a permit, he adopts the \"baise-en-ville\" technique—taught by his driving instructor—which involves spending the night at girls' places of girls he meets through a dating app. Sprite struggles with this new approach to seduction.",
+      "release_date": "2026-01-28",
+      "rating": 6.25,
+      "vote_count": 14,
       "genres": [
-        "Drama",
-        "Crime",
-        "Adventure"
+        "Comedy"
       ],
-      "poster_path": "/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg",
-      "backdrop_path": "/eA15zhxnhQSg4k5MUbbTERIU23Z.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/eA15zhxnhQSg4k5MUbbTERIU23Z.jpg",
-      "imdb_id": "tt0103074",
-      "runtime": 130,
-      "budget": 16000000,
-      "revenue": 45361000
+      "poster_path": "/jmFj88Md9y6I2qftlxhSSzlEqtv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jmFj88Md9y6I2qftlxhSSzlEqtv.jpg",
+      "backdrop_path": "/1v1tmwxXwqnayMOCWo03aH6nNEZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1v1tmwxXwqnayMOCWo03aH6nNEZ.jpg",
+      "imdb_id": "tt32558601",
+      "runtime": 97,
+      "budget": 0,
+      "revenue": 0
     }
   }
 ]
