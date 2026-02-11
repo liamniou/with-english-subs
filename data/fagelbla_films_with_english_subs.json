@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-10T07:02:54.390155+00:00",
+    "scraped_at": "2026-02-11T06:59:05.760783+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -67,7 +67,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-10T07:02:54.390571+00:00",
+    "scraped_at": "2026-02-11T06:59:05.761198+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
@@ -112,14 +112,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-10T07:02:54.390713+00:00",
+    "scraped_at": "2026-02-11T06:59:05.761335+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.628,
+      "rating": 7.6,
       "vote_count": 4413,
       "genres": [
         "Comedy",
@@ -159,7 +159,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-10T07:02:54.390848+00:00",
+    "scraped_at": "2026-02-11T06:59:05.761495+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11506,
@@ -191,21 +191,21 @@
     "language": "Svensk",
     "showtimes": [
       {
-        "datetime": "2026-03-09T17:45:00+01:00",
-        "display_text": "Måndag, 9th Mars 17:45",
-        "time": "17:45",
+        "datetime": "2026-03-09T17:30:00+01:00",
+        "display_text": "Måndag, 9th Mars 17:30",
+        "time": "17:30",
         "date_section": "Måndag, 9th Mars",
         "ticket_url": "https://biofagelbla.se/movie/viskningar-och-rop/?showtime=53395",
         "showtime_id": "53395",
-        "normalized_datetime": "2026-03-09T17:45:00",
+        "normalized_datetime": "2026-03-09T17:30:00",
         "normalized_date": "09.03",
-        "normalized_time": "17:45"
+        "normalized_time": "17:30"
       }
     ],
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-10T07:02:54.390972+00:00",
+    "scraped_at": "2026-02-11T06:59:05.761638+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -250,7 +250,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-10T07:02:54.391129+00:00",
+    "scraped_at": "2026-02-11T06:59:05.761789+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47735,
@@ -296,7 +296,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-10T07:02:54.391425+00:00",
+    "scraped_at": "2026-02-11T06:59:05.761955+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11602,
@@ -341,7 +341,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-10T07:02:54.391609+00:00",
+    "scraped_at": "2026-02-11T06:59:05.762155+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -387,7 +387,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-10T07:02:54.391735+00:00",
+    "scraped_at": "2026-02-11T06:59:05.762353+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -432,7 +432,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-10T07:02:54.391899+00:00",
+    "scraped_at": "2026-02-11T06:59:05.762646+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29453,
@@ -477,7 +477,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-10T07:02:54.392023+00:00",
+    "scraped_at": "2026-02-11T06:59:05.762850+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -523,7 +523,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-10T07:02:54.392145+00:00",
+    "scraped_at": "2026-02-11T06:59:05.763066+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -568,7 +568,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-10T07:02:54.392267+00:00",
+    "scraped_at": "2026-02-11T06:59:05.763285+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,

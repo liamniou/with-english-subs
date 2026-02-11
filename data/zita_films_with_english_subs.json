@@ -1,10 +1,10 @@
 [
   {
-    "film_id": "baise-en-ville",
-    "url": "https://zita.se/baiseenville",
-    "title": "Baise-en-ville",
+    "film_id": "that-summer-in-paris",
+    "url": "https://zita.se/that-summer-in-paris",
+    "title": "That summer in Paris",
     "director": "",
-    "genre": "Frankrike202594 minKomediFrån 15 årFranskaEngelska",
+    "genre": "Le rendez-vous de l'étéLe rendez-vous de...🔍Frankrike202577 minDrama, Komedi, SportFrån 15 årFranska, Engelska, GrekiskaFranska, Engelska...🔍Engelska",
     "duration": "",
     "showtimes": [
       {
@@ -13,33 +13,34 @@
         "time": "18:00",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5774",
-        "normalized_datetime": "2026-02-10T18:00:00",
-        "normalized_date": "10.02",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5773",
+        "normalized_datetime": "2026-02-11T18:00:00",
+        "normalized_date": "11.02",
         "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-02-10T07:03:05.109895+00:00",
+    "scraped_at": "2026-02-11T06:59:32.284512+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1235303,
-      "title": "Baise-en-ville",
-      "overview": "Sprite, a 20-year-old young adult, returns to Chelles after a breakup. To pay for his driver’s license and please his parents, he joins Allo Nettoyo, a night-time cleaning start-up in the Paris suburbs. Unable to get around without a permit, he adopts the \"baise-en-ville\" technique—taught by his driving instructor—which involves spending the night at girls' places of girls he meets through a dating app. Sprite struggles with this new approach to seduction.",
-      "release_date": "2026-01-28",
-      "rating": 6.25,
-      "vote_count": 14,
+      "id": 1294706,
+      "title": "That Summer in Paris",
+      "overview": "Paris, the 2024 Olympic Games. Blandine (30) arrives from Normandy to watch the swimming competitions. Disorientated by the hustle and bustle of the city where nothing seems to go her way, she navigates the chaos of Paris and an unexpected reunion.",
+      "release_date": "2025-06-11",
+      "rating": 6.3,
+      "vote_count": 13,
       "genres": [
-        "Comedy"
+        "Comedy",
+        "Drama"
       ],
-      "poster_path": "/jmFj88Md9y6I2qftlxhSSzlEqtv.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jmFj88Md9y6I2qftlxhSSzlEqtv.jpg",
-      "backdrop_path": "/1v1tmwxXwqnayMOCWo03aH6nNEZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1v1tmwxXwqnayMOCWo03aH6nNEZ.jpg",
-      "imdb_id": "tt32558601",
-      "runtime": 97,
+      "poster_path": "/1z3jgsuyyudTPNvZMftK7FeHSDK.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1z3jgsuyyudTPNvZMftK7FeHSDK.jpg",
+      "backdrop_path": "/iRAQwlMZ5L2TfQ4kx0YUg69VEdW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/iRAQwlMZ5L2TfQ4kx0YUg69VEdW.jpg",
+      "imdb_id": "tt35489613",
+      "runtime": 77,
       "budget": 0,
       "revenue": 0
     }

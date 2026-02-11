@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T06:57:19.697837",
+    "scraped_at": "2026-02-11T06:54:22.114571",
     "tmdb": {
       "id": 957471,
       "title": "The Villain from Edo Kochiyama Soshun",
@@ -54,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T06:57:28.301320",
+    "scraped_at": "2026-02-11T06:54:29.057983",
     "tmdb": {
       "id": 1297647,
       "title": "The First Lad",
@@ -92,7 +92,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T06:57:37.936613",
+    "scraped_at": "2026-02-11T06:54:37.762085",
     "tmdb": {
       "id": 353588,
       "title": "Ohayo Sapporo",
@@ -131,7 +131,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T06:57:54.346806"
+    "scraped_at": "2026-02-11T06:54:51.977272"
   },
   {
     "film_id": "4717",
@@ -150,7 +150,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T06:58:11.804961",
+    "scraped_at": "2026-02-11T06:55:07.218319",
     "tmdb": {
       "id": 50759,
       "title": "An Autumn Afternoon",
@@ -188,7 +188,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T06:58:19.650153",
+    "scraped_at": "2026-02-11T06:55:13.491889",
     "tmdb": {
       "id": 103590,
       "title": "The Legend of Suram Fortress",
@@ -227,13 +227,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T06:58:36.673989",
+    "scraped_at": "2026-02-11T06:55:28.349725",
     "tmdb": {
       "id": 50247,
       "title": "Early Summer",
       "overview": "A 28-year-old single woman is pressured to marry.",
       "release_date": "1951-10-03",
-      "rating": 7.9,
+      "rating": 7.853,
       "vote_count": 201,
       "genres": [
         "Drama"
@@ -265,7 +265,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T06:58:44.023285"
+    "scraped_at": "2026-02-11T06:55:34.880824"
   },
   {
     "film_id": "13991",
@@ -284,7 +284,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-02-10T06:58:57.275221"
+    "scraped_at": "2026-02-11T06:55:46.266434"
   },
   {
     "film_id": "8068",
@@ -303,7 +303,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T06:59:00.796037",
+    "scraped_at": "2026-02-11T06:55:49.276865",
     "tmdb": {
       "id": 43981,
       "title": "Salaam Cinema",
@@ -343,7 +343,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T06:59:10.299172",
+    "scraped_at": "2026-02-11T06:55:57.402018",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -383,7 +383,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T06:59:23.483243"
+    "scraped_at": "2026-02-11T06:56:08.810646"
   },
   {
     "film_id": "2794",
@@ -402,7 +402,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T06:59:44.795541",
+    "scraped_at": "2026-02-11T06:56:27.159353",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -440,7 +440,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T07:00:09.777814",
+    "scraped_at": "2026-02-11T06:56:48.469720",
     "tmdb": {
       "id": 64903,
       "title": "A Cop",
@@ -478,7 +478,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T07:00:33.065478",
+    "scraped_at": "2026-02-11T06:57:08.219470",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -516,14 +516,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T07:00:42.782103",
+    "scraped_at": "2026-02-11T06:57:16.081077",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
       "overview": "In Paris, Bob Montagne is practically synonymous with gambling -- and winning. He is kind, classy and well-liked by virtually everyone in town, including police inspector Ledru. However, when Bob's luck turns sour, he begins to lose friends and makes the most desperate gamble of his life: to rob the Deauville casino during Grand Prix weekend, when the vaults are full. Unfortunately, Bob soon learns that the game is rigged and the cops are on to him.",
       "release_date": "1956-08-24",
-      "rating": 7.266,
-      "vote_count": 291,
+      "rating": 7.265,
+      "vote_count": 292,
       "genres": [
         "Drama",
         "Action",
@@ -556,7 +556,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T07:00:58.162726",
+    "scraped_at": "2026-02-11T06:57:29.368330",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
@@ -596,7 +596,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T07:01:07.623151",
+    "scraped_at": "2026-02-11T06:57:37.258737",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -636,7 +636,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T07:01:30.755772",
+    "scraped_at": "2026-02-11T06:57:56.991730",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -676,7 +676,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T07:02:13.924520",
+    "scraped_at": "2026-02-11T06:58:33.225492",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -715,7 +715,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-02-10T07:02:29.720923",
+    "scraped_at": "2026-02-11T06:58:46.283965",
     "tmdb": {
       "id": 40650,
       "title": "Le Silence de la mer",
@@ -754,7 +754,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-10T07:02:39.554966",
+    "scraped_at": "2026-02-11T06:58:54.234852",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
