@@ -1,43 +1,5 @@
 [
   {
-    "film_id": "12562",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=12562&cityId=1",
-    "title": "Originaltitel: Soshun",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "ons 11/2 kl. 18:00",
-        "normalized_datetime": "2026-02-11T18:00:00",
-        "normalized_date": "11.02",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-02-11T06:54:22.114571",
-    "tmdb": {
-      "id": 957471,
-      "title": "The Villain from Edo Kochiyama Soshun",
-      "overview": "Kotiyama is a swindler and extortionist, the head of a whole gang of crooks, usually posing as a poor monk; once he really took vows, but he was kicked out of the monastery long ago. He is enterprising, smart and not too cruel, so his accomplices love him. Posing as an envoy from the abbot of the Kennei Temple, Kotiama plays a show in front of Lord Matsue with an income of 150,000 koku, and extorts money from him. The film is based on the famous play by Kawatake Mokuami.",
-      "release_date": "1982-07-23",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/kJgMywGZyeubt0n7HyQoXibCiOf.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kJgMywGZyeubt0n7HyQoXibCiOf.jpg",
-      "backdrop_path": "/1TI2RMGJdeYkdB4WAodTtpJUtqL.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1TI2RMGJdeYkdB4WAodTtpJUtqL.jpg",
-      "imdb_id": null,
-      "runtime": 91,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "14005",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14005&cityId=1",
     "title": "Originaltitel: Pervyy Paren",
@@ -54,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:54:29.057983",
+    "scraped_at": "2026-02-12T06:54:12.160990",
     "tmdb": {
       "id": 1297647,
       "title": "The First Lad",
@@ -92,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:54:37.762085",
+    "scraped_at": "2026-02-12T06:54:20.995698",
     "tmdb": {
       "id": 353588,
       "title": "Ohayo Sapporo",
@@ -131,7 +93,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:54:51.977272"
+    "scraped_at": "2026-02-12T06:54:34.926218"
   },
   {
     "film_id": "4717",
@@ -150,7 +112,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:55:07.218319",
+    "scraped_at": "2026-02-12T06:54:50.218148",
     "tmdb": {
       "id": 50759,
       "title": "An Autumn Afternoon",
@@ -188,7 +150,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:55:13.491889",
+    "scraped_at": "2026-02-12T06:54:56.654047",
     "tmdb": {
       "id": 103590,
       "title": "The Legend of Suram Fortress",
@@ -227,7 +189,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:55:28.349725",
+    "scraped_at": "2026-02-12T06:55:12.031958",
     "tmdb": {
       "id": 50247,
       "title": "Early Summer",
@@ -265,7 +227,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:55:34.880824"
+    "scraped_at": "2026-02-12T06:55:18.339599"
   },
   {
     "film_id": "13991",
@@ -284,7 +246,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-02-11T06:55:46.266434"
+    "scraped_at": "2026-02-12T06:55:29.860998"
   },
   {
     "film_id": "8068",
@@ -303,7 +265,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:55:49.276865",
+    "scraped_at": "2026-02-12T06:55:32.900613",
     "tmdb": {
       "id": 43981,
       "title": "Salaam Cinema",
@@ -343,7 +305,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:55:57.402018",
+    "scraped_at": "2026-02-12T06:55:40.949309",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -383,7 +345,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:56:08.810646"
+    "scraped_at": "2026-02-12T06:55:52.405448"
   },
   {
     "film_id": "2794",
@@ -402,7 +364,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:56:27.159353",
+    "scraped_at": "2026-02-12T06:56:10.382971",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -440,7 +402,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:56:48.469720",
+    "scraped_at": "2026-02-12T06:56:31.955258",
     "tmdb": {
       "id": 64903,
       "title": "A Cop",
@@ -478,7 +440,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:57:08.219470",
+    "scraped_at": "2026-02-12T06:56:51.802635",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -516,7 +478,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:57:16.081077",
+    "scraped_at": "2026-02-12T06:56:59.866515",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -556,14 +518,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:57:29.368330",
+    "scraped_at": "2026-02-12T06:57:13.087904",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
       "overview": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
       "release_date": "1969-09-10",
-      "rating": 7.907,
-      "vote_count": 722,
+      "rating": 7.905,
+      "vote_count": 723,
       "genres": [
         "War",
         "Drama",
@@ -596,7 +558,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:57:37.258737",
+    "scraped_at": "2026-02-12T06:57:21.221096",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -636,7 +598,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:57:56.991730",
+    "scraped_at": "2026-02-12T06:57:41.218591",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -676,7 +638,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:58:33.225492",
+    "scraped_at": "2026-02-12T06:58:18.003332",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -715,7 +677,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-02-11T06:58:46.283965",
+    "scraped_at": "2026-02-12T06:58:31.344609",
     "tmdb": {
       "id": 40650,
       "title": "Le Silence de la mer",
@@ -754,7 +716,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-11T06:58:54.234852",
+    "scraped_at": "2026-02-12T06:58:39.541109",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",

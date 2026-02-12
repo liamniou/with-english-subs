@@ -1,10 +1,10 @@
 [
   {
-    "film_id": "that-summer-in-paris",
-    "url": "https://zita.se/that-summer-in-paris",
-    "title": "That summer in Paris",
+    "film_id": "we-believe-you",
+    "url": "https://zita.se/we-believe-you",
+    "title": "We believe you",
     "director": "",
-    "genre": "Le rendez-vous de l'étéLe rendez-vous de...🔍Frankrike202577 minDrama, Komedi, SportFrån 15 årFranska, Engelska, GrekiskaFranska, Engelska...🔍Engelska",
+    "genre": "On vous croitBelgien202578 minDramaFrån 15 årFranskaEngelska",
     "duration": "",
     "showtimes": [
       {
@@ -13,34 +13,33 @@
         "time": "18:00",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5773",
-        "normalized_datetime": "2026-02-11T18:00:00",
-        "normalized_date": "11.02",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5772",
+        "normalized_datetime": "2026-02-12T18:00:00",
+        "normalized_date": "12.02",
         "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-02-11T06:59:32.284512+00:00",
+    "scraped_at": "2026-02-12T06:59:24.042903+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1294706,
-      "title": "That Summer in Paris",
-      "overview": "Paris, the 2024 Olympic Games. Blandine (30) arrives from Normandy to watch the swimming competitions. Disorientated by the hustle and bustle of the city where nothing seems to go her way, she navigates the chaos of Paris and an unexpected reunion.",
-      "release_date": "2025-06-11",
-      "rating": 6.3,
-      "vote_count": 13,
+      "id": 1091196,
+      "title": "We Believe You",
+      "overview": "Today, Alice stands before a judge, knowing there is no room for error. She must speak up for her children, as her custody is being called into question. Can she protect them from their father before it is too late?",
+      "release_date": "2025-11-12",
+      "rating": 6.8,
+      "vote_count": 26,
       "genres": [
-        "Comedy",
         "Drama"
       ],
-      "poster_path": "/1z3jgsuyyudTPNvZMftK7FeHSDK.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1z3jgsuyyudTPNvZMftK7FeHSDK.jpg",
-      "backdrop_path": "/iRAQwlMZ5L2TfQ4kx0YUg69VEdW.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/iRAQwlMZ5L2TfQ4kx0YUg69VEdW.jpg",
-      "imdb_id": "tt35489613",
-      "runtime": 77,
+      "poster_path": "/aBYQhsh65AZqEfPiDy3Z7AGbsw.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aBYQhsh65AZqEfPiDy3Z7AGbsw.jpg",
+      "backdrop_path": "/cSHSViBQedLtepD4Rizq3TuBVnS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cSHSViBQedLtepD4Rizq3TuBVnS.jpg",
+      "imdb_id": "tt35504398",
+      "runtime": 78,
       "budget": 0,
       "revenue": 0
     }
