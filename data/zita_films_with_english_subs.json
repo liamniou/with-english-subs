@@ -1,10 +1,10 @@
 [
   {
-    "film_id": "we-believe-you",
-    "url": "https://zita.se/we-believe-you",
-    "title": "We believe you",
+    "film_id": "nino",
+    "url": "https://zita.se/nino",
+    "title": "Nino",
     "director": "",
-    "genre": "On vous croitBelgien202578 minDramaFrån 15 årFranskaEngelska",
+    "genre": "Frankrike202597 minDramaFrån 15 årFranskaEngelska",
     "duration": "",
     "showtimes": [
       {
@@ -13,33 +13,33 @@
         "time": "18:00",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5772",
-        "normalized_datetime": "2026-02-12T18:00:00",
-        "normalized_date": "12.02",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5777",
+        "normalized_datetime": "2026-02-13T18:00:00",
+        "normalized_date": "13.02",
         "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-02-12T06:59:24.042903+00:00",
+    "scraped_at": "2026-02-13T06:58:15.382324+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1091196,
-      "title": "We Believe You",
-      "overview": "Today, Alice stands before a judge, knowing there is no room for error. She must speak up for her children, as her custody is being called into question. Can she protect them from their father before it is too late?",
-      "release_date": "2025-11-12",
-      "rating": 6.8,
-      "vote_count": 26,
+      "id": 1313229,
+      "title": "Nino",
+      "overview": "Nino is a young man on a journey to reconnect with the world and himself in the streets of Paris, following the suggestion of his doctors. In three days, he will face a major challenge.",
+      "release_date": "2025-09-17",
+      "rating": 7.385,
+      "vote_count": 39,
       "genres": [
         "Drama"
       ],
-      "poster_path": "/aBYQhsh65AZqEfPiDy3Z7AGbsw.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aBYQhsh65AZqEfPiDy3Z7AGbsw.jpg",
-      "backdrop_path": "/cSHSViBQedLtepD4Rizq3TuBVnS.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cSHSViBQedLtepD4Rizq3TuBVnS.jpg",
-      "imdb_id": "tt35504398",
-      "runtime": 78,
+      "poster_path": "/s7kmHzYxMnKuSqTD1XIwW0qg9hz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/s7kmHzYxMnKuSqTD1XIwW0qg9hz.jpg",
+      "backdrop_path": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
+      "imdb_id": "tt35519445",
+      "runtime": 96,
       "budget": 0,
       "revenue": 0
     }
