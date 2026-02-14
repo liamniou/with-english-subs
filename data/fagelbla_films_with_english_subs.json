@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-13T06:57:48.304284+00:00",
+    "scraped_at": "2026-02-14T06:36:56.082918+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -67,7 +67,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-13T06:57:48.304901+00:00",
+    "scraped_at": "2026-02-14T06:36:56.083602+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
@@ -112,7 +112,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-13T06:57:48.305067+00:00",
+    "scraped_at": "2026-02-14T06:36:56.083775+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -159,7 +159,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-13T06:57:48.305201+00:00",
+    "scraped_at": "2026-02-14T06:36:56.083912+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11506,
@@ -179,51 +179,6 @@
       "imdb_id": "tt0057611",
       "runtime": 95,
       "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "viskningar-och-rop",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Viskningar och rop",
-    "director": "Ingmar Bergman",
-    "duration": "1h 31 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2026-03-09T17:30:00+01:00",
-        "display_text": "Måndag, 9th Mars 17:30",
-        "time": "17:30",
-        "date_section": "Måndag, 9th Mars",
-        "ticket_url": "https://biofagelbla.se/movie/viskningar-och-rop/?showtime=53395",
-        "showtime_id": "53395",
-        "normalized_datetime": "2026-03-09T17:30:00",
-        "normalized_date": "09.03",
-        "normalized_time": "17:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-02-13T06:57:48.305365+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 10238,
-      "title": "Cries and Whispers",
-      "overview": "As Agnes slowly dies of cancer, her sisters are so immersed in their own psychic pains that they are unable to offer her the support she needs.",
-      "release_date": "1972-12-21",
-      "rating": 7.88,
-      "vote_count": 761,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/a1bMgB09YDvvRN9SitCclUYragr.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/a1bMgB09YDvvRN9SitCclUYragr.jpg",
-      "backdrop_path": "/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
-      "imdb_id": "tt0069467",
-      "runtime": 95,
-      "budget": 400000,
       "revenue": 0
     }
   },
@@ -250,7 +205,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-13T06:57:48.305535+00:00",
+    "scraped_at": "2026-02-14T06:36:56.084068+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47735,
@@ -296,7 +251,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-13T06:57:48.305742+00:00",
+    "scraped_at": "2026-02-14T06:36:56.084190+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11602,
@@ -341,14 +296,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-13T06:57:48.305970+00:00",
+    "scraped_at": "2026-02-14T06:36:56.084376+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
       "title": "The Seventh Seal",
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
-      "rating": 8.164,
+      "rating": 8.2,
       "vote_count": 3265,
       "genres": [
         "Fantasy",
@@ -362,6 +317,51 @@
       "runtime": 96,
       "budget": 150000,
       "revenue": 311212
+    }
+  },
+  {
+    "film_id": "viskningar-och-rop",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Viskningar och rop",
+    "director": "Ingmar Bergman",
+    "duration": "1h 31 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-04-06T17:45:00+02:00",
+        "display_text": "Måndag, 6th April 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 6th April",
+        "ticket_url": "https://biofagelbla.se/movie/viskningar-och-rop/?showtime=54372",
+        "showtime_id": "54372",
+        "normalized_datetime": "2026-04-06T17:45:00",
+        "normalized_date": "06.04",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-02-14T06:36:56.084591+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 10238,
+      "title": "Cries and Whispers",
+      "overview": "As Agnes slowly dies of cancer, her sisters are so immersed in their own psychic pains that they are unable to offer her the support she needs.",
+      "release_date": "1972-12-21",
+      "rating": 7.88,
+      "vote_count": 761,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/a1bMgB09YDvvRN9SitCclUYragr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/a1bMgB09YDvvRN9SitCclUYragr.jpg",
+      "backdrop_path": "/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
+      "imdb_id": "tt0069467",
+      "runtime": 95,
+      "budget": 400000,
+      "revenue": 0
     }
   },
   {
@@ -387,7 +387,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-13T06:57:48.306168+00:00",
+    "scraped_at": "2026-02-14T06:36:56.084809+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -432,7 +432,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-13T06:57:48.306458+00:00",
+    "scraped_at": "2026-02-14T06:36:56.085079+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29453,
@@ -477,7 +477,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-13T06:57:48.306690+00:00",
+    "scraped_at": "2026-02-14T06:36:56.085319+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -523,7 +523,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-13T06:57:48.306881+00:00",
+    "scraped_at": "2026-02-14T06:36:56.085531+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -568,7 +568,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-13T06:57:48.307073+00:00",
+    "scraped_at": "2026-02-14T06:36:56.085740+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,

@@ -1,45 +1,135 @@
 [
   {
-    "film_id": "nino",
-    "url": "https://zita.se/nino",
-    "title": "Nino",
+    "film_id": "bisons",
+    "url": "https://zita.se/bisons",
+    "title": "Bisons",
     "director": "",
-    "genre": "Frankrike202597 minDramaFrån 15 årFranskaEngelska",
+    "genre": "Schweiz, Frankrike2024103 minDramaFrån 15 årFranskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "18:00",
-        "time": "18:00",
+        "display_text": "17:30",
+        "time": "17:30",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5777",
-        "normalized_datetime": "2026-02-13T18:00:00",
-        "normalized_date": "13.02",
-        "normalized_time": "18:00"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5775",
+        "normalized_datetime": "2026-02-14T17:30:00",
+        "normalized_date": "14.02",
+        "normalized_time": "17:30"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-02-13T06:58:15.382324+00:00",
+    "scraped_at": "2026-02-14T06:37:10.956763+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1313229,
-      "title": "Nino",
-      "overview": "Nino is a young man on a journey to reconnect with the world and himself in the streets of Paris, following the suggestion of his doctors. In three days, he will face a major challenge.",
-      "release_date": "2025-09-17",
-      "rating": 7.385,
-      "vote_count": 39,
+      "id": 1004304,
+      "title": "Bisons",
+      "overview": "“Respect for the vanquished”, remarks Steve “is what separates man from beast.” As a champion in Swiss-style wrestling, Steve knows a thing or two about observing codes of combat. But when his family farm faces repossession, he is forced to join hands with his ex-convict brother Joel and enter the lucrative, clandestine world of no-rules fighting.",
+      "release_date": "2024-02-07",
+      "rating": 7.4,
+      "vote_count": 4,
       "genres": [
         "Drama"
       ],
-      "poster_path": "/s7kmHzYxMnKuSqTD1XIwW0qg9hz.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/s7kmHzYxMnKuSqTD1XIwW0qg9hz.jpg",
-      "backdrop_path": "/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7ZQJMVmmdR7VR7xoCoEA1Hysv8c.jpg",
-      "imdb_id": "tt35519445",
-      "runtime": 96,
+      "poster_path": "/ewnherhrgaJwh16yvmbDkCo68iH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ewnherhrgaJwh16yvmbDkCo68iH.jpg",
+      "backdrop_path": "/ezzHG1PWSP7nwiPgEAVzaXibU2R.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ezzHG1PWSP7nwiPgEAVzaXibU2R.jpg",
+      "imdb_id": "tt21422618",
+      "runtime": 105,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "so-long",
+    "url": "https://zita.se/so-long",
+    "title": "So long",
+    "director": "",
+    "genre": "Ce n’est qu’un au revoirCe n’est qu’un...🔍Frankrike202464 minDokumentärFrån 15 årFranskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "13:00",
+        "time": "13:00",
+        "date": "",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5776",
+        "normalized_datetime": "2026-02-14T13:00:00",
+        "normalized_date": "14.02",
+        "normalized_time": "13:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-02-14T06:37:36.118245+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 621731,
+      "title": "So Long Billie",
+      "overview": "Victor and his little brother Jimmy manage to get by in an environment where their romantic misfortunes seem to be never-ending. But the arrival of Billie and her unbridled romanticism will shake both of the boys' beliefs to the core.",
+      "release_date": "2020-07-24",
+      "rating": 4.4,
+      "vote_count": 12,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/m1pnz1tiHQjKgIDKSvpGWrh4hOx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m1pnz1tiHQjKgIDKSvpGWrh4hOx.jpg",
+      "backdrop_path": "/qm5UeU8rHAZdGkjxEeIQ4oJTuXW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qm5UeU8rHAZdGkjxEeIQ4oJTuXW.jpg",
+      "imdb_id": "tt8972476",
+      "runtime": 95,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "the-girl-in-the-snow",
+    "url": "https://zita.se/the-girl-in-the-snow",
+    "title": "The Girl in the snow",
+    "director": "",
+    "genre": "L'engloutieFrankrike202598 minDramaFrån 15 årFranska, OccitanskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "15:15",
+        "time": "15:15",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5768",
+        "normalized_datetime": "2026-02-14T15:15:00",
+        "normalized_date": "14.02",
+        "normalized_time": "15:15"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-02-14T06:37:43.779988+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1069650,
+      "title": "The Girl in the Snow",
+      "overview": "1899. On a stormy night, Aimée, a young Republican schoolteacher, arrives in a snowy hamlet on the edge of the Alps. Despite the mistrust of the inhabitants, she is determined to shed light on their dark beliefs. As she blends into the life of the community, a sensual vertigo grows within her.",
+      "release_date": "2025-12-24",
+      "rating": 4.9,
+      "vote_count": 7,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/yzMVS2PPaCj58i3Og7FgtIpMLA6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yzMVS2PPaCj58i3Og7FgtIpMLA6.jpg",
+      "backdrop_path": "/vOjos1WEp2HJlW63SRwCZObH67g.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vOjos1WEp2HJlW63SRwCZObH67g.jpg",
+      "imdb_id": "tt31287262",
+      "runtime": 98,
       "budget": 0,
       "revenue": 0
     }
