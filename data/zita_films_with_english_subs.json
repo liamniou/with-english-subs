@@ -14,8 +14,8 @@
         "date": "",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5771",
-        "normalized_datetime": "2026-02-15T19:30:00",
-        "normalized_date": "15.02",
+        "normalized_datetime": "2026-02-16T19:30:00",
+        "normalized_date": "16.02",
         "normalized_time": "19:30"
       }
     ],
@@ -62,8 +62,8 @@
         "date": "",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5770",
-        "normalized_datetime": "2026-02-15T17:00:00",
-        "normalized_date": "15.02",
+        "normalized_datetime": "2026-02-16T17:00:00",
+        "normalized_date": "16.02",
         "normalized_time": "17:00"
       }
     ],
@@ -77,8 +77,8 @@
       "title": "Summer Beats",
       "overview": "Paris, a working-class neighborhood in the 19th arrondissement. Shaï and Djeneba are 19 years old and have been friends since childhood. One is burdened by an overbearing family. The other by deep loneliness. Over the course of a summer, they work as counselors at a summer camp, far from the tower blocks where they grew up—no longer quite children, yet officially responsible for a group of kids aged 6 to 10. On the cusp of adulthood, they will have to make choices to grow up and reinvent their friendship.",
       "release_date": "2026-01-07",
-      "rating": 7.138,
-      "vote_count": 29,
+      "rating": 7.1,
+      "vote_count": 30,
       "genres": [
         "Comedy"
       ],
@@ -107,8 +107,8 @@
         "date": "",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5769",
-        "normalized_datetime": "2026-02-15T15:00:00",
-        "normalized_date": "15.02",
+        "normalized_datetime": "2026-02-16T15:00:00",
+        "normalized_date": "16.02",
         "normalized_time": "15:00"
       }
     ],

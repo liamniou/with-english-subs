@@ -1,44 +1,5 @@
 [
   {
-    "film_id": "8077",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=8077&cityId=1",
-    "title": "Originaltitel: Ohayo",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "sön 15/2 kl. 16:00",
-        "normalized_datetime": "2026-02-15T16:00:00",
-        "normalized_date": "15.02",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-02-15T06:43:08.374162",
-    "tmdb": {
-      "id": 353588,
-      "title": "Ohayo Sapporo",
-      "overview": "Hearing-impaired Mo-Re wants to meet Hiro in person, a Japanese guy she met on the Internet.",
-      "release_date": "2013-01-03",
-      "rating": 5.0,
-      "vote_count": 1,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "poster_path": "/pbNZi3RD93nUqepG8VpFfnFC7im.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pbNZi3RD93nUqepG8VpFfnFC7im.jpg",
-      "backdrop_path": "/whbKsirl2cB19uD2S9KFKK1gfHk.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/whbKsirl2cB19uD2S9KFKK1gfHk.jpg",
-      "imdb_id": "",
-      "runtime": 40,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "14006",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14006&cityId=1",
     "title": "Originaltitel: Ukrainskaya rapsodiya",
@@ -55,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:43:25.491606"
+    "scraped_at": "2026-02-16T06:56:22.534876"
   },
   {
     "film_id": "4717",
@@ -74,13 +35,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:43:44.022432",
+    "scraped_at": "2026-02-16T06:56:39.129562",
     "tmdb": {
       "id": 50759,
       "title": "An Autumn Afternoon",
       "overview": "Shuhei Hirayama is a widower with a 24-year-old daughter. Gradually, he comes to realize that she should not be obliged to look after him for the rest of his life, so he arranges a marriage for her.",
       "release_date": "1962-11-18",
-      "rating": 7.9,
+      "rating": 7.862,
       "vote_count": 313,
       "genres": [
         "Drama"
@@ -112,7 +73,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:43:52.009628",
+    "scraped_at": "2026-02-16T06:56:46.185706",
     "tmdb": {
       "id": 103590,
       "title": "The Legend of Suram Fortress",
@@ -151,7 +112,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:44:10.634865",
+    "scraped_at": "2026-02-16T06:57:02.188753",
     "tmdb": {
       "id": 50247,
       "title": "Early Summer",
@@ -189,7 +150,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:44:18.497264"
+    "scraped_at": "2026-02-16T06:57:08.905690"
   },
   {
     "film_id": "13991",
@@ -208,7 +169,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-02-15T06:44:32.894174"
+    "scraped_at": "2026-02-16T06:57:21.326016"
   },
   {
     "film_id": "8068",
@@ -227,7 +188,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:44:36.642397",
+    "scraped_at": "2026-02-16T06:57:24.578018",
     "tmdb": {
       "id": 43981,
       "title": "Salaam Cinema",
@@ -267,7 +228,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:44:46.715449",
+    "scraped_at": "2026-02-16T06:57:33.296593",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -307,7 +268,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:45:01.091315"
+    "scraped_at": "2026-02-16T06:57:45.623562"
   },
   {
     "film_id": "2794",
@@ -326,7 +287,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:45:24.059479",
+    "scraped_at": "2026-02-16T06:58:05.243165",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -364,7 +325,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:45:51.068435",
+    "scraped_at": "2026-02-16T06:58:28.409989",
     "tmdb": {
       "id": 64903,
       "title": "A Cop",
@@ -402,7 +363,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:46:15.826914",
+    "scraped_at": "2026-02-16T06:58:49.531941",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -440,7 +401,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:46:25.843780",
+    "scraped_at": "2026-02-16T06:58:58.252264",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -480,7 +441,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:46:42.003062",
+    "scraped_at": "2026-02-16T06:59:12.358973",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
@@ -520,7 +481,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:46:52.028739",
+    "scraped_at": "2026-02-16T06:59:20.914835",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -560,7 +521,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:47:16.804349",
+    "scraped_at": "2026-02-16T06:59:42.245962",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -600,7 +561,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:48:02.235951",
+    "scraped_at": "2026-02-16T07:00:21.938849",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -639,7 +600,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-02-15T06:48:19.405255",
+    "scraped_at": "2026-02-16T07:00:36.104657",
     "tmdb": {
       "id": 40650,
       "title": "Le Silence de la mer",
@@ -678,7 +639,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-15T06:48:29.439744",
+    "scraped_at": "2026-02-16T07:00:44.806487",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
