@@ -14,8 +14,8 @@
         "date": "",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5771",
-        "normalized_datetime": "2026-02-16T19:30:00",
-        "normalized_date": "16.02",
+        "normalized_datetime": "2026-02-17T19:30:00",
+        "normalized_date": "17.02",
         "normalized_time": "19:30"
       }
     ],
@@ -29,8 +29,8 @@
       "title": "Dog 51",
       "overview": "In the near future, Paris is divided into three zones that separate social classes, and no one can escape ALMA, a predictive AI that has revolutionized law enforcement. When ALMA’s creator is assassinated, Salia, a top agent, and Zem, a jaded cop, are forced to work together to solve a murder that may expose the dark secrets of the system they serve.",
       "release_date": "2025-10-15",
-      "rating": 6.276,
-      "vote_count": 190,
+      "rating": 6.285,
+      "vote_count": 191,
       "genres": [
         "Thriller",
         "Science Fiction",
@@ -62,8 +62,8 @@
         "date": "",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5770",
-        "normalized_datetime": "2026-02-16T17:00:00",
-        "normalized_date": "16.02",
+        "normalized_datetime": "2026-02-17T17:00:00",
+        "normalized_date": "17.02",
         "normalized_time": "17:00"
       }
     ],
@@ -107,8 +107,8 @@
         "date": "",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5769",
-        "normalized_datetime": "2026-02-16T15:00:00",
-        "normalized_date": "16.02",
+        "normalized_datetime": "2026-02-17T15:00:00",
+        "normalized_date": "17.02",
         "normalized_time": "15:00"
       }
     ],
