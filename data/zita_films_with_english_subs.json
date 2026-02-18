@@ -1,140 +1,48 @@
 [
   {
-    "film_id": "chien-51",
-    "url": "https://zita.se/chien-51",
-    "title": "Chien 51",
+    "film_id": "orphan",
+    "url": "https://zita.se/orphan",
+    "title": "Orphan",
     "director": "",
-    "genre": "",
-    "duration": "Frankrike2025105 minSci-FiFrån 15 årFranskaEngelska",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "19:30",
-        "time": "19:30",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5771",
-        "normalized_datetime": "2026-02-17T19:30:00",
-        "normalized_date": "17.02",
-        "normalized_time": "19:30"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-02-15T06:49:01.350094+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 1266798,
-      "title": "Dog 51",
-      "overview": "In the near future, Paris is divided into three zones that separate social classes, and no one can escape ALMA, a predictive AI that has revolutionized law enforcement. When ALMA’s creator is assassinated, Salia, a top agent, and Zem, a jaded cop, are forced to work together to solve a murder that may expose the dark secrets of the system they serve.",
-      "release_date": "2025-10-15",
-      "rating": 6.285,
-      "vote_count": 191,
-      "genres": [
-        "Thriller",
-        "Science Fiction",
-        "Crime",
-        "Action"
-      ],
-      "poster_path": "/yVU6eMwHRgFWI9dtdxqOQg4NjD8.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yVU6eMwHRgFWI9dtdxqOQg4NjD8.jpg",
-      "backdrop_path": "/OO75q1cTWWXDmy52bB79yzpxBt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/OO75q1cTWWXDmy52bB79yzpxBt.jpg",
-      "imdb_id": "tt33255286",
-      "runtime": 100,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "ma-frère",
-    "url": "https://zita.se/ma-frere",
-    "title": "Ma Frère",
-    "director": "",
-    "genre": "Frankrike2025112 minDrama, KomediFrån 15 årFranskaEngelska",
+    "genre": "Ungern202517 april 2026132 minDramaLucky DogsUngerskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "17:00",
-        "time": "17:00",
+        "display_text": "18:00",
+        "time": "18:00",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5770",
-        "normalized_datetime": "2026-02-17T17:00:00",
-        "normalized_date": "17.02",
-        "normalized_time": "17:00"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5789",
+        "normalized_datetime": "2026-02-18T18:00:00",
+        "normalized_date": "18.02",
+        "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-02-15T06:49:14.730910+00:00",
+    "scraped_at": "2026-02-18T07:01:17.921185+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1290436,
-      "title": "Summer Beats",
-      "overview": "Paris, a working-class neighborhood in the 19th arrondissement. Shaï and Djeneba are 19 years old and have been friends since childhood. One is burdened by an overbearing family. The other by deep loneliness. Over the course of a summer, they work as counselors at a summer camp, far from the tower blocks where they grew up—no longer quite children, yet officially responsible for a group of kids aged 6 to 10. On the cusp of adulthood, they will have to make choices to grow up and reinvent their friendship.",
-      "release_date": "2026-01-07",
-      "rating": 7.1,
-      "vote_count": 30,
+      "id": 21208,
+      "title": "Orphan",
+      "overview": "After losing their baby, a married couple adopt 9-year old Esther, who may not be as innocent as she seems.",
+      "release_date": "2009-07-24",
+      "rating": 6.99,
+      "vote_count": 5559,
       "genres": [
-        "Comedy"
+        "Horror",
+        "Thriller"
       ],
-      "poster_path": "/xjJ5QLDnKtAizkGTccF48Q7aNSe.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xjJ5QLDnKtAizkGTccF48Q7aNSe.jpg",
-      "backdrop_path": "/7kqzjKKFLvOEMAkWjjpihScZSe2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7kqzjKKFLvOEMAkWjjpihScZSe2.jpg",
-      "imdb_id": "tt36856791",
-      "runtime": 112,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "promised-sky",
-    "url": "https://zita.se/promised-sky",
-    "title": "Promised sky",
-    "director": "",
-    "genre": "Promis le cielFrankrike, Tunisien202595 minDramaFrån 15 årFranska, ArabiskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "15:00",
-        "time": "15:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5769",
-        "normalized_datetime": "2026-02-17T15:00:00",
-        "normalized_date": "17.02",
-        "normalized_time": "15:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-02-15T06:49:25.226470+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 1218412,
-      "title": "Promised Sky",
-      "overview": "Marie, Naney, and Jolie live together in Tunis, sheltering Kenza, a shipwreck survivor. As this unorthodox family forms, crises make each woman reconsider her place.",
-      "release_date": "2026-01-28",
-      "rating": 5.8,
-      "vote_count": 19,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/kmdi05d5bUufTstIpKWTv4h8Ffg.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kmdi05d5bUufTstIpKWTv4h8Ffg.jpg",
-      "backdrop_path": "/qMcVbIZpoHw8RovGtjxW3EZhHuQ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qMcVbIZpoHw8RovGtjxW3EZhHuQ.jpg",
-      "imdb_id": "tt33311007",
-      "runtime": 92,
-      "budget": 6800000,
-      "revenue": 0
+      "poster_path": "/lCGpOgoTOGLtZnBiGY9HRg5Xnjd.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lCGpOgoTOGLtZnBiGY9HRg5Xnjd.jpg",
+      "backdrop_path": "/9zqgOKXnXVyD7UOqIudAoMmK8r7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9zqgOKXnXVyD7UOqIudAoMmK8r7.jpg",
+      "imdb_id": "tt1148204",
+      "runtime": 123,
+      "budget": 20000000,
+      "revenue": 77912251
     }
   }
 ]
