@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-19T06:59:15.872142+00:00",
+    "scraped_at": "2026-02-20T06:53:24.246419+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
@@ -67,14 +67,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-19T06:59:15.872682+00:00",
+    "scraped_at": "2026-02-20T06:53:24.246927+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.627,
+      "rating": 7.6,
       "vote_count": 4420,
       "genres": [
         "Comedy",
@@ -114,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-19T06:59:15.872988+00:00",
+    "scraped_at": "2026-02-20T06:53:24.247230+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11506,
@@ -160,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-19T06:59:15.873147+00:00",
+    "scraped_at": "2026-02-20T06:53:24.247447+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47735,
@@ -206,7 +206,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-19T06:59:15.873306+00:00",
+    "scraped_at": "2026-02-20T06:53:24.247625+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11602,
@@ -251,15 +251,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-19T06:59:15.873482+00:00",
+    "scraped_at": "2026-02-20T06:53:24.247794+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
       "title": "The Seventh Seal",
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
-      "rating": 8.2,
-      "vote_count": 3271,
+      "rating": 8.164,
+      "vote_count": 3273,
       "genres": [
         "Fantasy",
         "Drama"
@@ -297,7 +297,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-19T06:59:15.873685+00:00",
+    "scraped_at": "2026-02-20T06:53:24.248022+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -342,7 +342,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-19T06:59:15.873863+00:00",
+    "scraped_at": "2026-02-20T06:53:24.248228+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -387,7 +387,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-19T06:59:15.874020+00:00",
+    "scraped_at": "2026-02-20T06:53:24.248402+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29453,
@@ -432,7 +432,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-19T06:59:15.874146+00:00",
+    "scraped_at": "2026-02-20T06:53:24.248566+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -478,22 +478,22 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-19T06:59:15.874266+00:00",
+    "scraped_at": "2026-02-20T06:53:24.248693+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.143,
+      "rating": 8.1,
       "vote_count": 2363,
       "genres": [
         "Drama"
       ],
       "poster_path": "/v2KsLNChpT6vLf0YFhkJmAtGkNq.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/v2KsLNChpT6vLf0YFhkJmAtGkNq.jpg",
-      "backdrop_path": "/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
+      "backdrop_path": "/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
       "imdb_id": "tt0060827",
       "runtime": 84,
       "budget": 0,
@@ -523,7 +523,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-19T06:59:15.874407+00:00",
+    "scraped_at": "2026-02-20T06:53:24.248817+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,

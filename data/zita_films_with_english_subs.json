@@ -1,48 +1,92 @@
 [
   {
-    "film_id": "orphan",
-    "url": "https://zita.se/orphan",
-    "title": "Orphan",
+    "film_id": "yalla-parkour",
+    "url": "https://zita.se/yalla-parkour",
+    "title": "Yalla parkour",
     "director": "",
-    "genre": "Ungern202517 april 2026132 minDramaLucky DogsUngerskaEngelska",
+    "genre": "Sverige, Qatar, Saudiarabien, PalestinaSverige, Qatar...🔍20251 jan 202488 minDokumentärFrån 15 årSmorgasbordArabiskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "18:00",
+        "display_text": "i morgon 16:30",
+        "time": "16:30",
+        "date": "i morgon",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
+        "normalized_datetime": "2026-02-21T16:30:00",
+        "normalized_date": "21.02",
+        "normalized_time": "16:30"
+      },
+      {
+        "datetime": "",
+        "display_text": "i morgon 18:15",
+        "time": "18:15",
+        "date": "i morgon",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
+        "normalized_datetime": "2026-02-21T18:15:00",
+        "normalized_date": "21.02",
+        "normalized_time": "18:15"
+      },
+      {
+        "datetime": "2026-02-22T18:00:00",
+        "display_text": "sön 22 feb 18:00",
         "time": "18:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5789",
-        "normalized_datetime": "2026-02-19T18:00:00",
-        "normalized_date": "19.02",
+        "date": "sön 22 feb",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
+        "normalized_datetime": "2026-02-22T18:00:00",
+        "normalized_date": "22.02",
         "normalized_time": "18:00"
+      },
+      {
+        "datetime": "2026-02-23T15:00:00",
+        "display_text": "mån 23 feb 15:00",
+        "time": "15:00",
+        "date": "mån 23 feb",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
+        "normalized_datetime": "2026-02-23T15:00:00",
+        "normalized_date": "23.02",
+        "normalized_time": "15:00"
+      },
+      {
+        "datetime": "2026-02-24T13:45:00",
+        "display_text": "tis 24 feb 13:45",
+        "time": "13:45",
+        "date": "tis 24 feb",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
+        "normalized_datetime": "2026-02-24T13:45:00",
+        "normalized_date": "24.02",
+        "normalized_time": "13:45"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-02-18T07:01:17.921185+00:00",
+    "scraped_at": "2026-02-20T06:54:04.399800+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 21208,
-      "title": "Orphan",
-      "overview": "After losing their baby, a married couple adopt 9-year old Esther, who may not be as innocent as she seems.",
-      "release_date": "2009-07-24",
-      "rating": 6.991,
-      "vote_count": 5562,
+      "id": 1370210,
+      "title": "Yalla Parkour",
+      "overview": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
+      "release_date": "2024-11-14",
+      "rating": 7.0,
+      "vote_count": 1,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Documentary",
+        "Drama"
       ],
-      "poster_path": "/lCGpOgoTOGLtZnBiGY9HRg5Xnjd.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lCGpOgoTOGLtZnBiGY9HRg5Xnjd.jpg",
-      "backdrop_path": "/9zqgOKXnXVyD7UOqIudAoMmK8r7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9zqgOKXnXVyD7UOqIudAoMmK8r7.jpg",
-      "imdb_id": "tt1148204",
-      "runtime": 123,
-      "budget": 20000000,
-      "revenue": 77912251
+      "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eANxqeFoOn3u2kraxhY324VocO7.jpg",
+      "backdrop_path": "/rwN4zT0W4QUvgFhgw8y380Xl2uj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/rwN4zT0W4QUvgFhgw8y380Xl2uj.jpg",
+      "imdb_id": "tt12402876",
+      "runtime": 89,
+      "budget": 0,
+      "revenue": 0
     }
   }
 ]
