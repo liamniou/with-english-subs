@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-20T06:53:24.246419+00:00",
+    "scraped_at": "2026-02-21T06:38:38.746439+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
@@ -67,15 +67,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-20T06:53:24.246927+00:00",
+    "scraped_at": "2026-02-21T06:38:38.746967+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.6,
-      "vote_count": 4420,
+      "rating": 7.626,
+      "vote_count": 4421,
       "genres": [
         "Comedy",
         "Romance",
@@ -114,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-20T06:53:24.247230+00:00",
+    "scraped_at": "2026-02-21T06:38:38.747274+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11506,
@@ -135,6 +135,52 @@
       "runtime": 95,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "marie-antoinette",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Marie Antoinette",
+    "director": "Sofia Coppola",
+    "duration": "2h 3 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-03-11T17:45:00+01:00",
+        "display_text": "Onsdag, 11th Mars 17:45",
+        "time": "17:45",
+        "date_section": "Onsdag, 11th Mars",
+        "ticket_url": "https://biofagelbla.se/movie/marie-antoinette/?showtime=54625",
+        "showtime_id": "54625",
+        "normalized_datetime": "2026-03-11T17:45:00",
+        "normalized_date": "11.03",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-02-21T06:38:38.747447+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 1887,
+      "title": "Marie Antoinette",
+      "overview": "A retelling of the story of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles.",
+      "release_date": "2006-05-24",
+      "rating": 6.7,
+      "vote_count": 2904,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "poster_path": "/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "backdrop_path": "/9hxBNoRjEDZGjyR1JpmmtxJWmVU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9hxBNoRjEDZGjyR1JpmmtxJWmVU.jpg",
+      "imdb_id": "tt0422720",
+      "runtime": 123,
+      "budget": 40000000,
+      "revenue": 60917189
     }
   },
   {
@@ -160,7 +206,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-20T06:53:24.247447+00:00",
+    "scraped_at": "2026-02-21T06:38:38.747623+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47735,
@@ -206,7 +252,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-20T06:53:24.247625+00:00",
+    "scraped_at": "2026-02-21T06:38:38.747744+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11602,
@@ -251,15 +297,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-20T06:53:24.247794+00:00",
+    "scraped_at": "2026-02-21T06:38:38.747992+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
       "title": "The Seventh Seal",
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
-      "rating": 8.164,
-      "vote_count": 3273,
+      "rating": 8.165,
+      "vote_count": 3275,
       "genres": [
         "Fantasy",
         "Drama"
@@ -297,7 +343,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-20T06:53:24.248022+00:00",
+    "scraped_at": "2026-02-21T06:38:38.748210+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -342,7 +388,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-20T06:53:24.248228+00:00",
+    "scraped_at": "2026-02-21T06:38:38.748414+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -387,7 +433,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-20T06:53:24.248402+00:00",
+    "scraped_at": "2026-02-21T06:38:38.748669+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29453,
@@ -432,7 +478,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-20T06:53:24.248566+00:00",
+    "scraped_at": "2026-02-21T06:38:38.748882+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -478,7 +524,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-20T06:53:24.248693+00:00",
+    "scraped_at": "2026-02-21T06:38:38.749011+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -523,7 +569,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-20T06:53:24.248817+00:00",
+    "scraped_at": "2026-02-21T06:38:38.749135+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
