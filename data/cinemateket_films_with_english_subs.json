@@ -1,64 +1,5 @@
 [
   {
-    "film_id": "14006",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14006&cityId=1",
-    "title": "Originaltitel: Ukrainskaya rapsodiya",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "lör 21/2 kl. 14:00",
-        "normalized_datetime": "2026-02-21T14:00:00",
-        "normalized_date": "21.02",
-        "normalized_time": "14:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-02-21T06:34:05.966229"
-  },
-  {
-    "film_id": "13998",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13998&cityId=1",
-    "title": "Originaltitel: Paranoia",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "sön 22/2 kl. 18:30",
-        "normalized_datetime": "2026-02-22T18:30:00",
-        "normalized_date": "22.02",
-        "normalized_time": "18:30"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-02-21T06:34:17.753012",
-    "tmdb": {
-      "id": 291543,
-      "title": "Paranoia",
-      "overview": "A girl, whose entire family was murdered by a serial killer, tries to isolate herself in New York City. Her fear escalates when the murderer starts stalking her on the internet. With his prison sentence about to end, the game of cat and mouse begins.",
-      "release_date": "1998-06-01",
-      "rating": 4.7,
-      "vote_count": 6,
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Horror"
-      ],
-      "poster_path": null,
-      "poster_url": null,
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt0155944",
-      "runtime": 91,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "4717",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=4717&cityId=1",
     "title": "Originaltitel: Sanma no aji",
@@ -75,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-21T06:34:25.023956",
+    "scraped_at": "2026-02-23T06:57:18.557425",
     "tmdb": {
       "id": 50759,
       "title": "An Autumn Afternoon",
@@ -113,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-21T06:34:31.695884",
+    "scraped_at": "2026-02-23T06:57:28.580814",
     "tmdb": {
       "id": 103590,
       "title": "The Legend of Suram Fortress",
@@ -152,7 +93,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-21T06:34:47.390642",
+    "scraped_at": "2026-02-23T06:57:46.855026",
     "tmdb": {
       "id": 50247,
       "title": "Early Summer",
@@ -190,7 +131,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-21T06:34:54.057361"
+    "scraped_at": "2026-02-23T06:57:55.248598"
   },
   {
     "film_id": "13991",
@@ -209,7 +150,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-02-21T06:35:06.095394"
+    "scraped_at": "2026-02-23T06:58:08.687377"
   },
   {
     "film_id": "8068",
@@ -228,7 +169,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-21T06:35:09.178174",
+    "scraped_at": "2026-02-23T06:58:12.229936",
     "tmdb": {
       "id": 43981,
       "title": "Salaam Cinema",
@@ -268,7 +209,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-21T06:35:17.542821",
+    "scraped_at": "2026-02-23T06:58:21.404046",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -308,7 +249,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-21T06:35:29.702674"
+    "scraped_at": "2026-02-23T06:58:36.145168"
   },
   {
     "film_id": "2794",
@@ -327,7 +268,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-21T06:35:49.029800",
+    "scraped_at": "2026-02-23T06:58:57.381521",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -365,7 +306,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-21T06:36:11.786786",
+    "scraped_at": "2026-02-23T06:59:22.732272",
     "tmdb": {
       "id": 42741,
       "title": "A Cop",
@@ -404,7 +345,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-21T06:36:32.652161",
+    "scraped_at": "2026-02-23T06:59:46.036475",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -442,7 +383,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-21T06:36:41.149499",
+    "scraped_at": "2026-02-23T06:59:55.494114",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -482,13 +423,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-21T06:36:55.157037",
+    "scraped_at": "2026-02-23T07:00:10.871417",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
       "overview": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
       "release_date": "1969-09-10",
-      "rating": 7.899,
+      "rating": 7.9,
       "vote_count": 725,
       "genres": [
         "War",
@@ -522,7 +463,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-21T06:37:03.553572",
+    "scraped_at": "2026-02-23T07:00:20.402189",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -562,7 +503,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-21T06:37:24.341747",
+    "scraped_at": "2026-02-23T07:00:43.693930",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -602,7 +543,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-21T06:38:03.421463",
+    "scraped_at": "2026-02-23T07:01:26.651175",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -641,26 +582,24 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-02-21T06:38:17.231842",
+    "scraped_at": "2026-02-23T07:01:42.188683",
     "tmdb": {
-      "id": 336748,
-      "title": "Silence of the Sea",
-      "overview": "In a small town in the West of France, during the German Occupation, a room is requisitioned by a Wehrmacht captain, Werner von Ebrennac. The house where he now stays is inhabited by young Jeanne, who makes a living by giving piano lessons, and by her grandfather. Quite upset, the two \"hosts\" decide to resist the occupier by never speaking a word to him. Now Werner is a lover of France and its culture, and he tries to persuade them that a rapprochement between Germany and France would be beneficial for the two nations. Quite unexpectedly Jeanne, little by little, falls in love with Werner. At the same time, the Francophile officer loses his illusions, realizing at last that what Nazi Germany actually wants is to thrall France and to stifle its culture...",
-      "release_date": "2004-09-18",
-      "rating": 7.444,
-      "vote_count": 36,
+      "id": 40650,
+      "title": "Le Silence de la mer",
+      "overview": "In a small town in WWII France, a German officer is billeted in the house of an elderly man and his niece who resist the occupation by refusing to interact with him, even as he speaks to them candidly about his life and hopes for the future of France and Germany.",
+      "release_date": "1949-04-22",
+      "rating": 7.496,
+      "vote_count": 139,
       "genres": [
-        "Romance",
         "Drama",
-        "War",
-        "TV Movie"
+        "War"
       ],
-      "poster_path": "/mQ86qn3gd3gzOoTChM6yw30R1mY.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mQ86qn3gd3gzOoTChM6yw30R1mY.jpg",
-      "backdrop_path": "/psIBvpXpMEvEP9O8VpZyKnxAiop.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/psIBvpXpMEvEP9O8VpZyKnxAiop.jpg",
-      "imdb_id": "tt0430594",
-      "runtime": 100,
+      "poster_path": "/5yagil6aUFTkdYqIoldZmDAGpay.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5yagil6aUFTkdYqIoldZmDAGpay.jpg",
+      "backdrop_path": "/guZVHRB7UK8Cts5XzRyiYgmtx4s.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/guZVHRB7UK8Cts5XzRyiYgmtx4s.jpg",
+      "imdb_id": "tt0039822",
+      "runtime": 87,
       "budget": 0,
       "revenue": 0
     }
@@ -682,7 +621,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-21T06:38:25.722642",
+    "scraped_at": "2026-02-23T07:01:51.854336",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
