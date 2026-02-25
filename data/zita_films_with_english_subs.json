@@ -2,27 +2,82 @@
   {
     "film_id": "yalla-parkour",
     "url": "https://zita.se/yalla-parkour",
-    "title": "Yalla parkour",
+    "title": "Yalla Parkour",
     "director": "",
-    "genre": "Sverige, Qatar, Saudiarabien, PalestinaSverige, Qatar...🔍20251 jan 202488 minDokumentärFrån 15 årSmorgasbordArabiskaEngelska",
+    "genre": "Yalla parkourSverige, Qatar, Saudiarabien, PalestinaSverige, Qatar...🔍20251 jan 202488 minDokumentärFrån 15 årSmorgasbordArabiskaEngelska",
     "duration": "",
     "showtimes": [
       {
-        "datetime": "",
-        "display_text": "13:45",
-        "time": "13:45",
-        "date": "",
-        "cinema": "(Zita 1)",
+        "datetime": "2026-02-27T16:30:00",
+        "display_text": "fre 27 feb 16:30",
+        "time": "16:30",
+        "date": "fre 27 feb",
+        "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
-        "normalized_datetime": "2026-02-24T13:45:00",
-        "normalized_date": "24.02",
-        "normalized_time": "13:45"
+        "normalized_datetime": "2026-02-27T16:30:00",
+        "normalized_date": "27.02",
+        "normalized_time": "16:30"
+      },
+      {
+        "datetime": "2026-02-28T16:30:00",
+        "display_text": "lör 28 feb 16:30",
+        "time": "16:30",
+        "date": "lör 28 feb",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
+        "normalized_datetime": "2026-02-28T16:30:00",
+        "normalized_date": "28.02",
+        "normalized_time": "16:30"
+      },
+      {
+        "datetime": "2026-03-01T16:00:00",
+        "display_text": "sön 1 mars 16:00",
+        "time": "16:00",
+        "date": "sön 1 mars",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
+        "normalized_datetime": "2026-03-01T16:00:00",
+        "normalized_date": "01.03",
+        "normalized_time": "16:00"
+      },
+      {
+        "datetime": "2026-03-02T13:30:00",
+        "display_text": "mån 2 mars 13:30",
+        "time": "13:30",
+        "date": "mån 2 mars",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
+        "normalized_datetime": "2026-03-02T13:30:00",
+        "normalized_date": "02.03",
+        "normalized_time": "13:30"
+      },
+      {
+        "datetime": "2026-03-03T13:30:00",
+        "display_text": "tis 3 mars 13:30",
+        "time": "13:30",
+        "date": "tis 3 mars",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
+        "normalized_datetime": "2026-03-03T13:30:00",
+        "normalized_date": "03.03",
+        "normalized_time": "13:30"
+      },
+      {
+        "datetime": "2026-03-04T13:30:00",
+        "display_text": "ons 4 mars 13:30",
+        "time": "13:30",
+        "date": "ons 4 mars",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
+        "normalized_datetime": "2026-03-04T13:30:00",
+        "normalized_date": "04.03",
+        "normalized_time": "13:30"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-02-24T06:57:25.799966+00:00",
+    "scraped_at": "2026-02-25T07:00:25.086995+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1370210,
