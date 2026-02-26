@@ -8,10 +8,10 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2026-02-27T16:30:00",
-        "display_text": "fre 27 feb 16:30",
+        "datetime": "",
+        "display_text": "i morgon 16:30",
         "time": "16:30",
-        "date": "fre 27 feb",
+        "date": "i morgon",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
         "normalized_datetime": "2026-02-27T16:30:00",
@@ -77,7 +77,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-02-25T07:00:25.086995+00:00",
+    "scraped_at": "2026-02-26T06:58:41.873106+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1370210,
