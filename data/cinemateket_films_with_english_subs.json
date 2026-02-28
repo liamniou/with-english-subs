@@ -16,14 +16,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-27T06:43:44.374851",
+    "scraped_at": "2026-02-28T06:29:25.045357",
     "tmdb": {
       "id": 103590,
       "title": "The Legend of Suram Fortress",
       "overview": "A film version of a well-known Georgian folk-tale. A young boy has to be immured into the walls of a fortress in order to stop it from crumbling to pieces.",
       "release_date": "1985-12-01",
-      "rating": 6.7,
-      "vote_count": 40,
+      "rating": 6.8,
+      "vote_count": 41,
       "genres": [
         "Drama",
         "Fantasy"
@@ -55,13 +55,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-27T06:44:01.756552",
+    "scraped_at": "2026-02-28T06:29:41.629013",
     "tmdb": {
       "id": 50247,
       "title": "Early Summer",
       "overview": "A 28-year-old single woman is pressured to marry.",
       "release_date": "1951-10-03",
-      "rating": 7.844,
+      "rating": 7.8,
       "vote_count": 202,
       "genres": [
         "Drama"
@@ -93,7 +93,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-27T06:44:08.582479"
+    "scraped_at": "2026-02-28T06:29:48.472956"
   },
   {
     "film_id": "13991",
@@ -112,7 +112,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-02-27T06:44:20.665175"
+    "scraped_at": "2026-02-28T06:29:59.916412"
   },
   {
     "film_id": "8068",
@@ -131,7 +131,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-27T06:44:23.709899",
+    "scraped_at": "2026-02-28T06:30:02.967868",
     "tmdb": {
       "id": 43981,
       "title": "Salaam Cinema",
@@ -171,7 +171,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-27T06:44:32.242356",
+    "scraped_at": "2026-02-28T06:30:11.251182",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -211,7 +211,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-27T06:44:44.351905"
+    "scraped_at": "2026-02-28T06:30:22.903723"
   },
   {
     "film_id": "2794",
@@ -230,7 +230,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-27T06:45:03.395312",
+    "scraped_at": "2026-02-28T06:30:41.163902",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -268,7 +268,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-27T06:45:26.427276",
+    "scraped_at": "2026-02-28T06:31:02.673639",
     "tmdb": {
       "id": 42741,
       "title": "A Cop",
@@ -307,7 +307,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-27T06:45:47.179068",
+    "scraped_at": "2026-02-28T06:31:22.077886",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -345,7 +345,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-27T06:45:55.695640",
+    "scraped_at": "2026-02-28T06:31:29.967610",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -385,7 +385,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-27T06:46:09.679811",
+    "scraped_at": "2026-02-28T06:31:43.017504",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
@@ -425,7 +425,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-27T06:46:18.110189",
+    "scraped_at": "2026-02-28T06:31:50.968642",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -465,7 +465,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-27T06:46:39.243169",
+    "scraped_at": "2026-02-28T06:32:10.550907",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -505,7 +505,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-27T06:47:18.038810",
+    "scraped_at": "2026-02-28T06:32:46.211880",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -544,7 +544,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-02-27T06:47:32.061240",
+    "scraped_at": "2026-02-28T06:32:58.956780",
     "tmdb": {
       "id": 40650,
       "title": "Le Silence de la mer",
@@ -583,7 +583,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-27T06:47:40.658825",
+    "scraped_at": "2026-02-28T06:33:06.846208",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
