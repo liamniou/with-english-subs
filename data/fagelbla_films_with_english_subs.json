@@ -1,52 +1,5 @@
 [
   {
-    "film_id": "breakfast-at-tiffanys",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Breakfast at Tiffany’s",
-    "director": "Blake Edwards",
-    "duration": "1h 55 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2026-02-28T10:30:00+01:00",
-        "display_text": "Lördag, 28th Februari 10:30",
-        "time": "10:30",
-        "date_section": "Lördag, 28th Februari",
-        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=53650",
-        "showtime_id": "53650",
-        "normalized_datetime": "2026-02-28T10:30:00",
-        "normalized_date": "28.02",
-        "normalized_time": "10:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-02-28T06:33:17.308600+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 164,
-      "title": "Breakfast at Tiffany's",
-      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
-      "release_date": "1961-10-06",
-      "rating": 7.626,
-      "vote_count": 4425,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "imdb_id": "tt0054698",
-      "runtime": 115,
-      "budget": 2500000,
-      "revenue": 9500000
-    }
-  },
-  {
     "film_id": "tystnaden",
     "url": "https://biofagelbla.se/program/",
     "title": "Tystnaden",
@@ -69,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-28T06:33:17.309010+00:00",
+    "scraped_at": "2026-03-01T06:42:04.842627+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11506,
@@ -115,7 +68,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-28T06:33:17.309702+00:00",
+    "scraped_at": "2026-03-01T06:42:04.843354+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
@@ -160,7 +113,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-28T06:33:17.309833+00:00",
+    "scraped_at": "2026-03-01T06:42:04.843509+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
@@ -206,7 +159,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-28T06:33:17.310011+00:00",
+    "scraped_at": "2026-03-01T06:42:04.843740+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47735,
@@ -227,6 +180,53 @@
       "runtime": 98,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "breakfast-at-tiffanys",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Breakfast at Tiffany’s",
+    "director": "Blake Edwards",
+    "duration": "1h 55 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-03-21T10:30:00+01:00",
+        "display_text": "Lördag, 21st Mars 10:30",
+        "time": "10:30",
+        "date_section": "Lördag, 21st Mars",
+        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=54824",
+        "showtime_id": "54824",
+        "normalized_datetime": "2026-03-21T10:30:00",
+        "normalized_date": "21.03",
+        "normalized_time": "10:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-03-01T06:42:04.843889+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 164,
+      "title": "Breakfast at Tiffany's",
+      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+      "release_date": "1961-10-06",
+      "rating": 7.626,
+      "vote_count": 4428,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "imdb_id": "tt0054698",
+      "runtime": 115,
+      "budget": 2500000,
+      "revenue": 9500000
     }
   },
   {
@@ -252,7 +252,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-28T06:33:17.310131+00:00",
+    "scraped_at": "2026-03-01T06:42:04.844032+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11602,
@@ -297,7 +297,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-28T06:33:17.310320+00:00",
+    "scraped_at": "2026-03-01T06:42:04.844335+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -318,6 +318,53 @@
       "runtime": 96,
       "budget": 150000,
       "revenue": 311212
+    }
+  },
+  {
+    "film_id": "breakfast-at-tiffanys",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Breakfast at Tiffany’s",
+    "director": "Blake Edwards",
+    "duration": "1h 55 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-04-11T10:30:00+02:00",
+        "display_text": "Lördag, 11th April 10:30",
+        "time": "10:30",
+        "date_section": "Lördag, 11th April",
+        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=54827",
+        "showtime_id": "54827",
+        "normalized_datetime": "2026-04-11T10:30:00",
+        "normalized_date": "11.04",
+        "normalized_time": "10:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-03-01T06:42:04.844540+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 164,
+      "title": "Breakfast at Tiffany's",
+      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+      "release_date": "1961-10-06",
+      "rating": 7.626,
+      "vote_count": 4428,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "imdb_id": "tt0054698",
+      "runtime": 115,
+      "budget": 2500000,
+      "revenue": 9500000
     }
   },
   {
@@ -343,7 +390,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-28T06:33:17.310541+00:00",
+    "scraped_at": "2026-03-01T06:42:04.844718+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -388,7 +435,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-28T06:33:17.310799+00:00",
+    "scraped_at": "2026-03-01T06:42:04.844914+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29453,
@@ -433,7 +480,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-28T06:33:17.311009+00:00",
+    "scraped_at": "2026-03-01T06:42:04.845076+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -479,7 +526,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-28T06:33:17.311217+00:00",
+    "scraped_at": "2026-03-01T06:42:04.845227+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -524,7 +571,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-02-28T06:33:17.311434+00:00",
+    "scraped_at": "2026-03-01T06:42:04.845368+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,

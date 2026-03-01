@@ -1,44 +1,5 @@
 [
   {
-    "film_id": "3044",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=3044&cityId=1",
-    "title": "Originaltitel: Ambavi Suramis tsikhitsa",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "lör 28/2 kl. 14:00",
-        "normalized_datetime": "2026-02-28T14:00:00",
-        "normalized_date": "28.02",
-        "normalized_time": "14:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-02-28T06:29:25.045357",
-    "tmdb": {
-      "id": 103590,
-      "title": "The Legend of Suram Fortress",
-      "overview": "A film version of a well-known Georgian folk-tale. A young boy has to be immured into the walls of a fortress in order to stop it from crumbling to pieces.",
-      "release_date": "1985-12-01",
-      "rating": 6.8,
-      "vote_count": 41,
-      "genres": [
-        "Drama",
-        "Fantasy"
-      ],
-      "poster_path": "/kbgvvcLwQyuH8QPVdite1vvEbCK.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kbgvvcLwQyuH8QPVdite1vvEbCK.jpg",
-      "backdrop_path": "/cQN81yk6v4StOZadSQXkedpeMDg.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cQN81yk6v4StOZadSQXkedpeMDg.jpg",
-      "imdb_id": "tt0087606",
-      "runtime": 83,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "12561",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=12561&cityId=1",
     "title": "Originaltitel: Bakushu",
@@ -55,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-28T06:29:41.629013",
+    "scraped_at": "2026-03-01T06:38:12.082687",
     "tmdb": {
       "id": 50247,
       "title": "Early Summer",
@@ -93,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-28T06:29:48.472956"
+    "scraped_at": "2026-03-01T06:38:19.390696"
   },
   {
     "film_id": "13991",
@@ -112,7 +73,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-02-28T06:29:59.916412"
+    "scraped_at": "2026-03-01T06:38:31.705829"
   },
   {
     "film_id": "8068",
@@ -131,7 +92,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-28T06:30:02.967868",
+    "scraped_at": "2026-03-01T06:38:34.944396",
     "tmdb": {
       "id": 43981,
       "title": "Salaam Cinema",
@@ -171,7 +132,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-28T06:30:11.251182",
+    "scraped_at": "2026-03-01T06:38:43.446883",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -211,7 +172,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-28T06:30:22.903723"
+    "scraped_at": "2026-03-01T06:38:55.430197"
   },
   {
     "film_id": "2794",
@@ -230,7 +191,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-28T06:30:41.163902",
+    "scraped_at": "2026-03-01T06:39:14.852835",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -268,7 +229,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-28T06:31:02.673639",
+    "scraped_at": "2026-03-01T06:39:37.756614",
     "tmdb": {
       "id": 42741,
       "title": "A Cop",
@@ -307,7 +268,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-28T06:31:22.077886",
+    "scraped_at": "2026-03-01T06:39:58.617670",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -345,7 +306,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-28T06:31:29.967610",
+    "scraped_at": "2026-03-01T06:40:07.243853",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -385,7 +346,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-28T06:31:43.017504",
+    "scraped_at": "2026-03-01T06:40:21.228520",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
@@ -425,7 +386,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-28T06:31:50.968642",
+    "scraped_at": "2026-03-01T06:40:29.868930",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -465,7 +426,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-28T06:32:10.550907",
+    "scraped_at": "2026-03-01T06:40:51.148922",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -505,7 +466,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-28T06:32:46.211880",
+    "scraped_at": "2026-03-01T06:41:30.455470",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -544,24 +505,26 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-02-28T06:32:58.956780",
+    "scraped_at": "2026-03-01T06:41:44.499275",
     "tmdb": {
-      "id": 40650,
-      "title": "Le Silence de la mer",
-      "overview": "In a small town in WWII France, a German officer is billeted in the house of an elderly man and his niece who resist the occupation by refusing to interact with him, even as he speaks to them candidly about his life and hopes for the future of France and Germany.",
-      "release_date": "1949-04-22",
-      "rating": 7.496,
-      "vote_count": 139,
+      "id": 336748,
+      "title": "Silence of the Sea",
+      "overview": "In a small town in the West of France, during the German Occupation, a room is requisitioned by a Wehrmacht captain, Werner von Ebrennac. The house where he now stays is inhabited by young Jeanne, who makes a living by giving piano lessons, and by her grandfather. Quite upset, the two \"hosts\" decide to resist the occupier by never speaking a word to him. Now Werner is a lover of France and its culture, and he tries to persuade them that a rapprochement between Germany and France would be beneficial for the two nations. Quite unexpectedly Jeanne, little by little, falls in love with Werner. At the same time, the Francophile officer loses his illusions, realizing at last that what Nazi Germany actually wants is to thrall France and to stifle its culture...",
+      "release_date": "2004-09-18",
+      "rating": 7.4,
+      "vote_count": 36,
       "genres": [
+        "Romance",
         "Drama",
-        "War"
+        "War",
+        "TV Movie"
       ],
-      "poster_path": "/5yagil6aUFTkdYqIoldZmDAGpay.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5yagil6aUFTkdYqIoldZmDAGpay.jpg",
-      "backdrop_path": "/guZVHRB7UK8Cts5XzRyiYgmtx4s.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/guZVHRB7UK8Cts5XzRyiYgmtx4s.jpg",
-      "imdb_id": "tt0039822",
-      "runtime": 87,
+      "poster_path": "/mQ86qn3gd3gzOoTChM6yw30R1mY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mQ86qn3gd3gzOoTChM6yw30R1mY.jpg",
+      "backdrop_path": "/psIBvpXpMEvEP9O8VpZyKnxAiop.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/psIBvpXpMEvEP9O8VpZyKnxAiop.jpg",
+      "imdb_id": "tt0430594",
+      "runtime": 100,
       "budget": 0,
       "revenue": 0
     }
@@ -583,7 +546,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-02-28T06:33:06.846208",
+    "scraped_at": "2026-03-01T06:41:53.285301",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
