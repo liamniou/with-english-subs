@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-01T06:42:04.842627+00:00",
+    "scraped_at": "2026-03-02T06:54:09.597783+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11506,
@@ -68,15 +68,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-01T06:42:04.843354+00:00",
+    "scraped_at": "2026-03-02T06:54:09.598478+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 10238,
       "title": "Cries and Whispers",
       "overview": "As Agnes slowly dies of cancer, her sisters are so immersed in their own psychic pains that they are unable to offer her the support she needs.",
       "release_date": "1972-12-21",
-      "rating": 7.9,
-      "vote_count": 763,
+      "rating": 7.88,
+      "vote_count": 764,
       "genres": [
         "Drama"
       ],
@@ -113,7 +113,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-01T06:42:04.843509+00:00",
+    "scraped_at": "2026-03-02T06:54:09.598619+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
@@ -121,7 +121,7 @@
       "overview": "A retelling of the story of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles.",
       "release_date": "2006-05-24",
       "rating": 6.7,
-      "vote_count": 2907,
+      "vote_count": 2908,
       "genres": [
         "Drama",
         "History"
@@ -159,7 +159,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-01T06:42:04.843740+00:00",
+    "scraped_at": "2026-03-02T06:54:09.598822+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47735,
@@ -205,7 +205,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-01T06:42:04.843889+00:00",
+    "scraped_at": "2026-03-02T06:54:09.598975+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -252,7 +252,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-01T06:42:04.844032+00:00",
+    "scraped_at": "2026-03-02T06:54:09.599116+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11602,
@@ -297,15 +297,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-01T06:42:04.844335+00:00",
+    "scraped_at": "2026-03-02T06:54:09.599280+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
       "title": "The Seventh Seal",
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
-      "rating": 8.164,
-      "vote_count": 3282,
+      "rating": 8.162,
+      "vote_count": 3284,
       "genres": [
         "Fantasy",
         "Drama"
@@ -343,7 +343,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-01T06:42:04.844540+00:00",
+    "scraped_at": "2026-03-02T06:54:09.599491+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -390,7 +390,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-01T06:42:04.844718+00:00",
+    "scraped_at": "2026-03-02T06:54:09.599689+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -435,7 +435,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-01T06:42:04.844914+00:00",
+    "scraped_at": "2026-03-02T06:54:09.599978+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29453,
@@ -480,7 +480,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-01T06:42:04.845076+00:00",
+    "scraped_at": "2026-03-02T06:54:09.600188+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -526,15 +526,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-01T06:42:04.845227+00:00",
+    "scraped_at": "2026-03-02T06:54:09.600382+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.1,
-      "vote_count": 2364,
+      "rating": 8.139,
+      "vote_count": 2366,
       "genres": [
         "Drama"
       ],
@@ -571,7 +571,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-01T06:42:04.845368+00:00",
+    "scraped_at": "2026-03-02T06:54:09.600567+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
