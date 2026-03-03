@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-02T06:49:27.268661",
+    "scraped_at": "2026-03-03T06:41:57.689961",
     "tmdb": {
       "id": 50247,
       "title": "Early Summer",
@@ -54,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-02T06:49:35.686418"
+    "scraped_at": "2026-03-03T06:42:04.702958"
   },
   {
     "film_id": "13991",
@@ -73,7 +73,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-03-02T06:49:50.827808"
+    "scraped_at": "2026-03-03T06:42:17.792119"
   },
   {
     "film_id": "8068",
@@ -92,7 +92,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-02T06:49:54.716644",
+    "scraped_at": "2026-03-03T06:42:20.961187",
     "tmdb": {
       "id": 43981,
       "title": "Salaam Cinema",
@@ -132,7 +132,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-02T06:50:04.951733",
+    "scraped_at": "2026-03-03T06:42:29.435366",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -158,7 +158,7 @@
   {
     "film_id": "8091",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=8091&cityId=1",
-    "title": "Originaltitel: Higambana",
+    "title": "Originaltitel: Higanbana",
     "director": "",
     "showtimes": [
       {
@@ -172,7 +172,28 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-02T06:50:19.468605"
+    "scraped_at": "2026-03-03T06:42:41.661176",
+    "tmdb": {
+      "id": 437740,
+      "title": "Higanbana - Women's Crime File (Higanbana: Onnatachi no Hanzai Fairu)",
+      "overview": "Nagisa, the heroine, has the ability to “synch” with all the powerful emotions that linger in crime scenes. When this happens though, she blacks out. Even in her day-to-day life, she can hear people's evil intentions and true colors and senses their lies and deception. That is why she always wears headphones in order to shut out people's emotions. She works well with her colleagues at the \"Red Spider Lily\" (Higanbana) unit, who are all brutally honest acid-tongued women with no qualms about speaking their minds. \"Red Spider Lily\" is an eclectic unit that includes a science geek, a single mom, and a woman who grew up abroad. Seen by many as a department that's been taken off the main career track, \"Red Spider Lily\" turns out to be full of fabulous detectives!",
+      "release_date": "2014-10-24",
+      "rating": 5.0,
+      "vote_count": 1,
+      "genres": [
+        "Crime",
+        "Mystery",
+        "TV Movie"
+      ],
+      "poster_path": "/1XEkhrPQEuQ1PZnbO7IQXlSidCL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1XEkhrPQEuQ1PZnbO7IQXlSidCL.jpg",
+      "backdrop_path": "/iUbKttKmtgJXmIASC6m11jX2IUz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/iUbKttKmtgJXmIASC6m11jX2IUz.jpg",
+      "imdb_id": "tt4068106",
+      "runtime": 94,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "2794",
@@ -191,7 +212,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-02T06:50:42.564117",
+    "scraped_at": "2026-03-03T06:43:01.177799",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -229,13 +250,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-02T06:51:09.951968",
+    "scraped_at": "2026-03-03T06:43:23.750821",
     "tmdb": {
       "id": 42741,
       "title": "A Cop",
       "overview": "A Parisian police chief has an affair, but unbeknownst to him, the boyfriend of the woman he’s having an affair with is a bank robber planning a heist.",
       "release_date": "1972-10-01",
-      "rating": 6.595,
+      "rating": 6.6,
       "vote_count": 273,
       "genres": [
         "Crime",
@@ -268,7 +289,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-02T06:51:35.251145",
+    "scraped_at": "2026-03-03T06:43:44.780688",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -306,7 +327,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-02T06:51:45.394627",
+    "scraped_at": "2026-03-03T06:43:53.198660",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -346,14 +367,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-02T06:52:02.317880",
+    "scraped_at": "2026-03-03T06:44:06.693500",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
       "overview": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
       "release_date": "1969-09-10",
-      "rating": 7.9,
-      "vote_count": 728,
+      "rating": 7.901,
+      "vote_count": 729,
       "genres": [
         "War",
         "Drama",
@@ -386,7 +407,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-02T06:52:12.630877",
+    "scraped_at": "2026-03-03T06:44:15.316951",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -426,7 +447,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-02T06:52:38.105929",
+    "scraped_at": "2026-03-03T06:44:36.201847",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -466,7 +487,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-02T06:53:27.953603",
+    "scraped_at": "2026-03-03T06:45:15.343890",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -505,7 +526,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-03-02T06:53:44.831103",
+    "scraped_at": "2026-03-03T06:45:29.240379",
     "tmdb": {
       "id": 336748,
       "title": "Silence of the Sea",
@@ -546,7 +567,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-02T06:53:55.039759",
+    "scraped_at": "2026-03-03T06:45:37.924249",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
