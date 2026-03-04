@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-03T06:41:57.689961",
+    "scraped_at": "2026-03-04T06:39:15.580728",
     "tmdb": {
       "id": 50247,
       "title": "Early Summer",
@@ -54,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-03T06:42:04.702958"
+    "scraped_at": "2026-03-04T06:39:23.853269"
   },
   {
     "film_id": "13991",
@@ -73,7 +73,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-03-03T06:42:17.792119"
+    "scraped_at": "2026-03-04T06:39:36.534094"
   },
   {
     "film_id": "8068",
@@ -92,7 +92,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-03T06:42:20.961187",
+    "scraped_at": "2026-03-04T06:39:40.246266",
     "tmdb": {
       "id": 43981,
       "title": "Salaam Cinema",
@@ -132,7 +132,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-03T06:42:29.435366",
+    "scraped_at": "2026-03-04T06:39:48.597819",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -172,7 +172,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-03T06:42:41.661176",
+    "scraped_at": "2026-03-04T06:40:00.572833",
     "tmdb": {
       "id": 437740,
       "title": "Higanbana - Women's Crime File (Higanbana: Onnatachi no Hanzai Fairu)",
@@ -212,7 +212,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-03T06:43:01.177799",
+    "scraped_at": "2026-03-04T06:40:21.710603",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -250,7 +250,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-03T06:43:23.750821",
+    "scraped_at": "2026-03-04T06:40:44.144015",
     "tmdb": {
       "id": 42741,
       "title": "A Cop",
@@ -289,7 +289,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-03T06:43:44.780688",
+    "scraped_at": "2026-03-04T06:41:04.344891",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -327,7 +327,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-03T06:43:53.198660",
+    "scraped_at": "2026-03-04T06:41:12.552559",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -367,14 +367,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-03T06:44:06.693500",
+    "scraped_at": "2026-03-04T06:41:25.796374",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
       "overview": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
       "release_date": "1969-09-10",
-      "rating": 7.901,
-      "vote_count": 729,
+      "rating": 7.9,
+      "vote_count": 730,
       "genres": [
         "War",
         "Drama",
@@ -407,7 +407,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-03T06:44:15.316951",
+    "scraped_at": "2026-03-04T06:41:34.029932",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -447,7 +447,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-03T06:44:36.201847",
+    "scraped_at": "2026-03-04T06:41:54.240937",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -487,7 +487,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-03T06:45:15.343890",
+    "scraped_at": "2026-03-04T06:42:31.878265",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -526,7 +526,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-03-03T06:45:29.240379",
+    "scraped_at": "2026-03-04T06:42:45.293936",
     "tmdb": {
       "id": 336748,
       "title": "Silence of the Sea",
@@ -567,7 +567,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-03T06:45:37.924249",
+    "scraped_at": "2026-03-04T06:42:53.591918",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
