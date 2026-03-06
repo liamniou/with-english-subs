@@ -14,15 +14,15 @@
         "date": "i morgon",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
-        "normalized_datetime": "2026-03-06T21:00:00",
-        "normalized_date": "06.03",
+        "normalized_datetime": "2026-03-07T21:00:00",
+        "normalized_date": "07.03",
         "normalized_time": "21:00"
       },
       {
-        "datetime": "2026-03-07T16:30:00",
-        "display_text": "lör 7 mars 16:30",
+        "datetime": "",
+        "display_text": "i morgon 16:30",
         "time": "16:30",
-        "date": "lör 7 mars",
+        "date": "i morgon",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
         "normalized_datetime": "2026-03-07T16:30:00",
@@ -66,7 +66,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-05T06:47:54.243711+00:00",
+    "scraped_at": "2026-03-06T06:42:57.321891+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1370210,
