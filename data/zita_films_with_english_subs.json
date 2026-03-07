@@ -8,25 +8,14 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "",
-        "display_text": "i morgon 21:00",
-        "time": "21:00",
-        "date": "i morgon",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
-        "normalized_datetime": "2026-03-07T21:00:00",
-        "normalized_date": "07.03",
-        "normalized_time": "21:00"
-      },
-      {
-        "datetime": "",
-        "display_text": "i morgon 16:30",
+        "datetime": "2026-03-09T16:30:00",
+        "display_text": "mån 9 mars 16:30",
         "time": "16:30",
-        "date": "i morgon",
+        "date": "mån 9 mars",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
-        "normalized_datetime": "2026-03-07T16:30:00",
-        "normalized_date": "07.03",
+        "normalized_datetime": "2026-03-09T16:30:00",
+        "normalized_date": "09.03",
         "normalized_time": "16:30"
       },
       {
@@ -66,7 +55,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-06T06:42:57.321891+00:00",
+    "scraped_at": "2026-03-07T06:32:31.057010+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1370210,
