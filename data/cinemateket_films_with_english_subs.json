@@ -1,24 +1,5 @@
 [
   {
-    "film_id": "11865",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=11865&cityId=1",
-    "title": "Originaltitel: Teni zabytych predkov",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "lör 7/3 kl. 14:00",
-        "normalized_datetime": "2026-03-07T14:00:00",
-        "normalized_date": "07.03",
-        "normalized_time": "14:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-03-06T06:38:50.377832"
-  },
-  {
     "film_id": "13991",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13991&cityId=1",
     "title": "Originaltitel: From Liberation to Trans Militancy - Documents from Queer Struggles in Sweden",
@@ -35,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-03-06T06:39:03.955050",
+    "scraped_at": "2026-03-08T06:35:04.931224",
     "tmdb": {
       "id": 1646135,
       "title": "From Liberation to Trans Militancy - Documents from Queer Struggles in Sweden",
@@ -73,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-06T06:39:06.923146",
+    "scraped_at": "2026-03-08T06:35:08.266321",
     "tmdb": {
       "id": 43981,
       "title": "Salaam Cinema",
@@ -113,7 +94,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-06T06:39:16.030101",
+    "scraped_at": "2026-03-08T06:35:17.786044",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -153,7 +134,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-06T06:39:28.016324",
+    "scraped_at": "2026-03-08T06:35:29.910862",
     "tmdb": {
       "id": 437740,
       "title": "Higanbana - Women's Crime File (Higanbana: Onnatachi no Hanzai Fairu)",
@@ -193,7 +174,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-06T06:39:48.443525",
+    "scraped_at": "2026-03-08T06:35:51.095158",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -231,7 +212,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-06T06:40:09.987693",
+    "scraped_at": "2026-03-08T06:36:13.852990",
     "tmdb": {
       "id": 42741,
       "title": "A Cop",
@@ -270,7 +251,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-06T06:40:29.956988",
+    "scraped_at": "2026-03-08T06:36:34.332802",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -308,7 +289,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-06T06:40:38.018440",
+    "scraped_at": "2026-03-08T06:36:42.835845",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -348,14 +329,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-06T06:40:51.090545",
+    "scraped_at": "2026-03-08T06:36:56.239559",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
       "overview": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
       "release_date": "1969-09-10",
-      "rating": 7.902,
-      "vote_count": 731,
+      "rating": 7.898,
+      "vote_count": 732,
       "genres": [
         "War",
         "Drama",
@@ -388,7 +369,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-06T06:40:59.140721",
+    "scraped_at": "2026-03-08T06:37:04.565747",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -428,14 +409,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-06T06:41:18.956703",
+    "scraped_at": "2026-03-08T06:37:25.322525",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
       "overview": "Enigmatic gangster Silien may or may not be responsible for informing on Faugel,  who was just released from prison and is already involved in what should be a simple heist. By the end of this brutal, twisting, and multilayered policier, who will be left to trust?",
       "release_date": "1962-12-13",
-      "rating": 7.4,
-      "vote_count": 299,
+      "rating": 7.367,
+      "vote_count": 300,
       "genres": [
         "Drama",
         "Thriller",
@@ -468,7 +449,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-06T06:41:55.060707",
+    "scraped_at": "2026-03-08T06:38:03.448184",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -507,7 +488,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-03-06T06:42:08.099587",
+    "scraped_at": "2026-03-08T06:38:17.060700",
     "tmdb": {
       "id": 336748,
       "title": "Silence of the Sea",
@@ -548,7 +529,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-06T06:42:16.061324",
+    "scraped_at": "2026-03-08T06:38:25.603996",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
