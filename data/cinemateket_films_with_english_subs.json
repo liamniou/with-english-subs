@@ -1,45 +1,5 @@
 [
   {
-    "film_id": "8068",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=8068&cityId=1",
-    "title": "Originaltitel: Salam Cinema",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "tis 10/3 kl. 18:00",
-        "normalized_datetime": "2026-03-10T18:00:00",
-        "normalized_date": "10.03",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-03-10T06:39:54.891327",
-    "tmdb": {
-      "id": 43981,
-      "title": "Salaam Cinema",
-      "overview": "Makhmalbaf puts an advertisement in the papers calling for an open casting for his next movie. However when hundreds of people show up, he decides to make a movie about the casting and the screen tests of the would-be actors.",
-      "release_date": "1995-04-14",
-      "rating": 6.5,
-      "vote_count": 41,
-      "genres": [
-        "Documentary",
-        "Drama",
-        "Comedy"
-      ],
-      "poster_path": "/sMomuldengOiGtSJonjqcRmzrTF.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sMomuldengOiGtSJonjqcRmzrTF.jpg",
-      "backdrop_path": "/s6kv8ULRwnLMINd0srRPu2eefwx.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/s6kv8ULRwnLMINd0srRPu2eefwx.jpg",
-      "imdb_id": "tt0114329",
-      "runtime": 75,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "11866",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=11866&cityId=1",
     "title": "Originaltitel: Ashug-Karibi",
@@ -56,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-10T06:40:07.298814",
+    "scraped_at": "2026-03-11T06:43:33.449626",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -96,7 +56,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-10T06:40:23.497260",
+    "scraped_at": "2026-03-11T06:43:47.391290",
     "tmdb": {
       "id": 437740,
       "title": "Higanbana - Women's Crime File (Higanbana: Onnatachi no Hanzai Fairu)",
@@ -136,7 +96,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-10T06:40:51.809408",
+    "scraped_at": "2026-03-11T06:44:11.229171",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -174,7 +134,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-10T06:41:21.338753",
+    "scraped_at": "2026-03-11T06:44:36.068566",
     "tmdb": {
       "id": 42741,
       "title": "A Cop",
@@ -213,7 +173,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-10T06:41:48.396539",
+    "scraped_at": "2026-03-11T06:44:59.678060",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -251,13 +211,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-10T06:41:59.234920",
+    "scraped_at": "2026-03-11T06:45:09.142746",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
       "overview": "In Paris, Bob Montagne is practically synonymous with gambling -- and winning. He is kind, classy and well-liked by virtually everyone in town, including police inspector Ledru. However, when Bob's luck turns sour, he begins to lose friends and makes the most desperate gamble of his life: to rob the Deauville casino during Grand Prix weekend, when the vaults are full. Unfortunately, Bob soon learns that the game is rigged and the cops are on to him.",
       "release_date": "1956-08-24",
-      "rating": 7.265,
+      "rating": 7.3,
       "vote_count": 292,
       "genres": [
         "Drama",
@@ -291,13 +251,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-10T06:42:16.826627",
+    "scraped_at": "2026-03-11T06:45:24.338206",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
       "overview": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
       "release_date": "1969-09-10",
-      "rating": 7.898,
+      "rating": 7.9,
       "vote_count": 732,
       "genres": [
         "War",
@@ -331,7 +291,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-10T06:42:27.776719",
+    "scraped_at": "2026-03-11T06:45:33.725099",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -371,7 +331,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-10T06:42:54.314724",
+    "scraped_at": "2026-03-11T06:45:56.368325",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -411,7 +371,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-10T06:43:43.257502",
+    "scraped_at": "2026-03-11T06:46:39.025369",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -450,7 +410,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-03-10T06:44:01.070562",
+    "scraped_at": "2026-03-11T06:46:53.906803",
     "tmdb": {
       "id": 336748,
       "title": "Silence of the Sea",
@@ -491,7 +451,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-10T06:44:11.955951",
+    "scraped_at": "2026-03-11T06:47:02.964966",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
