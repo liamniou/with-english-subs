@@ -1,5 +1,105 @@
 [
   {
+    "film_id": "aktivister",
+    "url": "https://zita.se/aktivister",
+    "title": "Aktivister",
+    "director": "",
+    "genre": "ActivistsSverige202679 minDokumentärMaj WechselmannSvenskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "i morgon 16:00",
+        "time": "16:00",
+        "date": "i morgon",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
+        "normalized_datetime": "2026-03-14T16:00:00",
+        "normalized_date": "14.03",
+        "normalized_time": "16:00"
+      },
+      {
+        "datetime": "",
+        "display_text": "i morgon 18:30",
+        "time": "18:30",
+        "date": "i morgon",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
+        "normalized_datetime": "2026-03-14T18:30:00",
+        "normalized_date": "14.03",
+        "normalized_time": "18:30"
+      },
+      {
+        "datetime": "2026-03-15T18:30:00",
+        "display_text": "sön 15 mars 18:30",
+        "time": "18:30",
+        "date": "sön 15 mars",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
+        "normalized_datetime": "2026-03-15T18:30:00",
+        "normalized_date": "15.03",
+        "normalized_time": "18:30"
+      },
+      {
+        "datetime": "2026-03-16T13:00:00",
+        "display_text": "mån 16 mars 13:00",
+        "time": "13:00",
+        "date": "mån 16 mars",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
+        "normalized_datetime": "2026-03-16T13:00:00",
+        "normalized_date": "16.03",
+        "normalized_time": "13:00"
+      },
+      {
+        "datetime": "2026-03-17T19:00:00",
+        "display_text": "tis 17 mars 19:00",
+        "time": "19:00",
+        "date": "tis 17 mars",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
+        "normalized_datetime": "2026-03-17T19:00:00",
+        "normalized_date": "17.03",
+        "normalized_time": "19:00"
+      },
+      {
+        "datetime": "2026-03-19T15:15:00",
+        "display_text": "tors 19 mars 15:15",
+        "time": "15:15",
+        "date": "tors 19 mars",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
+        "normalized_datetime": "2026-03-19T15:15:00",
+        "normalized_date": "19.03",
+        "normalized_time": "15:15"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-03-13T06:46:26.133110+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 569948,
+      "title": "Aktivisterna",
+      "overview": "Zahra, Masoumeh and Mina are three asylum seeking teenage girls who moved to Sweden alone. Together they fight for other youths right to stay in Sweden.",
+      "release_date": "2018-08-18",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Documentary"
+      ],
+      "poster_path": "/eDbd18dwMMMuP5rXYrzgRglUgPf.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eDbd18dwMMMuP5rXYrzgRglUgPf.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": null,
+      "runtime": 5,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
     "film_id": "yalla-parkour",
     "url": "https://zita.se/yalla-parkour",
     "title": "Yalla Parkour",
@@ -14,15 +114,15 @@
         "date": "i morgon",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
-        "normalized_datetime": "2026-03-13T18:45:00",
-        "normalized_date": "13.03",
+        "normalized_datetime": "2026-03-14T18:45:00",
+        "normalized_date": "14.03",
         "normalized_time": "18:45"
       },
       {
-        "datetime": "2026-03-14T16:30:00",
-        "display_text": "lör 14 mars 16:30",
+        "datetime": "",
+        "display_text": "i morgon 16:30",
         "time": "16:30",
-        "date": "lör 14 mars",
+        "date": "i morgon",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
         "normalized_datetime": "2026-03-14T16:30:00",
@@ -77,7 +177,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-12T06:49:12.497437+00:00",
+    "scraped_at": "2026-03-13T06:46:54.360221+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1370210,
