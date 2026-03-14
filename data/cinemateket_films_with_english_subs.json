@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-13T06:43:06.340959",
+    "scraped_at": "2026-03-14T06:38:21.455403",
     "tmdb": {
       "id": 92663,
       "title": "Ashik Kerib",
@@ -29,8 +29,8 @@
         "History",
         "Fantasy"
       ],
-      "poster_path": "/vFoYm30mSgE6eLJxfmQCsoQMpSQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vFoYm30mSgE6eLJxfmQCsoQMpSQ.jpg",
+      "poster_path": "/hcaXCtZusW6x30xG2iLgn2JRFNp.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hcaXCtZusW6x30xG2iLgn2JRFNp.jpg",
       "backdrop_path": "/rCvNZWomA7ySCPsvN7xn4375Gkc.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/rCvNZWomA7ySCPsvN7xn4375Gkc.jpg",
       "imdb_id": "tt0094681",
@@ -56,7 +56,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-13T06:43:19.569771",
+    "scraped_at": "2026-03-14T06:38:34.548720",
     "tmdb": {
       "id": 437740,
       "title": "Higanbana - Women's Crime File (Higanbana: Onnatachi no Hanzai Fairu)",
@@ -96,7 +96,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-13T06:43:40.051010",
+    "scraped_at": "2026-03-14T06:38:55.772225",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -134,14 +134,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-13T06:44:02.041615",
+    "scraped_at": "2026-03-14T06:39:18.363889",
     "tmdb": {
       "id": 42741,
       "title": "A Cop",
       "overview": "A Parisian police chief has an affair, but unbeknownst to him, the boyfriend of the woman he’s having an affair with is a bank robber planning a heist.",
       "release_date": "1972-10-01",
-      "rating": 6.6,
-      "vote_count": 273,
+      "rating": 6.593,
+      "vote_count": 274,
       "genres": [
         "Crime",
         "Thriller"
@@ -173,7 +173,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-13T06:44:22.551098",
+    "scraped_at": "2026-03-14T06:39:38.078369",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -211,7 +211,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-13T06:44:30.655105",
+    "scraped_at": "2026-03-14T06:39:45.952938",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -251,7 +251,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-13T06:44:43.642275",
+    "scraped_at": "2026-03-14T06:39:58.840377",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
@@ -291,7 +291,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-13T06:44:51.560813",
+    "scraped_at": "2026-03-14T06:40:06.961267",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -331,7 +331,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-13T06:45:11.063445",
+    "scraped_at": "2026-03-14T06:40:26.802858",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -371,7 +371,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-13T06:45:47.811046",
+    "scraped_at": "2026-03-14T06:41:03.043616",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -410,7 +410,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-03-13T06:46:00.905701",
+    "scraped_at": "2026-03-14T06:41:16.043383",
     "tmdb": {
       "id": 336748,
       "title": "Silence of the Sea",
@@ -451,7 +451,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-13T06:46:08.823431",
+    "scraped_at": "2026-03-14T06:41:24.096601",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
