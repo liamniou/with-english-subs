@@ -14,15 +14,15 @@
         "date": "i morgon",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
-        "normalized_datetime": "2026-03-15T18:30:00",
-        "normalized_date": "15.03",
+        "normalized_datetime": "2026-03-16T18:30:00",
+        "normalized_date": "16.03",
         "normalized_time": "18:30"
       },
       {
-        "datetime": "2026-03-16T13:00:00",
-        "display_text": "mån 16 mars 13:00",
+        "datetime": "",
+        "display_text": "i morgon 13:00",
         "time": "13:00",
-        "date": "mån 16 mars",
+        "date": "i morgon",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
         "normalized_datetime": "2026-03-16T13:00:00",
@@ -55,7 +55,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-14T06:41:41.664550+00:00",
+    "scraped_at": "2026-03-15T06:49:08.760219+00:00",
     "source": "zita",
     "tmdb": {
       "id": 569948,
@@ -86,21 +86,10 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2026-03-16T16:30:00",
-        "display_text": "mån 16 mars 16:30",
-        "time": "16:30",
-        "date": "mån 16 mars",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
-        "normalized_datetime": "2026-03-16T16:30:00",
-        "normalized_date": "16.03",
-        "normalized_time": "16:30"
-      },
-      {
-        "datetime": "2026-03-16T13:30:00",
-        "display_text": "mån 16 mars 13:30",
+        "datetime": "",
+        "display_text": "i morgon 13:30",
         "time": "13:30",
-        "date": "mån 16 mars",
+        "date": "i morgon",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
         "normalized_datetime": "2026-03-16T13:30:00",
@@ -144,7 +133,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-14T06:42:08.768280+00:00",
+    "scraped_at": "2026-03-15T06:49:40.627302+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1370210,
