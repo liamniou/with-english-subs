@@ -1,45 +1,5 @@
 [
   {
-    "film_id": "11866",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=11866&cityId=1",
-    "title": "Originaltitel: Ashug-Karibi",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "lör 14/3 kl. 14:00",
-        "normalized_datetime": "2026-03-14T14:00:00",
-        "normalized_date": "14.03",
-        "normalized_time": "14:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-03-14T06:38:21.455403",
-    "tmdb": {
-      "id": 92663,
-      "title": "Ashik Kerib",
-      "overview": "Wandering minstrel Ashik Kerib falls in love with a rich merchant's daughter, but is spurned by her father and forced to roam the world for a thousand and one nights. Now presumed dead by those he loves, he performs for the poor and unfortunate on his journeys through the wilderness. Parajanov's visually ravishing 'tableaux vivants' tell Lermontov's romantic tale while Turkish and Azerbaijani folk songs transport us into its mystical landscapes.",
-      "release_date": "1988-07-03",
-      "rating": 6.2,
-      "vote_count": 48,
-      "genres": [
-        "Drama",
-        "History",
-        "Fantasy"
-      ],
-      "poster_path": "/hcaXCtZusW6x30xG2iLgn2JRFNp.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hcaXCtZusW6x30xG2iLgn2JRFNp.jpg",
-      "backdrop_path": "/rCvNZWomA7ySCPsvN7xn4375Gkc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/rCvNZWomA7ySCPsvN7xn4375Gkc.jpg",
-      "imdb_id": "tt0094681",
-      "runtime": 76,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "8091",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=8091&cityId=1",
     "title": "Originaltitel: Higanbana",
@@ -56,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-14T06:38:34.548720",
+    "scraped_at": "2026-03-16T07:08:34.382987",
     "tmdb": {
       "id": 437740,
       "title": "Higanbana - Women's Crime File (Higanbana: Onnatachi no Hanzai Fairu)",
@@ -96,7 +56,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-14T06:38:55.772225",
+    "scraped_at": "2026-03-16T07:09:05.050954",
     "tmdb": {
       "id": 126219,
       "title": "A Hen in the Wind",
@@ -134,7 +94,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-14T06:39:18.363889",
+    "scraped_at": "2026-03-16T07:09:34.339899",
     "tmdb": {
       "id": 42741,
       "title": "A Cop",
@@ -173,7 +133,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-14T06:39:38.078369",
+    "scraped_at": "2026-03-16T07:10:02.016466",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -211,7 +171,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-14T06:39:45.952938",
+    "scraped_at": "2026-03-16T07:10:13.908791",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -251,7 +211,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-14T06:39:58.840377",
+    "scraped_at": "2026-03-16T07:10:31.922313",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
@@ -291,7 +251,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-14T06:40:06.961267",
+    "scraped_at": "2026-03-16T07:10:43.015244",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -331,14 +291,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-14T06:40:26.802858",
+    "scraped_at": "2026-03-16T07:11:10.334038",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
       "overview": "Enigmatic gangster Silien may or may not be responsible for informing on Faugel,  who was just released from prison and is already involved in what should be a simple heist. By the end of this brutal, twisting, and multilayered policier, who will be left to trust?",
       "release_date": "1962-12-13",
-      "rating": 7.367,
-      "vote_count": 300,
+      "rating": 7.369,
+      "vote_count": 301,
       "genres": [
         "Drama",
         "Thriller",
@@ -371,7 +331,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-14T06:41:03.043616",
+    "scraped_at": "2026-03-16T07:12:00.657743",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -410,13 +370,13 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-03-14T06:41:16.043383",
+    "scraped_at": "2026-03-16T07:12:18.945125",
     "tmdb": {
       "id": 336748,
       "title": "Silence of the Sea",
       "overview": "In a small town in the West of France, during the German Occupation, a room is requisitioned by a Wehrmacht captain, Werner von Ebrennac. The house where he now stays is inhabited by young Jeanne, who makes a living by giving piano lessons, and by her grandfather. Quite upset, the two \"hosts\" decide to resist the occupier by never speaking a word to him. Now Werner is a lover of France and its culture, and he tries to persuade them that a rapprochement between Germany and France would be beneficial for the two nations. Quite unexpectedly Jeanne, little by little, falls in love with Werner. At the same time, the Francophile officer loses his illusions, realizing at last that what Nazi Germany actually wants is to thrall France and to stifle its culture...",
       "release_date": "2004-09-18",
-      "rating": 7.432,
+      "rating": 7.4,
       "vote_count": 37,
       "genres": [
         "Romance",
@@ -424,10 +384,10 @@
         "War",
         "TV Movie"
       ],
-      "poster_path": "/mQ86qn3gd3gzOoTChM6yw30R1mY.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mQ86qn3gd3gzOoTChM6yw30R1mY.jpg",
-      "backdrop_path": "/psIBvpXpMEvEP9O8VpZyKnxAiop.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/psIBvpXpMEvEP9O8VpZyKnxAiop.jpg",
+      "poster_path": "/9h6lKitROXrUQ7SWLL5cVPgCOkY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9h6lKitROXrUQ7SWLL5cVPgCOkY.jpg",
+      "backdrop_path": "/2FJZAPXTp9dEORYB0i1ULxkVwWd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2FJZAPXTp9dEORYB0i1ULxkVwWd.jpg",
       "imdb_id": "tt0430594",
       "runtime": 100,
       "budget": 0,
@@ -451,7 +411,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-14T06:41:24.096601",
+    "scraped_at": "2026-03-16T07:12:30.034271",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
