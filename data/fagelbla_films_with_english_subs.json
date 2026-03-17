@@ -1,51 +1,5 @@
 [
   {
-    "film_id": "sommaren-med-monika",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Sommaren med Monika",
-    "director": "Ingmar Bergman",
-    "duration": "1h 36 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2026-03-16T19:30:00+01:00",
-        "display_text": "Måndag, 16th Mars 19:30",
-        "time": "19:30",
-        "date_section": "Måndag, 16th Mars",
-        "ticket_url": "https://biofagelbla.se/movie/sommaren-med-monika/?showtime=53396",
-        "showtime_id": "53396",
-        "normalized_datetime": "2026-03-16T19:30:00",
-        "normalized_date": "16.03",
-        "normalized_time": "19:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-03-16T07:12:44.084642+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 47735,
-      "title": "Summer with Monika",
-      "overview": "One summer day, two teens begin a reckless affair and abandon their families to be with one another.",
-      "release_date": "1953-02-09",
-      "rating": 7.3,
-      "vote_count": 386,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/82hLsn67V9TjgrLOZCFL7247pJd.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/82hLsn67V9TjgrLOZCFL7247pJd.jpg",
-      "backdrop_path": "/kF5UhtIbadVqR0sfhzBBmwq8ToG.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kF5UhtIbadVqR0sfhzBBmwq8ToG.jpg",
-      "imdb_id": "tt0046345",
-      "runtime": 98,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "breakfast-at-tiffanys",
     "url": "https://biofagelbla.se/program/",
     "title": "Breakfast at Tiffany’s",
@@ -68,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-16T07:12:44.085079+00:00",
+    "scraped_at": "2026-03-17T06:59:28.693119+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -115,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-16T07:12:44.085457+00:00",
+    "scraped_at": "2026-03-17T06:59:28.693542+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -161,7 +115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-16T07:12:44.085623+00:00",
+    "scraped_at": "2026-03-17T06:59:28.693719+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -208,7 +162,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-16T07:12:44.085749+00:00",
+    "scraped_at": "2026-03-17T06:59:28.693866+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -253,7 +207,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-16T07:12:44.085935+00:00",
+    "scraped_at": "2026-03-17T06:59:28.694054+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29453,
@@ -298,7 +252,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-16T07:12:44.086126+00:00",
+    "scraped_at": "2026-03-17T06:59:28.694185+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -344,15 +298,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-16T07:12:44.086357+00:00",
+    "scraped_at": "2026-03-17T06:59:28.694464+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.1,
-      "vote_count": 2373,
+      "rating": 8.14,
+      "vote_count": 2374,
       "genres": [
         "Drama"
       ],
@@ -389,7 +343,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-16T07:12:44.086542+00:00",
+    "scraped_at": "2026-03-17T06:59:28.695002+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
