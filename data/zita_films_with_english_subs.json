@@ -44,7 +44,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-20T06:49:11.572226+00:00",
+    "scraped_at": "2026-03-21T06:37:51.237343+00:00",
     "source": "zita",
     "tmdb": {
       "id": 569948,
@@ -67,6 +67,51 @@
     }
   },
   {
+    "film_id": "unknown-title",
+    "url": "https://zita.se/block-2--voices-of-humanity",
+    "title": "Unknown Title",
+    "director": "",
+    "genre": "",
+    "duration": "Palestina1 jan 202675 minFolkets Bio StockholmArabiskaEngelska",
+    "showtimes": [
+      {
+        "datetime": "2026-03-28T17:30:00",
+        "display_text": "lör 28 mars 17:30",
+        "time": "17:30",
+        "date": "lör 28 mars",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5835",
+        "normalized_datetime": "2026-03-28T17:30:00",
+        "normalized_date": "28.03",
+        "normalized_time": "17:30"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-03-21T06:37:53.653519+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 949470,
+      "title": "Unknown Title",
+      "overview": "A short film by Andrei Ventslova",
+      "release_date": "1988-04-15",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "imdb_id": null,
+      "runtime": 1,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
     "film_id": "yalla-parkour",
     "url": "https://zita.se/yalla-parkour",
     "title": "Yalla Parkour",
@@ -76,31 +121,20 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "i morgon 18:15",
-        "time": "18:15",
-        "date": "i morgon",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
-        "normalized_datetime": "2026-03-21T18:15:00",
-        "normalized_date": "21.03",
-        "normalized_time": "18:15"
-      },
-      {
-        "datetime": "",
         "display_text": "i morgon 16:30",
         "time": "16:30",
         "date": "i morgon",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
-        "normalized_datetime": "2026-03-21T16:30:00",
-        "normalized_date": "21.03",
+        "normalized_datetime": "2026-03-22T16:30:00",
+        "normalized_date": "22.03",
         "normalized_time": "16:30"
       },
       {
-        "datetime": "2026-03-22T18:15:00",
-        "display_text": "sön 22 mars 18:15",
+        "datetime": "",
+        "display_text": "i morgon 18:15",
         "time": "18:15",
-        "date": "sön 22 mars",
+        "date": "i morgon",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
         "normalized_datetime": "2026-03-22T18:15:00",
@@ -144,7 +178,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-20T06:49:39.049354+00:00",
+    "scraped_at": "2026-03-21T06:38:19.511168+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1370210,
