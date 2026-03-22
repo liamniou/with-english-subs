@@ -1,52 +1,5 @@
 [
   {
-    "film_id": "breakfast-at-tiffanys",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Breakfast at Tiffany’s",
-    "director": "Blake Edwards",
-    "duration": "1h 55 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2026-03-21T10:30:00+01:00",
-        "display_text": "Lördag, 21st Mars 10:30",
-        "time": "10:30",
-        "date_section": "Lördag, 21st Mars",
-        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=54824",
-        "showtime_id": "54824",
-        "normalized_datetime": "2026-03-21T10:30:00",
-        "normalized_date": "21.03",
-        "normalized_time": "10:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-03-21T06:37:45.310827+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 164,
-      "title": "Breakfast at Tiffany's",
-      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
-      "release_date": "1961-10-06",
-      "rating": 7.624,
-      "vote_count": 4443,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "imdb_id": "tt0054698",
-      "runtime": 115,
-      "budget": 2500000,
-      "revenue": 9500000
-    }
-  },
-  {
     "film_id": "det-sjunde-inseglet",
     "url": "https://biofagelbla.se/program/",
     "title": "Det sjunde inseglet",
@@ -69,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-21T06:37:45.311693+00:00",
+    "scraped_at": "2026-03-22T06:45:07.603958+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -77,7 +30,7 @@
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
       "rating": 8.163,
-      "vote_count": 3296,
+      "vote_count": 3297,
       "genres": [
         "Fantasy",
         "Drama"
@@ -115,7 +68,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-21T06:37:45.311869+00:00",
+    "scraped_at": "2026-03-22T06:45:07.604153+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -162,7 +115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-21T06:37:45.312030+00:00",
+    "scraped_at": "2026-03-22T06:45:07.604307+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -207,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-21T06:37:45.312219+00:00",
+    "scraped_at": "2026-03-22T06:45:07.604488+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -253,7 +206,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-21T06:37:45.312347+00:00",
+    "scraped_at": "2026-03-22T06:45:07.604591+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -298,7 +251,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-21T06:37:45.312612+00:00",
+    "scraped_at": "2026-03-22T06:45:07.604724+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,

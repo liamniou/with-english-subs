@@ -44,7 +44,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-21T06:37:51.237343+00:00",
+    "scraped_at": "2026-03-22T06:45:13.125676+00:00",
     "source": "zita",
     "tmdb": {
       "id": 569948,
@@ -89,7 +89,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-21T06:37:53.653519+00:00",
+    "scraped_at": "2026-03-22T06:45:15.613761+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
@@ -121,31 +121,20 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "i morgon 16:30",
-        "time": "16:30",
-        "date": "i morgon",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
-        "normalized_datetime": "2026-03-22T16:30:00",
-        "normalized_date": "22.03",
-        "normalized_time": "16:30"
-      },
-      {
-        "datetime": "",
         "display_text": "i morgon 18:15",
         "time": "18:15",
         "date": "i morgon",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
-        "normalized_datetime": "2026-03-22T18:15:00",
-        "normalized_date": "22.03",
+        "normalized_datetime": "2026-03-23T18:15:00",
+        "normalized_date": "23.03",
         "normalized_time": "18:15"
       },
       {
-        "datetime": "2026-03-23T15:15:00",
-        "display_text": "mån 23 mars 15:15",
+        "datetime": "",
+        "display_text": "i morgon 15:15",
         "time": "15:15",
-        "date": "mån 23 mars",
+        "date": "i morgon",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
         "normalized_datetime": "2026-03-23T15:15:00",
@@ -178,7 +167,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-21T06:38:19.511168+00:00",
+    "scraped_at": "2026-03-22T06:45:41.269393+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1370210,
