@@ -1,43 +1,5 @@
 [
   {
-    "film_id": "2794",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=2794&cityId=1",
-    "title": "Originaltitel: Kaze no naka no mendori",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "ons 25/3 kl. 18:00",
-        "normalized_datetime": "2026-03-25T18:00:00",
-        "normalized_date": "25.03",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-03-25T06:55:22.307252",
-    "tmdb": {
-      "id": 126219,
-      "title": "A Hen in the Wind",
-      "overview": "Tokiko is a mother patiently waiting for her husband's return from the war when her 4-year old son becomes ill. She takes him to the doctor for treatment but has no way of paying. She resorts to prostitution. One month later her husband returns from WWII to find his desperate wife, who tells him the truth. Together they must deal with the consequences.",
-      "release_date": "1948-09-17",
-      "rating": 7.088,
-      "vote_count": 57,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/mvoiw4BjoN0npqXkgJGLZs3k7VM.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mvoiw4BjoN0npqXkgJGLZs3k7VM.jpg",
-      "backdrop_path": "/pfkMco3YE9557cBaEzoGXRWYwyL.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pfkMco3YE9557cBaEzoGXRWYwyL.jpg",
-      "imdb_id": "tt0040505",
-      "runtime": 84,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "13989",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13989&cityId=1",
     "title": "Originaltitel: Un flic",
@@ -54,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-25T06:55:45.951387",
+    "scraped_at": "2026-03-26T07:00:49.823921",
     "tmdb": {
       "id": 42741,
       "title": "A Cop",
@@ -93,7 +55,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-25T06:56:06.434853",
+    "scraped_at": "2026-03-26T07:01:10.615367",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -131,7 +93,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-25T06:56:14.705766",
+    "scraped_at": "2026-03-26T07:01:19.060460",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -171,13 +133,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-25T06:56:28.063873",
+    "scraped_at": "2026-03-26T07:01:32.899179",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
       "overview": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
       "release_date": "1969-09-10",
-      "rating": 7.895,
+      "rating": 7.9,
       "vote_count": 735,
       "genres": [
         "War",
@@ -211,13 +173,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-25T06:56:36.266756",
+    "scraped_at": "2026-03-26T07:01:41.162054",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
       "overview": "Two French journalists become embroiled in a criminal plot in New York City involving a disappeared United Nations diplomat.",
       "release_date": "1959-10-16",
-      "rating": 6.29,
+      "rating": 6.3,
       "vote_count": 69,
       "genres": [
         "Crime",
@@ -251,7 +213,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-25T06:56:56.533023",
+    "scraped_at": "2026-03-26T07:02:01.361837",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -291,13 +253,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-25T06:57:33.307337",
+    "scraped_at": "2026-03-26T07:02:38.625311",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
       "overview": "Barny, although a Marxist, is intrigued by the mysteries of religion. In confession, she teases a priest, Léon Morin, but he is a young and intelligent man and ready to discuss anything.",
       "release_date": "1961-09-22",
-      "rating": 7.066,
+      "rating": 7.1,
       "vote_count": 160,
       "genres": [
         "Drama",
@@ -330,7 +292,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-03-25T06:57:46.738677",
+    "scraped_at": "2026-03-26T07:02:51.886152",
     "tmdb": {
       "id": 336748,
       "title": "Silence of the Sea",
@@ -371,7 +333,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-25T06:57:54.889247",
+    "scraped_at": "2026-03-26T07:03:00.151048",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",

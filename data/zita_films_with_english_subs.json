@@ -8,25 +8,14 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "",
-        "display_text": "i morgon 13:15",
-        "time": "13:15",
-        "date": "i morgon",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
-        "normalized_datetime": "2026-03-26T13:15:00",
-        "normalized_date": "26.03",
-        "normalized_time": "13:15"
-      },
-      {
-        "datetime": "",
-        "display_text": "i morgon 12:45",
+        "datetime": "2026-04-01T12:45:00",
+        "display_text": "ons 1 april 12:45",
         "time": "12:45",
-        "date": "i morgon",
+        "date": "ons 1 april",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
-        "normalized_datetime": "2026-03-26T12:45:00",
-        "normalized_date": "26.03",
+        "normalized_datetime": "2026-04-01T12:45:00",
+        "normalized_date": "01.04",
         "normalized_time": "12:45"
       },
       {
@@ -44,7 +33,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-25T06:58:10.612074+00:00",
+    "scraped_at": "2026-03-26T07:03:15.480198+00:00",
     "source": "zita",
     "tmdb": {
       "id": 569948,
@@ -89,7 +78,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-25T06:58:14.316029+00:00",
+    "scraped_at": "2026-03-26T07:03:19.159453+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
@@ -120,14 +109,14 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "",
-        "display_text": "i morgon 18:30",
+        "datetime": "2026-03-31T18:30:00",
+        "display_text": "tis 31 mars 18:30",
         "time": "18:30",
-        "date": "i morgon",
+        "date": "tis 31 mars",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
-        "normalized_datetime": "2026-03-26T18:30:00",
-        "normalized_date": "26.03",
+        "normalized_datetime": "2026-03-31T18:30:00",
+        "normalized_date": "31.03",
         "normalized_time": "18:30"
       },
       {
@@ -156,7 +145,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-25T06:58:41.486991+00:00",
+    "scraped_at": "2026-03-26T07:03:42.115877+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1370210,
