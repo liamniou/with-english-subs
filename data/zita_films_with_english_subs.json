@@ -8,17 +8,6 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2026-04-01T12:45:00",
-        "display_text": "ons 1 april 12:45",
-        "time": "12:45",
-        "date": "ons 1 april",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
-        "normalized_datetime": "2026-04-01T12:45:00",
-        "normalized_date": "01.04",
-        "normalized_time": "12:45"
-      },
-      {
         "datetime": "2026-04-01T13:15:00",
         "display_text": "ons 1 april 13:15",
         "time": "13:15",
@@ -33,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-26T07:03:15.480198+00:00",
+    "scraped_at": "2026-03-27T07:02:28.077928+00:00",
     "source": "zita",
     "tmdb": {
       "id": 569948,
@@ -64,10 +53,10 @@
     "duration": "Palestina1 jan 202675 minFolkets Bio StockholmArabiskaEngelska",
     "showtimes": [
       {
-        "datetime": "2026-03-28T17:30:00",
-        "display_text": "lör 28 mars 17:30",
+        "datetime": "",
+        "display_text": "i morgon 17:30",
         "time": "17:30",
-        "date": "lör 28 mars",
+        "date": "i morgon",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5835",
         "normalized_datetime": "2026-03-28T17:30:00",
@@ -78,7 +67,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-26T07:03:19.159453+00:00",
+    "scraped_at": "2026-03-27T07:02:31.952088+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
@@ -101,6 +90,96 @@
     }
   },
   {
+    "film_id": "janin-jenin",
+    "url": "https://zita.se/janin-jenin",
+    "title": "Janin Jenin",
+    "director": "",
+    "genre": "",
+    "duration": "Palestina20241 jan 202460 minFolkets Bio StockholmArabiskaEngelska",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "20:50",
+        "time": "20:50",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5827",
+        "normalized_datetime": "2026-03-27T20:50:00",
+        "normalized_date": "27.03",
+        "normalized_time": "20:50"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-03-27T07:02:43.082123+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1484975,
+      "title": "Janin, Jenin",
+      "overview": "Director Mohammad Bakri revisits the Jenin refugee camp, reflecting on the devastation caused by Israel’s 2023 military invasion. Building on the framework of his 2002 documentary, ‘Jenin, Jenin’, this new film captures the ongoing struggle of the camp’s residents as they recount their experiences of destruction, loss, and resistance.",
+      "release_date": "2025-05-01",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Documentary"
+      ],
+      "poster_path": "/lUqcq0D9ZNnL6bmy5zLbQrxwR7F.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lUqcq0D9ZNnL6bmy5zLbQrxwR7F.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": null,
+      "runtime": 60,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "palestine-comedy-club",
+    "url": "https://zita.se/palestine-comedy-club",
+    "title": "Palestine Comedy Club",
+    "director": "",
+    "genre": "",
+    "duration": "Palestina, StorbritannienPalestina...🔍20241 jan 202495 minArrayFolkets Bio StockholmArabiskaEngelska",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "19:00",
+        "time": "19:00",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5826",
+        "normalized_datetime": "2026-03-27T19:00:00",
+        "normalized_date": "27.03",
+        "normalized_time": "19:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-03-27T07:02:48.790772+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1474514,
+      "title": "Palestine Comedy Club",
+      "overview": "Six Palestinian stand-up comedians write and tour a comedy show exploring the unlikely, often dark humour that surrounds the complexity of Palestinian identity. What starts as a blending of comic traditions to encourage honest and open reflections through the shared enjoyment of laughter becomes an existential imperative to survival and sharing common humanity.",
+      "release_date": "2026-02-26",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Documentary"
+      ],
+      "poster_path": "/uBAkfZmMLdxE1zZmojIAAA1brJa.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uBAkfZmMLdxE1zZmojIAAA1brJa.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt35665999",
+      "runtime": 96,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
     "film_id": "yalla-parkour",
     "url": "https://zita.se/yalla-parkour",
     "title": "Yalla Parkour",
@@ -108,17 +187,6 @@
     "genre": "Yalla parkourSverige, Qatar, Saudiarabien, PalestinaSverige, Qatar...🔍20251 jan 202488 minDokumentärFrån 15 årSmorgasbordArabiskaEngelska",
     "duration": "",
     "showtimes": [
-      {
-        "datetime": "2026-03-31T18:30:00",
-        "display_text": "tis 31 mars 18:30",
-        "time": "18:30",
-        "date": "tis 31 mars",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
-        "normalized_datetime": "2026-03-31T18:30:00",
-        "normalized_date": "31.03",
-        "normalized_time": "18:30"
-      },
       {
         "datetime": "2026-03-31T21:00:00",
         "display_text": "tis 31 mars 21:00",
@@ -145,7 +213,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-26T07:03:42.115877+00:00",
+    "scraped_at": "2026-03-27T07:02:58.748009+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1370210,
