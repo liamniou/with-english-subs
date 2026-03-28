@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-27T07:02:21.511630+00:00",
+    "scraped_at": "2026-03-28T06:54:44.186221+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -68,15 +68,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-27T07:02:21.512251+00:00",
+    "scraped_at": "2026-03-28T06:54:44.186873+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.6,
-      "vote_count": 4446,
+      "rating": 7.623,
+      "vote_count": 4447,
       "genres": [
         "Comedy",
         "Romance",
@@ -115,7 +115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-27T07:02:21.512401+00:00",
+    "scraped_at": "2026-03-28T06:54:44.187049+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -160,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-27T07:02:21.512625+00:00",
+    "scraped_at": "2026-03-28T06:54:44.187278+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -206,7 +206,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-27T07:02:21.512735+00:00",
+    "scraped_at": "2026-03-28T06:54:44.187410+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -251,7 +251,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-27T07:02:21.512871+00:00",
+    "scraped_at": "2026-03-28T06:54:44.187527+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
