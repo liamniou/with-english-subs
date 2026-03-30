@@ -16,14 +16,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-29T06:56:23.667050",
+    "scraped_at": "2026-03-30T07:19:14.758067",
     "tmdb": {
       "id": 42741,
       "title": "A Cop",
       "overview": "A Parisian police chief has an affair, but unbeknownst to him, the boyfriend of the woman he’s having an affair with is a bank robber planning a heist.",
       "release_date": "1972-10-01",
-      "rating": 6.6,
-      "vote_count": 274,
+      "rating": 6.598,
+      "vote_count": 275,
       "genres": [
         "Crime",
         "Thriller"
@@ -55,7 +55,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-29T06:56:45.015001",
+    "scraped_at": "2026-03-30T07:19:36.581530",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -93,14 +93,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-29T06:56:53.541495",
+    "scraped_at": "2026-03-30T07:19:45.461804",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
       "overview": "In Paris, Bob Montagne is practically synonymous with gambling -- and winning. He is kind, classy and well-liked by virtually everyone in town, including police inspector Ledru. However, when Bob's luck turns sour, he begins to lose friends and makes the most desperate gamble of his life: to rob the Deauville casino during Grand Prix weekend, when the vaults are full. Unfortunately, Bob soon learns that the game is rigged and the cops are on to him.",
       "release_date": "1956-08-24",
       "rating": 7.3,
-      "vote_count": 292,
+      "vote_count": 293,
       "genres": [
         "Drama",
         "Action",
@@ -108,8 +108,8 @@
       ],
       "poster_path": "/3CIfIDtD1I1rYY3ooaya8iZHlD8.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/3CIfIDtD1I1rYY3ooaya8iZHlD8.jpg",
-      "backdrop_path": "/jzdDhoDmoE0Mj4ABwQMJeg4AiHs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jzdDhoDmoE0Mj4ABwQMJeg4AiHs.jpg",
+      "backdrop_path": "/dCrnWaEegDW8AycG0HVu8WuPLFf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/dCrnWaEegDW8AycG0HVu8WuPLFf.jpg",
       "imdb_id": "tt0047892",
       "runtime": 103,
       "budget": 0,
@@ -133,14 +133,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-29T06:57:07.144737",
+    "scraped_at": "2026-03-30T07:19:59.049794",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
       "overview": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
       "release_date": "1969-09-10",
-      "rating": 7.887,
-      "vote_count": 736,
+      "rating": 7.886,
+      "vote_count": 737,
       "genres": [
         "War",
         "Drama",
@@ -173,7 +173,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-29T06:57:15.678965",
+    "scraped_at": "2026-03-30T07:20:07.731842",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -213,7 +213,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-29T06:57:36.616938",
+    "scraped_at": "2026-03-30T07:20:28.104834",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -253,7 +253,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-29T06:58:15.267338",
+    "scraped_at": "2026-03-30T07:21:05.124743",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -292,7 +292,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-03-29T06:58:28.968859",
+    "scraped_at": "2026-03-30T07:21:18.381579",
     "tmdb": {
       "id": 336748,
       "title": "Silence of the Sea",
@@ -333,7 +333,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-29T06:58:37.418321",
+    "scraped_at": "2026-03-30T07:21:26.624274",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",

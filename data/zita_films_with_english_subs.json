@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-29T06:58:53.339722+00:00",
+    "scraped_at": "2026-03-30T07:21:41.764891+00:00",
     "source": "zita",
     "tmdb": {
       "id": 569948,
@@ -45,96 +45,6 @@
     }
   },
   {
-    "film_id": "exist",
-    "url": "https://zita.se/exist",
-    "title": "Exist",
-    "director": "",
-    "genre": "Annat1 jan 202540 minDokumentärFolkets Bio StockholmEngelskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "18:00",
-        "time": "18:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5833",
-        "normalized_datetime": "2026-03-29T18:00:00",
-        "normalized_date": "29.03",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-03-29T06:59:02.741869+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 506474,
-      "title": "Exist",
-      "overview": "She ran away from her past so a future for her daughter could exist.",
-      "release_date": "",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Horror"
-      ],
-      "poster_path": "/8nSpUOdRyLjee0rGozIBkraCFPu.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8nSpUOdRyLjee0rGozIBkraCFPu.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt3356120",
-      "runtime": 0,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "palestinian-on-the-road",
-    "url": "https://zita.se/palestinian-on-the-road",
-    "title": "Palestinian on the Road",
-    "director": "",
-    "genre": "Annat1 jan 202582 minDokumentärFolkets Bio StockholmArabiskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "16:00",
-        "time": "16:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5832",
-        "normalized_datetime": "2026-03-29T16:00:00",
-        "normalized_date": "29.03",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-03-29T06:59:18.956752+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 1579331,
-      "title": "Palestinian on the Road",
-      "overview": "Ismail, a Palestinian director long denied the freedom to travel, finally sets out on a journey tracing the path Christ walked two thousand years ago, from Nazareth to Jerusalem, seeking stories of miracles and legends. He is surprised to find the route now crowded with refugee camps, witnessing their stories, dreams, and resilience. This cinematic journey blends history with the present, the spontaneous with the deliberate, and explores the ongoing impact of the Nakba on Palestinian life and identity.",
-      "release_date": "2025-11-18",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Documentary"
-      ],
-      "poster_path": "/kdpZgGc4X3pUEz4dKs7qiR5iT00.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kdpZgGc4X3pUEz4dKs7qiR5iT00.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": null,
-      "runtime": 99,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "yalla-parkour",
     "url": "https://zita.se/yalla-parkour",
     "title": "Yalla Parkour",
@@ -143,10 +53,10 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2026-03-31T21:00:00",
-        "display_text": "tis 31 mars 21:00",
+        "datetime": "",
+        "display_text": "i morgon 21:00",
         "time": "21:00",
-        "date": "tis 31 mars",
+        "date": "i morgon",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
         "normalized_datetime": "2026-03-31T21:00:00",
@@ -168,7 +78,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-03-29T06:59:30.053534+00:00",
+    "scraped_at": "2026-03-30T07:22:14.047072+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1370210,
