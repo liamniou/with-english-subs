@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-30T07:19:14.758067",
+    "scraped_at": "2026-03-31T07:05:11.242552",
     "tmdb": {
       "id": 42741,
       "title": "A Cop",
@@ -55,7 +55,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-30T07:19:36.581530",
+    "scraped_at": "2026-03-31T07:05:32.769885",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -93,7 +93,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-30T07:19:45.461804",
+    "scraped_at": "2026-03-31T07:05:41.381873",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -133,18 +133,19 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-30T07:19:59.049794",
+    "scraped_at": "2026-03-31T07:05:54.694052",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
       "overview": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
       "release_date": "1969-09-10",
       "rating": 7.886,
-      "vote_count": 737,
+      "vote_count": 738,
       "genres": [
         "War",
         "Drama",
-        "Thriller"
+        "Thriller",
+        "History"
       ],
       "poster_path": "/aqNZWM9bspt8zaDvVRIRiWxRVJ7.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/aqNZWM9bspt8zaDvVRIRiWxRVJ7.jpg",
@@ -173,7 +174,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-30T07:20:07.731842",
+    "scraped_at": "2026-03-31T07:06:02.741224",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -213,7 +214,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-30T07:20:28.104834",
+    "scraped_at": "2026-03-31T07:06:23.016165",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -253,7 +254,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-30T07:21:05.124743",
+    "scraped_at": "2026-03-31T07:07:00.059276",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -292,7 +293,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-03-30T07:21:18.381579",
+    "scraped_at": "2026-03-31T07:07:13.225817",
     "tmdb": {
       "id": 336748,
       "title": "Silence of the Sea",
@@ -333,7 +334,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-03-30T07:21:26.624274",
+    "scraped_at": "2026-03-31T07:07:21.368358",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",

@@ -1,51 +1,5 @@
 [
   {
-    "film_id": "det-sjunde-inseglet",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Det sjunde inseglet",
-    "director": "Ingmar Bergman",
-    "duration": "1h 36 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2026-03-30T17:45:00+02:00",
-        "display_text": "Måndag, 30th Mars 17:45",
-        "time": "17:45",
-        "date_section": "Måndag, 30th Mars",
-        "ticket_url": "https://biofagelbla.se/movie/det-sjunde-inseglet/?showtime=53399",
-        "showtime_id": "53399",
-        "normalized_datetime": "2026-03-30T17:45:00",
-        "normalized_date": "30.03",
-        "normalized_time": "17:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-03-30T07:21:36.105036+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 490,
-      "title": "The Seventh Seal",
-      "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
-      "release_date": "1957-02-16",
-      "rating": 8.162,
-      "vote_count": 3302,
-      "genres": [
-        "Fantasy",
-        "Drama"
-      ],
-      "poster_path": "/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
-      "backdrop_path": "/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
-      "imdb_id": "tt0050976",
-      "runtime": 96,
-      "budget": 150000,
-      "revenue": 311212
-    }
-  },
-  {
     "film_id": "breakfast-at-tiffanys",
     "url": "https://biofagelbla.se/program/",
     "title": "Breakfast at Tiffany’s",
@@ -68,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-30T07:21:36.105716+00:00",
+    "scraped_at": "2026-03-31T07:07:30.878349+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -115,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-30T07:21:36.105878+00:00",
+    "scraped_at": "2026-03-31T07:07:30.878529+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -160,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-30T07:21:36.106139+00:00",
+    "scraped_at": "2026-03-31T07:07:30.878828+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -206,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-30T07:21:36.106266+00:00",
+    "scraped_at": "2026-03-31T07:07:30.878967+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -251,7 +205,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-03-30T07:21:36.106410+00:00",
+    "scraped_at": "2026-03-31T07:07:30.879097+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
