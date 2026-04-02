@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-01T07:14:21.066224+00:00",
+    "scraped_at": "2026-04-02T07:06:46.547454+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-01T07:14:21.066541+00:00",
+    "scraped_at": "2026-04-02T07:06:46.547752+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -114,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-01T07:14:21.066812+00:00",
+    "scraped_at": "2026-04-02T07:06:46.547999+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -160,15 +160,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-01T07:14:21.067057+00:00",
+    "scraped_at": "2026-04-02T07:06:46.548187+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.139,
-      "vote_count": 2380,
+      "rating": 8.138,
+      "vote_count": 2381,
       "genres": [
         "Drama"
       ],
@@ -205,7 +205,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-01T07:14:21.067184+00:00",
+    "scraped_at": "2026-04-02T07:06:46.548298+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
@@ -251,15 +251,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-01T07:14:21.067385+00:00",
+    "scraped_at": "2026-04-02T07:06:46.548454+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
       "title": "Wild Strawberries",
       "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
       "release_date": "1957-08-28",
-      "rating": 8.082,
-      "vote_count": 1785,
+      "rating": 8.081,
+      "vote_count": 1787,
       "genres": [
         "Drama"
       ],

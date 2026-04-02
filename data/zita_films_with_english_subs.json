@@ -1,50 +1,5 @@
 [
   {
-    "film_id": "aktivister",
-    "url": "https://zita.se/aktivister",
-    "title": "Aktivister",
-    "director": "",
-    "genre": "ActivistsSverige202679 minDokumentärMaj WechselmannSvenskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "13:15",
-        "time": "13:15",
-        "date": "",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
-        "normalized_datetime": "2026-04-01T13:15:00",
-        "normalized_date": "01.04",
-        "normalized_time": "13:15"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-04-01T07:14:26.466073+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 569948,
-      "title": "Aktivisterna",
-      "overview": "Zahra, Masoumeh and Mina are three asylum seeking teenage girls who moved to Sweden alone. Together they fight for other youths right to stay in Sweden.",
-      "release_date": "2018-08-18",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Documentary"
-      ],
-      "poster_path": "/eDbd18dwMMMuP5rXYrzgRglUgPf.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eDbd18dwMMMuP5rXYrzgRglUgPf.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": null,
-      "runtime": 5,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "yalla-parkour",
     "url": "https://zita.se/yalla-parkour",
     "title": "Yalla Parkour",
@@ -54,9 +9,9 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "i morgon 18:30",
+        "display_text": "18:30",
         "time": "18:30",
-        "date": "i morgon",
+        "date": "",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
         "normalized_datetime": "2026-04-02T18:30:00",
@@ -67,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-04-01T07:15:03.862109+00:00",
+    "scraped_at": "2026-04-02T07:07:27.089066+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1370210,
