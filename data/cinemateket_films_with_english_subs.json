@@ -1,44 +1,5 @@
 [
   {
-    "film_id": "13989",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13989&cityId=1",
-    "title": "Originaltitel: Un flic",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "tor 2/4 kl. 18:00",
-        "normalized_datetime": "2026-04-02T18:00:00",
-        "normalized_date": "02.04",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-04-02T07:04:13.253619",
-    "tmdb": {
-      "id": 42741,
-      "title": "A Cop",
-      "overview": "A Parisian police chief has an affair, but unbeknownst to him, the boyfriend of the woman he’s having an affair with is a bank robber planning a heist.",
-      "release_date": "1972-10-01",
-      "rating": 6.598,
-      "vote_count": 275,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "poster_path": "/gICgcF0VuxW13XeHeeUEKlAkyOE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gICgcF0VuxW13XeHeeUEKlAkyOE.jpg",
-      "backdrop_path": "/2i9ht4qNmNkj8eYCfoBvUvl7CSe.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2i9ht4qNmNkj8eYCfoBvUvl7CSe.jpg",
-      "imdb_id": "tt0067900",
-      "runtime": 100,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "10356",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=10356&cityId=1",
     "title": "Originaltitel: Les enfants terribles",
@@ -55,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-02T07:04:36.590080",
+    "scraped_at": "2026-04-03T07:00:42.384284",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -93,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-02T07:04:45.748291",
+    "scraped_at": "2026-04-03T07:00:52.568092",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
@@ -133,7 +94,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-02T07:05:00.254302",
+    "scraped_at": "2026-04-03T07:01:09.232423",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
@@ -174,7 +135,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-02T07:05:09.143440",
+    "scraped_at": "2026-04-03T07:01:19.325679",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -214,14 +175,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-02T07:05:31.339853",
+    "scraped_at": "2026-04-03T07:01:44.488815",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
       "overview": "Enigmatic gangster Silien may or may not be responsible for informing on Faugel,  who was just released from prison and is already involved in what should be a simple heist. By the end of this brutal, twisting, and multilayered policier, who will be left to trust?",
       "release_date": "1962-12-13",
-      "rating": 7.4,
-      "vote_count": 301,
+      "rating": 7.364,
+      "vote_count": 302,
       "genres": [
         "Drama",
         "Thriller",
@@ -254,7 +215,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-02T07:06:12.001716",
+    "scraped_at": "2026-04-03T07:02:31.209685",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -293,7 +254,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-04-02T07:06:27.395440",
+    "scraped_at": "2026-04-03T07:02:48.517697",
     "tmdb": {
       "id": 336748,
       "title": "Silence of the Sea",
@@ -334,7 +295,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-02T07:06:36.240713",
+    "scraped_at": "2026-04-03T07:02:58.744881",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
