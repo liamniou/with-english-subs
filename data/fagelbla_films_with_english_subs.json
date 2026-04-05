@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-04T06:55:58.693285+00:00",
+    "scraped_at": "2026-04-05T07:00:45.549088+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-04T06:55:58.693632+00:00",
+    "scraped_at": "2026-04-05T07:00:45.549422+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -114,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-04T06:55:58.693903+00:00",
+    "scraped_at": "2026-04-05T07:00:45.549707+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -160,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-04T06:55:58.694107+00:00",
+    "scraped_at": "2026-04-05T07:00:45.549907+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -207,14 +207,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-04T06:55:58.694230+00:00",
+    "scraped_at": "2026-04-05T07:00:45.550041+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.138,
+      "rating": 8.1,
       "vote_count": 2382,
       "genres": [
         "Drama"
@@ -252,7 +252,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-04T06:55:58.694418+00:00",
+    "scraped_at": "2026-04-05T07:00:45.550156+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
@@ -298,14 +298,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-04T06:55:58.694664+00:00",
+    "scraped_at": "2026-04-05T07:00:45.550482+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
       "title": "Wild Strawberries",
       "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
       "release_date": "1957-08-28",
-      "rating": 8.081,
+      "rating": 8.1,
       "vote_count": 1787,
       "genres": [
         "Drama"
