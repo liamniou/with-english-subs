@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-05T06:58:24.489563",
+    "scraped_at": "2026-04-06T07:21:21.489383",
     "tmdb": {
       "id": 15390,
       "title": "The Strange Ones",
@@ -54,13 +54,13 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-05T06:58:34.690276",
+    "scraped_at": "2026-04-06T07:21:30.462266",
     "tmdb": {
       "id": 26030,
       "title": "Bob le Flambeur",
       "overview": "In Paris, Bob Montagne is practically synonymous with gambling -- and winning. He is kind, classy and well-liked by virtually everyone in town, including police inspector Ledru. However, when Bob's luck turns sour, he begins to lose friends and makes the most desperate gamble of his life: to rob the Deauville casino during Grand Prix weekend, when the vaults are full. Unfortunately, Bob soon learns that the game is rigged and the cops are on to him.",
       "release_date": "1956-08-24",
-      "rating": 7.258,
+      "rating": 7.3,
       "vote_count": 293,
       "genres": [
         "Drama",
@@ -69,8 +69,8 @@
       ],
       "poster_path": "/3CIfIDtD1I1rYY3ooaya8iZHlD8.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/3CIfIDtD1I1rYY3ooaya8iZHlD8.jpg",
-      "backdrop_path": "/dCrnWaEegDW8AycG0HVu8WuPLFf.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/dCrnWaEegDW8AycG0HVu8WuPLFf.jpg",
+      "backdrop_path": "/gCcuDzz447v0EGb6a2TKRBHYBPj.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gCcuDzz447v0EGb6a2TKRBHYBPj.jpg",
       "imdb_id": "tt0047892",
       "runtime": 103,
       "budget": 0,
@@ -94,7 +94,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-05T06:58:51.135048",
+    "scraped_at": "2026-04-06T07:21:44.229313",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
@@ -135,7 +135,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-05T06:59:00.821219",
+    "scraped_at": "2026-04-06T07:21:53.134739",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -175,7 +175,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-05T06:59:23.333452",
+    "scraped_at": "2026-04-06T07:22:13.597536",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -215,7 +215,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-05T07:00:05.378760",
+    "scraped_at": "2026-04-06T07:22:52.215956",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -254,26 +254,24 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-04-05T07:00:20.919947",
+    "scraped_at": "2026-04-06T07:23:05.795810",
     "tmdb": {
-      "id": 336748,
-      "title": "Silence of the Sea",
-      "overview": "In a small town in the West of France, during the German Occupation, a room is requisitioned by a Wehrmacht captain, Werner von Ebrennac. The house where he now stays is inhabited by young Jeanne, who makes a living by giving piano lessons, and by her grandfather. Quite upset, the two \"hosts\" decide to resist the occupier by never speaking a word to him. Now Werner is a lover of France and its culture, and he tries to persuade them that a rapprochement between Germany and France would be beneficial for the two nations. Quite unexpectedly Jeanne, little by little, falls in love with Werner. At the same time, the Francophile officer loses his illusions, realizing at last that what Nazi Germany actually wants is to thrall France and to stifle its culture...",
-      "release_date": "2004-09-18",
-      "rating": 7.4,
-      "vote_count": 37,
+      "id": 40650,
+      "title": "Le Silence de la mer",
+      "overview": "In a small town in WWII France, a German officer is billeted in the house of an elderly man and his niece who resist the occupation by refusing to interact with him, even as he speaks to them candidly about his life and hopes for the future of France and Germany.",
+      "release_date": "1949-04-22",
+      "rating": 7.5,
+      "vote_count": 139,
       "genres": [
-        "Romance",
         "Drama",
-        "War",
-        "TV Movie"
+        "War"
       ],
-      "poster_path": "/9h6lKitROXrUQ7SWLL5cVPgCOkY.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9h6lKitROXrUQ7SWLL5cVPgCOkY.jpg",
-      "backdrop_path": "/2FJZAPXTp9dEORYB0i1ULxkVwWd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2FJZAPXTp9dEORYB0i1ULxkVwWd.jpg",
-      "imdb_id": "tt0430594",
-      "runtime": 100,
+      "poster_path": "/5yagil6aUFTkdYqIoldZmDAGpay.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5yagil6aUFTkdYqIoldZmDAGpay.jpg",
+      "backdrop_path": "/guZVHRB7UK8Cts5XzRyiYgmtx4s.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/guZVHRB7UK8Cts5XzRyiYgmtx4s.jpg",
+      "imdb_id": "tt0039822",
+      "runtime": 87,
       "budget": 0,
       "revenue": 0
     }
@@ -295,7 +293,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-05T07:00:33.384200",
+    "scraped_at": "2026-04-06T07:23:14.033115",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
