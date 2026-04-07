@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-06T07:23:23.642709+00:00",
+    "scraped_at": "2026-04-07T07:09:08.250445+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-06T07:23:23.643036+00:00",
+    "scraped_at": "2026-04-07T07:09:08.250787+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 47721,
@@ -114,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-06T07:23:23.643304+00:00",
+    "scraped_at": "2026-04-07T07:09:08.251052+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -160,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-06T07:23:23.643502+00:00",
+    "scraped_at": "2026-04-07T07:09:08.251240+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -207,15 +207,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-06T07:23:23.643653+00:00",
+    "scraped_at": "2026-04-07T07:09:08.251461+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.1,
-      "vote_count": 2382,
+      "rating": 8.136,
+      "vote_count": 2383,
       "genres": [
         "Drama"
       ],
@@ -252,7 +252,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-06T07:23:23.643776+00:00",
+    "scraped_at": "2026-04-07T07:09:08.251625+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
@@ -298,7 +298,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-06T07:23:23.643968+00:00",
+    "scraped_at": "2026-04-07T07:09:08.251772+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
