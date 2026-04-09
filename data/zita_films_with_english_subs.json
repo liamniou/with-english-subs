@@ -1,46 +1,56 @@
 [
   {
-    "film_id": "yalla-parkour",
-    "url": "https://zita.se/yalla-parkour",
-    "title": "Yalla Parkour",
+    "film_id": "aktivister",
+    "url": "https://zita.se/aktivister",
+    "title": "Aktivister",
     "director": "",
-    "genre": "Yalla parkourSverige, Qatar, Saudiarabien, PalestinaSverige, Qatar...🔍20251 jan 202488 minDokumentärFrån 15 årSmorgasbordArabiskaEngelska",
+    "genre": "ActivistsSverige202679 minDokumentärMaj WechselmannSvenskaEngelska",
     "duration": "",
     "showtimes": [
       {
-        "datetime": "",
-        "display_text": "18:30",
-        "time": "18:30",
-        "date": "",
+        "datetime": "2026-04-12T16:15:00",
+        "display_text": "sön 12 april 16:15",
+        "time": "16:15",
+        "date": "sön 12 april",
         "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5557",
-        "normalized_datetime": "2026-04-08T18:30:00",
-        "normalized_date": "08.04",
-        "normalized_time": "18:30"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
+        "normalized_datetime": "2026-04-12T16:15:00",
+        "normalized_date": "12.04",
+        "normalized_time": "16:15"
+      },
+      {
+        "datetime": "2026-04-15T15:00:00",
+        "display_text": "ons 15 april 15:00",
+        "time": "15:00",
+        "date": "ons 15 april",
+        "cinema": "(Zita 3)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
+        "normalized_datetime": "2026-04-15T15:00:00",
+        "normalized_date": "15.04",
+        "normalized_time": "15:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-04-02T07:07:27.089066+00:00",
+    "scraped_at": "2026-04-09T07:16:17.608334+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1370210,
-      "title": "Yalla Parkour",
-      "overview": "In her relentless pursuit of a memory that reinforces her sense of belonging, Areeb crosses paths with Ahmed, a parkour athlete in Gaza, sparking a journey where conflicting aspirations intersect. Nostalgia meets with ambition, and the weight of a confined past meets with an unpredictable future.",
-      "release_date": "2024-11-14",
-      "rating": 7.0,
-      "vote_count": 1,
+      "id": 569948,
+      "title": "Aktivisterna",
+      "overview": "Zahra, Masoumeh and Mina are three asylum seeking teenage girls who moved to Sweden alone. Together they fight for other youths right to stay in Sweden.",
+      "release_date": "2018-08-18",
+      "rating": 0.0,
+      "vote_count": 0,
       "genres": [
-        "Documentary",
-        "Drama"
+        "Documentary"
       ],
-      "poster_path": "/eANxqeFoOn3u2kraxhY324VocO7.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eANxqeFoOn3u2kraxhY324VocO7.jpg",
-      "backdrop_path": "/rwN4zT0W4QUvgFhgw8y380Xl2uj.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/rwN4zT0W4QUvgFhgw8y380Xl2uj.jpg",
-      "imdb_id": "tt12402876",
-      "runtime": 89,
+      "poster_path": "/eDbd18dwMMMuP5rXYrzgRglUgPf.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eDbd18dwMMMuP5rXYrzgRglUgPf.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": null,
+      "runtime": 5,
       "budget": 0,
       "revenue": 0
     }
