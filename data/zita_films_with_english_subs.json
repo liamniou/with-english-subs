@@ -8,10 +8,10 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2026-04-12T16:15:00",
-        "display_text": "sön 12 april 16:15",
+        "datetime": "",
+        "display_text": "i morgon 16:15",
         "time": "16:15",
-        "date": "sön 12 april",
+        "date": "i morgon",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
         "normalized_datetime": "2026-04-12T16:15:00",
@@ -33,7 +33,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-04-10T07:21:01.166527+00:00",
+    "scraped_at": "2026-04-11T06:55:50.206457+00:00",
     "source": "zita",
     "tmdb": {
       "id": 569948,
@@ -65,9 +65,9 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "i morgon 14:15",
+        "display_text": "14:15",
         "time": "14:15",
-        "date": "i morgon",
+        "date": "",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5437",
         "normalized_datetime": "2026-04-11T14:15:00",
@@ -78,15 +78,15 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-04-10T07:21:35.139662+00:00",
+    "scraped_at": "2026-04-11T06:56:18.331829+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1124566,
       "title": "Sentimental Value",
       "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
       "release_date": "2025-08-20",
-      "rating": 7.491,
-      "vote_count": 806,
+      "rating": 7.492,
+      "vote_count": 807,
       "genres": [
         "Drama"
       ],
@@ -98,6 +98,51 @@
       "runtime": 133,
       "budget": 7800000,
       "revenue": 22000000
+    }
+  },
+  {
+    "film_id": "sorda",
+    "url": "https://zita.se/sorda",
+    "title": "Sorda",
+    "director": "",
+    "genre": "",
+    "duration": "Spanien20251 jan 2025100 minFrån 11 årFolkets Bio StockholmSpanskaEngelska",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "18:00",
+        "time": "18:00",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5860",
+        "normalized_datetime": "2026-04-11T18:00:00",
+        "normalized_date": "11.04",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-04-11T06:56:20.821407+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1303613,
+      "title": "Deaf",
+      "overview": "Angela's deafness raises concerns during her pregnancy regarding connecting with her daughter. Post-delivery, partner Héctor supports her as she learns to mother in a society lacking adequate accommodations for the hearing-impaired.",
+      "release_date": "2025-04-04",
+      "rating": 7.3,
+      "vote_count": 91,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/ykB9bwUHT1AV04KjYPLhfgMwYdD.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ykB9bwUHT1AV04KjYPLhfgMwYdD.jpg",
+      "backdrop_path": "/iMvvdAm8lrFA4tow1wea5StM3pE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/iMvvdAm8lrFA4tow1wea5StM3pE.jpg",
+      "imdb_id": "tt26923797",
+      "runtime": 100,
+      "budget": 0,
+      "revenue": 828068
     }
   }
 ]
