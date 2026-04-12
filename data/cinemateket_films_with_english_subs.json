@@ -1,45 +1,5 @@
 [
   {
-    "film_id": "645",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=645&cityId=1",
-    "title": "Originaltitel: Bob le flambeur",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "lör 11/4 kl. 18:00",
-        "normalized_datetime": "2026-04-11T18:00:00",
-        "normalized_date": "11.04",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-04-11T06:53:49.856378",
-    "tmdb": {
-      "id": 26030,
-      "title": "Bob le Flambeur",
-      "overview": "In Paris, Bob Montagne is practically synonymous with gambling -- and winning. He is kind, classy and well-liked by virtually everyone in town, including police inspector Ledru. However, when Bob's luck turns sour, he begins to lose friends and makes the most desperate gamble of his life: to rob the Deauville casino during Grand Prix weekend, when the vaults are full. Unfortunately, Bob soon learns that the game is rigged and the cops are on to him.",
-      "release_date": "1956-08-24",
-      "rating": 7.3,
-      "vote_count": 293,
-      "genres": [
-        "Drama",
-        "Action",
-        "Crime"
-      ],
-      "poster_path": "/3CIfIDtD1I1rYY3ooaya8iZHlD8.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3CIfIDtD1I1rYY3ooaya8iZHlD8.jpg",
-      "backdrop_path": "/gCcuDzz447v0EGb6a2TKRBHYBPj.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gCcuDzz447v0EGb6a2TKRBHYBPj.jpg",
-      "imdb_id": "tt0047892",
-      "runtime": 103,
-      "budget": 0,
-      "revenue": 41010
-    }
-  },
-  {
     "film_id": "292",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=292&cityId=1",
     "title": "Originaltitel: L'Armée des ombres",
@@ -56,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-11T06:54:03.765199",
+    "scraped_at": "2026-04-12T07:06:05.938875",
     "tmdb": {
       "id": 15383,
       "title": "Army of Shadows",
@@ -97,7 +57,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-11T06:54:12.251782",
+    "scraped_at": "2026-04-12T07:06:15.907362",
     "tmdb": {
       "id": 27061,
       "title": "Two Men in Manhattan",
@@ -137,7 +97,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-11T06:54:32.598658",
+    "scraped_at": "2026-04-12T07:06:39.840156",
     "tmdb": {
       "id": 20778,
       "title": "Le Doulos",
@@ -177,7 +137,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-11T06:55:14.354304",
+    "scraped_at": "2026-04-12T07:07:22.834174",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -216,7 +176,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-04-11T06:55:27.434407",
+    "scraped_at": "2026-04-12T07:07:37.877294",
     "tmdb": {
       "id": 40650,
       "title": "Le Silence de la mer",
@@ -255,7 +215,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-11T06:55:35.287371",
+    "scraped_at": "2026-04-12T07:07:47.358254",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
