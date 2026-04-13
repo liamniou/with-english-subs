@@ -8,17 +8,6 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2026-04-15T16:15:00",
-        "display_text": "ons 15 april 16:15",
-        "time": "16:15",
-        "date": "ons 15 april",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
-        "normalized_datetime": "2026-04-15T16:15:00",
-        "normalized_date": "15.04",
-        "normalized_time": "16:15"
-      },
-      {
         "datetime": "2026-04-15T15:00:00",
         "display_text": "ons 15 april 15:00",
         "time": "15:00",
@@ -33,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-04-12T07:08:05.144558+00:00",
+    "scraped_at": "2026-04-13T07:55:16.756105+00:00",
     "source": "zita",
     "tmdb": {
       "id": 569948,
@@ -56,54 +45,6 @@
     }
   },
   {
-    "film_id": "love-me-tender",
-    "url": "https://zita.se/love-me-tender",
-    "title": "Love me tender",
-    "director": "",
-    "genre": "Frankrike4 sept 2026134 minDramaLucky DogsFranskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "18:00",
-        "time": "18:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5858",
-        "normalized_datetime": "2026-04-12T18:00:00",
-        "normalized_date": "12.04",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-04-12T07:08:25.146898+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 39833,
-      "title": "Love Me Tender",
-      "overview": "At the end of the Civil War, a Confederate team is ordered to rob a Union payroll train but the war ends leaving these men with their Union loot, until the Feds come looking for it.",
-      "release_date": "1956-11-15",
-      "rating": 6.1,
-      "vote_count": 91,
-      "genres": [
-        "Drama",
-        "Western",
-        "Music",
-        "Romance"
-      ],
-      "poster_path": "/4PdRIIrBN4q8H7f8yGbd0ScpTjh.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4PdRIIrBN4q8H7f8yGbd0ScpTjh.jpg",
-      "backdrop_path": "/48oxvgG5yrMPA2f9cPEhi9mHOV4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/48oxvgG5yrMPA2f9cPEhi9mHOV4.jpg",
-      "imdb_id": "tt0049452",
-      "runtime": 89,
-      "budget": 1000000,
-      "revenue": 9000000
-    }
-  },
-  {
     "film_id": "sentimental-value",
     "url": "https://zita.se/sentimental-value",
     "title": "Sentimental Value",
@@ -113,9 +54,9 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "i morgon 18:15",
+        "display_text": "18:15",
         "time": "18:15",
-        "date": "i morgon",
+        "date": "",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5437",
         "normalized_datetime": "2026-04-13T18:15:00",
@@ -126,15 +67,15 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-04-12T07:08:35.180675+00:00",
+    "scraped_at": "2026-04-13T07:55:46.593109+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1124566,
       "title": "Sentimental Value",
       "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
       "release_date": "2025-08-20",
-      "rating": 7.491,
-      "vote_count": 809,
+      "rating": 7.5,
+      "vote_count": 812,
       "genres": [
         "Drama"
       ],
