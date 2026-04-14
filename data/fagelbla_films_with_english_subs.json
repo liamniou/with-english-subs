@@ -1,50 +1,5 @@
 [
   {
-    "film_id": "gycklarnas-afton",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Gycklarnas Afton",
-    "director": "Ingmar Bergman",
-    "duration": "1h 33 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2026-04-13T17:45:00+02:00",
-        "display_text": "Måndag, 13th April 17:45",
-        "time": "17:45",
-        "date_section": "Måndag, 13th April",
-        "ticket_url": "https://biofagelbla.se/movie/gycklarnas-afton/?showtime=53401",
-        "showtime_id": "53401",
-        "normalized_datetime": "2026-04-13T17:45:00",
-        "normalized_date": "13.04",
-        "normalized_time": "17:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-04-13T07:55:08.596345+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 47721,
-      "title": "Sawdust and Tinsel",
-      "overview": "A number of complicated relationships develop between a circus ringmaster, his estranged wife and his lover.",
-      "release_date": "1953-09-14",
-      "rating": 7.3,
-      "vote_count": 156,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/o1LGjSnibRtFuoBXrttm6pueNiD.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/o1LGjSnibRtFuoBXrttm6pueNiD.jpg",
-      "backdrop_path": "/fMYjzQAqTlz8kWAcSmjSH9s7QIN.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fMYjzQAqTlz8kWAcSmjSH9s7QIN.jpg",
-      "imdb_id": "tt0045848",
-      "runtime": 93,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "jungfrukällan",
     "url": "https://biofagelbla.se/program/",
     "title": "Jungfrukällan",
@@ -67,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-13T07:55:08.596990+00:00",
+    "scraped_at": "2026-04-14T07:23:21.267840+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -113,15 +68,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-13T07:55:08.597204+00:00",
+    "scraped_at": "2026-04-14T07:23:21.268062+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.6,
-      "vote_count": 4452,
+      "rating": 7.624,
+      "vote_count": 4453,
       "genres": [
         "Comedy",
         "Romance",
@@ -160,7 +115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-13T07:55:08.597334+00:00",
+    "scraped_at": "2026-04-14T07:23:21.268198+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -205,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-13T07:55:08.597465+00:00",
+    "scraped_at": "2026-04-14T07:23:21.268336+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
@@ -251,7 +206,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-13T07:55:08.597579+00:00",
+    "scraped_at": "2026-04-14T07:23:21.268466+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,

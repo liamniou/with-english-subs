@@ -8,10 +8,10 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2026-04-15T15:00:00",
-        "display_text": "ons 15 april 15:00",
+        "datetime": "",
+        "display_text": "i morgon 15:00",
         "time": "15:00",
-        "date": "ons 15 april",
+        "date": "i morgon",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
         "normalized_datetime": "2026-04-15T15:00:00",
@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-04-13T07:55:16.756105+00:00",
+    "scraped_at": "2026-04-14T07:23:26.565793+00:00",
     "source": "zita",
     "tmdb": {
       "id": 569948,
@@ -42,51 +42,6 @@
       "runtime": 5,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "sentimental-value",
-    "url": "https://zita.se/sentimental-value",
-    "title": "Sentimental Value",
-    "director": "",
-    "genre": "Norge20253 okt 2025126 minDramaFrån 11 årTriArtNorskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "18:15",
-        "time": "18:15",
-        "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5437",
-        "normalized_datetime": "2026-04-13T18:15:00",
-        "normalized_date": "13.04",
-        "normalized_time": "18:15"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-04-13T07:55:46.593109+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 1124566,
-      "title": "Sentimental Value",
-      "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
-      "release_date": "2025-08-20",
-      "rating": 7.5,
-      "vote_count": 812,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
-      "backdrop_path": "/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
-      "imdb_id": "tt27714581",
-      "runtime": 133,
-      "budget": 7800000,
-      "revenue": 22000000
     }
   }
 ]
