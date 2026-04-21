@@ -97,22 +97,24 @@
     ],
     "scraped_at": "2026-04-20T07:57:39.014188",
     "tmdb": {
-      "id": 40650,
-      "title": "Le Silence de la mer",
-      "overview": "In a small town in WWII France, a German officer is billeted in the house of an elderly man and his niece who resist the occupation by refusing to interact with him, even as he speaks to them candidly about his life and hopes for the future of France and Germany.",
-      "release_date": "1949-04-22",
-      "rating": 7.5,
-      "vote_count": 139,
+      "id": 336748,
+      "title": "Silence of the Sea",
+      "overview": "In a small town in the West of France, during the German Occupation, a room is requisitioned by a Wehrmacht captain, Werner von Ebrennac. The house where he now stays is inhabited by young Jeanne, who makes a living by giving piano lessons, and by her grandfather. Quite upset, the two \"hosts\" decide to resist the occupier by never speaking a word to him. Now Werner is a lover of France and its culture, and he tries to persuade them that a rapprochement between Germany and France would be beneficial for the two nations. Quite unexpectedly Jeanne, little by little, falls in love with Werner. At the same time, the Francophile officer loses his illusions, realizing at last that what Nazi Germany actually wants is to thrall France and to stifle its culture...",
+      "release_date": "2004-09-18",
+      "rating": 7.4,
+      "vote_count": 37,
       "genres": [
+        "Romance",
         "Drama",
-        "War"
+        "War",
+        "TV Movie"
       ],
-      "poster_path": "/5yagil6aUFTkdYqIoldZmDAGpay.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5yagil6aUFTkdYqIoldZmDAGpay.jpg",
-      "backdrop_path": "/guZVHRB7UK8Cts5XzRyiYgmtx4s.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/guZVHRB7UK8Cts5XzRyiYgmtx4s.jpg",
-      "imdb_id": "tt0039822",
-      "runtime": 87,
+      "poster_path": "/9h6lKitROXrUQ7SWLL5cVPgCOkY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9h6lKitROXrUQ7SWLL5cVPgCOkY.jpg",
+      "backdrop_path": "/2FJZAPXTp9dEORYB0i1ULxkVwWd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2FJZAPXTp9dEORYB0i1ULxkVwWd.jpg",
+      "imdb_id": "tt0430594",
+      "runtime": 100,
       "budget": 0,
       "revenue": 0
     }
