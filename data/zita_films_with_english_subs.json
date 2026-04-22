@@ -14,8 +14,8 @@
         "date": "",
         "cinema": "(Zita 3)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
-        "normalized_datetime": "2026-04-21T15:00:00",
-        "normalized_date": "21.04",
+        "normalized_datetime": "2026-04-22T15:00:00",
+        "normalized_date": "22.04",
         "normalized_time": "15:00"
       }
     ],
@@ -25,21 +25,21 @@
     "scraped_at": "2026-04-15T07:24:17.203737+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 569948,
-      "title": "Aktivisterna",
-      "overview": "Zahra, Masoumeh and Mina are three asylum seeking teenage girls who moved to Sweden alone. Together they fight for other youths right to stay in Sweden.",
-      "release_date": "2018-08-18",
-      "rating": 0.0,
-      "vote_count": 0,
+      "id": 458883,
+      "title": "FEMEN: Naked War",
+      "overview": "During one year, Joseph Paris filmed from the inside the Femen movement; its acts, its shocks and confrontations, its smokes and noises, but also its circumstances, its doubts, and sometimes its contradictions. One year at the heart of a overexposed activism in mass-media, where its deep reasons remained under silence or sometimes misconceived.",
+      "release_date": "2014-03-26",
+      "rating": 4.9,
+      "vote_count": 8,
       "genres": [
         "Documentary"
       ],
-      "poster_path": "/eDbd18dwMMMuP5rXYrzgRglUgPf.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eDbd18dwMMMuP5rXYrzgRglUgPf.jpg",
+      "poster_path": "/e9eUfCIWjHGZWSGB74Psga36OKb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/e9eUfCIWjHGZWSGB74Psga36OKb.jpg",
       "backdrop_path": null,
       "backdrop_url": null,
-      "imdb_id": null,
-      "runtime": 5,
+      "imdb_id": "tt4499308",
+      "runtime": 57,
       "budget": 0,
       "revenue": 0
     }
