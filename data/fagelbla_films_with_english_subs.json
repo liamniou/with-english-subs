@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-23T07:27:56.394546+00:00",
+    "scraped_at": "2026-04-24T07:54:11.143135+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-23T07:27:56.394954+00:00",
+    "scraped_at": "2026-04-24T07:54:11.143580+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -76,7 +76,7 @@
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
       "rating": 7.624,
-      "vote_count": 4457,
+      "vote_count": 4458,
       "genres": [
         "Comedy",
         "Romance",
@@ -115,7 +115,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-23T07:27:56.395252+00:00",
+    "scraped_at": "2026-04-24T07:54:11.143907+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -160,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-23T07:27:56.395379+00:00",
+    "scraped_at": "2026-04-24T07:54:11.144070+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
@@ -206,15 +206,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-23T07:27:56.395483+00:00",
+    "scraped_at": "2026-04-24T07:54:11.144203+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
       "title": "Wild Strawberries",
       "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
       "release_date": "1957-08-28",
-      "rating": 8.079,
-      "vote_count": 1791,
+      "rating": 8.078,
+      "vote_count": 1792,
       "genres": [
         "Drama"
       ],
