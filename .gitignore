@@ -298,3 +298,5 @@ scripts/local_settings.py
 assets/local/
 assets/temp/
 templates/local/
+# Local backup snapshots
+data/backups/
