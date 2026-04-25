@@ -19,10 +19,10 @@ function parseDateTime(showtime) {
     if (showtime.datetime) {
         try {
             // Parse various datetime formats
-            let dateStr = showtime.datetime. trim();
+            let dateStr = showtime.datetime.trim();
             
             // Try to detect format:  DD.MM HH:MM or DD.MM. YYYY HH:MM
-            const dateTimeRegex = /^(\d{1,2})\.(\d{1,2})(? :\.(\d{4}))?\s+(\d{1,2}):(\d{2})(?::(\d{2}))?$/;
+            const dateTimeRegex = /^(\d{1,2})\.(\d{1,2})(?:\.(\d{4}))?\s+(\d{1,2}):(\d{2})(?::(\d{2}))?$/;
             const match = dateStr.match(dateTimeRegex);
             
             if (match) {
@@ -53,7 +53,7 @@ function parseDateTime(showtime) {
             // Fallback to native Date parsing
             return new Date(dateStr);
         } catch (e) {
-            console.warn('Could not parse datetime:', showtime. datetime, e);
+            console.warn('Could not parse datetime:', showtime.datetime, e);
         }
     }
     
@@ -246,22 +246,42 @@ document.addEventListener('DOMContentLoaded', async () => {
 const DATA_SOURCES = [
     {
         name: 'Cinemateket Stockholm',
-        file: './cinemateket_films_with_english_subs.json',
-        fallback: './films_with_english_subs.json'
+        file: './data/cinemateket_films_with_english_subs.json',
+        fallback: null
     },
     {
         name: 'Bio Rio Stockholm',
-        file: './biorio_films_with_english_subs.json',
+        file: './data/biorio_films_with_english_subs.json',
         fallback: null
     },
     {
         name: 'Bio Fågel Blå Stockholm',
-        file: './fagelbla_films_with_english_subs.json',
+        file: './data/fagelbla_films_with_english_subs.json',
         fallback: null
     },
     {
         name: 'Zita Folkets Bio Stockholm',
-        file: './zita_films_with_english_subs.json',
+        file: './data/zita_films_with_english_subs.json',
+        fallback: null
+    },
+    {
+        name: 'Klarabiografen',
+        file: './data/klarabiografen_films_with_english_subs.json',
+        fallback: null
+    },
+    {
+        name: 'Capitol',
+        file: './data/capitolbio_films_with_english_subs.json',
+        fallback: null
+    },
+    {
+        name: 'Bio Aspen',
+        file: './data/bioaspen_films_with_english_subs.json',
+        fallback: null
+    },
+    {
+        name: 'Bio Bristol',
+        file: './data/biobristol_films_with_english_subs.json',
         fallback: null
     }
 ];
@@ -311,6 +331,22 @@ async function loadFilms() {
         }
         
         // Films are already merged by static_generator.py
+        
+        // Filter out past showtimes and films left with no upcoming showings
+        const now = new Date();
+        // Treat anything before the start of today as past, so films showing later today still appear
+        const startOfToday = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+        allFilms = allFilms
+            .map(film => {
+                if (!Array.isArray(film.showtimes)) return film;
+                const upcoming = film.showtimes.filter(st => {
+                    const dt = parseDateTime(st);
+                    if (!dt || isNaN(dt.getTime())) return true; // keep unparseable showtimes
+                    return dt >= startOfToday;
+                });
+                return { ...film, showtimes: upcoming };
+            })
+            .filter(film => Array.isArray(film.showtimes) && film.showtimes.length > 0);
         
         filteredFilms = [...allFilms];
         
@@ -439,12 +475,12 @@ function createFilmCard(film) {
     const tmdb = film.tmdb || {};
     const fullTitle = tmdb.title || film.title || 'Untitled';
     const title = fullTitle.length > 20 ? fullTitle.substring(0, 20) + '...' : fullTitle;
-    const overview = tmdb.overview || extractOverviewFromDetails(film.original_details) || 'No description available.';
+    const overview = tmdb.overview || film.description || extractOverviewFromDetails(film.original_details) || 'No description available.';
     const rating = tmdb.rating ? tmdb.rating.toFixed(1) : null;
             const genres = tmdb.genres?.slice(0, 2) || [];
     const year = tmdb.release_date ? new Date(tmdb.release_date).getFullYear() : '';
     const runtime = tmdb.runtime ? `${tmdb.runtime} min` : '';
-    const posterUrl = tmdb.poster_url || '';
+    const posterUrl = tmdb.poster_url || film.poster_url || '';
     const directors = tmdb.directors?.slice(0, 2) || [];
     
     return `

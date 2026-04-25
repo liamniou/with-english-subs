@@ -1,0 +1,52 @@
+[
+  {
+    "film_id": "en-poet",
+    "url": "https://www.bioaspen.se/movies/en-poet/",
+    "title": "En Poet",
+    "director": "Simón Mesa Soto",
+    "duration": "1 tim 59 min",
+    "language": "SPA",
+    "description": "Som ung var Óscar en lovande poet. Nu är han pank, alkoholiserad och lever på sin mamma. Under ett motvilligt inhopp som lärare träffar Óscar den begåvade eleven Yurlady – och plötsligt får hans liv mening igen. Han ska hjälpa henne att bli Colombias nästa stora stjärna på poesihimlen. Men är det verkligen rätt att introducera henne för den värld som gjort honom själv så olycklig?",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/6718/1080/d6fe2518-77c5-460c-b371-6d269797e728.jpeg",
+    "showtimes": [
+      {
+        "datetime": "2026-05-04T18:15:00",
+        "display_text": "Monday 4 May 2026 at 18:15",
+        "time": "18:15",
+        "date_section": "04.05",
+        "ticket_url": "https://www.bioaspen.se/movies/en-poet/",
+        "hall": "Salong 1",
+        "audio_language": "SPA",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-05-04T18:15:00",
+        "normalized_date": "04.05",
+        "normalized_time": "18:15"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-04-24T14:54:38.387266+00:00",
+    "source": "bioaspen",
+    "tmdb": {
+      "id": 1465563,
+      "title": "A Poet",
+      "overview": "An aging poet finds purpose mentoring Yurlady, a talented teen, though exposing her to the poetry scene might be unwise. His own poetic pursuits led nowhere, leaving him a stereotypical obscure writer.",
+      "release_date": "2025-08-28",
+      "rating": 7.741,
+      "vote_count": 29,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "poster_path": "/o0MRVa3XMUUIxiSCZYaJ1jGXdk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o0MRVa3XMUUIxiSCZYaJ1jGXdk.jpg",
+      "backdrop_path": "/kJQ56bguSWbXAzN7EK1RUekfY0S.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kJQ56bguSWbXAzN7EK1RUekfY0S.jpg",
+      "imdb_id": "tt36544524",
+      "runtime": 123,
+      "budget": 0,
+      "revenue": 1494641
+    }
+  }
+]

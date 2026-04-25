@@ -59,6 +59,10 @@ class StaticHTMLGenerator:
             "data/biorio_films_with_english_subs.json",
             "data/fagelbla_films_with_english_subs.json",
             "data/zita_films_with_english_subs.json",
+            "data/klarabiografen_films_with_english_subs.json",
+            "data/capitolbio_films_with_english_subs.json",
+            "data/bioaspen_films_with_english_subs.json",
+            "data/biobristol_films_with_english_subs.json",
             "data/films_with_english_subs.json",
             "data/films_with_english_subs_enriched.json"
         ]
@@ -85,6 +89,14 @@ class StaticHTMLGenerator:
                                 film['data_source'] = 'Bio Fågel Blå'
                             elif 'zita' in source_file.lower():
                                 film['data_source'] = 'Zita Folkets Bio'
+                            elif 'klarabiografen' in source_file.lower():
+                                film['data_source'] = 'Klarabiografen'
+                            elif 'capitolbio' in source_file.lower():
+                                film['data_source'] = 'Capitol'
+                            elif 'bioaspen' in source_file.lower():
+                                film['data_source'] = 'Bio Aspen'
+                            elif 'biobristol' in source_file.lower():
+                                film['data_source'] = 'Bio Bristol'
                             else:
                                 film['data_source'] = 'Cinema'
                         film['source_file'] = source_file
@@ -294,6 +306,21 @@ async function loadFilms() {
         // Get embedded JSON data
         const filmsDataElement = document.getElementById('films-data');
         allFilms = JSON.parse(filmsDataElement.textContent);
+        
+        // Filter out past showtimes and films left with no upcoming showings
+        const __now = new Date();
+        const __startOfToday = new Date(__now.getFullYear(), __now.getMonth(), __now.getDate());
+        allFilms = allFilms
+            .map(film => {
+                if (!Array.isArray(film.showtimes)) return film;
+                const upcoming = film.showtimes.filter(st => {
+                    const dt = parseDateTime(st);
+                    if (!dt || isNaN(dt.getTime())) return true;
+                    return dt >= __startOfToday;
+                });
+                return { ...film, showtimes: upcoming };
+            })
+            .filter(film => Array.isArray(film.showtimes) && film.showtimes.length > 0);
         
         filteredFilms = [...allFilms];
         

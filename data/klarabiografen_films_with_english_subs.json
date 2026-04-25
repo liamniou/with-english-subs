@@ -1,0 +1,401 @@
+[
+  {
+    "film_id": "all-my-sons",
+    "url": "https://kulturhusetstadsteatern.se/bio/all-my-sons",
+    "title": "All My Sons",
+    "director": "",
+    "duration": "2 tim 15 min, ingen paus",
+    "language": "",
+    "description": "Bryan Cranston (Breaking Bad) och Marianne Jean-Baptiste (Hard Truths) gör huvudrollerna i denna femstjärnigt hyllade uppsättning av Arthur Millers klassiska pjäs. Biljetterna till Wyndham Theatre i West End har under vintern varit de dyraste och mest eftertraktade i hela London. Nu kan pjäsen upplevas på Klarabiografen, med premiär 24 april.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-03/All-My-Sons_A3.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-04-24T18:00:00+02:00",
+        "display_text": "Friday 24 April 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "24.04",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/29782/122592/",
+        "tix_event_id": 122592,
+        "tix_event_group_id": 29782,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-04-24T18:00:00",
+        "normalized_date": "24.04",
+        "normalized_time": "18:00"
+      },
+      {
+        "datetime": "2026-08-22T15:00:00+02:00",
+        "display_text": "Saturday 22 August 2026 at 15:00",
+        "time": "15:00",
+        "date_section": "22.08",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/29782/122593/",
+        "tix_event_id": 122593,
+        "tix_event_group_id": 29782,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-08-22T15:00:00",
+        "normalized_date": "22.08",
+        "normalized_time": "15:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-04-24T14:18:27.805230+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 45166,
+      "title": "All My Sons",
+      "overview": "During WWII, industrialist Joe Keller commits a crime and frames his business partner Herbert Deever. Years later, his sin comes back to haunt him when his son plans to marry Deever's daughter.",
+      "release_date": "1948-05-01",
+      "rating": 6.3,
+      "vote_count": 30,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/zEtpSNIQy2wW8ZDpT4MaF7O18Ha.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zEtpSNIQy2wW8ZDpT4MaF7O18Ha.jpg",
+      "backdrop_path": "/bvDSGW50jvDvbiWhxKMYp0YEHEP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bvDSGW50jvDvbiWhxKMYp0YEHEP.jpg",
+      "imdb_id": "tt0040087",
+      "runtime": 94,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "audience-west-end",
+    "url": "https://kulturhusetstadsteatern.se/bio/audience-west-end",
+    "title": "The Audience (West End)",
+    "director": "",
+    "duration": "2 tim 53 min inkl 1 paus",
+    "language": "",
+    "description": "The Audience med Helen Mirren visades för första gången på bio år 2013, nu återvänder äntligen denna succé till biograferna igen. Mirren gör rollen som drottning Elizabeth II, regisserad av Stephen Daldry.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-03/The-Audience_A3.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-05-03T14:00:00+02:00",
+        "display_text": "Sunday 3 May 2026 at 14:00",
+        "time": "14:00",
+        "date_section": "03.05",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/29783/122594/",
+        "tix_event_id": 122594,
+        "tix_event_group_id": 29783,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-05-03T14:00:00",
+        "normalized_date": "03.05",
+        "normalized_time": "14:00"
+      },
+      {
+        "datetime": "2026-08-28T18:00:00+02:00",
+        "display_text": "Friday 28 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "28.08",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/29783/122595/",
+        "tix_event_id": 122595,
+        "tix_event_group_id": 29783,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-08-28T18:00:00",
+        "normalized_date": "28.08",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-04-24T14:18:27.805412+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 435217,
+      "title": "Offending the Audience",
+      "overview": "Four actors analyze the nature of theatre for an hour and then alternately insult the audience and praise its “performance.” TV recording of the premiere at the \"Theater am Turm\" in Frankfurt/Main.",
+      "release_date": "1966-09-27",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": null,
+      "poster_url": null,
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt0488774",
+      "runtime": 0,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "sand-castles-qa-ukraine-film-now",
+    "url": "https://kulturhusetstadsteatern.se/bio/sand-castles-qa-ukraine-film-now",
+    "title": "Sand Castles + Q&A (Ukraine Film Now)",
+    "director": "",
+    "duration": "Film 62 min + samtal",
+    "language": "",
+    "description": "\"Sand Castles\" is the story of Ukrainian artists and dreamers who have been representing Ukraine at Burning Man — one of the world’s most renowned cultural platforms — for over ten years.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-04/Sand_Castles%20Poster%20EN%20New.png",
+    "showtimes": [
+      {
+        "datetime": "2026-05-20T19:00:00+02:00",
+        "display_text": "Wednesday 20 May 2026 at 19:00",
+        "time": "19:00",
+        "date_section": "20.05",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/30540/124900/",
+        "tix_event_id": 124900,
+        "tix_event_group_id": 30540,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-05-20T19:00:00",
+        "normalized_date": "20.05",
+        "normalized_time": "19:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-04-24T14:18:27.805606+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 266425,
+      "title": "Sand Castles",
+      "overview": "In rural Indiana, Noah and his impoverished family wrestle with the mysterious return of his now mute sister, Lauren, who was kidnapped and held captive for over a decade.",
+      "release_date": "2016-02-16",
+      "rating": 4.2,
+      "vote_count": 9,
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "poster_path": "/pe2vpFDaFCpew23DFuTg7eOAVSk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pe2vpFDaFCpew23DFuTg7eOAVSk.jpg",
+      "backdrop_path": "/g5KHHtOd2jSFh7j64C7S05hrvCH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/g5KHHtOd2jSFh7j64C7S05hrvCH.jpg",
+      "imdb_id": "tt2233170",
+      "runtime": 93,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "playboy-of-western-world",
+    "url": "https://kulturhusetstadsteatern.se/bio/playboy-of-western-world",
+    "title": "The Playboy of the Western World",
+    "director": "",
+    "duration": "Ca 2 tim 30 min inkl 1 paus",
+    "language": "",
+    "description": "Nicola Coughlan (Bridgerton) gör huvudrollen i John Millington Synges fängslande pjäs om ungdom och identitetssökande. Caitríona McLaughlin regisserar denna mörkt humoristiska berättelse, fylld till brädden med hemligheter.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-03/The_Playboy_A3.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-05-29T18:00:00+02:00",
+        "display_text": "Friday 29 May 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "29.05",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/30104/123863/",
+        "tix_event_id": 123863,
+        "tix_event_group_id": 30104,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-05-29T18:00:00",
+        "normalized_date": "29.05",
+        "normalized_time": "18:00"
+      },
+      {
+        "datetime": "2026-09-05T18:00:00+02:00",
+        "display_text": "Saturday 5 September 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "05.09",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/30104/123864/",
+        "tix_event_id": 123864,
+        "tix_event_group_id": 30104,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-09-05T18:00:00",
+        "normalized_date": "05.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-04-24T14:18:27.805729+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 692562,
+      "title": "The Playboy of the Western World",
+      "overview": "A man comes into a pub and boasts that he has just killed his father. Instead of condemning him for the crime, the locals revel in his story and praise him for his deed, with the daughter of the landlord falling for this \"dashing hero\". Things take an even more surprising turn, when the father enters the pub. Based on John Millington Synge's play The Playboy of the Western World.",
+      "release_date": "1974-01-01",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "TV Movie"
+      ],
+      "poster_path": null,
+      "poster_url": null,
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt0395247",
+      "runtime": 101,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "inter-alia-national-theatre",
+    "url": "https://kulturhusetstadsteatern.se/bio/inter-alia-national-theatre",
+    "title": "Inter Alia (National Theatre)",
+    "director": "",
+    "duration": "1 tim 52 min",
+    "language": "",
+    "description": "Oscarsnominerade Rosamund Pike (\"Gone Girl\", \"Saltburn\") spelar Jessica i det efterlängtade nya dramat från teamet bakom \"Prima Facie\". Jessica Parks är en briljant domare i Crown Court på toppen av sin karriär. Bakom domarkåpan är hon en karaoke-entusiast, en kärleksfull fru och en stöttande förälder. När en händelse hotar att rubba hela hennes tillvaro, kan hon hålla ihop sin familj? ",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2025-03/NTL%202025%20Inter%20Alia%20Listing%20Images%20874x1240%20Portrait.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-09T16:00:00+02:00",
+        "display_text": "Sunday 9 August 2026 at 16:00",
+        "time": "16:00",
+        "date_section": "09.08",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/23542/125762/",
+        "tix_event_id": 125762,
+        "tix_event_group_id": 23542,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-08-09T16:00:00",
+        "normalized_date": "09.08",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-04-24T14:18:27.805923+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 1454209,
+      "title": "National Theatre Live: Inter Alia",
+      "overview": "Jessica Parks is a smart Crown Court Judge at the top of her career. Behind the robe, she is a karaoke fiend, loving wife and a supportive parent. When an event threatens to throw her life completely off balance, can she hold her family upright?",
+      "release_date": "2025-09-25",
+      "rating": 7.7,
+      "vote_count": 3,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/3IBpj6oU9BFcUGesv1QH2LvEb01.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3IBpj6oU9BFcUGesv1QH2LvEb01.jpg",
+      "backdrop_path": "/gpQwPhKmUmBZxmA9bcBeFDbDgdS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gpQwPhKmUmBZxmA9bcBeFDbDgdS.jpg",
+      "imdb_id": "tt36364878",
+      "runtime": 112,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "fifth-step-national-theatre",
+    "url": "https://kulturhusetstadsteatern.se/bio/fifth-step-national-theatre",
+    "title": "The Fifth Step (National Theatre)",
+    "director": "",
+    "duration": "1 tim 40 min",
+    "language": "",
+    "description": "Finn den Hertog regisserar denna provokativa och underhållande föreställning, inspelad live från Soho Place i Londons West End.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2025-09/The%20Fifth%20Step.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-14T18:00:00+02:00",
+        "display_text": "Friday 14 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "14.08",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/26517/125761/",
+        "tix_event_id": 125761,
+        "tix_event_group_id": 26517,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-08-14T18:00:00",
+        "normalized_date": "14.08",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-04-24T14:18:27.805940+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 1507573,
+      "title": "National Theatre Live: The Fifth Step",
+      "overview": "After years in the twelve steps of Alcoholics Anonymous, James becomes a sponsor to newcomer Luka. The pair bond over black coffee, trade stories and build a fragile friendship out of their shared experiences. But as Luka approaches step five – the moment of confession – dangerous truths emerge, threatening the trust on which both of their recoveries depend.",
+      "release_date": "2025-11-27",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster_path": "/f2FeCAeOadqj3leou4XTsHDR8pX.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f2FeCAeOadqj3leou4XTsHDR8pX.jpg",
+      "backdrop_path": "/xAAk7DR2bloyaM5xj0In0Kel4m.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xAAk7DR2bloyaM5xj0In0Kel4m.jpg",
+      "imdb_id": "tt37511177",
+      "runtime": 85,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "les-liaisons-dangereuses",
+    "url": "https://kulturhusetstadsteatern.se/bio/les-liaisons-dangereuses",
+    "title": "Les Liaisons Dangereuses",
+    "director": "",
+    "duration": "3 tim inkl 1 paus",
+    "language": "",
+    "description": "En ny iscensättning av hyllade Les Liaisons Dangereuses (Farliga förbindelser), regisserad av Marianne Elliott. Lesley Manville och Aidan Turner spelar huvudrollerna i detta gripande drama om makt, begär och förförelse; filmat på National Theatre i London.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-03/Les%20Liaisons%20Dangereuses_affisch.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-12T17:00:00+02:00",
+        "display_text": "Saturday 12 September 2026 at 17:00",
+        "time": "17:00",
+        "date_section": "12.09",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/30106/123868/",
+        "tix_event_id": 123868,
+        "tix_event_group_id": 30106,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-09-12T17:00:00",
+        "normalized_date": "12.09",
+        "normalized_time": "17:00"
+      },
+      {
+        "datetime": "2026-10-09T18:00:00+02:00",
+        "display_text": "Friday 9 October 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "09.10",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/30106/123869/",
+        "tix_event_id": 123869,
+        "tix_event_group_id": 30106,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-10-09T18:00:00",
+        "normalized_date": "09.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-04-24T14:18:27.805996+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 968739,
+      "title": "Dangerous Liaisons",
+      "overview": "The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.",
+      "release_date": "2022-07-08",
+      "rating": 5.877,
+      "vote_count": 317,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/opTwqTgREzvP67ERVrqt0ApXbeV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/opTwqTgREzvP67ERVrqt0ApXbeV.jpg",
+      "backdrop_path": "/bW62WOLYzax1WSG6tDTuJ5dBdT7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bW62WOLYzax1WSG6tDTuJ5dBdT7.jpg",
+      "imdb_id": "tt15548032",
+      "runtime": 109,
+      "budget": 0,
+      "revenue": 0
+    }
+  }
+]
