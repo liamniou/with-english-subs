@@ -33,52 +33,99 @@ class TMDbEnricher:
         
     def clean_title_for_search(self, title: str) -> str:
         """Clean film title for better TMDb search results.
-        
+
+        Strips Swedish cinema-event prefixes (e.g. "Frukostbio:", "Musikal:",
+        "Singalong:", "Studio Ghibli:"), suffix annotations like
+        "- english subtitles" or "med Per Faxneld", parenthesised notes
+        ("(National Theatre)", "(West End)", "(jap. tal, eng. text)"), and
+        post-title additions like "+ Q&A (Ukraine Film Now)".
+
         Args:
             title: Original film title
-            
+
         Returns:
             Cleaned title suitable for TMDb search
         """
-        # Remove "Originaltitel:" prefix
-        cleaned = re.sub(r'^Originaltitel:\s*', '', title, flags=re.IGNORECASE)
-        
-        # Remove content in parentheses (like year, country)
-        cleaned = re.sub(r'\([^)]*\)', '', cleaned)
-        
-        # Remove extra whitespace
+        cleaned = title or ""
+
+        # 1. Strip "Originaltitel:" prefix.
+        cleaned = re.sub(r'^Originaltitel:\s*', '', cleaned, flags=re.IGNORECASE)
+
+        # 2. Strip common Swedish event/series prefixes ending in ":".
+        prefix_words = (
+            r'Frukostbio|Musikal|Singalong|Sing[- ]?along|Studio Ghibli|'
+            r'Filmklubb|Klassiker|Special|Premi[äa]r|Sneak Peek|Kortfilm|'
+            r'Matin[ée]|Bio Bistro|Babybio|Seniorbio|Skolbio|Filmfest(?:ival)?|'
+            r'Dokument(?:är)?'
+        )
+        cleaned = re.sub(rf'^(?:{prefix_words}):\s*', '', cleaned, flags=re.IGNORECASE)
+
+        # 3. Strip "+ Q&A ..." or "+ samtal ..." style additions.
+        cleaned = re.sub(
+            r'\s*[+&]\s*(?:Q\s*&\s*A|samtal|introduktion|f[öo]rel[äa]sning)\b.*$',
+            '',
+            cleaned,
+            flags=re.IGNORECASE,
+        )
+
+        # 4. Strip "med <person>" suffix (e.g. "Hellraiser med Per Faxneld").
+        cleaned = re.sub(r'\s+med\s+[A-ZÅÄÖ][^()]*$', '', cleaned)
+
+        # 5. Strip subtitle-language notes attached to the title.
+        cleaned = re.sub(
+            r'\s*[-–—|:]\s*(?:english subtitles|eng(?:lish)? subs?|'
+            r'engelska undertexter|with eng(?:lish)? subs?|en text|'
+            r'svensk text|swedish subtitles)\s*$',
+            '',
+            cleaned,
+            flags=re.IGNORECASE,
+        )
+
+        # 6. Drop all parenthesised notes — the year is already passed to
+        #    TMDb as a separate `year` parameter via `_extract_year_from_film`.
+        cleaned = re.sub(r'\s*\([^)]*\)', '', cleaned)
+
+        # 7. Collapse whitespace.
         cleaned = ' '.join(cleaned.split())
-        
-        return cleaned.strip()
+        return cleaned.strip() or (title or '').strip()
     
     def _extract_year_from_film(self, film: Dict[str, Any]) -> Optional[str]:
-        """Extract year from film data if available.
-        
+        """Extract release year from film data, if available.
+
+        We only trust:
+          1. an explicit ``year``/``releaseYear`` field, or
+          2. a 4-digit year embedded in the *title* (e.g. "The Wiz (1978)").
+
+        Description text is intentionally ignored — it often references
+        historical years that have nothing to do with the release date
+        (e.g. "Dazed and Confused" is set in 1976 but released in 1993).
+
         Args:
             film: Film data dictionary
-            
+
         Returns:
             Year as string or None if not found
         """
         import re
-        
-        # Check for explicit year field
-        if 'year' in film and film['year']:
-            return str(film['year'])
-        
-        # Try to extract year from title (look for 4-digit years)
+
+        # Explicit year fields.
+        for key in ('year', 'releaseYear', 'release_year'):
+            value = film.get(key)
+            if value:
+                return str(value)
+
+        release_date = film.get('release_date') or film.get('releaseDate')
+        if isinstance(release_date, str):
+            m = re.match(r'(\d{4})', release_date)
+            if m:
+                return m.group(1)
+
+        # 4-digit year embedded in the title.
         title = film.get('title', '')
         year_match = re.search(r'\b(19|20)\d{2}\b', title)
         if year_match:
             return year_match.group(0)
-        
-        # Try to extract from genre/description fields that might contain year
-        for field in ['genre', 'description', 'details']:
-            if field in film and film[field]:
-                year_match = re.search(r'\b(19|20)\d{2}\b', str(film[field]))
-                if year_match:
-                    return year_match.group(0)
-        
+
         return None
     
     def search_tmdb_movie(self, title: str, director: str = None, year: str = None) -> Optional[Dict[str, Any]]:
