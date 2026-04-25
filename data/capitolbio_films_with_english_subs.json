@@ -1,0 +1,412 @@
+[
+  {
+    "film_id": "frukostbio-dazed-and-confused",
+    "url": "https://www.capitolbio.se/filmer/frukostbio-dazed-and-confused/4405",
+    "title": "Frukostbio: Dazed and Confused",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Avrunda veckan med frukostbio hos Capitol, se en tänkvärd och spännande film hos oss tillsammans med vår hemlagade frukost. Varje söndag kl 10.30\n\nRichard Linklaters film är en berättelse om en grupp tonåringars äventyr under 1976 års sista skoldagar. Med musik av Aerosmith, Alice Copper, Black Sabbath, Depp Purple, ZZ Top, Bob Dylan, Kiss och Peter Frampton och ljuvliga rolltolkningar njuter man av den roligaste och mest träffande skildringen av amerikanskt tonårsliv som gjorts.\n\n-Vi serverar de förköpta menyerna vid era platser i salongen, Dine in serveras ej under frukostvisningar.\n- Senast lördag kl.10.00 (dagen innan visningen) måste din frukostorder vara genomförd vid förbeställning.\n\nVÄLKOMNA!",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4405/1920/a4597cff-9608-4398-b2c5-5fed65a820d9.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-04-26T10:30:00",
+        "display_text": "Sunday 26 April 2026 at 10:30",
+        "time": "10:30",
+        "date_section": "26.04",
+        "ticket_url": "https://www.capitolbio.se/boka/50039",
+        "booking_id": "50039",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-04-26T10:30:00",
+        "normalized_date": "26.04",
+        "normalized_time": "10:30"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-04-24T14:41:46.702011+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 9571,
+      "title": "Dazed and Confused",
+      "overview": "The adventures of a group of Texas teens on their last day of school in 1976, centering on student Randall Floyd, who moves easily among stoners, jocks and geeks. Floyd is a star athlete, but he also likes smoking weed, which presents a conundrum when his football coach demands he sign a \"no drugs\" pledge.",
+      "release_date": "1993-09-24",
+      "rating": 7.3,
+      "vote_count": 2239,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "poster_path": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "backdrop_path": "/mhYQOazZVBAPtKDw3TXybDtMJgK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mhYQOazZVBAPtKDw3TXybDtMJgK.jpg",
+      "imdb_id": "tt0106677",
+      "runtime": 102,
+      "budget": 6900000,
+      "revenue": 8259076
+    }
+  },
+  {
+    "film_id": "a-star-is-born-1976",
+    "url": "https://www.capitolbio.se/filmer/a-star-is-born-1976/1305",
+    "title": "A Star Is Born (1976)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Barbra Streisand i A Star Is Born\n\nRockstjärna i utförsbacken upptäcker talangfull sångerska och gör henne till stjärna, allt eftersom hans egen karriär dalar allt mer med Barbra Streisand och Kris Kristofferson i huvudrollerna.\nFilmen vann en Oscar för bästa originalmusik, den tilldelades Barbra Streisand och Paul Williams för låten Evergreen.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/1305/1920/b9d4d7e4-accd-43ab-a60d-6c12de8edeee.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-04-27T17:45:00",
+        "display_text": "Monday 27 April 2026 at 17:45",
+        "time": "17:45",
+        "date_section": "27.04",
+        "ticket_url": "https://www.capitolbio.se/boka/49605",
+        "booking_id": "49605",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-04-27T17:45:00",
+        "normalized_date": "27.04",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-04-24T14:41:46.702081+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 19610,
+      "title": "A Star Is Born",
+      "overview": "Drunken, has-been rock star John Norman Howard falls in love with unknown singer Esther Hoffman after seeing her perform at a club. He lets her sing a few songs at one of his shows and she becomes the talk of the music industry. Esther's star begins to rise, while John's continues to fall. She tries desperately to get John to sober up and focus on his music, but it may be too late to save him.",
+      "release_date": "1976-12-17",
+      "rating": 6.0,
+      "vote_count": 237,
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "poster_path": "/3Hr63lBDhvYGpSd8HxDpWvowZpY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3Hr63lBDhvYGpSd8HxDpWvowZpY.jpg",
+      "backdrop_path": "/kPn4M9dw7raRVQt2UPOWY0j2k0o.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kPn4M9dw7raRVQt2UPOWY0j2k0o.jpg",
+      "imdb_id": "tt0075265",
+      "runtime": 140,
+      "budget": 6000000,
+      "revenue": 80000000
+    }
+  },
+  {
+    "film_id": "days-of-heaven-1978",
+    "url": "https://www.capitolbio.se/filmer/days-of-heaven-1978/4393",
+    "title": "Days of Heaven (1978)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Amerikansk mästerverk av Terrence Malick \n\nHimlastormande vacker westernmelodram med Oscarbelönat foto och banbrytande ljudarbete, där Richard Geres hetlevrade säsongsarbetare i 1910-talets Texas försöker lura till sig sin döende chefs rikedomar.\n\nEfter framgången med Det grymma landet kunde Terrence Malick välja och vraka bland erbjudanden. Med växande förtroende och större budget tog han sig an ett melodramatiskt triangeldrama i 1910-talets Texas.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4393/1920/816e60a8-cd28-483c-9923-5c7525697e97.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-04-28T20:00:00",
+        "display_text": "Tuesday 28 April 2026 at 20:00",
+        "time": "20:00",
+        "date_section": "28.04",
+        "ticket_url": "https://www.capitolbio.se/boka/50569",
+        "booking_id": "50569",
+        "hall": "Salong 4",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-04-28T20:00:00",
+        "normalized_date": "28.04",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-04-24T14:41:46.702121+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 16642,
+      "title": "Days of Heaven",
+      "overview": "In 1916, a Chicago steel worker accidentally kills his supervisor and flees to the Texas panhandle with his girlfriend and little sister to work harvesting wheat in the fields of a stoic farmer.",
+      "release_date": "1978-09-13",
+      "rating": 7.5,
+      "vote_count": 1157,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/rwxTYjOZmX2rGhz7avLe1qsjNqe.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rwxTYjOZmX2rGhz7avLe1qsjNqe.jpg",
+      "backdrop_path": "/uD8cCU8q5VrN3iHDJlCJQKGshJu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/uD8cCU8q5VrN3iHDJlCJQKGshJu.jpg",
+      "imdb_id": "tt0077405",
+      "runtime": 94,
+      "budget": 3000000,
+      "revenue": 3700000
+    }
+  },
+  {
+    "film_id": "hellraiser-med-per-faxneld",
+    "url": "https://www.capitolbio.se/filmer/hellraiser-med-per-faxneld/682",
+    "title": "Hellraiser med Per Faxneld",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Välkommen på esoterisk afton av Hellraiser\n\nFöreläsningen kommer handla om Clive Barkers moderna Faust-myt.\n\nI utkanten av London finns ett hus som stått tomt i många, många år. Där, i vindsrummet, öppnade Frank Cotton den magiska låda han kommit över i Asien. Där gläntade han på locket till helvetet. Där dog han i djävulska plågor. Nu: många, många år senare, flyttar Franks bror in i huset tillsammans med sin fru. Genast känner hon av den kusliga atmosfären och dras till vindsrummet, som av en osynlig kraft. En gestalt lösgör sig ur skuggorna. Det är Frank. Han har återvänt från dödsriket, men för att bli mänsklig igen måsta han få näring. Och näring kan bara komma från människokroppar. Många, många kroppar...",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/682/1920/e5da71af-daa9-4595-a4bd-a65b6065f210.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-04-29T20:15:00",
+        "display_text": "Wednesday 29 April 2026 at 20:15",
+        "time": "20:15",
+        "date_section": "29.04",
+        "ticket_url": "https://www.capitolbio.se/boka/49295",
+        "booking_id": "49295",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-04-29T20:15:00",
+        "normalized_date": "29.04",
+        "normalized_time": "20:15"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-04-24T14:41:46.702254+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 9003,
+      "title": "Hellraiser",
+      "overview": "A hedonistic man finds a mysterious puzzle box that summons a group of gruesome beings known as the Cenobites. These otherworldly entities open the doors to a dominion where pain and pleasure are indivisible.",
+      "release_date": "1987-09-11",
+      "rating": 6.876,
+      "vote_count": 2836,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "poster_path": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+      "backdrop_path": "/j4irvwRLITgGr6vcP8NIKCUA67y.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/j4irvwRLITgGr6vcP8NIKCUA67y.jpg",
+      "imdb_id": "tt0093177",
+      "runtime": 93,
+      "budget": 1000000,
+      "revenue": 14580380
+    }
+  },
+  {
+    "film_id": "musikal-the-wiz-1978",
+    "url": "https://www.capitolbio.se/filmer/musikal-the-wiz-1978/4423",
+    "title": "Musikal: The Wiz (1978)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Musikal med Michael Jackson\n\nFölj med när Dorothy förs bort till det förtrollande underlandet Oz, med spektakulära musiknummer av Diana Ross och Michael Jackson.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4423/1920/14f9beef-3684-4d61-8303-df1cb8a0024c.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-05-06T18:00:00",
+        "display_text": "Wednesday 6 May 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "06.05",
+        "ticket_url": "https://www.capitolbio.se/boka/50380",
+        "booking_id": "50380",
+        "hall": "Salong 4",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-05-06T18:00:00",
+        "normalized_date": "06.05",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-04-24T14:41:46.702304+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 24961,
+      "title": "The Wiz",
+      "overview": "Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home.",
+      "release_date": "1978-10-24",
+      "rating": 6.1,
+      "vote_count": 294,
+      "genres": [
+        "Music",
+        "Fantasy",
+        "Adventure"
+      ],
+      "poster_path": "/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
+      "backdrop_path": "/9MPp7ItBHrxAPw4V4jq79L18YhD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9MPp7ItBHrxAPw4V4jq79L18YhD.jpg",
+      "imdb_id": "tt0078504",
+      "runtime": 134,
+      "budget": 24000000,
+      "revenue": 21049053
+    }
+  },
+  {
+    "film_id": "singalong-hair",
+    "url": "https://www.capitolbio.se/filmer/singalong-hair/4238",
+    "title": "Singalong: Hair",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "En stor Capitolfavorit är tillbaka som singalong!\n\nAllsångsledare för kvällen är Martina Huzell.\n\nKom gärna i god tid och ladda upp i foajébaren! Partyt fortsätter sedan i salongen.\n\nOscarbelönade Milos Forman har tillsammans med manusförfattaren Michael Weller på ett briljant sätt återskapat Broadwayversionen av HAIR och åstadkommit en filmversion som platsar bland de bästa musikalerna genom tiderna. \n\nOBS, inga återköp eller byten gäller på singalonger.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/3212/1920/10556e85-3027-4cfd-b0b9-79153ab8587a.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-05-12T18:10:00",
+        "display_text": "Tuesday 12 May 2026 at 18:10",
+        "time": "18:10",
+        "date_section": "12.05",
+        "ticket_url": "https://www.capitolbio.se/boka/49975",
+        "booking_id": "49975",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-05-12T18:10:00",
+        "normalized_date": "12.05",
+        "normalized_time": "18:10"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-04-24T14:41:46.702323+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 10654,
+      "title": "Hair",
+      "overview": "Upon receiving his draft notice and leaving his family ranch in Oklahoma, Claude heads to New York and befriends a tribe of long-haired hippies on his way to boot camp.",
+      "release_date": "1979-03-15",
+      "rating": 7.266,
+      "vote_count": 728,
+      "genres": [
+        "Music",
+        "Drama",
+        "Comedy"
+      ],
+      "poster_path": "/qrZIlVCL9UyEBsgOGbisNzuWjX.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qrZIlVCL9UyEBsgOGbisNzuWjX.jpg",
+      "backdrop_path": "/4yeRx7cGDMIzIkzLRhcw1LymSYC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/4yeRx7cGDMIzIkzLRhcw1LymSYC.jpg",
+      "imdb_id": "tt0079261",
+      "runtime": 121,
+      "budget": 11000000,
+      "revenue": 15313606
+    }
+  },
+  {
+    "film_id": "clueless",
+    "url": "https://www.capitolbio.se/filmer/clueless/609",
+    "title": "Clueless",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Genialiska komedier\n\nDet är inte lätt att vara den mest populära tjejen på Beverly Hills High. Särskilt inte med avundsjuka intrigmakare, efterhängsna töntar och lärare som flippar ur när man lämnar in hemläxan för sent! Men på något sätt lyckas 15-åriga Cher (Alicia Silverstone) ändå hålla ordning på allt och har till och med tid för vissa fritidsprojekt, som att ”göra om” en gammalmodig väninna (Brittany Murphy). Men Chers ordentliga tillvaro sätts i gungning när två riktiga snyggingar plötsligt dyker upp: den nya killen i klassen, som är både sexig och elegant (Justin Walker), och Chers mossiga men söta ”ex-styvbror” (Paul Rudd). Och Cher får nu lov att inse att när det handlar om kärlek är hon helt enkelt… Clueless!",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/609/1920/8c4b69ae-b975-4391-9527-6e18a574ecb9.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-05-18T18:00:00",
+        "display_text": "Monday 18 May 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "18.05",
+        "ticket_url": "https://www.capitolbio.se/boka/50516",
+        "booking_id": "50516",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-05-18T18:00:00",
+        "normalized_date": "18.05",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-04-24T14:41:46.702344+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 9603,
+      "title": "Clueless",
+      "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him.",
+      "release_date": "1995-07-19",
+      "rating": 7.252,
+      "vote_count": 4764,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "poster_path": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "backdrop_path": "/65d0MccsiRSPTVicregKQL8owoo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/65d0MccsiRSPTVicregKQL8owoo.jpg",
+      "imdb_id": "tt0112697",
+      "runtime": 97,
+      "budget": 12000000,
+      "revenue": 56631572
+    }
+  },
+  {
+    "film_id": "studio-ghibli-grave-of-the-fireflies-jap-tal-eng-text",
+    "url": "https://www.capitolbio.se/filmer/studio-ghibli-grave-of-the-fireflies-jap-tal-eng-text/4435",
+    "title": "Studio Ghibli: Grave of the Fireflies (jap. tal, eng. text)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Japansk anime från Studio Ghibli från 1988, en av alla tiders starkaste anti-krigsfilmer\n\nVi möter två barn, i en sönderbombad stad i andra världskrigets slutskede. I öppningsscenen säger storebror Seita: '21 september 1945, det var dagen då jag dog...' och sedan färdas vi tillbaka i tiden och får följa de två syskonens kamp för överlevnad. De två föräldralösa flyr brandbombningarna och hamnar hos en släkting, men behandlas så illa att storebror Seita bestämmer att han och hans lilla syster ska klara sig själva.\n\nNär filmen visades i Japan sägs det att de mest lyckade aftnarna var när Grave of the Fireflies  fick inleda och fånga biopubliken med sitt gripande drama, för att sedan låta åskådarna torka sina tårar och le åt Hayao Miyazakis Min granne Totoro. Precis på detta sätt tänker vi visa filmerna idag.\n\nVälkomna!",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4435/1920/ea9cefdc-d731-4585-881c-2e02e9c6f024.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-05-30T12:10:00",
+        "display_text": "Saturday 30 May 2026 at 12:10",
+        "time": "12:10",
+        "date_section": "30.05",
+        "ticket_url": "https://www.capitolbio.se/boka/50653",
+        "booking_id": "50653",
+        "hall": "Salong 1",
+        "audio_language": "JP",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-05-30T12:10:00",
+        "normalized_date": "30.05",
+        "normalized_time": "12:10"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-04-24T14:41:46.702366+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 76826,
+      "title": "Grave of the Fireflies",
+      "overview": "Hisako loses her home in Tokyo to Allied bombing. With her husband fighting somewhere in Asia, she and her two children evacuate to a suburb of Kobe, where they share a house with Hisako's cousin, Kyoko. Kobe is bombed and Kyoko is killed. Hisako is forced to take care of Kyoko's two children in addition to her own, but there is not enough food for everyone.",
+      "release_date": "2005-11-01",
+      "rating": 7.9,
+      "vote_count": 113,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/im6u58cPa9HlH5DqSnZGy0O37l5.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/im6u58cPa9HlH5DqSnZGy0O37l5.jpg",
+      "backdrop_path": "/pgWLJI42GG98S1DqjTELLtB7VPB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pgWLJI42GG98S1DqjTELLtB7VPB.jpg",
+      "imdb_id": "tt0491652",
+      "runtime": 148,
+      "budget": 0,
+      "revenue": 0
+    }
+  }
+]
