@@ -2,7 +2,7 @@
   {
     "film_id": "en-poet",
     "url": "https://www.bioaspen.se/movies/en-poet/",
-    "title": "En Poet",
+    "title": "En Poet - english subtitles",
     "director": "Simón Mesa Soto",
     "duration": "1 tim 59 min",
     "language": "SPA",
@@ -26,14 +26,14 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-04-24T14:54:38.387266+00:00",
+    "scraped_at": "2026-04-26T07:20:16.941023+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1465563,
       "title": "A Poet",
       "overview": "An aging poet finds purpose mentoring Yurlady, a talented teen, though exposing her to the poetry scene might be unwise. His own poetic pursuits led nowhere, leaving him a stereotypical obscure writer.",
       "release_date": "2025-08-28",
-      "rating": 7.741,
+      "rating": 7.7,
       "vote_count": 29,
       "genres": [
         "Comedy",

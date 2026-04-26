@@ -1,45 +1,5 @@
 [
   {
-    "film_id": "1367",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=1367&cityId=1",
-    "title": "Originaltitel: Le doulos",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "lör 25/4 kl. 18:30",
-        "normalized_datetime": "2026-04-25T18:30:00",
-        "normalized_date": "25.04",
-        "normalized_time": "18:30"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-04-24T16:02:28.931876",
-    "tmdb": {
-      "id": 20778,
-      "title": "Le Doulos",
-      "overview": "Enigmatic gangster Silien may or may not be responsible for informing on Faugel,  who was just released from prison and is already involved in what should be a simple heist. By the end of this brutal, twisting, and multilayered policier, who will be left to trust?",
-      "release_date": "1962-12-13",
-      "rating": 7.36,
-      "vote_count": 303,
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Crime"
-      ],
-      "poster_path": "/nZ3mks1KnoQ4bIZ8fnv57Cd2T36.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nZ3mks1KnoQ4bIZ8fnv57Cd2T36.jpg",
-      "backdrop_path": "/zuGRz4iaWPi5VTb6bQW7j4G0OP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/zuGRz4iaWPi5VTb6bQW7j4G0OP.jpg",
-      "imdb_id": "tt0054821",
-      "runtime": 108,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "3058",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=3058&cityId=1",
     "title": "Originaltitel: Léon Morin, prêtre",
@@ -56,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-24T16:02:43.544790",
+    "scraped_at": "2026-04-26T07:21:22.113121",
     "tmdb": {
       "id": 63892,
       "title": "Léon Morin, Priest",
@@ -95,7 +55,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-04-24T16:02:49.060572",
+    "scraped_at": "2026-04-26T07:21:35.964181",
     "tmdb": {
       "id": 336748,
       "title": "Silence of the Sea",
@@ -136,7 +96,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-04-24T16:02:52.346838",
+    "scraped_at": "2026-04-26T07:21:44.596046",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",

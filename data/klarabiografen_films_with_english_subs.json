@@ -1,67 +1,5 @@
 [
   {
-    "film_id": "all-my-sons",
-    "url": "https://kulturhusetstadsteatern.se/bio/all-my-sons",
-    "title": "All My Sons",
-    "director": "",
-    "duration": "2 tim 15 min, ingen paus",
-    "language": "",
-    "description": "Bryan Cranston (Breaking Bad) och Marianne Jean-Baptiste (Hard Truths) gör huvudrollerna i denna femstjärnigt hyllade uppsättning av Arthur Millers klassiska pjäs. Biljetterna till Wyndham Theatre i West End har under vintern varit de dyraste och mest eftertraktade i hela London. Nu kan pjäsen upplevas på Klarabiografen, med premiär 24 april.",
-    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-03/All-My-Sons_A3.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-04-24T18:00:00+02:00",
-        "display_text": "Friday 24 April 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "24.04",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/29782/122592/",
-        "tix_event_id": 122592,
-        "tix_event_group_id": 29782,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-04-24T18:00:00",
-        "normalized_date": "24.04",
-        "normalized_time": "18:00"
-      },
-      {
-        "datetime": "2026-08-22T15:00:00+02:00",
-        "display_text": "Saturday 22 August 2026 at 15:00",
-        "time": "15:00",
-        "date_section": "22.08",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/29782/122593/",
-        "tix_event_id": 122593,
-        "tix_event_group_id": 29782,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-08-22T15:00:00",
-        "normalized_date": "22.08",
-        "normalized_time": "15:00"
-      }
-    ],
-    "cinemas": [
-      "Klarabiografen"
-    ],
-    "scraped_at": "2026-04-24T14:18:27.805230+00:00",
-    "source": "klarabiografen",
-    "tmdb": {
-      "id": 45166,
-      "title": "All My Sons",
-      "overview": "During WWII, industrialist Joe Keller commits a crime and frames his business partner Herbert Deever. Years later, his sin comes back to haunt him when his son plans to marry Deever's daughter.",
-      "release_date": "1948-05-01",
-      "rating": 6.3,
-      "vote_count": 30,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/zEtpSNIQy2wW8ZDpT4MaF7O18Ha.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zEtpSNIQy2wW8ZDpT4MaF7O18Ha.jpg",
-      "backdrop_path": "/bvDSGW50jvDvbiWhxKMYp0YEHEP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bvDSGW50jvDvbiWhxKMYp0YEHEP.jpg",
-      "imdb_id": "tt0040087",
-      "runtime": 94,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "audience-west-end",
     "url": "https://kulturhusetstadsteatern.se/bio/audience-west-end",
     "title": "The Audience (West End)",
@@ -101,7 +39,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-04-24T14:18:27.805412+00:00",
+    "scraped_at": "2026-04-26T07:21:53.324659+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 435217,
@@ -150,7 +88,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-04-24T14:18:27.805606+00:00",
+    "scraped_at": "2026-04-26T07:21:53.324957+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 266425,
@@ -214,7 +152,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-04-24T14:18:27.805729+00:00",
+    "scraped_at": "2026-04-26T07:21:53.325138+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 692562,
@@ -263,7 +201,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-04-24T14:18:27.805923+00:00",
+    "scraped_at": "2026-04-26T07:21:53.325408+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1454209,
@@ -312,7 +250,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-04-24T14:18:27.805940+00:00",
+    "scraped_at": "2026-04-26T07:21:53.325432+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1507573,
@@ -331,6 +269,55 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/xAAk7DR2bloyaM5xj0In0Kel4m.jpg",
       "imdb_id": "tt37511177",
       "runtime": 85,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "all-my-sons",
+    "url": "https://kulturhusetstadsteatern.se/bio/all-my-sons",
+    "title": "All My Sons",
+    "director": "",
+    "duration": "2 tim 15 min, ingen paus",
+    "language": "",
+    "description": "Bryan Cranston (Breaking Bad) och Marianne Jean-Baptiste (Hard Truths) gör huvudrollerna i denna femstjärnigt hyllade uppsättning av Arthur Millers klassiska pjäs. Biljetterna till Wyndham Theatre i West End har under vintern varit de dyraste och mest eftertraktade i hela London. Nu kan pjäsen upplevas på Klarabiografen, med premiär 24 april.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-03/All-My-Sons_A3.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-22T15:00:00+02:00",
+        "display_text": "Saturday 22 August 2026 at 15:00",
+        "time": "15:00",
+        "date_section": "22.08",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/29782/122593/",
+        "tix_event_id": 122593,
+        "tix_event_group_id": 29782,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-08-22T15:00:00",
+        "normalized_date": "22.08",
+        "normalized_time": "15:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-04-26T07:21:53.325456+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 45166,
+      "title": "All My Sons",
+      "overview": "During WWII, industrialist Joe Keller commits a crime and frames his business partner Herbert Deever. Years later, his sin comes back to haunt him when his son plans to marry Deever's daughter.",
+      "release_date": "1948-05-01",
+      "rating": 6.3,
+      "vote_count": 30,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/zEtpSNIQy2wW8ZDpT4MaF7O18Ha.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zEtpSNIQy2wW8ZDpT4MaF7O18Ha.jpg",
+      "backdrop_path": "/bvDSGW50jvDvbiWhxKMYp0YEHEP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bvDSGW50jvDvbiWhxKMYp0YEHEP.jpg",
+      "imdb_id": "tt0040087",
+      "runtime": 94,
       "budget": 0,
       "revenue": 0
     }
@@ -375,7 +362,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-04-24T14:18:27.805996+00:00",
+    "scraped_at": "2026-04-26T07:21:53.325533+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
