@@ -1,56 +1,5 @@
 [
   {
-    "film_id": "frukostbio-dazed-and-confused",
-    "url": "https://www.capitolbio.se/filmer/frukostbio-dazed-and-confused/4405",
-    "title": "Frukostbio: Dazed and Confused",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Avrunda veckan med frukostbio hos Capitol, se en tänkvärd och spännande film hos oss tillsammans med vår hemlagade frukost. Varje söndag kl 10.30\n\nRichard Linklaters film är en berättelse om en grupp tonåringars äventyr under 1976 års sista skoldagar. Med musik av Aerosmith, Alice Copper, Black Sabbath, Depp Purple, ZZ Top, Bob Dylan, Kiss och Peter Frampton och ljuvliga rolltolkningar njuter man av den roligaste och mest träffande skildringen av amerikanskt tonårsliv som gjorts.\n\n-Vi serverar de förköpta menyerna vid era platser i salongen, Dine in serveras ej under frukostvisningar.\n- Senast lördag kl.10.00 (dagen innan visningen) måste din frukostorder vara genomförd vid förbeställning.\n\nVÄLKOMNA!",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4405/1920/a4597cff-9608-4398-b2c5-5fed65a820d9.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-04-26T10:30:00",
-        "display_text": "Sunday 26 April 2026 at 10:30",
-        "time": "10:30",
-        "date_section": "26.04",
-        "ticket_url": "https://www.capitolbio.se/boka/50039",
-        "booking_id": "50039",
-        "hall": "Salong 1",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-04-26T10:30:00",
-        "normalized_date": "26.04",
-        "normalized_time": "10:30"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-04-26T07:20:35.798893+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 9571,
-      "title": "Dazed and Confused",
-      "overview": "The adventures of a group of Texas teens on their last day of school in 1976, centering on student Randall Floyd, who moves easily among stoners, jocks and geeks. Floyd is a star athlete, but he also likes smoking weed, which presents a conundrum when his football coach demands he sign a \"no drugs\" pledge.",
-      "release_date": "1993-09-24",
-      "rating": 7.317,
-      "vote_count": 2239,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "poster_path": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
-      "backdrop_path": "/mhYQOazZVBAPtKDw3TXybDtMJgK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mhYQOazZVBAPtKDw3TXybDtMJgK.jpg",
-      "imdb_id": "tt0106677",
-      "runtime": 102,
-      "budget": 6900000,
-      "revenue": 8259076
-    }
-  },
-  {
     "film_id": "a-star-is-born-1976",
     "url": "https://www.capitolbio.se/filmer/a-star-is-born-1976/1305",
     "title": "A Star Is Born (1976)",
@@ -78,15 +27,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-26T07:20:35.798940+00:00",
+    "scraped_at": "2026-04-27T08:11:15.769596+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 19610,
       "title": "A Star Is Born",
       "overview": "Drunken, has-been rock star John Norman Howard falls in love with unknown singer Esther Hoffman after seeing her perform at a club. He lets her sing a few songs at one of his shows and she becomes the talk of the music industry. Esther's star begins to rise, while John's continues to fall. She tries desperately to get John to sober up and focus on his music, but it may be too late to save him.",
       "release_date": "1976-12-17",
-      "rating": 6.0,
-      "vote_count": 237,
+      "rating": 5.983,
+      "vote_count": 238,
       "genres": [
         "Drama",
         "Music",
@@ -130,23 +79,23 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-26T07:20:35.798957+00:00",
+    "scraped_at": "2026-04-27T08:11:15.769648+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 16642,
       "title": "Days of Heaven",
       "overview": "In 1916, a Chicago steel worker accidentally kills his supervisor and flees to the Texas panhandle with his girlfriend and little sister to work harvesting wheat in the fields of a stoic farmer.",
       "release_date": "1978-09-13",
-      "rating": 7.5,
-      "vote_count": 1159,
+      "rating": 7.467,
+      "vote_count": 1161,
       "genres": [
         "Drama",
         "Romance"
       ],
       "poster_path": "/rwxTYjOZmX2rGhz7avLe1qsjNqe.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/rwxTYjOZmX2rGhz7avLe1qsjNqe.jpg",
-      "backdrop_path": "/uD8cCU8q5VrN3iHDJlCJQKGshJu.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/uD8cCU8q5VrN3iHDJlCJQKGshJu.jpg",
+      "backdrop_path": "/zUqIL6H6d44se9ZOsfvvCuOsbap.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/zUqIL6H6d44se9ZOsfvvCuOsbap.jpg",
       "imdb_id": "tt0077405",
       "runtime": 94,
       "budget": 3000000,
@@ -181,7 +130,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-26T07:20:35.798979+00:00",
+    "scraped_at": "2026-04-27T08:11:15.769666+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9003,
@@ -232,15 +181,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-26T07:20:35.798995+00:00",
+    "scraped_at": "2026-04-27T08:11:15.769682+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 24961,
       "title": "The Wiz",
       "overview": "Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home.",
       "release_date": "1978-10-24",
-      "rating": 6.1,
-      "vote_count": 294,
+      "rating": 6.086,
+      "vote_count": 296,
       "genres": [
         "Music",
         "Fantasy",
@@ -284,7 +233,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-26T07:20:35.799013+00:00",
+    "scraped_at": "2026-04-27T08:11:15.769698+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10654,
@@ -336,7 +285,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-26T07:20:35.799029+00:00",
+    "scraped_at": "2026-04-27T08:11:15.769718+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9603,
@@ -357,6 +306,56 @@
       "runtime": 97,
       "budget": 12000000,
       "revenue": 56631572
+    }
+  },
+  {
+    "film_id": "studio-ghibli-grave-of-the-fireflies-jap-tal-eng-text",
+    "url": "https://www.capitolbio.se/filmer/studio-ghibli-grave-of-the-fireflies-jap-tal-eng-text/4435",
+    "title": "Studio Ghibli: Grave of the Fireflies (jap. tal, eng. text)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Japansk anime från Studio Ghibli från 1988, en av alla tiders starkaste anti-krigsfilmer\n\nIngår i Temat: Anime - Världsbyggen i världsklass, hissnande miljöer och några av de mest spännande filmer som gjorts. \n\nVi möter två barn, i en sönderbombad stad i andra världskrigets slutskede. I öppningsscenen säger storebror Seita: '21 september 1945, det var dagen då jag dog...' och sedan färdas vi tillbaka i tiden och får följa de två syskonens kamp för överlevnad. De två föräldralösa flyr brandbombningarna och hamnar hos en släkting, men behandlas så illa att storebror Seita bestämmer att han och hans lilla syster ska klara sig själva.\n\nNär filmen visades i Japan sägs det att de mest lyckade aftnarna var när Grave of the Fireflies fick inleda och fånga biopubliken med sitt gripande drama, för att sedan låta åskådarna torka sina tårar och le åt Hayao Miyazakis Min granne Totoro. Precis på detta sätt tänker vi visa filmerna den 30 maj. Välkomna!",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4435/1920/ea9cefdc-d731-4585-881c-2e02e9c6f024.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-05-30T12:10:00",
+        "display_text": "Saturday 30 May 2026 at 12:10",
+        "time": "12:10",
+        "date_section": "30.05",
+        "ticket_url": "https://www.capitolbio.se/boka/50653",
+        "booking_id": "50653",
+        "hall": "Salong 1",
+        "audio_language": "JP",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-05-30T12:10:00",
+        "normalized_date": "30.05",
+        "normalized_time": "12:10"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-04-27T08:11:15.769733+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 76826,
+      "title": "Grave of the Fireflies",
+      "overview": "Hisako loses her home in Tokyo to Allied bombing. With her husband fighting somewhere in Asia, she and her two children evacuate to a suburb of Kobe, where they share a house with Hisako's cousin, Kyoko. Kobe is bombed and Kyoko is killed. Hisako is forced to take care of Kyoko's two children in addition to her own, but there is not enough food for everyone.",
+      "release_date": "2005-11-01",
+      "rating": 7.9,
+      "vote_count": 113,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/im6u58cPa9HlH5DqSnZGy0O37l5.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/im6u58cPa9HlH5DqSnZGy0O37l5.jpg",
+      "backdrop_path": "/pgWLJI42GG98S1DqjTELLtB7VPB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pgWLJI42GG98S1DqjTELLtB7VPB.jpg",
+      "imdb_id": "tt0491652",
+      "runtime": 148,
+      "budget": 0,
+      "revenue": 0
     }
   }
 ]

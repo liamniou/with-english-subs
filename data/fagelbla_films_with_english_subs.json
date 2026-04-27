@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-26T07:21:52.066062+00:00",
+    "scraped_at": "2026-04-27T08:12:24.819779+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-26T07:21:52.066543+00:00",
+    "scraped_at": "2026-04-27T08:12:24.820243+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -115,14 +115,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-26T07:21:52.066855+00:00",
+    "scraped_at": "2026-04-27T08:12:24.820570+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.1,
+      "rating": 8.133,
       "vote_count": 2390,
       "genres": [
         "Drama"
@@ -160,14 +160,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-26T07:21:52.066982+00:00",
+    "scraped_at": "2026-04-27T08:12:24.820708+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
       "title": "Smiles of a Summer Night",
       "overview": "Early in the 20th century, middle-aged lawyer Fredrik Egerman and his young wife, Anne, have still not consummated their marriage, while Fredrik's son finds himself increasingly attracted to his new stepmother. To make matters worse, Fredrik's old flame Desiree makes a public bet that she can seduce him at a romantic weekend retreat where four couples convene, swapping partners and pairing off in unexpected ways.",
       "release_date": "1955-12-26",
-      "rating": 7.413,
+      "rating": 7.4,
       "vote_count": 269,
       "genres": [
         "Comedy",
@@ -206,7 +206,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-26T07:21:52.067128+00:00",
+    "scraped_at": "2026-04-27T08:12:24.820814+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
@@ -214,7 +214,7 @@
       "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
       "release_date": "1957-08-28",
       "rating": 8.078,
-      "vote_count": 1793,
+      "vote_count": 1794,
       "genres": [
         "Drama"
       ],
