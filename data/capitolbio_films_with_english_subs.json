@@ -1,57 +1,5 @@
 [
   {
-    "film_id": "a-star-is-born-1976",
-    "url": "https://www.capitolbio.se/filmer/a-star-is-born-1976/1305",
-    "title": "A Star Is Born (1976)",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Barbra Streisand i A Star Is Born\n\nRockstjärna i utförsbacken upptäcker talangfull sångerska och gör henne till stjärna, allt eftersom hans egen karriär dalar allt mer med Barbra Streisand och Kris Kristofferson i huvudrollerna.\nFilmen vann en Oscar för bästa originalmusik, den tilldelades Barbra Streisand och Paul Williams för låten Evergreen.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/1305/1920/b9d4d7e4-accd-43ab-a60d-6c12de8edeee.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-04-27T17:45:00",
-        "display_text": "Monday 27 April 2026 at 17:45",
-        "time": "17:45",
-        "date_section": "27.04",
-        "ticket_url": "https://www.capitolbio.se/boka/49605",
-        "booking_id": "49605",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-04-27T17:45:00",
-        "normalized_date": "27.04",
-        "normalized_time": "17:45"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-04-27T08:11:15.769596+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 19610,
-      "title": "A Star Is Born",
-      "overview": "Drunken, has-been rock star John Norman Howard falls in love with unknown singer Esther Hoffman after seeing her perform at a club. He lets her sing a few songs at one of his shows and she becomes the talk of the music industry. Esther's star begins to rise, while John's continues to fall. She tries desperately to get John to sober up and focus on his music, but it may be too late to save him.",
-      "release_date": "1976-12-17",
-      "rating": 5.983,
-      "vote_count": 238,
-      "genres": [
-        "Drama",
-        "Music",
-        "Romance"
-      ],
-      "poster_path": "/3Hr63lBDhvYGpSd8HxDpWvowZpY.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3Hr63lBDhvYGpSd8HxDpWvowZpY.jpg",
-      "backdrop_path": "/kPn4M9dw7raRVQt2UPOWY0j2k0o.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kPn4M9dw7raRVQt2UPOWY0j2k0o.jpg",
-      "imdb_id": "tt0075265",
-      "runtime": 140,
-      "budget": 6000000,
-      "revenue": 80000000
-    }
-  },
-  {
     "film_id": "days-of-heaven-1978",
     "url": "https://www.capitolbio.se/filmer/days-of-heaven-1978/4393",
     "title": "Days of Heaven (1978)",
@@ -79,15 +27,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-27T08:11:15.769648+00:00",
+    "scraped_at": "2026-04-28T08:13:02.649881+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 16642,
       "title": "Days of Heaven",
       "overview": "In 1916, a Chicago steel worker accidentally kills his supervisor and flees to the Texas panhandle with his girlfriend and little sister to work harvesting wheat in the fields of a stoic farmer.",
       "release_date": "1978-09-13",
-      "rating": 7.467,
-      "vote_count": 1161,
+      "rating": 7.466,
+      "vote_count": 1162,
       "genres": [
         "Drama",
         "Romance"
@@ -130,14 +78,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-27T08:11:15.769666+00:00",
+    "scraped_at": "2026-04-28T08:13:02.649926+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9003,
       "title": "Hellraiser",
       "overview": "A hedonistic man finds a mysterious puzzle box that summons a group of gruesome beings known as the Cenobites. These otherworldly entities open the doors to a dominion where pain and pleasure are indivisible.",
       "release_date": "1987-09-11",
-      "rating": 6.876,
+      "rating": 6.9,
       "vote_count": 2836,
       "genres": [
         "Horror",
@@ -181,14 +129,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-27T08:11:15.769682+00:00",
+    "scraped_at": "2026-04-28T08:13:02.649942+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 24961,
       "title": "The Wiz",
       "overview": "Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home.",
       "release_date": "1978-10-24",
-      "rating": 6.086,
+      "rating": 6.1,
       "vote_count": 296,
       "genres": [
         "Music",
@@ -233,7 +181,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-27T08:11:15.769698+00:00",
+    "scraped_at": "2026-04-28T08:13:02.649957+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10654,
@@ -285,7 +233,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-27T08:11:15.769718+00:00",
+    "scraped_at": "2026-04-28T08:13:02.649984+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9603,
@@ -293,7 +241,7 @@
       "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him.",
       "release_date": "1995-07-19",
       "rating": 7.25,
-      "vote_count": 4766,
+      "vote_count": 4767,
       "genres": [
         "Comedy",
         "Romance"
@@ -306,56 +254,6 @@
       "runtime": 97,
       "budget": 12000000,
       "revenue": 56631572
-    }
-  },
-  {
-    "film_id": "studio-ghibli-grave-of-the-fireflies-jap-tal-eng-text",
-    "url": "https://www.capitolbio.se/filmer/studio-ghibli-grave-of-the-fireflies-jap-tal-eng-text/4435",
-    "title": "Studio Ghibli: Grave of the Fireflies (jap. tal, eng. text)",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Japansk anime från Studio Ghibli från 1988, en av alla tiders starkaste anti-krigsfilmer\n\nIngår i Temat: Anime - Världsbyggen i världsklass, hissnande miljöer och några av de mest spännande filmer som gjorts. \n\nVi möter två barn, i en sönderbombad stad i andra världskrigets slutskede. I öppningsscenen säger storebror Seita: '21 september 1945, det var dagen då jag dog...' och sedan färdas vi tillbaka i tiden och får följa de två syskonens kamp för överlevnad. De två föräldralösa flyr brandbombningarna och hamnar hos en släkting, men behandlas så illa att storebror Seita bestämmer att han och hans lilla syster ska klara sig själva.\n\nNär filmen visades i Japan sägs det att de mest lyckade aftnarna var när Grave of the Fireflies fick inleda och fånga biopubliken med sitt gripande drama, för att sedan låta åskådarna torka sina tårar och le åt Hayao Miyazakis Min granne Totoro. Precis på detta sätt tänker vi visa filmerna den 30 maj. Välkomna!",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4435/1920/ea9cefdc-d731-4585-881c-2e02e9c6f024.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-05-30T12:10:00",
-        "display_text": "Saturday 30 May 2026 at 12:10",
-        "time": "12:10",
-        "date_section": "30.05",
-        "ticket_url": "https://www.capitolbio.se/boka/50653",
-        "booking_id": "50653",
-        "hall": "Salong 1",
-        "audio_language": "JP",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-05-30T12:10:00",
-        "normalized_date": "30.05",
-        "normalized_time": "12:10"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-04-27T08:11:15.769733+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 76826,
-      "title": "Grave of the Fireflies",
-      "overview": "Hisako loses her home in Tokyo to Allied bombing. With her husband fighting somewhere in Asia, she and her two children evacuate to a suburb of Kobe, where they share a house with Hisako's cousin, Kyoko. Kobe is bombed and Kyoko is killed. Hisako is forced to take care of Kyoko's two children in addition to her own, but there is not enough food for everyone.",
-      "release_date": "2005-11-01",
-      "rating": 7.9,
-      "vote_count": 113,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/im6u58cPa9HlH5DqSnZGy0O37l5.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/im6u58cPa9HlH5DqSnZGy0O37l5.jpg",
-      "backdrop_path": "/pgWLJI42GG98S1DqjTELLtB7VPB.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pgWLJI42GG98S1DqjTELLtB7VPB.jpg",
-      "imdb_id": "tt0491652",
-      "runtime": 148,
-      "budget": 0,
-      "revenue": 0
     }
   }
 ]

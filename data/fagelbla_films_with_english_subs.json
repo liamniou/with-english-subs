@@ -1,51 +1,5 @@
 [
   {
-    "film_id": "jungfrukällan",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Jungfrukällan",
-    "director": "Ingmar Bergman",
-    "duration": "1h 26 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2026-04-27T17:45:00+02:00",
-        "display_text": "Måndag, 27th April 17:45",
-        "time": "17:45",
-        "date_section": "Måndag, 27th April",
-        "ticket_url": "https://biofagelbla.se/movie/jungfrukallan/?showtime=53403",
-        "showtime_id": "53403",
-        "normalized_datetime": "2026-04-27T17:45:00",
-        "normalized_date": "27.04",
-        "normalized_time": "17:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-04-27T08:12:24.819779+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 11656,
-      "title": "The Virgin Spring",
-      "overview": "Devout Christians Töre and Märeta send their only daughter, the virginal Karin, and their foster daughter, the unrepentant Ingeri, to deliver candles to a distant church. On their way through the woods, the girls encounter a group of savage goat herders who brutally rape and murder Karin as Ingeri remains hidden. When the killers unwittingly seek refuge in the farmhouse of Töre and Märeta, Töre plots a fitting revenge.",
-      "release_date": "1960-02-08",
-      "rating": 7.846,
-      "vote_count": 671,
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "poster_path": "/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
-      "backdrop_path": "/pcBIabUibUmpOBggWckkjohXtiP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pcBIabUibUmpOBggWckkjohXtiP.jpg",
-      "imdb_id": "tt0053976",
-      "runtime": 90,
-      "budget": 0,
-      "revenue": 700000
-    }
-  },
-  {
     "film_id": "breakfast-at-tiffanys",
     "url": "https://biofagelbla.se/program/",
     "title": "Breakfast at Tiffany’s",
@@ -68,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-27T08:12:24.820243+00:00",
+    "scraped_at": "2026-04-28T08:14:24.749909+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -76,7 +30,7 @@
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
       "rating": 7.623,
-      "vote_count": 4459,
+      "vote_count": 4460,
       "genres": [
         "Comedy",
         "Romance",
@@ -115,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-27T08:12:24.820570+00:00",
+    "scraped_at": "2026-04-28T08:14:24.750210+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -123,7 +77,7 @@
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
       "rating": 8.133,
-      "vote_count": 2390,
+      "vote_count": 2391,
       "genres": [
         "Drama"
       ],
@@ -160,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-27T08:12:24.820708+00:00",
+    "scraped_at": "2026-04-28T08:14:24.750336+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
@@ -206,14 +160,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-04-27T08:12:24.820814+00:00",
+    "scraped_at": "2026-04-28T08:14:24.750466+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
       "title": "Wild Strawberries",
       "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
       "release_date": "1957-08-28",
-      "rating": 8.078,
+      "rating": 8.1,
       "vote_count": 1794,
       "genres": [
         "Drama"
