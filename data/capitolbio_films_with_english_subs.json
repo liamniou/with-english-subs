@@ -1,56 +1,5 @@
 [
   {
-    "film_id": "days-of-heaven-1978",
-    "url": "https://www.capitolbio.se/filmer/days-of-heaven-1978/4393",
-    "title": "Days of Heaven (1978)",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Amerikansk mästerverk av Terrence Malick \n\nHimlastormande vacker westernmelodram med Oscarbelönat foto och banbrytande ljudarbete, där Richard Geres hetlevrade säsongsarbetare i 1910-talets Texas försöker lura till sig sin döende chefs rikedomar.\n\nEfter framgången med Det grymma landet kunde Terrence Malick välja och vraka bland erbjudanden. Med växande förtroende och större budget tog han sig an ett melodramatiskt triangeldrama i 1910-talets Texas.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4393/1920/816e60a8-cd28-483c-9923-5c7525697e97.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-04-28T20:00:00",
-        "display_text": "Tuesday 28 April 2026 at 20:00",
-        "time": "20:00",
-        "date_section": "28.04",
-        "ticket_url": "https://www.capitolbio.se/boka/50569",
-        "booking_id": "50569",
-        "hall": "Salong 4",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-04-28T20:00:00",
-        "normalized_date": "28.04",
-        "normalized_time": "20:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-04-28T08:13:02.649881+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 16642,
-      "title": "Days of Heaven",
-      "overview": "In 1916, a Chicago steel worker accidentally kills his supervisor and flees to the Texas panhandle with his girlfriend and little sister to work harvesting wheat in the fields of a stoic farmer.",
-      "release_date": "1978-09-13",
-      "rating": 7.466,
-      "vote_count": 1162,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/rwxTYjOZmX2rGhz7avLe1qsjNqe.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rwxTYjOZmX2rGhz7avLe1qsjNqe.jpg",
-      "backdrop_path": "/zUqIL6H6d44se9ZOsfvvCuOsbap.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/zUqIL6H6d44se9ZOsfvvCuOsbap.jpg",
-      "imdb_id": "tt0077405",
-      "runtime": 94,
-      "budget": 3000000,
-      "revenue": 3700000
-    }
-  },
-  {
     "film_id": "hellraiser-med-per-faxneld",
     "url": "https://www.capitolbio.se/filmer/hellraiser-med-per-faxneld/682",
     "title": "Hellraiser med Per Faxneld",
@@ -78,15 +27,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-28T08:13:02.649926+00:00",
+    "scraped_at": "2026-04-29T08:06:09.463334+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9003,
       "title": "Hellraiser",
       "overview": "A hedonistic man finds a mysterious puzzle box that summons a group of gruesome beings known as the Cenobites. These otherworldly entities open the doors to a dominion where pain and pleasure are indivisible.",
       "release_date": "1987-09-11",
-      "rating": 6.9,
-      "vote_count": 2836,
+      "rating": 6.877,
+      "vote_count": 2838,
       "genres": [
         "Horror",
         "Thriller"
@@ -129,15 +78,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-28T08:13:02.649942+00:00",
+    "scraped_at": "2026-04-29T08:06:09.463388+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 24961,
       "title": "The Wiz",
       "overview": "Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home.",
       "release_date": "1978-10-24",
-      "rating": 6.1,
-      "vote_count": 296,
+      "rating": 6.089,
+      "vote_count": 297,
       "genres": [
         "Music",
         "Fantasy",
@@ -181,7 +130,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-28T08:13:02.649957+00:00",
+    "scraped_at": "2026-04-29T08:06:09.463406+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10654,
@@ -189,7 +138,7 @@
       "overview": "Upon receiving his draft notice and leaving his family ranch in Oklahoma, Claude heads to New York and befriends a tribe of long-haired hippies on his way to boot camp.",
       "release_date": "1979-03-15",
       "rating": 7.265,
-      "vote_count": 729,
+      "vote_count": 731,
       "genres": [
         "Music",
         "Drama",
@@ -233,15 +182,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-28T08:13:02.649984+00:00",
+    "scraped_at": "2026-04-29T08:06:09.463423+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9603,
       "title": "Clueless",
       "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him.",
       "release_date": "1995-07-19",
-      "rating": 7.25,
-      "vote_count": 4767,
+      "rating": 7.251,
+      "vote_count": 4769,
       "genres": [
         "Comedy",
         "Romance"
