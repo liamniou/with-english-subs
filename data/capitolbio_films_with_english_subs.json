@@ -1,56 +1,5 @@
 [
   {
-    "film_id": "hellraiser-med-per-faxneld",
-    "url": "https://www.capitolbio.se/filmer/hellraiser-med-per-faxneld/682",
-    "title": "Hellraiser med Per Faxneld",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Välkommen på esoterisk afton av Hellraiser\n\nFöreläsningen kommer handla om Clive Barkers moderna Faust-myt.\n\nI utkanten av London finns ett hus som stått tomt i många, många år. Där, i vindsrummet, öppnade Frank Cotton den magiska låda han kommit över i Asien. Där gläntade han på locket till helvetet. Där dog han i djävulska plågor. Nu: många, många år senare, flyttar Franks bror in i huset tillsammans med sin fru. Genast känner hon av den kusliga atmosfären och dras till vindsrummet, som av en osynlig kraft. En gestalt lösgör sig ur skuggorna. Det är Frank. Han har återvänt från dödsriket, men för att bli mänsklig igen måsta han få näring. Och näring kan bara komma från människokroppar. Många, många kroppar...",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/682/1920/e5da71af-daa9-4595-a4bd-a65b6065f210.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-04-29T20:15:00",
-        "display_text": "Wednesday 29 April 2026 at 20:15",
-        "time": "20:15",
-        "date_section": "29.04",
-        "ticket_url": "https://www.capitolbio.se/boka/49295",
-        "booking_id": "49295",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-04-29T20:15:00",
-        "normalized_date": "29.04",
-        "normalized_time": "20:15"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-04-29T08:06:09.463334+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 9003,
-      "title": "Hellraiser",
-      "overview": "A hedonistic man finds a mysterious puzzle box that summons a group of gruesome beings known as the Cenobites. These otherworldly entities open the doors to a dominion where pain and pleasure are indivisible.",
-      "release_date": "1987-09-11",
-      "rating": 6.877,
-      "vote_count": 2838,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "poster_path": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
-      "backdrop_path": "/j4irvwRLITgGr6vcP8NIKCUA67y.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/j4irvwRLITgGr6vcP8NIKCUA67y.jpg",
-      "imdb_id": "tt0093177",
-      "runtime": 93,
-      "budget": 1000000,
-      "revenue": 14580380
-    }
-  },
-  {
     "film_id": "musikal-the-wiz-1978",
     "url": "https://www.capitolbio.se/filmer/musikal-the-wiz-1978/4423",
     "title": "Musikal: The Wiz (1978)",
@@ -78,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-29T08:06:09.463388+00:00",
+    "scraped_at": "2026-04-30T08:10:15.072771+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 24961,
@@ -130,7 +79,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-29T08:06:09.463406+00:00",
+    "scraped_at": "2026-04-30T08:10:15.072821+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10654,
@@ -182,15 +131,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-04-29T08:06:09.463423+00:00",
+    "scraped_at": "2026-04-30T08:10:15.072843+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9603,
       "title": "Clueless",
       "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him.",
       "release_date": "1995-07-19",
-      "rating": 7.251,
-      "vote_count": 4769,
+      "rating": 7.25,
+      "vote_count": 4773,
       "genres": [
         "Comedy",
         "Romance"

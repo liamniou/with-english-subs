@@ -27,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-04-29T08:05:59.293404+00:00",
+    "scraped_at": "2026-04-30T08:10:04.289633+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1442922,
@@ -77,7 +77,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-04-29T08:06:00.159854+00:00",
+    "scraped_at": "2026-04-30T08:10:05.152579+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1517117,
@@ -130,15 +130,15 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-04-29T08:06:00.785225+00:00",
+    "scraped_at": "2026-04-30T08:10:05.619942+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1462322,
       "title": "The Last One for the Road",
       "overview": "A couple of jovial life-long drunkards run into a shy architecture undergrad, whose way of seeing things will be transformed as the trio wanders from pub to pub in search of a buried treasure.",
       "release_date": "2025-09-25",
-      "rating": 7.619,
-      "vote_count": 185,
+      "rating": 7.618,
+      "vote_count": 186,
       "genres": [
         "Comedy"
       ],
@@ -180,7 +180,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-04-29T08:06:01.834283+00:00",
+    "scraped_at": "2026-04-30T08:10:06.660174+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1510325,
@@ -230,7 +230,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-04-29T08:06:03.114078+00:00",
+    "scraped_at": "2026-04-30T08:10:07.894270+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1339666,
