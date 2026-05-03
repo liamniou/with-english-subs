@@ -1,52 +1,5 @@
 [
   {
-    "film_id": "breakfast-at-tiffanys",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Breakfast at Tiffany’s",
-    "director": "Blake Edwards",
-    "duration": "1h 55 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2026-05-02T10:30:00+02:00",
-        "display_text": "Lördag, 2nd Maj 10:30",
-        "time": "10:30",
-        "date_section": "Lördag, 2nd Maj",
-        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=55849",
-        "showtime_id": "55849",
-        "normalized_datetime": "2026-05-02T10:30:00",
-        "normalized_date": "02.05",
-        "normalized_time": "10:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-05-02T07:24:13.585948+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 164,
-      "title": "Breakfast at Tiffany's",
-      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
-      "release_date": "1961-10-06",
-      "rating": 7.624,
-      "vote_count": 4461,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "imdb_id": "tt0054698",
-      "runtime": 115,
-      "budget": 2500000,
-      "revenue": 9500000
-    }
-  },
-  {
     "film_id": "persona",
     "url": "https://biofagelbla.se/program/",
     "title": "Persona",
@@ -69,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-05-02T07:24:13.586305+00:00",
+    "scraped_at": "2026-05-03T07:53:13.881007+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -77,7 +30,7 @@
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
       "rating": 8.133,
-      "vote_count": 2393,
+      "vote_count": 2395,
       "genres": [
         "Drama"
       ],
@@ -114,15 +67,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-05-02T07:24:13.586882+00:00",
+    "scraped_at": "2026-05-03T07:53:13.881617+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
       "title": "Smiles of a Summer Night",
       "overview": "Early in the 20th century, middle-aged lawyer Fredrik Egerman and his young wife, Anne, have still not consummated their marriage, while Fredrik's son finds himself increasingly attracted to his new stepmother. To make matters worse, Fredrik's old flame Desiree makes a public bet that she can seduce him at a romantic weekend retreat where four couples convene, swapping partners and pairing off in unexpected ways.",
       "release_date": "1955-12-26",
-      "rating": 7.415,
-      "vote_count": 270,
+      "rating": 7.417,
+      "vote_count": 271,
       "genres": [
         "Comedy",
         "Romance"
@@ -160,15 +113,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-05-02T07:24:13.587038+00:00",
+    "scraped_at": "2026-05-03T07:53:13.881809+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
       "title": "Wild Strawberries",
       "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
       "release_date": "1957-08-28",
-      "rating": 8.079,
-      "vote_count": 1796,
+      "rating": 8.08,
+      "vote_count": 1797,
       "genres": [
         "Drama"
       ],

@@ -27,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-05-02T07:23:18.852220+00:00",
+    "scraped_at": "2026-05-03T07:52:23.168799+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 24961,
@@ -79,15 +79,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-05-02T07:23:18.852289+00:00",
+    "scraped_at": "2026-05-03T07:52:23.168852+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10654,
       "title": "Hair",
       "overview": "Upon receiving his draft notice and leaving his family ranch in Oklahoma, Claude heads to New York and befriends a tribe of long-haired hippies on his way to boot camp.",
       "release_date": "1979-03-15",
-      "rating": 7.265,
-      "vote_count": 731,
+      "rating": 7.3,
+      "vote_count": 732,
       "genres": [
         "Music",
         "Drama",
@@ -131,15 +131,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-05-02T07:23:18.852307+00:00",
+    "scraped_at": "2026-05-03T07:52:23.168870+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9603,
       "title": "Clueless",
       "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him.",
       "release_date": "1995-07-19",
-      "rating": 7.25,
-      "vote_count": 4775,
+      "rating": 7.251,
+      "vote_count": 4777,
       "genres": [
         "Comedy",
         "Romance"
