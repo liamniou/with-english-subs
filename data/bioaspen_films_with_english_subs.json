@@ -26,15 +26,15 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-05-03T07:52:08.617388+00:00",
+    "scraped_at": "2026-05-04T08:21:47.256368+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1465563,
       "title": "A Poet",
       "overview": "An aging poet finds purpose mentoring Yurlady, a talented teen, though exposing her to the poetry scene might be unwise. His own poetic pursuits led nowhere, leaving him a stereotypical obscure writer.",
       "release_date": "2025-08-28",
-      "rating": 7.817,
-      "vote_count": 30,
+      "rating": 7.823,
+      "vote_count": 31,
       "genres": [
         "Comedy",
         "Drama"

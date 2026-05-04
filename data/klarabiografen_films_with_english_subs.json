@@ -1,67 +1,5 @@
 [
   {
-    "film_id": "audience-west-end",
-    "url": "https://kulturhusetstadsteatern.se/bio/audience-west-end",
-    "title": "The Audience (West End)",
-    "director": "",
-    "duration": "2 tim 53 min inkl 1 paus",
-    "language": "",
-    "description": "The Audience med Helen Mirren visades för första gången på bio år 2013, nu återvänder äntligen denna succé till biograferna igen. Mirren gör rollen som drottning Elizabeth II, regisserad av Stephen Daldry.",
-    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-03/The-Audience_A3.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-05-03T14:00:00+02:00",
-        "display_text": "Sunday 3 May 2026 at 14:00",
-        "time": "14:00",
-        "date_section": "03.05",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/29783/122594/",
-        "tix_event_id": 122594,
-        "tix_event_group_id": 29783,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-05-03T14:00:00",
-        "normalized_date": "03.05",
-        "normalized_time": "14:00"
-      },
-      {
-        "datetime": "2026-08-28T18:00:00+02:00",
-        "display_text": "Friday 28 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "28.08",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/29783/122595/",
-        "tix_event_id": 122595,
-        "tix_event_group_id": 29783,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-08-28T18:00:00",
-        "normalized_date": "28.08",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Klarabiografen"
-    ],
-    "scraped_at": "2026-05-03T07:53:15.113061+00:00",
-    "source": "klarabiografen",
-    "tmdb": {
-      "id": 435217,
-      "title": "Offending the Audience",
-      "overview": "Four actors analyze the nature of theatre for an hour and then alternately insult the audience and praise its “performance.” TV recording of the premiere at the \"Theater am Turm\" in Frankfurt/Main.",
-      "release_date": "1966-09-27",
-      "rating": 9.0,
-      "vote_count": 1,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": null,
-      "poster_url": null,
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt0488774",
-      "runtime": 0,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "sand-castles-qa-ukraine-film-now",
     "url": "https://kulturhusetstadsteatern.se/bio/sand-castles-qa-ukraine-film-now",
     "title": "Sand Castles + Q&A (Ukraine Film Now)",
@@ -88,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-03T07:53:15.113403+00:00",
+    "scraped_at": "2026-05-04T08:23:00.830863+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 266425,
@@ -152,7 +90,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-03T07:53:15.113578+00:00",
+    "scraped_at": "2026-05-04T08:23:00.831059+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 692562,
@@ -201,15 +139,15 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-03T07:53:15.113897+00:00",
+    "scraped_at": "2026-05-04T08:23:00.831341+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1454209,
       "title": "National Theatre Live: Inter Alia",
       "overview": "Jessica Parks is a smart Crown Court Judge at the top of her career. Behind the robe, she is a karaoke fiend, loving wife and a supportive parent. When an event threatens to throw her life completely off balance, can she hold her family upright?",
       "release_date": "2025-09-25",
-      "rating": 8.0,
-      "vote_count": 4,
+      "rating": 8.2,
+      "vote_count": 5,
       "genres": [
         "Drama"
       ],
@@ -250,7 +188,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-03T07:53:15.113919+00:00",
+    "scraped_at": "2026-05-04T08:23:00.831363+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1507573,
@@ -300,7 +238,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-03T07:53:15.113951+00:00",
+    "scraped_at": "2026-05-04T08:23:00.831391+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 45166,
@@ -318,6 +256,55 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/bvDSGW50jvDvbiWhxKMYp0YEHEP.jpg",
       "imdb_id": "tt0040087",
       "runtime": 94,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "audience-west-end",
+    "url": "https://kulturhusetstadsteatern.se/bio/audience-west-end",
+    "title": "The Audience (West End)",
+    "director": "",
+    "duration": "2 tim 53 min inkl 1 paus",
+    "language": "",
+    "description": "The Audience med Helen Mirren visades för första gången på bio år 2013, nu återvänder äntligen denna succé till biograferna igen. Mirren gör rollen som drottning Elizabeth II, regisserad av Stephen Daldry.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-03/The-Audience_A3.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-28T18:00:00+02:00",
+        "display_text": "Friday 28 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "28.08",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/29783/122595/",
+        "tix_event_id": 122595,
+        "tix_event_group_id": 29783,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-08-28T18:00:00",
+        "normalized_date": "28.08",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-05-04T08:23:00.831403+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 435217,
+      "title": "Offending the Audience",
+      "overview": "Four actors analyze the nature of theatre for an hour and then alternately insult the audience and praise its “performance.” TV recording of the premiere at the \"Theater am Turm\" in Frankfurt/Main.",
+      "release_date": "1966-09-27",
+      "rating": 9.0,
+      "vote_count": 1,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": null,
+      "poster_url": null,
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt0488774",
+      "runtime": 0,
       "budget": 0,
       "revenue": 0
     }
@@ -362,15 +349,15 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-03T07:53:15.114017+00:00",
+    "scraped_at": "2026-05-04T08:23:00.831454+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
       "title": "Dangerous Liaisons",
       "overview": "The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.",
       "release_date": "2022-07-08",
-      "rating": 5.877,
-      "vote_count": 317,
+      "rating": 5.873,
+      "vote_count": 318,
       "genres": [
         "Drama",
         "Romance"
