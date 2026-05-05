@@ -1,50 +1,5 @@
 [
   {
-    "film_id": "persona",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Persona",
-    "director": "Ingmar Bergman",
-    "duration": "1h 24 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2026-05-04T17:45:00+02:00",
-        "display_text": "Måndag, 4th Maj 17:45",
-        "time": "17:45",
-        "date_section": "Måndag, 4th Maj",
-        "ticket_url": "https://biofagelbla.se/movie/persona/?showtime=53404",
-        "showtime_id": "53404",
-        "normalized_datetime": "2026-05-04T17:45:00",
-        "normalized_date": "04.05",
-        "normalized_time": "17:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-05-04T08:22:59.325611+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 797,
-      "title": "Persona",
-      "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
-      "release_date": "1966-10-18",
-      "rating": 8.133,
-      "vote_count": 2395,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/yPTntWP9Wvew8vHN0jB7Z1EvEUN.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yPTntWP9Wvew8vHN0jB7Z1EvEUN.jpg",
-      "backdrop_path": "/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
-      "imdb_id": "tt0060827",
-      "runtime": 84,
-      "budget": 0,
-      "revenue": 250000
-    }
-  },
-  {
     "film_id": "sommarnattens-leende",
     "url": "https://biofagelbla.se/program/",
     "title": "Sommarnattens leende",
@@ -67,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-05-04T08:22:59.326273+00:00",
+    "scraped_at": "2026-05-05T08:00:09.043478+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
@@ -113,7 +68,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-05-04T08:22:59.326449+00:00",
+    "scraped_at": "2026-05-05T08:00:09.044514+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
@@ -121,7 +76,7 @@
       "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
       "release_date": "1957-08-28",
       "rating": 8.08,
-      "vote_count": 1797,
+      "vote_count": 1798,
       "genres": [
         "Drama"
       ],
@@ -133,6 +88,53 @@
       "runtime": 91,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "breakfast-at-tiffanys",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Breakfast at Tiffany’s",
+    "director": "Blake Edwards",
+    "duration": "1h 55 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-05-30T10:30:00+02:00",
+        "display_text": "Lördag, 30th Maj 10:30",
+        "time": "10:30",
+        "date_section": "Lördag, 30th Maj",
+        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=56575",
+        "showtime_id": "56575",
+        "normalized_datetime": "2026-05-30T10:30:00",
+        "normalized_date": "30.05",
+        "normalized_time": "10:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-05-05T08:00:09.044832+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 164,
+      "title": "Breakfast at Tiffany's",
+      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+      "release_date": "1961-10-06",
+      "rating": 7.624,
+      "vote_count": 4463,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "imdb_id": "tt0054698",
+      "runtime": 115,
+      "budget": 2500000,
+      "revenue": 9500000
     }
   }
 ]
