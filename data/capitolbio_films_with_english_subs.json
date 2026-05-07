@@ -1,57 +1,5 @@
 [
   {
-    "film_id": "musikal-the-wiz-1978",
-    "url": "https://www.capitolbio.se/filmer/musikal-the-wiz-1978/4423",
-    "title": "Musikal: The Wiz (1978)",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Musikal med Michael Jackson\n\nIngår i Temat: Musik & musikaler är Capitols äldsta och mest älskade filmtema. Se, se om några av världens bästa musikfilmer.\n\nFölj med när Dorothy förs bort till det förtrollande underlandet Oz, med spektakulära musiknummer av Diana Ross och Michael Jackson.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4423/1920/14f9beef-3684-4d61-8303-df1cb8a0024c.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-05-06T18:00:00",
-        "display_text": "Wednesday 6 May 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "06.05",
-        "ticket_url": "https://www.capitolbio.se/boka/50380",
-        "booking_id": "50380",
-        "hall": "Salong 4",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-05-06T18:00:00",
-        "normalized_date": "06.05",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-05-06T08:14:08.468356+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 24961,
-      "title": "The Wiz",
-      "overview": "Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home.",
-      "release_date": "1978-10-24",
-      "rating": 6.089,
-      "vote_count": 297,
-      "genres": [
-        "Music",
-        "Fantasy",
-        "Adventure"
-      ],
-      "poster_path": "/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
-      "backdrop_path": "/9MPp7ItBHrxAPw4V4jq79L18YhD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9MPp7ItBHrxAPw4V4jq79L18YhD.jpg",
-      "imdb_id": "tt0078504",
-      "runtime": 134,
-      "budget": 24000000,
-      "revenue": 21049053
-    }
-  },
-  {
     "film_id": "singalong-hair",
     "url": "https://www.capitolbio.se/filmer/singalong-hair/4238",
     "title": "Singalong: Hair",
@@ -79,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-05-06T08:14:08.468411+00:00",
+    "scraped_at": "2026-05-07T08:24:28.106692+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10654,
@@ -131,7 +79,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-05-06T08:14:08.468433+00:00",
+    "scraped_at": "2026-05-07T08:24:28.106760+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9603,
