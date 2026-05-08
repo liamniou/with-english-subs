@@ -1,55 +1,5 @@
 [
   {
-    "film_id": "a-year-of-school",
-    "url": "https://www.biobristol.se/f/a-year-of-school/460",
-    "title": "A Year of School",
-    "director": "Laura Samani",
-    "duration": "103 min",
-    "language": "Italienska",
-    "description": "Talangbesök av Stella Wendick som deltar i en Q&A med publiken!\n\nSeptember 2007, Trieste. Fred, an exuberant and fearless eighteen-year-old Swede, arrives in the city to attend her final year at a technical institute. She finds herself the only girl in an all-male class and quickly becomes the center of attention, especially for three friends: Antero, charming and reserved; Pasini, a flamboyant seducer; and Mitis, a kind-hearted protector. The three have been inseparable for as long as they can remember.\n\nSettembre 2007, Trieste. Fred, diciottenne svedese esuberante e coraggiosa, arriva in città per frequentare l’ultimo anno di un Istituto Tecnico. Si ritrova a essere l’unica ragazza in una classe di soli maschi e catalizza l’attenzione di tutti, in particolare quella di tre amici: Antero, affascinante e riservato; Pasini, seduttore istrionico; Mitis, bonaccione protettivo. I tre sono legati tra loro da quando hanno memoria. L’arrivo di Fred sconvolge il loro equilibrio, mettendo a dura prova la loro amicizia. Mentre ognuno di loro la desidera segretamente per sé, Fred vuole essere ammessa nel gruppo, ma le viene chiesto continuamente di sacrificare qualcosa di sé per diventare una di loro.\n\nDet är september 2007 i italienska Trieste. Artonåriga Fred, en livlig svensk tjej, flyttar till Italien för att läsa sista året på ett teknikgymnasium. Som enda tjej i en klass full av killar drar hon åt sig allas uppmärksamhet, och framförallt tre vänners: den fascinerande och tillbakadragna Antero, den uppmärkssamhetssökande casanovan Pasini och den beskyddande snällisen Mitis. De tre grabbarna har hängt ihop så länge de kan minnas. Freds ankomst sätter deras vänskap i gungning. Alla vill i hemlighet ha Fred för sig själv och hon vill bara få vara en del av gruppen men accepteras inte helt utan att ge upp delar av sig själv.",
-    "poster_url": "https://images.filmgrail.com/1776957513810?optimizer=image&width=1200",
-    "showtimes": [
-      {
-        "datetime": "2026-05-07T18:00:00",
-        "display_text": "Thursday 7 May 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "07.05",
-        "ticket_url": "https://www.biobristol.se/checkout?showId=69eaa0b687ba4698411b07a0",
-        "show_id": "69eaa0b687ba4698411b07a0",
-        "hall": "Sal 1",
-        "audio_language": "",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-05-07T18:00:00",
-        "normalized_date": "07.05",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Bristol"
-    ],
-    "scraped_at": "2026-05-07T08:24:16.606410+00:00",
-    "source": "biobristol",
-    "tmdb": {
-      "id": 1442922,
-      "title": "A Year of School",
-      "overview": "2007. Fred, a 17-year-old girl who just moved from Sweden to Northeast Italy, enrolls for her high school senior year—finding herself the only female student in an all-male class. Lively and good-looking, she quickly becomes the center of attention, especially for three classmates: Antero, charming and reserved; Pasini, a cocky womanizer; Mitis, gruff and sagacious. The three have been best friends for as long as they can remember, but Fred's arrival puts their longstanding bond to the test. As each of the guys secretly desires Fred for himself, she yearns to be accepted into the group and be considered 'one of them', but is asked to sacrifice more and more in order to belong.",
-      "release_date": "2026-04-09",
-      "rating": 7.346,
-      "vote_count": 13,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/6Oha80OEhmtnDwlRYrdvLXP0mmo.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Oha80OEhmtnDwlRYrdvLXP0mmo.jpg",
-      "backdrop_path": "/2stEL3ibnjg9B9Rjr0U4CyuYc5Z.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2stEL3ibnjg9B9Rjr0U4CyuYc5Z.jpg",
-      "imdb_id": "tt31778123",
-      "runtime": 102,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "orfeo",
     "url": "https://www.biobristol.se/f/orfeo/461",
     "title": "Orfeo",
@@ -77,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-05-07T08:24:17.379797+00:00",
+    "scraped_at": "2026-05-08T07:20:22.656990+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1517117,
@@ -130,15 +80,15 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-05-07T08:24:17.878310+00:00",
+    "scraped_at": "2026-05-08T07:20:23.164733+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1462322,
       "title": "The Last One for the Road",
       "overview": "A couple of jovial life-long drunkards run into a shy architecture undergrad, whose way of seeing things will be transformed as the trio wanders from pub to pub in search of a buried treasure.",
       "release_date": "2025-09-25",
-      "rating": 7.6,
-      "vote_count": 188,
+      "rating": 7.584,
+      "vote_count": 190,
       "genres": [
         "Comedy"
       ],
@@ -180,7 +130,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-05-07T08:24:18.775953+00:00",
+    "scraped_at": "2026-05-08T07:20:24.119560+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1510325,
@@ -230,7 +180,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-05-07T08:24:19.448306+00:00",
+    "scraped_at": "2026-05-08T07:20:25.104932+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1339666,
