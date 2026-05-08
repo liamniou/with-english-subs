@@ -59,13 +59,16 @@
           "ticketsSold": 95,
           "ticketsAvailable": 85,
           "isPublished": true
-        }
+        },
+        "normalized_datetime": "2026-05-13T16:00:00",
+        "normalized_date": "13.05",
+        "normalized_time": "16:00"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T13:22:56.003498",
+    "scraped_at": "2026-05-08T11:28:25.737759",
     "source": "biorio"
   },
   {
@@ -130,14 +133,38 @@
           "ticketsSold": 0,
           "ticketsAvailable": 180,
           "isPublished": true
-        }
+        },
+        "normalized_datetime": "2026-06-21T08:30:00",
+        "normalized_date": "21.06",
+        "normalized_time": "08:30"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T13:23:00.140012",
-    "source": "biorio"
+    "scraped_at": "2026-05-08T11:28:31.056024",
+    "source": "biorio",
+    "tmdb": {
+      "id": 11291,
+      "title": "The Brothers Lionheart",
+      "overview": "After brothers Jonathan and Crusty pass away, they reunite in Nangijala, the land of eternal spring. Casting a long shadow over their world is the tyrant Tengil, ruler of the country Karmanjaka, where he’s building his new fortress up in the Ancient Mountains.",
+      "release_date": "1977-09-23",
+      "rating": 6.8,
+      "vote_count": 106,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Family"
+      ],
+      "poster_path": "/giPbP2p6R2pnIIETAEmWWhZ4jVJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/giPbP2p6R2pnIIETAEmWWhZ4jVJ.jpg",
+      "backdrop_path": "/8PB8HLRcKjnkUDxm0ELtlwm7XzT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8PB8HLRcKjnkUDxm0ELtlwm7XzT.jpg",
+      "imdb_id": "tt0075790",
+      "runtime": 102,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "nyarsfesten",
@@ -199,7 +226,10 @@
           "ticketsSold": 0,
           "ticketsAvailable": 180,
           "isPublished": true
-        }
+        },
+        "normalized_datetime": "2026-05-15T13:50:00",
+        "normalized_date": "15.05",
+        "normalized_time": "13:50"
       },
       {
         "datetime": "2026-05-18T13:50:00.000Z",
@@ -255,14 +285,37 @@
           "ticketsSold": 0,
           "ticketsAvailable": 180,
           "isPublished": true
-        }
+        },
+        "normalized_datetime": "2026-05-18T13:50:00",
+        "normalized_date": "18.05",
+        "normalized_time": "13:50"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T13:23:04.086232",
-    "source": "biorio"
+    "scraped_at": "2026-05-08T11:28:36.659915",
+    "source": "biorio",
+    "tmdb": {
+      "id": 1541356,
+      "title": "To New Beginnings",
+      "overview": "A group of old friends meets up on New Year's Eve, as they do every year, to celebrate with traditions, memories, and shared rituals. But someone is missing: Martin, who died in a tragic accident years ago. This year, Nomi, Martin's former girlfriend, brings along her new boyfriend, Finn, for the first time. With little sense of which questions are appropriate and a penchant for bringing up sensitive topics, Finn shakes up the close-knit group. It becomes an unforgettable evening that could mean a new beginning for each of them.",
+      "release_date": "2025-11-06",
+      "rating": 7.2,
+      "vote_count": 10,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "poster_path": "/xv0v1XUNhtWOIYBiABc6qcozEy1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xv0v1XUNhtWOIYBiABc6qcozEy1.jpg",
+      "backdrop_path": "/AkpT0jXUNIMZh3QDDPvQlHTgQvo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/AkpT0jXUNIMZh3QDDPvQlHTgQvo.jpg",
+      "imdb_id": "tt38285001",
+      "runtime": 95,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "pojken-och-hagern",
@@ -326,14 +379,38 @@
           "ticketsSold": 0,
           "ticketsAvailable": 180,
           "isPublished": true
-        }
+        },
+        "normalized_datetime": "2026-07-11T08:30:00",
+        "normalized_date": "11.07",
+        "normalized_time": "08:30"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T13:23:11.252372",
-    "source": "biorio"
+    "scraped_at": "2026-05-08T11:28:44.195796",
+    "source": "biorio",
+    "tmdb": {
+      "id": 508883,
+      "title": "The Boy and the Heron",
+      "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
+      "release_date": "2023-07-14",
+      "rating": 7.403,
+      "vote_count": 2610,
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Drama"
+      ],
+      "poster_path": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+      "backdrop_path": "/a0GM57AnJtNi7lMOCamniiyV10W.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/a0GM57AnJtNi7lMOCamniiyV10W.jpg",
+      "imdb_id": "tt6587046",
+      "runtime": 124,
+      "budget": 50000000,
+      "revenue": 294200000
+    }
   },
   {
     "film_id": "the-room",
@@ -397,14 +474,37 @@
           "ticketsSold": 16,
           "ticketsAvailable": 164,
           "isPublished": true
-        }
+        },
+        "normalized_datetime": "2026-08-06T15:30:00",
+        "normalized_date": "06.08",
+        "normalized_time": "15:30"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T13:23:17.942382",
-    "source": "biorio"
+    "scraped_at": "2026-05-08T11:28:52.752972",
+    "source": "biorio",
+    "tmdb": {
+      "id": 17473,
+      "title": "The Room",
+      "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
+      "release_date": "2003-06-27",
+      "rating": 4.0,
+      "vote_count": 1522,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
+      "backdrop_path": "/6OnOH5FIp0ZJQgPlu0ehDfXzVyp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6OnOH5FIp0ZJQgPlu0ehDfXzVyp.jpg",
+      "imdb_id": "tt0368226",
+      "runtime": 100,
+      "budget": 6000000,
+      "revenue": 1752988
+    }
   },
   {
     "film_id": "fantastic-planet",
@@ -466,14 +566,37 @@
           "ticketsSold": 30,
           "ticketsAvailable": 150,
           "isPublished": true
-        }
+        },
+        "normalized_datetime": "2026-05-09T16:10:00",
+        "normalized_date": "09.05",
+        "normalized_time": "16:10"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T13:23:23.539936",
-    "source": "biorio"
+    "scraped_at": "2026-05-08T11:28:59.711000",
+    "source": "biorio",
+    "tmdb": {
+      "id": 16306,
+      "title": "Fantastic Planet",
+      "overview": "On the planet Ygam, the Draags, extremely technologically and spiritually advanced blue humanoids, consider the tiny Oms, human beings descendants of Terra's inhabitants, as ignorant animals. Those who live in slavery are treated as simple pets and used to entertain Draag children; those who live hidden in the hostile wilderness of the planet are periodically hunted and ruthlessly slaughtered as if they were vermin.",
+      "release_date": "1973-12-01",
+      "rating": 7.626,
+      "vote_count": 1094,
+      "genres": [
+        "Animation",
+        "Science Fiction"
+      ],
+      "poster_path": "/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
+      "backdrop_path": "/AwrqoanoZVYoc0MRyE0RiHEKm71.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/AwrqoanoZVYoc0MRyE0RiHEKm71.jpg",
+      "imdb_id": "tt0070544",
+      "runtime": 72,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "summer-wars",
@@ -537,14 +660,37 @@
           "ticketsSold": 23,
           "ticketsAvailable": 157,
           "isPublished": true
-        }
+        },
+        "normalized_datetime": "2026-05-09T08:30:00",
+        "normalized_date": "09.05",
+        "normalized_time": "08:30"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T13:23:25.537535",
-    "source": "biorio"
+    "scraped_at": "2026-05-08T11:29:02.480968",
+    "source": "biorio",
+    "tmdb": {
+      "id": 28874,
+      "title": "Summer Wars",
+      "overview": "Teenage math whiz Kenji Koiso agrees to take a summer job at the Nagano hometown of his crush, Natsuki. When he arrives, he finds that her family have reunited to celebrate the 90th birthday of their matriarch. His job: pretend to be Natsuki's fiancé. Meanwhile, his attempt to solve a mathematical equation causes a parallel world's collision with Earth.",
+      "release_date": "2009-08-01",
+      "rating": 7.447,
+      "vote_count": 1018,
+      "genres": [
+        "Animation",
+        "Science Fiction"
+      ],
+      "poster_path": "/yHy8TrRLnuBZ4t2C0l0pSpRXVHO.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yHy8TrRLnuBZ4t2C0l0pSpRXVHO.jpg",
+      "backdrop_path": "/wSFAoevZuVBo4L9f8NgYSD1o9cQ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/wSFAoevZuVBo4L9f8NgYSD1o9cQ.jpg",
+      "imdb_id": "tt1474276",
+      "runtime": 114,
+      "budget": 0,
+      "revenue": 18434328
+    }
   },
   {
     "film_id": "the-girl-who-leapt-through-time",
@@ -606,7 +752,10 @@
           "ticketsSold": 3,
           "ticketsAvailable": 177,
           "isPublished": true
-        }
+        },
+        "normalized_datetime": "2026-06-11T16:00:00",
+        "normalized_date": "11.06",
+        "normalized_time": "16:00"
       },
       {
         "datetime": "2026-06-14T08:30:00.000Z",
@@ -664,14 +813,39 @@
           "ticketsSold": 6,
           "ticketsAvailable": 174,
           "isPublished": true
-        }
+        },
+        "normalized_datetime": "2026-06-14T08:30:00",
+        "normalized_date": "14.06",
+        "normalized_time": "08:30"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T13:23:27.662638",
-    "source": "biorio"
+    "scraped_at": "2026-05-08T11:29:05.357364",
+    "source": "biorio",
+    "tmdb": {
+      "id": 14069,
+      "title": "The Girl Who Leapt Through Time",
+      "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
+      "release_date": "2006-07-15",
+      "rating": 7.777,
+      "vote_count": 2228,
+      "genres": [
+        "Fantasy",
+        "Animation",
+        "Drama",
+        "Science Fiction"
+      ],
+      "poster_path": "/xHnlWM8BmqY419YUccYy2KC5Jqo.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xHnlWM8BmqY419YUccYy2KC5Jqo.jpg",
+      "backdrop_path": "/3c59KMNs2MYqXUb2GZe8Yfwn4kb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3c59KMNs2MYqXUb2GZe8Yfwn4kb.jpg",
+      "imdb_id": "tt0808506",
+      "runtime": 98,
+      "budget": 0,
+      "revenue": 3478290
+    }
   },
   {
     "film_id": "all-you-need-is-kill",
@@ -733,14 +907,39 @@
           "ticketsSold": 5,
           "ticketsAvailable": 175,
           "isPublished": true
-        }
+        },
+        "normalized_datetime": "2026-05-31T16:00:00",
+        "normalized_date": "31.05",
+        "normalized_time": "16:00"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T13:23:33.222614",
-    "source": "biorio"
+    "scraped_at": "2026-05-08T11:29:12.403524",
+    "source": "biorio",
+    "tmdb": {
+      "id": 1432547,
+      "title": "ALL YOU NEED IS KILL",
+      "overview": "When a massive alien flower known as \"Darol\" unexpectedly erupts in a deadly event, unleashing monstrous creatures that decimate the population of Japan, Rita is caught in the destruction—and killed. But then she wakes up again. And again. Caught in an endless time loop, Rita must navigate the trauma and repetition of death until she crosses paths with Keiji, a shy young man trapped in the same cycle. Together, they fight to break free from the loop and find meaning in the chaos around them.",
+      "release_date": "2026-01-09",
+      "rating": 6.281,
+      "vote_count": 16,
+      "genres": [
+        "Animation",
+        "Action",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "poster_path": "/kznh3ACnXYVyyAYes7JN6i1wy2d.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kznh3ACnXYVyyAYes7JN6i1wy2d.jpg",
+      "backdrop_path": "/4YWX4mRcIFxxtKGJaBlLPhuTMtx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/4YWX4mRcIFxxtKGJaBlLPhuTMtx.jpg",
+      "imdb_id": "tt36148135",
+      "runtime": 86,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "the-amazing-digital-circus-the-last-act",
@@ -802,7 +1001,10 @@
           "ticketsSold": 22,
           "ticketsAvailable": 158,
           "isPublished": true
-        }
+        },
+        "normalized_datetime": "2026-06-05T16:00:00",
+        "normalized_date": "05.06",
+        "normalized_time": "16:00"
       },
       {
         "datetime": "2026-06-06T08:30:00.000Z",
@@ -860,13 +1062,38 @@
           "ticketsSold": 18,
           "ticketsAvailable": 162,
           "isPublished": true
-        }
+        },
+        "normalized_datetime": "2026-06-06T08:30:00",
+        "normalized_date": "06.06",
+        "normalized_time": "08:30"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T13:23:35.527749",
-    "source": "biorio"
+    "scraped_at": "2026-05-08T11:29:15.482597",
+    "source": "biorio",
+    "tmdb": {
+      "id": 1667198,
+      "title": "The Amazing Digital Circus: The Last Act",
+      "overview": "With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus and its history.  Will they come to terms with what they uncover, or will they make… the other choice? Also, presumably at some point someone says something funny, because this ending can’t be THAT depressing, can it? A theatrical screening of episode 8 and the all new, hour-long episode 9.",
+      "release_date": "2026-06-03",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Animation",
+        "Drama",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "poster_path": "/uoZeXWuUS2z2F7VaC1iS5RS5cnk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uoZeXWuUS2z2F7VaC1iS5RS5cnk.jpg",
+      "backdrop_path": "/uETSwIud6TRC7XFW3hLQK5meMg3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/uETSwIud6TRC7XFW3hLQK5meMg3.jpg",
+      "imdb_id": "tt38692727",
+      "runtime": 93,
+      "budget": 0,
+      "revenue": 0
+    }
   }
 ]

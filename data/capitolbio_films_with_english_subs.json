@@ -27,14 +27,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-05-08T07:20:34.511536+00:00",
+    "scraped_at": "2026-05-08T11:29:25.152914+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10654,
       "title": "Hair",
       "overview": "Upon receiving his draft notice and leaving his family ranch in Oklahoma, Claude heads to New York and befriends a tribe of long-haired hippies on his way to boot camp.",
       "release_date": "1979-03-15",
-      "rating": 7.3,
+      "rating": 7.266,
       "vote_count": 732,
       "genres": [
         "Music",
@@ -79,7 +79,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-05-08T07:20:34.511582+00:00",
+    "scraped_at": "2026-05-08T11:29:25.152968+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9603,
