@@ -15,10 +15,12 @@ import re
 
 
 class BioRio:
-    def __init__(self, base_url="https://www.biorio.se/aktuellt"):
+    def __init__(self, base_url="https://www.biorio.se/sv/filmer"):
         """Initialize the Bio Rio scraper."""
         self.base_url = base_url
         self.domain = "https://www.biorio.se"
+        # Additional listing pages to scan (e.g. upcoming films tab)
+        self.list_urls = [base_url, base_url + "?tab=upcoming"]
         
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
@@ -40,28 +42,35 @@ class BioRio:
             return None
     
     def find_movie_links(self, html_content):
-        """Find all movie links from the main page that contain biorio.se/movies/."""
+        """Find all movie links from a listing page that point to /filmer/<slug>."""
         tree = HTMLParser(html_content)
-        
-        # Look for all links containing /movies/
-        all_links = tree.css('a[href*="/movies/"]')
-        
+
+        # The site uses both /filmer/<slug> and /sv/filmer/<slug>
+        all_links = tree.css('a[href*="/filmer/"]')
+
         movie_links = []
         for link in all_links:
             href = link.attributes.get('href')
-            if href:
-                # Make absolute URL
-                if href.startswith('/'):
-                    full_url = self.domain + href
-                elif 'biorio.se' in href:
-                    full_url = href
-                else:
-                    continue
-                
-                # Only include links containing biorio.se/movies/
-                if 'biorio.se' in full_url and '/movies/' in full_url:
-                    movie_links.append(full_url)
-        
+            if not href:
+                continue
+
+            # Make absolute URL
+            if href.startswith('/'):
+                full_url = self.domain + href
+            elif 'biorio.se' in href:
+                full_url = href
+            else:
+                continue
+
+            # Match film detail pages only (skip the listing page itself)
+            m = re.search(r'biorio\.se/(?:sv/)?filmer/([^/?#]+)', full_url)
+            if not m:
+                continue
+            slug = m.group(1)
+            # Normalize to the /sv/filmer/<slug> form
+            normalized = f"{self.domain}/sv/filmer/{slug}"
+            movie_links.append(normalized)
+
         # Remove duplicates while preserving order
         seen = set()
         unique_links = []
@@ -69,64 +78,31 @@ class BioRio:
             if link not in seen:
                 seen.add(link)
                 unique_links.append(link)
-        
+
         return unique_links
+
+    def parse_credits(self, tree):
+        """Parse the .movie-credits-grid into a {label_lower: value} dict."""
+        credits = {}
+        for item in tree.css('.movie-credits-grid .movie-credit-item'):
+            label_el = item.css_first('.movie-credit-label')
+            value_el = item.css_first('.movie-credit-value')
+            if label_el and value_el:
+                credits[label_el.text().strip().lower()] = value_el.text().strip()
+        return credits
     
     def check_for_english_subtitles(self, html_content):
-        """Check if the film page contains 'Engelska' in subtitle section."""
+        """Check if the film page lists 'Engelska' as Undertext."""
         tree = HTMLParser(html_content)
-        
-        # Find all divs in the page
-        all_divs = tree.css('div')
-        
-        for i, div in enumerate(all_divs):
-            div_text = div.text().strip()
-            
-            # Check if this div contains exactly "Undertext"
-            if div_text and div_text.lower() == 'undertext':
-                print(f"  🔍 Found 'Undertext' div")
-                
-                # Get the next div element
-                if i + 1 < len(all_divs):
-                    next_div = all_divs[i + 1]
-                    next_div_text = next_div.text().strip()
-                    
-                    print(f"  📋 Next div text: '{next_div_text}'")
-                    
-                    # Check if the next div contains 'Engelska'
-                    if next_div_text and 'engelska' in next_div_text.lower():
-                        print(f"  ✅ Found English subtitles: {next_div_text}")
-                        return True
-                    elif next_div_text and 'svenska' in next_div_text.lower():
-                        print(f"  ❌ Found Swedish subtitles: {next_div_text}")
-                        # Continue checking other "Undertext" divs
-                    else:
-                        print(f"  ⚠️  Next div after 'Undertext' contains: '{next_div_text}'")
-        
-        # Alternative approach: look for "Undertext" in div text (case-insensitive)
-        for i, div in enumerate(all_divs):
-            div_text = div.text().strip().lower()
-            
-            # Check if this div contains "undertext" (more flexible matching)
-            if 'undertext' in div_text and len(div_text) <= 20:  # Avoid matching large text blocks
-                print(f"  🔍 Found div containing 'undertext': '{div.text().strip()}'")
-                
-                # Get the next div element
-                if i + 1 < len(all_divs):
-                    next_div = all_divs[i + 1]
-                    next_div_text = next_div.text().strip()
-                    
-                    print(f"  📋 Next div text: '{next_div_text}'")
-                    
-                    # Check if the next div contains 'Engelska'
-                    if next_div_text and 'engelska' in next_div_text.lower():
-                        print(f"  ✅ Found English subtitles: {next_div_text}")
-                        return True
-                    elif next_div_text and 'svenska' in next_div_text.lower():
-                        print(f"  ❌ Found Swedish subtitles: {next_div_text}")
-                        # Continue checking other potential "Undertext" divs
-        
-        print(f"  ❌ No English subtitles found")
+        credits = self.parse_credits(tree)
+        subs = credits.get('undertext', '')
+        if subs and 'engelska' in subs.lower():
+            print(f"  ✅ Found English subtitles: {subs}")
+            return True
+        if subs:
+            print(f"  ❌ Subtitles: {subs}")
+        else:
+            print(f"  ❌ No subtitle info found")
         return False
     
     def extract_cinema_id(self, html_content):
@@ -147,28 +123,27 @@ class BioRio:
     
     def extract_movie_id(self, html_content):
         """Extract movie ID from the page source."""
-        import re
         from selectolax.parser import HTMLParser
-        
+
         tree = HTMLParser(html_content)
-        
+
         # Try to find data-movie-id attribute
         movie_id_elements = tree.css('[data-movie-id]')
         if movie_id_elements:
             movie_id = movie_id_elements[0].attributes.get('data-movie-id')
             if movie_id:
                 return movie_id
-        
-        # Alternative: look for movie ID in JavaScript
-        movie_id_match = re.search(r"movieId[:\s]*['\"](\d+)['\"]", html_content)
-        if movie_id_match:
-            return movie_id_match.group(1)
-        
-        # Try to extract from URL patterns
-        movie_id_match = re.search(r"/movies/[^/]*\?.*id=(\d+)", html_content)
-        if movie_id_match:
-            return movie_id_match.group(1)
-        
+
+        # Bio Rio's Next.js payload embeds movieId as JSON; the HTML contains
+        # both raw `"movieId":5822` and escaped `\"movieId\":\"5822\"` forms.
+        for pattern in (
+            r'movieId\\?"\s*:\s*\\?"?(\d+)',
+            r"movieId[:\s]*['\"](\d+)['\"]",
+        ):
+            m = re.search(pattern, html_content)
+            if m:
+                return m.group(1)
+
         return None
     
     def fetch_showtimes_from_api(self, cinema_id, movie_id):
@@ -234,7 +209,7 @@ class BioRio:
                                 'display_text': self.format_api_showtime(showtime),
                                 'movie_id': movie_id,
                                 'cinema_id': cinema_id,
-                                'booking_url': f"https://biorio.se/showtime/{showtime.get('id', '')}",
+                                'booking_url': f"https://www.biorio.se/sv/boka/{showtime.get('id', '')}",
                                 'api_data': showtime
                             }
                             movie_showtimes.append(formatted_showtime)
@@ -271,72 +246,45 @@ class BioRio:
     def extract_film_details(self, html_content, url):
         """Extract film details from individual film page."""
         tree = HTMLParser(html_content)
-        
-        # Extract title from the specified selector
+        credits = self.parse_credits(tree)
+
+        # Extract title from the new movie-title-v2 heading
         title = ""
-        title_selectors = [
-            '#w-node-d87164c5-94a7-e9f7-a217-6196d41cc303-f47a8a01 > div.movie-titlev2 > a',
-            'div.movie-titlev2 > a',
-            '.movie-titlev2 a',
-            'h1',
-            '.movie-title'
-        ]
-        
-        for selector in title_selectors:
-            title_elements = tree.css(selector)
-            if title_elements:
-                title = title_elements[0].text().strip()
-                break
-        
+        for selector in ('h1.movie-title-v2', 'h1', '.movie-titlev2 a', '.movie-title'):
+            els = tree.css(selector)
+            if els:
+                title = els[0].text().strip()
+                if title:
+                    break
+
         # If still no title, try to extract from URL
         if not title:
-            url_parts = url.split('/')
+            url_parts = url.rstrip('/').split('/')
             if url_parts:
                 title = url_parts[-1].replace('-', ' ').title()
-        
-        # Extract director information
-        director = ""
-        director_selectors = [
-            '#w-node-_66399d6d-b16a-02f9-8476-bf3230235a79-f47a8a01',
-            '.director',
-            '.movie-director'
-        ]
-        
-        for selector in director_selectors:
-            director_elements = tree.css(selector)
-            if director_elements:
-                director = director_elements[0].text().strip()
-                break
-        
-        # Extract cinema ID and fetch showtimes via API
-        print(f"  🔍 Looking for cinema ID and fetching showtimes via API...")
+
+        # Director comes from the credits grid
+        director = credits.get('regissör', '')
+
+        # Fetch showtimes via API (cinemaId is not actually required by the API)
+        print(f"  🔍 Looking for movie ID and fetching showtimes via API...")
         all_showtimes = []
-        
-        # Extract cinema ID from page source
-        cinema_id = self.extract_cinema_id(html_content)
-        
-        if cinema_id:
-            print(f"  🎭 Found cinema ID: {cinema_id}")
-            # Extract movie ID for filtering
-            movie_id = self.extract_movie_id(html_content)
-            
-            if movie_id:
-                print(f"  🎬 Found movie ID: {movie_id}")
-                # Fetch showtimes from the API
-                api_showtimes = self.fetch_showtimes_from_api(cinema_id, movie_id)
-                
-                if api_showtimes:
-                    all_showtimes = api_showtimes
-                    print(f"  ✅ Successfully fetched {len(api_showtimes)} showtimes from API")
-                else:
-                    print(f"  ❌ No showtimes returned from API - excluding movie from results")
-                    return None  # Don't include movies without showtimes
+
+        cinema_id = self.extract_cinema_id(html_content) or '10'
+        movie_id = self.extract_movie_id(html_content)
+
+        if movie_id:
+            print(f"  🎬 Found movie ID: {movie_id}")
+            api_showtimes = self.fetch_showtimes_from_api(cinema_id, movie_id)
+            if api_showtimes:
+                all_showtimes = api_showtimes
+                print(f"  ✅ Successfully fetched {len(api_showtimes)} showtimes from API")
             else:
-                print(f"  ❌ Could not extract movie ID from page - excluding movie from results")
-                return None  # Don't include movies without movie ID
+                print(f"  ❌ No showtimes returned from API - excluding movie from results")
+                return None
         else:
-            print(f"  ❌ Could not extract cinema ID from page - excluding movie from results")
-            return None  # Don't include movies without cinema ID
+            print(f"  ❌ Could not extract movie ID from page - excluding movie from results")
+            return None
         
         # Only proceed if we have actual showtimes
         if not all_showtimes:
@@ -421,15 +369,19 @@ class BioRio:
         print(f"🎬 Starting scraper for Bio Rio Stockholm")
         print(f"🔗 Fetching main page: {self.base_url}")
         
-        # Get the main page content
-        main_content = self.get_page_content(self.base_url)
-        if not main_content:
-            print("❌ Failed to fetch main page")
-            return
-        
-        # Find all movie links
-        print("🔍 Finding movie links...")
-        movie_links = self.find_movie_links(main_content)
+        # Get the listing page content from each tab and merge film links
+        movie_links = []
+        seen_links = set()
+        for list_url in self.list_urls:
+            print(f"🔗 Fetching listing: {list_url}")
+            main_content = self.get_page_content(list_url)
+            if not main_content:
+                print(f"❌ Failed to fetch listing page: {list_url}")
+                continue
+            for link in self.find_movie_links(main_content):
+                if link not in seen_links:
+                    seen_links.add(link)
+                    movie_links.append(link)
         print(f"📋 Found {len(movie_links)} movie links to check")
         
         if not movie_links:
