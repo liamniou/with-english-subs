@@ -27,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-05-08T11:28:08.710367+00:00",
+    "scraped_at": "2026-05-09T07:47:31.397105+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1517117,
@@ -80,15 +80,15 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-05-08T11:28:09.161317+00:00",
+    "scraped_at": "2026-05-09T07:47:31.972462+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1462322,
       "title": "The Last One for the Road",
       "overview": "A couple of jovial life-long drunkards run into a shy architecture undergrad, whose way of seeing things will be transformed as the trio wanders from pub to pub in search of a buried treasure.",
       "release_date": "2025-09-25",
-      "rating": 7.584,
-      "vote_count": 190,
+      "rating": 7.609,
+      "vote_count": 192,
       "genres": [
         "Comedy"
       ],
@@ -130,7 +130,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-05-08T11:28:10.049958+00:00",
+    "scraped_at": "2026-05-09T07:47:32.997118+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1510325,
@@ -180,7 +180,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-05-08T11:28:10.606013+00:00",
+    "scraped_at": "2026-05-09T07:47:34.018624+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1339666,
@@ -200,6 +200,56 @@
       "runtime": 107,
       "budget": 0,
       "revenue": 69770
+    }
+  },
+  {
+    "film_id": "all-that-s-left-of-you",
+    "url": "https://www.biobristol.se/f/all-that-s-left-of-you/473",
+    "title": "All That's Left Of You",
+    "director": "Cherien Dabis",
+    "duration": "145 min",
+    "language": "Arabiska",
+    "description": "After a Palestinian teen confronts Israeli soldiers at a West Bank protest, his mother recounts the series of events that led him to that fateful moment, starting with his grandfather's forced displacement.",
+    "poster_url": "https://mars-images.imgix.net/1778239359034?auto=compress&w=1200&fit=max",
+    "showtimes": [
+      {
+        "datetime": "2026-05-16T18:30:00",
+        "display_text": "Saturday 16 May 2026 at 18:30",
+        "time": "18:30",
+        "date_section": "16.05",
+        "ticket_url": "https://www.biobristol.se/checkout?showId=69fdc9437bfc20601d09ec44",
+        "show_id": "69fdc9437bfc20601d09ec44",
+        "hall": "Bristol",
+        "audio_language": "",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-05-16T18:30:00",
+        "normalized_date": "16.05",
+        "normalized_time": "18:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Bristol"
+    ],
+    "scraped_at": "2026-05-09T07:47:39.610721+00:00",
+    "source": "biobristol",
+    "tmdb": {
+      "id": 1219620,
+      "title": "All That's Left of You",
+      "overview": "In the Occupied West Bank in Palestine of the 1980s, a Palestinian teenager is swept into a protest that changes the course of his family's life. Reeling from its aftermath, his mother, Hanan, shares the story that led them to that fateful moment. Spanning seven decades, this epic drama traces the hopes and heartaches of one uprooted family, revealing not only the scars of ethnic cleansing, but the unbreakable spirit of survival.",
+      "release_date": "2025-09-25",
+      "rating": 7.858,
+      "vote_count": 60,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/fqMHedzcFA9rOnlWPuazaKMzV0H.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fqMHedzcFA9rOnlWPuazaKMzV0H.jpg",
+      "backdrop_path": "/gRMJQCyl6T2kFJlqRm3Gpo6HP0i.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gRMJQCyl6T2kFJlqRm3Gpo6HP0i.jpg",
+      "imdb_id": "tt29344894",
+      "runtime": 146,
+      "budget": 0,
+      "revenue": 276431
     }
   }
 ]

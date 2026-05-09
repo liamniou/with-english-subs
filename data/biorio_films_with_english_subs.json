@@ -56,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 95,
-          "ticketsAvailable": 85,
+          "ticketsSold": 101,
+          "ticketsAvailable": 79,
           "isPublished": true
         },
         "normalized_datetime": "2026-05-13T16:00:00",
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T11:28:25.737759",
+    "scraped_at": "2026-05-09T07:47:56.245540",
     "source": "biorio"
   },
   {
@@ -142,7 +142,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T11:28:31.056024",
+    "scraped_at": "2026-05-09T07:48:03.748897",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -294,7 +294,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T11:28:36.659915",
+    "scraped_at": "2026-05-09T07:48:11.013485",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -388,15 +388,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T11:28:44.195796",
+    "scraped_at": "2026-05-09T07:48:22.785482",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.403,
-      "vote_count": 2610,
+      "rating": 7.402,
+      "vote_count": 2612,
       "genres": [
         "Animation",
         "Fantasy",
@@ -483,15 +483,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T11:28:52.752972",
+    "scraped_at": "2026-05-09T07:48:34.898035",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
       "title": "The Room",
       "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
       "release_date": "2003-06-27",
-      "rating": 4.0,
-      "vote_count": 1522,
+      "rating": 3.997,
+      "vote_count": 1523,
       "genres": [
         "Drama",
         "Romance"
@@ -563,8 +563,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 30,
-          "ticketsAvailable": 150,
+          "ticketsSold": 33,
+          "ticketsAvailable": 147,
           "isPublished": true
         },
         "normalized_datetime": "2026-05-09T16:10:00",
@@ -575,7 +575,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T11:28:59.711000",
+    "scraped_at": "2026-05-09T07:48:44.677932",
     "source": "biorio",
     "tmdb": {
       "id": 16306,
@@ -657,8 +657,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 23,
-          "ticketsAvailable": 157,
+          "ticketsSold": 24,
+          "ticketsAvailable": 156,
           "isPublished": true
         },
         "normalized_datetime": "2026-05-09T08:30:00",
@@ -669,15 +669,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T11:29:02.480968",
+    "scraped_at": "2026-05-09T07:48:47.809066",
     "source": "biorio",
     "tmdb": {
       "id": 28874,
       "title": "Summer Wars",
       "overview": "Teenage math whiz Kenji Koiso agrees to take a summer job at the Nagano hometown of his crush, Natsuki. When he arrives, he finds that her family have reunited to celebrate the 90th birthday of their matriarch. His job: pretend to be Natsuki's fiancé. Meanwhile, his attempt to solve a mathematical equation causes a parallel world's collision with Earth.",
       "release_date": "2009-08-01",
-      "rating": 7.447,
-      "vote_count": 1018,
+      "rating": 7.448,
+      "vote_count": 1019,
       "genres": [
         "Animation",
         "Science Fiction"
@@ -822,7 +822,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T11:29:05.357364",
+    "scraped_at": "2026-05-09T07:48:51.543592",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
@@ -830,7 +830,7 @@
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
       "rating": 7.777,
-      "vote_count": 2228,
+      "vote_count": 2229,
       "genres": [
         "Fantasy",
         "Animation",
@@ -916,7 +916,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T11:29:12.403524",
+    "scraped_at": "2026-05-09T07:49:01.433129",
     "source": "biorio",
     "tmdb": {
       "id": 1432547,
@@ -1071,7 +1071,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-08T11:29:15.482597",
+    "scraped_at": "2026-05-09T07:49:05.816064",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,
