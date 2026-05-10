@@ -56,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 101,
-          "ticketsAvailable": 79,
+          "ticketsSold": 105,
+          "ticketsAvailable": 75,
           "isPublished": true
         },
         "normalized_datetime": "2026-05-13T16:00:00",
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-09T07:47:56.245540",
+    "scraped_at": "2026-05-10T08:00:58.796520",
     "source": "biorio"
   },
   {
@@ -142,7 +142,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-09T07:48:03.748897",
+    "scraped_at": "2026-05-10T08:01:04.355873",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -294,7 +294,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-09T07:48:11.013485",
+    "scraped_at": "2026-05-10T08:01:11.078353",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -388,7 +388,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-09T07:48:22.785482",
+    "scraped_at": "2026-05-10T08:01:21.999043",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -396,7 +396,7 @@
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
       "rating": 7.402,
-      "vote_count": 2612,
+      "vote_count": 2614,
       "genres": [
         "Animation",
         "Fantasy",
@@ -483,7 +483,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-09T07:48:34.898035",
+    "scraped_at": "2026-05-10T08:01:32.784483",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -504,192 +504,6 @@
       "runtime": 100,
       "budget": 6000000,
       "revenue": 1752988
-    }
-  },
-  {
-    "film_id": "fantastic-planet",
-    "url": "https://www.biorio.se/sv/filmer/fantastic-planet",
-    "title": "Fantastic Planet",
-    "director": "René Laloux",
-    "showtimes": [
-      {
-        "datetime": "2026-05-09T16:10:00.000Z",
-        "display_text": "Saturday May 09, 2026 at 16:10",
-        "movie_id": "5839",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/1892",
-        "api_data": {
-          "id": 1892,
-          "movieId": 5839,
-          "movieVersionId": 528,
-          "startTime": "2026-05-09T16:10:00.000Z",
-          "endTime": "2026-05-09T17:22:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5839,
-            "title": "Fantastic Planet",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5839/posters/1773664246442-6vrqkp.avif",
-            "movieVersions": [
-              {
-                "duration": 72,
-                "audio": "Franska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Franska"
-          },
-          "MovieVersion": {
-            "id": 528,
-            "duration": 72,
-            "subtitles": "Engelska",
-            "audio": "Franska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 33,
-          "ticketsAvailable": 147,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-05-09T16:10:00",
-        "normalized_date": "09.05",
-        "normalized_time": "16:10"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-05-09T07:48:44.677932",
-    "source": "biorio",
-    "tmdb": {
-      "id": 16306,
-      "title": "Fantastic Planet",
-      "overview": "On the planet Ygam, the Draags, extremely technologically and spiritually advanced blue humanoids, consider the tiny Oms, human beings descendants of Terra's inhabitants, as ignorant animals. Those who live in slavery are treated as simple pets and used to entertain Draag children; those who live hidden in the hostile wilderness of the planet are periodically hunted and ruthlessly slaughtered as if they were vermin.",
-      "release_date": "1973-12-01",
-      "rating": 7.626,
-      "vote_count": 1094,
-      "genres": [
-        "Animation",
-        "Science Fiction"
-      ],
-      "poster_path": "/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
-      "backdrop_path": "/AwrqoanoZVYoc0MRyE0RiHEKm71.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/AwrqoanoZVYoc0MRyE0RiHEKm71.jpg",
-      "imdb_id": "tt0070544",
-      "runtime": 72,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "summer-wars",
-    "url": "https://www.biorio.se/sv/filmer/summer-wars",
-    "title": "Summer Wars",
-    "director": "Mamoru Hosoda",
-    "showtimes": [
-      {
-        "datetime": "2026-05-09T08:30:00.000Z",
-        "display_text": "Saturday May 09, 2026 at 08:30",
-        "movie_id": "5822",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/1823",
-        "api_data": {
-          "id": 1823,
-          "movieId": 5822,
-          "movieVersionId": 511,
-          "startTime": "2026-05-09T08:30:00.000Z",
-          "endTime": "2026-05-09T10:24:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5822,
-            "title": "Summer Wars",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5822/posters/1772636169104-nb37u.avif",
-            "movieVersions": [
-              {
-                "duration": 114,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 511,
-            "duration": 114,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 3,
-              "name": "Frukostbio"
-            }
-          ],
-          "tags": [
-            "Frukostbio"
-          ],
-          "ticketsSold": 24,
-          "ticketsAvailable": 156,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-05-09T08:30:00",
-        "normalized_date": "09.05",
-        "normalized_time": "08:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-05-09T07:48:47.809066",
-    "source": "biorio",
-    "tmdb": {
-      "id": 28874,
-      "title": "Summer Wars",
-      "overview": "Teenage math whiz Kenji Koiso agrees to take a summer job at the Nagano hometown of his crush, Natsuki. When he arrives, he finds that her family have reunited to celebrate the 90th birthday of their matriarch. His job: pretend to be Natsuki's fiancé. Meanwhile, his attempt to solve a mathematical equation causes a parallel world's collision with Earth.",
-      "release_date": "2009-08-01",
-      "rating": 7.448,
-      "vote_count": 1019,
-      "genres": [
-        "Animation",
-        "Science Fiction"
-      ],
-      "poster_path": "/yHy8TrRLnuBZ4t2C0l0pSpRXVHO.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yHy8TrRLnuBZ4t2C0l0pSpRXVHO.jpg",
-      "backdrop_path": "/wSFAoevZuVBo4L9f8NgYSD1o9cQ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/wSFAoevZuVBo4L9f8NgYSD1o9cQ.jpg",
-      "imdb_id": "tt1474276",
-      "runtime": 114,
-      "budget": 0,
-      "revenue": 18434328
     }
   },
   {
@@ -822,15 +636,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-09T07:48:51.543592",
+    "scraped_at": "2026-05-10T08:01:45.589961",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
       "title": "The Girl Who Leapt Through Time",
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
-      "rating": 7.777,
-      "vote_count": 2229,
+      "rating": 7.776,
+      "vote_count": 2230,
       "genres": [
         "Fantasy",
         "Animation",
@@ -904,8 +718,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 5,
-          "ticketsAvailable": 175,
+          "ticketsSold": 6,
+          "ticketsAvailable": 174,
           "isPublished": true
         },
         "normalized_datetime": "2026-05-31T16:00:00",
@@ -916,7 +730,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-09T07:49:01.433129",
+    "scraped_at": "2026-05-10T08:01:54.638412",
     "source": "biorio",
     "tmdb": {
       "id": 1432547,
@@ -998,8 +812,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 22,
-          "ticketsAvailable": 158,
+          "ticketsSold": 23,
+          "ticketsAvailable": 157,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-05T16:00:00",
@@ -1059,8 +873,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 18,
-          "ticketsAvailable": 162,
+          "ticketsSold": 17,
+          "ticketsAvailable": 163,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-06T08:30:00",
@@ -1071,7 +885,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-09T07:49:05.816064",
+    "scraped_at": "2026-05-10T08:01:58.691415",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,

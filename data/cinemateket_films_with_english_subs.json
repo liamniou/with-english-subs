@@ -1,44 +1,5 @@
 [
   {
-    "film_id": "3058",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=3058&cityId=1",
-    "title": "Originaltitel: Léon Morin, prêtre",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "lör 9/5 kl. 19:00",
-        "normalized_datetime": "2026-05-09T19:00:00",
-        "normalized_date": "09.05",
-        "normalized_time": "19:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-05-09T07:49:28.384704",
-    "tmdb": {
-      "id": 63892,
-      "title": "Léon Morin, Priest",
-      "overview": "Barny, although a Marxist, is intrigued by the mysteries of religion. In confession, she teases a priest, Léon Morin, but he is a young and intelligent man and ready to discuss anything.",
-      "release_date": "1961-09-22",
-      "rating": 7.076,
-      "vote_count": 165,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/i89R891gei0UVS8xY6ymOUPExtW.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/i89R891gei0UVS8xY6ymOUPExtW.jpg",
-      "backdrop_path": "/joQL41XWmYj5egSVRkVDVbxYtFf.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/joQL41XWmYj5egSVRkVDVbxYtFf.jpg",
-      "imdb_id": "tt0055082",
-      "runtime": 118,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "13987",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13987&cityId=1",
     "title": "Originaltitel: Le Silence de la mer",
@@ -55,7 +16,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-05-09T07:49:44.820780",
+    "scraped_at": "2026-05-10T08:02:29.486645",
     "tmdb": {
       "id": 336748,
       "title": "Silence of the Sea",
@@ -96,7 +57,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-05-09T07:49:55.111519",
+    "scraped_at": "2026-05-10T08:02:41.082307",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",
