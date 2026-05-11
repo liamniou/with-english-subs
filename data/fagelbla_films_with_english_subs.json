@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-05-10T08:02:50.614495+00:00",
+    "scraped_at": "2026-05-11T09:30:58.535142+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11700,
@@ -68,14 +68,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-05-10T08:02:50.615500+00:00",
+    "scraped_at": "2026-05-11T09:30:58.536157+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
       "title": "Wild Strawberries",
       "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
       "release_date": "1957-08-28",
-      "rating": 8.08,
+      "rating": 8.1,
       "vote_count": 1798,
       "genres": [
         "Drama"
@@ -113,7 +113,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-05-10T08:02:50.615822+00:00",
+    "scraped_at": "2026-05-11T09:30:58.536498+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
