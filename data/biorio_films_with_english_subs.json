@@ -56,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 116,
-          "ticketsAvailable": 64,
+          "ticketsSold": 127,
+          "ticketsAvailable": 53,
           "isPublished": true
         },
         "normalized_datetime": "2026-05-13T16:00:00",
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-11T09:29:14.624956",
+    "scraped_at": "2026-05-12T08:30:46.138820",
     "source": "biorio"
   },
   {
@@ -142,7 +142,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-11T09:29:20.580439",
+    "scraped_at": "2026-05-12T08:30:49.134978",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -173,8 +173,8 @@
     "director": "Paprika Steen",
     "showtimes": [
       {
-        "datetime": "2026-05-15T13:50:00.000Z",
-        "display_text": "Friday May 15, 2026 at 13:50",
+        "datetime": "2026-05-15T13:35:00.000Z",
+        "display_text": "Friday May 15, 2026 at 13:35",
         "movie_id": "5900",
         "cinema_id": "10",
         "booking_url": "https://www.biorio.se/sv/boka/2088",
@@ -182,8 +182,8 @@
           "id": 2088,
           "movieId": 5900,
           "movieVersionId": 599,
-          "startTime": "2026-05-15T13:50:00.000Z",
-          "endTime": "2026-05-15T15:25:00.000Z",
+          "startTime": "2026-05-15T13:35:00.000Z",
+          "endTime": "2026-05-15T15:10:00.000Z",
           "screenId": 1,
           "screenNumber": 1,
           "language": null,
@@ -227,9 +227,9 @@
           "ticketsAvailable": 180,
           "isPublished": true
         },
-        "normalized_datetime": "2026-05-15T13:50:00",
+        "normalized_datetime": "2026-05-15T13:35:00",
         "normalized_date": "15.05",
-        "normalized_time": "13:50"
+        "normalized_time": "13:35"
       },
       {
         "datetime": "2026-05-18T13:50:00.000Z",
@@ -294,7 +294,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-11T09:29:27.243727",
+    "scraped_at": "2026-05-12T08:30:57.331668",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -388,7 +388,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-11T09:29:38.131645",
+    "scraped_at": "2026-05-12T08:31:06.233989",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -396,7 +396,7 @@
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
       "rating": 7.402,
-      "vote_count": 2615,
+      "vote_count": 2616,
       "genres": [
         "Animation",
         "Fantasy",
@@ -471,8 +471,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 16,
-          "ticketsAvailable": 164,
+          "ticketsSold": 20,
+          "ticketsAvailable": 160,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -483,7 +483,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-11T09:29:48.981008",
+    "scraped_at": "2026-05-12T08:31:18.764532",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -636,15 +636,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-11T09:29:58.859755",
+    "scraped_at": "2026-05-12T08:31:23.350037",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
       "title": "The Girl Who Leapt Through Time",
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
-      "rating": 7.777,
-      "vote_count": 2231,
+      "rating": 7.778,
+      "vote_count": 2234,
       "genres": [
         "Fantasy",
         "Animation",
@@ -730,7 +730,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-11T09:30:07.338374",
+    "scraped_at": "2026-05-12T08:31:31.342696",
     "source": "biorio",
     "tmdb": {
       "id": 1432547,
@@ -885,7 +885,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-11T09:30:11.517333",
+    "scraped_at": "2026-05-12T08:31:35.198047",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,

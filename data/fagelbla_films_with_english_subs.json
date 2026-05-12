@@ -1,51 +1,5 @@
 [
   {
-    "film_id": "sommarnattens-leende",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Sommarnattens leende",
-    "director": "Ingmar Bergman",
-    "duration": "1h 48 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2026-05-11T17:45:00+02:00",
-        "display_text": "Måndag, 11th Maj 17:45",
-        "time": "17:45",
-        "date_section": "Måndag, 11th Maj",
-        "ticket_url": "https://biofagelbla.se/movie/sommarnattens-leende/?showtime=53405",
-        "showtime_id": "53405",
-        "normalized_datetime": "2026-05-11T17:45:00",
-        "normalized_date": "11.05",
-        "normalized_time": "17:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-05-11T09:30:58.535142+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 11700,
-      "title": "Smiles of a Summer Night",
-      "overview": "Early in the 20th century, middle-aged lawyer Fredrik Egerman and his young wife, Anne, have still not consummated their marriage, while Fredrik's son finds himself increasingly attracted to his new stepmother. To make matters worse, Fredrik's old flame Desiree makes a public bet that she can seduce him at a romantic weekend retreat where four couples convene, swapping partners and pairing off in unexpected ways.",
-      "release_date": "1955-12-26",
-      "rating": 7.417,
-      "vote_count": 271,
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "poster_path": "/wKeV8lKz8k9DDBCw6MJ9MkhvhqF.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wKeV8lKz8k9DDBCw6MJ9MkhvhqF.jpg",
-      "backdrop_path": "/mPpEL0P0JSw8AdjB2fx4NzIUIFZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mPpEL0P0JSw8AdjB2fx4NzIUIFZ.jpg",
-      "imdb_id": "tt0048641",
-      "runtime": 109,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "smultronstället",
     "url": "https://biofagelbla.se/program/",
     "title": "Smultronstället",
@@ -68,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-05-11T09:30:58.536157+00:00",
+    "scraped_at": "2026-05-12T08:32:08.940513+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
@@ -113,7 +67,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-05-11T09:30:58.536498+00:00",
+    "scraped_at": "2026-05-12T08:32:08.940863+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
