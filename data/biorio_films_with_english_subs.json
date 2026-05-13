@@ -56,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 127,
-          "ticketsAvailable": 53,
+          "ticketsSold": 155,
+          "ticketsAvailable": 25,
           "isPublished": true
         },
         "normalized_datetime": "2026-05-13T16:00:00",
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-12T08:30:46.138820",
+    "scraped_at": "2026-05-13T08:37:06.899314",
     "source": "biorio"
   },
   {
@@ -142,7 +142,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-12T08:30:49.134978",
+    "scraped_at": "2026-05-13T08:37:10.614353",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -294,7 +294,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-12T08:30:57.331668",
+    "scraped_at": "2026-05-13T08:37:18.195619",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -388,7 +388,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-12T08:31:06.233989",
+    "scraped_at": "2026-05-13T08:37:25.258578",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -471,8 +471,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 20,
-          "ticketsAvailable": 160,
+          "ticketsSold": 22,
+          "ticketsAvailable": 158,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -483,7 +483,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-12T08:31:18.764532",
+    "scraped_at": "2026-05-13T08:37:35.282435",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -636,7 +636,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-12T08:31:23.350037",
+    "scraped_at": "2026-05-13T08:37:39.664359",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
@@ -730,14 +730,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-12T08:31:31.342696",
+    "scraped_at": "2026-05-13T08:37:46.723858",
     "source": "biorio",
     "tmdb": {
       "id": 1432547,
       "title": "ALL YOU NEED IS KILL",
       "overview": "When a massive alien flower known as \"Darol\" unexpectedly erupts in a deadly event, unleashing monstrous creatures that decimate the population of Japan, Rita is caught in the destruction—and killed. But then she wakes up again. And again. Caught in an endless time loop, Rita must navigate the trauma and repetition of death until she crosses paths with Keiji, a shy young man trapped in the same cycle. Together, they fight to break free from the loop and find meaning in the chaos around them.",
       "release_date": "2026-01-09",
-      "rating": 6.3,
+      "rating": 6.281,
       "vote_count": 16,
       "genres": [
         "Animation",
@@ -873,8 +873,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 28,
-          "ticketsAvailable": 152,
+          "ticketsSold": 31,
+          "ticketsAvailable": 149,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-06T08:30:00",
@@ -885,12 +885,12 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-12T08:31:35.198047",
+    "scraped_at": "2026-05-13T08:37:49.825946",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,
       "title": "The Amazing Digital Circus: The Last Act",
-      "overview": "With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus and its history.  Will they come to terms with what they uncover, or will they make… the other choice? Also, presumably at some point someone says something funny, because this ending can’t be THAT depressing, can it? A theatrical screening of episode 8 and the all new, hour-long episode 9.",
+      "overview": "With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus.",
       "release_date": "2026-06-03",
       "rating": 0.0,
       "vote_count": 0,

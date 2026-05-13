@@ -1,57 +1,5 @@
 [
   {
-    "film_id": "singalong-hair",
-    "url": "https://www.capitolbio.se/filmer/singalong-hair/4238",
-    "title": "Singalong: Hair",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "En stor Capitolfavorit är tillbaka som singalong!\n\nAllsångsledare för kvällen är Martina Huzell.\n\nKom gärna i god tid och ladda upp i foajébaren! Partyt fortsätter sedan i salongen.\n\nOscarbelönade Milos Forman har tillsammans med manusförfattaren Michael Weller på ett briljant sätt återskapat Broadwayversionen av HAIR och åstadkommit en filmversion som platsar bland de bästa musikalerna genom tiderna. \n\nOBS, inga återköp eller byten gäller på singalonger.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/3212/1920/10556e85-3027-4cfd-b0b9-79153ab8587a.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-05-12T18:10:00",
-        "display_text": "Tuesday 12 May 2026 at 18:10",
-        "time": "18:10",
-        "date_section": "12.05",
-        "ticket_url": "https://www.capitolbio.se/boka/49975",
-        "booking_id": "49975",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-05-12T18:10:00",
-        "normalized_date": "12.05",
-        "normalized_time": "18:10"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-05-12T08:31:44.587361+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 10654,
-      "title": "Hair",
-      "overview": "Upon receiving his draft notice and leaving his family ranch in Oklahoma, Claude heads to New York and befriends a tribe of long-haired hippies on his way to boot camp.",
-      "release_date": "1979-03-15",
-      "rating": 7.266,
-      "vote_count": 732,
-      "genres": [
-        "Music",
-        "Drama",
-        "Comedy"
-      ],
-      "poster_path": "/qrZIlVCL9UyEBsgOGbisNzuWjX.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qrZIlVCL9UyEBsgOGbisNzuWjX.jpg",
-      "backdrop_path": "/4yeRx7cGDMIzIkzLRhcw1LymSYC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/4yeRx7cGDMIzIkzLRhcw1LymSYC.jpg",
-      "imdb_id": "tt0079261",
-      "runtime": 121,
-      "budget": 11000000,
-      "revenue": 15313606
-    }
-  },
-  {
     "film_id": "clueless",
     "url": "https://www.capitolbio.se/filmer/clueless/609",
     "title": "Clueless",
@@ -79,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-05-12T08:31:44.587405+00:00",
+    "scraped_at": "2026-05-13T08:37:57.932568+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9603,

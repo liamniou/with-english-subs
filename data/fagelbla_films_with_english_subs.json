@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-05-12T08:32:08.940513+00:00",
+    "scraped_at": "2026-05-13T08:38:21.107911+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 614,
@@ -67,7 +67,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-05-12T08:32:08.940863+00:00",
+    "scraped_at": "2026-05-13T08:38:21.108238+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -75,7 +75,7 @@
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
       "rating": 7.624,
-      "vote_count": 4465,
+      "vote_count": 4466,
       "genres": [
         "Comedy",
         "Romance",
