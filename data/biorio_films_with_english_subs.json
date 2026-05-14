@@ -1,77 +1,5 @@
 [
   {
-    "film_id": "b-movie-lust-sound-in-west-berlin-1979-1989",
-    "url": "https://www.biorio.se/sv/filmer/b-movie-lust-sound-in-west-berlin-1979-1989",
-    "title": "B-Movie: Lust & Sound in West-Berlin 1979-1989",
-    "director": "Jörg A. Hoppe",
-    "showtimes": [
-      {
-        "datetime": "2026-05-13T16:00:00.000Z",
-        "display_text": "Wednesday May 13, 2026 at 16:00",
-        "movie_id": "5888",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2038",
-        "api_data": {
-          "id": 2038,
-          "movieId": 5888,
-          "movieVersionId": 587,
-          "startTime": "2026-05-13T16:00:00.000Z",
-          "endTime": "2026-05-13T17:32:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5888,
-            "title": "B-Movie: Lust & Sound in West-Berlin 1979-1989",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5888/posters/1776697779237-kalp5b.avif",
-            "movieVersions": [
-              {
-                "duration": 92,
-                "audio": "Tyska, Engelska, Franska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Tyska, Engelska, Franska"
-          },
-          "MovieVersion": {
-            "id": 587,
-            "duration": 92,
-            "subtitles": "Engelska",
-            "audio": "Tyska, Engelska, Franska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 155,
-          "ticketsAvailable": 25,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-05-13T16:00:00",
-        "normalized_date": "13.05",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-05-13T08:37:06.899314",
-    "source": "biorio"
-  },
-  {
     "film_id": "broderna-lejonhjarta",
     "url": "https://www.biorio.se/sv/filmer/broderna-lejonhjarta",
     "title": "Bröderna Lejonhjärta",
@@ -142,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-13T08:37:10.614353",
+    "scraped_at": "2026-05-14T08:30:59.652195",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -294,7 +222,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-13T08:37:18.195619",
+    "scraped_at": "2026-05-14T08:31:11.946658",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -388,15 +316,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-13T08:37:25.258578",
+    "scraped_at": "2026-05-14T08:31:22.110200",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.402,
-      "vote_count": 2616,
+      "rating": 7.403,
+      "vote_count": 2617,
       "genres": [
         "Animation",
         "Fantasy",
@@ -483,7 +411,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-13T08:37:35.282435",
+    "scraped_at": "2026-05-14T08:31:38.949294",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -636,7 +564,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-13T08:37:39.664359",
+    "scraped_at": "2026-05-14T08:31:45.369259",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
@@ -644,7 +572,7 @@
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
       "rating": 7.778,
-      "vote_count": 2234,
+      "vote_count": 2235,
       "genres": [
         "Fantasy",
         "Animation",
@@ -730,14 +658,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-13T08:37:46.723858",
+    "scraped_at": "2026-05-14T08:31:54.241011",
     "source": "biorio",
     "tmdb": {
       "id": 1432547,
       "title": "ALL YOU NEED IS KILL",
       "overview": "When a massive alien flower known as \"Darol\" unexpectedly erupts in a deadly event, unleashing monstrous creatures that decimate the population of Japan, Rita is caught in the destruction—and killed. But then she wakes up again. And again. Caught in an endless time loop, Rita must navigate the trauma and repetition of death until she crosses paths with Keiji, a shy young man trapped in the same cycle. Together, they fight to break free from the loop and find meaning in the chaos around them.",
       "release_date": "2026-01-09",
-      "rating": 6.281,
+      "rating": 6.3,
       "vote_count": 16,
       "genres": [
         "Animation",
@@ -873,8 +801,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 31,
-          "ticketsAvailable": 149,
+          "ticketsSold": 35,
+          "ticketsAvailable": 145,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-06T08:30:00",
@@ -885,12 +813,12 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-13T08:37:49.825946",
+    "scraped_at": "2026-05-14T08:31:58.669694",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,
       "title": "The Amazing Digital Circus: The Last Act",
-      "overview": "With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus.",
+      "overview": "With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus and its history.  Will they come to terms with what they uncover, or will they make… the other choice? Also, presumably at some point someone says something funny, because this ending can’t be THAT depressing, can it? A theatrical screening of episode 8 and the all new, hour-long episode 9.",
       "release_date": "2026-06-03",
       "rating": 0.0,
       "vote_count": 0,
