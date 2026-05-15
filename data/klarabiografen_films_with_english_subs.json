@@ -1,5 +1,35 @@
 [
   {
+    "film_id": "visning-av-samuel-qa-med-emilie-tronche-seriefestivalen",
+    "url": "https://kulturhusetstadsteatern.se/bio/visning-av-samuel-qa-med-emilie-tronche-seriefestivalen",
+    "title": "Visning av Samuel + Q&A med Émilie Tronche (Seriefestivalen)",
+    "director": "",
+    "duration": "90 min + 20 min samtal",
+    "language": "",
+    "description": "Samuel är 10 år och skriver dagbok. Och han har ett problem. Problemet är att Basile har sagt till Julie i stora klassen att Samuel är kär i henne. Vilket inte alls stämmer. Han bryr sig inte om Julie. Det är bara att hon skrattade åt ett av hans skämt, och det tyckte han var snällt av henne.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-04/Samuel.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-05-16T15:00:00+02:00",
+        "display_text": "Saturday 16 May 2026 at 15:00",
+        "time": "15:00",
+        "date_section": "16.05",
+        "ticket_url": null,
+        "tix_event_id": 125833,
+        "tix_event_group_id": 30859,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-05-16T15:00:00",
+        "normalized_date": "16.05",
+        "normalized_time": "15:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-05-15T08:43:00.705430+00:00",
+    "source": "klarabiografen"
+  },
+  {
     "film_id": "sand-castles-qa-ukraine-film-now",
     "url": "https://kulturhusetstadsteatern.se/bio/sand-castles-qa-ukraine-film-now",
     "title": "Sand Castles + Q&A (Ukraine Film Now)",
@@ -26,7 +56,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-14T08:32:40.136067+00:00",
+    "scraped_at": "2026-05-15T08:43:00.705544+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 266425,
@@ -90,7 +120,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-14T08:32:40.136260+00:00",
+    "scraped_at": "2026-05-15T08:43:00.705734+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 692562,
@@ -139,7 +169,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-14T08:32:40.136614+00:00",
+    "scraped_at": "2026-05-15T08:43:00.706083+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1454209,
@@ -188,7 +218,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-14T08:32:40.136640+00:00",
+    "scraped_at": "2026-05-15T08:43:00.706107+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1507573,
@@ -238,7 +268,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-14T08:32:40.136679+00:00",
+    "scraped_at": "2026-05-15T08:43:00.706145+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 45166,
@@ -287,7 +317,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-14T08:32:40.136701+00:00",
+    "scraped_at": "2026-05-15T08:43:00.706166+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 435217,
@@ -349,7 +379,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-14T08:32:40.136788+00:00",
+    "scraped_at": "2026-05-15T08:43:00.706256+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,

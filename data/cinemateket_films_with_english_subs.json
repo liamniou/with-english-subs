@@ -1,46 +1,5 @@
 [
   {
-    "film_id": "13987",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13987&cityId=1",
-    "title": "Originaltitel: Le Silence de la mer",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "tor 14/5 kl. 18:00",
-        "normalized_datetime": "2026-05-14T18:00:00",
-        "normalized_date": "14.05",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Skandia"
-    ],
-    "scraped_at": "2026-05-14T08:32:15.400249",
-    "tmdb": {
-      "id": 336748,
-      "title": "Silence of the Sea",
-      "overview": "In a small town in the West of France, during the German Occupation, a room is requisitioned by a Wehrmacht captain, Werner von Ebrennac. The house where he now stays is inhabited by young Jeanne, who makes a living by giving piano lessons, and by her grandfather. Quite upset, the two \"hosts\" decide to resist the occupier by never speaking a word to him. Now Werner is a lover of France and its culture, and he tries to persuade them that a rapprochement between Germany and France would be beneficial for the two nations. Quite unexpectedly Jeanne, little by little, falls in love with Werner. At the same time, the Francophile officer loses his illusions, realizing at last that what Nazi Germany actually wants is to thrall France and to stifle its culture...",
-      "release_date": "2004-09-18",
-      "rating": 7.5,
-      "vote_count": 38,
-      "genres": [
-        "Romance",
-        "Drama",
-        "War",
-        "TV Movie"
-      ],
-      "poster_path": "/9h6lKitROXrUQ7SWLL5cVPgCOkY.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9h6lKitROXrUQ7SWLL5cVPgCOkY.jpg",
-      "backdrop_path": "/2FJZAPXTp9dEORYB0i1ULxkVwWd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2FJZAPXTp9dEORYB0i1ULxkVwWd.jpg",
-      "imdb_id": "tt0430594",
-      "runtime": 100,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "8310",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=8310&cityId=1",
     "title": "Originaltitel: Quand tu liras cette lettre...",
@@ -57,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-05-14T08:32:28.786622",
+    "scraped_at": "2026-05-15T08:42:52.055165",
     "tmdb": {
       "id": 78708,
       "title": "When You Read This Letter",

@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-14T08:30:59.652195",
+    "scraped_at": "2026-05-15T08:41:51.390436",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -151,8 +151,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 1,
+          "ticketsAvailable": 179,
           "isPublished": true
         },
         "normalized_datetime": "2026-05-15T13:35:00",
@@ -217,12 +217,130 @@
         "normalized_datetime": "2026-05-18T13:50:00",
         "normalized_date": "18.05",
         "normalized_time": "13:50"
+      },
+      {
+        "datetime": "2026-05-27T11:30:00.000Z",
+        "display_text": "Wednesday May 27, 2026 at 11:30",
+        "movie_id": "5900",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2168",
+        "api_data": {
+          "id": 2168,
+          "movieId": 5900,
+          "movieVersionId": 599,
+          "startTime": "2026-05-27T11:30:00.000Z",
+          "endTime": "2026-05-27T13:05:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5900,
+            "title": "Nyårsfesten",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5900/posters/1777371721494-2ddf6h.avif",
+            "movieVersions": [
+              {
+                "duration": 95,
+                "audio": "Danska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Danska"
+          },
+          "MovieVersion": {
+            "id": 599,
+            "duration": 95,
+            "subtitles": "Engelska",
+            "audio": "Danska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 2,
+              "name": "Matiné"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-05-27T11:30:00",
+        "normalized_date": "27.05",
+        "normalized_time": "11:30"
+      },
+      {
+        "datetime": "2026-05-28T13:30:00.000Z",
+        "display_text": "Thursday May 28, 2026 at 13:30",
+        "movie_id": "5900",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2171",
+        "api_data": {
+          "id": 2171,
+          "movieId": 5900,
+          "movieVersionId": 599,
+          "startTime": "2026-05-28T13:30:00.000Z",
+          "endTime": "2026-05-28T15:05:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5900,
+            "title": "Nyårsfesten",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5900/posters/1777371721494-2ddf6h.avif",
+            "movieVersions": [
+              {
+                "duration": 95,
+                "audio": "Danska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Danska"
+          },
+          "MovieVersion": {
+            "id": 599,
+            "duration": 95,
+            "subtitles": "Engelska",
+            "audio": "Danska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 2,
+              "name": "Matiné"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-05-28T13:30:00",
+        "normalized_date": "28.05",
+        "normalized_time": "13:30"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-14T08:31:11.946658",
+    "scraped_at": "2026-05-15T08:42:00.994871",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -316,15 +434,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-14T08:31:22.110200",
+    "scraped_at": "2026-05-15T08:42:08.587401",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.403,
-      "vote_count": 2617,
+      "rating": 7.405,
+      "vote_count": 2619,
       "genres": [
         "Animation",
         "Fantasy",
@@ -411,7 +529,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-14T08:31:38.949294",
+    "scraped_at": "2026-05-15T08:42:21.219836",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -564,15 +682,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-14T08:31:45.369259",
+    "scraped_at": "2026-05-15T08:42:26.088106",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
       "title": "The Girl Who Leapt Through Time",
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
-      "rating": 7.778,
-      "vote_count": 2235,
+      "rating": 7.776,
+      "vote_count": 2237,
       "genres": [
         "Fantasy",
         "Animation",
@@ -658,15 +776,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-14T08:31:54.241011",
+    "scraped_at": "2026-05-15T08:42:31.027856",
     "source": "biorio",
     "tmdb": {
       "id": 1432547,
       "title": "ALL YOU NEED IS KILL",
       "overview": "When a massive alien flower known as \"Darol\" unexpectedly erupts in a deadly event, unleashing monstrous creatures that decimate the population of Japan, Rita is caught in the destruction—and killed. But then she wakes up again. And again. Caught in an endless time loop, Rita must navigate the trauma and repetition of death until she crosses paths with Keiji, a shy young man trapped in the same cycle. Together, they fight to break free from the loop and find meaning in the chaos around them.",
       "release_date": "2026-01-09",
-      "rating": 6.3,
-      "vote_count": 16,
+      "rating": 6.5,
+      "vote_count": 17,
       "genres": [
         "Animation",
         "Action",
@@ -813,7 +931,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-14T08:31:58.669694",
+    "scraped_at": "2026-05-15T08:42:33.696182",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,
