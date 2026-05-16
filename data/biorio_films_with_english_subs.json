@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-15T08:41:51.390436",
+    "scraped_at": "2026-05-16T07:55:12.057854",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -100,65 +100,6 @@
     "title": "Nyårsfesten",
     "director": "Paprika Steen",
     "showtimes": [
-      {
-        "datetime": "2026-05-15T13:35:00.000Z",
-        "display_text": "Friday May 15, 2026 at 13:35",
-        "movie_id": "5900",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2088",
-        "api_data": {
-          "id": 2088,
-          "movieId": 5900,
-          "movieVersionId": 599,
-          "startTime": "2026-05-15T13:35:00.000Z",
-          "endTime": "2026-05-15T15:10:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5900,
-            "title": "Nyårsfesten",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5900/posters/1777371721494-2ddf6h.avif",
-            "movieVersions": [
-              {
-                "duration": 95,
-                "audio": "Danska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Danska"
-          },
-          "MovieVersion": {
-            "id": 599,
-            "duration": 95,
-            "subtitles": "Engelska",
-            "audio": "Danska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 2,
-              "name": "Matiné"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 1,
-          "ticketsAvailable": 179,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-05-15T13:35:00",
-        "normalized_date": "15.05",
-        "normalized_time": "13:35"
-      },
       {
         "datetime": "2026-05-18T13:50:00.000Z",
         "display_text": "Monday May 18, 2026 at 13:50",
@@ -340,7 +281,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-15T08:42:00.994871",
+    "scraped_at": "2026-05-16T07:55:21.684309",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -434,14 +375,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-15T08:42:08.587401",
+    "scraped_at": "2026-05-16T07:55:29.058970",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.405,
+      "rating": 7.4,
       "vote_count": 2619,
       "genres": [
         "Animation",
@@ -517,8 +458,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 22,
-          "ticketsAvailable": 158,
+          "ticketsSold": 27,
+          "ticketsAvailable": 153,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -529,7 +470,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-15T08:42:21.219836",
+    "scraped_at": "2026-05-16T07:55:41.556520",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -682,7 +623,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-15T08:42:26.088106",
+    "scraped_at": "2026-05-16T07:55:45.800433",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
@@ -776,7 +717,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-15T08:42:31.027856",
+    "scraped_at": "2026-05-16T07:55:51.013504",
     "source": "biorio",
     "tmdb": {
       "id": 1432547,
@@ -931,7 +872,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-15T08:42:33.696182",
+    "scraped_at": "2026-05-16T07:55:54.250980",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,
