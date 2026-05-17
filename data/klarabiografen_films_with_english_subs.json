@@ -1,35 +1,5 @@
 [
   {
-    "film_id": "visning-av-samuel-qa-med-emilie-tronche-seriefestivalen",
-    "url": "https://kulturhusetstadsteatern.se/bio/visning-av-samuel-qa-med-emilie-tronche-seriefestivalen",
-    "title": "Visning av Samuel + Q&A med Émilie Tronche (Seriefestivalen)",
-    "director": "",
-    "duration": "90 min + 20 min samtal",
-    "language": "",
-    "description": "Samuel är 10 år och skriver dagbok. Och han har ett problem. Problemet är att Basile har sagt till Julie i stora klassen att Samuel är kär i henne. Vilket inte alls stämmer. Han bryr sig inte om Julie. Det är bara att hon skrattade åt ett av hans skämt, och det tyckte han var snällt av henne.",
-    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-04/Samuel.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-05-16T15:00:00+02:00",
-        "display_text": "Saturday 16 May 2026 at 15:00",
-        "time": "15:00",
-        "date_section": "16.05",
-        "ticket_url": null,
-        "tix_event_id": 125833,
-        "tix_event_group_id": 30859,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-05-16T15:00:00",
-        "normalized_date": "16.05",
-        "normalized_time": "15:00"
-      }
-    ],
-    "cinemas": [
-      "Klarabiografen"
-    ],
-    "scraped_at": "2026-05-16T07:56:20.863794+00:00",
-    "source": "klarabiografen"
-  },
-  {
     "film_id": "sand-castles-qa-ukraine-film-now",
     "url": "https://kulturhusetstadsteatern.se/bio/sand-castles-qa-ukraine-film-now",
     "title": "Sand Castles + Q&A (Ukraine Film Now)",
@@ -56,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-16T07:56:20.863911+00:00",
+    "scraped_at": "2026-05-17T08:13:55.962167+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 266425,
@@ -120,7 +90,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-16T07:56:20.864104+00:00",
+    "scraped_at": "2026-05-17T08:13:55.962366+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 692562,
@@ -169,7 +139,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-16T07:56:20.864463+00:00",
+    "scraped_at": "2026-05-17T08:13:55.962698+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1454209,
@@ -218,7 +188,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-16T07:56:20.864488+00:00",
+    "scraped_at": "2026-05-17T08:13:55.962723+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1507573,
@@ -268,7 +238,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-16T07:56:20.864527+00:00",
+    "scraped_at": "2026-05-17T08:13:55.962761+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 45166,
@@ -317,7 +287,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-16T07:56:20.864548+00:00",
+    "scraped_at": "2026-05-17T08:13:55.962784+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 435217,
@@ -379,15 +349,15 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-16T07:56:20.864637+00:00",
+    "scraped_at": "2026-05-17T08:13:55.962870+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
       "title": "Dangerous Liaisons",
       "overview": "The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.",
       "release_date": "2022-07-08",
-      "rating": 5.873,
-      "vote_count": 318,
+      "rating": 5.864,
+      "vote_count": 319,
       "genres": [
         "Drama",
         "Romance"
