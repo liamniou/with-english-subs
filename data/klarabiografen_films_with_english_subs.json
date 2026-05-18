@@ -26,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-17T08:13:55.962167+00:00",
+    "scraped_at": "2026-05-18T09:49:14.032894+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 266425,
@@ -90,7 +90,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-17T08:13:55.962366+00:00",
+    "scraped_at": "2026-05-18T09:49:14.033135+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 692562,
@@ -139,15 +139,15 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-17T08:13:55.962698+00:00",
+    "scraped_at": "2026-05-18T09:49:14.033471+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1454209,
       "title": "National Theatre Live: Inter Alia",
       "overview": "Jessica Parks is a smart Crown Court Judge at the top of her career. Behind the robe, she is a karaoke fiend, loving wife and a supportive parent. When an event threatens to throw her life completely off balance, can she hold her family upright?",
       "release_date": "2025-09-25",
-      "rating": 8.2,
-      "vote_count": 5,
+      "rating": 8.167,
+      "vote_count": 6,
       "genres": [
         "Drama"
       ],
@@ -188,26 +188,25 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-17T08:13:55.962723+00:00",
+    "scraped_at": "2026-05-18T09:49:14.033494+00:00",
     "source": "klarabiografen",
     "tmdb": {
-      "id": 1507573,
-      "title": "National Theatre Live: The Fifth Step",
-      "overview": "After years in the twelve steps of Alcoholics Anonymous, James becomes a sponsor to newcomer Luka. The pair bond over black coffee, trade stories and build a fragile friendship out of their shared experiences. But as Luka approaches step five – the moment of confession – dangerous truths emerge, threatening the trust on which both of their recoveries depend.",
-      "release_date": "2025-11-27",
+      "id": 1430053,
+      "title": "The Fifth Step",
+      "overview": "An inmate manages to win the prison time battle by thinking about his wife, who  was also imprisoned. He lives only with the hope that the two will see each other again, but eventually realizes that the only thing he has left is the memory of the two's dancing steps.",
+      "release_date": "",
       "rating": 0.0,
       "vote_count": 0,
       "genres": [
-        "Drama",
-        "Comedy"
+        "Drama"
       ],
-      "poster_path": "/f2FeCAeOadqj3leou4XTsHDR8pX.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/f2FeCAeOadqj3leou4XTsHDR8pX.jpg",
-      "backdrop_path": "/xAAk7DR2bloyaM5xj0In0Kel4m.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xAAk7DR2bloyaM5xj0In0Kel4m.jpg",
-      "imdb_id": "tt37511177",
-      "runtime": 85,
-      "budget": 0,
+      "poster_path": "/zMDBTVUTxYLkQMlrapfiAOhjqYl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zMDBTVUTxYLkQMlrapfiAOhjqYl.jpg",
+      "backdrop_path": "/qDlh8ac9mg9fX1l0EP9tYSTybtK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qDlh8ac9mg9fX1l0EP9tYSTybtK.jpg",
+      "imdb_id": null,
+      "runtime": 8,
+      "budget": 1000,
       "revenue": 0
     }
   },
@@ -238,7 +237,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-17T08:13:55.962761+00:00",
+    "scraped_at": "2026-05-18T09:49:14.033533+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 45166,
@@ -287,7 +286,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-17T08:13:55.962784+00:00",
+    "scraped_at": "2026-05-18T09:49:14.033555+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 435217,
@@ -349,7 +348,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-17T08:13:55.962870+00:00",
+    "scraped_at": "2026-05-18T09:49:14.033647+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,

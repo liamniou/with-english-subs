@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-17T08:12:51.719964",
+    "scraped_at": "2026-05-18T09:48:20.661034",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -281,7 +281,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-17T08:13:01.893389",
+    "scraped_at": "2026-05-18T09:48:30.231202",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -375,15 +375,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-17T08:13:09.650837",
+    "scraped_at": "2026-05-18T09:48:37.261892",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.403,
-      "vote_count": 2623,
+      "rating": 7.4,
+      "vote_count": 2624,
       "genres": [
         "Animation",
         "Fantasy",
@@ -458,8 +458,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 27,
-          "ticketsAvailable": 153,
+          "ticketsSold": 29,
+          "ticketsAvailable": 151,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -470,7 +470,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-17T08:13:20.298730",
+    "scraped_at": "2026-05-18T09:48:47.977847",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -623,15 +623,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-17T08:13:24.979549",
+    "scraped_at": "2026-05-18T09:48:52.583294",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
       "title": "The Girl Who Leapt Through Time",
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
-      "rating": 7.778,
-      "vote_count": 2241,
+      "rating": 7.777,
+      "vote_count": 2243,
       "genres": [
         "Fantasy",
         "Animation",
@@ -717,7 +717,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-17T08:13:30.420596",
+    "scraped_at": "2026-05-18T09:48:57.343389",
     "source": "biorio",
     "tmdb": {
       "id": 1432547,
@@ -860,8 +860,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 35,
-          "ticketsAvailable": 145,
+          "ticketsSold": 40,
+          "ticketsAvailable": 140,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-06T08:30:00",
@@ -872,7 +872,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-17T08:13:33.973760",
+    "scraped_at": "2026-05-18T09:49:00.370735",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,

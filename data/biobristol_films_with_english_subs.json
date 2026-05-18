@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "film_id": "bangla",
+    "url": "https://www.biobristol.se/f/bangla/475",
+    "title": "Bangla",
+    "director": "Phaim Bhuiyan",
+    "duration": "86 min",
+    "language": "Italienska",
+    "description": "Q&A with Phaim Bhuiyan arriving straight from Torpignattara, Rome!\n\nPhaim, a young Muslim of Bangladeshi origin born in Italy 22 years ago, lives with his family in Rome's multiethnic Torpignattara neighbourhood, works as a museum steward, and plays in a band. At a concert, he meets Asia, his exact opposite: pure instinct, and no rules. The attraction between them is immediate, and Phaim will have to figure out how to reconcile his love for the young woman with the most inviolable of Islam's rules: no sex before marriage.\n\nClick on the showtime \"16:00\" to buy tickets!",
+    "poster_url": "https://mars-images.imgix.net/1779051047327?auto=compress&w=1200&fit=max",
+    "showtimes": [
+      {
+        "datetime": "2026-06-07T16:00:00",
+        "display_text": "Sunday 7 June 2026 at 16:00",
+        "time": "16:00",
+        "date_section": "07.06",
+        "ticket_url": "https://www.biobristol.se/checkout?showId=6a0a3063dd10dbaf0ac538f0",
+        "show_id": "6a0a3063dd10dbaf0ac538f0",
+        "hall": "Bristol",
+        "audio_language": "",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-06-07T16:00:00",
+        "normalized_date": "07.06",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Bristol"
+    ],
+    "scraped_at": "2026-05-18T09:48:10.850797+00:00",
+    "source": "biobristol",
+    "tmdb": {
+      "id": 573650,
+      "title": "Bangla",
+      "overview": "A 22 year-old Bangladeshi-Italian Muslim boy meets a beautiful, exciting Italian girl who makes him re-analyze his beliefs and culture.",
+      "release_date": "2019-05-16",
+      "rating": 6.1,
+      "vote_count": 112,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "poster_path": "/rNmObjXsu7DZvyGrLG6DtLO8iYc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rNmObjXsu7DZvyGrLG6DtLO8iYc.jpg",
+      "backdrop_path": "/o6QaCTgFA1HuA7oTYNSE0QdN775.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/o6QaCTgFA1HuA7oTYNSE0QdN775.jpg",
+      "imdb_id": "tt9639274",
+      "runtime": 84,
+      "budget": 0,
+      "revenue": 0
+    }
+  }
+]
