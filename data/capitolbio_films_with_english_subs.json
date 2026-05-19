@@ -1,56 +1,5 @@
 [
   {
-    "film_id": "clueless",
-    "url": "https://www.capitolbio.se/filmer/clueless/609",
-    "title": "Clueless",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Ingår i Temat: Geniala komedier - smart och svartsynt, slapstick och tramsigt, det finns en komedi för varje sinnesstämning på Capitol.\n\nDet är inte lätt att vara den mest populära tjejen på Beverly Hills High. Särskilt inte med avundsjuka intrigmakare, efterhängsna töntar och lärare som flippar ur när man lämnar in hemläxan för sent! Men på något sätt lyckas 15-åriga Cher (Alicia Silverstone) ändå hålla ordning på allt och har till och med tid för vissa fritidsprojekt, som att ”göra om” en gammalmodig väninna (Brittany Murphy). Men Chers ordentliga tillvaro sätts i gungning när två riktiga snyggingar plötsligt dyker upp: den nya killen i klassen, som är både sexig och elegant (Justin Walker), och Chers mossiga men söta ”ex-styvbror” (Paul Rudd). Och Cher får nu lov att inse att när det handlar om kärlek är hon helt enkelt… Clueless!",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/609/1920/8c4b69ae-b975-4391-9527-6e18a574ecb9.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-05-18T18:00:00",
-        "display_text": "Monday 18 May 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "18.05",
-        "ticket_url": "https://www.capitolbio.se/boka/50516",
-        "booking_id": "50516",
-        "hall": "Salong 1",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-05-18T18:00:00",
-        "normalized_date": "18.05",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-05-18T09:49:09.724939+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 9603,
-      "title": "Clueless",
-      "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him.",
-      "release_date": "1995-07-19",
-      "rating": 7.25,
-      "vote_count": 4787,
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "poster_path": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
-      "backdrop_path": "/65d0MccsiRSPTVicregKQL8owoo.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/65d0MccsiRSPTVicregKQL8owoo.jpg",
-      "imdb_id": "tt0112697",
-      "runtime": 97,
-      "budget": 12000000,
-      "revenue": 56631572
-    }
-  },
-  {
     "film_id": "studio-ghibli-grave-of-the-fireflies-jap-tal-eng-text",
     "url": "https://www.capitolbio.se/filmer/studio-ghibli-grave-of-the-fireflies-jap-tal-eng-text/4435",
     "title": "Studio Ghibli: Grave of the Fireflies (jap. tal, eng. text)",
@@ -61,24 +10,24 @@
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4435/1920/ea9cefdc-d731-4585-881c-2e02e9c6f024.jpg",
     "showtimes": [
       {
-        "datetime": "2026-05-30T12:10:00",
-        "display_text": "Saturday 30 May 2026 at 12:10",
-        "time": "12:10",
+        "datetime": "2026-05-30T12:15:00",
+        "display_text": "Saturday 30 May 2026 at 12:15",
+        "time": "12:15",
         "date_section": "30.05",
         "ticket_url": "https://www.capitolbio.se/boka/50653",
         "booking_id": "50653",
         "hall": "Salong 1",
         "audio_language": "JP",
         "subtitle_language": "EN",
-        "normalized_datetime": "2026-05-30T12:10:00",
+        "normalized_datetime": "2026-05-30T12:15:00",
         "normalized_date": "30.05",
-        "normalized_time": "12:10"
+        "normalized_time": "12:15"
       }
     ],
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-05-18T09:49:09.724988+00:00",
+    "scraped_at": "2026-05-19T09:32:07.971478+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 76826,

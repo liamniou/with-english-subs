@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-18T09:48:20.661034",
+    "scraped_at": "2026-05-19T09:31:22.129758",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -100,65 +100,6 @@
     "title": "Nyårsfesten",
     "director": "Paprika Steen",
     "showtimes": [
-      {
-        "datetime": "2026-05-18T13:50:00.000Z",
-        "display_text": "Monday May 18, 2026 at 13:50",
-        "movie_id": "5900",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2089",
-        "api_data": {
-          "id": 2089,
-          "movieId": 5900,
-          "movieVersionId": 599,
-          "startTime": "2026-05-18T13:50:00.000Z",
-          "endTime": "2026-05-18T15:25:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5900,
-            "title": "Nyårsfesten",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5900/posters/1777371721494-2ddf6h.avif",
-            "movieVersions": [
-              {
-                "duration": 95,
-                "audio": "Danska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Danska"
-          },
-          "MovieVersion": {
-            "id": 599,
-            "duration": 95,
-            "subtitles": "Engelska",
-            "audio": "Danska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 2,
-              "name": "Matiné"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 1,
-          "ticketsAvailable": 179,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-05-18T13:50:00",
-        "normalized_date": "18.05",
-        "normalized_time": "13:50"
-      },
       {
         "datetime": "2026-05-27T11:30:00.000Z",
         "display_text": "Wednesday May 27, 2026 at 11:30",
@@ -281,7 +222,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-18T09:48:30.231202",
+    "scraped_at": "2026-05-19T09:31:31.659056",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -375,15 +316,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-18T09:48:37.261892",
+    "scraped_at": "2026-05-19T09:31:38.389733",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.4,
-      "vote_count": 2624,
+      "rating": 7.403,
+      "vote_count": 2625,
       "genres": [
         "Animation",
         "Fantasy",
@@ -458,8 +399,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 29,
-          "ticketsAvailable": 151,
+          "ticketsSold": 39,
+          "ticketsAvailable": 141,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -470,7 +411,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-18T09:48:47.977847",
+    "scraped_at": "2026-05-19T09:31:47.597795",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -478,7 +419,7 @@
       "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
       "release_date": "2003-06-27",
       "rating": 3.997,
-      "vote_count": 1524,
+      "vote_count": 1525,
       "genres": [
         "Drama",
         "Romance"
@@ -623,7 +564,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-18T09:48:52.583294",
+    "scraped_at": "2026-05-19T09:31:51.758512",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
@@ -631,7 +572,7 @@
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
       "rating": 7.777,
-      "vote_count": 2243,
+      "vote_count": 2244,
       "genres": [
         "Fantasy",
         "Animation",
@@ -717,7 +658,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-18T09:48:57.343389",
+    "scraped_at": "2026-05-19T09:31:56.397935",
     "source": "biorio",
     "tmdb": {
       "id": 1432547,
@@ -860,8 +801,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 40,
-          "ticketsAvailable": 140,
+          "ticketsSold": 47,
+          "ticketsAvailable": 133,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-06T08:30:00",
@@ -872,7 +813,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-18T09:49:00.370735",
+    "scraped_at": "2026-05-19T09:31:59.438020",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,
