@@ -1,56 +1,5 @@
 [
   {
-    "film_id": "the-love-that-remains",
-    "url": "https://www.biobristol.se/f/the-love-that-remains/453",
-    "title": "The Love That Remains",
-    "director": "Hlynur Pálmason",
-    "duration": "109 min",
-    "language": "Isländska",
-    "description": "När kärleken bleknar, består minnena. Sverrir Gudnason spelar en far som befinner sig mellan skratt och sorg - där minnena är de enda som håller allt samman.\n\nThe Love That Remains fångar ömsint ett år i en familjs liv. Ett år där föräldrarna försöker navigera genom sin separation långsamt, men oundvikligen glider isär. Med en blandning av lekfullhet och djup porträtterar filmen det bitterljuva i en kärlek som bleknat, men där minnena fortfarande binder samman - allt mot en fond av årstidernas tysta förändring.\n\nHlynur Pálmason, regissören av Godland och En vit, vit dag, skildrar nu kärlekens och separationens komplexa sidor i The Love That Remains\n\nNOTE! The screening on June 3 is with English subtitles. \n\nThe film tenderly captures a year in the life of a family as the parents navigate their separation. Through both playful and heartfelt moments, the film portrays the bittersweet essence of faded love and shared memories amidst the changing seasons.",
-    "poster_url": "https://mars-images.imgix.net/1775135527005?auto=compress&w=1200&fit=max",
-    "showtimes": [
-      {
-        "datetime": "2026-06-03T18:30:00",
-        "display_text": "Wednesday 3 June 2026 at 18:30",
-        "time": "18:30",
-        "date_section": "03.06",
-        "ticket_url": "https://www.biobristol.se/checkout?showId=69fa73b0f60e8316f3411a2f",
-        "show_id": "69fa73b0f60e8316f3411a2f",
-        "hall": "Bristol",
-        "audio_language": "",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-06-03T18:30:00",
-        "normalized_date": "03.06",
-        "normalized_time": "18:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Bristol"
-    ],
-    "scraped_at": "2026-05-19T09:31:07.565567+00:00",
-    "source": "biobristol",
-    "tmdb": {
-      "id": 1258509,
-      "title": "The Love That Remains",
-      "overview": "Tenderly captures a year in the life of a family as the parents navigate their separation. Through both playful and heartfelt moments, the film portrays the bittersweet essence of faded love and shared memories amidst the changing seasons.",
-      "release_date": "2025-08-14",
-      "rating": 6.357,
-      "vote_count": 21,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster_path": "/igNHWsxXZeGegiPttjQCv5ImAu7.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/igNHWsxXZeGegiPttjQCv5ImAu7.jpg",
-      "backdrop_path": "/7xWTnediis2NYgZTq7ZndvI9JgW.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7xWTnediis2NYgZTq7ZndvI9JgW.jpg",
-      "imdb_id": "tt33381401",
-      "runtime": 109,
-      "budget": 0,
-      "revenue": 133449
-    }
-  },
-  {
     "film_id": "bangla",
     "url": "https://www.biobristol.se/f/bangla/475",
     "title": "Bangla",
@@ -78,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-05-19T09:31:12.626334+00:00",
+    "scraped_at": "2026-05-20T08:56:54.235002+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 573650,
