@@ -1,5 +1,311 @@
 [
   {
+    "film_id": "nyarsfesten",
+    "url": "https://www.biorio.se/sv/filmer/nyarsfesten",
+    "title": "Nyårsfesten",
+    "director": "Paprika Steen",
+    "showtimes": [
+      {
+        "datetime": "2026-05-27T11:30:00.000Z",
+        "display_text": "Wednesday May 27, 2026 at 11:30",
+        "movie_id": "5900",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2168",
+        "api_data": {
+          "id": 2168,
+          "movieId": 5900,
+          "movieVersionId": 599,
+          "startTime": "2026-05-27T11:30:00.000Z",
+          "endTime": "2026-05-27T13:05:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5900,
+            "title": "Nyårsfesten",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5900/posters/1777371721494-2ddf6h.avif",
+            "movieVersions": [
+              {
+                "duration": 95,
+                "audio": "Danska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Danska"
+          },
+          "MovieVersion": {
+            "id": 599,
+            "duration": 95,
+            "subtitles": "Engelska",
+            "audio": "Danska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 2,
+              "name": "Matiné"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-05-27T11:30:00",
+        "normalized_date": "27.05",
+        "normalized_time": "11:30"
+      },
+      {
+        "datetime": "2026-05-28T13:10:00.000Z",
+        "display_text": "Thursday May 28, 2026 at 13:10",
+        "movie_id": "5900",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2171",
+        "api_data": {
+          "id": 2171,
+          "movieId": 5900,
+          "movieVersionId": 599,
+          "startTime": "2026-05-28T13:10:00.000Z",
+          "endTime": "2026-05-28T14:45:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5900,
+            "title": "Nyårsfesten",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5900/posters/1777371721494-2ddf6h.avif",
+            "movieVersions": [
+              {
+                "duration": 95,
+                "audio": "Danska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Danska"
+          },
+          "MovieVersion": {
+            "id": 599,
+            "duration": 95,
+            "subtitles": "Engelska",
+            "audio": "Danska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 2,
+              "name": "Matiné"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-05-28T13:10:00",
+        "normalized_date": "28.05",
+        "normalized_time": "13:10"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-05-21T09:26:52.310633",
+    "source": "biorio",
+    "tmdb": {
+      "id": 1541356,
+      "title": "To New Beginnings",
+      "overview": "A group of old friends meets up on New Year's Eve, as they do every year, to celebrate with traditions, memories, and shared rituals. But someone is missing: Martin, who died in a tragic accident years ago. This year, Nomi, Martin's former girlfriend, brings along her new boyfriend, Finn, for the first time. With little sense of which questions are appropriate and a penchant for bringing up sensitive topics, Finn shakes up the close-knit group. It becomes an unforgettable evening that could mean a new beginning for each of them.",
+      "release_date": "2025-11-06",
+      "rating": 7.2,
+      "vote_count": 10,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "poster_path": "/xv0v1XUNhtWOIYBiABc6qcozEy1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xv0v1XUNhtWOIYBiABc6qcozEy1.jpg",
+      "backdrop_path": "/AkpT0jXUNIMZh3QDDPvQlHTgQvo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/AkpT0jXUNIMZh3QDDPvQlHTgQvo.jpg",
+      "imdb_id": "tt38285001",
+      "runtime": 95,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "the-girl-who-leapt-through-time",
+    "url": "https://www.biorio.se/sv/filmer/the-girl-who-leapt-through-time",
+    "title": "The Girl Who Leapt Through Time",
+    "director": "Mamoru Hosoda",
+    "showtimes": [
+      {
+        "datetime": "2026-06-11T16:00:00.000Z",
+        "display_text": "Thursday June 11, 2026 at 16:00",
+        "movie_id": "5823",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/1824",
+        "api_data": {
+          "id": 1824,
+          "movieId": 5823,
+          "movieVersionId": 512,
+          "startTime": "2026-06-11T16:00:00.000Z",
+          "endTime": "2026-06-11T17:38:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5823,
+            "title": "The Girl Who Leapt Through Time",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5823/posters/1772636569631-d4invo.avif",
+            "movieVersions": [
+              {
+                "duration": 98,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 512,
+            "duration": 98,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 6,
+          "ticketsAvailable": 174,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-06-11T16:00:00",
+        "normalized_date": "11.06",
+        "normalized_time": "16:00"
+      },
+      {
+        "datetime": "2026-06-14T08:30:00.000Z",
+        "display_text": "Sunday June 14, 2026 at 08:30",
+        "movie_id": "5823",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/1825",
+        "api_data": {
+          "id": 1825,
+          "movieId": 5823,
+          "movieVersionId": 512,
+          "startTime": "2026-06-14T08:30:00.000Z",
+          "endTime": "2026-06-14T10:08:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5823,
+            "title": "The Girl Who Leapt Through Time",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5823/posters/1772636569631-d4invo.avif",
+            "movieVersions": [
+              {
+                "duration": 98,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 512,
+            "duration": 98,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 3,
+              "name": "Frukostbio"
+            }
+          ],
+          "tags": [
+            "Frukostbio"
+          ],
+          "ticketsSold": 6,
+          "ticketsAvailable": 174,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-06-14T08:30:00",
+        "normalized_date": "14.06",
+        "normalized_time": "08:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-05-21T09:27:04.951304",
+    "source": "biorio",
+    "tmdb": {
+      "id": 14069,
+      "title": "The Girl Who Leapt Through Time",
+      "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
+      "release_date": "2006-07-15",
+      "rating": 7.8,
+      "vote_count": 2243,
+      "genres": [
+        "Fantasy",
+        "Animation",
+        "Drama",
+        "Science Fiction"
+      ],
+      "poster_path": "/xHnlWM8BmqY419YUccYy2KC5Jqo.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xHnlWM8BmqY419YUccYy2KC5Jqo.jpg",
+      "backdrop_path": "/3c59KMNs2MYqXUb2GZe8Yfwn4kb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3c59KMNs2MYqXUb2GZe8Yfwn4kb.jpg",
+      "imdb_id": "tt0808506",
+      "runtime": 98,
+      "budget": 0,
+      "revenue": 3478290
+    }
+  },
+  {
     "film_id": "broderna-lejonhjarta",
     "url": "https://www.biorio.se/sv/filmer/broderna-lejonhjarta",
     "title": "Bröderna Lejonhjärta",
@@ -70,7 +376,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-20T08:57:04.450945",
+    "scraped_at": "2026-05-21T09:27:11.348483",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -90,157 +396,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/8PB8HLRcKjnkUDxm0ELtlwm7XzT.jpg",
       "imdb_id": "tt0075790",
       "runtime": 102,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "nyarsfesten",
-    "url": "https://www.biorio.se/sv/filmer/nyarsfesten",
-    "title": "Nyårsfesten",
-    "director": "Paprika Steen",
-    "showtimes": [
-      {
-        "datetime": "2026-05-27T11:30:00.000Z",
-        "display_text": "Wednesday May 27, 2026 at 11:30",
-        "movie_id": "5900",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2168",
-        "api_data": {
-          "id": 2168,
-          "movieId": 5900,
-          "movieVersionId": 599,
-          "startTime": "2026-05-27T11:30:00.000Z",
-          "endTime": "2026-05-27T13:05:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5900,
-            "title": "Nyårsfesten",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5900/posters/1777371721494-2ddf6h.avif",
-            "movieVersions": [
-              {
-                "duration": 95,
-                "audio": "Danska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Danska"
-          },
-          "MovieVersion": {
-            "id": 599,
-            "duration": 95,
-            "subtitles": "Engelska",
-            "audio": "Danska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 2,
-              "name": "Matiné"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-05-27T11:30:00",
-        "normalized_date": "27.05",
-        "normalized_time": "11:30"
-      },
-      {
-        "datetime": "2026-05-28T13:30:00.000Z",
-        "display_text": "Thursday May 28, 2026 at 13:30",
-        "movie_id": "5900",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2171",
-        "api_data": {
-          "id": 2171,
-          "movieId": 5900,
-          "movieVersionId": 599,
-          "startTime": "2026-05-28T13:30:00.000Z",
-          "endTime": "2026-05-28T15:05:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5900,
-            "title": "Nyårsfesten",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5900/posters/1777371721494-2ddf6h.avif",
-            "movieVersions": [
-              {
-                "duration": 95,
-                "audio": "Danska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Danska"
-          },
-          "MovieVersion": {
-            "id": 599,
-            "duration": 95,
-            "subtitles": "Engelska",
-            "audio": "Danska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 2,
-              "name": "Matiné"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-05-28T13:30:00",
-        "normalized_date": "28.05",
-        "normalized_time": "13:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-05-20T08:57:15.110202",
-    "source": "biorio",
-    "tmdb": {
-      "id": 1541356,
-      "title": "To New Beginnings",
-      "overview": "A group of old friends meets up on New Year's Eve, as they do every year, to celebrate with traditions, memories, and shared rituals. But someone is missing: Martin, who died in a tragic accident years ago. This year, Nomi, Martin's former girlfriend, brings along her new boyfriend, Finn, for the first time. With little sense of which questions are appropriate and a penchant for bringing up sensitive topics, Finn shakes up the close-knit group. It becomes an unforgettable evening that could mean a new beginning for each of them.",
-      "release_date": "2025-11-06",
-      "rating": 7.2,
-      "vote_count": 10,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "poster_path": "/xv0v1XUNhtWOIYBiABc6qcozEy1.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xv0v1XUNhtWOIYBiABc6qcozEy1.jpg",
-      "backdrop_path": "/AkpT0jXUNIMZh3QDDPvQlHTgQvo.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/AkpT0jXUNIMZh3QDDPvQlHTgQvo.jpg",
-      "imdb_id": "tt38285001",
-      "runtime": 95,
       "budget": 0,
       "revenue": 0
     }
@@ -316,15 +471,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-20T08:57:23.262945",
+    "scraped_at": "2026-05-21T09:27:28.509996",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.404,
-      "vote_count": 2624,
+      "rating": 7.402,
+      "vote_count": 2626,
       "genres": [
         "Animation",
         "Fantasy",
@@ -399,8 +554,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 44,
-          "ticketsAvailable": 136,
+          "ticketsSold": 52,
+          "ticketsAvailable": 128,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -411,7 +566,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-20T08:57:34.014493",
+    "scraped_at": "2026-05-21T09:27:32.978079",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -432,161 +587,6 @@
       "runtime": 100,
       "budget": 6000000,
       "revenue": 1752988
-    }
-  },
-  {
-    "film_id": "the-girl-who-leapt-through-time",
-    "url": "https://www.biorio.se/sv/filmer/the-girl-who-leapt-through-time",
-    "title": "The Girl Who Leapt Through Time",
-    "director": "Mamoru Hosoda",
-    "showtimes": [
-      {
-        "datetime": "2026-06-11T16:00:00.000Z",
-        "display_text": "Thursday June 11, 2026 at 16:00",
-        "movie_id": "5823",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/1824",
-        "api_data": {
-          "id": 1824,
-          "movieId": 5823,
-          "movieVersionId": 512,
-          "startTime": "2026-06-11T16:00:00.000Z",
-          "endTime": "2026-06-11T17:38:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5823,
-            "title": "The Girl Who Leapt Through Time",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5823/posters/1772636569631-d4invo.avif",
-            "movieVersions": [
-              {
-                "duration": 98,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 512,
-            "duration": 98,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 4,
-          "ticketsAvailable": 176,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-06-11T16:00:00",
-        "normalized_date": "11.06",
-        "normalized_time": "16:00"
-      },
-      {
-        "datetime": "2026-06-14T08:30:00.000Z",
-        "display_text": "Sunday June 14, 2026 at 08:30",
-        "movie_id": "5823",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/1825",
-        "api_data": {
-          "id": 1825,
-          "movieId": 5823,
-          "movieVersionId": 512,
-          "startTime": "2026-06-14T08:30:00.000Z",
-          "endTime": "2026-06-14T10:08:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5823,
-            "title": "The Girl Who Leapt Through Time",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5823/posters/1772636569631-d4invo.avif",
-            "movieVersions": [
-              {
-                "duration": 98,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 512,
-            "duration": 98,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 3,
-              "name": "Frukostbio"
-            }
-          ],
-          "tags": [
-            "Frukostbio"
-          ],
-          "ticketsSold": 6,
-          "ticketsAvailable": 174,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-06-14T08:30:00",
-        "normalized_date": "14.06",
-        "normalized_time": "08:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-05-20T08:57:39.014534",
-    "source": "biorio",
-    "tmdb": {
-      "id": 14069,
-      "title": "The Girl Who Leapt Through Time",
-      "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
-      "release_date": "2006-07-15",
-      "rating": 7.778,
-      "vote_count": 2243,
-      "genres": [
-        "Fantasy",
-        "Animation",
-        "Drama",
-        "Science Fiction"
-      ],
-      "poster_path": "/xHnlWM8BmqY419YUccYy2KC5Jqo.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xHnlWM8BmqY419YUccYy2KC5Jqo.jpg",
-      "backdrop_path": "/3c59KMNs2MYqXUb2GZe8Yfwn4kb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3c59KMNs2MYqXUb2GZe8Yfwn4kb.jpg",
-      "imdb_id": "tt0808506",
-      "runtime": 98,
-      "budget": 0,
-      "revenue": 3478290
     }
   },
   {
@@ -658,7 +658,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-20T08:57:43.395987",
+    "scraped_at": "2026-05-21T09:27:37.491640",
     "source": "biorio",
     "tmdb": {
       "id": 1432547,
@@ -813,12 +813,12 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-20T08:57:47.140932",
+    "scraped_at": "2026-05-21T09:27:41.756350",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,
       "title": "The Amazing Digital Circus: The Last Act",
-      "overview": "With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus and its history.  Will they come to terms with what they uncover, or will they make… the other choice? Also, presumably at some point someone says something funny, because this ending can’t be THAT depressing, can it? A theatrical screening of episode 8 and the all new, hour-long episode 9.",
+      "overview": "With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus.",
       "release_date": "2026-06-03",
       "rating": 0.0,
       "vote_count": 0,

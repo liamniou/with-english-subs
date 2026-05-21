@@ -1,45 +1,45 @@
 [
   {
-    "film_id": "aktivister",
-    "url": "https://zita.se/aktivister",
-    "title": "Aktivister",
+    "film_id": "unknown-title",
+    "url": "https://zita.se/lundinfallet-–-tysta-alla-vittnen",
+    "title": "Unknown Title",
     "director": "",
-    "genre": "ActivistsSverige202679 minDokumentärMaj WechselmannSvenskaEngelska",
-    "duration": "",
+    "genre": "",
+    "duration": "Sverige202690 minsvenska, engelskaengelska",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "15:00",
-        "time": "15:00",
+        "display_text": "18:00",
+        "time": "18:00",
         "date": "",
-        "cinema": "(Zita 3)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5810",
-        "normalized_datetime": "2026-05-20T15:00:00",
-        "normalized_date": "20.05",
-        "normalized_time": "15:00"
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5879",
+        "normalized_datetime": "2026-05-21T18:00:00",
+        "normalized_date": "21.05",
+        "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-04-15T07:24:17.203737+00:00",
+    "scraped_at": "2026-05-21T09:28:51.626643+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 458883,
-      "title": "FEMEN: Naked War",
-      "overview": "During one year, Joseph Paris filmed from the inside the Femen movement; its acts, its shocks and confrontations, its smokes and noises, but also its circumstances, its doubts, and sometimes its contradictions. One year at the heart of a overexposed activism in mass-media, where its deep reasons remained under silence or sometimes misconceived.",
-      "release_date": "2014-03-26",
-      "rating": 4.9,
-      "vote_count": 8,
+      "id": 949470,
+      "title": "Unknown Title",
+      "overview": "A short film by Andrei Ventslova",
+      "release_date": "1988-04-15",
+      "rating": 0.0,
+      "vote_count": 0,
       "genres": [
-        "Documentary"
+        "Drama"
       ],
-      "poster_path": "/e9eUfCIWjHGZWSGB74Psga36OKb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/e9eUfCIWjHGZWSGB74Psga36OKb.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt4499308",
-      "runtime": 57,
+      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "imdb_id": null,
+      "runtime": 1,
       "budget": 0,
       "revenue": 0
     }

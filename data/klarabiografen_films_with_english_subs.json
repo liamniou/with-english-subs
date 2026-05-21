@@ -1,56 +1,5 @@
 [
   {
-    "film_id": "sand-castles-qa-ukraine-film-now",
-    "url": "https://kulturhusetstadsteatern.se/bio/sand-castles-qa-ukraine-film-now",
-    "title": "Sand Castles + Q&A (Ukraine Film Now)",
-    "director": "",
-    "duration": "Film 62 min + samtal",
-    "language": "",
-    "description": "\"Sand Castles\" is the story of Ukrainian artists and dreamers who have been representing Ukraine at Burning Man — one of the world’s most renowned cultural platforms — for over ten years.",
-    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-04/Sand_Castles%20Poster%20EN%20New.png",
-    "showtimes": [
-      {
-        "datetime": "2026-05-20T19:00:00+02:00",
-        "display_text": "Wednesday 20 May 2026 at 19:00",
-        "time": "19:00",
-        "date_section": "20.05",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/30540/124900/",
-        "tix_event_id": 124900,
-        "tix_event_group_id": 30540,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-05-20T19:00:00",
-        "normalized_date": "20.05",
-        "normalized_time": "19:00"
-      }
-    ],
-    "cinemas": [
-      "Klarabiografen"
-    ],
-    "scraped_at": "2026-05-20T08:58:02.255772+00:00",
-    "source": "klarabiografen",
-    "tmdb": {
-      "id": 266425,
-      "title": "Sand Castles",
-      "overview": "In rural Indiana, Noah and his impoverished family wrestle with the mysterious return of his now mute sister, Lauren, who was kidnapped and held captive for over a decade.",
-      "release_date": "2016-02-16",
-      "rating": 4.2,
-      "vote_count": 9,
-      "genres": [
-        "Thriller",
-        "Crime",
-        "Drama"
-      ],
-      "poster_path": "/pe2vpFDaFCpew23DFuTg7eOAVSk.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pe2vpFDaFCpew23DFuTg7eOAVSk.jpg",
-      "backdrop_path": "/g5KHHtOd2jSFh7j64C7S05hrvCH.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/g5KHHtOd2jSFh7j64C7S05hrvCH.jpg",
-      "imdb_id": "tt2233170",
-      "runtime": 93,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "playboy-of-western-world",
     "url": "https://kulturhusetstadsteatern.se/bio/playboy-of-western-world",
     "title": "The Playboy of the Western World",
@@ -90,7 +39,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-20T08:58:02.256004+00:00",
+    "scraped_at": "2026-05-21T09:27:59.058947+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 692562,
@@ -139,7 +88,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-20T08:58:02.256275+00:00",
+    "scraped_at": "2026-05-21T09:27:59.059295+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1454209,
@@ -188,25 +137,26 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-20T08:58:02.256292+00:00",
+    "scraped_at": "2026-05-21T09:27:59.059316+00:00",
     "source": "klarabiografen",
     "tmdb": {
-      "id": 1430053,
-      "title": "The Fifth Step",
-      "overview": "An inmate manages to win the prison time battle by thinking about his wife, who  was also imprisoned. He lives only with the hope that the two will see each other again, but eventually realizes that the only thing he has left is the memory of the two's dancing steps.",
-      "release_date": "",
+      "id": 1507573,
+      "title": "National Theatre Live: The Fifth Step",
+      "overview": "After years in the twelve steps of Alcoholics Anonymous, James becomes a sponsor to newcomer Luka. The pair bond over black coffee, trade stories and build a fragile friendship out of their shared experiences. But as Luka approaches step five – the moment of confession – dangerous truths emerge, threatening the trust on which both of their recoveries depend.",
+      "release_date": "2025-11-27",
       "rating": 0.0,
       "vote_count": 0,
       "genres": [
-        "Drama"
+        "Drama",
+        "Comedy"
       ],
-      "poster_path": "/zMDBTVUTxYLkQMlrapfiAOhjqYl.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zMDBTVUTxYLkQMlrapfiAOhjqYl.jpg",
-      "backdrop_path": "/qDlh8ac9mg9fX1l0EP9tYSTybtK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qDlh8ac9mg9fX1l0EP9tYSTybtK.jpg",
-      "imdb_id": null,
-      "runtime": 8,
-      "budget": 1000,
+      "poster_path": "/f2FeCAeOadqj3leou4XTsHDR8pX.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f2FeCAeOadqj3leou4XTsHDR8pX.jpg",
+      "backdrop_path": "/xAAk7DR2bloyaM5xj0In0Kel4m.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xAAk7DR2bloyaM5xj0In0Kel4m.jpg",
+      "imdb_id": "tt37511177",
+      "runtime": 85,
+      "budget": 0,
       "revenue": 0
     }
   },
@@ -237,14 +187,14 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-20T08:58:02.256326+00:00",
+    "scraped_at": "2026-05-21T09:27:59.059368+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 45166,
       "title": "All My Sons",
       "overview": "During WWII, industrialist Joe Keller commits a crime and frames his business partner Herbert Deever. Years later, his sin comes back to haunt him when his son plans to marry Deever's daughter.",
       "release_date": "1948-05-01",
-      "rating": 6.453,
+      "rating": 6.5,
       "vote_count": 32,
       "genres": [
         "Drama"
@@ -286,7 +236,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-20T08:58:02.256346+00:00",
+    "scraped_at": "2026-05-21T09:27:59.059393+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 435217,
@@ -348,7 +298,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-20T08:58:02.256419+00:00",
+    "scraped_at": "2026-05-21T09:27:59.059501+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
