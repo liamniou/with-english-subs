@@ -127,7 +127,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-21T09:26:52.310633",
+    "scraped_at": "2026-05-22T08:52:51.595713",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -280,15 +280,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-21T09:27:04.951304",
+    "scraped_at": "2026-05-22T08:53:01.477936",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
       "title": "The Girl Who Leapt Through Time",
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
-      "rating": 7.8,
-      "vote_count": 2243,
+      "rating": 7.777,
+      "vote_count": 2244,
       "genres": [
         "Fantasy",
         "Animation",
@@ -376,7 +376,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-21T09:27:11.348483",
+    "scraped_at": "2026-05-22T08:53:06.222490",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -471,15 +471,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-21T09:27:28.509996",
+    "scraped_at": "2026-05-22T08:53:17.952896",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.402,
-      "vote_count": 2626,
+      "rating": 7.4,
+      "vote_count": 2627,
       "genres": [
         "Animation",
         "Fantasy",
@@ -566,7 +566,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-21T09:27:32.978079",
+    "scraped_at": "2026-05-22T08:53:21.424683",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -646,8 +646,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 6,
-          "ticketsAvailable": 174,
+          "ticketsSold": 8,
+          "ticketsAvailable": 172,
           "isPublished": true
         },
         "normalized_datetime": "2026-05-31T16:00:00",
@@ -658,7 +658,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-21T09:27:37.491640",
+    "scraped_at": "2026-05-22T08:53:23.895644",
     "source": "biorio",
     "tmdb": {
       "id": 1432547,
@@ -813,19 +813,19 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-21T09:27:41.756350",
+    "scraped_at": "2026-05-22T08:53:27.500686",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,
       "title": "The Amazing Digital Circus: The Last Act",
-      "overview": "With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus.",
+      "overview": "With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus and its history. Will they come to terms with what they uncover, or will they make… the other choice? Also, presumably at some point someone says something funny, because this ending can’t be THAT depressing, can it? A theatrical screening of episode 8 and the all new, hour-long episode 9.",
       "release_date": "2026-06-03",
       "rating": 0.0,
       "vote_count": 0,
       "genres": [
         "Animation",
-        "Drama",
         "Science Fiction",
+        "Drama",
         "Thriller"
       ],
       "poster_path": "/uoZeXWuUS2z2F7VaC1iS5RS5cnk.jpg",
