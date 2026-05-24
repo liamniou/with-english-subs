@@ -39,7 +39,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-23T08:10:33.126550+00:00",
+    "scraped_at": "2026-05-24T08:22:02.465312+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 692562,
@@ -88,7 +88,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-23T08:10:33.126856+00:00",
+    "scraped_at": "2026-05-24T08:22:02.465803+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1454209,
@@ -137,7 +137,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-23T08:10:33.126874+00:00",
+    "scraped_at": "2026-05-24T08:22:02.465829+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1430053,
@@ -186,7 +186,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-23T08:10:33.126912+00:00",
+    "scraped_at": "2026-05-24T08:22:02.465877+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 45166,
@@ -235,7 +235,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-23T08:10:33.126936+00:00",
+    "scraped_at": "2026-05-24T08:22:02.465898+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 435217,
@@ -297,7 +297,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-23T08:10:33.127029+00:00",
+    "scraped_at": "2026-05-24T08:22:02.466020+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
@@ -305,7 +305,7 @@
       "overview": "The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.",
       "release_date": "2022-07-08",
       "rating": 5.864,
-      "vote_count": 319,
+      "vote_count": 320,
       "genres": [
         "Drama",
         "Romance"
