@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "film_id": "cactus-pears",
+    "url": "https://www.bioaspen.se/movies/cactus-pears/",
+    "title": "Cactus Pears - pride-klassiker",
+    "director": "Rohan Kanawade",
+    "duration": "1 tim 52 min",
+    "language": "OTH",
+    "description": "A rural gay story that follows Anand, a 30-something man, who leaves the busy life in Mumbai to return to the countryside to mourn his recently deceased father. There, he tries to evade his relatives’ nosy questions about why he hasn’t found a wife yet, and instead he reconnects with his childhood friend Balya.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/6874/1080/7e704748-5bbd-464a-9d90-386234dbe8b5.png",
+    "showtimes": [
+      {
+        "datetime": "2026-08-02T18:00:00",
+        "display_text": "Sunday 2 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "02.08",
+        "ticket_url": "https://www.bioaspen.se/movies/cactus-pears/",
+        "hall": "Salong 1",
+        "audio_language": "OTH",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-02T18:00:00",
+        "normalized_date": "02.08",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-05-25T09:54:19.749800+00:00",
+    "source": "bioaspen"
+  }
+]

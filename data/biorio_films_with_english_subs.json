@@ -6,6 +6,65 @@
     "director": "Paprika Steen",
     "showtimes": [
       {
+        "datetime": "2026-06-03T10:15:00.000Z",
+        "display_text": "Wednesday June 03, 2026 at 10:15",
+        "movie_id": "5900",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2191",
+        "api_data": {
+          "id": 2191,
+          "movieId": 5900,
+          "movieVersionId": 599,
+          "startTime": "2026-06-03T10:15:00.000Z",
+          "endTime": "2026-06-03T11:50:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5900,
+            "title": "Nyårsfesten",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5900/posters/1777371721494-2ddf6h.avif",
+            "movieVersions": [
+              {
+                "duration": 95,
+                "audio": "Danska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Danska"
+          },
+          "MovieVersion": {
+            "id": 599,
+            "duration": 95,
+            "subtitles": "Engelska",
+            "audio": "Danska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 2,
+              "name": "Matiné"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-06-03T10:15:00",
+        "normalized_date": "03.06",
+        "normalized_time": "10:15"
+      },
+      {
         "datetime": "2026-05-27T11:30:00.000Z",
         "display_text": "Wednesday May 27, 2026 at 11:30",
         "movie_id": "5900",
@@ -127,7 +186,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-24T08:21:07.944316",
+    "scraped_at": "2026-05-25T09:54:33.642276",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -280,15 +339,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-24T08:21:19.653535",
+    "scraped_at": "2026-05-25T09:54:45.124315",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
       "title": "The Girl Who Leapt Through Time",
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
-      "rating": 7.776,
-      "vote_count": 2245,
+      "rating": 7.777,
+      "vote_count": 2247,
       "genres": [
         "Fantasy",
         "Animation",
@@ -376,7 +435,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-24T08:21:25.004489",
+    "scraped_at": "2026-05-25T09:54:50.073039",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -471,15 +530,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-24T08:21:39.122411",
+    "scraped_at": "2026-05-25T09:55:02.144039",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.401,
-      "vote_count": 2628,
+      "rating": 7.402,
+      "vote_count": 2630,
       "genres": [
         "Animation",
         "Fantasy",
@@ -566,7 +625,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-24T08:21:43.549053",
+    "scraped_at": "2026-05-25T09:55:05.944928",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -658,7 +717,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-24T08:21:46.070014",
+    "scraped_at": "2026-05-25T09:55:08.228709",
     "source": "biorio",
     "tmdb": {
       "id": 1432547,
@@ -813,7 +872,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-24T08:21:48.788754",
+    "scraped_at": "2026-05-25T09:55:10.845905",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,
