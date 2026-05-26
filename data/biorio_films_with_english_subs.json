@@ -65,6 +65,65 @@
         "normalized_time": "10:15"
       },
       {
+        "datetime": "2026-06-01T13:45:00.000Z",
+        "display_text": "Monday June 01, 2026 at 13:45",
+        "movie_id": "5900",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2204",
+        "api_data": {
+          "id": 2204,
+          "movieId": 5900,
+          "movieVersionId": 599,
+          "startTime": "2026-06-01T13:45:00.000Z",
+          "endTime": "2026-06-01T15:20:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5900,
+            "title": "Nyårsfesten",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5900/posters/1777371721494-2ddf6h.avif",
+            "movieVersions": [
+              {
+                "duration": 95,
+                "audio": "Danska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Danska"
+          },
+          "MovieVersion": {
+            "id": 599,
+            "duration": 95,
+            "subtitles": "Engelska",
+            "audio": "Danska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 2,
+              "name": "Matiné"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-06-01T13:45:00",
+        "normalized_date": "01.06",
+        "normalized_time": "13:45"
+      },
+      {
         "datetime": "2026-05-27T11:30:00.000Z",
         "display_text": "Wednesday May 27, 2026 at 11:30",
         "movie_id": "5900",
@@ -186,7 +245,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-25T09:54:33.642276",
+    "scraped_at": "2026-05-26T09:40:33.765739",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -266,8 +325,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 6,
-          "ticketsAvailable": 174,
+          "ticketsSold": 8,
+          "ticketsAvailable": 172,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-11T16:00:00",
@@ -339,14 +398,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-25T09:54:45.124315",
+    "scraped_at": "2026-05-26T09:40:45.765415",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
       "title": "The Girl Who Leapt Through Time",
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
-      "rating": 7.777,
+      "rating": 7.8,
       "vote_count": 2247,
       "genres": [
         "Fantasy",
@@ -423,8 +482,8 @@
           "tags": [
             "Family Time"
           ],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 2,
+          "ticketsAvailable": 178,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-21T08:30:00",
@@ -435,7 +494,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-25T09:54:50.073039",
+    "scraped_at": "2026-05-26T09:40:51.156217",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -530,7 +589,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-25T09:55:02.144039",
+    "scraped_at": "2026-05-26T09:41:05.792110",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -625,7 +684,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-25T09:55:05.944928",
+    "scraped_at": "2026-05-26T09:41:09.873414",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -717,7 +776,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-25T09:55:08.228709",
+    "scraped_at": "2026-05-26T09:41:12.081591",
     "source": "biorio",
     "tmdb": {
       "id": 1432547,
@@ -872,7 +931,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-25T09:55:10.845905",
+    "scraped_at": "2026-05-26T09:41:14.998162",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,

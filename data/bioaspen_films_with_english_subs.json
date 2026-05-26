@@ -2,7 +2,7 @@
   {
     "film_id": "cactus-pears",
     "url": "https://www.bioaspen.se/movies/cactus-pears/",
-    "title": "Cactus Pears - pride-klassiker",
+    "title": "Cactus Pears - pride-premiär!",
     "director": "Rohan Kanawade",
     "duration": "1 tim 52 min",
     "language": "OTH",
@@ -26,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-05-25T09:54:19.749800+00:00",
+    "scraped_at": "2026-05-26T09:40:20.164141+00:00",
     "source": "bioaspen"
   }
 ]
