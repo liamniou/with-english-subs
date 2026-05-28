@@ -6,17 +6,17 @@
     "director": "Paprika Steen",
     "showtimes": [
       {
-        "datetime": "2026-06-03T10:15:00.000Z",
-        "display_text": "Wednesday June 03, 2026 at 10:15",
+        "datetime": "2026-05-28T13:10:00.000Z",
+        "display_text": "Thursday May 28, 2026 at 13:10",
         "movie_id": "5900",
         "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2191",
+        "booking_url": "https://www.biorio.se/sv/boka/2171",
         "api_data": {
-          "id": 2191,
+          "id": 2171,
           "movieId": 5900,
           "movieVersionId": 599,
-          "startTime": "2026-06-03T10:15:00.000Z",
-          "endTime": "2026-06-03T11:50:00.000Z",
+          "startTime": "2026-05-28T13:10:00.000Z",
+          "endTime": "2026-05-28T14:45:00.000Z",
           "screenId": 1,
           "screenNumber": 1,
           "language": null,
@@ -60,9 +60,9 @@
           "ticketsAvailable": 180,
           "isPublished": true
         },
-        "normalized_datetime": "2026-06-03T10:15:00",
-        "normalized_date": "03.06",
-        "normalized_time": "10:15"
+        "normalized_datetime": "2026-05-28T13:10:00",
+        "normalized_date": "28.05",
+        "normalized_time": "13:10"
       },
       {
         "datetime": "2026-06-01T13:45:00.000Z",
@@ -124,17 +124,17 @@
         "normalized_time": "13:45"
       },
       {
-        "datetime": "2026-05-27T11:30:00.000Z",
-        "display_text": "Wednesday May 27, 2026 at 11:30",
+        "datetime": "2026-06-03T10:15:00.000Z",
+        "display_text": "Wednesday June 03, 2026 at 10:15",
         "movie_id": "5900",
         "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2168",
+        "booking_url": "https://www.biorio.se/sv/boka/2191",
         "api_data": {
-          "id": 2168,
+          "id": 2191,
           "movieId": 5900,
           "movieVersionId": 599,
-          "startTime": "2026-05-27T11:30:00.000Z",
-          "endTime": "2026-05-27T13:05:00.000Z",
+          "startTime": "2026-06-03T10:15:00.000Z",
+          "endTime": "2026-06-03T11:50:00.000Z",
           "screenId": 1,
           "screenNumber": 1,
           "language": null,
@@ -178,74 +178,15 @@
           "ticketsAvailable": 180,
           "isPublished": true
         },
-        "normalized_datetime": "2026-05-27T11:30:00",
-        "normalized_date": "27.05",
-        "normalized_time": "11:30"
-      },
-      {
-        "datetime": "2026-05-28T13:10:00.000Z",
-        "display_text": "Thursday May 28, 2026 at 13:10",
-        "movie_id": "5900",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2171",
-        "api_data": {
-          "id": 2171,
-          "movieId": 5900,
-          "movieVersionId": 599,
-          "startTime": "2026-05-28T13:10:00.000Z",
-          "endTime": "2026-05-28T14:45:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5900,
-            "title": "Nyårsfesten",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5900/posters/1777371721494-2ddf6h.avif",
-            "movieVersions": [
-              {
-                "duration": 95,
-                "audio": "Danska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Danska"
-          },
-          "MovieVersion": {
-            "id": 599,
-            "duration": 95,
-            "subtitles": "Engelska",
-            "audio": "Danska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 2,
-              "name": "Matiné"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-05-28T13:10:00",
-        "normalized_date": "28.05",
-        "normalized_time": "13:10"
+        "normalized_datetime": "2026-06-03T10:15:00",
+        "normalized_date": "03.06",
+        "normalized_time": "10:15"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-27T09:34:50.025299",
+    "scraped_at": "2026-05-28T09:51:37.191505",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -398,15 +339,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-27T09:35:05.840006",
+    "scraped_at": "2026-05-28T09:51:54.387171",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
       "title": "The Girl Who Leapt Through Time",
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
-      "rating": 7.8,
-      "vote_count": 2247,
+      "rating": 7.776,
+      "vote_count": 2248,
       "genres": [
         "Fantasy",
         "Animation",
@@ -482,8 +423,8 @@
           "tags": [
             "Family Time"
           ],
-          "ticketsSold": 2,
-          "ticketsAvailable": 178,
+          "ticketsSold": 4,
+          "ticketsAvailable": 176,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-21T08:30:00",
@@ -494,7 +435,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-27T09:35:10.881509",
+    "scraped_at": "2026-05-28T09:52:01.396013",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -589,15 +530,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-27T09:35:26.154448",
+    "scraped_at": "2026-05-28T09:52:17.412778",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.401,
-      "vote_count": 2631,
+      "rating": 7.402,
+      "vote_count": 2632,
       "genres": [
         "Animation",
         "Fantasy",
@@ -682,7 +623,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-27T09:35:30.856822",
+    "scraped_at": "2026-05-28T09:52:23.012409",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -702,6 +643,194 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/19EKawKy1Z7nUJMhQE28XBL6Guc.jpg",
       "imdb_id": "tt0275277",
       "runtime": 115,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "steamboy",
+    "url": "https://www.biorio.se/sv/filmer/steamboy",
+    "title": "Steamboy",
+    "director": "Katsuhiro Otomo",
+    "showtimes": [
+      {
+        "datetime": "2026-07-21T18:20:00.000Z",
+        "display_text": "Tuesday July 21, 2026 at 18:20",
+        "movie_id": "5913",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2221",
+        "api_data": {
+          "id": 2221,
+          "movieId": 5913,
+          "movieVersionId": 612,
+          "startTime": "2026-07-21T18:20:00.000Z",
+          "endTime": "2026-07-21T20:26:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5913,
+            "title": "Steamboy",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5913/posters/1779884552465-aqarba.avif",
+            "movieVersions": [
+              {
+                "duration": 126,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 612,
+            "duration": 126,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-07-21T18:20:00",
+        "normalized_date": "21.07",
+        "normalized_time": "18:20"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-05-28T09:52:26.501405",
+    "source": "biorio",
+    "tmdb": {
+      "id": 8953,
+      "title": "Steamboy",
+      "overview": "In 1860s Britain, a boy inventor finds himself caught in the middle of a deadly conflict over a revolutionary advance in steam power.",
+      "release_date": "2004-07-17",
+      "rating": 6.902,
+      "vote_count": 488,
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "poster_path": "/wszfXaMx74a91yRTBgO1fwSvMj3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wszfXaMx74a91yRTBgO1fwSvMj3.jpg",
+      "backdrop_path": "/c31SAQjVMeVGv7mZsrw5BKGXj2P.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/c31SAQjVMeVGv7mZsrw5BKGXj2P.jpg",
+      "imdb_id": "tt0348121",
+      "runtime": 126,
+      "budget": 26000000,
+      "revenue": 18900000
+    }
+  },
+  {
+    "film_id": "fucking-amal",
+    "url": "https://www.biorio.se/sv/filmer/fucking-amal",
+    "title": "Fucking Åmål",
+    "director": "Lukas Moodysson",
+    "showtimes": [
+      {
+        "datetime": "2026-07-28T18:15:00.000Z",
+        "display_text": "Tuesday July 28, 2026 at 18:15",
+        "movie_id": "5915",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2224",
+        "api_data": {
+          "id": 2224,
+          "movieId": 5915,
+          "movieVersionId": 614,
+          "startTime": "2026-07-28T18:15:00.000Z",
+          "endTime": "2026-07-28T19:44:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5915,
+            "title": "Fucking Åmål",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5915/posters/1779885917820-p9cm5jj.avif",
+            "movieVersions": [
+              {
+                "duration": 89,
+                "audio": "Svenska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Svenska"
+          },
+          "MovieVersion": {
+            "id": 614,
+            "duration": 89,
+            "subtitles": "Engelska",
+            "audio": "Svenska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "Pride"
+          ],
+          "ticketsSold": 1,
+          "ticketsAvailable": 179,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-07-28T18:15:00",
+        "normalized_date": "28.07",
+        "normalized_time": "18:15"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-05-28T09:52:31.205200",
+    "source": "biorio",
+    "tmdb": {
+      "id": 11634,
+      "title": "Show Me Love",
+      "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
+      "release_date": "1998-10-23",
+      "rating": 7.1,
+      "vote_count": 590,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "poster_path": "/ek5fMfwGVTyQ0N0VXBT1VWqan3U.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ek5fMfwGVTyQ0N0VXBT1VWqan3U.jpg",
+      "backdrop_path": "/7TjeFeYpwMqI9Q2o69IcZrQoUK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7TjeFeYpwMqI9Q2o69IcZrQoUK.jpg",
+      "imdb_id": "tt0150662",
+      "runtime": 89,
       "budget": 0,
       "revenue": 0
     }
@@ -765,8 +894,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 54,
-          "ticketsAvailable": 126,
+          "ticketsSold": 58,
+          "ticketsAvailable": 122,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -777,7 +906,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-27T09:35:35.621411",
+    "scraped_at": "2026-05-28T09:52:35.677115",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -869,7 +998,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-27T09:35:37.840123",
+    "scraped_at": "2026-05-28T09:52:38.215104",
     "source": "biorio",
     "tmdb": {
       "id": 1432547,
@@ -951,8 +1080,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 23,
-          "ticketsAvailable": 157,
+          "ticketsSold": 24,
+          "ticketsAvailable": 156,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-05T16:00:00",
@@ -1012,8 +1141,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 47,
-          "ticketsAvailable": 133,
+          "ticketsSold": 48,
+          "ticketsAvailable": 132,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-06T08:30:00",
@@ -1024,7 +1153,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-27T09:35:40.786989",
+    "scraped_at": "2026-05-28T09:52:40.944848",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,
