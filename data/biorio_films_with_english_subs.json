@@ -56,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 13,
-          "ticketsAvailable": 167,
+          "ticketsSold": 15,
+          "ticketsAvailable": 165,
           "isPublished": true
         },
         "normalized_datetime": "2026-05-31T16:00:00",
@@ -68,14 +68,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-29T09:41:26.349021",
+    "scraped_at": "2026-05-30T08:20:44.924474",
     "source": "biorio",
     "tmdb": {
       "id": 1432547,
       "title": "ALL YOU NEED IS KILL",
       "overview": "When a massive alien flower known as \"Darol\" unexpectedly erupts in a deadly event, unleashing monstrous creatures that decimate the population of Japan, Rita is caught in the destruction—and killed. But then she wakes up again. And again. Caught in an endless time loop, Rita must navigate the trauma and repetition of death until she crosses paths with Keiji, a shy young man trapped in the same cycle. Together, they fight to break free from the loop and find meaning in the chaos around them.",
       "release_date": "2026-01-09",
-      "rating": 6.526,
+      "rating": 6.5,
       "vote_count": 19,
       "genres": [
         "Animation",
@@ -164,7 +164,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-29T09:41:39.051357",
+    "scraped_at": "2026-05-30T08:20:55.036846",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -257,7 +257,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-29T09:41:47.428100",
+    "scraped_at": "2026-05-30T08:21:01.837754",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -409,7 +409,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-29T09:41:57.365265",
+    "scraped_at": "2026-05-30T08:21:10.553562",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -503,7 +503,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-29T09:41:59.085049",
+    "scraped_at": "2026-05-30T08:21:12.057160",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -598,15 +598,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-29T09:42:09.235649",
+    "scraped_at": "2026-05-30T08:21:21.203294",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.4,
-      "vote_count": 2632,
+      "rating": 7.402,
+      "vote_count": 2633,
       "genres": [
         "Animation",
         "Fantasy",
@@ -691,7 +691,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-29T09:42:15.924786",
+    "scraped_at": "2026-05-30T08:21:27.274397",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -786,15 +786,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-29T09:42:24.633201",
+    "scraped_at": "2026-05-30T08:21:36.350629",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
       "title": "The Room",
       "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
       "release_date": "2003-06-27",
-      "rating": 3.995,
-      "vote_count": 1526,
+      "rating": 3.999,
+      "vote_count": 1527,
       "genres": [
         "Drama",
         "Romance"
@@ -866,8 +866,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 8,
-          "ticketsAvailable": 172,
+          "ticketsSold": 10,
+          "ticketsAvailable": 170,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-11T16:00:00",
@@ -939,15 +939,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-29T09:42:30.025591",
+    "scraped_at": "2026-05-30T08:21:41.293478",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
       "title": "The Girl Who Leapt Through Time",
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
-      "rating": 7.776,
-      "vote_count": 2248,
+      "rating": 7.8,
+      "vote_count": 2250,
       "genres": [
         "Fantasy",
         "Animation",
@@ -1094,7 +1094,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-29T09:42:33.881693",
+    "scraped_at": "2026-05-30T08:21:44.876106",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,

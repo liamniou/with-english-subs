@@ -1,67 +1,5 @@
 [
   {
-    "film_id": "playboy-of-western-world",
-    "url": "https://kulturhusetstadsteatern.se/bio/playboy-of-western-world",
-    "title": "The Playboy of the Western World",
-    "director": "",
-    "duration": "Ca 2 tim 30 min inkl 1 paus",
-    "language": "",
-    "description": "Nicola Coughlan (Bridgerton) gör huvudrollen i John Millington Synges fängslande pjäs om ungdom och identitetssökande. Caitríona McLaughlin regisserar denna mörkt humoristiska berättelse, fylld till brädden med hemligheter.",
-    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-03/The_Playboy_A3.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-05-29T18:00:00+02:00",
-        "display_text": "Friday 29 May 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "29.05",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/30104/123863/",
-        "tix_event_id": 123863,
-        "tix_event_group_id": 30104,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-05-29T18:00:00",
-        "normalized_date": "29.05",
-        "normalized_time": "18:00"
-      },
-      {
-        "datetime": "2026-09-05T18:00:00+02:00",
-        "display_text": "Saturday 5 September 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "05.09",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/30104/123864/",
-        "tix_event_id": 123864,
-        "tix_event_group_id": 30104,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-09-05T18:00:00",
-        "normalized_date": "05.09",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Klarabiografen"
-    ],
-    "scraped_at": "2026-05-29T09:42:48.652292+00:00",
-    "source": "klarabiografen",
-    "tmdb": {
-      "id": 692562,
-      "title": "The Playboy of the Western World",
-      "overview": "A man comes into a pub and boasts that he has just killed his father. Instead of condemning him for the crime, the locals revel in his story and praise him for his deed, with the daughter of the landlord falling for this \"dashing hero\". Things take an even more surprising turn, when the father enters the pub. Based on John Millington Synge's play The Playboy of the Western World.",
-      "release_date": "1974-01-01",
-      "rating": 7.0,
-      "vote_count": 1,
-      "genres": [
-        "TV Movie"
-      ],
-      "poster_path": null,
-      "poster_url": null,
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt0395247",
-      "runtime": 101,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "inter-alia-national-theatre",
     "url": "https://kulturhusetstadsteatern.se/bio/inter-alia-national-theatre",
     "title": "Inter Alia (National Theatre)",
@@ -88,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-29T09:42:48.652701+00:00",
+    "scraped_at": "2026-05-30T08:21:58.116665+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1454209,
@@ -137,25 +75,26 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-29T09:42:48.652724+00:00",
+    "scraped_at": "2026-05-30T08:21:58.116687+00:00",
     "source": "klarabiografen",
     "tmdb": {
-      "id": 1430053,
-      "title": "The Fifth Step",
-      "overview": "An inmate manages to win the prison time battle by thinking about his wife, who  was also imprisoned. He lives only with the hope that the two will see each other again, but eventually realizes that the only thing he has left is the memory of the two's dancing steps.",
-      "release_date": "",
+      "id": 1507573,
+      "title": "National Theatre Live: The Fifth Step",
+      "overview": "After years in the twelve steps of Alcoholics Anonymous, James becomes a sponsor to newcomer Luka. The pair bond over black coffee, trade stories and build a fragile friendship out of their shared experiences. But as Luka approaches step five – the moment of confession – dangerous truths emerge, threatening the trust on which both of their recoveries depend.",
+      "release_date": "2025-11-27",
       "rating": 0.0,
       "vote_count": 0,
       "genres": [
-        "Drama"
+        "Drama",
+        "Comedy"
       ],
-      "poster_path": "/zMDBTVUTxYLkQMlrapfiAOhjqYl.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zMDBTVUTxYLkQMlrapfiAOhjqYl.jpg",
-      "backdrop_path": "/qDlh8ac9mg9fX1l0EP9tYSTybtK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qDlh8ac9mg9fX1l0EP9tYSTybtK.jpg",
-      "imdb_id": null,
-      "runtime": 8,
-      "budget": 1000,
+      "poster_path": "/f2FeCAeOadqj3leou4XTsHDR8pX.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f2FeCAeOadqj3leou4XTsHDR8pX.jpg",
+      "backdrop_path": "/xAAk7DR2bloyaM5xj0In0Kel4m.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xAAk7DR2bloyaM5xj0In0Kel4m.jpg",
+      "imdb_id": "tt37511177",
+      "runtime": 85,
+      "budget": 0,
       "revenue": 0
     }
   },
@@ -186,7 +125,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-29T09:42:48.652793+00:00",
+    "scraped_at": "2026-05-30T08:21:58.116741+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 45166,
@@ -235,7 +174,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-29T09:42:48.652840+00:00",
+    "scraped_at": "2026-05-30T08:21:58.116764+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 435217,
@@ -253,6 +192,55 @@
       "backdrop_url": null,
       "imdb_id": "tt0488774",
       "runtime": 0,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "playboy-of-western-world",
+    "url": "https://kulturhusetstadsteatern.se/bio/playboy-of-western-world",
+    "title": "The Playboy of the Western World",
+    "director": "",
+    "duration": "Ca 2 tim 30 min inkl 1 paus",
+    "language": "",
+    "description": "Nicola Coughlan (Bridgerton) gör huvudrollen i John Millington Synges fängslande pjäs om ungdom och identitetssökande. Caitríona McLaughlin regisserar denna mörkt humoristiska berättelse, fylld till brädden med hemligheter.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-03/The_Playboy_A3.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-05T18:00:00+02:00",
+        "display_text": "Saturday 5 September 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "05.09",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/30104/123864/",
+        "tix_event_id": 123864,
+        "tix_event_group_id": 30104,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-09-05T18:00:00",
+        "normalized_date": "05.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-05-30T08:21:58.116846+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 692562,
+      "title": "The Playboy of the Western World",
+      "overview": "A man comes into a pub and boasts that he has just killed his father. Instead of condemning him for the crime, the locals revel in his story and praise him for his deed, with the daughter of the landlord falling for this \"dashing hero\". Things take an even more surprising turn, when the father enters the pub. Based on John Millington Synge's play The Playboy of the Western World.",
+      "release_date": "1974-01-01",
+      "rating": 7.0,
+      "vote_count": 1,
+      "genres": [
+        "TV Movie"
+      ],
+      "poster_path": null,
+      "poster_url": null,
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt0395247",
+      "runtime": 101,
       "budget": 0,
       "revenue": 0
     }
@@ -297,7 +285,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-05-29T09:42:48.652967+00:00",
+    "scraped_at": "2026-05-30T08:21:58.116884+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
