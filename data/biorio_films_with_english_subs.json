@@ -56,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 15,
-          "ticketsAvailable": 165,
+          "ticketsSold": 20,
+          "ticketsAvailable": 160,
           "isPublished": true
         },
         "normalized_datetime": "2026-05-31T16:00:00",
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-30T08:20:44.924474",
+    "scraped_at": "2026-05-31T08:37:13.474630",
     "source": "biorio",
     "tmdb": {
       "id": 1432547,
@@ -164,15 +164,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-30T08:20:55.036846",
+    "scraped_at": "2026-05-31T08:37:25.556125",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
       "title": "The Brothers Lionheart",
       "overview": "After brothers Jonathan and Crusty pass away, they reunite in Nangijala, the land of eternal spring. Casting a long shadow over their world is the tyrant Tengil, ruler of the country Karmanjaka, where he’s building his new fortress up in the Ancient Mountains.",
       "release_date": "1977-09-23",
-      "rating": 6.8,
-      "vote_count": 106,
+      "rating": 6.71,
+      "vote_count": 107,
       "genres": [
         "Adventure",
         "Fantasy",
@@ -257,7 +257,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-30T08:21:01.837754",
+    "scraped_at": "2026-05-31T08:37:34.097764",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -409,7 +409,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-30T08:21:10.553562",
+    "scraped_at": "2026-05-31T08:37:44.115234",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -503,7 +503,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-30T08:21:12.057160",
+    "scraped_at": "2026-05-31T08:37:46.325171",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -598,7 +598,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-30T08:21:21.203294",
+    "scraped_at": "2026-05-31T08:37:58.624429",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -691,15 +691,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-30T08:21:27.274397",
+    "scraped_at": "2026-05-31T08:38:07.354200",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
       "title": "Cowboy Bebop: The Movie",
       "overview": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him.",
       "release_date": "2001-09-01",
-      "rating": 7.724,
-      "vote_count": 1035,
+      "rating": 7.725,
+      "vote_count": 1036,
       "genres": [
         "Action",
         "Animation",
@@ -786,7 +786,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-30T08:21:36.350629",
+    "scraped_at": "2026-05-31T08:38:17.292682",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -794,7 +794,7 @@
       "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
       "release_date": "2003-06-27",
       "rating": 3.999,
-      "vote_count": 1527,
+      "vote_count": 1528,
       "genres": [
         "Drama",
         "Romance"
@@ -939,15 +939,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-30T08:21:41.293478",
+    "scraped_at": "2026-05-31T08:38:24.061922",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
       "title": "The Girl Who Leapt Through Time",
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
-      "rating": 7.8,
-      "vote_count": 2250,
+      "rating": 7.775,
+      "vote_count": 2251,
       "genres": [
         "Fantasy",
         "Animation",
@@ -1082,8 +1082,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 48,
-          "ticketsAvailable": 132,
+          "ticketsSold": 51,
+          "ticketsAvailable": 129,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-06T08:30:00",
@@ -1094,7 +1094,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-30T08:21:44.876106",
+    "scraped_at": "2026-05-31T08:38:29.193974",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,
@@ -1114,7 +1114,7 @@
       "backdrop_path": "/uETSwIud6TRC7XFW3hLQK5meMg3.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/uETSwIud6TRC7XFW3hLQK5meMg3.jpg",
       "imdb_id": "tt38692727",
-      "runtime": 93,
+      "runtime": 100,
       "budget": 0,
       "revenue": 0
     }

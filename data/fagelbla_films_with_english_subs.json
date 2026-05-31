@@ -1,52 +1,5 @@
 [
   {
-    "film_id": "breakfast-at-tiffanys",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Breakfast at Tiffany’s",
-    "director": "Blake Edwards",
-    "duration": "1h 55 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2026-05-30T10:30:00+02:00",
-        "display_text": "Lördag, 30th Maj 10:30",
-        "time": "10:30",
-        "date_section": "Lördag, 30th Maj",
-        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=56575",
-        "showtime_id": "56575",
-        "normalized_datetime": "2026-05-30T10:30:00",
-        "normalized_date": "30.05",
-        "normalized_time": "10:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-05-30T08:21:56.967847+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 164,
-      "title": "Breakfast at Tiffany's",
-      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
-      "release_date": "1961-10-06",
-      "rating": 7.6,
-      "vote_count": 4476,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "imdb_id": "tt0054698",
-      "runtime": 115,
-      "budget": 2500000,
-      "revenue": 9500000
-    }
-  },
-  {
     "film_id": "persona",
     "url": "https://biofagelbla.se/program/",
     "title": "Persona",
@@ -69,15 +22,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-05-30T08:21:56.969349+00:00",
+    "scraped_at": "2026-05-31T08:38:58.464913+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.1,
-      "vote_count": 2401,
+      "rating": 8.129,
+      "vote_count": 2402,
       "genres": [
         "Drama"
       ],
@@ -114,7 +67,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-05-30T08:21:56.969520+00:00",
+    "scraped_at": "2026-05-31T08:38:58.465116+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -122,7 +75,7 @@
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
       "rating": 7.6,
-      "vote_count": 4476,
+      "vote_count": 4479,
       "genres": [
         "Comedy",
         "Romance",
