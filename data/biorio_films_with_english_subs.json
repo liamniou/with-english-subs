@@ -1,99 +1,5 @@
 [
   {
-    "film_id": "all-you-need-is-kill",
-    "url": "https://www.biorio.se/sv/filmer/all-you-need-is-kill",
-    "title": "All You Need is Kill",
-    "director": "Kenichiro Akimoto",
-    "showtimes": [
-      {
-        "datetime": "2026-05-31T16:00:00.000Z",
-        "display_text": "Sunday May 31, 2026 at 16:00",
-        "movie_id": "5856",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/1936",
-        "api_data": {
-          "id": 1936,
-          "movieId": 5856,
-          "movieVersionId": 551,
-          "startTime": "2026-05-31T16:00:00.000Z",
-          "endTime": "2026-05-31T17:23:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5856,
-            "title": "All You Need is Kill",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5856/posters/1774557641678-5h548d.avif",
-            "movieVersions": [
-              {
-                "duration": 83,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 551,
-            "duration": 83,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 20,
-          "ticketsAvailable": 160,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-05-31T16:00:00",
-        "normalized_date": "31.05",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-05-31T08:37:13.474630",
-    "source": "biorio",
-    "tmdb": {
-      "id": 1432547,
-      "title": "ALL YOU NEED IS KILL",
-      "overview": "When a massive alien flower known as \"Darol\" unexpectedly erupts in a deadly event, unleashing monstrous creatures that decimate the population of Japan, Rita is caught in the destruction—and killed. But then she wakes up again. And again. Caught in an endless time loop, Rita must navigate the trauma and repetition of death until she crosses paths with Keiji, a shy young man trapped in the same cycle. Together, they fight to break free from the loop and find meaning in the chaos around them.",
-      "release_date": "2026-01-09",
-      "rating": 6.5,
-      "vote_count": 19,
-      "genres": [
-        "Animation",
-        "Action",
-        "Mystery",
-        "Science Fiction"
-      ],
-      "poster_path": "/kznh3ACnXYVyyAYes7JN6i1wy2d.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kznh3ACnXYVyyAYes7JN6i1wy2d.jpg",
-      "backdrop_path": "/4YWX4mRcIFxxtKGJaBlLPhuTMtx.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/4YWX4mRcIFxxtKGJaBlLPhuTMtx.jpg",
-      "imdb_id": "tt36148135",
-      "runtime": 86,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "broderna-lejonhjarta",
     "url": "https://www.biorio.se/sv/filmer/broderna-lejonhjarta",
     "title": "Bröderna Lejonhjärta",
@@ -164,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-31T08:37:25.556125",
+    "scraped_at": "2026-06-01T11:19:41.009012",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -245,8 +151,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 2,
+          "ticketsAvailable": 178,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-21T18:20:00",
@@ -257,7 +163,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-31T08:37:34.097764",
+    "scraped_at": "2026-06-01T11:19:49.947718",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -409,7 +315,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-31T08:37:44.115234",
+    "scraped_at": "2026-06-01T11:20:02.650242",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -491,8 +397,8 @@
           "tags": [
             "Pride"
           ],
-          "ticketsSold": 1,
-          "ticketsAvailable": 179,
+          "ticketsSold": 2,
+          "ticketsAvailable": 178,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-28T18:15:00",
@@ -503,7 +409,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-31T08:37:46.325171",
+    "scraped_at": "2026-06-01T11:20:04.888744",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -586,8 +492,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 2,
-          "ticketsAvailable": 178,
+          "ticketsSold": 4,
+          "ticketsAvailable": 176,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-11T08:30:00",
@@ -598,15 +504,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-31T08:37:58.624429",
+    "scraped_at": "2026-06-01T11:20:18.380617",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.402,
-      "vote_count": 2633,
+      "rating": 7.404,
+      "vote_count": 2635,
       "genres": [
         "Animation",
         "Fantasy",
@@ -691,14 +597,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-31T08:38:07.354200",
+    "scraped_at": "2026-06-01T11:20:26.719256",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
       "title": "Cowboy Bebop: The Movie",
       "overview": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him.",
       "release_date": "2001-09-01",
-      "rating": 7.725,
+      "rating": 7.724,
       "vote_count": 1036,
       "genres": [
         "Action",
@@ -774,8 +680,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 62,
-          "ticketsAvailable": 118,
+          "ticketsSold": 66,
+          "ticketsAvailable": 114,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -786,7 +692,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-31T08:38:17.292682",
+    "scraped_at": "2026-06-01T11:20:36.738520",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -794,7 +700,7 @@
       "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
       "release_date": "2003-06-27",
       "rating": 3.999,
-      "vote_count": 1528,
+      "vote_count": 1529,
       "genres": [
         "Drama",
         "Romance"
@@ -866,8 +772,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 10,
-          "ticketsAvailable": 170,
+          "ticketsSold": 11,
+          "ticketsAvailable": 169,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-11T16:00:00",
@@ -927,8 +833,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 11,
-          "ticketsAvailable": 169,
+          "ticketsSold": 13,
+          "ticketsAvailable": 167,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-14T08:30:00",
@@ -939,14 +845,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-31T08:38:24.061922",
+    "scraped_at": "2026-06-01T11:20:43.967043",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
       "title": "The Girl Who Leapt Through Time",
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
-      "rating": 7.775,
+      "rating": 7.8,
       "vote_count": 2251,
       "genres": [
         "Fantasy",
@@ -954,10 +860,10 @@
         "Drama",
         "Science Fiction"
       ],
-      "poster_path": "/xHnlWM8BmqY419YUccYy2KC5Jqo.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xHnlWM8BmqY419YUccYy2KC5Jqo.jpg",
-      "backdrop_path": "/3c59KMNs2MYqXUb2GZe8Yfwn4kb.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3c59KMNs2MYqXUb2GZe8Yfwn4kb.jpg",
+      "poster_path": "/fmK92C7HGu6sK0axItlQ0YsO9qR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fmK92C7HGu6sK0axItlQ0YsO9qR.jpg",
+      "backdrop_path": "/wyVO297404vkmA8UmUofbPvO5mX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/wyVO297404vkmA8UmUofbPvO5mX.jpg",
       "imdb_id": "tt0808506",
       "runtime": 98,
       "budget": 0,
@@ -1021,8 +927,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 24,
-          "ticketsAvailable": 156,
+          "ticketsSold": 25,
+          "ticketsAvailable": 155,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-05T16:00:00",
@@ -1082,8 +988,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 51,
-          "ticketsAvailable": 129,
+          "ticketsSold": 52,
+          "ticketsAvailable": 128,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-06T08:30:00",
@@ -1094,7 +1000,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-05-31T08:38:29.193974",
+    "scraped_at": "2026-06-01T11:20:48.949514",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,
