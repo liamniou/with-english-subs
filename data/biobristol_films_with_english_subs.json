@@ -27,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-06-01T11:19:20.002222+00:00",
+    "scraped_at": "2026-06-02T10:10:39.510257+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1258509,
@@ -40,8 +40,8 @@
         "Drama",
         "Comedy"
       ],
-      "poster_path": "/igNHWsxXZeGegiPttjQCv5ImAu7.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/igNHWsxXZeGegiPttjQCv5ImAu7.jpg",
+      "poster_path": "/cW1T0oQcyVfcRR0e4cevno9Zc2h.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cW1T0oQcyVfcRR0e4cevno9Zc2h.jpg",
       "backdrop_path": "/7xWTnediis2NYgZTq7ZndvI9JgW.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/7xWTnediis2NYgZTq7ZndvI9JgW.jpg",
       "imdb_id": "tt33381401",
@@ -78,7 +78,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-06-01T11:19:22.867807+00:00",
+    "scraped_at": "2026-06-02T10:10:43.236237+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 573650,

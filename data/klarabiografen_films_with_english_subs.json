@@ -26,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-01T11:21:05.900883+00:00",
+    "scraped_at": "2026-06-02T10:12:09.313710+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1454209,
@@ -75,7 +75,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-01T11:21:05.900905+00:00",
+    "scraped_at": "2026-06-02T10:12:09.313728+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1507573,
@@ -125,7 +125,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-01T11:21:05.900958+00:00",
+    "scraped_at": "2026-06-02T10:12:09.313769+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 45166,
@@ -174,7 +174,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-01T11:21:05.900981+00:00",
+    "scraped_at": "2026-06-02T10:12:09.313787+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 435217,
@@ -223,7 +223,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-01T11:21:05.901062+00:00",
+    "scraped_at": "2026-06-02T10:12:09.313852+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 692562,
@@ -285,15 +285,15 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-01T11:21:05.901100+00:00",
+    "scraped_at": "2026-06-02T10:12:09.313883+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
       "title": "Dangerous Liaisons",
       "overview": "The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.",
       "release_date": "2022-07-08",
-      "rating": 5.864,
-      "vote_count": 320,
+      "rating": 5.861,
+      "vote_count": 321,
       "genres": [
         "Drama",
         "Romance"

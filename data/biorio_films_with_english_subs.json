@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-01T11:19:41.009012",
+    "scraped_at": "2026-06-02T10:11:00.024161",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -151,8 +151,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 2,
-          "ticketsAvailable": 178,
+          "ticketsSold": 3,
+          "ticketsAvailable": 177,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-21T18:20:00",
@@ -163,7 +163,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-01T11:19:49.947718",
+    "scraped_at": "2026-06-02T10:11:07.437664",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -193,65 +193,6 @@
     "title": "Nyårsfesten",
     "director": "Paprika Steen",
     "showtimes": [
-      {
-        "datetime": "2026-06-01T13:45:00.000Z",
-        "display_text": "Monday June 01, 2026 at 13:45",
-        "movie_id": "5900",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2204",
-        "api_data": {
-          "id": 2204,
-          "movieId": 5900,
-          "movieVersionId": 599,
-          "startTime": "2026-06-01T13:45:00.000Z",
-          "endTime": "2026-06-01T15:20:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5900,
-            "title": "Nyårsfesten",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5900/posters/1777371721494-2ddf6h.avif",
-            "movieVersions": [
-              {
-                "duration": 95,
-                "audio": "Danska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Danska"
-          },
-          "MovieVersion": {
-            "id": 599,
-            "duration": 95,
-            "subtitles": "Engelska",
-            "audio": "Danska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 2,
-              "name": "Matiné"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-06-01T13:45:00",
-        "normalized_date": "01.06",
-        "normalized_time": "13:45"
-      },
       {
         "datetime": "2026-06-03T10:15:00.000Z",
         "display_text": "Wednesday June 03, 2026 at 10:15",
@@ -315,7 +256,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-01T11:20:02.650242",
+    "scraped_at": "2026-06-02T10:11:18.115867",
     "source": "biorio",
     "tmdb": {
       "id": 1541356,
@@ -409,7 +350,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-01T11:20:04.888744",
+    "scraped_at": "2026-06-02T10:11:19.972869",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -504,7 +445,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-01T11:20:18.380617",
+    "scraped_at": "2026-06-02T10:11:30.319570",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -512,7 +453,7 @@
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
       "rating": 7.404,
-      "vote_count": 2635,
+      "vote_count": 2634,
       "genres": [
         "Animation",
         "Fantasy",
@@ -585,8 +526,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 1,
+          "ticketsAvailable": 179,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-16T16:00:00",
@@ -597,7 +538,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-01T11:20:26.719256",
+    "scraped_at": "2026-06-02T10:11:36.229977",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -692,7 +633,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-01T11:20:36.738520",
+    "scraped_at": "2026-06-02T10:11:46.810647",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -833,8 +774,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 13,
-          "ticketsAvailable": 167,
+          "ticketsSold": 19,
+          "ticketsAvailable": 161,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-14T08:30:00",
@@ -845,7 +786,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-01T11:20:43.967043",
+    "scraped_at": "2026-06-02T10:11:52.562865",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
@@ -1000,7 +941,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-01T11:20:48.949514",
+    "scraped_at": "2026-06-02T10:11:55.692447",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,
