@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-02T10:11:00.024161",
+    "scraped_at": "2026-06-03T10:47:52.508297",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -163,7 +163,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-02T10:11:07.437664",
+    "scraped_at": "2026-06-03T10:48:01.202169",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -188,23 +188,23 @@
     }
   },
   {
-    "film_id": "nyarsfesten",
-    "url": "https://www.biorio.se/sv/filmer/nyarsfesten",
-    "title": "Nyårsfesten",
-    "director": "Paprika Steen",
+    "film_id": "the-amazing-digital-circus-the-last-act",
+    "url": "https://www.biorio.se/sv/filmer/the-amazing-digital-circus-the-last-act",
+    "title": "The Amazing Digital Circus: The Last Act",
+    "director": "Gooseworx",
     "showtimes": [
       {
-        "datetime": "2026-06-03T10:15:00.000Z",
-        "display_text": "Wednesday June 03, 2026 at 10:15",
-        "movie_id": "5900",
+        "datetime": "2026-06-05T16:00:00.000Z",
+        "display_text": "Friday June 05, 2026 at 16:00",
+        "movie_id": "5889",
         "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2191",
+        "booking_url": "https://www.biorio.se/sv/boka/2056",
         "api_data": {
-          "id": 2191,
-          "movieId": 5900,
-          "movieVersionId": 599,
-          "startTime": "2026-06-03T10:15:00.000Z",
-          "endTime": "2026-06-03T11:50:00.000Z",
+          "id": 2056,
+          "movieId": 5889,
+          "movieVersionId": 588,
+          "startTime": "2026-06-05T16:00:00.000Z",
+          "endTime": "2026-06-05T17:33:00.000Z",
           "screenId": 1,
           "screenNumber": 1,
           "language": null,
@@ -212,69 +212,132 @@
           "membersOnly": false,
           "screeningLive": true,
           "isArchived": false,
-          "onlineAvailableFrom": null,
+          "onlineAvailableFrom": "2026-04-29T08:00:00.000Z",
           "includeInReport": true,
           "movie": {
-            "id": 5900,
-            "title": "Nyårsfesten",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5900/posters/1777371721494-2ddf6h.avif",
+            "id": 5889,
+            "title": "The Amazing Digital Circus: The Last Act",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5889/posters/1776856552432-gy5fof.avif",
             "movieVersions": [
               {
-                "duration": 95,
-                "audio": "Danska",
+                "duration": 93,
+                "audio": "Engelska",
                 "subtitles": "Engelska"
               }
             ],
             "subtitles": "Engelska",
-            "audio": "Danska"
+            "audio": "Engelska"
           },
           "MovieVersion": {
-            "id": 599,
-            "duration": 95,
+            "id": 588,
+            "duration": 93,
             "subtitles": "Engelska",
-            "audio": "Danska"
+            "audio": "Engelska"
           },
           "screen": {
             "capacity": 180
           },
           "TicketTypes": [
             {
-              "id": 2,
-              "name": "Matiné"
+              "id": 1,
+              "name": "Ordinarie"
             }
           ],
           "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 25,
+          "ticketsAvailable": 155,
           "isPublished": true
         },
-        "normalized_datetime": "2026-06-03T10:15:00",
-        "normalized_date": "03.06",
-        "normalized_time": "10:15"
+        "normalized_datetime": "2026-06-05T16:00:00",
+        "normalized_date": "05.06",
+        "normalized_time": "16:00"
+      },
+      {
+        "datetime": "2026-06-06T08:30:00.000Z",
+        "display_text": "Saturday June 06, 2026 at 08:30",
+        "movie_id": "5889",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2057",
+        "api_data": {
+          "id": 2057,
+          "movieId": 5889,
+          "movieVersionId": 588,
+          "startTime": "2026-06-06T08:30:00.000Z",
+          "endTime": "2026-06-06T10:03:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": "2026-04-29T08:00:00.000Z",
+          "includeInReport": true,
+          "movie": {
+            "id": 5889,
+            "title": "The Amazing Digital Circus: The Last Act",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5889/posters/1776856552432-gy5fof.avif",
+            "movieVersions": [
+              {
+                "duration": 93,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 588,
+            "duration": 93,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 3,
+              "name": "Frukostbio"
+            }
+          ],
+          "tags": [
+            "Frukostbio"
+          ],
+          "ticketsSold": 52,
+          "ticketsAvailable": 128,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-06-06T08:30:00",
+        "normalized_date": "06.06",
+        "normalized_time": "08:30"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-02T10:11:18.115867",
+    "scraped_at": "2026-06-03T10:48:12.014570",
     "source": "biorio",
     "tmdb": {
-      "id": 1541356,
-      "title": "To New Beginnings",
-      "overview": "A group of old friends meets up on New Year's Eve, as they do every year, to celebrate with traditions, memories, and shared rituals. But someone is missing: Martin, who died in a tragic accident years ago. This year, Nomi, Martin's former girlfriend, brings along her new boyfriend, Finn, for the first time. With little sense of which questions are appropriate and a penchant for bringing up sensitive topics, Finn shakes up the close-knit group. It becomes an unforgettable evening that could mean a new beginning for each of them.",
-      "release_date": "2025-11-06",
-      "rating": 7.2,
-      "vote_count": 10,
+      "id": 1667198,
+      "title": "The Amazing Digital Circus: The Last Act",
+      "overview": "With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus and its history. Will they come to terms with what they uncover, or will they make… the other choice? Also, presumably at some point someone says something funny, because this ending can’t be THAT depressing, can it? A theatrical screening of episode 8 and the all new, hour-long episode 9.",
+      "release_date": "2026-06-03",
+      "rating": 0.0,
+      "vote_count": 0,
       "genres": [
-        "Comedy",
-        "Drama"
+        "Animation",
+        "Drama",
+        "Science Fiction",
+        "Thriller"
       ],
-      "poster_path": "/xv0v1XUNhtWOIYBiABc6qcozEy1.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xv0v1XUNhtWOIYBiABc6qcozEy1.jpg",
-      "backdrop_path": "/AkpT0jXUNIMZh3QDDPvQlHTgQvo.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/AkpT0jXUNIMZh3QDDPvQlHTgQvo.jpg",
-      "imdb_id": "tt38285001",
-      "runtime": 95,
+      "poster_path": "/uoZeXWuUS2z2F7VaC1iS5RS5cnk.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uoZeXWuUS2z2F7VaC1iS5RS5cnk.jpg",
+      "backdrop_path": "/uETSwIud6TRC7XFW3hLQK5meMg3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/uETSwIud6TRC7XFW3hLQK5meMg3.jpg",
+      "imdb_id": "tt41635245",
+      "runtime": 93,
       "budget": 0,
       "revenue": 0
     }
@@ -338,8 +401,8 @@
           "tags": [
             "Pride"
           ],
-          "ticketsSold": 2,
-          "ticketsAvailable": 178,
+          "ticketsSold": 3,
+          "ticketsAvailable": 177,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-28T18:15:00",
@@ -350,7 +413,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-02T10:11:19.972869",
+    "scraped_at": "2026-06-03T10:48:14.850727",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -445,14 +508,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-02T10:11:30.319570",
+    "scraped_at": "2026-06-03T10:48:28.287235",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.404,
+      "rating": 7.4,
       "vote_count": 2634,
       "genres": [
         "Animation",
@@ -538,7 +601,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-02T10:11:36.229977",
+    "scraped_at": "2026-06-03T10:48:37.123895",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -633,7 +696,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-02T10:11:46.810647",
+    "scraped_at": "2026-06-03T10:48:49.613851",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -786,7 +849,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-02T10:11:52.562865",
+    "scraped_at": "2026-06-03T10:48:56.668795",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
@@ -809,161 +872,6 @@
       "runtime": 98,
       "budget": 0,
       "revenue": 3478290
-    }
-  },
-  {
-    "film_id": "the-amazing-digital-circus-the-last-act",
-    "url": "https://www.biorio.se/sv/filmer/the-amazing-digital-circus-the-last-act",
-    "title": "The Amazing Digital Circus: The Last Act",
-    "director": "Gooseworx",
-    "showtimes": [
-      {
-        "datetime": "2026-06-05T16:00:00.000Z",
-        "display_text": "Friday June 05, 2026 at 16:00",
-        "movie_id": "5889",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2056",
-        "api_data": {
-          "id": 2056,
-          "movieId": 5889,
-          "movieVersionId": 588,
-          "startTime": "2026-06-05T16:00:00.000Z",
-          "endTime": "2026-06-05T17:33:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": "2026-04-29T08:00:00.000Z",
-          "includeInReport": true,
-          "movie": {
-            "id": 5889,
-            "title": "The Amazing Digital Circus: The Last Act",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5889/posters/1776856552432-gy5fof.avif",
-            "movieVersions": [
-              {
-                "duration": 93,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 588,
-            "duration": 93,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 25,
-          "ticketsAvailable": 155,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-06-05T16:00:00",
-        "normalized_date": "05.06",
-        "normalized_time": "16:00"
-      },
-      {
-        "datetime": "2026-06-06T08:30:00.000Z",
-        "display_text": "Saturday June 06, 2026 at 08:30",
-        "movie_id": "5889",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2057",
-        "api_data": {
-          "id": 2057,
-          "movieId": 5889,
-          "movieVersionId": 588,
-          "startTime": "2026-06-06T08:30:00.000Z",
-          "endTime": "2026-06-06T10:03:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": "2026-04-29T08:00:00.000Z",
-          "includeInReport": true,
-          "movie": {
-            "id": 5889,
-            "title": "The Amazing Digital Circus: The Last Act",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5889/posters/1776856552432-gy5fof.avif",
-            "movieVersions": [
-              {
-                "duration": 93,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 588,
-            "duration": 93,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 3,
-              "name": "Frukostbio"
-            }
-          ],
-          "tags": [
-            "Frukostbio"
-          ],
-          "ticketsSold": 52,
-          "ticketsAvailable": 128,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-06-06T08:30:00",
-        "normalized_date": "06.06",
-        "normalized_time": "08:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-06-02T10:11:55.692447",
-    "source": "biorio",
-    "tmdb": {
-      "id": 1667198,
-      "title": "The Amazing Digital Circus: The Last Act",
-      "overview": "With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus and its history. Will they come to terms with what they uncover, or will they make… the other choice? Also, presumably at some point someone says something funny, because this ending can’t be THAT depressing, can it? A theatrical screening of episode 8 and the all new, hour-long episode 9.",
-      "release_date": "2026-06-03",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Animation",
-        "Drama",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "poster_path": "/uoZeXWuUS2z2F7VaC1iS5RS5cnk.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uoZeXWuUS2z2F7VaC1iS5RS5cnk.jpg",
-      "backdrop_path": "/uETSwIud6TRC7XFW3hLQK5meMg3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/uETSwIud6TRC7XFW3hLQK5meMg3.jpg",
-      "imdb_id": "tt38692727",
-      "runtime": 100,
-      "budget": 0,
-      "revenue": 0
     }
   }
 ]
