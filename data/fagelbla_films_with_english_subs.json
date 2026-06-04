@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-06-03T10:49:14.138101+00:00",
+    "scraped_at": "2026-06-04T09:48:22.305814+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -67,54 +67,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-06-03T10:49:14.138329+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 164,
-      "title": "Breakfast at Tiffany's",
-      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
-      "release_date": "1961-10-06",
-      "rating": 7.6,
-      "vote_count": 4479,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "imdb_id": "tt0054698",
-      "runtime": 115,
-      "budget": 2500000,
-      "revenue": 9500000
-    }
-  },
-  {
-    "film_id": "breakfast-at-tiffanys",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Breakfast at Tiffany’s",
-    "director": "Blake Edwards",
-    "duration": "1h 55 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2026-06-28T12:55:00+02:00",
-        "display_text": "Söndag, 28th Juni 12:55",
-        "time": "12:55",
-        "date_section": "Söndag, 28th Juni",
-        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=57254",
-        "showtime_id": "57254",
-        "normalized_datetime": "2026-06-28T12:55:00",
-        "normalized_date": "28.06",
-        "normalized_time": "12:55"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-06-03T10:49:14.138471+00:00",
+    "scraped_at": "2026-06-04T09:48:22.306078+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,

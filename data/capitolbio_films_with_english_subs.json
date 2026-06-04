@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "film_id": "the-princess-bride",
+    "url": "https://www.capitolbio.se/filmer/the-princess-bride/1002",
+    "title": "The Princess Bride",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Ingår i Temat: Magic cinema - Capitol byggdes för att göra biografupplevelsen magisk igen, och den är förstås mest så med några av världens mest omtyckta filmer.\n\nFå filmer har varit så efterlängtade som äventyrssuccén Princess Bride, av Oscarnominerade mästerregissören Rob Reiner ('När Harry mötte Sally', 'Stand by me'). Ett actionladdat, storslaget sagoäventyr med  mycket 80-tal, fyllt av blixtrande specialeffekter, djärva hjältedåd, bestialiska monster, mäktiga svärdsdueller, bortrövade prinsessor och ondskefulla skurkar.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/1002/1920/38510a84-7cbc-4447-ac9b-1c266b35366c.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-06-05T17:45:00",
+        "display_text": "Friday 5 June 2026 at 17:45",
+        "time": "17:45",
+        "date_section": "05.06",
+        "ticket_url": "https://www.capitolbio.se/boka/51168",
+        "booking_id": "51168",
+        "hall": "Salong 4",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-06-05T17:45:00",
+        "normalized_date": "05.06",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-06-04T09:48:19.314676+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 2493,
+      "title": "The Princess Bride",
+      "overview": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+      "release_date": "1987-09-25",
+      "rating": 7.699,
+      "vote_count": 5100,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Romance"
+      ],
+      "poster_path": "/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "backdrop_path": "/2CisgvF2HcIVnbMZbSjASCtSgEb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2CisgvF2HcIVnbMZbSjASCtSgEb.jpg",
+      "imdb_id": "tt0093779",
+      "runtime": 99,
+      "budget": 16000000,
+      "revenue": 30900000
+    }
+  }
+]

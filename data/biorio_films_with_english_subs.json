@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-03T10:47:52.508297",
+    "scraped_at": "2026-06-04T09:47:05.357982",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -163,7 +163,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-03T10:48:01.202169",
+    "scraped_at": "2026-06-04T09:47:12.744719",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -305,8 +305,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 52,
-          "ticketsAvailable": 128,
+          "ticketsSold": 57,
+          "ticketsAvailable": 123,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-06T08:30:00",
@@ -317,7 +317,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-03T10:48:12.014570",
+    "scraped_at": "2026-06-04T09:47:24.084555",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,
@@ -413,7 +413,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-03T10:48:14.850727",
+    "scraped_at": "2026-06-04T09:47:26.684867",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -421,7 +421,7 @@
       "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
       "release_date": "1998-10-23",
       "rating": 7.1,
-      "vote_count": 590,
+      "vote_count": 591,
       "genres": [
         "Comedy",
         "Romance",
@@ -508,15 +508,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-03T10:48:28.287235",
+    "scraped_at": "2026-06-04T09:47:38.734562",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.4,
-      "vote_count": 2634,
+      "rating": 7.405,
+      "vote_count": 2635,
       "genres": [
         "Animation",
         "Fantasy",
@@ -601,7 +601,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-03T10:48:37.123895",
+    "scraped_at": "2026-06-04T09:47:47.794259",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -696,7 +696,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-03T10:48:49.613851",
+    "scraped_at": "2026-06-04T09:47:59.035222",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -849,7 +849,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-03T10:48:56.668795",
+    "scraped_at": "2026-06-04T09:48:06.444406",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
