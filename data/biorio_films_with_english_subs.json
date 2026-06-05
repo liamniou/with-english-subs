@@ -70,15 +70,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-04T09:47:05.357982",
+    "scraped_at": "2026-06-05T09:35:55.226343",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
       "title": "The Brothers Lionheart",
       "overview": "After brothers Jonathan and Crusty pass away, they reunite in Nangijala, the land of eternal spring. Casting a long shadow over their world is the tyrant Tengil, ruler of the country Karmanjaka, where he’s building his new fortress up in the Ancient Mountains.",
       "release_date": "1977-09-23",
-      "rating": 6.71,
-      "vote_count": 107,
+      "rating": 6.713,
+      "vote_count": 108,
       "genres": [
         "Adventure",
         "Fantasy",
@@ -163,7 +163,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-04T09:47:12.744719",
+    "scraped_at": "2026-06-05T09:36:00.433932",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -317,15 +317,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-04T09:47:24.084555",
+    "scraped_at": "2026-06-05T09:36:08.159114",
     "source": "biorio",
     "tmdb": {
       "id": 1667198,
       "title": "The Amazing Digital Circus: The Last Act",
       "overview": "With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus and its history. Will they come to terms with what they uncover, or will they make… the other choice? Also, presumably at some point someone says something funny, because this ending can’t be THAT depressing, can it? A theatrical screening of episode 8 and the all new, hour-long episode 9.",
       "release_date": "2026-06-03",
-      "rating": 0.0,
-      "vote_count": 0,
+      "rating": 9.0,
+      "vote_count": 9,
       "genres": [
         "Animation",
         "Drama",
@@ -413,7 +413,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-04T09:47:26.684867",
+    "scraped_at": "2026-06-05T09:36:10.327557",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -508,7 +508,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-04T09:47:38.734562",
+    "scraped_at": "2026-06-05T09:36:19.132212",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -516,7 +516,7 @@
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
       "rating": 7.405,
-      "vote_count": 2635,
+      "vote_count": 2637,
       "genres": [
         "Animation",
         "Fantasy",
@@ -589,8 +589,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 1,
-          "ticketsAvailable": 179,
+          "ticketsSold": 3,
+          "ticketsAvailable": 177,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-16T16:00:00",
@@ -601,7 +601,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-04T09:47:47.794259",
+    "scraped_at": "2026-06-05T09:36:25.069062",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -684,8 +684,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 66,
-          "ticketsAvailable": 114,
+          "ticketsSold": 70,
+          "ticketsAvailable": 110,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -696,7 +696,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-04T09:47:59.035222",
+    "scraped_at": "2026-06-05T09:36:33.903133",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -849,15 +849,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-04T09:48:06.444406",
+    "scraped_at": "2026-06-05T09:36:38.970810",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
       "title": "The Girl Who Leapt Through Time",
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
-      "rating": 7.8,
-      "vote_count": 2251,
+      "rating": 7.775,
+      "vote_count": 2252,
       "genres": [
         "Fantasy",
         "Animation",
