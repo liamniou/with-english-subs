@@ -1,47 +1,90 @@
 [
   {
-    "film_id": "the-art-of-telling-lies",
-    "url": "https://zita.se/the-art-of-telling-lies",
-    "title": "The Art of Telling Lies",
+    "film_id": "jag-är-nyfiken---blå",
+    "url": "https://zita.se/jag-ar-nyfiken-bla-",
+    "title": "Jag är nyfiken - blå",
     "director": "",
-    "genre": "Sverige202690 minDrama, thrillerFrån 15 årSara HagnöEngelska",
-    "duration": "",
+    "genre": "",
+    "duration": "Jag är nyfiken - blåSverige19681 jan 1968107 minSvenskaEngelska",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "20:00",
-        "time": "20:00",
+        "display_text": "20:45",
+        "time": "20:45",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5878",
-        "normalized_datetime": "2026-06-05T20:00:00",
-        "normalized_date": "05.06",
-        "normalized_time": "20:00"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5893",
+        "normalized_datetime": "2026-06-06T20:45:00",
+        "normalized_date": "06.06",
+        "normalized_time": "20:45"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-06-04T09:49:11.172024+00:00",
+    "scraped_at": "2026-06-06T08:28:54.680360+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1197239,
-      "title": "The Art of Telling Lies",
-      "overview": "Four strangers are being invited to a remote castle, only to discover they are being blackmailed for their past scandals.",
-      "release_date": "2026-01-26",
-      "rating": 6.0,
-      "vote_count": 3,
+      "id": 45690,
+      "title": "I Am Curious (Blue)",
+      "overview": "The same movie with the same characters, cast and crew as I am Curious (Yellow), but with some different scenes and a different political slant. The political focus in Blue is personal relationships, religion, prisons and sex. Blue omits much of the class consciousness and non-violence interviews of the first version. Yellow and Blue are the colors of the Swedish flag.",
+      "release_date": "1968-03-11",
+      "rating": 5.472,
+      "vote_count": 36,
       "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
+        "Drama"
       ],
-      "poster_path": "/bR23eSZSnjYpYpAjbbwecnEROTq.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bR23eSZSnjYpYpAjbbwecnEROTq.jpg",
-      "backdrop_path": "/tJsvd9PTGxkqieacksoKrTwYZ8I.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tJsvd9PTGxkqieacksoKrTwYZ8I.jpg",
-      "imdb_id": "tt14393840",
-      "runtime": 90,
+      "poster_path": "/tUXUQEbxf7MVZR9MnvQ63dnTE4h.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tUXUQEbxf7MVZR9MnvQ63dnTE4h.jpg",
+      "backdrop_path": "/2YvF8jBP1l0QtLgol3JAtgPL5Vb.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2YvF8jBP1l0QtLgol3JAtgPL5Vb.jpg",
+      "imdb_id": "tt0063149",
+      "runtime": 107,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "jag-är-nyfiken---gul",
+    "url": "https://zita.se/jag-ar-nyfiken-gul",
+    "title": "Jag är nyfiken - Gul",
+    "director": "",
+    "genre": "Sverige19679 okt 1967120 minDramaFrån 15 årSvenskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "18:15",
+        "time": "18:15",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5892",
+        "normalized_datetime": "2026-06-06T18:15:00",
+        "normalized_date": "06.06",
+        "normalized_time": "18:15"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-06-06T08:28:56.209277+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 42695,
+      "title": "I Am Curious (Yellow)",
+      "overview": "Lena, aged twenty, wants to know all she can about life and reality. She collects information on everyone and everything, storing her findings in an enormous archive. She experiments with relationships, political activism, and meditation. Meanwhile, the actors, director and crew are shown in a humorous parallel plot about the making of the film and their reactions to the story and each other. Nudity, explicit sex, and controversial politics kept this film from being shown in the US while its seizure by Customs was appealed.",
+      "release_date": "1967-03-10",
+      "rating": 5.7,
+      "vote_count": 77,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/oE6AI3yXNLjpt8OqmnWZNQhmoqA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oE6AI3yXNLjpt8OqmnWZNQhmoqA.jpg",
+      "backdrop_path": "/5Ao5rqanTKzjwZD145OHi1SKCoO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5Ao5rqanTKzjwZD145OHi1SKCoO.jpg",
+      "imdb_id": "tt0061834",
+      "runtime": 122,
       "budget": 0,
       "revenue": 0
     }
