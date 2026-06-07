@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-06-06T08:28:17.751278+00:00",
+    "scraped_at": "2026-06-07T08:48:53.997798+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -30,7 +30,7 @@
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
       "rating": 8.13,
-      "vote_count": 2406,
+      "vote_count": 2407,
       "genres": [
         "Drama"
       ],
@@ -67,15 +67,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-06-06T08:28:17.751470+00:00",
+    "scraped_at": "2026-06-07T08:48:53.998033+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.6,
-      "vote_count": 4479,
+      "rating": 7.624,
+      "vote_count": 4480,
       "genres": [
         "Comedy",
         "Romance",

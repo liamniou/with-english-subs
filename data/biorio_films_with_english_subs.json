@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-06T08:27:22.469260",
+    "scraped_at": "2026-06-07T08:48:02.338851",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -163,7 +163,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-06T08:27:28.117984",
+    "scraped_at": "2026-06-07T08:48:07.222647",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -185,102 +185,6 @@
       "runtime": 126,
       "budget": 26000000,
       "revenue": 18900000
-    }
-  },
-  {
-    "film_id": "the-amazing-digital-circus-the-last-act",
-    "url": "https://www.biorio.se/sv/filmer/the-amazing-digital-circus-the-last-act",
-    "title": "The Amazing Digital Circus: The Last Act",
-    "director": "Gooseworx",
-    "showtimes": [
-      {
-        "datetime": "2026-06-06T08:30:00.000Z",
-        "display_text": "Saturday June 06, 2026 at 08:30",
-        "movie_id": "5889",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2057",
-        "api_data": {
-          "id": 2057,
-          "movieId": 5889,
-          "movieVersionId": 588,
-          "startTime": "2026-06-06T08:30:00.000Z",
-          "endTime": "2026-06-06T10:03:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": "2026-04-29T08:00:00.000Z",
-          "includeInReport": true,
-          "movie": {
-            "id": 5889,
-            "title": "The Amazing Digital Circus: The Last Act",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5889/posters/1776856552432-gy5fof.avif",
-            "movieVersions": [
-              {
-                "duration": 93,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 588,
-            "duration": 93,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 3,
-              "name": "Frukostbio"
-            }
-          ],
-          "tags": [
-            "Frukostbio"
-          ],
-          "ticketsSold": 62,
-          "ticketsAvailable": 118,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-06-06T08:30:00",
-        "normalized_date": "06.06",
-        "normalized_time": "08:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-06-06T08:27:35.439923",
-    "source": "biorio",
-    "tmdb": {
-      "id": 1667198,
-      "title": "The Amazing Digital Circus: The Last Act",
-      "overview": "With Caine gone and the circus dark, the cast are left with only the mistakes and traumas of their pasts to keep them company. As the prospect of eternity closes in around them, they discover the truth about the Digital Circus and its history. Will they come to terms with what they uncover, or will they make… the other choice? Also, presumably at some point someone says something funny, because this ending can’t be THAT depressing, can it? A theatrical screening of episode 8 and the all new, hour-long episode 9.",
-      "release_date": "2026-06-03",
-      "rating": 8.6,
-      "vote_count": 11,
-      "genres": [
-        "Animation",
-        "Drama",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "poster_path": "/uoZeXWuUS2z2F7VaC1iS5RS5cnk.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uoZeXWuUS2z2F7VaC1iS5RS5cnk.jpg",
-      "backdrop_path": "/uETSwIud6TRC7XFW3hLQK5meMg3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/uETSwIud6TRC7XFW3hLQK5meMg3.jpg",
-      "imdb_id": "tt41635245",
-      "runtime": 93,
-      "budget": 0,
-      "revenue": 0
     }
   },
   {
@@ -354,7 +258,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-06T08:27:37.725749",
+    "scraped_at": "2026-06-07T08:48:15.640342",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -449,7 +353,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-06T08:27:47.311839",
+    "scraped_at": "2026-06-07T08:48:24.905074",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -542,7 +446,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-06T08:27:53.652091",
+    "scraped_at": "2026-06-07T08:48:30.599407",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -550,7 +454,7 @@
       "overview": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him.",
       "release_date": "2001-09-01",
       "rating": 7.724,
-      "vote_count": 1036,
+      "vote_count": 1037,
       "genres": [
         "Action",
         "Animation",
@@ -637,7 +541,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-06T08:28:01.297679",
+    "scraped_at": "2026-06-07T08:48:38.877717",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -778,8 +682,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 19,
-          "ticketsAvailable": 161,
+          "ticketsSold": 23,
+          "ticketsAvailable": 157,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-14T08:30:00",
@@ -790,7 +694,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-06T08:28:06.063929",
+    "scraped_at": "2026-06-07T08:48:42.871976",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
