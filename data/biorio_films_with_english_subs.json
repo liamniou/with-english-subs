@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-07T08:48:02.338851",
+    "scraped_at": "2026-06-08T10:24:26.132809",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -151,8 +151,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 3,
-          "ticketsAvailable": 177,
+          "ticketsSold": 4,
+          "ticketsAvailable": 176,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-21T18:20:00",
@@ -163,7 +163,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-07T08:48:07.222647",
+    "scraped_at": "2026-06-08T10:24:33.106321",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -246,8 +246,8 @@
           "tags": [
             "Pride"
           ],
-          "ticketsSold": 3,
-          "ticketsAvailable": 177,
+          "ticketsSold": 5,
+          "ticketsAvailable": 175,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-28T18:15:00",
@@ -258,7 +258,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-07T08:48:15.640342",
+    "scraped_at": "2026-06-08T10:24:43.393239",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -353,7 +353,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-07T08:48:24.905074",
+    "scraped_at": "2026-06-08T10:24:56.824745",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -361,7 +361,7 @@
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
       "rating": 7.405,
-      "vote_count": 2638,
+      "vote_count": 2640,
       "genres": [
         "Animation",
         "Fantasy",
@@ -434,8 +434,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 3,
-          "ticketsAvailable": 177,
+          "ticketsSold": 4,
+          "ticketsAvailable": 176,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-16T16:00:00",
@@ -446,7 +446,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-07T08:48:30.599407",
+    "scraped_at": "2026-06-08T10:25:04.668069",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -529,8 +529,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 73,
-          "ticketsAvailable": 107,
+          "ticketsSold": 75,
+          "ticketsAvailable": 105,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -541,7 +541,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-07T08:48:38.877717",
+    "scraped_at": "2026-06-08T10:25:16.811586",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -682,8 +682,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 23,
-          "ticketsAvailable": 157,
+          "ticketsSold": 25,
+          "ticketsAvailable": 155,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-14T08:30:00",
@@ -694,14 +694,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-07T08:48:42.871976",
+    "scraped_at": "2026-06-08T10:25:22.622917",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
       "title": "The Girl Who Leapt Through Time",
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
-      "rating": 7.775,
+      "rating": 7.8,
       "vote_count": 2253,
       "genres": [
         "Fantasy",

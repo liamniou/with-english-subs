@@ -1,51 +1,103 @@
 [
   {
-    "film_id": "bangla",
-    "url": "https://www.biobristol.se/f/bangla/475",
-    "title": "Bangla",
-    "director": "Phaim Bhuiyan",
-    "duration": "86 min",
-    "language": "Italienska",
-    "description": "Q&A with Phaim Bhuiyan arriving straight from Torpignattara, Rome!\n\nPhaim, a young Muslim of Bangladeshi origin born in Italy 22 years ago, lives with his family in Rome's multiethnic Torpignattara neighbourhood, works as a museum steward, and plays in a band. At a concert, he meets Asia, his exact opposite: pure instinct, and no rules. The attraction between them is immediate, and Phaim will have to figure out how to reconcile his love for the young woman with the most inviolable of Islam's rules: no sex before marriage.\n\nPhaim è un giovane musulmano di origini bengalesi nato in Italia 22 anni fa. Vive con la sua famiglia a Torpignattara, quartiere multietnico di Roma, lavora come stewart in un museo e suona in un gruppo. E’ proprio in occasione di un concerto che incontra Asia, suo esatto opposto: istinto puro, nessuna regola. Tra i due l’attrazione scatta immediata e Phaim dovrà capire come conciliare il suo amore per la ragazza con la più inviolabile delle regole dell’Islam: niente sesso prima del matrimonio.\n\nFilm in Italian language with english subtitles. \n\nClick on the showtime \"16:00\" to buy tickets!",
-    "poster_url": "https://images.filmgrail.com/1779051047327?optimizer=image&width=1200",
+    "film_id": "and-then-we-danced",
+    "url": "https://www.biobristol.se/f/and-then-we-danced/483",
+    "title": "And Then We Danced",
+    "director": "Levan Akin",
+    "duration": "113 min",
+    "language": "Annat",
+    "description": "Levan Akin bjuder på en kärlekshistoria som ångar av närvaro och nerv. Nykomlingen Levan Gelbakhiani i huvudrollen är ingenting annat än fantastisk!\r\n\r\nMerab dansar sedan barnsben i det georgiska nationalkompaniet med sin partner Mary och drömmer om en plats i huvudkompaniet. Hans tillvaro vänds upp och ner när den karismatiske Irakli en dag ansluter sig till kompaniet och blir hans största rival, men även hans största åtrå. Nu står Merab inför valet om han ska följa sitt hjärta och bryta sig loss från den konservativa miljön han befinner sig i och därmed riskera att förlora allt han har kämpat för.",
+    "poster_url": "https://mars-images.imgix.net/1780681366151?auto=compress&w=1200&fit=max",
     "showtimes": [
       {
-        "datetime": "2026-06-07T16:00:00",
-        "display_text": "Sunday 7 June 2026 at 16:00",
-        "time": "16:00",
-        "date_section": "07.06",
-        "ticket_url": "https://www.biobristol.se/checkout?showId=6a0a3063dd10dbaf0ac538f0",
-        "show_id": "6a0a3063dd10dbaf0ac538f0",
+        "datetime": "2026-06-11T19:30:00",
+        "display_text": "Thursday 11 June 2026 at 19:30",
+        "time": "19:30",
+        "date_section": "11.06",
+        "ticket_url": "https://www.biobristol.se/checkout?showId=6a257dd5ac40f69054214065",
+        "show_id": "6a257dd5ac40f69054214065",
         "hall": "Bristol",
         "audio_language": "",
         "subtitle_language": "EN",
-        "normalized_datetime": "2026-06-07T16:00:00",
-        "normalized_date": "07.06",
-        "normalized_time": "16:00"
+        "normalized_datetime": "2026-06-11T19:30:00",
+        "normalized_date": "11.06",
+        "normalized_time": "19:30"
       }
     ],
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-06-07T08:47:46.275486+00:00",
+    "scraped_at": "2026-06-08T10:24:00.179740+00:00",
     "source": "biobristol",
     "tmdb": {
-      "id": 573650,
-      "title": "Bangla",
-      "overview": "A 22 year-old Bangladeshi-Italian Muslim boy meets a beautiful, exciting Italian girl who makes him re-analyze his beliefs and culture.",
-      "release_date": "2019-05-16",
-      "rating": 6.1,
-      "vote_count": 112,
+      "id": 597088,
+      "title": "And Then We Danced",
+      "overview": "Merab, a devoted dancer, has been training for years with his partner Mary for a spot in the National Georgian Ensemble. The arrival of another male dancer, Irakli, sparks both an intense rivalry and romantic desire that may cause Merab to risk his future in dance as well as his relationships.",
+      "release_date": "2019-09-13",
+      "rating": 7.224,
+      "vote_count": 259,
       "genres": [
-        "Comedy",
-        "Drama"
+        "Drama",
+        "Romance"
       ],
-      "poster_path": "/rNmObjXsu7DZvyGrLG6DtLO8iYc.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rNmObjXsu7DZvyGrLG6DtLO8iYc.jpg",
-      "backdrop_path": "/o6QaCTgFA1HuA7oTYNSE0QdN775.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/o6QaCTgFA1HuA7oTYNSE0QdN775.jpg",
-      "imdb_id": "tt9639274",
-      "runtime": 84,
+      "poster_path": "/zP8Gg0wLJuqXGlrrD3mEu0M4kMa.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zP8Gg0wLJuqXGlrrD3mEu0M4kMa.jpg",
+      "backdrop_path": "/7xnfYbmBNWt48RpLtR7XsY6hF6i.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7xnfYbmBNWt48RpLtR7XsY6hF6i.jpg",
+      "imdb_id": "tt8963708",
+      "runtime": 113,
+      "budget": 0,
+      "revenue": 416167
+    }
+  },
+  {
+    "film_id": "dalen-31",
+    "url": "https://www.biobristol.se/f/dalen-31/489",
+    "title": "Ådalen 31",
+    "director": "Bo Widerberg",
+    "duration": "114 min",
+    "language": "Svenska",
+    "description": "",
+    "poster_url": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/1780847267537",
+    "showtimes": [
+      {
+        "datetime": "2026-06-28T14:00:00",
+        "display_text": "Sunday 28 June 2026 at 14:00",
+        "time": "14:00",
+        "date_section": "28.06",
+        "ticket_url": "https://www.biobristol.se/checkout?showId=6a2593a3ac40f69054214091",
+        "show_id": "6a2593a3ac40f69054214091",
+        "hall": "Bristol",
+        "audio_language": "",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-06-28T14:00:00",
+        "normalized_date": "28.06",
+        "normalized_time": "14:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Bristol"
+    ],
+    "scraped_at": "2026-06-08T10:24:05.561553+00:00",
+    "source": "biobristol",
+    "tmdb": {
+      "id": 87208,
+      "title": "Adalen 31",
+      "overview": "A film about the 1931 Ådalen shootings, in which Swedish military forces opened fire against labour demonstrators in the Swedish sawmill district of Ådalen.",
+      "release_date": "1969-05-01",
+      "rating": 6.565,
+      "vote_count": 46,
+      "genres": [
+        "Drama",
+        "History",
+        "Romance"
+      ],
+      "poster_path": "/36nb5JRvhdaEcpE71LKexPtYIa1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/36nb5JRvhdaEcpE71LKexPtYIa1.jpg",
+      "backdrop_path": "/u0RDI1DwWsDq883peRTRAU3iVZ8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/u0RDI1DwWsDq883peRTRAU3iVZ8.jpg",
+      "imdb_id": "tt0065261",
+      "runtime": 114,
       "budget": 0,
       "revenue": 0
     }
