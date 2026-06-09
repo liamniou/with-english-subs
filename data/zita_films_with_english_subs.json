@@ -14,8 +14,8 @@
         "date": "",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5893",
-        "normalized_datetime": "2026-06-08T20:45:00",
-        "normalized_date": "08.06",
+        "normalized_datetime": "2026-06-09T20:45:00",
+        "normalized_date": "09.06",
         "normalized_time": "20:45"
       }
     ],
@@ -59,8 +59,8 @@
         "date": "",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5892",
-        "normalized_datetime": "2026-06-08T18:15:00",
-        "normalized_date": "08.06",
+        "normalized_datetime": "2026-06-09T18:15:00",
+        "normalized_date": "09.06",
         "normalized_time": "18:15"
       }
     ],
