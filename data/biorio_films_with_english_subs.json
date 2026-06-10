@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-09T09:30:27.572772",
+    "scraped_at": "2026-06-10T09:44:26.479973",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -163,14 +163,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-09T09:30:36.771998",
+    "scraped_at": "2026-06-10T09:44:32.815771",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
       "title": "Steamboy",
       "overview": "In 1860s Britain, a boy inventor finds himself caught in the middle of a deadly conflict over a revolutionary advance in steam power.",
       "release_date": "2004-07-17",
-      "rating": 6.902,
+      "rating": 6.903,
       "vote_count": 489,
       "genres": [
         "Animation",
@@ -258,7 +258,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-09T09:30:50.376665",
+    "scraped_at": "2026-06-10T09:44:42.358196",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -266,7 +266,7 @@
       "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
       "release_date": "1998-10-23",
       "rating": 7.089,
-      "vote_count": 591,
+      "vote_count": 592,
       "genres": [
         "Comedy",
         "Romance",
@@ -353,7 +353,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-09T09:31:06.549534",
+    "scraped_at": "2026-06-10T09:44:52.973969",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -446,7 +446,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-09T09:31:15.541858",
+    "scraped_at": "2026-06-10T09:44:59.388443",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -529,8 +529,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 75,
-          "ticketsAvailable": 105,
+          "ticketsSold": 77,
+          "ticketsAvailable": 103,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -541,7 +541,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-09T09:31:27.080189",
+    "scraped_at": "2026-06-10T09:45:08.007558",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -682,8 +682,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 25,
-          "ticketsAvailable": 155,
+          "ticketsSold": 29,
+          "ticketsAvailable": 151,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-14T08:30:00",
@@ -694,15 +694,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-09T09:31:35.322281",
+    "scraped_at": "2026-06-10T09:45:12.414907",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
       "title": "The Girl Who Leapt Through Time",
       "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
       "release_date": "2006-07-15",
-      "rating": 7.8,
-      "vote_count": 2253,
+      "rating": 7.776,
+      "vote_count": 2254,
       "genres": [
         "Fantasy",
         "Animation",
