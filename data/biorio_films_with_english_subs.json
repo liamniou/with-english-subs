@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-11T10:13:15.928894",
+    "scraped_at": "2026-06-12T10:00:52.217806",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -163,7 +163,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-11T10:13:23.310912",
+    "scraped_at": "2026-06-12T10:00:59.001193",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -258,7 +258,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-11T10:13:35.350801",
+    "scraped_at": "2026-06-12T10:01:11.981293",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -341,8 +341,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 4,
-          "ticketsAvailable": 176,
+          "ticketsSold": 5,
+          "ticketsAvailable": 175,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-11T08:30:00",
@@ -353,7 +353,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-11T10:13:48.865058",
+    "scraped_at": "2026-06-12T10:01:24.018438",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -446,7 +446,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-11T10:13:56.628462",
+    "scraped_at": "2026-06-12T10:01:31.059103",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -541,7 +541,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-11T10:14:06.462546",
+    "scraped_at": "2026-06-12T10:01:39.700696",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -570,65 +570,6 @@
     "title": "The Girl Who Leapt Through Time",
     "director": "Mamoru Hosoda",
     "showtimes": [
-      {
-        "datetime": "2026-06-11T16:00:00.000Z",
-        "display_text": "Thursday June 11, 2026 at 16:00",
-        "movie_id": "5823",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/1824",
-        "api_data": {
-          "id": 1824,
-          "movieId": 5823,
-          "movieVersionId": 512,
-          "startTime": "2026-06-11T16:00:00.000Z",
-          "endTime": "2026-06-11T17:38:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5823,
-            "title": "The Girl Who Leapt Through Time",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5823/posters/1772636569631-d4invo.avif",
-            "movieVersions": [
-              {
-                "duration": 98,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 512,
-            "duration": 98,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 11,
-          "ticketsAvailable": 169,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-06-11T16:00:00",
-        "normalized_date": "11.06",
-        "normalized_time": "16:00"
-      },
       {
         "datetime": "2026-06-14T08:30:00.000Z",
         "display_text": "Sunday June 14, 2026 at 08:30",
@@ -682,8 +623,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 31,
-          "ticketsAvailable": 149,
+          "ticketsSold": 32,
+          "ticketsAvailable": 148,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-14T08:30:00",
@@ -694,7 +635,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-11T10:14:12.817333",
+    "scraped_at": "2026-06-12T10:01:45.074507",
     "source": "biorio",
     "tmdb": {
       "id": 14069,

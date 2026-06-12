@@ -1,56 +1,5 @@
 [
   {
-    "film_id": "and-then-we-danced",
-    "url": "https://www.biobristol.se/f/and-then-we-danced/483",
-    "title": "And Then We Danced",
-    "director": "Levan Akin",
-    "duration": "113 min",
-    "language": "Annat",
-    "description": "Levan Akin bjuder på en kärlekshistoria som ångar av närvaro och nerv. Nykomlingen Levan Gelbakhiani i huvudrollen är ingenting annat än fantastisk!\r\n\r\nMerab dansar sedan barnsben i det georgiska nationalkompaniet med sin partner Mary och drömmer om en plats i huvudkompaniet. Hans tillvaro vänds upp och ner när den karismatiske Irakli en dag ansluter sig till kompaniet och blir hans största rival, men även hans största åtrå. Nu står Merab inför valet om han ska följa sitt hjärta och bryta sig loss från den konservativa miljön han befinner sig i och därmed riskera att förlora allt han har kämpat för.",
-    "poster_url": "https://mars-images.imgix.net/1780681366151?auto=compress&w=1200&fit=max",
-    "showtimes": [
-      {
-        "datetime": "2026-06-11T19:30:00",
-        "display_text": "Thursday 11 June 2026 at 19:30",
-        "time": "19:30",
-        "date_section": "11.06",
-        "ticket_url": "https://www.biobristol.se/checkout?showId=6a257dd5ac40f69054214065",
-        "show_id": "6a257dd5ac40f69054214065",
-        "hall": "Bristol",
-        "audio_language": "",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-06-11T19:30:00",
-        "normalized_date": "11.06",
-        "normalized_time": "19:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Bristol"
-    ],
-    "scraped_at": "2026-06-11T10:12:48.084423+00:00",
-    "source": "biobristol",
-    "tmdb": {
-      "id": 597088,
-      "title": "And Then We Danced",
-      "overview": "Merab, a devoted dancer, has been training for years with his partner Mary for a spot in the National Georgian Ensemble. The arrival of another male dancer, Irakli, sparks both an intense rivalry and romantic desire that may cause Merab to risk his future in dance as well as his relationships.",
-      "release_date": "2019-09-13",
-      "rating": 7.224,
-      "vote_count": 259,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/zP8Gg0wLJuqXGlrrD3mEu0M4kMa.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zP8Gg0wLJuqXGlrrD3mEu0M4kMa.jpg",
-      "backdrop_path": "/7xnfYbmBNWt48RpLtR7XsY6hF6i.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7xnfYbmBNWt48RpLtR7XsY6hF6i.jpg",
-      "imdb_id": "tt8963708",
-      "runtime": 113,
-      "budget": 0,
-      "revenue": 416167
-    }
-  },
-  {
     "film_id": "dalen-31",
     "url": "https://www.biobristol.se/f/dalen-31/489",
     "title": "Ådalen 31",
@@ -78,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-06-11T10:12:52.890343+00:00",
+    "scraped_at": "2026-06-12T10:00:32.824153+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 87208,
