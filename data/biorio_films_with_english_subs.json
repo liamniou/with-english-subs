@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-12T10:00:52.217806",
+    "scraped_at": "2026-06-13T08:49:55.109999",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -92,6 +92,99 @@
       "runtime": 102,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "himmel-over-berlin",
+    "url": "https://www.biorio.se/sv/filmer/himmel-over-berlin",
+    "title": "Himmel över Berlin",
+    "director": "Wim Wenders",
+    "showtimes": [
+      {
+        "datetime": "2026-08-16T16:00:00.000Z",
+        "display_text": "Sunday August 16, 2026 at 16:00",
+        "movie_id": "5024",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2307",
+        "api_data": {
+          "id": 2307,
+          "movieId": 5024,
+          "movieVersionId": 15,
+          "startTime": "2026-08-16T16:00:00.000Z",
+          "endTime": "2026-08-16T18:08:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5024,
+            "title": "Himmel över Berlin",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1741269594239-105221735-himmel-aff.jpg",
+            "movieVersions": [
+              {
+                "duration": 128,
+                "audio": "Tyska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Tyska"
+          },
+          "MovieVersion": {
+            "id": 15,
+            "duration": 128,
+            "subtitles": "Engelska",
+            "audio": "Tyska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-08-16T16:00:00",
+        "normalized_date": "16.08",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-06-13T08:50:01.175646",
+    "source": "biorio",
+    "tmdb": {
+      "id": 144,
+      "title": "Wings of Desire",
+      "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
+      "release_date": "1987-09-23",
+      "rating": 7.8,
+      "vote_count": 1498,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "poster_path": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "backdrop_path": "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+      "imdb_id": "tt0093191",
+      "runtime": 128,
+      "budget": 2500000,
+      "revenue": 3548590
     }
   },
   {
@@ -163,7 +256,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-12T10:00:59.001193",
+    "scraped_at": "2026-06-13T08:50:03.835470",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -258,7 +351,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-12T10:01:11.981293",
+    "scraped_at": "2026-06-13T08:50:13.341316",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -353,14 +446,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-12T10:01:24.018438",
+    "scraped_at": "2026-06-13T08:50:28.160263",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.404,
+      "rating": 7.4,
       "vote_count": 2643,
       "genres": [
         "Animation",
@@ -434,8 +527,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 4,
-          "ticketsAvailable": 176,
+          "ticketsSold": 6,
+          "ticketsAvailable": 174,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-16T16:00:00",
@@ -446,7 +539,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-12T10:01:31.059103",
+    "scraped_at": "2026-06-13T08:50:34.668825",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -529,8 +622,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 77,
-          "ticketsAvailable": 103,
+          "ticketsSold": 79,
+          "ticketsAvailable": 101,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -541,7 +634,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-12T10:01:39.700696",
+    "scraped_at": "2026-06-13T08:50:44.706483",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -623,8 +716,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 32,
-          "ticketsAvailable": 148,
+          "ticketsSold": 34,
+          "ticketsAvailable": 146,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-14T08:30:00",
@@ -635,7 +728,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-12T10:01:45.074507",
+    "scraped_at": "2026-06-13T08:50:50.592670",
     "source": "biorio",
     "tmdb": {
       "id": 14069,
