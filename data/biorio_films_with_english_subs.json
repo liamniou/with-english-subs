@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-13T08:49:55.109999",
+    "scraped_at": "2026-06-14T09:23:38.317787",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -163,7 +163,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-13T08:50:01.175646",
+    "scraped_at": "2026-06-14T09:23:46.259936",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -256,7 +256,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-13T08:50:03.835470",
+    "scraped_at": "2026-06-14T09:23:49.603255",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -351,7 +351,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-13T08:50:13.341316",
+    "scraped_at": "2026-06-14T09:24:02.612809",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -446,7 +446,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-13T08:50:28.160263",
+    "scraped_at": "2026-06-14T09:24:22.835940",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -539,7 +539,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-13T08:50:34.668825",
+    "scraped_at": "2026-06-14T09:24:32.168856",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -634,15 +634,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-13T08:50:44.706483",
+    "scraped_at": "2026-06-14T09:24:45.047683",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
       "title": "The Room",
       "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
       "release_date": "2003-06-27",
-      "rating": 4.003,
-      "vote_count": 1530,
+      "rating": 3.999,
+      "vote_count": 1533,
       "genres": [
         "Drama",
         "Romance"
@@ -655,102 +655,6 @@
       "runtime": 100,
       "budget": 6000000,
       "revenue": 1752988
-    }
-  },
-  {
-    "film_id": "the-girl-who-leapt-through-time",
-    "url": "https://www.biorio.se/sv/filmer/the-girl-who-leapt-through-time",
-    "title": "The Girl Who Leapt Through Time",
-    "director": "Mamoru Hosoda",
-    "showtimes": [
-      {
-        "datetime": "2026-06-14T08:30:00.000Z",
-        "display_text": "Sunday June 14, 2026 at 08:30",
-        "movie_id": "5823",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/1825",
-        "api_data": {
-          "id": 1825,
-          "movieId": 5823,
-          "movieVersionId": 512,
-          "startTime": "2026-06-14T08:30:00.000Z",
-          "endTime": "2026-06-14T10:08:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5823,
-            "title": "The Girl Who Leapt Through Time",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5823/posters/1772636569631-d4invo.avif",
-            "movieVersions": [
-              {
-                "duration": 98,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 512,
-            "duration": 98,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 3,
-              "name": "Frukostbio"
-            }
-          ],
-          "tags": [
-            "Frukostbio"
-          ],
-          "ticketsSold": 34,
-          "ticketsAvailable": 146,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-06-14T08:30:00",
-        "normalized_date": "14.06",
-        "normalized_time": "08:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-06-13T08:50:50.592670",
-    "source": "biorio",
-    "tmdb": {
-      "id": 14069,
-      "title": "The Girl Who Leapt Through Time",
-      "overview": "When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.",
-      "release_date": "2006-07-15",
-      "rating": 7.777,
-      "vote_count": 2255,
-      "genres": [
-        "Fantasy",
-        "Animation",
-        "Drama",
-        "Science Fiction"
-      ],
-      "poster_path": "/fmK92C7HGu6sK0axItlQ0YsO9qR.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fmK92C7HGu6sK0axItlQ0YsO9qR.jpg",
-      "backdrop_path": "/wyVO297404vkmA8UmUofbPvO5mX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/wyVO297404vkmA8UmUofbPvO5mX.jpg",
-      "imdb_id": "tt0808506",
-      "runtime": 98,
-      "budget": 0,
-      "revenue": 3478290
     }
   }
 ]
