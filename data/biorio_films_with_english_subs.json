@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-15T11:51:52.724284",
+    "scraped_at": "2026-06-16T10:59:44.491106",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -163,7 +163,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-15T11:51:59.921976",
+    "scraped_at": "2026-06-16T10:59:50.337265",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -256,15 +256,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-15T11:52:02.092208",
+    "scraped_at": "2026-06-16T10:59:52.684543",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
       "title": "Steamboy",
       "overview": "In 1860s Britain, a boy inventor finds himself caught in the middle of a deadly conflict over a revolutionary advance in steam power.",
       "release_date": "2004-07-17",
-      "rating": 6.903,
-      "vote_count": 489,
+      "rating": 6.901,
+      "vote_count": 491,
       "genres": [
         "Animation",
         "Fantasy",
@@ -351,7 +351,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-15T11:52:09.579052",
+    "scraped_at": "2026-06-16T11:00:00.983437",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -446,14 +446,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-15T11:52:22.237496",
+    "scraped_at": "2026-06-16T11:00:12.678445",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.403,
+      "rating": 7.4,
       "vote_count": 2644,
       "genres": [
         "Animation",
@@ -462,8 +462,8 @@
       ],
       "poster_path": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
-      "backdrop_path": "/a0GM57AnJtNi7lMOCamniiyV10W.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/a0GM57AnJtNi7lMOCamniiyV10W.jpg",
+      "backdrop_path": "/75nSb1fbWooipwcSU5bUttiOriI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/75nSb1fbWooipwcSU5bUttiOriI.jpg",
       "imdb_id": "tt6587046",
       "runtime": 124,
       "budget": 50000000,
@@ -527,8 +527,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 1,
+          "ticketsAvailable": 179,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-23T18:00:00",
@@ -598,7 +598,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-15T11:52:26.987939",
+    "scraped_at": "2026-06-16T11:00:16.941907",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -690,15 +690,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-15T11:52:28.967398",
+    "scraped_at": "2026-06-16T11:00:19.190510",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
       "title": "Cowboy Bebop: The Movie",
       "overview": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him.",
       "release_date": "2001-09-01",
-      "rating": 7.725,
-      "vote_count": 1038,
+      "rating": 7.727,
+      "vote_count": 1039,
       "genres": [
         "Action",
         "Animation",
@@ -785,15 +785,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-15T11:52:37.299371",
+    "scraped_at": "2026-06-16T11:00:28.587892",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
       "title": "The Room",
       "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
       "release_date": "2003-06-27",
-      "rating": 3.997,
-      "vote_count": 1534,
+      "rating": 4.0,
+      "vote_count": 1536,
       "genres": [
         "Drama",
         "Romance"

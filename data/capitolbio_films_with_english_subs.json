@@ -27,7 +27,59 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-06-15T11:52:50.367194+00:00",
+    "scraped_at": "2026-06-16T11:00:41.410604+00:00",
     "source": "capitolbio"
+  },
+  {
+    "film_id": "pulp-fiction",
+    "url": "https://www.capitolbio.se/filmer/pulp-fiction/684",
+    "title": "Pulp Fiction",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Vincent, Jules, Marsellus, Mia, Butch, Pumpkin, Honey Bunny, Jody och Lance \n\nIngår i Temat: Magic cinema - Capitol byggdes för att göra biografupplevelsen magisk igen, och den är förstås mest så med några av världens mest omtyckta filmer.\n\nEn torped som älskar hamburgare, hans filosofiska partner, en knarkande gangsterbrud och en före detta boxare. Dessa människor har till synes inget samband, men deras liv vävs samma i en serie roliga, bisarra och omotiverade incidenter.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/684/1920/9f19fa06-d677-4c82-a3be-fd2976d37671.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-06-17T20:15:00",
+        "display_text": "Wednesday 17 June 2026 at 20:15",
+        "time": "20:15",
+        "date_section": "17.06",
+        "ticket_url": "https://www.capitolbio.se/boka/50733",
+        "booking_id": "50733",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-06-17T20:15:00",
+        "normalized_date": "17.06",
+        "normalized_time": "20:15"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-06-16T11:00:41.410652+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 680,
+      "title": "Pulp Fiction",
+      "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "release_date": "1994-09-10",
+      "rating": 8.483,
+      "vote_count": 30275,
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Comedy"
+      ],
+      "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "imdb_id": "tt0110912",
+      "runtime": 154,
+      "budget": 8000000,
+      "revenue": 213928762
+    }
   }
 ]
