@@ -1,36 +1,5 @@
 [
   {
-    "film_id": "pretty-in-pink-40-ar",
-    "url": "https://www.capitolbio.se/filmer/pretty-in-pink-40-ar/1238",
-    "title": "Pretty in Pink 40 år",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Ingår i Temat: Teenage angst - the best of times, the worst of times, tonårstiden på film har alltid större känslor, coolare bilar och mer färg. \n\nMolly Ringwald och Andrew McCarthy i kärlekshistoria av John Hughes.\n\nAndie är en fattig men hängiven student som blir förälskad i Blane, som kommer från en förmögen familj. Blane umgås med de rika ungdomarna, en klick som Andie och hennes bästa vän Duckie föraktar. Trots det kan hon inte stå emot Blane när han bjuder ut henne. Men när det är dags för skolbal anser Blanes vänner att Andie inte är en passande dejt till honom. Frågan är om Blane kommer att våga stå upp för det han verkligen vill och ge upp sina så kallade vänner.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/1238/1920/23db9be2-c5e3-4349-a53e-fe72c664003c.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-06-16T18:00:00",
-        "display_text": "Tuesday 16 June 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "16.06",
-        "ticket_url": "https://www.capitolbio.se/boka/50686",
-        "booking_id": "50686",
-        "hall": "Salong 4",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-06-16T18:00:00",
-        "normalized_date": "16.06",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-06-16T11:00:41.410604+00:00",
-    "source": "capitolbio"
-  },
-  {
     "film_id": "pulp-fiction",
     "url": "https://www.capitolbio.se/filmer/pulp-fiction/684",
     "title": "Pulp Fiction",
@@ -58,15 +27,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-06-16T11:00:41.410652+00:00",
+    "scraped_at": "2026-06-17T10:45:21.768179+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 680,
       "title": "Pulp Fiction",
       "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
       "release_date": "1994-09-10",
-      "rating": 8.483,
-      "vote_count": 30275,
+      "rating": 8.5,
+      "vote_count": 30285,
       "genres": [
         "Thriller",
         "Crime",
