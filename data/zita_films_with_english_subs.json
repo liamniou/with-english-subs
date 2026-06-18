@@ -1,45 +1,112 @@
 [
   {
-    "film_id": "juninatten",
-    "url": "https://zita.se/juninatten",
-    "title": "Juninatten",
+    "film_id": "persona",
+    "url": "https://zita.se/persona",
+    "title": "Persona",
     "director": "",
-    "genre": "",
-    "duration": "Sverige19401 jan 201589 minFrån 15 årSvenskaEngelska",
+    "genre": "Sverige196618 okt 196685 minDramaFrån 15 årSvenskaEngelska",
+    "duration": "",
     "showtimes": [
       {
-        "datetime": "",
-        "display_text": "18:00",
-        "time": "18:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5891",
-        "normalized_datetime": "2026-06-17T18:00:00",
-        "normalized_date": "17.06",
-        "normalized_time": "18:00"
+        "datetime": "2026-07-15T15:30:00",
+        "display_text": "ons 15 juli 15:30",
+        "time": "15:30",
+        "date": "ons 15 juli",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3116",
+        "normalized_datetime": "2026-07-15T15:30:00",
+        "normalized_date": "15.07",
+        "normalized_time": "15:30"
+      },
+      {
+        "datetime": "2026-08-05T17:30:00",
+        "display_text": "ons 5 aug 17:30",
+        "time": "17:30",
+        "date": "ons 5 aug",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3116",
+        "normalized_datetime": "2026-08-05T17:30:00",
+        "normalized_date": "05.08",
+        "normalized_time": "17:30"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-06-15T11:53:42.916329+00:00",
+    "scraped_at": "2026-06-18T10:14:35.564021+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 64926,
-      "title": "June Night",
-      "overview": "A woman flees to avoid rumors of promiscuity, but is trailed by a reporter who wants to expose her dark past.",
-      "release_date": "1940-04-03",
-      "rating": 6.071,
-      "vote_count": 14,
+      "id": 797,
+      "title": "Persona",
+      "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
+      "release_date": "1966-10-18",
+      "rating": 8.127,
+      "vote_count": 2414,
       "genres": [
         "Drama"
       ],
-      "poster_path": "/jwa3r4VktqP7gY8G1VoYPQGYfFo.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jwa3r4VktqP7gY8G1VoYPQGYfFo.jpg",
-      "backdrop_path": "/x6USoWcsqk2IXTDzqPRREUHISY9.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/x6USoWcsqk2IXTDzqPRREUHISY9.jpg",
-      "imdb_id": "tt0032655",
-      "runtime": 90,
+      "poster_path": "/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
+      "backdrop_path": "/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
+      "imdb_id": "tt0060827",
+      "runtime": 84,
+      "budget": 0,
+      "revenue": 250000
+    }
+  },
+  {
+    "film_id": "sommaren-med-monika",
+    "url": "https://zita.se/sommaren-med-monika",
+    "title": "Sommaren med Monika",
+    "director": "",
+    "genre": "Sverige19539 feb 195396 minDramaSvenskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "2026-07-09T20:00:00",
+        "display_text": "tors 9 juli 20:00",
+        "time": "20:00",
+        "date": "tors 9 juli",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3114",
+        "normalized_datetime": "2026-07-09T20:00:00",
+        "normalized_date": "09.07",
+        "normalized_time": "20:00"
+      },
+      {
+        "datetime": "2026-07-20T20:00:00",
+        "display_text": "mån 20 juli 20:00",
+        "time": "20:00",
+        "date": "mån 20 juli",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3114",
+        "normalized_datetime": "2026-07-20T20:00:00",
+        "normalized_date": "20.07",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-06-18T10:14:38.708534+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 229529,
+      "title": "Between Summers",
+      "overview": "Torun and Mikael have been married for a few years. When vacationing on the Danish coast, their young son Melker accidentally drowns. Torun initially blames her sister, who was supposed to supervise her children. Later she turns her anger and grief against her husband. Since none of them know what to do with their feelings, they start to drift apart.",
+      "release_date": "1995-08-31",
+      "rating": 5.0,
+      "vote_count": 7,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/yGCTlQXOs3XN5ZJXONGxUbtA2A.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yGCTlQXOs3XN5ZJXONGxUbtA2A.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt0114497",
+      "runtime": 112,
       "budget": 0,
       "revenue": 0
     }

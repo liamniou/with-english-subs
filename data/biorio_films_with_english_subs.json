@@ -1,5 +1,99 @@
 [
   {
+    "film_id": "fantastic-planet",
+    "url": "https://www.biorio.se/sv/filmer/fantastic-planet",
+    "title": "Fantastic Planet",
+    "director": "René Laloux",
+    "showtimes": [
+      {
+        "datetime": "2026-08-09T08:30:00.000Z",
+        "display_text": "Sunday August 09, 2026 at 08:30",
+        "movie_id": "5839",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2342",
+        "api_data": {
+          "id": 2342,
+          "movieId": 5839,
+          "movieVersionId": 528,
+          "startTime": "2026-08-09T08:30:00.000Z",
+          "endTime": "2026-08-09T09:42:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5839,
+            "title": "Fantastic Planet",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5839/posters/1773664246442-6vrqkp.avif",
+            "movieVersions": [
+              {
+                "duration": 72,
+                "audio": "Franska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Franska"
+          },
+          "MovieVersion": {
+            "id": 528,
+            "duration": 72,
+            "subtitles": "Engelska",
+            "audio": "Franska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 3,
+              "name": "Frukostbio"
+            }
+          ],
+          "tags": [
+            "Frukostbio"
+          ],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-08-09T08:30:00",
+        "normalized_date": "09.08",
+        "normalized_time": "08:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-06-18T10:12:01.685119",
+    "source": "biorio",
+    "tmdb": {
+      "id": 16306,
+      "title": "Fantastic Planet",
+      "overview": "On the planet Ygam, the Draags, extremely technologically and spiritually advanced blue humanoids, consider the tiny Oms, human beings descendants of Terra's inhabitants, as ignorant animals. Those who live in slavery are treated as simple pets and used to entertain Draag children; those who live hidden in the hostile wilderness of the planet are periodically hunted and ruthlessly slaughtered as if they were vermin.",
+      "release_date": "1973-12-01",
+      "rating": 7.631,
+      "vote_count": 1104,
+      "genres": [
+        "Animation",
+        "Science Fiction"
+      ],
+      "poster_path": "/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
+      "backdrop_path": "/AwrqoanoZVYoc0MRyE0RiHEKm71.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/AwrqoanoZVYoc0MRyE0RiHEKm71.jpg",
+      "imdb_id": "tt0070544",
+      "runtime": 72,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
     "film_id": "broderna-lejonhjarta",
     "url": "https://www.biorio.se/sv/filmer/broderna-lejonhjarta",
     "title": "Bröderna Lejonhjärta",
@@ -58,8 +152,8 @@
           "tags": [
             "Family Time"
           ],
-          "ticketsSold": 6,
-          "ticketsAvailable": 174,
+          "ticketsSold": 8,
+          "ticketsAvailable": 172,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-21T08:30:00",
@@ -70,7 +164,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-17T10:43:53.635519",
+    "scraped_at": "2026-06-18T10:12:05.438090",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -163,7 +257,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-17T10:44:02.963885",
+    "scraped_at": "2026-06-18T10:12:14.177873",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -256,7 +350,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-17T10:44:06.421398",
+    "scraped_at": "2026-06-18T10:12:17.045590",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -351,14 +445,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-17T10:44:18.264713",
+    "scraped_at": "2026-06-18T10:12:26.328753",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
       "title": "Show Me Love",
       "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
       "release_date": "1998-10-23",
-      "rating": 7.089,
+      "rating": 7.1,
       "vote_count": 592,
       "genres": [
         "Comedy",
@@ -446,7 +540,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-17T10:44:36.970835",
+    "scraped_at": "2026-06-18T10:12:41.871998",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -454,7 +548,7 @@
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
       "rating": 7.402,
-      "vote_count": 2645,
+      "vote_count": 2646,
       "genres": [
         "Animation",
         "Fantasy",
@@ -586,8 +680,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 1,
+          "ticketsAvailable": 179,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-26T16:00:00",
@@ -598,7 +692,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-17T10:44:44.060523",
+    "scraped_at": "2026-06-18T10:12:48.968159",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -611,8 +705,8 @@
         "Documentary",
         "Music"
       ],
-      "poster_path": "/kx1SkaHhN6kz5EvmwSvjgtYr5CK.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kx1SkaHhN6kz5EvmwSvjgtYr5CK.jpg",
+      "poster_path": "/tJrqV5b12HbpNNDrA7Trc5mErGJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tJrqV5b12HbpNNDrA7Trc5mErGJ.jpg",
       "backdrop_path": null,
       "backdrop_url": null,
       "imdb_id": "tt43465871",
@@ -690,15 +784,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-17T10:44:47.805807",
+    "scraped_at": "2026-06-18T10:12:53.128351",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
       "title": "Cowboy Bebop: The Movie",
       "overview": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him.",
       "release_date": "2001-09-01",
-      "rating": 7.727,
-      "vote_count": 1039,
+      "rating": 7.726,
+      "vote_count": 1041,
       "genres": [
         "Action",
         "Animation",
@@ -773,8 +867,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 86,
-          "ticketsAvailable": 94,
+          "ticketsSold": 91,
+          "ticketsAvailable": 89,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -785,7 +879,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-17T10:45:01.206280",
+    "scraped_at": "2026-06-18T10:13:03.238394",
     "source": "biorio",
     "tmdb": {
       "id": 17473,

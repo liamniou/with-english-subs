@@ -26,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-17T10:45:30.398165+00:00",
+    "scraped_at": "2026-06-18T10:13:37.666887+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1454209,
@@ -75,25 +75,26 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-17T10:45:30.398216+00:00",
+    "scraped_at": "2026-06-18T10:13:37.666933+00:00",
     "source": "klarabiografen",
     "tmdb": {
-      "id": 1430053,
-      "title": "The Fifth Step",
-      "overview": "An inmate manages to win the prison time battle by thinking about his wife, who  was also imprisoned. He lives only with the hope that the two will see each other again, but eventually realizes that the only thing he has left is the memory of the two's dancing steps.",
-      "release_date": "",
+      "id": 1507573,
+      "title": "National Theatre Live: The Fifth Step",
+      "overview": "After years in the twelve steps of Alcoholics Anonymous, James becomes a sponsor to newcomer Luka. The pair bond over black coffee, trade stories and build a fragile friendship out of their shared experiences. But as Luka approaches step five – the moment of confession – dangerous truths emerge, threatening the trust on which both of their recoveries depend.",
+      "release_date": "2025-11-27",
       "rating": 0.0,
       "vote_count": 0,
       "genres": [
-        "Drama"
+        "Drama",
+        "Comedy"
       ],
-      "poster_path": "/zMDBTVUTxYLkQMlrapfiAOhjqYl.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zMDBTVUTxYLkQMlrapfiAOhjqYl.jpg",
-      "backdrop_path": "/qDlh8ac9mg9fX1l0EP9tYSTybtK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qDlh8ac9mg9fX1l0EP9tYSTybtK.jpg",
-      "imdb_id": null,
-      "runtime": 8,
-      "budget": 1000,
+      "poster_path": "/f2FeCAeOadqj3leou4XTsHDR8pX.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f2FeCAeOadqj3leou4XTsHDR8pX.jpg",
+      "backdrop_path": "/xAAk7DR2bloyaM5xj0In0Kel4m.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xAAk7DR2bloyaM5xj0In0Kel4m.jpg",
+      "imdb_id": "tt37511177",
+      "runtime": 85,
+      "budget": 0,
       "revenue": 0
     }
   },
@@ -124,7 +125,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-17T10:45:30.398331+00:00",
+    "scraped_at": "2026-06-18T10:13:37.667046+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 45166,
@@ -173,7 +174,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-17T10:45:30.398381+00:00",
+    "scraped_at": "2026-06-18T10:13:37.667121+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 435217,
@@ -222,7 +223,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-17T10:45:30.398470+00:00",
+    "scraped_at": "2026-06-18T10:13:37.667214+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 692562,
@@ -284,15 +285,15 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-17T10:45:30.398507+00:00",
+    "scraped_at": "2026-06-18T10:13:37.667249+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
       "title": "Dangerous Liaisons",
       "overview": "The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.",
       "release_date": "2022-07-08",
-      "rating": 5.861,
-      "vote_count": 321,
+      "rating": 5.862,
+      "vote_count": 322,
       "genres": [
         "Drama",
         "Romance"
@@ -334,7 +335,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-17T10:45:30.398545+00:00",
+    "scraped_at": "2026-06-18T10:13:37.667293+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1679401,
@@ -385,7 +386,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-17T10:45:30.398747+00:00",
+    "scraped_at": "2026-06-18T10:13:37.667613+00:00",
     "source": "klarabiografen"
   },
   {
@@ -415,7 +416,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-17T10:45:30.398889+00:00",
+    "scraped_at": "2026-06-18T10:13:37.667768+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -436,6 +437,107 @@
       "runtime": 122,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "hetty-feather",
+    "url": "https://kulturhusetstadsteatern.se/bio/hetty-feather",
+    "title": "Hetty Feather ",
+    "director": "",
+    "duration": "2 tim 15 min inkl 1 paus",
+    "language": "",
+    "description": "Följ Hetty Feather på ett storslaget och känsloladdat äventyr från barnhem till cirkusliv i viktorianska London. En hyllad familjeföreställning fylld av spänning, värme och jakt på den egna familjen. Premiär på Klarabiografen 13 mars!",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-06/Hetty%20Feather.jpg",
+    "showtimes": [
+      {
+        "datetime": "2027-03-13T18:00:00+01:00",
+        "display_text": "Saturday 13 March 2027 at 18:00",
+        "time": "18:00",
+        "date_section": "13.03",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31972/130031/",
+        "tix_event_id": 130031,
+        "tix_event_group_id": 31972,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2027-03-13T18:00:00",
+        "normalized_date": "13.03.2027",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-06-18T10:13:37.667973+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 719803,
+      "title": "Hetty Feather: Live on Stage",
+      "overview": "Jacqueline Wilson's best-selling novel comes to life on stage as young Hetty Feather, who was abandoned by her mother in a Foundling Hospital, sets out to find the woman who left her behind. Her red hair, intrepid imagination, and feisty nature repeatedly get her into trouble along the way. Infused with live music and daring aerial feats, this new musical is perfect for the whole family.",
+      "release_date": "2020-04-15",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "poster_path": "/sWMCjMsx2gRjDP2U5iKWHQV2hez.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sWMCjMsx2gRjDP2U5iKWHQV2hez.jpg",
+      "backdrop_path": "/pS4Br6Q7sAxXUCk6v96tsBVLSXo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pS4Br6Q7sAxXUCk6v96tsBVLSXo.jpg",
+      "imdb_id": "tt12465976",
+      "runtime": 119,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "42nd-street",
+    "url": "https://kulturhusetstadsteatern.se/bio/42nd-street",
+    "title": "42nd Street",
+    "director": "",
+    "duration": "2 tim 30 min inkl 1 paus",
+    "language": "",
+    "description": "En glittrande Broadwayklassiker fylld av spektakulära dansnummer, odödliga hits och showbiz-magi. 42nd Street är den ultimata feelgood-musikalen om drömmar, talang och chansen att bli stjärna över en natt. Premiär på Klarabiografen 10 april.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-06/42nd%20street.jpg",
+    "showtimes": [
+      {
+        "datetime": "2027-04-10T18:00:00+02:00",
+        "display_text": "Saturday 10 April 2027 at 18:00",
+        "time": "18:00",
+        "date_section": "10.04",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31976/130034/",
+        "tix_event_id": 130034,
+        "tix_event_group_id": 31976,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2027-04-10T18:00:00",
+        "normalized_date": "10.04.2027",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-06-18T10:13:37.668075+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 3062,
+      "title": "42nd Street",
+      "overview": "Broadway director Julian Marsh needs just one more hit show so he can retire and recover his health. It looks like he just may pull it off until temperamental star Dorthy Brock breaks her ankle on the eve of the show's premiere and has to be replaced by her understudy Peggy.",
+      "release_date": "1933-03-11",
+      "rating": 6.938,
+      "vote_count": 216,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/q4UEd8BL74zVsOOaJkKVMLMmdTg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q4UEd8BL74zVsOOaJkKVMLMmdTg.jpg",
+      "backdrop_path": "/5a5lJCew2hGBcd6abdMkomr9mos.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5a5lJCew2hGBcd6abdMkomr9mos.jpg",
+      "imdb_id": "tt0024034",
+      "runtime": 89,
+      "budget": 439000,
+      "revenue": 2281000
     }
   }
 ]
