@@ -26,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-18T10:13:37.666887+00:00",
+    "scraped_at": "2026-06-19T10:18:30.795813+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1454209,
@@ -75,7 +75,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-18T10:13:37.666933+00:00",
+    "scraped_at": "2026-06-19T10:18:30.795851+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1507573,
@@ -125,7 +125,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-18T10:13:37.667046+00:00",
+    "scraped_at": "2026-06-19T10:18:30.795983+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 45166,
@@ -174,7 +174,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-18T10:13:37.667121+00:00",
+    "scraped_at": "2026-06-19T10:18:30.796047+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 435217,
@@ -223,7 +223,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-18T10:13:37.667214+00:00",
+    "scraped_at": "2026-06-19T10:18:30.796123+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 692562,
@@ -285,7 +285,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-18T10:13:37.667249+00:00",
+    "scraped_at": "2026-06-19T10:18:30.796151+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
@@ -335,7 +335,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-18T10:13:37.667293+00:00",
+    "scraped_at": "2026-06-19T10:18:30.796180+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1679401,
@@ -386,7 +386,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-18T10:13:37.667613+00:00",
+    "scraped_at": "2026-06-19T10:18:30.796343+00:00",
     "source": "klarabiografen"
   },
   {
@@ -416,7 +416,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-18T10:13:37.667768+00:00",
+    "scraped_at": "2026-06-19T10:18:30.796467+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -466,7 +466,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-18T10:13:37.667973+00:00",
+    "scraped_at": "2026-06-19T10:18:30.796637+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -516,28 +516,26 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-06-18T10:13:37.668075+00:00",
+    "scraped_at": "2026-06-19T10:18:30.796721+00:00",
     "source": "klarabiografen",
     "tmdb": {
-      "id": 3062,
+      "id": 1422112,
       "title": "42nd Street",
-      "overview": "Broadway director Julian Marsh needs just one more hit show so he can retire and recover his health. It looks like he just may pull it off until temperamental star Dorthy Brock breaks her ankle on the eve of the show's premiere and has to be replaced by her understudy Peggy.",
-      "release_date": "1933-03-11",
-      "rating": 6.938,
-      "vote_count": 216,
+      "overview": "A sensory dive into the lives of dancers and artists hungry for fame, clashing with police tactics and unorthodox views. 42nd Street unveils a defiant counter-culture in the Dominican urban scene—all unfolding on a bold, unrelenting 600-meter 42nd street.",
+      "release_date": "2025-08-21",
+      "rating": 0.0,
+      "vote_count": 0,
       "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
+        "Documentary"
       ],
-      "poster_path": "/q4UEd8BL74zVsOOaJkKVMLMmdTg.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/q4UEd8BL74zVsOOaJkKVMLMmdTg.jpg",
-      "backdrop_path": "/5a5lJCew2hGBcd6abdMkomr9mos.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5a5lJCew2hGBcd6abdMkomr9mos.jpg",
-      "imdb_id": "tt0024034",
-      "runtime": 89,
-      "budget": 439000,
-      "revenue": 2281000
+      "poster_path": "/AgF6Xl5Qi0HoRBav4MzWN0rKZ6J.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AgF6Xl5Qi0HoRBav4MzWN0rKZ6J.jpg",
+      "backdrop_path": "/1IcsukEptFDxvxPpDUYs1OVO2fn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1IcsukEptFDxvxPpDUYs1OVO2fn.jpg",
+      "imdb_id": "tt35081754",
+      "runtime": 91,
+      "budget": 0,
+      "revenue": 0
     }
   }
 ]
