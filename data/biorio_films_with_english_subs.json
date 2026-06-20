@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-19T10:17:11.916217",
+    "scraped_at": "2026-06-20T08:45:14.094413",
     "source": "biorio",
     "tmdb": {
       "id": 16306,
@@ -152,8 +152,8 @@
           "tags": [
             "Family Time"
           ],
-          "ticketsSold": 12,
-          "ticketsAvailable": 168,
+          "ticketsSold": 17,
+          "ticketsAvailable": 163,
           "isPublished": true
         },
         "normalized_datetime": "2026-06-21T08:30:00",
@@ -164,7 +164,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-19T10:17:15.033596",
+    "scraped_at": "2026-06-20T08:45:17.472585",
     "source": "biorio",
     "tmdb": {
       "id": 11291,
@@ -257,7 +257,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-19T10:17:20.879705",
+    "scraped_at": "2026-06-20T08:45:23.805567",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -350,7 +350,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-19T10:17:23.238133",
+    "scraped_at": "2026-06-20T08:45:26.080086",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -445,7 +445,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-19T10:17:32.196307",
+    "scraped_at": "2026-06-20T08:45:34.195573",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -540,7 +540,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-19T10:17:43.964991",
+    "scraped_at": "2026-06-20T08:45:45.919888",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -548,7 +548,7 @@
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
       "rating": 7.402,
-      "vote_count": 2648,
+      "vote_count": 2649,
       "genres": [
         "Animation",
         "Fantasy",
@@ -621,8 +621,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 1,
-          "ticketsAvailable": 179,
+          "ticketsSold": 2,
+          "ticketsAvailable": 178,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-23T18:00:00",
@@ -692,7 +692,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-19T10:17:48.777155",
+    "scraped_at": "2026-06-20T08:45:50.278186",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -772,8 +772,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 8,
-          "ticketsAvailable": 172,
+          "ticketsSold": 9,
+          "ticketsAvailable": 171,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-16T16:00:00",
@@ -784,7 +784,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-19T10:17:51.275437",
+    "scraped_at": "2026-06-20T08:45:52.518773",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -879,7 +879,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-19T10:17:59.523832",
+    "scraped_at": "2026-06-20T08:46:00.629748",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
