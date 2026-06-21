@@ -58,8 +58,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 1,
+          "ticketsAvailable": 179,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-09T08:30:00",
@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-20T08:45:14.094413",
+    "scraped_at": "2026-06-21T09:40:31.839362",
     "source": "biorio",
     "tmdb": {
       "id": 16306,
@@ -89,101 +89,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/AwrqoanoZVYoc0MRyE0RiHEKm71.jpg",
       "imdb_id": "tt0070544",
       "runtime": 72,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "broderna-lejonhjarta",
-    "url": "https://www.biorio.se/sv/filmer/broderna-lejonhjarta",
-    "title": "Bröderna Lejonhjärta",
-    "director": "Olle Hellbom",
-    "showtimes": [
-      {
-        "datetime": "2026-06-21T08:30:00.000Z",
-        "display_text": "Sunday June 21, 2026 at 08:30",
-        "movie_id": "5867",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/1947",
-        "api_data": {
-          "id": 1947,
-          "movieId": 5867,
-          "movieVersionId": 566,
-          "startTime": "2026-06-21T08:30:00.000Z",
-          "endTime": "2026-06-21T10:17:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5867,
-            "title": "Bröderna Lejonhjärta",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5867/posters/1774615284753-vnhis.avif",
-            "movieVersions": [
-              {
-                "duration": 107,
-                "audio": "Svenska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Svenska"
-          },
-          "MovieVersion": {
-            "id": 566,
-            "duration": 107,
-            "subtitles": "Engelska",
-            "audio": "Svenska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 4,
-              "name": "Family Time"
-            }
-          ],
-          "tags": [
-            "Family Time"
-          ],
-          "ticketsSold": 17,
-          "ticketsAvailable": 163,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-06-21T08:30:00",
-        "normalized_date": "21.06",
-        "normalized_time": "08:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-06-20T08:45:17.472585",
-    "source": "biorio",
-    "tmdb": {
-      "id": 11291,
-      "title": "The Brothers Lionheart",
-      "overview": "After brothers Jonathan and Crusty pass away, they reunite in Nangijala, the land of eternal spring. Casting a long shadow over their world is the tyrant Tengil, ruler of the country Karmanjaka, where he’s building his new fortress up in the Ancient Mountains.",
-      "release_date": "1977-09-23",
-      "rating": 6.7,
-      "vote_count": 108,
-      "genres": [
-        "Adventure",
-        "Fantasy",
-        "Family"
-      ],
-      "poster_path": "/giPbP2p6R2pnIIETAEmWWhZ4jVJ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/giPbP2p6R2pnIIETAEmWWhZ4jVJ.jpg",
-      "backdrop_path": "/8PB8HLRcKjnkUDxm0ELtlwm7XzT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8PB8HLRcKjnkUDxm0ELtlwm7XzT.jpg",
-      "imdb_id": "tt0075790",
-      "runtime": 102,
       "budget": 0,
       "revenue": 0
     }
@@ -257,7 +162,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-20T08:45:23.805567",
+    "scraped_at": "2026-06-21T09:40:38.464794",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -350,7 +255,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-20T08:45:26.080086",
+    "scraped_at": "2026-06-21T09:40:40.613893",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -445,7 +350,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-20T08:45:34.195573",
+    "scraped_at": "2026-06-21T09:40:48.370596",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -540,7 +445,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-20T08:45:45.919888",
+    "scraped_at": "2026-06-21T09:40:58.997266",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -548,7 +453,7 @@
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
       "rating": 7.402,
-      "vote_count": 2649,
+      "vote_count": 2650,
       "genres": [
         "Animation",
         "Fantasy",
@@ -680,8 +585,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 1,
-          "ticketsAvailable": 179,
+          "ticketsSold": 3,
+          "ticketsAvailable": 177,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-26T16:00:00",
@@ -692,7 +597,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-20T08:45:50.278186",
+    "scraped_at": "2026-06-21T09:41:03.420038",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -784,7 +689,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-20T08:45:52.518773",
+    "scraped_at": "2026-06-21T09:41:05.353912",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -867,8 +772,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 93,
-          "ticketsAvailable": 87,
+          "ticketsSold": 94,
+          "ticketsAvailable": 86,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -879,7 +784,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-20T08:46:00.629748",
+    "scraped_at": "2026-06-21T09:41:13.515310",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
