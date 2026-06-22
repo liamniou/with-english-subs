@@ -1,99 +1,5 @@
 [
   {
-    "film_id": "fantastic-planet",
-    "url": "https://www.biorio.se/sv/filmer/fantastic-planet",
-    "title": "Fantastic Planet",
-    "director": "René Laloux",
-    "showtimes": [
-      {
-        "datetime": "2026-08-09T08:30:00.000Z",
-        "display_text": "Sunday August 09, 2026 at 08:30",
-        "movie_id": "5839",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2342",
-        "api_data": {
-          "id": 2342,
-          "movieId": 5839,
-          "movieVersionId": 528,
-          "startTime": "2026-08-09T08:30:00.000Z",
-          "endTime": "2026-08-09T09:42:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5839,
-            "title": "Fantastic Planet",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5839/posters/1773664246442-6vrqkp.avif",
-            "movieVersions": [
-              {
-                "duration": 72,
-                "audio": "Franska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Franska"
-          },
-          "MovieVersion": {
-            "id": 528,
-            "duration": 72,
-            "subtitles": "Engelska",
-            "audio": "Franska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 3,
-              "name": "Frukostbio"
-            }
-          ],
-          "tags": [
-            "Frukostbio"
-          ],
-          "ticketsSold": 1,
-          "ticketsAvailable": 179,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-08-09T08:30:00",
-        "normalized_date": "09.08",
-        "normalized_time": "08:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-06-21T09:40:31.839362",
-    "source": "biorio",
-    "tmdb": {
-      "id": 16306,
-      "title": "Fantastic Planet",
-      "overview": "On the planet Ygam, the Draags, extremely technologically and spiritually advanced blue humanoids, consider the tiny Oms, human beings descendants of Terra's inhabitants, as ignorant animals. Those who live in slavery are treated as simple pets and used to entertain Draag children; those who live hidden in the hostile wilderness of the planet are periodically hunted and ruthlessly slaughtered as if they were vermin.",
-      "release_date": "1973-12-01",
-      "rating": 7.631,
-      "vote_count": 1104,
-      "genres": [
-        "Animation",
-        "Science Fiction"
-      ],
-      "poster_path": "/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
-      "backdrop_path": "/AwrqoanoZVYoc0MRyE0RiHEKm71.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/AwrqoanoZVYoc0MRyE0RiHEKm71.jpg",
-      "imdb_id": "tt0070544",
-      "runtime": 72,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "himmel-over-berlin",
     "url": "https://www.biorio.se/sv/filmer/himmel-over-berlin",
     "title": "Himmel över Berlin",
@@ -162,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-21T09:40:38.464794",
+    "scraped_at": "2026-06-22T11:41:18.574379",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -255,15 +161,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-21T09:40:40.613893",
+    "scraped_at": "2026-06-22T11:41:21.085077",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
       "title": "Steamboy",
       "overview": "In 1860s Britain, a boy inventor finds himself caught in the middle of a deadly conflict over a revolutionary advance in steam power.",
       "release_date": "2004-07-17",
-      "rating": 6.899,
-      "vote_count": 492,
+      "rating": 6.9,
+      "vote_count": 493,
       "genres": [
         "Animation",
         "Fantasy",
@@ -338,8 +244,8 @@
           "tags": [
             "Pride"
           ],
-          "ticketsSold": 5,
-          "ticketsAvailable": 175,
+          "ticketsSold": 6,
+          "ticketsAvailable": 174,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-28T18:15:00",
@@ -350,7 +256,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-21T09:40:48.370596",
+    "scraped_at": "2026-06-22T11:41:28.677163",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -445,15 +351,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-21T09:40:58.997266",
+    "scraped_at": "2026-06-22T11:41:41.706079",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.402,
-      "vote_count": 2650,
+      "rating": 7.403,
+      "vote_count": 2651,
       "genres": [
         "Animation",
         "Fantasy",
@@ -597,7 +503,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-21T09:41:03.420038",
+    "scraped_at": "2026-06-22T11:41:47.321929",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -689,7 +595,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-21T09:41:05.353912",
+    "scraped_at": "2026-06-22T11:41:49.682327",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -709,6 +615,98 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/19EKawKy1Z7nUJMhQE28XBL6Guc.jpg",
       "imdb_id": "tt0275277",
       "runtime": 115,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "fleabag",
+    "url": "https://www.biorio.se/sv/filmer/fleabag",
+    "title": "Fleabag",
+    "director": "Tony Grech-Smith",
+    "showtimes": [
+      {
+        "datetime": "2026-08-01T16:10:00.000Z",
+        "display_text": "Saturday August 01, 2026 at 16:10",
+        "movie_id": "5509",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2362",
+        "api_data": {
+          "id": 2362,
+          "movieId": 5509,
+          "movieVersionId": 187,
+          "startTime": "2026-08-01T16:10:00.000Z",
+          "endTime": "2026-08-01T17:30:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5509,
+            "title": "Fleabag",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5509/posters/1748606053347-ciwlb.jpg",
+            "movieVersions": [
+              {
+                "duration": 80,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 187,
+            "duration": 80,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-08-01T16:10:00",
+        "normalized_date": "01.08",
+        "normalized_time": "16:10"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-06-22T11:41:51.811889",
+    "source": "biorio",
+    "tmdb": {
+      "id": 620350,
+      "title": "National Theatre Live: Fleabag",
+      "overview": "Fleabag may seem oversexed, emotionally unfiltered and self-obsessed, but that's just the tip of the iceberg. With family and friendships under strain and a guinea pig café struggling to keep afloat, Fleabag suddenly finds herself with nothing to lose.",
+      "release_date": "2019-09-12",
+      "rating": 7.7,
+      "vote_count": 72,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "poster_path": "/ym3Jo2mo2dK9Z27ryMr5mmkDljx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ym3Jo2mo2dK9Z27ryMr5mmkDljx.jpg",
+      "backdrop_path": "/h3StNE0j4jc1qFt88t7IR2w4wVm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/h3StNE0j4jc1qFt88t7IR2w4wVm.jpg",
+      "imdb_id": "tt10702760",
+      "runtime": 81,
       "budget": 0,
       "revenue": 0
     }
@@ -772,8 +770,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 94,
-          "ticketsAvailable": 86,
+          "ticketsSold": 104,
+          "ticketsAvailable": 76,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -784,7 +782,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-21T09:41:13.515310",
+    "scraped_at": "2026-06-22T11:42:01.792997",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
