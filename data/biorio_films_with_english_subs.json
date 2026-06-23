@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-22T11:41:18.574379",
+    "scraped_at": "2026-06-23T09:27:43.478484",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -161,7 +161,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-22T11:41:21.085077",
+    "scraped_at": "2026-06-23T09:27:46.707920",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -256,7 +256,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-22T11:41:28.677163",
+    "scraped_at": "2026-06-23T09:27:55.895306",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -351,15 +351,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-22T11:41:41.706079",
+    "scraped_at": "2026-06-23T09:28:09.108649",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.403,
-      "vote_count": 2651,
+      "rating": 7.402,
+      "vote_count": 2653,
       "genres": [
         "Animation",
         "Fantasy",
@@ -503,7 +503,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-22T11:41:47.321929",
+    "scraped_at": "2026-06-23T09:28:15.807821",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -595,7 +595,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-22T11:41:49.682327",
+    "scraped_at": "2026-06-23T09:28:18.943273",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -688,7 +688,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-22T11:41:51.811889",
+    "scraped_at": "2026-06-23T09:28:21.600890",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -770,8 +770,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 104,
-          "ticketsAvailable": 76,
+          "ticketsSold": 105,
+          "ticketsAvailable": 75,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -782,7 +782,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-22T11:42:01.792997",
+    "scraped_at": "2026-06-23T09:28:33.211530",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
