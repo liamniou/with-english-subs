@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-23T09:27:43.478484",
+    "scraped_at": "2026-06-24T08:57:24.076877",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -161,7 +161,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-23T09:27:46.707920",
+    "scraped_at": "2026-06-24T08:57:26.212277",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -256,14 +256,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-23T09:27:55.895306",
+    "scraped_at": "2026-06-24T08:57:34.212656",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
       "title": "Show Me Love",
       "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
       "release_date": "1998-10-23",
-      "rating": 7.1,
+      "rating": 7.089,
       "vote_count": 592,
       "genres": [
         "Comedy",
@@ -351,7 +351,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-23T09:28:09.108649",
+    "scraped_at": "2026-06-24T08:57:44.829993",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -503,7 +503,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-23T09:28:15.807821",
+    "scraped_at": "2026-06-24T08:57:50.170084",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -595,7 +595,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-23T09:28:18.943273",
+    "scraped_at": "2026-06-24T08:57:52.366204",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -688,7 +688,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-23T09:28:21.600890",
+    "scraped_at": "2026-06-24T08:57:54.312946",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -770,8 +770,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 105,
-          "ticketsAvailable": 75,
+          "ticketsSold": 112,
+          "ticketsAvailable": 68,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -782,7 +782,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-23T09:28:33.211530",
+    "scraped_at": "2026-06-24T08:58:03.908771",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
