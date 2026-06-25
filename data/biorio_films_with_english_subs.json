@@ -1,22 +1,22 @@
 [
   {
-    "film_id": "himmel-over-berlin",
-    "url": "https://www.biorio.se/sv/filmer/himmel-over-berlin",
-    "title": "Himmel över Berlin",
-    "director": "Wim Wenders",
+    "film_id": "pojken-och-hagern",
+    "url": "https://www.biorio.se/sv/filmer/pojken-och-hagern",
+    "title": "Pojken och hägern",
+    "director": "Hayao Miyazaki",
     "showtimes": [
       {
-        "datetime": "2026-08-16T16:00:00.000Z",
-        "display_text": "Sunday August 16, 2026 at 16:00",
-        "movie_id": "5024",
+        "datetime": "2026-07-11T08:30:00.000Z",
+        "display_text": "Saturday July 11, 2026 at 08:30",
+        "movie_id": "5884",
         "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2307",
+        "booking_url": "https://www.biorio.se/sv/boka/2147",
         "api_data": {
-          "id": 2307,
-          "movieId": 5024,
-          "movieVersionId": 15,
-          "startTime": "2026-08-16T16:00:00.000Z",
-          "endTime": "2026-08-16T18:08:00.000Z",
+          "id": 2147,
+          "movieId": 5884,
+          "movieVersionId": 583,
+          "startTime": "2026-07-11T08:30:00.000Z",
+          "endTime": "2026-07-11T10:35:00.000Z",
           "screenId": 1,
           "screenNumber": 1,
           "language": null,
@@ -27,24 +27,119 @@
           "onlineAvailableFrom": null,
           "includeInReport": true,
           "movie": {
-            "id": 5024,
-            "title": "Himmel över Berlin",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1741269594239-105221735-himmel-aff.jpg",
+            "id": 5884,
+            "title": "Pojken och hägern",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5884/posters/1776241288769-y6lstf.avif",
             "movieVersions": [
               {
-                "duration": 128,
-                "audio": "Tyska",
+                "duration": 125,
+                "audio": "Japanska",
                 "subtitles": "Engelska"
               }
             ],
             "subtitles": "Engelska",
-            "audio": "Tyska"
+            "audio": "Japanska"
           },
           "MovieVersion": {
-            "id": 15,
-            "duration": 128,
+            "id": 583,
+            "duration": 125,
             "subtitles": "Engelska",
-            "audio": "Tyska"
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 3,
+              "name": "Frukostbio"
+            }
+          ],
+          "tags": [
+            "Frukostbio"
+          ],
+          "ticketsSold": 8,
+          "ticketsAvailable": 172,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-07-11T08:30:00",
+        "normalized_date": "11.07",
+        "normalized_time": "08:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-06-25T08:51:51.427548",
+    "source": "biorio",
+    "tmdb": {
+      "id": 508883,
+      "title": "The Boy and the Heron",
+      "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
+      "release_date": "2023-07-14",
+      "rating": 7.4,
+      "vote_count": 2654,
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Drama"
+      ],
+      "poster_path": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+      "backdrop_path": "/75nSb1fbWooipwcSU5bUttiOriI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/75nSb1fbWooipwcSU5bUttiOriI.jpg",
+      "imdb_id": "tt6587046",
+      "runtime": 124,
+      "budget": 50000000,
+      "revenue": 294200000
+    }
+  },
+  {
+    "film_id": "cowboy-bebop-the-movie",
+    "url": "https://www.biorio.se/sv/filmer/cowboy-bebop-the-movie",
+    "title": "Cowboy Bebop: The Movie",
+    "director": "Shinichiro Watanabe",
+    "showtimes": [
+      {
+        "datetime": "2026-07-16T16:00:00.000Z",
+        "display_text": "Thursday July 16, 2026 at 16:00",
+        "movie_id": "5393",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2210",
+        "api_data": {
+          "id": 2210,
+          "movieId": 5393,
+          "movieVersionId": 52,
+          "startTime": "2026-07-16T16:00:00.000Z",
+          "endTime": "2026-07-16T17:55:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5393,
+            "title": "Cowboy Bebop: The Movie",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5393/posters/1742376051028-3uv2plc.jpg",
+            "movieVersions": [
+              {
+                "duration": 115,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 52,
+            "duration": 115,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
           },
           "screen": {
             "capacity": 180
@@ -56,40 +151,40 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 9,
+          "ticketsAvailable": 171,
           "isPublished": true
         },
-        "normalized_datetime": "2026-08-16T16:00:00",
-        "normalized_date": "16.08",
+        "normalized_datetime": "2026-07-16T16:00:00",
+        "normalized_date": "16.07",
         "normalized_time": "16:00"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-24T08:57:24.076877",
+    "scraped_at": "2026-06-25T08:51:57.827715",
     "source": "biorio",
     "tmdb": {
-      "id": 144,
-      "title": "Wings of Desire",
-      "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
-      "release_date": "1987-09-23",
-      "rating": 7.8,
-      "vote_count": 1498,
+      "id": 11299,
+      "title": "Cowboy Bebop: The Movie",
+      "overview": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him.",
+      "release_date": "2001-09-01",
+      "rating": 7.726,
+      "vote_count": 1041,
       "genres": [
-        "Drama",
-        "Fantasy",
-        "Romance"
+        "Action",
+        "Animation",
+        "Science Fiction"
       ],
-      "poster_path": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
-      "backdrop_path": "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
-      "imdb_id": "tt0093191",
-      "runtime": 128,
-      "budget": 2500000,
-      "revenue": 3548590
+      "poster_path": "/34H5bsNc0EPILVr49TfOYXj50qV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/34H5bsNc0EPILVr49TfOYXj50qV.jpg",
+      "backdrop_path": "/19EKawKy1Z7nUJMhQE28XBL6Guc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/19EKawKy1Z7nUJMhQE28XBL6Guc.jpg",
+      "imdb_id": "tt0275277",
+      "runtime": 115,
+      "budget": 0,
+      "revenue": 0
     }
   },
   {
@@ -161,7 +256,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-24T08:57:26.212277",
+    "scraped_at": "2026-06-25T08:52:04.061711",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -183,196 +278,6 @@
       "runtime": 126,
       "budget": 26000000,
       "revenue": 18900000
-    }
-  },
-  {
-    "film_id": "fucking-amal",
-    "url": "https://www.biorio.se/sv/filmer/fucking-amal",
-    "title": "Fucking Åmål",
-    "director": "Lukas Moodysson",
-    "showtimes": [
-      {
-        "datetime": "2026-07-28T18:15:00.000Z",
-        "display_text": "Tuesday July 28, 2026 at 18:15",
-        "movie_id": "5915",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2224",
-        "api_data": {
-          "id": 2224,
-          "movieId": 5915,
-          "movieVersionId": 614,
-          "startTime": "2026-07-28T18:15:00.000Z",
-          "endTime": "2026-07-28T19:44:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5915,
-            "title": "Fucking Åmål",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5915/posters/1779885917820-p9cm5jj.avif",
-            "movieVersions": [
-              {
-                "duration": 89,
-                "audio": "Svenska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Svenska"
-          },
-          "MovieVersion": {
-            "id": 614,
-            "duration": 89,
-            "subtitles": "Engelska",
-            "audio": "Svenska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [
-            "Pride"
-          ],
-          "ticketsSold": 6,
-          "ticketsAvailable": 174,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-07-28T18:15:00",
-        "normalized_date": "28.07",
-        "normalized_time": "18:15"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-06-24T08:57:34.212656",
-    "source": "biorio",
-    "tmdb": {
-      "id": 11634,
-      "title": "Show Me Love",
-      "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
-      "release_date": "1998-10-23",
-      "rating": 7.089,
-      "vote_count": 592,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "poster_path": "/ek5fMfwGVTyQ0N0VXBT1VWqan3U.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ek5fMfwGVTyQ0N0VXBT1VWqan3U.jpg",
-      "backdrop_path": "/7TjeFeYpwMqI9Q2o69IcZrQoUK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7TjeFeYpwMqI9Q2o69IcZrQoUK.jpg",
-      "imdb_id": "tt0150662",
-      "runtime": 89,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "pojken-och-hagern",
-    "url": "https://www.biorio.se/sv/filmer/pojken-och-hagern",
-    "title": "Pojken och hägern",
-    "director": "Hayao Miyazaki",
-    "showtimes": [
-      {
-        "datetime": "2026-07-11T08:30:00.000Z",
-        "display_text": "Saturday July 11, 2026 at 08:30",
-        "movie_id": "5884",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2147",
-        "api_data": {
-          "id": 2147,
-          "movieId": 5884,
-          "movieVersionId": 583,
-          "startTime": "2026-07-11T08:30:00.000Z",
-          "endTime": "2026-07-11T10:35:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5884,
-            "title": "Pojken och hägern",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5884/posters/1776241288769-y6lstf.avif",
-            "movieVersions": [
-              {
-                "duration": 125,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 583,
-            "duration": 125,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 3,
-              "name": "Frukostbio"
-            }
-          ],
-          "tags": [
-            "Frukostbio"
-          ],
-          "ticketsSold": 6,
-          "ticketsAvailable": 174,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-07-11T08:30:00",
-        "normalized_date": "11.07",
-        "normalized_time": "08:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-06-24T08:57:44.829993",
-    "source": "biorio",
-    "tmdb": {
-      "id": 508883,
-      "title": "The Boy and the Heron",
-      "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
-      "release_date": "2023-07-14",
-      "rating": 7.402,
-      "vote_count": 2653,
-      "genres": [
-        "Animation",
-        "Fantasy",
-        "Drama"
-      ],
-      "poster_path": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
-      "backdrop_path": "/75nSb1fbWooipwcSU5bUttiOriI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/75nSb1fbWooipwcSU5bUttiOriI.jpg",
-      "imdb_id": "tt6587046",
-      "runtime": 124,
-      "budget": 50000000,
-      "revenue": 294200000
     }
   },
   {
@@ -503,7 +408,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-24T08:57:50.170084",
+    "scraped_at": "2026-06-25T08:52:06.653184",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -527,23 +432,23 @@
     }
   },
   {
-    "film_id": "cowboy-bebop-the-movie",
-    "url": "https://www.biorio.se/sv/filmer/cowboy-bebop-the-movie",
-    "title": "Cowboy Bebop: The Movie",
-    "director": "Shinichiro Watanabe",
+    "film_id": "fucking-amal",
+    "url": "https://www.biorio.se/sv/filmer/fucking-amal",
+    "title": "Fucking Åmål",
+    "director": "Lukas Moodysson",
     "showtimes": [
       {
-        "datetime": "2026-07-16T16:00:00.000Z",
-        "display_text": "Thursday July 16, 2026 at 16:00",
-        "movie_id": "5393",
+        "datetime": "2026-07-28T18:15:00.000Z",
+        "display_text": "Tuesday July 28, 2026 at 18:15",
+        "movie_id": "5915",
         "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2210",
+        "booking_url": "https://www.biorio.se/sv/boka/2224",
         "api_data": {
-          "id": 2210,
-          "movieId": 5393,
-          "movieVersionId": 52,
-          "startTime": "2026-07-16T16:00:00.000Z",
-          "endTime": "2026-07-16T17:55:00.000Z",
+          "id": 2224,
+          "movieId": 5915,
+          "movieVersionId": 614,
+          "startTime": "2026-07-28T18:15:00.000Z",
+          "endTime": "2026-07-28T19:44:00.000Z",
           "screenId": 1,
           "screenNumber": 1,
           "language": null,
@@ -554,24 +459,24 @@
           "onlineAvailableFrom": null,
           "includeInReport": true,
           "movie": {
-            "id": 5393,
-            "title": "Cowboy Bebop: The Movie",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5393/posters/1742376051028-3uv2plc.jpg",
+            "id": 5915,
+            "title": "Fucking Åmål",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5915/posters/1779885917820-p9cm5jj.avif",
             "movieVersions": [
               {
-                "duration": 115,
-                "audio": "Japanska",
+                "duration": 89,
+                "audio": "Svenska",
                 "subtitles": "Engelska"
               }
             ],
             "subtitles": "Engelska",
-            "audio": "Japanska"
+            "audio": "Svenska"
           },
           "MovieVersion": {
-            "id": 52,
-            "duration": 115,
+            "id": 614,
+            "duration": 89,
             "subtitles": "Engelska",
-            "audio": "Japanska"
+            "audio": "Svenska"
           },
           "screen": {
             "capacity": 180
@@ -582,39 +487,41 @@
               "name": "Ordinarie"
             }
           ],
-          "tags": [],
-          "ticketsSold": 9,
-          "ticketsAvailable": 171,
+          "tags": [
+            "Pride"
+          ],
+          "ticketsSold": 6,
+          "ticketsAvailable": 174,
           "isPublished": true
         },
-        "normalized_datetime": "2026-07-16T16:00:00",
-        "normalized_date": "16.07",
-        "normalized_time": "16:00"
+        "normalized_datetime": "2026-07-28T18:15:00",
+        "normalized_date": "28.07",
+        "normalized_time": "18:15"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-24T08:57:52.366204",
+    "scraped_at": "2026-06-25T08:52:11.475947",
     "source": "biorio",
     "tmdb": {
-      "id": 11299,
-      "title": "Cowboy Bebop: The Movie",
-      "overview": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him.",
-      "release_date": "2001-09-01",
-      "rating": 7.726,
-      "vote_count": 1041,
+      "id": 11634,
+      "title": "Show Me Love",
+      "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
+      "release_date": "1998-10-23",
+      "rating": 7.08,
+      "vote_count": 593,
       "genres": [
-        "Action",
-        "Animation",
-        "Science Fiction"
+        "Comedy",
+        "Romance",
+        "Drama"
       ],
-      "poster_path": "/34H5bsNc0EPILVr49TfOYXj50qV.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/34H5bsNc0EPILVr49TfOYXj50qV.jpg",
-      "backdrop_path": "/19EKawKy1Z7nUJMhQE28XBL6Guc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/19EKawKy1Z7nUJMhQE28XBL6Guc.jpg",
-      "imdb_id": "tt0275277",
-      "runtime": 115,
+      "poster_path": "/ek5fMfwGVTyQ0N0VXBT1VWqan3U.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ek5fMfwGVTyQ0N0VXBT1VWqan3U.jpg",
+      "backdrop_path": "/7TjeFeYpwMqI9Q2o69IcZrQoUK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7TjeFeYpwMqI9Q2o69IcZrQoUK.jpg",
+      "imdb_id": "tt0150662",
+      "runtime": 89,
       "budget": 0,
       "revenue": 0
     }
@@ -688,7 +595,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-24T08:57:54.312946",
+    "scraped_at": "2026-06-25T08:52:16.554927",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -770,8 +677,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 112,
-          "ticketsAvailable": 68,
+          "ticketsSold": 115,
+          "ticketsAvailable": 65,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -782,7 +689,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-24T08:58:03.908771",
+    "scraped_at": "2026-06-25T08:52:20.272471",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -803,6 +710,193 @@
       "runtime": 100,
       "budget": 6000000,
       "revenue": 1752988
+    }
+  },
+  {
+    "film_id": "himmel-over-berlin",
+    "url": "https://www.biorio.se/sv/filmer/himmel-over-berlin",
+    "title": "Himmel över Berlin",
+    "director": "Wim Wenders",
+    "showtimes": [
+      {
+        "datetime": "2026-08-16T16:00:00.000Z",
+        "display_text": "Sunday August 16, 2026 at 16:00",
+        "movie_id": "5024",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2307",
+        "api_data": {
+          "id": 2307,
+          "movieId": 5024,
+          "movieVersionId": 15,
+          "startTime": "2026-08-16T16:00:00.000Z",
+          "endTime": "2026-08-16T18:08:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5024,
+            "title": "Himmel över Berlin",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1741269594239-105221735-himmel-aff.jpg",
+            "movieVersions": [
+              {
+                "duration": 128,
+                "audio": "Tyska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Tyska"
+          },
+          "MovieVersion": {
+            "id": 15,
+            "duration": 128,
+            "subtitles": "Engelska",
+            "audio": "Tyska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-08-16T16:00:00",
+        "normalized_date": "16.08",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-06-25T08:52:28.084977",
+    "source": "biorio",
+    "tmdb": {
+      "id": 144,
+      "title": "Wings of Desire",
+      "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
+      "release_date": "1987-09-23",
+      "rating": 7.8,
+      "vote_count": 1498,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "poster_path": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "backdrop_path": "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+      "imdb_id": "tt0093191",
+      "runtime": 128,
+      "budget": 2500000,
+      "revenue": 3548590
+    }
+  },
+  {
+    "film_id": "sanger-fran-andra-vaningen",
+    "url": "https://www.biorio.se/sv/filmer/sanger-fran-andra-vaningen",
+    "title": "Sånger från andra våningen",
+    "director": "Roy Andersson",
+    "showtimes": [
+      {
+        "datetime": "2026-08-30T08:30:00.000Z",
+        "display_text": "Sunday August 30, 2026 at 08:30",
+        "movie_id": "5941",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2431",
+        "api_data": {
+          "id": 2431,
+          "movieId": 5941,
+          "movieVersionId": 639,
+          "startTime": "2026-08-30T08:30:00.000Z",
+          "endTime": "2026-08-30T10:10:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5941,
+            "title": "Sånger från andra våningen",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5941/posters/1782307192739-1nepgt.avif",
+            "movieVersions": [
+              {
+                "duration": 100,
+                "audio": "Svenska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Svenska"
+          },
+          "MovieVersion": {
+            "id": 639,
+            "duration": 100,
+            "subtitles": "Engelska",
+            "audio": "Svenska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 3,
+              "name": "Frukostbio"
+            }
+          ],
+          "tags": [
+            "Frukostbio"
+          ],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-08-30T08:30:00",
+        "normalized_date": "30.08",
+        "normalized_time": "08:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-06-25T08:52:32.494964",
+    "source": "biorio",
+    "tmdb": {
+      "id": 34070,
+      "title": "Songs from the Second Floor",
+      "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
+      "release_date": "2000-10-06",
+      "rating": 7.056,
+      "vote_count": 315,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster_path": "/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
+      "backdrop_path": "/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
+      "imdb_id": "tt0120263",
+      "runtime": 99,
+      "budget": 0,
+      "revenue": 80334
     }
   }
 ]
