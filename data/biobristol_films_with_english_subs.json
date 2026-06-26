@@ -27,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-06-25T08:51:08.729074+00:00",
+    "scraped_at": "2026-06-26T08:53:47.659659+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 87208,
@@ -47,6 +47,107 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/u0RDI1DwWsDq883peRTRAU3iVZ8.jpg",
       "imdb_id": "tt0065261",
       "runtime": 114,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "lskande-par",
+    "url": "https://www.biobristol.se/f/lskande-par/499",
+    "title": "Älskande par",
+    "director": "Mai Zetterling",
+    "duration": "118 min",
+    "language": "Svenska",
+    "description": "The time is shortly after WWI started in 1914. Three pregnant women about to give birth are admitted at a hospital. The women come from different circumstances and have disparate views about the impending births.\n\nAdèle was born into the middle class but after her family became poor she was forced to marry Tord, a tenant famer. She does not love him, nor does she care much for her child, whom she conceived out of spite. The baby is stillborn, and Adèle sheds nary a tear.\n\nAgda, the second woman became wild and sexually irresponsible after she was seduced as a young woman by a much older man. She entered the dual careers of modelling and robbery, and ended up sleeping with Bernhard, the scion of the family who owns the land Angela’s husband farms, which resulted in her pregancy. Bernhard offered to support his bastard provided Agda marry his friend Stellan and pretends the child is his, to which she agreed.\n\nThe third woman, Angela, is introverted. As a youth, she had a short-lived lesbian affair in school. She then fell in love with an archaeologist who impregnated her. He refuses to acknowledge the child as his. This enrages Angela who joins a feminist movement and dedicates her life to removing the stigma of having babies out of wedlock.",
+    "poster_url": "https://mars-images.imgix.net/1782066045020?auto=compress&w=1200&fit=max",
+    "showtimes": [
+      {
+        "datetime": "2026-06-30T19:15:00",
+        "display_text": "Tuesday 30 June 2026 at 19:15",
+        "time": "19:15",
+        "date_section": "30.06",
+        "ticket_url": "https://www.biobristol.se/checkout?showId=6a382c4b55ada7341496d7c3",
+        "show_id": "6a382c4b55ada7341496d7c3",
+        "hall": "Bristol",
+        "audio_language": "",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-06-30T19:15:00",
+        "normalized_date": "30.06",
+        "normalized_time": "19:15"
+      }
+    ],
+    "cinemas": [
+      "Bio Bristol"
+    ],
+    "scraped_at": "2026-06-26T08:53:54.726279+00:00",
+    "source": "biobristol",
+    "tmdb": {
+      "id": 180971,
+      "title": "Loving Couples",
+      "overview": "As three pregnant women wait to have their babies in a hospital in Stockholm at the outbreak of the Great War, they relive their childhood and youthful experiences.",
+      "release_date": "1964-12-20",
+      "rating": 5.9,
+      "vote_count": 23,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/vdDpMubZJV3fTMzQ6hsI9FNggeT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vdDpMubZJV3fTMzQ6hsI9FNggeT.jpg",
+      "backdrop_path": "/rhFc6Mzk01NjOQhV3IfHdn5FScB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/rhFc6Mzk01NjOQhV3IfHdn5FScB.jpg",
+      "imdb_id": "tt0058780",
+      "runtime": 118,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "zama",
+    "url": "https://www.biobristol.se/f/zama/507",
+    "title": "Zama",
+    "director": "Lucrecia Martel",
+    "duration": "115 min",
+    "language": "Spanska",
+    "description": "I en avlägsen sydamerikansk koloni i slutet av 1700-talet väntar Zama, en tjänsteman i kronans tjänst, förgäves på en förflyttning till en mer prestigefylld post. Han utsätts för förödmjukelser och politiska intriger samtidigt som han gradvis faller offer för lust och paranoia.\n\nDiego de Zama är en amerikanskfödd ämbetsman i den spanska kronans tjänst som väntar på ett brev från kungen som ska befria honom från den gränspost där han har fastnat. Hans situation är känslig. Han måste se till att ingenting äventyrar denna möjlighet. Därför tvingas han underordna sig och utföra varje uppgift som de guvernörer som avlöser varandra beordrar honom att göra, medan han själv blir kvar.\n\nÅren går, men brevet kommer aldrig. Efter att ha förlorat allt under sin långa väntan beslutar sig Zama för att ansluta sig till en grupp soldater på jakt efter en farlig bandit.",
+    "poster_url": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/1782402287887",
+    "showtimes": [
+      {
+        "datetime": "2026-07-19T17:15:00",
+        "display_text": "Sunday 19 July 2026 at 17:15",
+        "time": "17:15",
+        "date_section": "19.07",
+        "ticket_url": "https://www.biobristol.se/checkout?showId=6a3d4e4ad93a3441bde504b9",
+        "show_id": "6a3d4e4ad93a3441bde504b9",
+        "hall": "Bristol",
+        "audio_language": "",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-07-19T17:15:00",
+        "normalized_date": "19.07",
+        "normalized_time": "17:15"
+      }
+    ],
+    "cinemas": [
+      "Bio Bristol"
+    ],
+    "scraped_at": "2026-06-26T08:54:01.102944+00:00",
+    "source": "biobristol",
+    "tmdb": {
+      "id": 326382,
+      "title": "Zama",
+      "overview": "In a remote South American colony in the late 18th century, officer Zama of the Spanish crown waits in vain for a transfer to a more prestigious location. He suffers small humiliations and petty politicking as he increasingly succumbs to lust and paranoia.",
+      "release_date": "2017-09-28",
+      "rating": 6.542,
+      "vote_count": 178,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "poster_path": "/kpp9R6iYKSIXxfyW0feVYrk0jsg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kpp9R6iYKSIXxfyW0feVYrk0jsg.jpg",
+      "backdrop_path": "/9JqIR7bBO0uofsJiONgYAX2yw1R.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9JqIR7bBO0uofsJiONgYAX2yw1R.jpg",
+      "imdb_id": "tt3409848",
+      "runtime": 115,
       "budget": 0,
       "revenue": 0
     }

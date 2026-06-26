@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-25T08:51:51.427548",
+    "scraped_at": "2026-06-26T08:54:28.869768",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -151,8 +151,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 9,
-          "ticketsAvailable": 171,
+          "ticketsSold": 14,
+          "ticketsAvailable": 166,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-16T16:00:00",
@@ -163,15 +163,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-25T08:51:57.827715",
+    "scraped_at": "2026-06-26T08:54:35.091883",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
       "title": "Cowboy Bebop: The Movie",
       "overview": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him.",
       "release_date": "2001-09-01",
-      "rating": 7.726,
-      "vote_count": 1041,
+      "rating": 7.727,
+      "vote_count": 1042,
       "genres": [
         "Action",
         "Animation",
@@ -256,15 +256,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-25T08:52:04.061711",
+    "scraped_at": "2026-06-26T08:54:40.789012",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
       "title": "Steamboy",
       "overview": "In 1860s Britain, a boy inventor finds himself caught in the middle of a deadly conflict over a revolutionary advance in steam power.",
       "release_date": "2004-07-17",
-      "rating": 6.9,
-      "vote_count": 493,
+      "rating": 6.902,
+      "vote_count": 494,
       "genres": [
         "Animation",
         "Fantasy",
@@ -337,8 +337,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 2,
-          "ticketsAvailable": 178,
+          "ticketsSold": 3,
+          "ticketsAvailable": 177,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-23T18:00:00",
@@ -396,8 +396,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 3,
-          "ticketsAvailable": 177,
+          "ticketsSold": 5,
+          "ticketsAvailable": 175,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-26T16:00:00",
@@ -408,7 +408,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-25T08:52:06.653184",
+    "scraped_at": "2026-06-26T08:54:43.128412",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -502,14 +502,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-25T08:52:11.475947",
+    "scraped_at": "2026-06-26T08:54:48.253258",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
       "title": "Show Me Love",
       "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
       "release_date": "1998-10-23",
-      "rating": 7.08,
+      "rating": 7.1,
       "vote_count": 593,
       "genres": [
         "Comedy",
@@ -595,7 +595,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-25T08:52:16.554927",
+    "scraped_at": "2026-06-26T08:54:53.522587",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -677,8 +677,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 115,
-          "ticketsAvailable": 65,
+          "ticketsSold": 119,
+          "ticketsAvailable": 61,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -689,7 +689,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-25T08:52:20.272471",
+    "scraped_at": "2026-06-26T08:54:57.041632",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -781,7 +781,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-25T08:52:28.084977",
+    "scraped_at": "2026-06-26T08:55:04.806885",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -876,7 +876,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-25T08:52:32.494964",
+    "scraped_at": "2026-06-26T08:55:09.511954",
     "source": "biorio",
     "tmdb": {
       "id": 34070,

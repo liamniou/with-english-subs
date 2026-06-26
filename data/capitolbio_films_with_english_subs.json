@@ -27,15 +27,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-06-25T08:52:39.816499+00:00",
+    "scraped_at": "2026-06-26T08:55:19.031851+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 680,
       "title": "Pulp Fiction",
       "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
       "release_date": "1994-09-10",
-      "rating": 8.483,
-      "vote_count": 30324,
+      "rating": 8.5,
+      "vote_count": 30327,
       "genres": [
         "Thriller",
         "Crime",
