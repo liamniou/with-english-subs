@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-26T08:54:28.869768",
+    "scraped_at": "2026-06-27T08:29:40.656340",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -163,7 +163,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-26T08:54:35.091883",
+    "scraped_at": "2026-06-27T08:29:47.462159",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -256,7 +256,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-26T08:54:40.789012",
+    "scraped_at": "2026-06-27T08:29:54.188739",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -408,7 +408,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-26T08:54:43.128412",
+    "scraped_at": "2026-06-27T08:29:56.438297",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -490,8 +490,8 @@
           "tags": [
             "Pride"
           ],
-          "ticketsSold": 6,
-          "ticketsAvailable": 174,
+          "ticketsSold": 9,
+          "ticketsAvailable": 171,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-28T18:15:00",
@@ -502,7 +502,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-26T08:54:48.253258",
+    "scraped_at": "2026-06-27T08:30:02.102959",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -595,7 +595,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-26T08:54:53.522587",
+    "scraped_at": "2026-06-27T08:30:07.129601",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -677,8 +677,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 119,
-          "ticketsAvailable": 61,
+          "ticketsSold": 128,
+          "ticketsAvailable": 52,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -689,7 +689,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-26T08:54:57.041632",
+    "scraped_at": "2026-06-27T08:30:10.611356",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -781,7 +781,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-26T08:55:04.806885",
+    "scraped_at": "2026-06-27T08:30:20.920853",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -876,7 +876,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-26T08:55:09.511954",
+    "scraped_at": "2026-06-27T08:30:25.537401",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
