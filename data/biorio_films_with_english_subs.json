@@ -70,15 +70,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-27T08:29:40.656340",
+    "scraped_at": "2026-06-28T08:44:51.823383",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.4,
-      "vote_count": 2654,
+      "rating": 7.397,
+      "vote_count": 2657,
       "genres": [
         "Animation",
         "Fantasy",
@@ -163,7 +163,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-27T08:29:47.462159",
+    "scraped_at": "2026-06-28T08:45:00.529826",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -256,14 +256,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-27T08:29:54.188739",
+    "scraped_at": "2026-06-28T08:45:09.846091",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
       "title": "Steamboy",
       "overview": "In 1860s Britain, a boy inventor finds himself caught in the middle of a deadly conflict over a revolutionary advance in steam power.",
       "release_date": "2004-07-17",
-      "rating": 6.902,
+      "rating": 6.9,
       "vote_count": 494,
       "genres": [
         "Animation",
@@ -337,8 +337,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 3,
-          "ticketsAvailable": 177,
+          "ticketsSold": 5,
+          "ticketsAvailable": 175,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-23T18:00:00",
@@ -408,7 +408,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-27T08:29:56.438297",
+    "scraped_at": "2026-06-28T08:45:12.981570",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -502,7 +502,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-27T08:30:02.102959",
+    "scraped_at": "2026-06-28T08:45:21.775979",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -595,7 +595,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-27T08:30:07.129601",
+    "scraped_at": "2026-06-28T08:45:28.381942",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -677,8 +677,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 128,
-          "ticketsAvailable": 52,
+          "ticketsSold": 132,
+          "ticketsAvailable": 48,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -689,7 +689,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-27T08:30:10.611356",
+    "scraped_at": "2026-06-28T08:45:33.211867",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -781,15 +781,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-27T08:30:20.920853",
+    "scraped_at": "2026-06-28T08:45:46.877451",
     "source": "biorio",
     "tmdb": {
       "id": 144,
       "title": "Wings of Desire",
       "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
       "release_date": "1987-09-23",
-      "rating": 7.8,
-      "vote_count": 1498,
+      "rating": 7.758,
+      "vote_count": 1500,
       "genres": [
         "Drama",
         "Fantasy",
@@ -864,8 +864,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 2,
+          "ticketsAvailable": 178,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-30T08:30:00",
@@ -876,7 +876,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-27T08:30:25.537401",
+    "scraped_at": "2026-06-28T08:45:53.021421",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
