@@ -1,57 +1,5 @@
 [
   {
-    "film_id": "dalen-31",
-    "url": "https://www.biobristol.se/f/dalen-31/489",
-    "title": "Ådalen 31",
-    "director": "Bo Widerberg",
-    "duration": "114 min",
-    "language": "Svenska",
-    "description": "",
-    "poster_url": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/1780847267537",
-    "showtimes": [
-      {
-        "datetime": "2026-06-28T14:00:00",
-        "display_text": "Sunday 28 June 2026 at 14:00",
-        "time": "14:00",
-        "date_section": "28.06",
-        "ticket_url": "https://www.biobristol.se/checkout?showId=6a2593a3ac40f69054214091",
-        "show_id": "6a2593a3ac40f69054214091",
-        "hall": "Bristol",
-        "audio_language": "",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-06-28T14:00:00",
-        "normalized_date": "28.06",
-        "normalized_time": "14:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Bristol"
-    ],
-    "scraped_at": "2026-06-28T08:44:00.580028+00:00",
-    "source": "biobristol",
-    "tmdb": {
-      "id": 87208,
-      "title": "Adalen 31",
-      "overview": "A film about the 1931 Ådalen shootings, in which Swedish military forces opened fire against labour demonstrators in the Swedish sawmill district of Ådalen.",
-      "release_date": "1969-05-01",
-      "rating": 6.565,
-      "vote_count": 46,
-      "genres": [
-        "Drama",
-        "History",
-        "Romance"
-      ],
-      "poster_path": "/36nb5JRvhdaEcpE71LKexPtYIa1.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/36nb5JRvhdaEcpE71LKexPtYIa1.jpg",
-      "backdrop_path": "/u0RDI1DwWsDq883peRTRAU3iVZ8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/u0RDI1DwWsDq883peRTRAU3iVZ8.jpg",
-      "imdb_id": "tt0065261",
-      "runtime": 114,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "lskande-par",
     "url": "https://www.biobristol.se/f/lskande-par/499",
     "title": "Älskande par",
@@ -79,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-06-28T08:44:07.676942+00:00",
+    "scraped_at": "2026-06-29T10:29:22.882512+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 180971,
@@ -129,7 +77,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-06-28T08:44:12.882203+00:00",
+    "scraped_at": "2026-06-29T10:29:29.239960+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 326382,

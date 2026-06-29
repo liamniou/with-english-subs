@@ -58,8 +58,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 8,
-          "ticketsAvailable": 172,
+          "ticketsSold": 10,
+          "ticketsAvailable": 170,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-11T08:30:00",
@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-28T08:44:51.823383",
+    "scraped_at": "2026-06-29T10:29:53.561182",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -78,7 +78,7 @@
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
       "rating": 7.397,
-      "vote_count": 2657,
+      "vote_count": 2659,
       "genres": [
         "Animation",
         "Fantasy",
@@ -163,15 +163,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-28T08:45:00.529826",
+    "scraped_at": "2026-06-29T10:29:58.550198",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
       "title": "Cowboy Bebop: The Movie",
       "overview": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him.",
       "release_date": "2001-09-01",
-      "rating": 7.727,
-      "vote_count": 1042,
+      "rating": 7.726,
+      "vote_count": 1043,
       "genres": [
         "Action",
         "Animation",
@@ -256,15 +256,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-28T08:45:09.846091",
+    "scraped_at": "2026-06-29T10:30:04.768205",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
       "title": "Steamboy",
       "overview": "In 1860s Britain, a boy inventor finds himself caught in the middle of a deadly conflict over a revolutionary advance in steam power.",
       "release_date": "2004-07-17",
-      "rating": 6.9,
-      "vote_count": 494,
+      "rating": 6.904,
+      "vote_count": 495,
       "genres": [
         "Animation",
         "Fantasy",
@@ -408,7 +408,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-28T08:45:12.981570",
+    "scraped_at": "2026-06-29T10:30:07.194018",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -490,8 +490,8 @@
           "tags": [
             "Pride"
           ],
-          "ticketsSold": 9,
-          "ticketsAvailable": 171,
+          "ticketsSold": 11,
+          "ticketsAvailable": 169,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-28T18:15:00",
@@ -502,15 +502,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-28T08:45:21.775979",
+    "scraped_at": "2026-06-29T10:30:12.171062",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
       "title": "Show Me Love",
       "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
       "release_date": "1998-10-23",
-      "rating": 7.1,
-      "vote_count": 593,
+      "rating": 7.082,
+      "vote_count": 594,
       "genres": [
         "Comedy",
         "Romance",
@@ -583,8 +583,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 2,
+          "ticketsAvailable": 178,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-01T16:10:00",
@@ -595,7 +595,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-28T08:45:28.381942",
+    "scraped_at": "2026-06-29T10:30:16.633552",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -677,8 +677,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 132,
-          "ticketsAvailable": 48,
+          "ticketsSold": 141,
+          "ticketsAvailable": 39,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -689,7 +689,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-28T08:45:33.211867",
+    "scraped_at": "2026-06-29T10:30:20.525570",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -781,15 +781,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-28T08:45:46.877451",
+    "scraped_at": "2026-06-29T10:30:29.112118",
     "source": "biorio",
     "tmdb": {
       "id": 144,
       "title": "Wings of Desire",
       "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
       "release_date": "1987-09-23",
-      "rating": 7.758,
-      "vote_count": 1500,
+      "rating": 7.8,
+      "vote_count": 1501,
       "genres": [
         "Drama",
         "Fantasy",
@@ -876,14 +876,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-06-28T08:45:53.021421",
+    "scraped_at": "2026-06-29T10:30:33.309897",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
       "title": "Songs from the Second Floor",
       "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
       "release_date": "2000-10-06",
-      "rating": 7.056,
+      "rating": 7.1,
       "vote_count": 315,
       "genres": [
         "Drama",
