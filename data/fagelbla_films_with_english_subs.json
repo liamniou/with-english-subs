@@ -8,28 +8,28 @@
     "language": "Engelska",
     "showtimes": [
       {
-        "datetime": "2026-06-28T10:30:00+02:00",
-        "display_text": "Söndag, 28th Juni 10:30",
+        "datetime": "2026-08-08T10:30:00+02:00",
+        "display_text": "Lördag, 8th Augusti 10:30",
         "time": "10:30",
-        "date_section": "Söndag, 28th Juni",
-        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=56896",
-        "showtime_id": "56896",
-        "normalized_datetime": "2026-06-28T10:30:00",
-        "normalized_date": "28.06",
+        "date_section": "Lördag, 8th Augusti",
+        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=57714",
+        "showtime_id": "57714",
+        "normalized_datetime": "2026-08-08T10:30:00",
+        "normalized_date": "08.08",
         "normalized_time": "10:30"
       }
     ],
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-06-27T08:30:51.857636+00:00",
+    "scraped_at": "2026-06-30T09:23:53.320289+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.621,
+      "rating": 7.6,
       "vote_count": 4498,
       "genres": [
         "Comedy",
