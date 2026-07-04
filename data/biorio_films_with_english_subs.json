@@ -56,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 5,
-          "ticketsAvailable": 175,
+          "ticketsSold": 7,
+          "ticketsAvailable": 173,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-23T18:00:00",
@@ -115,8 +115,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 5,
-          "ticketsAvailable": 175,
+          "ticketsSold": 7,
+          "ticketsAvailable": 173,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-26T16:00:00",
@@ -127,7 +127,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-01T09:34:50.012509",
+    "scraped_at": "2026-07-04T20:36:02.410534",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -219,22 +219,22 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-01T09:34:56.142844",
+    "scraped_at": "2026-07-04T20:36:05.951223",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
       "title": "Steamboy",
       "overview": "In 1860s Britain, a boy inventor finds himself caught in the middle of a deadly conflict over a revolutionary advance in steam power.",
       "release_date": "2004-07-17",
-      "rating": 6.904,
+      "rating": 6.9,
       "vote_count": 494,
       "genres": [
         "Animation",
         "Fantasy",
         "Science Fiction"
       ],
-      "poster_path": "/wszfXaMx74a91yRTBgO1fwSvMj3.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wszfXaMx74a91yRTBgO1fwSvMj3.jpg",
+      "poster_path": "/he3fyAy1OUruuwhiv2xvup8H3pc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/he3fyAy1OUruuwhiv2xvup8H3pc.jpg",
       "backdrop_path": "/c31SAQjVMeVGv7mZsrw5BKGXj2P.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/c31SAQjVMeVGv7mZsrw5BKGXj2P.jpg",
       "imdb_id": "tt0348121",
@@ -314,14 +314,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-01T09:35:20.761088",
+    "scraped_at": "2026-07-04T20:36:21.040033",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
       "title": "Show Me Love",
       "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
       "release_date": "1998-10-23",
-      "rating": 7.082,
+      "rating": 7.078,
       "vote_count": 594,
       "genres": [
         "Comedy",
@@ -397,8 +397,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 2,
-          "ticketsAvailable": 178,
+          "ticketsSold": 7,
+          "ticketsAvailable": 173,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-30T08:30:00",
@@ -409,7 +409,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-01T09:35:32.288420",
+    "scraped_at": "2026-07-04T20:36:29.000312",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -491,8 +491,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 10,
-          "ticketsAvailable": 170,
+          "ticketsSold": 16,
+          "ticketsAvailable": 164,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-11T08:30:00",
@@ -503,15 +503,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-01T09:35:44.428677",
+    "scraped_at": "2026-07-04T20:36:39.587107",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.397,
-      "vote_count": 2660,
+      "rating": 7.396,
+      "vote_count": 2670,
       "genres": [
         "Animation",
         "Fantasy",
@@ -584,8 +584,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 2,
+          "ticketsAvailable": 178,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-16T16:00:00",
@@ -596,15 +596,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-01T09:35:53.466620",
+    "scraped_at": "2026-07-04T20:36:48.129743",
     "source": "biorio",
     "tmdb": {
       "id": 144,
       "title": "Wings of Desire",
       "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
       "release_date": "1987-09-23",
-      "rating": 7.8,
-      "vote_count": 1501,
+      "rating": 7.758,
+      "vote_count": 1502,
       "genres": [
         "Drama",
         "Fantasy",
@@ -677,8 +677,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 14,
-          "ticketsAvailable": 166,
+          "ticketsSold": 17,
+          "ticketsAvailable": 163,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-16T16:00:00",
@@ -689,7 +689,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-01T09:35:55.362146",
+    "scraped_at": "2026-07-04T20:36:49.565128",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -711,6 +711,106 @@
       "runtime": 115,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "ghost-in-the-shell",
+    "url": "https://www.biorio.se/sv/filmer/ghost-in-the-shell",
+    "title": "Ghost in the Shell",
+    "director": "Mamoru Oshii",
+    "showtimes": [
+      {
+        "datetime": "2026-09-03T16:00:00.000Z",
+        "display_text": "Thursday September 03, 2026 at 16:00",
+        "movie_id": "4989",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2542",
+        "api_data": {
+          "id": 2542,
+          "movieId": 4989,
+          "movieVersionId": 28,
+          "startTime": "2026-09-03T16:00:00.000Z",
+          "endTime": "2026-09-03T17:23:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 4989,
+            "title": "Ghost in the Shell",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/4989/posters/1742375281690-muxuif.jpg",
+            "movieVersions": [
+              {
+                "duration": 83,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              },
+              {
+                "duration": 83,
+                "audio": "JAP",
+                "subtitles": "ENG"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 28,
+            "duration": 83,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [
+            "Timelessfest 2026"
+          ],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-09-03T16:00:00",
+        "normalized_date": "03.09",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-07-04T20:36:51.130842",
+    "source": "biorio",
+    "tmdb": {
+      "id": 9323,
+      "title": "Ghost in the Shell",
+      "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
+      "release_date": "1995-11-18",
+      "rating": 7.922,
+      "vote_count": 3915,
+      "genres": [
+        "Action",
+        "Animation",
+        "Science Fiction"
+      ],
+      "poster_path": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+      "backdrop_path": "/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
+      "imdb_id": "tt0113568",
+      "runtime": 83,
+      "budget": 3000000,
+      "revenue": 10000000
     }
   },
   {
@@ -772,8 +872,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 148,
-          "ticketsAvailable": 32,
+          "ticketsSold": 163,
+          "ticketsAvailable": 17,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -833,8 +933,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 17,
+          "ticketsAvailable": 163,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -845,7 +945,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-01T09:35:58.233746",
+    "scraped_at": "2026-07-04T20:36:53.735360",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -937,7 +1037,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-01T09:36:07.535690",
+    "scraped_at": "2026-07-04T20:37:00.411396",
     "source": "biorio",
     "tmdb": {
       "id": 620350,

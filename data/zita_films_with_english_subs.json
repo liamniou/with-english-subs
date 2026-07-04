@@ -12,7 +12,7 @@
         "display_text": "tors 9 juli 20:00",
         "time": "20:00",
         "date": "tors 9 juli",
-        "cinema": "(Zita 2)",
+        "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=3114",
         "normalized_datetime": "2026-07-09T20:00:00",
         "normalized_date": "09.07",
@@ -33,7 +33,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-01T09:37:41.551020+00:00",
+    "scraped_at": "2026-07-04T20:38:30.585224+00:00",
     "source": "zita",
     "tmdb": {
       "id": 229529,
