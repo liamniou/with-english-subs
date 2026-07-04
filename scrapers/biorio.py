@@ -37,6 +37,9 @@ class BioRio:
             response = self.session.get(url)
             response.raise_for_status()
             return response.text
+        except httpx.HTTPStatusError as e:
+            print(f"HTTP error fetching {url}: {e.response.status_code} {e.response.reason_phrase}")
+            return None
         except httpx.RequestError as e:
             print(f"Error fetching {url}: {e}")
             return None
