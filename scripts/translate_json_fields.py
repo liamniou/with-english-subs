@@ -48,7 +48,7 @@ class JSONFieldTranslator:
             
         try:
             # Prepare the API request
-            api_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={self.gemini_api_key}"
+            api_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={self.gemini_api_key}"
             
             headers = {
                 'Content-Type': 'application/json',
@@ -140,7 +140,7 @@ Return only the {self.target_language} translations in the same numbered format 
             
         try:
             # Prepare the API request
-            api_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={self.gemini_api_key}"
+            api_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={self.gemini_api_key}"
             
             headers = {
                 'Content-Type': 'application/json',
