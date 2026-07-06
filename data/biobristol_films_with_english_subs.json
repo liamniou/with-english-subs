@@ -1,56 +1,5 @@
 [
   {
-    "film_id": "the-match",
-    "url": "https://www.biobristol.se/f/the-match/487",
-    "title": "The Match",
-    "director": "Juan Cabral, Santiago Franco",
-    "duration": "91 min",
-    "language": "Spanska",
-    "description": "THE MATCH är en fängslande dokumentär om hur sport kan spegla historien - och hur vissa matcher aldrig riktigt tar slut.\r\n\r\n1986 möts Argentina och England på Aztecastadion under fotbolls-VM i Mexiko. Det som skulle bli historiens mest ikoniska match - präglad av Diego Maradonas legendariska \"Hand of God\" - blir i THE MATCH långt mer än ett sportögonblick.\r\n\r\nGenom unikt arkivmaterial och ett filmiskt berättande skildrar regissörerna Juan Cabral och Santiago Franco hur matchen bär på över tvåhundra år av konflikter, möten och maktkamp mellan Argentina och England. Från koloniala spänningar till Falklandskrigets öppna sår omvandlas 90 minuter fotboll till en berättelse om nationalism, minne och identitet.\r\n\r\nBerättarröst, Gary Lineker och Jorge Valdano",
-    "poster_url": "https://mars-images.imgix.net/1780845105336?auto=compress&w=1200&fit=max",
-    "showtimes": [
-      {
-        "datetime": "2026-07-05T15:30:00",
-        "display_text": "Sunday 5 July 2026 at 15:30",
-        "time": "15:30",
-        "date_section": "05.07",
-        "ticket_url": "https://www.biobristol.se/checkout?showId=6a425d66cd3ec5711d42e308",
-        "show_id": "6a425d66cd3ec5711d42e308",
-        "hall": "Bristol",
-        "audio_language": "",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-07-05T15:30:00",
-        "normalized_date": "05.07",
-        "normalized_time": "15:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Bristol"
-    ],
-    "scraped_at": "2026-07-05T08:44:30.167177+00:00",
-    "source": "biobristol",
-    "tmdb": {
-      "id": 41160,
-      "title": "The Match",
-      "overview": "Romantic comedy set against the story of a grudge football match between two pubs. The prize for the winner of the centenary match is the the closure of their opponent's bar. The Match was mainly filmed around Straiton in Ayrshire.",
-      "release_date": "1999-08-13",
-      "rating": 6.0,
-      "vote_count": 15,
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "poster_path": "/h7sS80bAgJrPm31eKHNV5JqzdEL.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/h7sS80bAgJrPm31eKHNV5JqzdEL.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt0165384",
-      "runtime": 95,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "zama",
     "url": "https://www.biobristol.se/f/zama/507",
     "title": "Zama",
@@ -61,24 +10,24 @@
     "poster_url": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/1782402287887",
     "showtimes": [
       {
-        "datetime": "2026-07-19T17:15:00",
-        "display_text": "Sunday 19 July 2026 at 17:15",
-        "time": "17:15",
+        "datetime": "2026-07-19T18:00:00",
+        "display_text": "Sunday 19 July 2026 at 18:00",
+        "time": "18:00",
         "date_section": "19.07",
         "ticket_url": "https://www.biobristol.se/checkout?showId=6a3d4e4ad93a3441bde504b9",
         "show_id": "6a3d4e4ad93a3441bde504b9",
         "hall": "Bristol",
         "audio_language": "",
         "subtitle_language": "EN",
-        "normalized_datetime": "2026-07-19T17:15:00",
+        "normalized_datetime": "2026-07-19T18:00:00",
         "normalized_date": "19.07",
-        "normalized_time": "17:15"
+        "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-07-05T08:44:40.320937+00:00",
+    "scraped_at": "2026-07-06T10:03:18.165427+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 326382,
