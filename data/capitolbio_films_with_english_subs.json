@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "film_id": "den-amerikanske-vannen",
+    "url": "https://www.capitolbio.se/filmer/den-amerikanske-vannen/835",
+    "title": "Den amerikanske vännen",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Ingår i Temat: Bad men - för vi alla älskar en riktigt bra skurk.\n\nJonathan Zimmermann från Hamburg erbjuds en stor summa pengar av en fransk gangster för ett utföra ett mord. Zimmermann utgår först från att det hela rör sig om ett missförstånd, men bakom rekommendationen av Zimmermann som mördare ligger den amerikanske Tom Ripley.\n\nWim Wenders mångbottnade thriller blev hans stora genombrott. Filmen bygger på En man med onda avsikter (Talented Mr. Ripley) av Patricia Highsmith och i huvudrollerna syns Dennis Hopper och Bruno Ganz.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/835/1920/a71459fc-66db-4129-8e9e-1b3eacfd97c5.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-07-08T20:15:00",
+        "display_text": "Wednesday 8 July 2026 at 20:15",
+        "time": "20:15",
+        "date_section": "08.07",
+        "ticket_url": "https://www.capitolbio.se/boka/50701",
+        "booking_id": "50701",
+        "hall": "Salong 2",
+        "audio_language": "DE",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-07-08T20:15:00",
+        "normalized_date": "08.07",
+        "normalized_time": "20:15"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-07T09:31:27.105531+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 11222,
+      "title": "The American Friend",
+      "overview": "Tom Ripley, an American who deals in forged art, is slighted at an auction in Hamburg by picture framer Jonathan Zimmerman. When Ripley is asked by gangster Raoul Minot to kill a rival, he suggests Zimmerman, and the two, exploiting Zimmerman's terminal illness, coerce him into being a hitman.",
+      "release_date": "1977-06-24",
+      "rating": 7.091,
+      "vote_count": 443,
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "poster_path": "/jHVe5EHDFj9ac2F2aU86sWTGKnn.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jHVe5EHDFj9ac2F2aU86sWTGKnn.jpg",
+      "backdrop_path": "/h59F8NcFSlucTK7fUcndD9TB9jg.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/h59F8NcFSlucTK7fUcndD9TB9jg.jpg",
+      "imdb_id": "tt0075675",
+      "runtime": 125,
+      "budget": 0,
+      "revenue": 0
+    }
+  }
+]

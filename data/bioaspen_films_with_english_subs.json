@@ -26,7 +26,37 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-07-06T11:28:30.847322+00:00",
+    "scraped_at": "2026-07-07T09:29:37.348021+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "wajda-100-ar-filmkonsert-innocent-sorcerers-niewinni-czarodzieje",
+    "url": "https://www.bioaspen.se/movies/wajda-100-ar-filmkonsert-innocent-sorcerers-niewinni-czarodzieje/",
+    "title": "Wajda 100 år: Filmkonsert Innocent Sorcerers (Niewinni Czarodzieje)",
+    "director": "Andrzej Wajda",
+    "duration": "1 tim 30 min",
+    "language": "PL",
+    "description": "Filmens musik är komponerad av den legendariske Krzysztof Komeda, en av den polska jazzens och filmmusikens mest betydelsefulla gestalter. Under visningen framförs det ikoniska soundtracket live av en kvintett ledd av Albert Karch, i transkriberade och nyarrangerade versioner för en mindre instrumentalensemble. Musikerna är trogna originalets anda, men använder samtidigt musiken som utgångspunkt för improvisation och ger Komedas tidlösa kompositioner ett nytt, levande och samtida uttryck.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/6979/1080/acb89129-09fc-4432-9026-a657b80347d3.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-26T19:00:00",
+        "display_text": "Monday 26 October 2026 at 19:00",
+        "time": "19:00",
+        "date_section": "26.10",
+        "ticket_url": "https://www.bioaspen.se/movies/wajda-100-ar-filmkonsert-innocent-sorcerers-niewinni-czarodzieje/",
+        "hall": "Salong 1",
+        "audio_language": "PL",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-26T19:00:00",
+        "normalized_date": "26.10",
+        "normalized_time": "19:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-07-07T09:29:37.348060+00:00",
     "source": "bioaspen"
   }
 ]
