@@ -26,7 +26,67 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-07-07T09:29:37.348021+00:00",
+    "scraped_at": "2026-07-08T08:13:56.896475+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "tyska-tisdagar-im-glanze-dieses-gluckes",
+    "url": "https://www.bioaspen.se/movies/tyska-tisdagar-im-glanze-dieses-gluckes/",
+    "title": "Tyska tisdagar: Im Glanze dieses Glückes",
+    "director": "Tamara Trampe, Johann Feindt, Jeanine Meerapfel, Dieter Schumann, Helga Reidemeister",
+    "duration": "1 tim 25 min",
+    "language": "DE",
+    "description": "Genom samtal med arbetare, skolelever, gränsvakter, poliser, lärare och en tidigare Stasi-officer skildrar dokumentärfilmskollektivetBlick ins Landden osäkerhet, desorientering och omprövning som följde i återföreningens spår. Ett nyktert och närgånget porträtt av livet i skuggan av historiens stora omvälvningar.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/6983/1080/a2a54628-a111-435f-8b1f-99ec6c5f6b71.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-22T18:00:00",
+        "display_text": "Tuesday 22 September 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "22.09",
+        "ticket_url": "https://www.bioaspen.se/movies/tyska-tisdagar-im-glanze-dieses-gluckes/",
+        "hall": "Salong 1",
+        "audio_language": "DE",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-22T18:00:00",
+        "normalized_date": "22.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-07-08T08:13:56.896512+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "phantoms-of-july",
+    "url": "https://www.bioaspen.se/movies/phantoms-of-july/",
+    "title": "Tyska tisdagar: Phantoms of July (Sehnsucht in Sangerhausen)",
+    "director": "Julian Radlmaier",
+    "duration": "1 tim 30 min",
+    "language": "DE",
+    "description": "Under fyra tisdagskvällar mellan september och november visar vi prisbelönta och uppmärksammade filmer som speglar dagens Tyskland genom dokumentärfilm, drama och personliga berättelser. Ett tillfälle att möta olika perspektiv, upptäcka spännande filmskapare och se vad som händer inom tysk film.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/6984/1080/9c9bde42-7ced-4e55-a1e7-0792f34e4a2a.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-20T18:00:00",
+        "display_text": "Tuesday 20 October 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "20.10",
+        "ticket_url": "https://www.bioaspen.se/movies/phantoms-of-july/",
+        "hall": "Salong 1",
+        "audio_language": "DE",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-20T18:00:00",
+        "normalized_date": "20.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-07-08T08:13:56.896529+00:00",
     "source": "bioaspen"
   },
   {
@@ -56,7 +116,67 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-07-07T09:29:37.348060+00:00",
+    "scraped_at": "2026-07-08T08:13:56.896543+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "the-family-approach",
+    "url": "https://www.bioaspen.se/movies/the-family-approach/",
+    "title": "Tyska tisdagar: The Family Approach (Im Prinzip Familie)",
+    "director": "Daniel Abma",
+    "duration": "1 tim 31 min",
+    "language": "DE",
+    "description": "Under fyra tisdagskvällar mellan september och november visar vi prisbelönta och uppmärksammade filmer som speglar dagens Tyskland genom dokumentärfilm, drama och personliga berättelser. Ett tillfälle att möta olika perspektiv, upptäcka spännande filmskapare och se vad som händer inom tysk film.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/6985/1080/4be13120-39f9-43cb-9ffd-dbb7b3e7d0a3.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-10T18:00:00",
+        "display_text": "Tuesday 10 November 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "10.11",
+        "ticket_url": "https://www.bioaspen.se/movies/the-family-approach/",
+        "hall": "Salong 1",
+        "audio_language": "DE",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-10T18:00:00",
+        "normalized_date": "10.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-07-08T08:13:56.896557+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "impatience-of-the-heart",
+    "url": "https://www.bioaspen.se/movies/impatience-of-the-heart/",
+    "title": "Tyska tisdagar: Impatience of the Heart (Ungeduld des Herzens)",
+    "director": "Lauro Cress",
+    "duration": "1 tim 44 min",
+    "language": "DE",
+    "description": "Ett känsligt och gripande drama om kärlek, skuld, missförstånd och människans längtan efter att bli sedd.Baserad på Stefan Zweigs klassiska romanUngeduld des Herzens (Ungdomens dårskap)– en tidlös berättelse om medkänsla, ansvar och de konsekvenser som kan följa när goda avsikter inte räcker till.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/6986/1080/0aded9d6-9c44-4580-8018-5bf561bfafdd.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-24T18:00:00",
+        "display_text": "Tuesday 24 November 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "24.11",
+        "ticket_url": "https://www.bioaspen.se/movies/impatience-of-the-heart/",
+        "hall": "Salong 1",
+        "audio_language": "DE",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-24T18:00:00",
+        "normalized_date": "24.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-07-08T08:13:56.896569+00:00",
     "source": "bioaspen"
   }
 ]

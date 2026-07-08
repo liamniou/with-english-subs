@@ -56,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 2,
-          "ticketsAvailable": 178,
+          "ticketsSold": 4,
+          "ticketsAvailable": 176,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-16T16:00:00",
@@ -68,15 +68,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-07T09:30:16.375669",
+    "scraped_at": "2026-07-08T08:14:33.809302",
     "source": "biorio",
     "tmdb": {
       "id": 144,
       "title": "Wings of Desire",
       "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
       "release_date": "1987-09-23",
-      "rating": 7.757,
-      "vote_count": 1503,
+      "rating": 7.8,
+      "vote_count": 1504,
       "genres": [
         "Drama",
         "Fantasy",
@@ -161,7 +161,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-07T09:30:18.852624",
+    "scraped_at": "2026-07-08T08:14:35.761223",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -256,7 +256,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-07T09:30:27.401254",
+    "scraped_at": "2026-07-08T08:14:43.634356",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -339,8 +339,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 16,
-          "ticketsAvailable": 164,
+          "ticketsSold": 20,
+          "ticketsAvailable": 160,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-11T08:30:00",
@@ -351,7 +351,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-07T09:30:39.343062",
+    "scraped_at": "2026-07-08T08:14:53.120493",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -359,7 +359,7 @@
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
       "rating": 7.394,
-      "vote_count": 2677,
+      "vote_count": 2678,
       "genres": [
         "Animation",
         "Fantasy",
@@ -503,7 +503,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-07T09:30:44.860065",
+    "scraped_at": "2026-07-08T08:14:57.637777",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -595,15 +595,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-07T09:30:48.764129",
+    "scraped_at": "2026-07-08T08:15:00.864032",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
       "title": "Cowboy Bebop: The Movie",
       "overview": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him.",
       "release_date": "2001-09-01",
-      "rating": 7.7,
-      "vote_count": 1043,
+      "rating": 7.726,
+      "vote_count": 1044,
       "genres": [
         "Action",
         "Animation",
@@ -676,8 +676,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 6,
-          "ticketsAvailable": 174,
+          "ticketsSold": 11,
+          "ticketsAvailable": 169,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-01T16:10:00",
@@ -688,7 +688,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-07T09:30:51.879367",
+    "scraped_at": "2026-07-08T08:15:03.759178",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -782,7 +782,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-07T09:30:59.283452",
+    "scraped_at": "2026-07-08T08:15:09.867841",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -925,8 +925,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 27,
-          "ticketsAvailable": 153,
+          "ticketsSold": 28,
+          "ticketsAvailable": 152,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -937,7 +937,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-07T09:31:07.804943",
+    "scraped_at": "2026-07-08T08:15:17.421197",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -1036,15 +1036,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-07T09:31:15.940460",
+    "scraped_at": "2026-07-08T08:15:24.615617",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
       "title": "Ghost in the Shell",
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
-      "rating": 7.9,
-      "vote_count": 3916,
+      "rating": 7.924,
+      "vote_count": 3918,
       "genres": [
         "Action",
         "Animation",

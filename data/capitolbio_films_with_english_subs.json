@@ -10,24 +10,24 @@
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/835/1920/a71459fc-66db-4129-8e9e-1b3eacfd97c5.jpg",
     "showtimes": [
       {
-        "datetime": "2026-07-08T20:15:00",
-        "display_text": "Wednesday 8 July 2026 at 20:15",
+        "datetime": "2026-07-09T20:15:00",
+        "display_text": "Thursday 9 July 2026 at 20:15",
         "time": "20:15",
-        "date_section": "08.07",
+        "date_section": "09.07",
         "ticket_url": "https://www.capitolbio.se/boka/50701",
         "booking_id": "50701",
         "hall": "Salong 2",
         "audio_language": "DE",
         "subtitle_language": "EN",
-        "normalized_datetime": "2026-07-08T20:15:00",
-        "normalized_date": "08.07",
+        "normalized_datetime": "2026-07-09T20:15:00",
+        "normalized_date": "09.07",
         "normalized_time": "20:15"
       }
     ],
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-07T09:31:27.105531+00:00",
+    "scraped_at": "2026-07-08T08:15:33.539660+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11222,
