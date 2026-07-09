@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-08T08:14:33.809302",
+    "scraped_at": "2026-07-09T09:27:06.989529",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -161,15 +161,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-08T08:14:35.761223",
+    "scraped_at": "2026-07-09T09:27:09.203266",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
       "title": "Steamboy",
       "overview": "In 1860s Britain, a boy inventor finds himself caught in the middle of a deadly conflict over a revolutionary advance in steam power.",
       "release_date": "2004-07-17",
-      "rating": 6.9,
-      "vote_count": 494,
+      "rating": 6.902,
+      "vote_count": 495,
       "genres": [
         "Animation",
         "Fantasy",
@@ -256,7 +256,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-08T08:14:43.634356",
+    "scraped_at": "2026-07-09T09:27:16.172773",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -351,15 +351,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-08T08:14:53.120493",
+    "scraped_at": "2026-07-09T09:27:24.510995",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
       "title": "The Boy and the Heron",
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
-      "rating": 7.394,
-      "vote_count": 2678,
+      "rating": 7.393,
+      "vote_count": 2680,
       "genres": [
         "Animation",
         "Fantasy",
@@ -503,7 +503,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-08T08:14:57.637777",
+    "scraped_at": "2026-07-09T09:27:28.969799",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -595,7 +595,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-08T08:15:00.864032",
+    "scraped_at": "2026-07-09T09:27:31.955343",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -676,8 +676,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 11,
-          "ticketsAvailable": 169,
+          "ticketsSold": 13,
+          "ticketsAvailable": 167,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-01T16:10:00",
@@ -688,7 +688,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-08T08:15:03.759178",
+    "scraped_at": "2026-07-09T09:27:34.737267",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -782,7 +782,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-08T08:15:09.867841",
+    "scraped_at": "2026-07-09T09:27:40.683486",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -864,8 +864,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 167,
-          "ticketsAvailable": 13,
+          "ticketsSold": 168,
+          "ticketsAvailable": 12,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -925,8 +925,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 28,
-          "ticketsAvailable": 152,
+          "ticketsSold": 32,
+          "ticketsAvailable": 148,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -937,7 +937,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-08T08:15:17.421197",
+    "scraped_at": "2026-07-09T09:27:48.210234",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -1036,15 +1036,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-08T08:15:24.615617",
+    "scraped_at": "2026-07-09T09:27:54.714571",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
       "title": "Ghost in the Shell",
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
-      "rating": 7.924,
-      "vote_count": 3918,
+      "rating": 7.925,
+      "vote_count": 3920,
       "genres": [
         "Action",
         "Animation",
