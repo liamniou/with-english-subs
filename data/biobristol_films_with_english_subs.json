@@ -1,55 +1,5 @@
 [
   {
-    "film_id": "united-states-of-love",
-    "url": "https://www.biobristol.se/f/united-states-of-love/518",
-    "title": "United States of Love",
-    "director": "Tomasz Wasilewski",
-    "duration": "104 min",
-    "language": "Polska",
-    "description": "Poland, 1990. The winds of change are blowing in Poland. The first euphoric year of freedom, but also of uncertainty for the future. Four apparently happy women of different ages decide it's time to change their lives, fight for their happiness and fulfill their desires. Agata is a young mother, trapped in an unhappy marriage, who seeks refuge in another, impossible relationship. Renata is an older teacher fascinated with her neighbor Marzena - a lonely former local beauty queen, whose husband works in Germany. Marzena's sister Iza is a headmistress in love with the father of one of her students.",
-    "poster_url": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/1783372782691",
-    "showtimes": [
-      {
-        "datetime": "2026-07-12T18:45:00",
-        "display_text": "Sunday 12 July 2026 at 18:45",
-        "time": "18:45",
-        "date_section": "12.07",
-        "ticket_url": "https://www.biobristol.se/checkout?showId=6a4c1d0e5c25edaea5f4a8e0",
-        "show_id": "6a4c1d0e5c25edaea5f4a8e0",
-        "hall": "Bristol",
-        "audio_language": "",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-07-12T18:45:00",
-        "normalized_date": "12.07",
-        "normalized_time": "18:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Bristol"
-    ],
-    "scraped_at": "2026-07-09T09:26:47.696972+00:00",
-    "source": "biobristol",
-    "tmdb": {
-      "id": 377158,
-      "title": "United States of Love",
-      "overview": "Poland, 1990. The first euphoric year of freedom, but also of uncertainty for the future. Four apparently happy women of different ages decide it's time to change their lives, and fulfill their desires.",
-      "release_date": "2016-07-29",
-      "rating": 5.7,
-      "vote_count": 55,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/tLb8Gc5i5xTCl7ahbclf3q8zI4g.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tLb8Gc5i5xTCl7ahbclf3q8zI4g.jpg",
-      "backdrop_path": "/kc0uAHlznvSZhe7uAcZs6fuQCtv.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kc0uAHlznvSZhe7uAcZs6fuQCtv.jpg",
-      "imdb_id": "tt5333110",
-      "runtime": 104,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "zama",
     "url": "https://www.biobristol.se/f/zama/520",
     "title": "Zama",
@@ -77,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-07-09T09:26:49.534582+00:00",
+    "scraped_at": "2026-07-10T09:23:20.335836+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 326382,
