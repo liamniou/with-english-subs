@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-10T09:23:41.642794",
+    "scraped_at": "2026-07-11T07:45:02.561125",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -161,7 +161,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-10T09:23:44.211889",
+    "scraped_at": "2026-07-11T07:45:04.464938",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -169,7 +169,7 @@
       "overview": "In 1860s Britain, a boy inventor finds himself caught in the middle of a deadly conflict over a revolutionary advance in steam power.",
       "release_date": "2004-07-17",
       "rating": 6.902,
-      "vote_count": 495,
+      "vote_count": 496,
       "genres": [
         "Animation",
         "Fantasy",
@@ -256,7 +256,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-10T09:23:52.837617",
+    "scraped_at": "2026-07-11T07:45:10.895600",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -339,8 +339,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 22,
-          "ticketsAvailable": 158,
+          "ticketsSold": 34,
+          "ticketsAvailable": 146,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-11T08:30:00",
@@ -351,7 +351,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-10T09:24:02.686260",
+    "scraped_at": "2026-07-11T07:45:18.424463",
     "source": "biorio",
     "tmdb": {
       "id": 508883,
@@ -359,7 +359,7 @@
       "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
       "release_date": "2023-07-14",
       "rating": 7.393,
-      "vote_count": 2681,
+      "vote_count": 2682,
       "genres": [
         "Animation",
         "Fantasy",
@@ -503,7 +503,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-10T09:24:08.437184",
+    "scraped_at": "2026-07-11T07:45:22.237838",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -595,7 +595,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-10T09:24:12.171630",
+    "scraped_at": "2026-07-11T07:45:25.069889",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -603,7 +603,7 @@
       "overview": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him.",
       "release_date": "2001-09-01",
       "rating": 7.726,
-      "vote_count": 1044,
+      "vote_count": 1045,
       "genres": [
         "Action",
         "Animation",
@@ -676,8 +676,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 13,
-          "ticketsAvailable": 167,
+          "ticketsSold": 15,
+          "ticketsAvailable": 165,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-01T16:10:00",
@@ -688,7 +688,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-10T09:24:15.632175",
+    "scraped_at": "2026-07-11T07:45:27.748688",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -782,7 +782,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-10T09:24:23.515162",
+    "scraped_at": "2026-07-11T07:45:33.338040",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -925,8 +925,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 41,
-          "ticketsAvailable": 139,
+          "ticketsSold": 48,
+          "ticketsAvailable": 132,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -937,7 +937,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-10T09:24:32.754881",
+    "scraped_at": "2026-07-11T07:45:40.089970",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -1036,15 +1036,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-10T09:24:41.154672",
+    "scraped_at": "2026-07-11T07:45:47.426279",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
       "title": "Ghost in the Shell",
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
-      "rating": 7.925,
-      "vote_count": 3921,
+      "rating": 7.926,
+      "vote_count": 3923,
       "genres": [
         "Action",
         "Animation",
