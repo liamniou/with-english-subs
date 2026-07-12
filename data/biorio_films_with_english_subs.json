@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-11T07:45:02.561125",
+    "scraped_at": "2026-07-12T08:06:27.811772",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -161,7 +161,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-11T07:45:04.464938",
+    "scraped_at": "2026-07-12T08:06:29.306027",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -256,14 +256,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-11T07:45:10.895600",
+    "scraped_at": "2026-07-12T08:06:35.770684",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
       "title": "Show Me Love",
       "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
       "release_date": "1998-10-23",
-      "rating": 7.078,
+      "rating": 7.1,
       "vote_count": 594,
       "genres": [
         "Comedy",
@@ -278,101 +278,6 @@
       "runtime": 89,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "pojken-och-hagern",
-    "url": "https://www.biorio.se/sv/filmer/pojken-och-hagern",
-    "title": "Pojken och hägern",
-    "director": "Hayao Miyazaki",
-    "showtimes": [
-      {
-        "datetime": "2026-07-11T08:30:00.000Z",
-        "display_text": "Saturday July 11, 2026 at 08:30",
-        "movie_id": "5884",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2147",
-        "api_data": {
-          "id": 2147,
-          "movieId": 5884,
-          "movieVersionId": 583,
-          "startTime": "2026-07-11T08:30:00.000Z",
-          "endTime": "2026-07-11T10:35:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5884,
-            "title": "Pojken och hägern",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5884/posters/1776241288769-y6lstf.avif",
-            "movieVersions": [
-              {
-                "duration": 125,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 583,
-            "duration": 125,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 3,
-              "name": "Frukostbio"
-            }
-          ],
-          "tags": [
-            "Frukostbio"
-          ],
-          "ticketsSold": 34,
-          "ticketsAvailable": 146,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-07-11T08:30:00",
-        "normalized_date": "11.07",
-        "normalized_time": "08:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-07-11T07:45:18.424463",
-    "source": "biorio",
-    "tmdb": {
-      "id": 508883,
-      "title": "The Boy and the Heron",
-      "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
-      "release_date": "2023-07-14",
-      "rating": 7.393,
-      "vote_count": 2682,
-      "genres": [
-        "Animation",
-        "Fantasy",
-        "Drama"
-      ],
-      "poster_path": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
-      "backdrop_path": "/75nSb1fbWooipwcSU5bUttiOriI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/75nSb1fbWooipwcSU5bUttiOriI.jpg",
-      "imdb_id": "tt6587046",
-      "runtime": 124,
-      "budget": 50000000,
-      "revenue": 294200000
     }
   },
   {
@@ -503,7 +408,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-11T07:45:22.237838",
+    "scraped_at": "2026-07-12T08:06:45.427876",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -513,7 +418,6 @@
       "rating": 0.0,
       "vote_count": 0,
       "genres": [
-        "Documentary",
         "Music"
       ],
       "poster_path": "/tJrqV5b12HbpNNDrA7Trc5mErGJ.jpg",
@@ -583,8 +487,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 19,
-          "ticketsAvailable": 161,
+          "ticketsSold": 21,
+          "ticketsAvailable": 159,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-16T16:00:00",
@@ -595,15 +499,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-11T07:45:25.069889",
+    "scraped_at": "2026-07-12T08:06:48.276686",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
       "title": "Cowboy Bebop: The Movie",
       "overview": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him.",
       "release_date": "2001-09-01",
-      "rating": 7.726,
-      "vote_count": 1045,
+      "rating": 7.727,
+      "vote_count": 1046,
       "genres": [
         "Action",
         "Animation",
@@ -676,8 +580,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 15,
-          "ticketsAvailable": 165,
+          "ticketsSold": 17,
+          "ticketsAvailable": 163,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-01T16:10:00",
@@ -688,14 +592,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-11T07:45:27.748688",
+    "scraped_at": "2026-07-12T08:06:50.924989",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
       "title": "National Theatre Live: Fleabag",
       "overview": "Fleabag may seem oversexed, emotionally unfiltered and self-obsessed, but that's just the tip of the iceberg. With family and friendships under strain and a guinea pig café struggling to keep afloat, Fleabag suddenly finds herself with nothing to lose.",
       "release_date": "2019-09-12",
-      "rating": 7.705,
+      "rating": 7.7,
       "vote_count": 73,
       "genres": [
         "Comedy",
@@ -782,7 +686,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-11T07:45:33.338040",
+    "scraped_at": "2026-07-12T08:06:56.838974",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -925,8 +829,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 48,
-          "ticketsAvailable": 132,
+          "ticketsSold": 52,
+          "ticketsAvailable": 128,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -937,7 +841,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-11T07:45:40.089970",
+    "scraped_at": "2026-07-12T08:07:03.547518",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -1036,7 +940,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-11T07:45:47.426279",
+    "scraped_at": "2026-07-12T08:07:10.470436",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
@@ -1044,7 +948,7 @@
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
       "rating": 7.926,
-      "vote_count": 3923,
+      "vote_count": 3925,
       "genres": [
         "Action",
         "Animation",
