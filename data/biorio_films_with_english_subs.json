@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-12T08:06:27.811772",
+    "scraped_at": "2026-07-13T08:56:29.805071",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -161,7 +161,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-12T08:06:29.306027",
+    "scraped_at": "2026-07-13T08:56:31.711227",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -256,15 +256,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-12T08:06:35.770684",
+    "scraped_at": "2026-07-13T08:56:40.556901",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
       "title": "Show Me Love",
       "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
       "release_date": "1998-10-23",
-      "rating": 7.1,
-      "vote_count": 594,
+      "rating": 7.08,
+      "vote_count": 595,
       "genres": [
         "Comedy",
         "Romance",
@@ -337,8 +337,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 7,
-          "ticketsAvailable": 173,
+          "ticketsSold": 10,
+          "ticketsAvailable": 170,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-23T18:00:00",
@@ -408,7 +408,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-12T08:06:45.427876",
+    "scraped_at": "2026-07-13T08:56:53.637250",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -487,8 +487,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 21,
-          "ticketsAvailable": 159,
+          "ticketsSold": 24,
+          "ticketsAvailable": 156,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-16T16:00:00",
@@ -499,7 +499,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-12T08:06:48.276686",
+    "scraped_at": "2026-07-13T08:56:57.217558",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -507,7 +507,7 @@
       "overview": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him.",
       "release_date": "2001-09-01",
       "rating": 7.727,
-      "vote_count": 1046,
+      "vote_count": 1047,
       "genres": [
         "Action",
         "Animation",
@@ -592,7 +592,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-12T08:06:50.924989",
+    "scraped_at": "2026-07-13T08:57:00.459102",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -686,7 +686,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-12T08:06:56.838974",
+    "scraped_at": "2026-07-13T08:57:07.348459",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -768,8 +768,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 168,
-          "ticketsAvailable": 12,
+          "ticketsSold": 170,
+          "ticketsAvailable": 10,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -829,8 +829,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 52,
-          "ticketsAvailable": 128,
+          "ticketsSold": 60,
+          "ticketsAvailable": 120,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -841,7 +841,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-12T08:07:03.547518",
+    "scraped_at": "2026-07-13T08:57:15.747784",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -928,8 +928,8 @@
           "tags": [
             "Timelessfest 2026"
           ],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 1,
+          "ticketsAvailable": 179,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-03T16:00:00",
@@ -940,7 +940,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-12T08:07:10.470436",
+    "scraped_at": "2026-07-13T08:57:24.840052",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
@@ -948,7 +948,7 @@
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
       "rating": 7.926,
-      "vote_count": 3925,
+      "vote_count": 3928,
       "genres": [
         "Action",
         "Animation",
