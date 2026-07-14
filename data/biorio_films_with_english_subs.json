@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-13T08:56:29.805071",
+    "scraped_at": "2026-07-14T07:51:44.447234",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -161,7 +161,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-13T08:56:31.711227",
+    "scraped_at": "2026-07-14T07:51:46.043790",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -256,15 +256,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-13T08:56:40.556901",
+    "scraped_at": "2026-07-14T07:51:53.197679",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
       "title": "Show Me Love",
       "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
       "release_date": "1998-10-23",
-      "rating": 7.08,
-      "vote_count": 595,
+      "rating": 7.076,
+      "vote_count": 596,
       "genres": [
         "Comedy",
         "Romance",
@@ -396,8 +396,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 9,
-          "ticketsAvailable": 171,
+          "ticketsSold": 11,
+          "ticketsAvailable": 169,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-26T16:00:00",
@@ -408,7 +408,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-13T08:56:53.637250",
+    "scraped_at": "2026-07-14T07:52:03.664189",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -499,7 +499,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-13T08:56:57.217558",
+    "scraped_at": "2026-07-14T07:52:06.777022",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -580,8 +580,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 17,
-          "ticketsAvailable": 163,
+          "ticketsSold": 19,
+          "ticketsAvailable": 161,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-01T16:10:00",
@@ -592,7 +592,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-13T08:57:00.459102",
+    "scraped_at": "2026-07-14T07:52:09.664932",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -686,7 +686,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-13T08:57:07.348459",
+    "scraped_at": "2026-07-14T07:52:15.838581",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -768,8 +768,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 170,
-          "ticketsAvailable": 10,
+          "ticketsSold": 173,
+          "ticketsAvailable": 7,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -829,8 +829,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 60,
-          "ticketsAvailable": 120,
+          "ticketsSold": 63,
+          "ticketsAvailable": 117,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -841,7 +841,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-13T08:57:15.747784",
+    "scraped_at": "2026-07-14T07:52:23.476566",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -928,8 +928,8 @@
           "tags": [
             "Timelessfest 2026"
           ],
-          "ticketsSold": 1,
-          "ticketsAvailable": 179,
+          "ticketsSold": 3,
+          "ticketsAvailable": 177,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-03T16:00:00",
@@ -940,7 +940,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-13T08:57:24.840052",
+    "scraped_at": "2026-07-14T07:52:30.882259",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
@@ -948,7 +948,7 @@
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
       "rating": 7.926,
-      "vote_count": 3928,
+      "vote_count": 3929,
       "genres": [
         "Action",
         "Animation",

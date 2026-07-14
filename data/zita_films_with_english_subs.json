@@ -8,21 +8,21 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2026-07-20T20:00:00",
-        "display_text": "mån 20 juli 20:00",
-        "time": "20:00",
+        "datetime": "2026-07-20T20:15:00",
+        "display_text": "mån 20 juli 20:15",
+        "time": "20:15",
         "date": "mån 20 juli",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=3114",
-        "normalized_datetime": "2026-07-20T20:00:00",
+        "normalized_datetime": "2026-07-20T20:15:00",
         "normalized_date": "20.07",
-        "normalized_time": "20:00"
+        "normalized_time": "20:15"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-13T08:59:18.775987+00:00",
+    "scraped_at": "2026-07-14T07:54:07.265830+00:00",
     "source": "zita",
     "tmdb": {
       "id": 229529,
