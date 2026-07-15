@@ -26,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-14T07:52:51.128474+00:00",
+    "scraped_at": "2026-07-15T07:56:40.920598+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1454209,
@@ -75,25 +75,26 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-14T07:52:51.128522+00:00",
+    "scraped_at": "2026-07-15T07:56:40.920654+00:00",
     "source": "klarabiografen",
     "tmdb": {
-      "id": 1430053,
-      "title": "The Fifth Step",
-      "overview": "An inmate manages to win the prison time battle by thinking about his wife, who  was also imprisoned. He lives only with the hope that the two will see each other again, but eventually realizes that the only thing he has left is the memory of the two's dancing steps.",
-      "release_date": "",
+      "id": 1507573,
+      "title": "National Theatre Live: The Fifth Step",
+      "overview": "After years in the twelve steps of Alcoholics Anonymous, James becomes a sponsor to newcomer Luka. The pair bond over black coffee, trade stories and build a fragile friendship out of their shared experiences. But as Luka approaches step five – the moment of confession – dangerous truths emerge, threatening the trust on which both of their recoveries depend.",
+      "release_date": "2025-11-27",
       "rating": 0.0,
       "vote_count": 0,
       "genres": [
-        "Drama"
+        "Drama",
+        "Comedy"
       ],
-      "poster_path": "/zMDBTVUTxYLkQMlrapfiAOhjqYl.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zMDBTVUTxYLkQMlrapfiAOhjqYl.jpg",
-      "backdrop_path": "/qDlh8ac9mg9fX1l0EP9tYSTybtK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qDlh8ac9mg9fX1l0EP9tYSTybtK.jpg",
-      "imdb_id": null,
-      "runtime": 8,
-      "budget": 1000,
+      "poster_path": "/f2FeCAeOadqj3leou4XTsHDR8pX.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f2FeCAeOadqj3leou4XTsHDR8pX.jpg",
+      "backdrop_path": "/xAAk7DR2bloyaM5xj0In0Kel4m.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xAAk7DR2bloyaM5xj0In0Kel4m.jpg",
+      "imdb_id": "tt37511177",
+      "runtime": 85,
+      "budget": 0,
       "revenue": 0
     }
   },
@@ -124,7 +125,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-14T07:52:51.128640+00:00",
+    "scraped_at": "2026-07-15T07:56:40.920795+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 45166,
@@ -173,7 +174,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-14T07:52:51.128779+00:00",
+    "scraped_at": "2026-07-15T07:56:40.920959+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 435217,
@@ -222,7 +223,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-14T07:52:51.128936+00:00",
+    "scraped_at": "2026-07-15T07:56:40.921127+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 692562,
@@ -284,7 +285,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-14T07:52:51.128996+00:00",
+    "scraped_at": "2026-07-15T07:56:40.921190+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
@@ -334,7 +335,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-14T07:52:51.129039+00:00",
+    "scraped_at": "2026-07-15T07:56:40.921230+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1679401,
@@ -385,7 +386,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-14T07:52:51.129245+00:00",
+    "scraped_at": "2026-07-15T07:56:40.921441+00:00",
     "source": "klarabiografen"
   },
   {
@@ -415,7 +416,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-14T07:52:51.129403+00:00",
+    "scraped_at": "2026-07-15T07:56:40.921606+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -465,7 +466,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-14T07:52:51.129611+00:00",
+    "scraped_at": "2026-07-15T07:56:40.921821+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -515,7 +516,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-14T07:52:51.129712+00:00",
+    "scraped_at": "2026-07-15T07:56:40.921919+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1422112,

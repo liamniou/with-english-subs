@@ -1,5 +1,108 @@
 [
   {
+    "film_id": "persona",
+    "url": "https://zita.se/persona",
+    "title": "Persona",
+    "director": "",
+    "genre": "Sverige196618 okt 196685 minDramaFrån 15 årSvenskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "2026-08-05T15:30:00",
+        "display_text": "ons 5 aug 15:30",
+        "time": "15:30",
+        "date": "ons 5 aug",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3116",
+        "normalized_datetime": "2026-08-05T15:30:00",
+        "normalized_date": "05.08",
+        "normalized_time": "15:30"
+      },
+      {
+        "datetime": "2026-08-05T17:30:00",
+        "display_text": "ons 5 aug 17:30",
+        "time": "17:30",
+        "date": "ons 5 aug",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3116",
+        "normalized_datetime": "2026-08-05T17:30:00",
+        "normalized_date": "05.08",
+        "normalized_time": "17:30"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-07-15T07:57:58.300185+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 797,
+      "title": "Persona",
+      "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
+      "release_date": "1966-10-18",
+      "rating": 8.122,
+      "vote_count": 2426,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
+      "backdrop_path": "/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
+      "imdb_id": "tt0060827",
+      "runtime": 85,
+      "budget": 0,
+      "revenue": 250000
+    }
+  },
+  {
+    "film_id": "sentimental-value",
+    "url": "https://zita.se/sentimental-value",
+    "title": "Sentimental Value",
+    "director": "",
+    "genre": "Norge20253 okt 2025126 minDramaFrån 11 årTriArtNorskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "2026-07-21T20:00:00",
+        "display_text": "tis 21 juli 20:00",
+        "time": "20:00",
+        "date": "tis 21 juli",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5437",
+        "normalized_datetime": "2026-07-21T20:00:00",
+        "normalized_date": "21.07",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-07-15T07:58:06.466059+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1697369,
+      "title": "Sentimental Value",
+      "overview": "Dr. Rick Nelson, a victim of the Oklahoma City bombings, learns what it feels like to live in an alternate reality.",
+      "release_date": "2026-05-08",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Science Fiction"
+      ],
+      "poster_path": "/9lKnSnTFCj8TVWPi5ENNgS6qrbq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9lKnSnTFCj8TVWPi5ENNgS6qrbq.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": null,
+      "runtime": 7,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
     "film_id": "sommaren-med-monika",
     "url": "https://zita.se/sommaren-med-monika",
     "title": "Sommaren med Monika",
@@ -22,7 +125,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-14T07:54:07.265830+00:00",
+    "scraped_at": "2026-07-15T07:58:10.551742+00:00",
     "source": "zita",
     "tmdb": {
       "id": 229529,

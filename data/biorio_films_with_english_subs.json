@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-14T07:51:44.447234",
+    "scraped_at": "2026-07-15T07:55:39.042844",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -149,8 +149,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 6,
-          "ticketsAvailable": 174,
+          "ticketsSold": 5,
+          "ticketsAvailable": 175,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-21T18:20:00",
@@ -161,7 +161,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-14T07:51:46.043790",
+    "scraped_at": "2026-07-15T07:55:40.559888",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -256,7 +256,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-14T07:51:53.197679",
+    "scraped_at": "2026-07-15T07:55:47.422881",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -408,7 +408,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-14T07:52:03.664189",
+    "scraped_at": "2026-07-15T07:55:57.086243",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -487,8 +487,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 24,
-          "ticketsAvailable": 156,
+          "ticketsSold": 29,
+          "ticketsAvailable": 151,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-16T16:00:00",
@@ -499,7 +499,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-14T07:52:06.777022",
+    "scraped_at": "2026-07-15T07:56:00.153579",
     "source": "biorio",
     "tmdb": {
       "id": 11299,
@@ -592,7 +592,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-14T07:52:09.664932",
+    "scraped_at": "2026-07-15T07:56:02.358391",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -686,7 +686,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-14T07:52:15.838581",
+    "scraped_at": "2026-07-15T07:56:07.902502",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -829,8 +829,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 63,
-          "ticketsAvailable": 117,
+          "ticketsSold": 65,
+          "ticketsAvailable": 115,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -841,7 +841,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-14T07:52:23.476566",
+    "scraped_at": "2026-07-15T07:56:14.798429",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -940,7 +940,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-14T07:52:30.882259",
+    "scraped_at": "2026-07-15T07:56:21.798876",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
@@ -948,7 +948,7 @@
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
       "rating": 7.926,
-      "vote_count": 3929,
+      "vote_count": 3930,
       "genres": [
         "Action",
         "Animation",
