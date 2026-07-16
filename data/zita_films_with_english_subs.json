@@ -1,5 +1,31 @@
 [
   {
+    "film_id": "bassängen",
+    "url": "https://zita.se/bassangen",
+    "title": "Bassängen",
+    "director": "",
+    "genre": "",
+    "duration": "La PiscineFrankrike19691 jan 2013120 minJean-Claude CarrièreFranskaEngelska",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "20:00",
+        "time": "20:00",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5920",
+        "normalized_datetime": "2026-07-16T20:00:00",
+        "normalized_date": "16.07",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-07-16T08:03:31.171219+00:00",
+    "source": "zita"
+  },
+  {
     "film_id": "persona",
     "url": "https://zita.se/persona",
     "title": "Persona",
@@ -7,17 +33,6 @@
     "genre": "Sverige196618 okt 196685 minDramaFrån 15 årSvenskaEngelska",
     "duration": "",
     "showtimes": [
-      {
-        "datetime": "2026-08-05T15:30:00",
-        "display_text": "ons 5 aug 15:30",
-        "time": "15:30",
-        "date": "ons 5 aug",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3116",
-        "normalized_datetime": "2026-08-05T15:30:00",
-        "normalized_date": "05.08",
-        "normalized_time": "15:30"
-      },
       {
         "datetime": "2026-08-05T17:30:00",
         "display_text": "ons 5 aug 17:30",
@@ -33,27 +48,8 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-15T07:57:58.300185+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 797,
-      "title": "Persona",
-      "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
-      "release_date": "1966-10-18",
-      "rating": 8.122,
-      "vote_count": 2426,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
-      "backdrop_path": "/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
-      "imdb_id": "tt0060827",
-      "runtime": 85,
-      "budget": 0,
-      "revenue": 250000
-    }
+    "scraped_at": "2026-07-16T08:03:58.430338+00:00",
+    "source": "zita"
   },
   {
     "film_id": "sentimental-value",
@@ -78,29 +74,8 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-15T07:58:06.466059+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 1697369,
-      "title": "Sentimental Value",
-      "overview": "Dr. Rick Nelson, a victim of the Oklahoma City bombings, learns what it feels like to live in an alternate reality.",
-      "release_date": "2026-05-08",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Science Fiction"
-      ],
-      "poster_path": "/9lKnSnTFCj8TVWPi5ENNgS6qrbq.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9lKnSnTFCj8TVWPi5ENNgS6qrbq.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": null,
-      "runtime": 7,
-      "budget": 0,
-      "revenue": 0
-    }
+    "scraped_at": "2026-07-16T08:04:07.988958+00:00",
+    "source": "zita"
   },
   {
     "film_id": "sommaren-med-monika",
@@ -125,26 +100,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-15T07:58:10.551742+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 229529,
-      "title": "Between Summers",
-      "overview": "Torun and Mikael have been married for a few years. When vacationing on the Danish coast, their young son Melker accidentally drowns. Torun initially blames her sister, who was supposed to supervise her children. Later she turns her anger and grief against her husband. Since none of them know what to do with their feelings, they start to drift apart.",
-      "release_date": "1995-08-31",
-      "rating": 5.0,
-      "vote_count": 7,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/yGCTlQXOs3XN5ZJXONGxUbtA2A.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yGCTlQXOs3XN5ZJXONGxUbtA2A.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt0114497",
-      "runtime": 112,
-      "budget": 0,
-      "revenue": 0
-    }
+    "scraped_at": "2026-07-16T08:04:12.774410+00:00",
+    "source": "zita"
   }
 ]

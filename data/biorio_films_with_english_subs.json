@@ -68,29 +68,8 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-15T07:55:39.042844",
-    "source": "biorio",
-    "tmdb": {
-      "id": 144,
-      "title": "Wings of Desire",
-      "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
-      "release_date": "1987-09-23",
-      "rating": 7.8,
-      "vote_count": 1504,
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Romance"
-      ],
-      "poster_path": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
-      "backdrop_path": "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
-      "imdb_id": "tt0093191",
-      "runtime": 128,
-      "budget": 2500000,
-      "revenue": 3548590
-    }
+    "scraped_at": "2026-07-16T08:01:28.597288",
+    "source": "biorio"
   },
   {
     "film_id": "steamboy",
@@ -161,29 +140,8 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-15T07:55:40.559888",
-    "source": "biorio",
-    "tmdb": {
-      "id": 8953,
-      "title": "Steamboy",
-      "overview": "In 1860s Britain, a boy inventor finds himself caught in the middle of a deadly conflict over a revolutionary advance in steam power.",
-      "release_date": "2004-07-17",
-      "rating": 6.902,
-      "vote_count": 496,
-      "genres": [
-        "Animation",
-        "Fantasy",
-        "Science Fiction"
-      ],
-      "poster_path": "/he3fyAy1OUruuwhiv2xvup8H3pc.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/he3fyAy1OUruuwhiv2xvup8H3pc.jpg",
-      "backdrop_path": "/c31SAQjVMeVGv7mZsrw5BKGXj2P.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/c31SAQjVMeVGv7mZsrw5BKGXj2P.jpg",
-      "imdb_id": "tt0348121",
-      "runtime": 126,
-      "budget": 26000000,
-      "revenue": 18900000
-    }
+    "scraped_at": "2026-07-16T08:01:30.567099",
+    "source": "biorio"
   },
   {
     "film_id": "fucking-amal",
@@ -244,8 +202,8 @@
           "tags": [
             "Pride"
           ],
-          "ticketsSold": 14,
-          "ticketsAvailable": 166,
+          "ticketsSold": 16,
+          "ticketsAvailable": 164,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-28T18:15:00",
@@ -256,29 +214,8 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-15T07:55:47.422881",
-    "source": "biorio",
-    "tmdb": {
-      "id": 11634,
-      "title": "Show Me Love",
-      "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
-      "release_date": "1998-10-23",
-      "rating": 7.076,
-      "vote_count": 596,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "poster_path": "/ek5fMfwGVTyQ0N0VXBT1VWqan3U.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ek5fMfwGVTyQ0N0VXBT1VWqan3U.jpg",
-      "backdrop_path": "/7TjeFeYpwMqI9Q2o69IcZrQoUK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7TjeFeYpwMqI9Q2o69IcZrQoUK.jpg",
-      "imdb_id": "tt0150662",
-      "runtime": 89,
-      "budget": 0,
-      "revenue": 0
-    }
+    "scraped_at": "2026-07-16T08:01:38.725485",
+    "source": "biorio"
   },
   {
     "film_id": "sia-nostalgic-for-the-present",
@@ -408,27 +345,8 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-15T07:55:57.086243",
-    "source": "biorio",
-    "tmdb": {
-      "id": 1712586,
-      "title": "Sia: Nostalgic for the Present",
-      "overview": "A bold experience that challenges the genre that trades pop poetry for pure art. Impressive voices, impressive choreography and iconic performances, captured cinematically and sounded by an unparalleled catalog of hits.",
-      "release_date": "2026-07-23",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Music"
-      ],
-      "poster_path": "/tJrqV5b12HbpNNDrA7Trc5mErGJ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tJrqV5b12HbpNNDrA7Trc5mErGJ.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt43465871",
-      "runtime": 75,
-      "budget": 0,
-      "revenue": 0
-    }
+    "scraped_at": "2026-07-16T08:01:48.927672",
+    "source": "biorio"
   },
   {
     "film_id": "cowboy-bebop-the-movie",
@@ -487,8 +405,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 29,
-          "ticketsAvailable": 151,
+          "ticketsSold": 42,
+          "ticketsAvailable": 138,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-16T16:00:00",
@@ -499,29 +417,8 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-15T07:56:00.153579",
-    "source": "biorio",
-    "tmdb": {
-      "id": 11299,
-      "title": "Cowboy Bebop: The Movie",
-      "overview": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him.",
-      "release_date": "2001-09-01",
-      "rating": 7.727,
-      "vote_count": 1047,
-      "genres": [
-        "Action",
-        "Animation",
-        "Science Fiction"
-      ],
-      "poster_path": "/34H5bsNc0EPILVr49TfOYXj50qV.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/34H5bsNc0EPILVr49TfOYXj50qV.jpg",
-      "backdrop_path": "/19EKawKy1Z7nUJMhQE28XBL6Guc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/19EKawKy1Z7nUJMhQE28XBL6Guc.jpg",
-      "imdb_id": "tt0275277",
-      "runtime": 115,
-      "budget": 0,
-      "revenue": 0
-    }
+    "scraped_at": "2026-07-16T08:01:52.488575",
+    "source": "biorio"
   },
   {
     "film_id": "fleabag",
@@ -580,8 +477,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 19,
-          "ticketsAvailable": 161,
+          "ticketsSold": 21,
+          "ticketsAvailable": 159,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-01T16:10:00",
@@ -592,28 +489,8 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-15T07:56:02.358391",
-    "source": "biorio",
-    "tmdb": {
-      "id": 620350,
-      "title": "National Theatre Live: Fleabag",
-      "overview": "Fleabag may seem oversexed, emotionally unfiltered and self-obsessed, but that's just the tip of the iceberg. With family and friendships under strain and a guinea pig café struggling to keep afloat, Fleabag suddenly finds herself with nothing to lose.",
-      "release_date": "2019-09-12",
-      "rating": 7.7,
-      "vote_count": 73,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "poster_path": "/ym3Jo2mo2dK9Z27ryMr5mmkDljx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ym3Jo2mo2dK9Z27ryMr5mmkDljx.jpg",
-      "backdrop_path": "/h3StNE0j4jc1qFt88t7IR2w4wVm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/h3StNE0j4jc1qFt88t7IR2w4wVm.jpg",
-      "imdb_id": "tt10702760",
-      "runtime": 81,
-      "budget": 0,
-      "revenue": 0
-    }
+    "scraped_at": "2026-07-16T08:01:54.934560",
+    "source": "biorio"
   },
   {
     "film_id": "sanger-fran-andra-vaningen",
@@ -686,28 +563,8 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-15T07:56:07.902502",
-    "source": "biorio",
-    "tmdb": {
-      "id": 34070,
-      "title": "Songs from the Second Floor",
-      "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
-      "release_date": "2000-10-06",
-      "rating": 7.1,
-      "vote_count": 315,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster_path": "/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
-      "backdrop_path": "/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
-      "imdb_id": "tt0120263",
-      "runtime": 99,
-      "budget": 0,
-      "revenue": 80334
-    }
+    "scraped_at": "2026-07-16T08:02:01.052559",
+    "source": "biorio"
   },
   {
     "film_id": "the-room",
@@ -829,8 +686,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 65,
-          "ticketsAvailable": 115,
+          "ticketsSold": 69,
+          "ticketsAvailable": 111,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -841,28 +698,8 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-15T07:56:14.798429",
-    "source": "biorio",
-    "tmdb": {
-      "id": 17473,
-      "title": "The Room",
-      "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
-      "release_date": "2003-06-27",
-      "rating": 4.001,
-      "vote_count": 1537,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
-      "backdrop_path": "/6OnOH5FIp0ZJQgPlu0ehDfXzVyp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6OnOH5FIp0ZJQgPlu0ehDfXzVyp.jpg",
-      "imdb_id": "tt0368226",
-      "runtime": 100,
-      "budget": 6000000,
-      "revenue": 1752988
-    }
+    "scraped_at": "2026-07-16T08:02:09.114394",
+    "source": "biorio"
   },
   {
     "film_id": "ghost-in-the-shell",
@@ -940,28 +777,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-15T07:56:21.798876",
-    "source": "biorio",
-    "tmdb": {
-      "id": 9323,
-      "title": "Ghost in the Shell",
-      "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
-      "release_date": "1995-11-18",
-      "rating": 7.926,
-      "vote_count": 3930,
-      "genres": [
-        "Action",
-        "Animation",
-        "Science Fiction"
-      ],
-      "poster_path": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg",
-      "backdrop_path": "/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
-      "imdb_id": "tt0113568",
-      "runtime": 83,
-      "budget": 3000000,
-      "revenue": 10000000
-    }
+    "scraped_at": "2026-07-16T08:02:17.087757",
+    "source": "biorio"
   }
 ]
