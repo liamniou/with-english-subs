@@ -27,7 +27,27 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-07-16T08:01:09.556344+00:00",
-    "source": "biobristol"
+    "scraped_at": "2026-07-17T07:58:24.727343+00:00",
+    "source": "biobristol",
+    "tmdb": {
+      "id": 326382,
+      "title": "Zama",
+      "overview": "In a remote South American colony in the late 18th century, officer Zama of the Spanish crown waits in vain for a transfer to a more prestigious location. He suffers small humiliations and petty politicking as he increasingly succumbs to lust and paranoia.",
+      "release_date": "2017-09-28",
+      "rating": 6.542,
+      "vote_count": 178,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "poster_path": "/kpp9R6iYKSIXxfyW0feVYrk0jsg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kpp9R6iYKSIXxfyW0feVYrk0jsg.jpg",
+      "backdrop_path": "/9JqIR7bBO0uofsJiONgYAX2yw1R.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9JqIR7bBO0uofsJiONgYAX2yw1R.jpg",
+      "imdb_id": "tt3409848",
+      "runtime": 115,
+      "budget": 0,
+      "revenue": 0
+    }
   }
 ]
