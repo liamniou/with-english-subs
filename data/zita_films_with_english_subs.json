@@ -22,15 +22,15 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-17T08:01:11.670103+00:00",
+    "scraped_at": "2026-07-18T07:41:02.420267+00:00",
     "source": "zita",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.123,
-      "vote_count": 2428,
+      "rating": 8.122,
+      "vote_count": 2430,
       "genres": [
         "Drama"
       ],
@@ -67,7 +67,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-17T08:01:21.375027+00:00",
+    "scraped_at": "2026-07-18T07:41:10.290083+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1697369,
@@ -114,7 +114,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-17T08:01:26.247479+00:00",
+    "scraped_at": "2026-07-18T07:41:14.168304+00:00",
     "source": "zita",
     "tmdb": {
       "id": 229529,

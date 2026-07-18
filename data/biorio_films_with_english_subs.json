@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-17T07:58:42.410768",
+    "scraped_at": "2026-07-18T07:38:56.943609",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -149,8 +149,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 5,
-          "ticketsAvailable": 175,
+          "ticketsSold": 6,
+          "ticketsAvailable": 174,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-21T18:20:00",
@@ -161,7 +161,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-17T07:58:44.183161",
+    "scraped_at": "2026-07-18T07:38:58.460957",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -244,8 +244,8 @@
           "tags": [
             "Pride"
           ],
-          "ticketsSold": 16,
-          "ticketsAvailable": 164,
+          "ticketsSold": 17,
+          "ticketsAvailable": 163,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-28T18:15:00",
@@ -256,7 +256,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-17T07:58:51.964572",
+    "scraped_at": "2026-07-18T07:39:04.850383",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -337,8 +337,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 10,
-          "ticketsAvailable": 170,
+          "ticketsSold": 12,
+          "ticketsAvailable": 168,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-23T18:00:00",
@@ -408,7 +408,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-17T07:59:01.415802",
+    "scraped_at": "2026-07-18T07:39:13.309704",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -487,8 +487,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 21,
-          "ticketsAvailable": 159,
+          "ticketsSold": 23,
+          "ticketsAvailable": 157,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-01T16:10:00",
@@ -499,7 +499,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-17T07:59:05.625524",
+    "scraped_at": "2026-07-18T07:39:16.995705",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -593,7 +593,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-17T07:59:11.918046",
+    "scraped_at": "2026-07-18T07:39:22.086307",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -736,8 +736,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 75,
-          "ticketsAvailable": 105,
+          "ticketsSold": 82,
+          "ticketsAvailable": 98,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -748,14 +748,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-17T07:59:20.007411",
+    "scraped_at": "2026-07-18T07:39:28.789284",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
       "title": "The Room",
       "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
       "release_date": "2003-06-27",
-      "rating": 3.999,
+      "rating": 4.0,
       "vote_count": 1538,
       "genres": [
         "Drama",
@@ -958,7 +958,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-17T07:59:28.530504",
+    "scraped_at": "2026-07-18T07:39:35.572694",
     "source": "biorio"
   },
   {
@@ -1037,15 +1037,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-17T07:59:30.276512",
+    "scraped_at": "2026-07-18T07:39:37.125431",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
       "title": "Ghost in the Shell",
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
-      "rating": 7.926,
-      "vote_count": 3932,
+      "rating": 7.927,
+      "vote_count": 3935,
       "genres": [
         "Action",
         "Animation",
