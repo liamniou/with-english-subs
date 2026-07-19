@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-18T07:41:02.420267+00:00",
+    "scraped_at": "2026-07-19T08:08:14.674963+00:00",
     "source": "zita",
     "tmdb": {
       "id": 797,
@@ -67,7 +67,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-18T07:41:10.290083+00:00",
+    "scraped_at": "2026-07-19T08:08:23.848906+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1697369,
@@ -100,10 +100,10 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2026-07-20T20:15:00",
-        "display_text": "mån 20 juli 20:15",
+        "datetime": "",
+        "display_text": "i morgon 20:15",
         "time": "20:15",
-        "date": "mån 20 juli",
+        "date": "i morgon",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=3114",
         "normalized_datetime": "2026-07-20T20:15:00",
@@ -114,7 +114,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-18T07:41:14.168304+00:00",
+    "scraped_at": "2026-07-19T08:08:28.330544+00:00",
     "source": "zita",
     "tmdb": {
       "id": 229529,

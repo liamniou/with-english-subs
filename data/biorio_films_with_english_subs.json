@@ -1,22 +1,22 @@
 [
   {
-    "film_id": "himmel-over-berlin",
-    "url": "https://www.biorio.se/sv/filmer/himmel-over-berlin",
-    "title": "Himmel över Berlin",
-    "director": "Wim Wenders",
+    "film_id": "sia-nostalgic-for-the-present",
+    "url": "https://www.biorio.se/sv/filmer/sia-nostalgic-for-the-present",
+    "title": "Sia: Nostalgic for the Present",
+    "director": "Sia, Daniel Askill",
     "showtimes": [
       {
-        "datetime": "2026-08-16T16:00:00.000Z",
-        "display_text": "Sunday August 16, 2026 at 16:00",
-        "movie_id": "5024",
+        "datetime": "2026-07-23T18:00:00.000Z",
+        "display_text": "Thursday July 23, 2026 at 18:00",
+        "movie_id": "5937",
         "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2307",
+        "booking_url": "https://www.biorio.se/sv/boka/2315",
         "api_data": {
-          "id": 2307,
-          "movieId": 5024,
-          "movieVersionId": 15,
-          "startTime": "2026-08-16T16:00:00.000Z",
-          "endTime": "2026-08-16T18:08:00.000Z",
+          "id": 2315,
+          "movieId": 5937,
+          "movieVersionId": 635,
+          "startTime": "2026-07-23T18:00:00.000Z",
+          "endTime": "2026-07-23T19:15:00.000Z",
           "screenId": 1,
           "screenNumber": 1,
           "language": null,
@@ -27,24 +27,24 @@
           "onlineAvailableFrom": null,
           "includeInReport": true,
           "movie": {
-            "id": 5024,
-            "title": "Himmel över Berlin",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1741269594239-105221735-himmel-aff.jpg",
+            "id": 5937,
+            "title": "Sia: Nostalgic for the Present",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5937/posters/1781516079192-efabkx.avif",
             "movieVersions": [
               {
-                "duration": 128,
-                "audio": "Tyska",
+                "duration": 75,
+                "audio": "Engelska",
                 "subtitles": "Engelska"
               }
             ],
             "subtitles": "Engelska",
-            "audio": "Tyska"
+            "audio": "Engelska"
           },
           "MovieVersion": {
-            "id": 15,
-            "duration": 128,
+            "id": 635,
+            "duration": 75,
             "subtitles": "Engelska",
-            "audio": "Tyska"
+            "audio": "Engelska"
           },
           "screen": {
             "capacity": 180
@@ -56,40 +56,97 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 4,
-          "ticketsAvailable": 176,
+          "ticketsSold": 13,
+          "ticketsAvailable": 167,
           "isPublished": true
         },
-        "normalized_datetime": "2026-08-16T16:00:00",
-        "normalized_date": "16.08",
+        "normalized_datetime": "2026-07-23T18:00:00",
+        "normalized_date": "23.07",
+        "normalized_time": "18:00"
+      },
+      {
+        "datetime": "2026-07-26T16:00:00.000Z",
+        "display_text": "Sunday July 26, 2026 at 16:00",
+        "movie_id": "5937",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2316",
+        "api_data": {
+          "id": 2316,
+          "movieId": 5937,
+          "movieVersionId": 635,
+          "startTime": "2026-07-26T16:00:00.000Z",
+          "endTime": "2026-07-26T17:15:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5937,
+            "title": "Sia: Nostalgic for the Present",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5937/posters/1781516079192-efabkx.avif",
+            "movieVersions": [
+              {
+                "duration": 75,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 635,
+            "duration": 75,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 13,
+          "ticketsAvailable": 167,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-07-26T16:00:00",
+        "normalized_date": "26.07",
         "normalized_time": "16:00"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-18T07:38:56.943609",
+    "scraped_at": "2026-07-19T08:05:35.937224",
     "source": "biorio",
     "tmdb": {
-      "id": 144,
-      "title": "Wings of Desire",
-      "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
-      "release_date": "1987-09-23",
-      "rating": 7.8,
-      "vote_count": 1504,
+      "id": 1712586,
+      "title": "Sia: Nostalgic for the Present",
+      "overview": "A bold experience that challenges the genre that trades pop poetry for pure art. Impressive voices, impressive choreography and iconic performances, captured cinematically and sounded by an unparalleled catalog of hits.",
+      "release_date": "2026-07-23",
+      "rating": 0.0,
+      "vote_count": 0,
       "genres": [
-        "Drama",
-        "Fantasy",
-        "Romance"
+        "Music"
       ],
-      "poster_path": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
-      "backdrop_path": "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
-      "imdb_id": "tt0093191",
-      "runtime": 128,
-      "budget": 2500000,
-      "revenue": 3548590
+      "poster_path": "/tJrqV5b12HbpNNDrA7Trc5mErGJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tJrqV5b12HbpNNDrA7Trc5mErGJ.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt43465871",
+      "runtime": 75,
+      "budget": 0,
+      "revenue": 0
     }
   },
   {
@@ -149,8 +206,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 6,
-          "ticketsAvailable": 174,
+          "ticketsSold": 10,
+          "ticketsAvailable": 170,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-21T18:20:00",
@@ -161,7 +218,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-18T07:38:58.460957",
+    "scraped_at": "2026-07-19T08:05:38.820021",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -244,8 +301,8 @@
           "tags": [
             "Pride"
           ],
-          "ticketsSold": 17,
-          "ticketsAvailable": 163,
+          "ticketsSold": 19,
+          "ticketsAvailable": 161,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-28T18:15:00",
@@ -256,7 +313,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-18T07:39:04.850383",
+    "scraped_at": "2026-07-19T08:05:53.927616",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -264,7 +321,7 @@
       "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
       "release_date": "1998-10-23",
       "rating": 7.076,
-      "vote_count": 597,
+      "vote_count": 598,
       "genres": [
         "Comedy",
         "Romance",
@@ -276,248 +333,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/7TjeFeYpwMqI9Q2o69IcZrQoUK.jpg",
       "imdb_id": "tt0150662",
       "runtime": 89,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "sia-nostalgic-for-the-present",
-    "url": "https://www.biorio.se/sv/filmer/sia-nostalgic-for-the-present",
-    "title": "Sia: Nostalgic for the Present",
-    "director": "Sia, Daniel Askill",
-    "showtimes": [
-      {
-        "datetime": "2026-07-23T18:00:00.000Z",
-        "display_text": "Thursday July 23, 2026 at 18:00",
-        "movie_id": "5937",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2315",
-        "api_data": {
-          "id": 2315,
-          "movieId": 5937,
-          "movieVersionId": 635,
-          "startTime": "2026-07-23T18:00:00.000Z",
-          "endTime": "2026-07-23T19:15:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5937,
-            "title": "Sia: Nostalgic for the Present",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5937/posters/1781516079192-efabkx.avif",
-            "movieVersions": [
-              {
-                "duration": 75,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 635,
-            "duration": 75,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 12,
-          "ticketsAvailable": 168,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-07-23T18:00:00",
-        "normalized_date": "23.07",
-        "normalized_time": "18:00"
-      },
-      {
-        "datetime": "2026-07-26T16:00:00.000Z",
-        "display_text": "Sunday July 26, 2026 at 16:00",
-        "movie_id": "5937",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2316",
-        "api_data": {
-          "id": 2316,
-          "movieId": 5937,
-          "movieVersionId": 635,
-          "startTime": "2026-07-26T16:00:00.000Z",
-          "endTime": "2026-07-26T17:15:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5937,
-            "title": "Sia: Nostalgic for the Present",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5937/posters/1781516079192-efabkx.avif",
-            "movieVersions": [
-              {
-                "duration": 75,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 635,
-            "duration": 75,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 11,
-          "ticketsAvailable": 169,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-07-26T16:00:00",
-        "normalized_date": "26.07",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-07-18T07:39:13.309704",
-    "source": "biorio",
-    "tmdb": {
-      "id": 1712586,
-      "title": "Sia: Nostalgic for the Present",
-      "overview": "A bold experience that challenges the genre that trades pop poetry for pure art. Impressive voices, impressive choreography and iconic performances, captured cinematically and sounded by an unparalleled catalog of hits.",
-      "release_date": "2026-07-23",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Music"
-      ],
-      "poster_path": "/tJrqV5b12HbpNNDrA7Trc5mErGJ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tJrqV5b12HbpNNDrA7Trc5mErGJ.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt43465871",
-      "runtime": 75,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "fleabag",
-    "url": "https://www.biorio.se/sv/filmer/fleabag",
-    "title": "Fleabag",
-    "director": "Tony Grech-Smith",
-    "showtimes": [
-      {
-        "datetime": "2026-08-01T16:10:00.000Z",
-        "display_text": "Saturday August 01, 2026 at 16:10",
-        "movie_id": "5509",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2362",
-        "api_data": {
-          "id": 2362,
-          "movieId": 5509,
-          "movieVersionId": 187,
-          "startTime": "2026-08-01T16:10:00.000Z",
-          "endTime": "2026-08-01T17:30:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": "Engelska",
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5509,
-            "title": "Fleabag",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5509/posters/1748606053347-ciwlb.jpg",
-            "movieVersions": [
-              {
-                "duration": 80,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 187,
-            "duration": 80,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 17,
-              "name": "Live på Rio (standardpris)"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 23,
-          "ticketsAvailable": 157,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-08-01T16:10:00",
-        "normalized_date": "01.08",
-        "normalized_time": "16:10"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-07-18T07:39:16.995705",
-    "source": "biorio",
-    "tmdb": {
-      "id": 620350,
-      "title": "National Theatre Live: Fleabag",
-      "overview": "Fleabag may seem oversexed, emotionally unfiltered and self-obsessed, but that's just the tip of the iceberg. With family and friendships under strain and a guinea pig café struggling to keep afloat, Fleabag suddenly finds herself with nothing to lose.",
-      "release_date": "2019-09-12",
-      "rating": 7.7,
-      "vote_count": 73,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "poster_path": "/ym3Jo2mo2dK9Z27ryMr5mmkDljx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ym3Jo2mo2dK9Z27ryMr5mmkDljx.jpg",
-      "backdrop_path": "/h3StNE0j4jc1qFt88t7IR2w4wVm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/h3StNE0j4jc1qFt88t7IR2w4wVm.jpg",
-      "imdb_id": "tt10702760",
-      "runtime": 81,
       "budget": 0,
       "revenue": 0
     }
@@ -593,7 +408,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-18T07:39:22.086307",
+    "scraped_at": "2026-07-19T08:06:01.305670",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -614,161 +429,6 @@
       "runtime": 99,
       "budget": 0,
       "revenue": 80334
-    }
-  },
-  {
-    "film_id": "the-room",
-    "url": "https://www.biorio.se/sv/filmer/the-room",
-    "title": "The Room",
-    "director": "Tommy Wiseau",
-    "showtimes": [
-      {
-        "datetime": "2026-08-06T15:30:00.000Z",
-        "display_text": "Thursday August 06, 2026 at 15:30",
-        "movie_id": "5415",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2097",
-        "api_data": {
-          "id": 2097,
-          "movieId": 5415,
-          "movieVersionId": 89,
-          "startTime": "2026-08-06T15:30:00.000Z",
-          "endTime": "2026-08-06T17:09:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": "Engelska",
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5415,
-            "title": "The Room",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5415/posters/1742388584407-zhl4s2.jpg",
-            "movieVersions": [
-              {
-                "duration": 99,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 89,
-            "duration": 99,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 12,
-              "name": "Event"
-            }
-          ],
-          "tags": [
-            "Med besök"
-          ],
-          "ticketsSold": 174,
-          "ticketsAvailable": 6,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-08-06T15:30:00",
-        "normalized_date": "06.08",
-        "normalized_time": "15:30"
-      },
-      {
-        "datetime": "2026-08-06T19:00:00.000Z",
-        "display_text": "Thursday August 06, 2026 at 19:00",
-        "movie_id": "5415",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2476",
-        "api_data": {
-          "id": 2476,
-          "movieId": 5415,
-          "movieVersionId": 89,
-          "startTime": "2026-08-06T19:00:00.000Z",
-          "endTime": "2026-08-06T20:39:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5415,
-            "title": "The Room",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5415/posters/1742388584407-zhl4s2.jpg",
-            "movieVersions": [
-              {
-                "duration": 99,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 89,
-            "duration": 99,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 12,
-              "name": "Event"
-            }
-          ],
-          "tags": [
-            "Med besök"
-          ],
-          "ticketsSold": 82,
-          "ticketsAvailable": 98,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-08-06T19:00:00",
-        "normalized_date": "06.08",
-        "normalized_time": "19:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-07-18T07:39:28.789284",
-    "source": "biorio",
-    "tmdb": {
-      "id": 17473,
-      "title": "The Room",
-      "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
-      "release_date": "2003-06-27",
-      "rating": 4.0,
-      "vote_count": 1538,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
-      "backdrop_path": "/6OnOH5FIp0ZJQgPlu0ehDfXzVyp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6OnOH5FIp0ZJQgPlu0ehDfXzVyp.jpg",
-      "imdb_id": "tt0368226",
-      "runtime": 100,
-      "budget": 6000000,
-      "revenue": 1752988
     }
   },
   {
@@ -958,8 +618,101 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-18T07:39:35.572694",
+    "scraped_at": "2026-07-19T08:06:09.005042",
     "source": "biorio"
+  },
+  {
+    "film_id": "himmel-over-berlin",
+    "url": "https://www.biorio.se/sv/filmer/himmel-over-berlin",
+    "title": "Himmel över Berlin",
+    "director": "Wim Wenders",
+    "showtimes": [
+      {
+        "datetime": "2026-08-16T16:00:00.000Z",
+        "display_text": "Sunday August 16, 2026 at 16:00",
+        "movie_id": "5024",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2307",
+        "api_data": {
+          "id": 2307,
+          "movieId": 5024,
+          "movieVersionId": 15,
+          "startTime": "2026-08-16T16:00:00.000Z",
+          "endTime": "2026-08-16T18:08:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5024,
+            "title": "Himmel över Berlin",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1741269594239-105221735-himmel-aff.jpg",
+            "movieVersions": [
+              {
+                "duration": 128,
+                "audio": "Tyska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Tyska"
+          },
+          "MovieVersion": {
+            "id": 15,
+            "duration": 128,
+            "subtitles": "Engelska",
+            "audio": "Tyska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 4,
+          "ticketsAvailable": 176,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-08-16T16:00:00",
+        "normalized_date": "16.08",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-07-19T08:06:20.047381",
+    "source": "biorio",
+    "tmdb": {
+      "id": 144,
+      "title": "Wings of Desire",
+      "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
+      "release_date": "1987-09-23",
+      "rating": 7.759,
+      "vote_count": 1505,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "poster_path": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "backdrop_path": "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+      "imdb_id": "tt0093191",
+      "runtime": 128,
+      "budget": 2500000,
+      "revenue": 3548590
+    }
   },
   {
     "film_id": "ghost-in-the-shell",
@@ -1037,7 +790,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-18T07:39:37.125431",
+    "scraped_at": "2026-07-19T08:06:21.789939",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
@@ -1045,7 +798,7 @@
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
       "rating": 7.927,
-      "vote_count": 3935,
+      "vote_count": 3938,
       "genres": [
         "Action",
         "Animation",
@@ -1059,6 +812,253 @@
       "runtime": 83,
       "budget": 3000000,
       "revenue": 10000000
+    }
+  },
+  {
+    "film_id": "the-room",
+    "url": "https://www.biorio.se/sv/filmer/the-room",
+    "title": "The Room",
+    "director": "Tommy Wiseau",
+    "showtimes": [
+      {
+        "datetime": "2026-08-06T15:30:00.000Z",
+        "display_text": "Thursday August 06, 2026 at 15:30",
+        "movie_id": "5415",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2097",
+        "api_data": {
+          "id": 2097,
+          "movieId": 5415,
+          "movieVersionId": 89,
+          "startTime": "2026-08-06T15:30:00.000Z",
+          "endTime": "2026-08-06T17:09:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": "Engelska",
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5415,
+            "title": "The Room",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5415/posters/1742388584407-zhl4s2.jpg",
+            "movieVersions": [
+              {
+                "duration": 99,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 89,
+            "duration": 99,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 12,
+              "name": "Event"
+            }
+          ],
+          "tags": [
+            "Med besök"
+          ],
+          "ticketsSold": 174,
+          "ticketsAvailable": 6,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-08-06T15:30:00",
+        "normalized_date": "06.08",
+        "normalized_time": "15:30"
+      },
+      {
+        "datetime": "2026-08-06T19:00:00.000Z",
+        "display_text": "Thursday August 06, 2026 at 19:00",
+        "movie_id": "5415",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2476",
+        "api_data": {
+          "id": 2476,
+          "movieId": 5415,
+          "movieVersionId": 89,
+          "startTime": "2026-08-06T19:00:00.000Z",
+          "endTime": "2026-08-06T20:39:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5415,
+            "title": "The Room",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5415/posters/1742388584407-zhl4s2.jpg",
+            "movieVersions": [
+              {
+                "duration": 99,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 89,
+            "duration": 99,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 12,
+              "name": "Event"
+            }
+          ],
+          "tags": [
+            "Med besök"
+          ],
+          "ticketsSold": 87,
+          "ticketsAvailable": 93,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-08-06T19:00:00",
+        "normalized_date": "06.08",
+        "normalized_time": "19:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-07-19T08:06:24.172514",
+    "source": "biorio",
+    "tmdb": {
+      "id": 17473,
+      "title": "The Room",
+      "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
+      "release_date": "2003-06-27",
+      "rating": 3.997,
+      "vote_count": 1539,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
+      "backdrop_path": "/6OnOH5FIp0ZJQgPlu0ehDfXzVyp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6OnOH5FIp0ZJQgPlu0ehDfXzVyp.jpg",
+      "imdb_id": "tt0368226",
+      "runtime": 100,
+      "budget": 6000000,
+      "revenue": 1752988
+    }
+  },
+  {
+    "film_id": "fleabag",
+    "url": "https://www.biorio.se/sv/filmer/fleabag",
+    "title": "Fleabag",
+    "director": "Tony Grech-Smith",
+    "showtimes": [
+      {
+        "datetime": "2026-08-01T16:10:00.000Z",
+        "display_text": "Saturday August 01, 2026 at 16:10",
+        "movie_id": "5509",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2362",
+        "api_data": {
+          "id": 2362,
+          "movieId": 5509,
+          "movieVersionId": 187,
+          "startTime": "2026-08-01T16:10:00.000Z",
+          "endTime": "2026-08-01T17:30:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": "Engelska",
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5509,
+            "title": "Fleabag",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5509/posters/1748606053347-ciwlb.jpg",
+            "movieVersions": [
+              {
+                "duration": 80,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 187,
+            "duration": 80,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 17,
+              "name": "Live på Rio (standardpris)"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 23,
+          "ticketsAvailable": 157,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-08-01T16:10:00",
+        "normalized_date": "01.08",
+        "normalized_time": "16:10"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-07-19T08:06:30.891511",
+    "source": "biorio",
+    "tmdb": {
+      "id": 620350,
+      "title": "National Theatre Live: Fleabag",
+      "overview": "Fleabag may seem oversexed, emotionally unfiltered and self-obsessed, but that's just the tip of the iceberg. With family and friendships under strain and a guinea pig café struggling to keep afloat, Fleabag suddenly finds herself with nothing to lose.",
+      "release_date": "2019-09-12",
+      "rating": 7.705,
+      "vote_count": 73,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "poster_path": "/ym3Jo2mo2dK9Z27ryMr5mmkDljx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ym3Jo2mo2dK9Z27ryMr5mmkDljx.jpg",
+      "backdrop_path": "/h3StNE0j4jc1qFt88t7IR2w4wVm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/h3StNE0j4jc1qFt88t7IR2w4wVm.jpg",
+      "imdb_id": "tt10702760",
+      "runtime": 81,
+      "budget": 0,
+      "revenue": 0
     }
   }
 ]
