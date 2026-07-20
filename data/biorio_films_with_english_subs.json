@@ -1,5 +1,98 @@
 [
   {
+    "film_id": "steamboy",
+    "url": "https://www.biorio.se/sv/filmer/steamboy",
+    "title": "Steamboy",
+    "director": "Katsuhiro Otomo",
+    "showtimes": [
+      {
+        "datetime": "2026-07-21T18:20:00.000Z",
+        "display_text": "Tuesday July 21, 2026 at 18:20",
+        "movie_id": "5913",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2221",
+        "api_data": {
+          "id": 2221,
+          "movieId": 5913,
+          "movieVersionId": 612,
+          "startTime": "2026-07-21T18:20:00.000Z",
+          "endTime": "2026-07-21T20:26:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5913,
+            "title": "Steamboy",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5913/posters/1779884552465-aqarba.avif",
+            "movieVersions": [
+              {
+                "duration": 126,
+                "audio": "Japanska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "MovieVersion": {
+            "id": 612,
+            "duration": 126,
+            "subtitles": "Engelska",
+            "audio": "Japanska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 14,
+          "ticketsAvailable": 166,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-07-21T18:20:00",
+        "normalized_date": "21.07",
+        "normalized_time": "18:20"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-07-20T08:46:36.772711",
+    "source": "biorio",
+    "tmdb": {
+      "id": 8953,
+      "title": "Steamboy",
+      "overview": "In 1860s Britain, a boy inventor finds himself caught in the middle of a deadly conflict over a revolutionary advance in steam power.",
+      "release_date": "2004-07-17",
+      "rating": 6.894,
+      "vote_count": 497,
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "poster_path": "/he3fyAy1OUruuwhiv2xvup8H3pc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/he3fyAy1OUruuwhiv2xvup8H3pc.jpg",
+      "backdrop_path": "/c31SAQjVMeVGv7mZsrw5BKGXj2P.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/c31SAQjVMeVGv7mZsrw5BKGXj2P.jpg",
+      "imdb_id": "tt0348121",
+      "runtime": 126,
+      "budget": 26000000,
+      "revenue": 18900000
+    }
+  },
+  {
     "film_id": "sia-nostalgic-for-the-present",
     "url": "https://www.biorio.se/sv/filmer/sia-nostalgic-for-the-present",
     "title": "Sia: Nostalgic for the Present",
@@ -115,8 +208,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 13,
-          "ticketsAvailable": 167,
+          "ticketsSold": 15,
+          "ticketsAvailable": 165,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-26T16:00:00",
@@ -127,7 +220,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-19T08:05:35.937224",
+    "scraped_at": "2026-07-20T08:46:41.305348",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -141,105 +234,12 @@
       ],
       "poster_path": "/tJrqV5b12HbpNNDrA7Trc5mErGJ.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/tJrqV5b12HbpNNDrA7Trc5mErGJ.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
+      "backdrop_path": "/qwH3emiVY02kXJjBmuMGpmrQnCT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qwH3emiVY02kXJjBmuMGpmrQnCT.jpg",
       "imdb_id": "tt43465871",
       "runtime": 75,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "steamboy",
-    "url": "https://www.biorio.se/sv/filmer/steamboy",
-    "title": "Steamboy",
-    "director": "Katsuhiro Otomo",
-    "showtimes": [
-      {
-        "datetime": "2026-07-21T18:20:00.000Z",
-        "display_text": "Tuesday July 21, 2026 at 18:20",
-        "movie_id": "5913",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2221",
-        "api_data": {
-          "id": 2221,
-          "movieId": 5913,
-          "movieVersionId": 612,
-          "startTime": "2026-07-21T18:20:00.000Z",
-          "endTime": "2026-07-21T20:26:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5913,
-            "title": "Steamboy",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5913/posters/1779884552465-aqarba.avif",
-            "movieVersions": [
-              {
-                "duration": 126,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 612,
-            "duration": 126,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 10,
-          "ticketsAvailable": 170,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-07-21T18:20:00",
-        "normalized_date": "21.07",
-        "normalized_time": "18:20"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-07-19T08:05:38.820021",
-    "source": "biorio",
-    "tmdb": {
-      "id": 8953,
-      "title": "Steamboy",
-      "overview": "In 1860s Britain, a boy inventor finds himself caught in the middle of a deadly conflict over a revolutionary advance in steam power.",
-      "release_date": "2004-07-17",
-      "rating": 6.894,
-      "vote_count": 497,
-      "genres": [
-        "Animation",
-        "Fantasy",
-        "Science Fiction"
-      ],
-      "poster_path": "/he3fyAy1OUruuwhiv2xvup8H3pc.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/he3fyAy1OUruuwhiv2xvup8H3pc.jpg",
-      "backdrop_path": "/c31SAQjVMeVGv7mZsrw5BKGXj2P.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/c31SAQjVMeVGv7mZsrw5BKGXj2P.jpg",
-      "imdb_id": "tt0348121",
-      "runtime": 126,
-      "budget": 26000000,
-      "revenue": 18900000
     }
   },
   {
@@ -313,7 +313,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-19T08:05:53.927616",
+    "scraped_at": "2026-07-20T08:46:48.807277",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -338,23 +338,176 @@
     }
   },
   {
-    "film_id": "sanger-fran-andra-vaningen",
-    "url": "https://www.biorio.se/sv/filmer/sanger-fran-andra-vaningen",
-    "title": "Sånger från andra våningen",
-    "director": "Roy Andersson",
+    "film_id": "fleabag",
+    "url": "https://www.biorio.se/sv/filmer/fleabag",
+    "title": "Fleabag",
+    "director": "Tony Grech-Smith",
     "showtimes": [
       {
-        "datetime": "2026-08-30T08:30:00.000Z",
-        "display_text": "Sunday August 30, 2026 at 08:30",
-        "movie_id": "5941",
+        "datetime": "2026-08-01T16:10:00.000Z",
+        "display_text": "Saturday August 01, 2026 at 16:10",
+        "movie_id": "5509",
         "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2431",
+        "booking_url": "https://www.biorio.se/sv/boka/2362",
         "api_data": {
-          "id": 2431,
-          "movieId": 5941,
-          "movieVersionId": 639,
-          "startTime": "2026-08-30T08:30:00.000Z",
-          "endTime": "2026-08-30T10:10:00.000Z",
+          "id": 2362,
+          "movieId": 5509,
+          "movieVersionId": 187,
+          "startTime": "2026-08-01T16:10:00.000Z",
+          "endTime": "2026-08-01T17:30:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": "Engelska",
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5509,
+            "title": "Fleabag",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5509/posters/1748606053347-ciwlb.jpg",
+            "movieVersions": [
+              {
+                "duration": 80,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 187,
+            "duration": 80,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 17,
+              "name": "Live på Rio (standardpris)"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 23,
+          "ticketsAvailable": 157,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-08-01T16:10:00",
+        "normalized_date": "01.08",
+        "normalized_time": "16:10"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-07-20T08:46:54.068404",
+    "source": "biorio",
+    "tmdb": {
+      "id": 620350,
+      "title": "National Theatre Live: Fleabag",
+      "overview": "Fleabag may seem oversexed, emotionally unfiltered and self-obsessed, but that's just the tip of the iceberg. With family and friendships under strain and a guinea pig café struggling to keep afloat, Fleabag suddenly finds herself with nothing to lose.",
+      "release_date": "2019-09-12",
+      "rating": 7.705,
+      "vote_count": 73,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "poster_path": "/ym3Jo2mo2dK9Z27ryMr5mmkDljx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ym3Jo2mo2dK9Z27ryMr5mmkDljx.jpg",
+      "backdrop_path": "/h3StNE0j4jc1qFt88t7IR2w4wVm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/h3StNE0j4jc1qFt88t7IR2w4wVm.jpg",
+      "imdb_id": "tt10702760",
+      "runtime": 81,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "the-room",
+    "url": "https://www.biorio.se/sv/filmer/the-room",
+    "title": "The Room",
+    "director": "Tommy Wiseau",
+    "showtimes": [
+      {
+        "datetime": "2026-08-06T15:30:00.000Z",
+        "display_text": "Thursday August 06, 2026 at 15:30",
+        "movie_id": "5415",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2097",
+        "api_data": {
+          "id": 2097,
+          "movieId": 5415,
+          "movieVersionId": 89,
+          "startTime": "2026-08-06T15:30:00.000Z",
+          "endTime": "2026-08-06T17:09:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": "Engelska",
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5415,
+            "title": "The Room",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5415/posters/1742388584407-zhl4s2.jpg",
+            "movieVersions": [
+              {
+                "duration": 99,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 89,
+            "duration": 99,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 12,
+              "name": "Event"
+            }
+          ],
+          "tags": [
+            "Med besök"
+          ],
+          "ticketsSold": 174,
+          "ticketsAvailable": 6,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-08-06T15:30:00",
+        "normalized_date": "06.08",
+        "normalized_time": "15:30"
+      },
+      {
+        "datetime": "2026-08-06T19:00:00.000Z",
+        "display_text": "Thursday August 06, 2026 at 19:00",
+        "movie_id": "5415",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2476",
+        "api_data": {
+          "id": 2476,
+          "movieId": 5415,
+          "movieVersionId": 89,
+          "startTime": "2026-08-06T19:00:00.000Z",
+          "endTime": "2026-08-06T20:39:00.000Z",
           "screenId": 1,
           "screenNumber": 1,
           "language": null,
@@ -365,70 +518,163 @@
           "onlineAvailableFrom": null,
           "includeInReport": true,
           "movie": {
-            "id": 5941,
-            "title": "Sånger från andra våningen",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5941/posters/1782307192739-1nepgt.avif",
+            "id": 5415,
+            "title": "The Room",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5415/posters/1742388584407-zhl4s2.jpg",
             "movieVersions": [
               {
-                "duration": 100,
-                "audio": "Svenska",
+                "duration": 99,
+                "audio": "Engelska",
                 "subtitles": "Engelska"
               }
             ],
             "subtitles": "Engelska",
-            "audio": "Svenska"
+            "audio": "Engelska"
           },
           "MovieVersion": {
-            "id": 639,
-            "duration": 100,
+            "id": 89,
+            "duration": 99,
             "subtitles": "Engelska",
-            "audio": "Svenska"
+            "audio": "Engelska"
           },
           "screen": {
             "capacity": 180
           },
           "TicketTypes": [
             {
-              "id": 3,
-              "name": "Frukostbio"
+              "id": 12,
+              "name": "Event"
             }
           ],
           "tags": [
-            "Frukostbio"
+            "Med besök"
           ],
-          "ticketsSold": 10,
-          "ticketsAvailable": 170,
+          "ticketsSold": 91,
+          "ticketsAvailable": 89,
           "isPublished": true
         },
-        "normalized_datetime": "2026-08-30T08:30:00",
-        "normalized_date": "30.08",
-        "normalized_time": "08:30"
+        "normalized_datetime": "2026-08-06T19:00:00",
+        "normalized_date": "06.08",
+        "normalized_time": "19:00"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-19T08:06:01.305670",
+    "scraped_at": "2026-07-20T08:46:59.412562",
     "source": "biorio",
     "tmdb": {
-      "id": 34070,
-      "title": "Songs from the Second Floor",
-      "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
-      "release_date": "2000-10-06",
-      "rating": 7.055,
-      "vote_count": 316,
+      "id": 17473,
+      "title": "The Room",
+      "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
+      "release_date": "2003-06-27",
+      "rating": 3.996,
+      "vote_count": 1540,
       "genres": [
         "Drama",
-        "Comedy"
+        "Romance"
       ],
-      "poster_path": "/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
-      "backdrop_path": "/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
-      "imdb_id": "tt0120263",
-      "runtime": 99,
-      "budget": 0,
-      "revenue": 80334
+      "poster_path": "/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
+      "backdrop_path": "/6OnOH5FIp0ZJQgPlu0ehDfXzVyp.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6OnOH5FIp0ZJQgPlu0ehDfXzVyp.jpg",
+      "imdb_id": "tt0368226",
+      "runtime": 100,
+      "budget": 6000000,
+      "revenue": 1752988
+    }
+  },
+  {
+    "film_id": "himmel-over-berlin",
+    "url": "https://www.biorio.se/sv/filmer/himmel-over-berlin",
+    "title": "Himmel över Berlin",
+    "director": "Wim Wenders",
+    "showtimes": [
+      {
+        "datetime": "2026-08-16T16:00:00.000Z",
+        "display_text": "Sunday August 16, 2026 at 16:00",
+        "movie_id": "5024",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2307",
+        "api_data": {
+          "id": 2307,
+          "movieId": 5024,
+          "movieVersionId": 15,
+          "startTime": "2026-08-16T16:00:00.000Z",
+          "endTime": "2026-08-16T18:08:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 5024,
+            "title": "Himmel över Berlin",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1741269594239-105221735-himmel-aff.jpg",
+            "movieVersions": [
+              {
+                "duration": 128,
+                "audio": "Tyska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Tyska"
+          },
+          "MovieVersion": {
+            "id": 15,
+            "duration": 128,
+            "subtitles": "Engelska",
+            "audio": "Tyska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 5,
+          "ticketsAvailable": 175,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-08-16T16:00:00",
+        "normalized_date": "16.08",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-07-20T08:47:10.987560",
+    "source": "biorio",
+    "tmdb": {
+      "id": 144,
+      "title": "Wings of Desire",
+      "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
+      "release_date": "1987-09-23",
+      "rating": 7.758,
+      "vote_count": 1506,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "poster_path": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "backdrop_path": "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+      "imdb_id": "tt0093191",
+      "runtime": 128,
+      "budget": 2500000,
+      "revenue": 3548590
     }
   },
   {
@@ -618,27 +864,47 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-19T08:06:09.005042",
-    "source": "biorio"
+    "scraped_at": "2026-07-20T08:47:15.621086",
+    "source": "biorio",
+    "tmdb": {
+      "id": 1693400,
+      "title": "2 Big to Rig",
+      "overview": "Captured live over the course of GHOST’s two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX® in select locations.  Featuring the only pro-shot footage of Papa V Perpetua and his band of Nameless Ghouls from the phone-free SKELETOUR, 2 BIG TO RIG immerses the audience in the GHOST live ritual, including exclusive behind-the-scenes and backstage access.  2 BIG TO RIG was created to share the SKELETOUR experience with the faithful in the territories where staging the show was not logistically feasible — and is a love letter to all those who have shared the GHOST ritual.  Shot on 16mm film, GHOST has never looked or sounded better, ripping through material from the band's six albums — including 2025’s global #1 SKELETÁ as well as non-LP favorites including “Mary On A Cross,” “Kiss the Go-Goat,” and “The Future is a Foreign Land.”",
+      "release_date": "2026-08-24",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "poster_path": "/nZnCOQNa4UcBNGjqbw12HPIFqBY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nZnCOQNa4UcBNGjqbw12HPIFqBY.jpg",
+      "backdrop_path": "/dddyeJgHJtgIW2sICb9nZGOmLow.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/dddyeJgHJtgIW2sICb9nZGOmLow.jpg",
+      "imdb_id": null,
+      "runtime": 115,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
-    "film_id": "himmel-over-berlin",
-    "url": "https://www.biorio.se/sv/filmer/himmel-over-berlin",
-    "title": "Himmel över Berlin",
-    "director": "Wim Wenders",
+    "film_id": "sanger-fran-andra-vaningen",
+    "url": "https://www.biorio.se/sv/filmer/sanger-fran-andra-vaningen",
+    "title": "Sånger från andra våningen",
+    "director": "Roy Andersson",
     "showtimes": [
       {
-        "datetime": "2026-08-16T16:00:00.000Z",
-        "display_text": "Sunday August 16, 2026 at 16:00",
-        "movie_id": "5024",
+        "datetime": "2026-08-30T08:30:00.000Z",
+        "display_text": "Sunday August 30, 2026 at 08:30",
+        "movie_id": "5941",
         "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2307",
+        "booking_url": "https://www.biorio.se/sv/boka/2431",
         "api_data": {
-          "id": 2307,
-          "movieId": 5024,
-          "movieVersionId": 15,
-          "startTime": "2026-08-16T16:00:00.000Z",
-          "endTime": "2026-08-16T18:08:00.000Z",
+          "id": 2431,
+          "movieId": 5941,
+          "movieVersionId": 639,
+          "startTime": "2026-08-30T08:30:00.000Z",
+          "endTime": "2026-08-30T10:10:00.000Z",
           "screenId": 1,
           "screenNumber": 1,
           "language": null,
@@ -649,69 +915,70 @@
           "onlineAvailableFrom": null,
           "includeInReport": true,
           "movie": {
-            "id": 5024,
-            "title": "Himmel över Berlin",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1741269594239-105221735-himmel-aff.jpg",
+            "id": 5941,
+            "title": "Sånger från andra våningen",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5941/posters/1782307192739-1nepgt.avif",
             "movieVersions": [
               {
-                "duration": 128,
-                "audio": "Tyska",
+                "duration": 100,
+                "audio": "Svenska",
                 "subtitles": "Engelska"
               }
             ],
             "subtitles": "Engelska",
-            "audio": "Tyska"
+            "audio": "Svenska"
           },
           "MovieVersion": {
-            "id": 15,
-            "duration": 128,
+            "id": 639,
+            "duration": 100,
             "subtitles": "Engelska",
-            "audio": "Tyska"
+            "audio": "Svenska"
           },
           "screen": {
             "capacity": 180
           },
           "TicketTypes": [
             {
-              "id": 1,
-              "name": "Ordinarie"
+              "id": 3,
+              "name": "Frukostbio"
             }
           ],
-          "tags": [],
-          "ticketsSold": 4,
-          "ticketsAvailable": 176,
+          "tags": [
+            "Frukostbio"
+          ],
+          "ticketsSold": 10,
+          "ticketsAvailable": 170,
           "isPublished": true
         },
-        "normalized_datetime": "2026-08-16T16:00:00",
-        "normalized_date": "16.08",
-        "normalized_time": "16:00"
+        "normalized_datetime": "2026-08-30T08:30:00",
+        "normalized_date": "30.08",
+        "normalized_time": "08:30"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-19T08:06:20.047381",
+    "scraped_at": "2026-07-20T08:47:18.351357",
     "source": "biorio",
     "tmdb": {
-      "id": 144,
-      "title": "Wings of Desire",
-      "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
-      "release_date": "1987-09-23",
-      "rating": 7.759,
-      "vote_count": 1505,
+      "id": 34070,
+      "title": "Songs from the Second Floor",
+      "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
+      "release_date": "2000-10-06",
+      "rating": 7.055,
+      "vote_count": 316,
       "genres": [
         "Drama",
-        "Fantasy",
-        "Romance"
+        "Comedy"
       ],
-      "poster_path": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
-      "backdrop_path": "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
-      "imdb_id": "tt0093191",
-      "runtime": 128,
-      "budget": 2500000,
-      "revenue": 3548590
+      "poster_path": "/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
+      "backdrop_path": "/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
+      "imdb_id": "tt0120263",
+      "runtime": 99,
+      "budget": 0,
+      "revenue": 80334
     }
   },
   {
@@ -778,8 +1045,8 @@
           "tags": [
             "Timelessfest 2026"
           ],
-          "ticketsSold": 3,
-          "ticketsAvailable": 177,
+          "ticketsSold": 5,
+          "ticketsAvailable": 175,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-03T16:00:00",
@@ -790,15 +1057,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-19T08:06:21.789939",
+    "scraped_at": "2026-07-20T08:47:20.902051",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
       "title": "Ghost in the Shell",
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
-      "rating": 7.927,
-      "vote_count": 3938,
+      "rating": 7.926,
+      "vote_count": 3940,
       "genres": [
         "Action",
         "Animation",
@@ -812,253 +1079,6 @@
       "runtime": 83,
       "budget": 3000000,
       "revenue": 10000000
-    }
-  },
-  {
-    "film_id": "the-room",
-    "url": "https://www.biorio.se/sv/filmer/the-room",
-    "title": "The Room",
-    "director": "Tommy Wiseau",
-    "showtimes": [
-      {
-        "datetime": "2026-08-06T15:30:00.000Z",
-        "display_text": "Thursday August 06, 2026 at 15:30",
-        "movie_id": "5415",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2097",
-        "api_data": {
-          "id": 2097,
-          "movieId": 5415,
-          "movieVersionId": 89,
-          "startTime": "2026-08-06T15:30:00.000Z",
-          "endTime": "2026-08-06T17:09:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": "Engelska",
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5415,
-            "title": "The Room",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5415/posters/1742388584407-zhl4s2.jpg",
-            "movieVersions": [
-              {
-                "duration": 99,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 89,
-            "duration": 99,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 12,
-              "name": "Event"
-            }
-          ],
-          "tags": [
-            "Med besök"
-          ],
-          "ticketsSold": 174,
-          "ticketsAvailable": 6,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-08-06T15:30:00",
-        "normalized_date": "06.08",
-        "normalized_time": "15:30"
-      },
-      {
-        "datetime": "2026-08-06T19:00:00.000Z",
-        "display_text": "Thursday August 06, 2026 at 19:00",
-        "movie_id": "5415",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2476",
-        "api_data": {
-          "id": 2476,
-          "movieId": 5415,
-          "movieVersionId": 89,
-          "startTime": "2026-08-06T19:00:00.000Z",
-          "endTime": "2026-08-06T20:39:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5415,
-            "title": "The Room",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5415/posters/1742388584407-zhl4s2.jpg",
-            "movieVersions": [
-              {
-                "duration": 99,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 89,
-            "duration": 99,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 12,
-              "name": "Event"
-            }
-          ],
-          "tags": [
-            "Med besök"
-          ],
-          "ticketsSold": 87,
-          "ticketsAvailable": 93,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-08-06T19:00:00",
-        "normalized_date": "06.08",
-        "normalized_time": "19:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-07-19T08:06:24.172514",
-    "source": "biorio",
-    "tmdb": {
-      "id": 17473,
-      "title": "The Room",
-      "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
-      "release_date": "2003-06-27",
-      "rating": 3.997,
-      "vote_count": 1539,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
-      "backdrop_path": "/6OnOH5FIp0ZJQgPlu0ehDfXzVyp.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6OnOH5FIp0ZJQgPlu0ehDfXzVyp.jpg",
-      "imdb_id": "tt0368226",
-      "runtime": 100,
-      "budget": 6000000,
-      "revenue": 1752988
-    }
-  },
-  {
-    "film_id": "fleabag",
-    "url": "https://www.biorio.se/sv/filmer/fleabag",
-    "title": "Fleabag",
-    "director": "Tony Grech-Smith",
-    "showtimes": [
-      {
-        "datetime": "2026-08-01T16:10:00.000Z",
-        "display_text": "Saturday August 01, 2026 at 16:10",
-        "movie_id": "5509",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2362",
-        "api_data": {
-          "id": 2362,
-          "movieId": 5509,
-          "movieVersionId": 187,
-          "startTime": "2026-08-01T16:10:00.000Z",
-          "endTime": "2026-08-01T17:30:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": "Engelska",
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5509,
-            "title": "Fleabag",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5509/posters/1748606053347-ciwlb.jpg",
-            "movieVersions": [
-              {
-                "duration": 80,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 187,
-            "duration": 80,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 17,
-              "name": "Live på Rio (standardpris)"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 23,
-          "ticketsAvailable": 157,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-08-01T16:10:00",
-        "normalized_date": "01.08",
-        "normalized_time": "16:10"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-07-19T08:06:30.891511",
-    "source": "biorio",
-    "tmdb": {
-      "id": 620350,
-      "title": "National Theatre Live: Fleabag",
-      "overview": "Fleabag may seem oversexed, emotionally unfiltered and self-obsessed, but that's just the tip of the iceberg. With family and friendships under strain and a guinea pig café struggling to keep afloat, Fleabag suddenly finds herself with nothing to lose.",
-      "release_date": "2019-09-12",
-      "rating": 7.705,
-      "vote_count": 73,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "poster_path": "/ym3Jo2mo2dK9Z27ryMr5mmkDljx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ym3Jo2mo2dK9Z27ryMr5mmkDljx.jpg",
-      "backdrop_path": "/h3StNE0j4jc1qFt88t7IR2w4wVm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/h3StNE0j4jc1qFt88t7IR2w4wVm.jpg",
-      "imdb_id": "tt10702760",
-      "runtime": 81,
-      "budget": 0,
-      "revenue": 0
     }
   }
 ]
