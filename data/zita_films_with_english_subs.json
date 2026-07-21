@@ -1,5 +1,53 @@
 [
   {
+    "film_id": "love-me-tender",
+    "url": "https://zita.se/love-me-tender",
+    "title": "Love me tender",
+    "director": "",
+    "genre": "Frankrike4 sept 2026134 minDramaLucky DogsFranskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "2026-07-29T18:00:00",
+        "display_text": "ons 29 juli 18:00",
+        "time": "18:00",
+        "date": "ons 29 juli",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5858",
+        "normalized_datetime": "2026-07-29T18:00:00",
+        "normalized_date": "29.07",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-07-21T08:16:32.912491+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 39833,
+      "title": "Love Me Tender",
+      "overview": "After the Civil War, Confederate soldiers Clint and Vance Reno steal a Union payroll, leading to conflict when the younger marries the woman his older brother loves.",
+      "release_date": "1956-11-15",
+      "rating": 6.2,
+      "vote_count": 94,
+      "genres": [
+        "Romance",
+        "Music",
+        "Western",
+        "Drama"
+      ],
+      "poster_path": "/4PdRIIrBN4q8H7f8yGbd0ScpTjh.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4PdRIIrBN4q8H7f8yGbd0ScpTjh.jpg",
+      "backdrop_path": "/48oxvgG5yrMPA2f9cPEhi9mHOV4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/48oxvgG5yrMPA2f9cPEhi9mHOV4.jpg",
+      "imdb_id": "tt0049452",
+      "runtime": 89,
+      "budget": 1200000,
+      "revenue": 9000000
+    }
+  },
+  {
     "film_id": "persona",
     "url": "https://zita.se/persona",
     "title": "Persona",
@@ -22,7 +70,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-20T08:48:33.582938+00:00",
+    "scraped_at": "2026-07-21T08:16:43.711173+00:00",
     "source": "zita",
     "tmdb": {
       "id": 797,
@@ -30,7 +78,7 @@
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
       "rating": 8.122,
-      "vote_count": 2430,
+      "vote_count": 2431,
       "genres": [
         "Drama"
       ],
@@ -54,9 +102,9 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "i morgon 20:00",
+        "display_text": "20:00",
         "time": "20:00",
-        "date": "i morgon",
+        "date": "",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5437",
         "normalized_datetime": "2026-07-21T20:00:00",
@@ -67,7 +115,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-20T08:48:41.399041+00:00",
+    "scraped_at": "2026-07-21T08:16:52.785269+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1697369,
@@ -87,51 +135,6 @@
       "backdrop_url": null,
       "imdb_id": null,
       "runtime": 7,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "sommaren-med-monika",
-    "url": "https://zita.se/sommaren-med-monika",
-    "title": "Sommaren med Monika",
-    "director": "",
-    "genre": "Sverige19539 feb 195396 minDramaSvenskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "20:15",
-        "time": "20:15",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3114",
-        "normalized_datetime": "2026-07-20T20:15:00",
-        "normalized_date": "20.07",
-        "normalized_time": "20:15"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-07-20T08:48:45.225671+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 229529,
-      "title": "Between Summers",
-      "overview": "Torun and Mikael have been married for a few years. When vacationing on the Danish coast, their young son Melker accidentally drowns. Torun initially blames her sister, who was supposed to supervise her children. Later she turns her anger and grief against her husband. Since none of them know what to do with their feelings, they start to drift apart.",
-      "release_date": "1995-08-31",
-      "rating": 5.0,
-      "vote_count": 7,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/yGCTlQXOs3XN5ZJXONGxUbtA2A.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yGCTlQXOs3XN5ZJXONGxUbtA2A.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt0114497",
-      "runtime": 112,
       "budget": 0,
       "revenue": 0
     }

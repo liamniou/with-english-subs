@@ -1,1 +1,890 @@
-[]
+[
+  {
+    "film_id": "but-im-a-cheerleader",
+    "url": "https://www.capitolbio.se/filmer/but-im-a-cheerleader/3633",
+    "title": "But I'm a Cheerleader",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Ingår i Temat: Teenage angst - the best of times, the worst of times, tonårstiden på film har alltid större känslor, coolare bilar och mer färg.\n\nDen ikoniska But I’m a Cheerleader följer Megan som skickas till ett konverteringsläger av sina föräldrar för att bota en misstänkt släng av homosexualitet. Under strikt bevakning av Mary Brown får ungdomarna genomgå ett femstegsprogram för att återvända till verkligheten som fromma heterosexuella. Vad kan gå fel? Jo kanske att ett läger fullt med andra queers får deltagarna att komma tillbaks mer gay än någonsin!\n\nMedverkar gör Natasha Lyonne, Clea DuVall, Cathy Moriarty, Melanie Lynskey, RuPaul och Michelle Williams!",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/3633/1920/cd9ddb90-2b02-4817-89cf-3c19b71b2a98.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-04T18:00:00",
+        "display_text": "Tuesday 4 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "04.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51129",
+        "booking_id": "51129",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-04T18:00:00",
+        "normalized_date": "04.08",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116351+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 20770,
+      "title": "But I'm a Cheerleader",
+      "overview": "Megan is an all-American girl. A cheerleader. She has a boyfriend. But Megan doesn't like kissing her boyfriend very much. And she's pretty touchy with her cheerleader friends. Her conservative parents worry that she must be a lesbian and send her off to \"sexual redirection\" school, where she must, with other lesbians and gays learn how to be straight.",
+      "release_date": "2000-07-07",
+      "rating": 7.073,
+      "vote_count": 851,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/dGEwlAuzTZoZjvsqgT2MRKHnGi8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dGEwlAuzTZoZjvsqgT2MRKHnGi8.jpg",
+      "backdrop_path": "/f4ZgIaMpOWd6rewhCfoIIMqWquh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/f4ZgIaMpOWd6rewhCfoIIMqWquh.jpg",
+      "imdb_id": "tt0179116",
+      "runtime": 85,
+      "budget": 1200000,
+      "revenue": 2600000
+    }
+  },
+  {
+    "film_id": "gummo",
+    "url": "https://www.capitolbio.se/filmer/gummo/4479",
+    "title": "Gummo",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Ingår i Temat: Teenage angst - the best of times, the worst of times, tonårstiden på film har alltid större känslor, coolare bilar och mer färg.\n\nHarmony Korines kultklassiker\n\nGummo tar oss med till en tråkig småstad i Ohio som alrig återhämtat sig efter en stor tornado på 1970-talet. Tonåringen Solomon och hans något äldre kompis Tummler har inget vettigare för sig än att slå ihjäl tiden och bli höga på att sniffa lim.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4479/1920/0d592fea-f902-4bb2-86e8-06404c190582.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-05T20:30:00",
+        "display_text": "Wednesday 5 August 2026 at 20:30",
+        "time": "20:30",
+        "date_section": "05.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51170",
+        "booking_id": "51170",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-05T20:30:00",
+        "normalized_date": "05.08",
+        "normalized_time": "20:30"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116402+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 18415,
+      "title": "Gummo",
+      "overview": "Teenagers Solomon and Tummler kill time in Xenia, Ohio, a small town that has never recovered from the tornado that ravaged the community in the 1970s.",
+      "release_date": "1997-10-17",
+      "rating": 6.6,
+      "vote_count": 718,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster_path": "/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
+      "backdrop_path": "/mLdMnoIE4SjMkTkgxayaHH9DS4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mLdMnoIE4SjMkTkgxayaHH9DS4.jpg",
+      "imdb_id": "tt0119237",
+      "runtime": 89,
+      "budget": 1300000,
+      "revenue": 116799
+    }
+  },
+  {
+    "film_id": "kung-fu-hustle",
+    "url": "https://www.capitolbio.se/filmer/kung-fu-hustle/4474",
+    "title": "Kung Fu Hustle",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Ingår i Temat: Geniala komedier - smart och svartsynt, slapstick och tramsigt, det finns en komedi för varje sinnesstämning på Capitol.\n\nKung Fu Hustle är en underbar actionkomedi från 2004. Filmen utspelar sig i 1940-talets Kina, där ett hänsynslöst gäng terroriserar städerna och kräver beskyddarpengar av alla. Huvudpersonen Sing (Stephen Chow) är en småkriminell som vill imponera på gänget och själv bli en hårdför gangster, men när han försöker pressa de fattiga hyresgästerna i ett slitet bostadsområde upptäcker han att flera av de till synes vanliga invånarna är mäktiga kung fu-mästare som inte låter sig skrämmas.\n\nFantastisk action och galna karaktärer slåss om uppmärksamheten i allt från fantasifulla kung fu-uppgörelser till danssekvenser, resultatet är makalöst: poetiskt, roligt, vackert och hisnande.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4474/1920/d84f6b65-f3da-4953-aff7-345459d045e0.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-11T18:00:00",
+        "display_text": "Tuesday 11 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "11.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51122",
+        "booking_id": "51122",
+        "hall": "Salong 1",
+        "audio_language": "ZN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-11T18:00:00",
+        "normalized_date": "11.08",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116420+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 9470,
+      "title": "Kung Fu Hustle",
+      "overview": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
+      "release_date": "2004-02-10",
+      "rating": 7.508,
+      "vote_count": 3249,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Fantasy"
+      ],
+      "poster_path": "/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
+      "backdrop_path": "/9XhZhoSnFJ3AjpfzdIiZVHLQIS4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9XhZhoSnFJ3AjpfzdIiZVHLQIS4.jpg",
+      "imdb_id": "tt0373074",
+      "runtime": 99,
+      "budget": 20000000,
+      "revenue": 102034104
+    }
+  },
+  {
+    "film_id": "the-boondock-saints",
+    "url": "https://www.capitolbio.se/filmer/the-boondock-saints/4477",
+    "title": "The Boondock Saints",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Kultklassiker från 1999\n\nIngår i Temat: Bad men - för vi alla älskar en riktigt bra skurk.\n\nThe Boondock Saints följer tvillingbröderna Connor och Murphy MacManus, som tar lagen i egna händer efter att de blivit vittnen till ett mord. De börjar en våldsam kampanj för att rensa Boston från brottslighet. Med en mix av svart humor och intensiv action, utforskar filmen teman om moral, rättvisa och hämnd.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4477/1920/58468f9f-cd78-4bf2-a97f-82678bc04a0c.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-11T18:00:00",
+        "display_text": "Tuesday 11 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "11.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51157",
+        "booking_id": "51157",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-11T18:00:00",
+        "normalized_date": "11.08",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116441+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 8374,
+      "title": "The Boondock Saints",
+      "overview": "Tired of the crime overrunning the streets of Boston, Irish Catholic twin brothers Conner and Murphy are inspired by their faith to cleanse their hometown of evil with their own brand of zealous vigilante justice. As they hunt down and kill one notorious gangster after another, they become controversial folk heroes in the community. But Paul Smecker, an eccentric FBI agent, is fast closing in on their blood-soaked trail.",
+      "release_date": "1999-01-22",
+      "rating": 7.253,
+      "vote_count": 2729,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "poster_path": "/wtLUmkWg41xFLpvmUWAN1mm65f6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wtLUmkWg41xFLpvmUWAN1mm65f6.jpg",
+      "backdrop_path": "/9DNDELpVxuLJWMoomgULhhZFoHR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9DNDELpVxuLJWMoomgULhhZFoHR.jpg",
+      "imdb_id": "tt0144117",
+      "runtime": 108,
+      "budget": 6000000,
+      "revenue": 38256
+    }
+  },
+  {
+    "film_id": "best-in-show",
+    "url": "https://www.capitolbio.se/filmer/best-in-show/4475",
+    "title": "Best in Show",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Ingår i Temat: Geniala komedier - smart och svartsynt, slapstick och tramsigt, det finns en komedi för varje sinnesstämning på Capitol.\n\nDet är dags för den årliga hundutställningen i Philadelphia. Ett antal mycket skruvade karaktärer reser från olika delar av USA för att delta med sina hundar.  Ett filmteam intervjuar dem när de förbereder sig, anländer till hotellet och tävlar. Från Florida kommer kvinnan Fleck som hela tiden springer in i gamla älskare. En stum gammal man och hans bystiga troféfru har med sig en prisvinnande pudel. Från North Carolina kommer en kille som vill bli buktalare och från Tribeca kommer två homosexuella män. Hundshowen tar fram essensen hos hundägarna. Vem kommer att vara 'best in show'?\n\nRegisserad av Christopher Guest som även gjorde  'This is Spinal tap' och 'Waiting for Guffman'.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4475/1920/8cbe6eed-df0f-4533-8872-f4fa913e90ad.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-18T18:00:00",
+        "display_text": "Tuesday 18 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "18.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51128",
+        "booking_id": "51128",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-18T18:00:00",
+        "normalized_date": "18.08",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116457+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 13785,
+      "title": "Best in Show",
+      "overview": "The tension is palpable, the excitement is mounting and the heady scent of competition is in the air as hundreds of eager contestants from across America prepare to take part in what is undoubtedly one of the greatest events of their lives -- the Mayflower Dog Show. The canine contestants and their owners are as wondrously diverse as the great country that has bred them.",
+      "release_date": "2000-09-29",
+      "rating": 6.893,
+      "vote_count": 683,
+      "genres": [
+        "Comedy"
+      ],
+      "poster_path": "/qkYBCMN26SxkQww4gLxUXQm5vr4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qkYBCMN26SxkQww4gLxUXQm5vr4.jpg",
+      "backdrop_path": "/itVxHnmzMJbfHhX3rbzCuyI9mfB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/itVxHnmzMJbfHhX3rbzCuyI9mfB.jpg",
+      "imdb_id": "tt0218839",
+      "runtime": 90,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "bloodsport-1988",
+    "url": "https://www.capitolbio.se/filmer/bloodsport-1988/3417",
+    "title": "Bloodsport (1988)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Frank Dux åker till Asien för att medverka i 'Kumite', en illegal kampsportstävling där allvarliga skador och till och med döden inte hör till ovanligheterna. Ett flertal mästare, alla med sin egen stil, möts i tävlingen i Hongkong.\n\nBloodsport är en klichétät men underbar kampsportsfilm med några av de finaste matcher vi sett filmas i subgenren 'fightturneringsfilmer'.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/3417/1920/7cb10044-9d23-4ffd-a12e-fa84cfc8c210.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-23T20:00:00",
+        "display_text": "Sunday 23 August 2026 at 20:00",
+        "time": "20:00",
+        "date_section": "23.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51615",
+        "booking_id": "51615",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-23T20:00:00",
+        "normalized_date": "23.08",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116473+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 11690,
+      "title": "Bloodsport",
+      "overview": "An American Army Major goes AWOL to Hong Kong for an outlawed martial arts contest called the Kumite.",
+      "release_date": "1988-02-26",
+      "rating": 7.063,
+      "vote_count": 2201,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "poster_path": "/kndxR9TRK0kJ5hxzDprRSS80F2W.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kndxR9TRK0kJ5hxzDprRSS80F2W.jpg",
+      "backdrop_path": "/aSA7RuKmCQBnYKn70GYPi6ckgoY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/aSA7RuKmCQBnYKn70GYPi6ckgoY.jpg",
+      "imdb_id": "tt0092675",
+      "runtime": 92,
+      "budget": 1500000,
+      "revenue": 63500000
+    }
+  },
+  {
+    "film_id": "bugsy-malone-1976",
+    "url": "https://www.capitolbio.se/filmer/bugsy-malone-1976/4518",
+    "title": "Bugsy Malone (1976)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Musikaliska gangsterkomedi regisserad av Alan Parker!\n\nFilmen är en parodi på klassiska gangsterfilmer där samtliga roller spelas av barn, och i stället för riktiga vapen skjuter maffiagängen 'splat guns' som kletar ner offren med vispgrädde.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4518/1920/275488c5-cc7d-4337-841a-6a4f3c8d9b07.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-25T18:00:00",
+        "display_text": "Tuesday 25 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "25.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51616",
+        "booking_id": "51616",
+        "hall": "Salong 4",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-25T18:00:00",
+        "normalized_date": "25.08",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116488+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 8446,
+      "title": "Bugsy Malone",
+      "overview": "New York, 1929, a war rages between two rival gangsters, Fat Sam and Dandy Dan. Dan is in possession of a new and deadly weapon, the dreaded \"splurge gun\". As the custard pies fly, Bugsy Malone, an all-round nice guy, falls for Blousey Brown, a singer at Fat Sam's speakeasy. His designs on her are disrupted by the seductive songstress Tallulah who wants Bugsy for herself.",
+      "release_date": "1976-07-22",
+      "rating": 6.599,
+      "vote_count": 319,
+      "genres": [
+        "Drama",
+        "Action",
+        "Comedy",
+        "Music",
+        "Family"
+      ],
+      "poster_path": "/j9BPl3jkNCFgsYe5poKrirUqrf8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/j9BPl3jkNCFgsYe5poKrirUqrf8.jpg",
+      "backdrop_path": "/vF6HsyBdaJAZIYNUVs2hyY5itBy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vF6HsyBdaJAZIYNUVs2hyY5itBy.jpg",
+      "imdb_id": "tt0074256",
+      "runtime": 93,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "afternoon-tea-gosford-park",
+    "url": "https://www.capitolbio.se/filmer/afternoon-tea-gosford-park/4329",
+    "title": "Afternoon Tea: Gosford Park",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "En grupp aristokrater samlas på godset Gosford Park för en jakthelg. Snart inträffar ett mord som får den polerade fasaden att spricka  och både gäster och personal blir misstänkta i mordgåtan som avslöjar klasskonflikter och maktspel. \n\nEn briljant ensemble skriven av skaparen till Downton Abbey Julian Fellowes.\n\nCapitols Afternoon Tea-meny:\nScones\nMed vispad grädde & sylt\n\nCucumber sandwich\nBrittisk toast med gurka och färskost\n\nEgg salad & kress sandwich\nKlassisk äggsallad med majonnäs\n\nCheddar and chutney on ryebread\nOst och rödlökschutney på danskt rågbröd\n\nShortbread\nSmåkaka\n\nVictoria cake\nSockerkaka med smörcrème och hallonsylt\n\nMini Bakewell tart\nMinipaj med körsbär och mandel\n\n\nTill detta serveras nybryggt te, ett grönt och ett svart.\n\nVill ni lyxa till det lite extra? Toppa eftermiddagen med en flaska champagne – den ultimata drycken till en stämningsfull film.\n\nVi serverar de förköpta menyerna vid era platser i salongen.\nVänligen observera att innehållet i menyn inte kan ändras efter individuella önskemål. Innehållet kan inte heller ändras till gluten- och/eller laktosfria alternativ.\n\nVÄLKOMNA!\n\n\nOBS! Senast kl. 21.00 på tisdagen i samma vecka som biovisningen måste din beställning av Afternoon tea-paket vara registrerad.\n\nEtt fåtal Afternoon tea-paket finns att köpa på plats hos oss, kom gärna i god tid då först till kvarn gäller. I foajébaren kan du beställa dryck och snacks innan, under och efter visningen.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4329/1920/12d136ef-859d-4e5b-8274-48ec4ac67804.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-29T14:00:00",
+        "display_text": "Saturday 29 August 2026 at 14:00",
+        "time": "14:00",
+        "date_section": "29.08",
+        "ticket_url": "https://www.capitolbio.se/boka/50309",
+        "booking_id": "50309",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-29T14:00:00",
+        "normalized_date": "29.08",
+        "normalized_time": "14:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116507+00:00",
+    "source": "capitolbio"
+  },
+  {
+    "film_id": "afternoon-tea-mordet-pa-orientexpressen-1974",
+    "url": "https://www.capitolbio.se/filmer/afternoon-tea-mordet-pa-orientexpressen-1974/1498",
+    "title": "Afternoon Tea: Mordet på Orientexpressen (1974)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Välkommen på Mordet på Orientexpressen med Afternoon Tea!\n\nCapitols Afternoon Tea-meny:\nScones\nMed vispad grädde & sylt\n\nCucumber sandwich\nBrittisk toast med gurka och färskost\n\nEgg salad & kress sandwich\nKlassisk äggsallad med majonnäs\n\nCheddar and chutney on ryebread\nOst och rödlökschutney på danskt rågbröd\n\nShortbread\nSmåkaka\n\nVictoria cake\nSockerkaka med smörcrème och hallonsylt\n\nMini Bakewell tart\nMinipaj med körsbär och mandel\n\n\nTill detta serveras nybryggt te, ett grönt och ett svart.\n\nVill ni lyxa till det lite extra? Toppa eftermiddagen med en flaska champagne – den ultimata drycken till en stämningsfull film.\n\nVi serverar de förköpta menyerna vid era platser i salongen.\nVänligen observera att innehållet i menyn inte kan ändras efter individuella önskemål. Innehållet kan inte heller ändras till gluten- och/eller laktosfria alternativ.\n\nVÄLKOMNA!\n\n\nOBS! Senast kl. 21.00 på tisdagen i samma vecka som biovisningen måste din beställning av Afternoon tea-paket vara registrerad.\n\nEtt fåtal Afternoon tea-paket finns att köpa på plats hos oss, kom gärna i god tid då först till kvarn gäller. I foajébaren kan du beställa dryck och snacks innan, under och efter visningen.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/1498/1920/e631a50a-d992-41df-a652-6016294b79a9.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-05T14:00:00",
+        "display_text": "Saturday 5 September 2026 at 14:00",
+        "time": "14:00",
+        "date_section": "05.09",
+        "ticket_url": "https://www.capitolbio.se/boka/50555",
+        "booking_id": "50555",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-05T14:00:00",
+        "normalized_date": "05.09",
+        "normalized_time": "14:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116527+00:00",
+    "source": "capitolbio"
+  },
+  {
+    "film_id": "the-duel-1971",
+    "url": "https://www.capitolbio.se/filmer/the-duel-1971/4526",
+    "title": "The Duel (1971)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Spielbergs första långfilm (bygger på Richard Mathesons berättelse) gjordes ursprungligen för TV och tar oss med till ökenlandskapet i Kalifornien där en helt vanlig handelsresande (Dennis Weaver) hotas till livet av en vild lastbilschaufför. Filmen bärs uteslutande upp av Weaver och hans desperata kamp för att överleva, i takt med att handlingen får en allt mer tryckande och paranoid utveckling.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4526/1920/6097fb22-6f2b-40c4-9a76-c4ef3f3f0d22.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-06T20:20:00",
+        "display_text": "Sunday 6 September 2026 at 20:20",
+        "time": "20:20",
+        "date_section": "06.09",
+        "ticket_url": "https://www.capitolbio.se/boka/51701",
+        "booking_id": "51701",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-06T20:20:00",
+        "normalized_date": "06.09",
+        "normalized_time": "20:20"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116543+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 139321,
+      "title": "The Duel",
+      "overview": "After a gang massacre that resulted in the killing of his adopted father and gang leader, a martial artist goes into exile to take the blame. A year later, his gang is mysteriously trying to kill him, and he slowly discovers why.",
+      "release_date": "1971-04-21",
+      "rating": 6.883,
+      "vote_count": 30,
+      "genres": [
+        "Action",
+        "Drama",
+        "Crime"
+      ],
+      "poster_path": "/zGpursnvPX7xSftaus14cFnCA0X.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zGpursnvPX7xSftaus14cFnCA0X.jpg",
+      "backdrop_path": "/f89AP9XNfpFULLn3gX5qUaT7Tsi.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/f89AP9XNfpFULLn3gX5qUaT7Tsi.jpg",
+      "imdb_id": "tt0067026",
+      "runtime": 110,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "grey-gardens-1976",
+    "url": "https://www.capitolbio.se/filmer/grey-gardens-1976/4527",
+    "title": "Grey Gardens (1976)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Kultfilm från 1976\n\nDokumentär om Edie Bouvier Beale och hennes mor Edith – två åldrande udda och excentriska släktingar till Jackie Kennedy Onassis – Big Edie var sopran och Little Edie en vacker kvinna som drömde om ett liv på scenen. Sedan lämnade de allt bakom sig och flyttade till fashionabla East Hampton till en stor villa, ett hus så förfallet att myndigheterna hotade att stänga det på grund av bristande sanitära förhållanden.\n\nBröderna Maysles dokumentärfilm om mor och dotter i ”Grey Gardens” från 1976 blev med tiden en riktig kultfilm, musikal på Broadway, spelfilm och tv-serie.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4527/1920/908d5f47-c190-48bf-8c6b-4f9e68aabb8b.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-07T18:00:00",
+        "display_text": "Monday 7 September 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "07.09",
+        "ticket_url": "https://www.capitolbio.se/boka/51702",
+        "booking_id": "51702",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-07T18:00:00",
+        "normalized_date": "07.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116558+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 17346,
+      "title": "Grey Gardens",
+      "overview": "Edie Bouvier Beale and her mother, Edith, two aging, eccentric relatives of Jackie Kennedy Onassis, are the sole inhabitants of a Long Island estate. The women reveal themselves to be misfits with outsized, engaging personalities. Much of the conversation is centered on their pasts, as mother and daughter now rarely leave home.",
+      "release_date": "1976-02-19",
+      "rating": 7.33,
+      "vote_count": 247,
+      "genres": [
+        "Documentary"
+      ],
+      "poster_path": "/qFPj6Eh3ijA4ISRujHu4GKKeAWT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qFPj6Eh3ijA4ISRujHu4GKKeAWT.jpg",
+      "backdrop_path": "/8gMOMHSkSTJ5NbHvHYK6amERLNM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8gMOMHSkSTJ5NbHvHYK6amERLNM.jpg",
+      "imdb_id": "tt0073076",
+      "runtime": 95,
+      "budget": 0,
+      "revenue": 30966
+    }
+  },
+  {
+    "film_id": "musikal-cabaret",
+    "url": "https://www.capitolbio.se/filmer/musikal-cabaret/82",
+    "title": "Musikal: Cabaret",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "I Weimar-republikens Berlin, på 1930-talet, jobbar den unga amerikanskan på Kit-Kat Club, där förälskelsen drabbar henne två gånger om. Samtidigt tar sig långsamt nazisterna till makten.\nBob Fosses åttafaldigt Oscarbelönade musikal från 1972 blev Liza Minnellis stora genombrott. Som dotter till Judy Garland tog hon med bravur vidare familjens traditioner och vann en statyett för sin huvudroll som nattklubbssångerskan Sally Bowles.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/82/1920/48ce7514-464f-4a58-a5b8-a0e3698921cc.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-08T18:00:00",
+        "display_text": "Tuesday 8 September 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "08.09",
+        "ticket_url": "https://www.capitolbio.se/boka/51751",
+        "booking_id": "51751",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-08T18:00:00",
+        "normalized_date": "08.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116575+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 10784,
+      "title": "Cabaret",
+      "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
+      "release_date": "1972-02-13",
+      "rating": 7.42,
+      "vote_count": 987,
+      "genres": [
+        "Music",
+        "Romance",
+        "Drama"
+      ],
+      "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+      "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+      "imdb_id": "tt0068327",
+      "runtime": 124,
+      "budget": 4600000,
+      "revenue": 42800000
+    }
+  },
+  {
+    "film_id": "salo-eller-sodoms-120-dagar",
+    "url": "https://www.capitolbio.se/filmer/salo-eller-sodoms-120-dagar/3344",
+    "title": "Salò, eller Sodoms 120 dagar",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Pasolinis sista film – en tolkning av Markis de Sades De 120 dagarna i Sodom, med handlingen förflyttad till den fascistiska Salòrepubliken är en av filmhistoriens mest kontroversiella våldsskildringar, som hatats och förbjudits, men också hyllats för sin skarpa satir och provokationskraft.\n\nSalò fick världspremiär i november 1975, tre veckor efter mordet på Pasolini. Filmen totalförbjöds i hemlandet Italien, men lockade i 178 000 svenskar till biograferna.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4475/1920/8cbe6eed-df0f-4533-8872-f4fa913e90ad.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-13T20:00:00",
+        "display_text": "Sunday 13 September 2026 at 20:00",
+        "time": "20:00",
+        "date_section": "13.09",
+        "ticket_url": "https://www.capitolbio.se/boka/51712",
+        "booking_id": "51712",
+        "hall": "Salong 1",
+        "audio_language": "IT",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-13T20:00:00",
+        "normalized_date": "13.09",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116592+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 5336,
+      "title": "Salò, or the 120 Days of Sodom",
+      "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
+      "release_date": "1976-01-10",
+      "rating": 6.347,
+      "vote_count": 2322,
+      "genres": [
+        "Horror",
+        "Drama"
+      ],
+      "poster_path": "/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg",
+      "backdrop_path": "/wP1wgntZ6VIja8hprxV6UKdQugk.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/wP1wgntZ6VIja8hprxV6UKdQugk.jpg",
+      "imdb_id": "tt0073650",
+      "runtime": 117,
+      "budget": 800000,
+      "revenue": 1800000
+    }
+  },
+  {
+    "film_id": "broderna-marx-duck-soup",
+    "url": "https://www.capitolbio.se/filmer/broderna-marx-duck-soup/4531",
+    "title": "Bröderna Marx: Duck Soup",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Bröderna Marx allra bästa film Duck Soup\n\n“I could dance with you ‘til the cows come home. On second thought, I’d rather dance with the cows until you came home.”\n\nRufus T. Firefly utnämns till diktator för konkurslandet Freedonia och förklarar direkt krig mot grannlandet Sylvania över kärleken till sin förmögna stödjare Mrs. Teasdale. Han brottas även med två odugliga spioner som inte verkar kunna bestämma sig för vilken sida de står på.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4531/1920/57cdc27d-850e-4515-bbeb-527f42b1eae7.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-15T18:00:00",
+        "display_text": "Tuesday 15 September 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "15.09",
+        "ticket_url": "https://www.capitolbio.se/boka/51711",
+        "booking_id": "51711",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-15T18:00:00",
+        "normalized_date": "15.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116624+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 3063,
+      "title": "Duck Soup",
+      "overview": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
+      "release_date": "1933-11-12",
+      "rating": 7.3,
+      "vote_count": 867,
+      "genres": [
+        "Comedy",
+        "War"
+      ],
+      "poster_path": "/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+      "backdrop_path": "/nVpp3ZcIFtJJ3fJp65eJczehIN8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nVpp3ZcIFtJJ3fJp65eJczehIN8.jpg",
+      "imdb_id": "tt0023969",
+      "runtime": 68,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "valley-of-the-dolls",
+    "url": "https://www.capitolbio.se/filmer/valley-of-the-dolls/4529",
+    "title": "Valley of the Dolls",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Kultklassiker fån 1967 \n\nMed Sharon Tate som en djupt olycklig partytjej som missbrukar piller. Valley of the Dolls bygger på den skandalomsusade romanen med samma namn, blev en biosuccé 1967 och har sedan dess uppnått kultstatus.\n\nBaserad på Jacqueline Susanns bok med samma namn från 1966.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4529/1920/29f611a2-0e09-4523-9c1c-20592baef959.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-15T18:00:00",
+        "display_text": "Tuesday 15 September 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "15.09",
+        "ticket_url": "https://www.capitolbio.se/boka/51705",
+        "booking_id": "51705",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-15T18:00:00",
+        "normalized_date": "15.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116640+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 3055,
+      "title": "Valley of the Dolls",
+      "overview": "Lured by their dreams of fame and fortune, three ambitious young women enter the world of show business and discover how easy it is to sink into a celebrity nightmare of ego, alcohol and pills — the beloved \"dolls.\"",
+      "release_date": "1967-12-27",
+      "rating": 6.0,
+      "vote_count": 147,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
+      "backdrop_path": "/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
+      "imdb_id": "tt0062430",
+      "runtime": 123,
+      "budget": 5000000,
+      "revenue": 50000000
+    }
+  },
+  {
+    "film_id": "fame-1980",
+    "url": "https://www.capitolbio.se/filmer/fame-1980/226",
+    "title": "Fame (1980)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "På New York City High School tränas studenterna i dans, sång och skådespeleri. De tänjer sina gränser till max för att lyckas i den stenhårda artistvärlden. Vi följer gatusmarta Coco (Irene Cara), blyga Doris (Maureen Teefy), homosexuelle Montgomery (Paul McCrane), tuffingen Raul (Barry Miller), känslige Bruno (Lee Curreri) och de andra i kampen för att nå sina drömmar om framgång och berömmelse samtidigt som de brottas med vanliga tonårsproblem som ensamhet, osäkerhet och att hitta sig själva. Irene Cara, som spelar sångerskan Coco, lyser i sin skådespelarprestation. Filmen belönades med två Oscar och är sprängfylld med fantastiska, till synes spontana dansnummer och inspirerande musik.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/226/1920/8e350c96-5d55-451a-9ee5-bb0e87e4b61e.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-21T17:45:00",
+        "display_text": "Monday 21 September 2026 at 17:45",
+        "time": "17:45",
+        "date_section": "21.09",
+        "ticket_url": "https://www.capitolbio.se/boka/51704",
+        "booking_id": "51704",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-21T17:45:00",
+        "normalized_date": "21.09",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116654+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 3537,
+      "title": "Fame",
+      "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
+      "release_date": "1980-05-16",
+      "rating": 6.4,
+      "vote_count": 508,
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "poster_path": "/ewuGn4kxsqbYfgSO8Y5kzYlBcKE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ewuGn4kxsqbYfgSO8Y5kzYlBcKE.jpg",
+      "backdrop_path": "/jekdv0OUnppLnpbPdBIkwCoeENo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jekdv0OUnppLnpbPdBIkwCoeENo.jpg",
+      "imdb_id": "tt0080716",
+      "runtime": 134,
+      "budget": 8500000,
+      "revenue": 42000000
+    }
+  },
+  {
+    "film_id": "convoy",
+    "url": "https://www.capitolbio.se/filmer/convoy/4530",
+    "title": "Convoy",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Sam Peckinpahs klassiska road-movie \n\nEn mäktig konvoj av dammhissande lastbilar går mot en statlig linje i sydvästra Amerika. Den massiva samlingen av fordon i alla former och storlekar leds av 'Rubber Duck', en legendarisk lastbilsförare som har samlat denna enorma armé tillsammans för att protestera mot poliskorruption, federala och statliga lagar och skuggiga politik.\n\nMed Kris Kristofferson och Ali MacGraw i huvudrollerna.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4530/1920/90a7aa5c-1d0b-476f-8bff-58bfe10d2081.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-21T20:15:00",
+        "display_text": "Monday 21 September 2026 at 20:15",
+        "time": "20:15",
+        "date_section": "21.09",
+        "ticket_url": "https://www.capitolbio.se/boka/51710",
+        "booking_id": "51710",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-21T20:15:00",
+        "normalized_date": "21.09",
+        "normalized_time": "20:15"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116668+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 9584,
+      "title": "Convoy",
+      "overview": "Trucker Rubber Duck and his buddies Pig Pen, Widow Woman and Spider Mike use their CB radios to warn one another of the presence of cops. But conniving Sheriff Wallace is hip to the truckers' tactics, and begins tricking the drivers through his own CB broadcasts. Facing constant harassment from the law, Rubber Duck and his pals use their radios to coordinate a vast convoy and rule the road.",
+      "release_date": "1978-06-27",
+      "rating": 6.286,
+      "vote_count": 432,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "poster_path": "/xjowoBInlikSlvfAYDRN9ubaODB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xjowoBInlikSlvfAYDRN9ubaODB.jpg",
+      "backdrop_path": "/1AvdIZYSzPXgiDWIPldnja4awla.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1AvdIZYSzPXgiDWIPldnja4awla.jpg",
+      "imdb_id": "tt0077369",
+      "runtime": 112,
+      "budget": 12000000,
+      "revenue": 45000000
+    }
+  },
+  {
+    "film_id": "kickboxer-1989",
+    "url": "https://www.capitolbio.se/filmer/kickboxer-1989/4528",
+    "title": "Kickboxer (1989)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "KICKBOXER är Jean-Claude Van Dammes legendariska film som sparkade igång hans karriär och som ofta blir nämnd som en av de häftigaste martial art-filmerna i filmhistorien.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4528/1920/6b9e7818-c6df-4b6f-b269-2a3799369153.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-27T20:15:00",
+        "display_text": "Sunday 27 September 2026 at 20:15",
+        "time": "20:15",
+        "date_section": "27.09",
+        "ticket_url": "https://www.capitolbio.se/boka/51714",
+        "booking_id": "51714",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-27T20:15:00",
+        "normalized_date": "27.09",
+        "normalized_time": "20:15"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-21T08:15:04.116685+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 10222,
+      "title": "Kickboxer",
+      "overview": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
+      "release_date": "1989-04-20",
+      "rating": 6.84,
+      "vote_count": 1588,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "poster_path": "/tXSD8U5aVdGscQNcyY6C2ANVEuh.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tXSD8U5aVdGscQNcyY6C2ANVEuh.jpg",
+      "backdrop_path": "/sl7hpSJR11FlfcewMJ6ihsbbAuJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sl7hpSJR11FlfcewMJ6ihsbbAuJ.jpg",
+      "imdb_id": "tt0097659",
+      "runtime": 98,
+      "budget": 1500000,
+      "revenue": 50000000
+    }
+  }
+]

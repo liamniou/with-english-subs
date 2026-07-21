@@ -56,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 14,
-          "ticketsAvailable": 166,
+          "ticketsSold": 17,
+          "ticketsAvailable": 163,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-21T18:20:00",
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-20T08:46:36.772711",
+    "scraped_at": "2026-07-21T08:13:47.852503",
     "source": "biorio",
     "tmdb": {
       "id": 8953,
@@ -149,8 +149,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 13,
-          "ticketsAvailable": 167,
+          "ticketsSold": 15,
+          "ticketsAvailable": 165,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-23T18:00:00",
@@ -208,8 +208,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 15,
-          "ticketsAvailable": 165,
+          "ticketsSold": 16,
+          "ticketsAvailable": 164,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-26T16:00:00",
@@ -220,7 +220,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-20T08:46:41.305348",
+    "scraped_at": "2026-07-21T08:13:54.233745",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -313,7 +313,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-20T08:46:48.807277",
+    "scraped_at": "2026-07-21T08:14:02.852334",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -394,8 +394,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 23,
-          "ticketsAvailable": 157,
+          "ticketsSold": 25,
+          "ticketsAvailable": 155,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-01T16:10:00",
@@ -406,7 +406,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-20T08:46:54.068404",
+    "scraped_at": "2026-07-21T08:14:09.161860",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -488,8 +488,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 174,
-          "ticketsAvailable": 6,
+          "ticketsSold": 175,
+          "ticketsAvailable": 5,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -549,8 +549,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 91,
-          "ticketsAvailable": 89,
+          "ticketsSold": 93,
+          "ticketsAvailable": 87,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -561,15 +561,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-20T08:46:59.412562",
+    "scraped_at": "2026-07-21T08:14:15.066452",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
       "title": "The Room",
       "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
       "release_date": "2003-06-27",
-      "rating": 3.996,
-      "vote_count": 1540,
+      "rating": 3.994,
+      "vote_count": 1541,
       "genres": [
         "Drama",
         "Romance"
@@ -653,7 +653,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-20T08:47:10.987560",
+    "scraped_at": "2026-07-21T08:14:28.299060",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -864,7 +864,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-20T08:47:15.621086",
+    "scraped_at": "2026-07-21T08:14:34.156213",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -881,7 +881,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/nZnCOQNa4UcBNGjqbw12HPIFqBY.jpg",
       "backdrop_path": "/dddyeJgHJtgIW2sICb9nZGOmLow.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/dddyeJgHJtgIW2sICb9nZGOmLow.jpg",
-      "imdb_id": null,
+      "imdb_id": "tt43683692",
       "runtime": 115,
       "budget": 0,
       "revenue": 0
@@ -958,14 +958,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-20T08:47:18.351357",
+    "scraped_at": "2026-07-21T08:14:37.515133",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
       "title": "Songs from the Second Floor",
       "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
       "release_date": "2000-10-06",
-      "rating": 7.055,
+      "rating": 7.1,
       "vote_count": 316,
       "genres": [
         "Drama",
@@ -1057,7 +1057,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-20T08:47:20.902051",
+    "scraped_at": "2026-07-21T08:14:40.745394",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
@@ -1065,7 +1065,7 @@
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
       "rating": 7.926,
-      "vote_count": 3940,
+      "vote_count": 3942,
       "genres": [
         "Action",
         "Animation",

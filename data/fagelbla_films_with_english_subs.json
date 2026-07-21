@@ -1,5 +1,50 @@
 [
   {
+    "film_id": "persona",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Persona",
+    "director": "Ingmar Bergman",
+    "duration": "1h 24 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-08-03T17:30:00+02:00",
+        "display_text": "Måndag, 3rd Augusti 17:30",
+        "time": "17:30",
+        "date_section": "Måndag, 3rd Augusti",
+        "ticket_url": "https://biofagelbla.se/movie/persona/?showtime=58044",
+        "showtime_id": "58044",
+        "normalized_datetime": "2026-08-03T17:30:00",
+        "normalized_date": "03.08",
+        "normalized_time": "17:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-07-21T08:15:26.578857+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 797,
+      "title": "Persona",
+      "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
+      "release_date": "1966-10-18",
+      "rating": 8.122,
+      "vote_count": 2431,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
+      "backdrop_path": "/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
+      "imdb_id": "tt0060827",
+      "runtime": 85,
+      "budget": 0,
+      "revenue": 250000
+    }
+  },
+  {
     "film_id": "breakfast-at-tiffanys",
     "url": "https://biofagelbla.se/program/",
     "title": "Breakfast at Tiffany’s",
@@ -22,7 +67,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-07-20T08:47:41.290087+00:00",
+    "scraped_at": "2026-07-21T08:15:26.579531+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
