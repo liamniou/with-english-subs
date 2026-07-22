@@ -1,5 +1,51 @@
 [
   {
+    "film_id": "hon-dansade-en-sommar",
+    "url": "https://zita.se/hon-dansade-en-sommar",
+    "title": "Hon dansade en sommar",
+    "director": "",
+    "genre": "Sverige1 jan 195199 minDramaSvenska FilminstitutSvenskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "20:00",
+        "time": "20:00",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5896",
+        "normalized_datetime": "2026-07-22T20:00:00",
+        "normalized_date": "22.07",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-07-22T08:16:44.308240+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 56719,
+      "title": "One Summer of Happiness",
+      "overview": "The young high school graduate Göran and the 17-year-old Kerstin get to know each other on the estate of Göran's uncle Persson and fall in love. But their relationship is watched suspiciously by the jammed adult world. While Persson has an understanding of the youth, Kerstin's parents and the pastor of the village rant against the alleged immorality of the young people. Despite all the malice, Göran and Kerstin decide for their love. But this love should last only one summer.",
+      "release_date": "1951-12-17",
+      "rating": 6.283,
+      "vote_count": 30,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/pejm19LBXIzYGvthUJTQcqyMgEy.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pejm19LBXIzYGvthUJTQcqyMgEy.jpg",
+      "backdrop_path": "/2Nt49WwB16IOn2ryimxvPivI08g.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2Nt49WwB16IOn2ryimxvPivI08g.jpg",
+      "imdb_id": "tt0043652",
+      "runtime": 103,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
     "film_id": "love-me-tender",
     "url": "https://zita.se/love-me-tender",
     "title": "Love me tender",
@@ -22,7 +68,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-21T08:16:32.912491+00:00",
+    "scraped_at": "2026-07-22T08:16:50.941126+00:00",
     "source": "zita",
     "tmdb": {
       "id": 39833,
@@ -70,7 +116,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-21T08:16:43.711173+00:00",
+    "scraped_at": "2026-07-22T08:17:01.537741+00:00",
     "source": "zita",
     "tmdb": {
       "id": 797,
@@ -78,7 +124,7 @@
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
       "rating": 8.122,
-      "vote_count": 2431,
+      "vote_count": 2433,
       "genres": [
         "Drama"
       ],
@@ -90,53 +136,6 @@
       "runtime": 85,
       "budget": 0,
       "revenue": 250000
-    }
-  },
-  {
-    "film_id": "sentimental-value",
-    "url": "https://zita.se/sentimental-value",
-    "title": "Sentimental Value",
-    "director": "",
-    "genre": "Norge20253 okt 2025126 minDramaFrån 11 årTriArtNorskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "20:00",
-        "time": "20:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5437",
-        "normalized_datetime": "2026-07-21T20:00:00",
-        "normalized_date": "21.07",
-        "normalized_time": "20:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-07-21T08:16:52.785269+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 1697369,
-      "title": "Sentimental Value",
-      "overview": "Dr. Rick Nelson, a victim of the Oklahoma City bombings, learns what it feels like to live in an alternate reality.",
-      "release_date": "2026-05-08",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Science Fiction"
-      ],
-      "poster_path": "/9lKnSnTFCj8TVWPi5ENNgS6qrbq.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9lKnSnTFCj8TVWPi5ENNgS6qrbq.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": null,
-      "runtime": 7,
-      "budget": 0,
-      "revenue": 0
     }
   }
 ]
