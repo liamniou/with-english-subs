@@ -27,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-22T08:15:32.387216+00:00",
+    "scraped_at": "2026-07-23T08:19:39.741450+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 20770,
@@ -49,6 +49,57 @@
       "runtime": 85,
       "budget": 1200000,
       "revenue": 2600000
+    }
+  },
+  {
+    "film_id": "gummo",
+    "url": "https://www.capitolbio.se/filmer/gummo/4479",
+    "title": "Gummo",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Ingår i Temat: Teenage angst - the best of times, the worst of times, tonårstiden på film har alltid större känslor, coolare bilar och mer färg.\n\nHarmony Korines kultklassiker\n\nGummo tar oss med till en tråkig småstad i Ohio som alrig återhämtat sig efter en stor tornado på 1970-talet. Tonåringen Solomon och hans något äldre kompis Tummler har inget vettigare för sig än att slå ihjäl tiden och bli höga på att sniffa lim.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4479/1920/0d592fea-f902-4bb2-86e8-06404c190582.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-05T20:30:00",
+        "display_text": "Wednesday 5 August 2026 at 20:30",
+        "time": "20:30",
+        "date_section": "05.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51170",
+        "booking_id": "51170",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-05T20:30:00",
+        "normalized_date": "05.08",
+        "normalized_time": "20:30"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-23T08:19:39.741486+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 18415,
+      "title": "Gummo",
+      "overview": "Teenagers Solomon and Tummler kill time in Xenia, Ohio, a small town that has never recovered from the tornado that ravaged the community in the 1970s.",
+      "release_date": "1997-10-17",
+      "rating": 6.606,
+      "vote_count": 719,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster_path": "/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
+      "backdrop_path": "/mLdMnoIE4SjMkTkgxayaHH9DS4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mLdMnoIE4SjMkTkgxayaHH9DS4.jpg",
+      "imdb_id": "tt0119237",
+      "runtime": 89,
+      "budget": 1300000,
+      "revenue": 116799
     }
   },
   {
@@ -79,7 +130,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-22T08:15:32.387293+00:00",
+    "scraped_at": "2026-07-23T08:19:39.741502+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9470,
@@ -132,7 +183,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-22T08:15:32.387325+00:00",
+    "scraped_at": "2026-07-23T08:19:39.741517+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 13785,
@@ -182,7 +233,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-22T08:15:32.387339+00:00",
+    "scraped_at": "2026-07-23T08:19:39.741531+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11690,
@@ -234,7 +285,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-22T08:15:32.387352+00:00",
+    "scraped_at": "2026-07-23T08:19:39.741545+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8446,
@@ -256,6 +307,85 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/vF6HsyBdaJAZIYNUVs2hyY5itBy.jpg",
       "imdb_id": "tt0074256",
       "runtime": 93,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "ghost-2-big-to-rig",
+    "url": "https://www.capitolbio.se/filmer/ghost-2-big-to-rig/4519",
+    "title": "GHOST: 2 BIG TO RIG",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Upplev svenska världssensationen GHOST SKELETOUR-turné som en i publiken på de två utsålda Mexico city-konserterna, filmad på krispig 16mm och med fantastisk ljudupptagning är 2 BIG TO RIG den oslagbara konsertfilmen med ett av världens största artister. \n\nGHOST: 2 BIG TO RIG Visas 26, 27 och 29 augusti.\n\nObs, inga återköp eller byten på denna visning.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4394/1920/6e5a62c3-9c81-49ec-b6c6-da158ba55d29.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-26T18:00:00",
+        "display_text": "Wednesday 26 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "26.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51812",
+        "booking_id": "51812",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-26T18:00:00",
+        "normalized_date": "26.08",
+        "normalized_time": "18:00"
+      },
+      {
+        "datetime": "2026-08-26T18:00:00",
+        "display_text": "Wednesday 26 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "26.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51813",
+        "booking_id": "51813",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-26T18:00:00",
+        "normalized_date": "26.08",
+        "normalized_time": "18:00"
+      },
+      {
+        "datetime": "2026-08-29T20:30:00",
+        "display_text": "Saturday 29 August 2026 at 20:30",
+        "time": "20:30",
+        "date_section": "29.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51814",
+        "booking_id": "51814",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-29T20:30:00",
+        "normalized_date": "29.08",
+        "normalized_time": "20:30"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-23T08:19:39.741559+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 1693400,
+      "title": "2 Big to Rig",
+      "overview": "Captured live over the course of GHOST’s two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX® in select locations.  Featuring the only pro-shot footage of Papa V Perpetua and his band of Nameless Ghouls from the phone-free SKELETOUR, 2 BIG TO RIG immerses the audience in the GHOST live ritual, including exclusive behind-the-scenes and backstage access.  2 BIG TO RIG was created to share the SKELETOUR experience with the faithful in the territories where staging the show was not logistically feasible — and is a love letter to all those who have shared the GHOST ritual.  Shot on 16mm film, GHOST has never looked or sounded better, ripping through material from the band's six albums — including 2025’s global #1 SKELETÁ as well as non-LP favorites including “Mary On A Cross,” “Kiss the Go-Goat,” and “The Future is a Foreign Land.”",
+      "release_date": "2026-08-24",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "poster_path": "/nZnCOQNa4UcBNGjqbw12HPIFqBY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nZnCOQNa4UcBNGjqbw12HPIFqBY.jpg",
+      "backdrop_path": "/dddyeJgHJtgIW2sICb9nZGOmLow.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/dddyeJgHJtgIW2sICb9nZGOmLow.jpg",
+      "imdb_id": "tt43683692",
+      "runtime": 115,
       "budget": 0,
       "revenue": 0
     }
@@ -288,7 +418,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-22T08:15:32.387364+00:00",
+    "scraped_at": "2026-07-23T08:19:39.741593+00:00",
     "source": "capitolbio"
   },
   {
@@ -319,7 +449,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-22T08:15:32.387378+00:00",
+    "scraped_at": "2026-07-23T08:19:39.741620+00:00",
     "source": "capitolbio"
   },
   {
@@ -350,7 +480,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-22T08:15:32.387393+00:00",
+    "scraped_at": "2026-07-23T08:19:39.741634+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -402,7 +532,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-22T08:15:32.387408+00:00",
+    "scraped_at": "2026-07-23T08:19:39.741648+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -452,7 +582,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-22T08:15:32.387420+00:00",
+    "scraped_at": "2026-07-23T08:19:39.741664+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
@@ -475,6 +605,37 @@
       "budget": 4600000,
       "revenue": 42800000
     }
+  },
+  {
+    "film_id": "afternoon-tea-m-dress-along",
+    "url": "https://www.capitolbio.se/filmer/afternoon-tea-m-dress-along/4535",
+    "title": "Afternoon Tea m Dress-Along",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Jazz it up – glitter, glamour & guilty pleasures!\nDress-Along succén fortsätter! \n\nÄnnu en gång tar vi med dig till 20-talets Chicago fyllt av jazz, glamour, gangsters, fagra jailbirds och skandal.\n\nDress-Along Movie Night är en filmupplevelse där karaktärerna kliver ner från bioduken och in i salongen!\n\nDenna gång förvandlar vi biografen till en te och champagnesalong med vår omtyckta Afternoon tea. Kombinera en kopp rykande te, kylt bubbel, nybakade scones och andra läckra godsaker – allt medan du njuter av spektaklet som pågår på och nedanför vita duken.\n\nLåt 20-talets jazz och glittrande dekadens inspirera din outfit – eller gör entré som den förföriska Velma, den drömmande Roxie, den slipade Billy eller varför inte som en av de legendariska jailbirds från ‘Cell Block Tango’? Vem blir du just denna kväll?\n\nDatum: lördag 12 september\nTid: Mingel från 13:00.\nFilmstart: 14:00\n\nBegränsat antal platser och Afternoon tea – säkra din biljett redan nu!\n\nOBS: Inga återköp eller byten gäller på biljetter till Dress-Along.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4402/1920/ea3c00d6-7704-42de-af9f-ffa1cd4b06eb.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-12T14:00:00",
+        "display_text": "Saturday 12 September 2026 at 14:00",
+        "time": "14:00",
+        "date_section": "12.09",
+        "ticket_url": "https://www.capitolbio.se/boka/51818",
+        "booking_id": "51818",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-12T14:00:00",
+        "normalized_date": "12.09",
+        "normalized_time": "14:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-23T08:19:39.741677+00:00",
+    "source": "capitolbio"
   },
   {
     "film_id": "salo-eller-sodoms-120-dagar",
@@ -504,15 +665,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-22T08:15:32.387431+00:00",
+    "scraped_at": "2026-07-23T08:19:39.741691+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
       "title": "Salò, or the 120 Days of Sodom",
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
-      "rating": 6.347,
-      "vote_count": 2322,
+      "rating": 6.345,
+      "vote_count": 2323,
       "genres": [
         "Horror",
         "Drama"
@@ -555,7 +716,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-22T08:15:32.387443+00:00",
+    "scraped_at": "2026-07-23T08:19:39.741704+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -606,14 +767,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-22T08:15:32.387456+00:00",
+    "scraped_at": "2026-07-23T08:19:39.741717+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3055,
       "title": "Valley of the Dolls",
       "overview": "Lured by their dreams of fame and fortune, three ambitious young women enter the world of show business and discover how easy it is to sink into a celebrity nightmare of ego, alcohol and pills — the beloved \"dolls.\"",
       "release_date": "1967-12-27",
-      "rating": 6.0,
+      "rating": 6.017,
       "vote_count": 147,
       "genres": [
         "Drama",
@@ -657,7 +818,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-22T08:15:32.387469+00:00",
+    "scraped_at": "2026-07-23T08:19:39.741733+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
@@ -665,7 +826,7 @@
       "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
       "release_date": "1980-05-16",
       "rating": 6.4,
-      "vote_count": 508,
+      "vote_count": 509,
       "genres": [
         "Drama",
         "Music"
@@ -708,7 +869,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-22T08:15:32.387481+00:00",
+    "scraped_at": "2026-07-23T08:19:39.741747+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9584,
@@ -760,7 +921,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-22T08:15:32.387492+00:00",
+    "scraped_at": "2026-07-23T08:19:39.741761+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,

@@ -1,51 +1,5 @@
 [
   {
-    "film_id": "hon-dansade-en-sommar",
-    "url": "https://zita.se/hon-dansade-en-sommar",
-    "title": "Hon dansade en sommar",
-    "director": "",
-    "genre": "Sverige1 jan 195199 minDramaSvenska FilminstitutSvenskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "20:00",
-        "time": "20:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5896",
-        "normalized_datetime": "2026-07-22T20:00:00",
-        "normalized_date": "22.07",
-        "normalized_time": "20:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-07-22T08:16:44.308240+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 56719,
-      "title": "One Summer of Happiness",
-      "overview": "The young high school graduate Göran and the 17-year-old Kerstin get to know each other on the estate of Göran's uncle Persson and fall in love. But their relationship is watched suspiciously by the jammed adult world. While Persson has an understanding of the youth, Kerstin's parents and the pastor of the village rant against the alleged immorality of the young people. Despite all the malice, Göran and Kerstin decide for their love. But this love should last only one summer.",
-      "release_date": "1951-12-17",
-      "rating": 6.283,
-      "vote_count": 30,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/pejm19LBXIzYGvthUJTQcqyMgEy.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pejm19LBXIzYGvthUJTQcqyMgEy.jpg",
-      "backdrop_path": "/2Nt49WwB16IOn2ryimxvPivI08g.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2Nt49WwB16IOn2ryimxvPivI08g.jpg",
-      "imdb_id": "tt0043652",
-      "runtime": 103,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "love-me-tender",
     "url": "https://zita.se/love-me-tender",
     "title": "Love me tender",
@@ -68,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-22T08:16:50.941126+00:00",
+    "scraped_at": "2026-07-23T08:20:54.996590+00:00",
     "source": "zita",
     "tmdb": {
       "id": 39833,
@@ -94,6 +48,51 @@
     }
   },
   {
+    "film_id": "paradistorg",
+    "url": "https://zita.se/paradistorg",
+    "title": "Paradistorg",
+    "director": "",
+    "genre": "",
+    "duration": "Sverige19771 jan 2015112 minFrån 11 årSvenskaEngelska",
+    "showtimes": [
+      {
+        "datetime": "2026-08-03T20:00:00",
+        "display_text": "mån 3 aug 20:00",
+        "time": "20:00",
+        "date": "mån 3 aug",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5907",
+        "normalized_datetime": "2026-08-03T20:00:00",
+        "normalized_date": "03.08",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-07-23T08:21:01.935573+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 394968,
+      "title": "Summer Paradise",
+      "overview": "Conventions of civility among family members are severely strained by the very real breakup of the bonds between them. During a few days at a vacation home, Katha, a woman in late middle age, tries to cope with an influx of discontented, disconnected relatives. Her divorced daughter brings all sorts of people to the house, including a woman-friend accompanied by her psychotic son; the grandfather of the house is convinced he is dying and is satisfied by nothing; and some friends drop off their angry teenage son to stay with her, while they go on a long trip abroad. Her friend Emma doesn't help much with keeping a lid on things, as she is a social worker who is fascinated by the awfulness of these situations.",
+      "release_date": "1977-04-27",
+      "rating": 5.125,
+      "vote_count": 8,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/gMF5FG141ItdIbx5AvoKHmhhXyi.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gMF5FG141ItdIbx5AvoKHmhhXyi.jpg",
+      "backdrop_path": "/wx3kJkFClKfJHNfA4EB2TNLespS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/wx3kJkFClKfJHNfA4EB2TNLespS.jpg",
+      "imdb_id": "tt0076524",
+      "runtime": 113,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
     "film_id": "persona",
     "url": "https://zita.se/persona",
     "title": "Persona",
@@ -116,7 +115,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-22T08:17:01.537741+00:00",
+    "scraped_at": "2026-07-23T08:21:05.812136+00:00",
     "source": "zita",
     "tmdb": {
       "id": 797,
