@@ -27,22 +27,22 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741450+00:00",
+    "scraped_at": "2026-07-24T08:14:37.053711+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 20770,
       "title": "But I'm a Cheerleader",
       "overview": "Megan is an all-American girl. A cheerleader. She has a boyfriend. But Megan doesn't like kissing her boyfriend very much. And she's pretty touchy with her cheerleader friends. Her conservative parents worry that she must be a lesbian and send her off to \"sexual redirection\" school, where she must, with other lesbians and gays learn how to be straight.",
       "release_date": "2000-07-07",
-      "rating": 7.073,
-      "vote_count": 851,
+      "rating": 7.074,
+      "vote_count": 853,
       "genres": [
         "Comedy",
         "Drama",
         "Romance"
       ],
-      "poster_path": "/dGEwlAuzTZoZjvsqgT2MRKHnGi8.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dGEwlAuzTZoZjvsqgT2MRKHnGi8.jpg",
+      "poster_path": "/8huDg3Q0EmcWuN9HgYsO8ylAp9f.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8huDg3Q0EmcWuN9HgYsO8ylAp9f.jpg",
       "backdrop_path": "/f4ZgIaMpOWd6rewhCfoIIMqWquh.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/f4ZgIaMpOWd6rewhCfoIIMqWquh.jpg",
       "imdb_id": "tt0179116",
@@ -79,15 +79,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741486+00:00",
+    "scraped_at": "2026-07-24T08:14:37.053765+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 18415,
       "title": "Gummo",
       "overview": "Teenagers Solomon and Tummler kill time in Xenia, Ohio, a small town that has never recovered from the tornado that ravaged the community in the 1970s.",
       "release_date": "1997-10-17",
-      "rating": 6.606,
-      "vote_count": 719,
+      "rating": 6.597,
+      "vote_count": 720,
       "genres": [
         "Drama",
         "Comedy"
@@ -130,7 +130,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741502+00:00",
+    "scraped_at": "2026-07-24T08:14:37.053782+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9470,
@@ -153,6 +153,58 @@
       "runtime": 99,
       "budget": 20000000,
       "revenue": 102034104
+    }
+  },
+  {
+    "film_id": "the-boondock-saints",
+    "url": "https://www.capitolbio.se/filmer/the-boondock-saints/4477",
+    "title": "The Boondock Saints",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Kultklassiker från 1999\n\nIngår i Temat: Bad men - för vi alla älskar en riktigt bra skurk.\n\nThe Boondock Saints följer tvillingbröderna Connor och Murphy MacManus, som tar lagen i egna händer efter att de blivit vittnen till ett mord. De börjar en våldsam kampanj för att rensa Boston från brottslighet. Med en mix av svart humor och intensiv action, utforskar filmen teman om moral, rättvisa och hämnd.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4477/1920/58468f9f-cd78-4bf2-a97f-82678bc04a0c.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-12T18:00:00",
+        "display_text": "Wednesday 12 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "12.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51157",
+        "booking_id": "51157",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-12T18:00:00",
+        "normalized_date": "12.08",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-24T08:14:37.053796+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 8374,
+      "title": "The Boondock Saints",
+      "overview": "Tired of the crime overrunning the streets of Boston, Irish Catholic twin brothers Conner and Murphy are inspired by their faith to cleanse their hometown of evil with their own brand of zealous vigilante justice. As they hunt down and kill one notorious gangster after another, they become controversial folk heroes in the community. But Paul Smecker, an eccentric FBI agent, is fast closing in on their blood-soaked trail.",
+      "release_date": "1999-01-22",
+      "rating": 7.253,
+      "vote_count": 2731,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "poster_path": "/wtLUmkWg41xFLpvmUWAN1mm65f6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wtLUmkWg41xFLpvmUWAN1mm65f6.jpg",
+      "backdrop_path": "/9DNDELpVxuLJWMoomgULhhZFoHR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9DNDELpVxuLJWMoomgULhhZFoHR.jpg",
+      "imdb_id": "tt0144117",
+      "runtime": 108,
+      "budget": 6000000,
+      "revenue": 38256
     }
   },
   {
@@ -183,7 +235,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741517+00:00",
+    "scraped_at": "2026-07-24T08:14:37.053811+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 13785,
@@ -233,15 +285,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741531+00:00",
+    "scraped_at": "2026-07-24T08:14:37.053825+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11690,
       "title": "Bloodsport",
       "overview": "An American Army Major goes AWOL to Hong Kong for an outlawed martial arts contest called the Kumite.",
       "release_date": "1988-02-26",
-      "rating": 7.063,
-      "vote_count": 2201,
+      "rating": 7.062,
+      "vote_count": 2202,
       "genres": [
         "Action",
         "Thriller",
@@ -285,7 +337,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741545+00:00",
+    "scraped_at": "2026-07-24T08:14:37.053839+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8446,
@@ -336,20 +388,6 @@
         "normalized_time": "18:00"
       },
       {
-        "datetime": "2026-08-26T18:00:00",
-        "display_text": "Wednesday 26 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "26.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51813",
-        "booking_id": "51813",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-26T18:00:00",
-        "normalized_date": "26.08",
-        "normalized_time": "18:00"
-      },
-      {
         "datetime": "2026-08-29T20:30:00",
         "display_text": "Saturday 29 August 2026 at 20:30",
         "time": "20:30",
@@ -367,7 +405,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741559+00:00",
+    "scraped_at": "2026-07-24T08:14:37.053855+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
@@ -418,7 +456,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741593+00:00",
+    "scraped_at": "2026-07-24T08:14:37.053872+00:00",
     "source": "capitolbio"
   },
   {
@@ -449,7 +487,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741620+00:00",
+    "scraped_at": "2026-07-24T08:14:37.053916+00:00",
     "source": "capitolbio"
   },
   {
@@ -480,7 +518,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741634+00:00",
+    "scraped_at": "2026-07-24T08:14:37.053929+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -532,7 +570,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741648+00:00",
+    "scraped_at": "2026-07-24T08:14:37.053943+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -582,7 +620,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741664+00:00",
+    "scraped_at": "2026-07-24T08:14:37.053956+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
@@ -634,7 +672,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741677+00:00",
+    "scraped_at": "2026-07-24T08:14:37.053969+00:00",
     "source": "capitolbio"
   },
   {
@@ -665,7 +703,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741691+00:00",
+    "scraped_at": "2026-07-24T08:14:37.053982+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
@@ -716,7 +754,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741704+00:00",
+    "scraped_at": "2026-07-24T08:14:37.054001+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -737,57 +775,6 @@
       "runtime": 68,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "valley-of-the-dolls",
-    "url": "https://www.capitolbio.se/filmer/valley-of-the-dolls/4529",
-    "title": "Valley of the Dolls",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Kultklassiker fån 1967 \n\nMed Sharon Tate som en djupt olycklig partytjej som missbrukar piller. Valley of the Dolls bygger på den skandalomsusade romanen med samma namn, blev en biosuccé 1967 och har sedan dess uppnått kultstatus.\n\nBaserad på Jacqueline Susanns bok med samma namn från 1966.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4529/1920/29f611a2-0e09-4523-9c1c-20592baef959.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-15T18:00:00",
-        "display_text": "Tuesday 15 September 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "15.09",
-        "ticket_url": "https://www.capitolbio.se/boka/51705",
-        "booking_id": "51705",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-15T18:00:00",
-        "normalized_date": "15.09",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-07-23T08:19:39.741717+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 3055,
-      "title": "Valley of the Dolls",
-      "overview": "Lured by their dreams of fame and fortune, three ambitious young women enter the world of show business and discover how easy it is to sink into a celebrity nightmare of ego, alcohol and pills — the beloved \"dolls.\"",
-      "release_date": "1967-12-27",
-      "rating": 6.017,
-      "vote_count": 147,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
-      "backdrop_path": "/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
-      "imdb_id": "tt0062430",
-      "runtime": 123,
-      "budget": 5000000,
-      "revenue": 50000000
     }
   },
   {
@@ -818,15 +805,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741733+00:00",
+    "scraped_at": "2026-07-24T08:14:37.054015+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
       "title": "Fame",
       "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
       "release_date": "1980-05-16",
-      "rating": 6.4,
-      "vote_count": 509,
+      "rating": 6.438,
+      "vote_count": 510,
       "genres": [
         "Drama",
         "Music"
@@ -839,58 +826,6 @@
       "runtime": 134,
       "budget": 8500000,
       "revenue": 42000000
-    }
-  },
-  {
-    "film_id": "convoy",
-    "url": "https://www.capitolbio.se/filmer/convoy/4530",
-    "title": "Convoy",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Sam Peckinpahs klassiska road-movie \n\nEn mäktig konvoj av dammhissande lastbilar går mot en statlig linje i sydvästra Amerika. Den massiva samlingen av fordon i alla former och storlekar leds av 'Rubber Duck', en legendarisk lastbilsförare som har samlat denna enorma armé tillsammans för att protestera mot poliskorruption, federala och statliga lagar och skuggiga politik.\n\nMed Kris Kristofferson och Ali MacGraw i huvudrollerna.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4530/1920/90a7aa5c-1d0b-476f-8bff-58bfe10d2081.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-21T20:15:00",
-        "display_text": "Monday 21 September 2026 at 20:15",
-        "time": "20:15",
-        "date_section": "21.09",
-        "ticket_url": "https://www.capitolbio.se/boka/51710",
-        "booking_id": "51710",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-21T20:15:00",
-        "normalized_date": "21.09",
-        "normalized_time": "20:15"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-07-23T08:19:39.741747+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 9584,
-      "title": "Convoy",
-      "overview": "Trucker Rubber Duck and his buddies Pig Pen, Widow Woman and Spider Mike use their CB radios to warn one another of the presence of cops. But conniving Sheriff Wallace is hip to the truckers' tactics, and begins tricking the drivers through his own CB broadcasts. Facing constant harassment from the law, Rubber Duck and his pals use their radios to coordinate a vast convoy and rule the road.",
-      "release_date": "1978-06-27",
-      "rating": 6.286,
-      "vote_count": 432,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Drama"
-      ],
-      "poster_path": "/xjowoBInlikSlvfAYDRN9ubaODB.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xjowoBInlikSlvfAYDRN9ubaODB.jpg",
-      "backdrop_path": "/1AvdIZYSzPXgiDWIPldnja4awla.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1AvdIZYSzPXgiDWIPldnja4awla.jpg",
-      "imdb_id": "tt0077369",
-      "runtime": 112,
-      "budget": 12000000,
-      "revenue": 45000000
     }
   },
   {
@@ -921,7 +856,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-23T08:19:39.741761+00:00",
+    "scraped_at": "2026-07-24T08:14:37.054029+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,

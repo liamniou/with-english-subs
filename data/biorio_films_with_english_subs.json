@@ -6,65 +6,6 @@
     "director": "Sia, Daniel Askill",
     "showtimes": [
       {
-        "datetime": "2026-07-23T18:00:00.000Z",
-        "display_text": "Thursday July 23, 2026 at 18:00",
-        "movie_id": "5937",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2315",
-        "api_data": {
-          "id": 2315,
-          "movieId": 5937,
-          "movieVersionId": 635,
-          "startTime": "2026-07-23T18:00:00.000Z",
-          "endTime": "2026-07-23T19:15:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5937,
-            "title": "Sia: Nostalgic for the Present",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5937/posters/1781516079192-efabkx.avif",
-            "movieVersions": [
-              {
-                "duration": 75,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 635,
-            "duration": 75,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 15,
-          "ticketsAvailable": 165,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-07-23T18:00:00",
-        "normalized_date": "23.07",
-        "normalized_time": "18:00"
-      },
-      {
         "datetime": "2026-07-26T16:00:00.000Z",
         "display_text": "Sunday July 26, 2026 at 16:00",
         "movie_id": "5937",
@@ -127,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-23T08:18:32.413988",
+    "scraped_at": "2026-07-24T08:13:34.125782",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -220,7 +161,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-23T08:18:42.668335",
+    "scraped_at": "2026-07-24T08:13:38.643898",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -301,8 +242,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 29,
-          "ticketsAvailable": 151,
+          "ticketsSold": 32,
+          "ticketsAvailable": 148,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-01T16:10:00",
@@ -313,7 +254,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-23T08:18:48.580494",
+    "scraped_at": "2026-07-24T08:13:45.200552",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -456,8 +397,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 101,
-          "ticketsAvailable": 79,
+          "ticketsSold": 113,
+          "ticketsAvailable": 67,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -468,7 +409,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-23T08:18:55.261322",
+    "scraped_at": "2026-07-24T08:13:51.579044",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -560,7 +501,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-23T08:19:08.248540",
+    "scraped_at": "2026-07-24T08:14:04.486872",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -641,9 +582,9 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
-          "isPublished": false
+          "ticketsSold": 47,
+          "ticketsAvailable": 133,
+          "isPublished": true
         },
         "normalized_datetime": "2026-08-26T16:00:00",
         "normalized_date": "26.08",
@@ -700,9 +641,9 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
-          "isPublished": false
+          "ticketsSold": 30,
+          "ticketsAvailable": 150,
+          "isPublished": true
         },
         "normalized_datetime": "2026-08-27T18:10:00",
         "normalized_date": "27.08",
@@ -759,9 +700,9 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
-          "isPublished": false
+          "ticketsSold": 32,
+          "ticketsAvailable": 148,
+          "isPublished": true
         },
         "normalized_datetime": "2026-08-29T18:10:00",
         "normalized_date": "29.08",
@@ -771,7 +712,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-23T08:19:12.753688",
+    "scraped_at": "2026-07-24T08:14:09.353162",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -865,14 +806,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-23T08:19:15.379014",
+    "scraped_at": "2026-07-24T08:14:11.907631",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
       "title": "Songs from the Second Floor",
       "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
       "release_date": "2000-10-06",
-      "rating": 7.1,
+      "rating": 7.055,
       "vote_count": 316,
       "genres": [
         "Drama",
@@ -952,8 +893,8 @@
           "tags": [
             "Timelessfest 2026"
           ],
-          "ticketsSold": 5,
-          "ticketsAvailable": 175,
+          "ticketsSold": 7,
+          "ticketsAvailable": 173,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-03T16:00:00",
@@ -964,7 +905,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-23T08:19:18.089839",
+    "scraped_at": "2026-07-24T08:14:14.830263",
     "source": "biorio",
     "tmdb": {
       "id": 9323,

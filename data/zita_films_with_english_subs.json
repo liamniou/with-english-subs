@@ -22,15 +22,15 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-23T08:20:54.996590+00:00",
+    "scraped_at": "2026-07-24T08:15:31.602974+00:00",
     "source": "zita",
     "tmdb": {
       "id": 39833,
       "title": "Love Me Tender",
       "overview": "After the Civil War, Confederate soldiers Clint and Vance Reno steal a Union payroll, leading to conflict when the younger marries the woman his older brother loves.",
       "release_date": "1956-11-15",
-      "rating": 6.2,
-      "vote_count": 94,
+      "rating": 6.189,
+      "vote_count": 95,
       "genres": [
         "Romance",
         "Music",
@@ -70,7 +70,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-23T08:21:01.935573+00:00",
+    "scraped_at": "2026-07-24T08:15:38.487220+00:00",
     "source": "zita",
     "tmdb": {
       "id": 394968,
@@ -115,15 +115,15 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-23T08:21:05.812136+00:00",
+    "scraped_at": "2026-07-24T08:15:42.484647+00:00",
     "source": "zita",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.122,
-      "vote_count": 2433,
+      "rating": 8.123,
+      "vote_count": 2434,
       "genres": [
         "Drama"
       ],
@@ -135,6 +135,51 @@
       "runtime": 85,
       "budget": 0,
       "revenue": 250000
+    }
+  },
+  {
+    "film_id": "unknown-title",
+    "url": "https://zita.se/the-girl-on-the-motorcycle",
+    "title": "Unknown Title",
+    "director": "",
+    "genre": "",
+    "duration": "England, Frankrike196891 minNonstop EntertainmentEngelska",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "20:00",
+        "time": "20:00",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5916",
+        "normalized_datetime": "2026-07-24T20:00:00",
+        "normalized_date": "24.07",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-07-24T08:15:58.390583+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 949470,
+      "title": "Unknown Title",
+      "overview": "A short film by Andrei Ventslova",
+      "release_date": "1988-04-15",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "imdb_id": null,
+      "runtime": 1,
+      "budget": 0,
+      "revenue": 0
     }
   }
 ]
