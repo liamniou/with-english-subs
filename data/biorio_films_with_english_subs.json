@@ -56,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 17,
-          "ticketsAvailable": 163,
+          "ticketsSold": 21,
+          "ticketsAvailable": 159,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-26T16:00:00",
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-24T08:13:34.125782",
+    "scraped_at": "2026-07-25T07:55:54.756242",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -161,7 +161,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-24T08:13:38.643898",
+    "scraped_at": "2026-07-25T07:55:59.908791",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -242,8 +242,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 32,
-          "ticketsAvailable": 148,
+          "ticketsSold": 33,
+          "ticketsAvailable": 147,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-01T16:10:00",
@@ -254,7 +254,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-24T08:13:45.200552",
+    "scraped_at": "2026-07-25T07:56:07.325793",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -397,8 +397,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 113,
-          "ticketsAvailable": 67,
+          "ticketsSold": 118,
+          "ticketsAvailable": 62,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -409,7 +409,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-24T08:13:51.579044",
+    "scraped_at": "2026-07-25T07:56:15.732444",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -501,7 +501,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-24T08:14:04.486872",
+    "scraped_at": "2026-07-25T07:56:29.237952",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -582,8 +582,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 47,
-          "ticketsAvailable": 133,
+          "ticketsSold": 52,
+          "ticketsAvailable": 128,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-26T16:00:00",
@@ -641,8 +641,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 30,
-          "ticketsAvailable": 150,
+          "ticketsSold": 39,
+          "ticketsAvailable": 141,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-27T18:10:00",
@@ -700,8 +700,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 32,
-          "ticketsAvailable": 148,
+          "ticketsSold": 35,
+          "ticketsAvailable": 145,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-29T18:10:00",
@@ -712,7 +712,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-24T08:14:09.353162",
+    "scraped_at": "2026-07-25T07:56:34.424257",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -806,7 +806,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-24T08:14:11.907631",
+    "scraped_at": "2026-07-25T07:56:37.440621",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -893,8 +893,8 @@
           "tags": [
             "Timelessfest 2026"
           ],
-          "ticketsSold": 7,
-          "ticketsAvailable": 173,
+          "ticketsSold": 9,
+          "ticketsAvailable": 171,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-03T16:00:00",
@@ -905,15 +905,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-24T08:14:14.830263",
+    "scraped_at": "2026-07-25T07:56:40.390396",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
       "title": "Ghost in the Shell",
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
-      "rating": 7.927,
-      "vote_count": 3946,
+      "rating": 7.928,
+      "vote_count": 3948,
       "genres": [
         "Action",
         "Animation",

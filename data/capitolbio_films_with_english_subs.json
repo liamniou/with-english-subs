@@ -27,15 +27,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.053711+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107315+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 20770,
       "title": "But I'm a Cheerleader",
       "overview": "Megan is an all-American girl. A cheerleader. She has a boyfriend. But Megan doesn't like kissing her boyfriend very much. And she's pretty touchy with her cheerleader friends. Her conservative parents worry that she must be a lesbian and send her off to \"sexual redirection\" school, where she must, with other lesbians and gays learn how to be straight.",
       "release_date": "2000-07-07",
-      "rating": 7.074,
-      "vote_count": 853,
+      "rating": 7.077,
+      "vote_count": 854,
       "genres": [
         "Comedy",
         "Drama",
@@ -49,57 +49,6 @@
       "runtime": 85,
       "budget": 1200000,
       "revenue": 2600000
-    }
-  },
-  {
-    "film_id": "gummo",
-    "url": "https://www.capitolbio.se/filmer/gummo/4479",
-    "title": "Gummo",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Ingår i Temat: Teenage angst - the best of times, the worst of times, tonårstiden på film har alltid större känslor, coolare bilar och mer färg.\n\nHarmony Korines kultklassiker\n\nGummo tar oss med till en tråkig småstad i Ohio som alrig återhämtat sig efter en stor tornado på 1970-talet. Tonåringen Solomon och hans något äldre kompis Tummler har inget vettigare för sig än att slå ihjäl tiden och bli höga på att sniffa lim.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4479/1920/0d592fea-f902-4bb2-86e8-06404c190582.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-08-05T20:30:00",
-        "display_text": "Wednesday 5 August 2026 at 20:30",
-        "time": "20:30",
-        "date_section": "05.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51170",
-        "booking_id": "51170",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-05T20:30:00",
-        "normalized_date": "05.08",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-07-24T08:14:37.053765+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 18415,
-      "title": "Gummo",
-      "overview": "Teenagers Solomon and Tummler kill time in Xenia, Ohio, a small town that has never recovered from the tornado that ravaged the community in the 1970s.",
-      "release_date": "1997-10-17",
-      "rating": 6.597,
-      "vote_count": 720,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster_path": "/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
-      "backdrop_path": "/mLdMnoIE4SjMkTkgxayaHH9DS4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mLdMnoIE4SjMkTkgxayaHH9DS4.jpg",
-      "imdb_id": "tt0119237",
-      "runtime": 89,
-      "budget": 1300000,
-      "revenue": 116799
     }
   },
   {
@@ -130,7 +79,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.053782+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107364+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9470,
@@ -183,7 +132,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.053796+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107382+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8374,
@@ -235,20 +184,20 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.053811+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107398+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 13785,
       "title": "Best in Show",
       "overview": "The tension is palpable, the excitement is mounting and the heady scent of competition is in the air as hundreds of eager contestants from across America prepare to take part in what is undoubtedly one of the greatest events of their lives -- the Mayflower Dog Show. The canine contestants and their owners are as wondrously diverse as the great country that has bred them.",
       "release_date": "2000-09-29",
-      "rating": 6.893,
+      "rating": 6.9,
       "vote_count": 683,
       "genres": [
         "Comedy"
       ],
-      "poster_path": "/qkYBCMN26SxkQww4gLxUXQm5vr4.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qkYBCMN26SxkQww4gLxUXQm5vr4.jpg",
+      "poster_path": "/2SqHjWWqfJjQE6zLCbQR9HMla4Q.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2SqHjWWqfJjQE6zLCbQR9HMla4Q.jpg",
       "backdrop_path": "/itVxHnmzMJbfHhX3rbzCuyI9mfB.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/itVxHnmzMJbfHhX3rbzCuyI9mfB.jpg",
       "imdb_id": "tt0218839",
@@ -285,15 +234,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.053825+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107414+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11690,
       "title": "Bloodsport",
       "overview": "An American Army Major goes AWOL to Hong Kong for an outlawed martial arts contest called the Kumite.",
       "release_date": "1988-02-26",
-      "rating": 7.062,
-      "vote_count": 2202,
+      "rating": 7.064,
+      "vote_count": 2203,
       "genres": [
         "Action",
         "Thriller",
@@ -337,7 +286,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.053839+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107430+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8446,
@@ -388,6 +337,20 @@
         "normalized_time": "18:00"
       },
       {
+        "datetime": "2026-08-26T18:00:00",
+        "display_text": "Wednesday 26 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "26.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51813",
+        "booking_id": "51813",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-26T18:00:00",
+        "normalized_date": "26.08",
+        "normalized_time": "18:00"
+      },
+      {
         "datetime": "2026-08-29T20:30:00",
         "display_text": "Saturday 29 August 2026 at 20:30",
         "time": "20:30",
@@ -405,7 +368,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.053855+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107445+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
@@ -456,7 +419,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.053872+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107482+00:00",
     "source": "capitolbio"
   },
   {
@@ -487,7 +450,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.053916+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107511+00:00",
     "source": "capitolbio"
   },
   {
@@ -518,7 +481,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.053929+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107527+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -570,7 +533,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.053943+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107541+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -620,7 +583,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.053956+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107559+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
@@ -672,7 +635,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.053969+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107595+00:00",
     "source": "capitolbio"
   },
   {
@@ -703,14 +666,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.053982+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107611+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
       "title": "Salò, or the 120 Days of Sodom",
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
-      "rating": 6.345,
+      "rating": 6.3,
       "vote_count": 2323,
       "genres": [
         "Horror",
@@ -754,7 +717,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.054001+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107626+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -805,7 +768,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.054015+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107641+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
@@ -856,7 +819,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-24T08:14:37.054029+00:00",
+    "scraped_at": "2026-07-25T07:57:04.107659+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
