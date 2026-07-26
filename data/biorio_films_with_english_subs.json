@@ -56,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 21,
-          "ticketsAvailable": 159,
+          "ticketsSold": 26,
+          "ticketsAvailable": 154,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-26T16:00:00",
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-25T07:55:54.756242",
+    "scraped_at": "2026-07-26T08:13:48.583081",
     "source": "biorio",
     "tmdb": {
       "id": 1712586,
@@ -149,8 +149,8 @@
           "tags": [
             "Pride"
           ],
-          "ticketsSold": 22,
-          "ticketsAvailable": 158,
+          "ticketsSold": 30,
+          "ticketsAvailable": 150,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-28T18:15:00",
@@ -161,14 +161,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-25T07:55:59.908791",
+    "scraped_at": "2026-07-26T08:13:52.968325",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
       "title": "Show Me Love",
       "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
       "release_date": "1998-10-23",
-      "rating": 7.076,
+      "rating": 7.1,
       "vote_count": 599,
       "genres": [
         "Comedy",
@@ -254,7 +254,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-25T07:56:07.325793",
+    "scraped_at": "2026-07-26T08:14:00.044550",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -336,8 +336,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 175,
-          "ticketsAvailable": 5,
+          "ticketsSold": 176,
+          "ticketsAvailable": 4,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -409,15 +409,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-25T07:56:15.732444",
+    "scraped_at": "2026-07-26T08:14:06.506590",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
       "title": "The Room",
       "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
       "release_date": "2003-06-27",
-      "rating": 3.995,
-      "vote_count": 1542,
+      "rating": 3.994,
+      "vote_count": 1543,
       "genres": [
         "Drama",
         "Romance"
@@ -501,15 +501,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-25T07:56:29.237952",
+    "scraped_at": "2026-07-26T08:14:18.200076",
     "source": "biorio",
     "tmdb": {
       "id": 144,
       "title": "Wings of Desire",
       "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
       "release_date": "1987-09-23",
-      "rating": 7.758,
-      "vote_count": 1507,
+      "rating": 7.757,
+      "vote_count": 1508,
       "genres": [
         "Drama",
         "Fantasy",
@@ -641,8 +641,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 39,
-          "ticketsAvailable": 141,
+          "ticketsSold": 45,
+          "ticketsAvailable": 135,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-27T18:10:00",
@@ -700,8 +700,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 35,
-          "ticketsAvailable": 145,
+          "ticketsSold": 43,
+          "ticketsAvailable": 137,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-29T18:10:00",
@@ -712,7 +712,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-25T07:56:34.424257",
+    "scraped_at": "2026-07-26T08:14:22.467797",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -806,7 +806,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-25T07:56:37.440621",
+    "scraped_at": "2026-07-26T08:14:24.858257",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -905,15 +905,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-25T07:56:40.390396",
+    "scraped_at": "2026-07-26T08:14:27.984857",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
       "title": "Ghost in the Shell",
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
-      "rating": 7.928,
-      "vote_count": 3948,
+      "rating": 7.927,
+      "vote_count": 3950,
       "genres": [
         "Action",
         "Animation",
