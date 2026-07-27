@@ -22,15 +22,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-07-26T08:15:05.742707+00:00",
+    "scraped_at": "2026-07-27T09:39:16.405050+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.1,
-      "vote_count": 2436,
+      "rating": 8.119,
+      "vote_count": 2438,
       "genres": [
         "Drama"
       ],
@@ -67,7 +67,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-07-26T08:15:05.743343+00:00",
+    "scraped_at": "2026-07-27T09:39:16.405699+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -75,7 +75,7 @@
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
       "rating": 7.62,
-      "vote_count": 4514,
+      "vote_count": 4516,
       "genres": [
         "Comedy",
         "Romance",

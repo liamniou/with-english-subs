@@ -1,96 +1,5 @@
 [
   {
-    "film_id": "sia-nostalgic-for-the-present",
-    "url": "https://www.biorio.se/sv/filmer/sia-nostalgic-for-the-present",
-    "title": "Sia: Nostalgic for the Present",
-    "director": "Sia, Daniel Askill",
-    "showtimes": [
-      {
-        "datetime": "2026-07-26T16:00:00.000Z",
-        "display_text": "Sunday July 26, 2026 at 16:00",
-        "movie_id": "5937",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2316",
-        "api_data": {
-          "id": 2316,
-          "movieId": 5937,
-          "movieVersionId": 635,
-          "startTime": "2026-07-26T16:00:00.000Z",
-          "endTime": "2026-07-26T17:15:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5937,
-            "title": "Sia: Nostalgic for the Present",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5937/posters/1781516079192-efabkx.avif",
-            "movieVersions": [
-              {
-                "duration": 75,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 635,
-            "duration": 75,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 26,
-          "ticketsAvailable": 154,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-07-26T16:00:00",
-        "normalized_date": "26.07",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-07-26T08:13:48.583081",
-    "source": "biorio",
-    "tmdb": {
-      "id": 1712586,
-      "title": "Sia: Nostalgic for the Present",
-      "overview": "A bold experience that challenges the genre that trades pop poetry for pure art. Impressive voices, impressive choreography and iconic performances, captured cinematically and sounded by an unparalleled catalog of hits.",
-      "release_date": "2026-07-23",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Music"
-      ],
-      "poster_path": "/tJrqV5b12HbpNNDrA7Trc5mErGJ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tJrqV5b12HbpNNDrA7Trc5mErGJ.jpg",
-      "backdrop_path": "/qwH3emiVY02kXJjBmuMGpmrQnCT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qwH3emiVY02kXJjBmuMGpmrQnCT.jpg",
-      "imdb_id": "tt43465871",
-      "runtime": 75,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "fucking-amal",
     "url": "https://www.biorio.se/sv/filmer/fucking-amal",
     "title": "Fucking Åmål",
@@ -149,8 +58,8 @@
           "tags": [
             "Pride"
           ],
-          "ticketsSold": 30,
-          "ticketsAvailable": 150,
+          "ticketsSold": 39,
+          "ticketsAvailable": 141,
           "isPublished": true
         },
         "normalized_datetime": "2026-07-28T18:15:00",
@@ -161,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-26T08:13:52.968325",
+    "scraped_at": "2026-07-27T09:37:46.726757",
     "source": "biorio",
     "tmdb": {
       "id": 11634,
@@ -242,8 +151,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 33,
-          "ticketsAvailable": 147,
+          "ticketsSold": 35,
+          "ticketsAvailable": 145,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-01T16:10:00",
@@ -254,7 +163,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-26T08:14:00.044550",
+    "scraped_at": "2026-07-27T09:37:53.720283",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -336,8 +245,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 176,
-          "ticketsAvailable": 4,
+          "ticketsSold": 177,
+          "ticketsAvailable": 3,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T15:30:00",
@@ -397,8 +306,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 118,
-          "ticketsAvailable": 62,
+          "ticketsSold": 121,
+          "ticketsAvailable": 59,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -409,15 +318,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-26T08:14:06.506590",
+    "scraped_at": "2026-07-27T09:38:01.518230",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
       "title": "The Room",
       "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
       "release_date": "2003-06-27",
-      "rating": 3.994,
-      "vote_count": 1543,
+      "rating": 3.998,
+      "vote_count": 1544,
       "genres": [
         "Drama",
         "Romance"
@@ -501,15 +410,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-26T08:14:18.200076",
+    "scraped_at": "2026-07-27T09:38:16.949276",
     "source": "biorio",
     "tmdb": {
       "id": 144,
       "title": "Wings of Desire",
       "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
       "release_date": "1987-09-23",
-      "rating": 7.757,
-      "vote_count": 1508,
+      "rating": 7.759,
+      "vote_count": 1509,
       "genres": [
         "Drama",
         "Fantasy",
@@ -582,8 +491,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 52,
-          "ticketsAvailable": 128,
+          "ticketsSold": 53,
+          "ticketsAvailable": 127,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-26T16:00:00",
@@ -641,8 +550,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 45,
-          "ticketsAvailable": 135,
+          "ticketsSold": 47,
+          "ticketsAvailable": 133,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-27T18:10:00",
@@ -712,7 +621,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-26T08:14:22.467797",
+    "scraped_at": "2026-07-27T09:38:22.300908",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -806,7 +715,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-26T08:14:24.858257",
+    "scraped_at": "2026-07-27T09:38:25.385897",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -905,15 +814,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-26T08:14:27.984857",
+    "scraped_at": "2026-07-27T09:38:28.907192",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
       "title": "Ghost in the Shell",
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
-      "rating": 7.927,
-      "vote_count": 3950,
+      "rating": 7.925,
+      "vote_count": 3954,
       "genres": [
         "Action",
         "Animation",

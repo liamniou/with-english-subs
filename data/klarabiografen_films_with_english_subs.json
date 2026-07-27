@@ -26,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-26T08:15:07.256797+00:00",
+    "scraped_at": "2026-07-27T09:39:18.386973+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1454209,
@@ -75,7 +75,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-26T08:15:07.256851+00:00",
+    "scraped_at": "2026-07-27T09:39:18.387026+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1430053,
@@ -124,7 +124,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-26T08:15:07.256970+00:00",
+    "scraped_at": "2026-07-27T09:39:18.387154+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 45166,
@@ -173,7 +173,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-26T08:15:07.257097+00:00",
+    "scraped_at": "2026-07-27T09:39:18.387307+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 435217,
@@ -222,7 +222,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-26T08:15:07.257258+00:00",
+    "scraped_at": "2026-07-27T09:39:18.387475+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 692562,
@@ -284,7 +284,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-26T08:15:07.257320+00:00",
+    "scraped_at": "2026-07-27T09:39:18.387534+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
@@ -334,7 +334,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-26T08:15:07.257359+00:00",
+    "scraped_at": "2026-07-27T09:39:18.387574+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1679401,
@@ -354,6 +354,69 @@
       "backdrop_url": null,
       "imdb_id": null,
       "runtime": 141,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "misanthrope-national-theatre",
+    "url": "https://kulturhusetstadsteatern.se/bio/misanthrope-national-theatre",
+    "title": "The Misanthrope (National Theatre)",
+    "director": "",
+    "duration": "2 tim 30 min",
+    "language": "",
+    "description": "Sandra Oh briljerar i titelrollen i denna skarpa och moderna nytolkning av Molières klassiska komedi. En intelligent och tankeväckande föreställning om sanning, makt och priset för att säga vad man tycker.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-06/the-misanthrope-national-theatre-sandra-oh.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-02T18:00:00+02:00",
+        "display_text": "Friday 2 October 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "02.10",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31914/129933/",
+        "tix_event_id": 129933,
+        "tix_event_group_id": 31914,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-10-02T18:00:00",
+        "normalized_date": "02.10",
+        "normalized_time": "18:00"
+      },
+      {
+        "datetime": "2027-01-08T18:00:00+01:00",
+        "display_text": "Friday 8 January 2027 at 18:00",
+        "time": "18:00",
+        "date_section": "08.01",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31914/129932/",
+        "tix_event_id": 129932,
+        "tix_event_group_id": 31914,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2027-01-08T18:00:00",
+        "normalized_date": "08.01.2027",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-07-27T09:39:18.387670+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 511684,
+      "title": "The Misanthrope",
+      "overview": "This television film records Ingmar Bergman’s Copenhagen stage production of Molière’s The Misanthrope, presented as a guest performance at the Royal Danish Theatre. The play centers on Alceste, a man who rejects social hypocrisy and flattery, whose rigid principles are tested by his love for the socially adept Célimène.",
+      "release_date": "1974-05-10",
+      "rating": 6.75,
+      "vote_count": 4,
+      "genres": [
+        "Comedy",
+        "TV Movie"
+      ],
+      "poster_path": "/ju8DRMBUnDOxpnIj47hsZasBSt1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ju8DRMBUnDOxpnIj47hsZasBSt1.jpg",
+      "backdrop_path": "/x7oPJoXAnGlWZhzDl7CqGvQcguU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/x7oPJoXAnGlWZhzDl7CqGvQcguU.jpg",
+      "imdb_id": "tt0184741",
+      "runtime": 115,
       "budget": 0,
       "revenue": 0
     }
@@ -385,7 +448,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-26T08:15:07.257588+00:00",
+    "scraped_at": "2026-07-27T09:39:18.387793+00:00",
     "source": "klarabiografen"
   },
   {
@@ -415,7 +478,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-26T08:15:07.257753+00:00",
+    "scraped_at": "2026-07-27T09:39:18.387973+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -465,7 +528,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-26T08:15:07.257964+00:00",
+    "scraped_at": "2026-07-27T09:39:18.388191+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -515,7 +578,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-07-26T08:15:07.258060+00:00",
+    "scraped_at": "2026-07-27T09:39:18.388291+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1422112,

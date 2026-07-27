@@ -27,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878148+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894310+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 20770,
@@ -35,7 +35,7 @@
       "overview": "Megan is an all-American girl. A cheerleader. She has a boyfriend. But Megan doesn't like kissing her boyfriend very much. And she's pretty touchy with her cheerleader friends. Her conservative parents worry that she must be a lesbian and send her off to \"sexual redirection\" school, where she must, with other lesbians and gays learn how to be straight.",
       "release_date": "2000-07-07",
       "rating": 7.1,
-      "vote_count": 855,
+      "vote_count": 856,
       "genres": [
         "Comedy",
         "Drama",
@@ -79,7 +79,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878204+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894365+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 18415,
@@ -130,15 +130,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878223+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894388+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9470,
       "title": "Kung Fu Hustle",
       "overview": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
       "release_date": "2004-02-10",
-      "rating": 7.509,
-      "vote_count": 3251,
+      "rating": 7.51,
+      "vote_count": 3253,
       "genres": [
         "Action",
         "Comedy",
@@ -153,6 +153,58 @@
       "runtime": 99,
       "budget": 20000000,
       "revenue": 102034104
+    }
+  },
+  {
+    "film_id": "the-boondock-saints",
+    "url": "https://www.capitolbio.se/filmer/the-boondock-saints/4477",
+    "title": "The Boondock Saints",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Kultklassiker från 1999\n\nIngår i Temat: Bad men - för vi alla älskar en riktigt bra skurk.\n\nThe Boondock Saints följer tvillingbröderna Connor och Murphy MacManus, som tar lagen i egna händer efter att de blivit vittnen till ett mord. De börjar en våldsam kampanj för att rensa Boston från brottslighet. Med en mix av svart humor och intensiv action, utforskar filmen teman om moral, rättvisa och hämnd.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4477/1920/58468f9f-cd78-4bf2-a97f-82678bc04a0c.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-12T18:00:00",
+        "display_text": "Wednesday 12 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "12.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51157",
+        "booking_id": "51157",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-12T18:00:00",
+        "normalized_date": "12.08",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-07-27T09:38:53.894415+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 8374,
+      "title": "The Boondock Saints",
+      "overview": "Tired of the crime overrunning the streets of Boston, Irish Catholic twin brothers Conner and Murphy are inspired by their faith to cleanse their hometown of evil with their own brand of zealous vigilante justice. As they hunt down and kill one notorious gangster after another, they become controversial folk heroes in the community. But Paul Smecker, an eccentric FBI agent, is fast closing in on their blood-soaked trail.",
+      "release_date": "1999-01-22",
+      "rating": 7.251,
+      "vote_count": 2732,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "poster_path": "/wtLUmkWg41xFLpvmUWAN1mm65f6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wtLUmkWg41xFLpvmUWAN1mm65f6.jpg",
+      "backdrop_path": "/9DNDELpVxuLJWMoomgULhhZFoHR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9DNDELpVxuLJWMoomgULhhZFoHR.jpg",
+      "imdb_id": "tt0144117",
+      "runtime": 108,
+      "budget": 6000000,
+      "revenue": 38256
     }
   },
   {
@@ -183,7 +235,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878239+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894436+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 13785,
@@ -233,15 +285,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878255+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894456+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11690,
       "title": "Bloodsport",
       "overview": "An American Army Major goes AWOL to Hong Kong for an outlawed martial arts contest called the Kumite.",
       "release_date": "1988-02-26",
-      "rating": 7.063,
-      "vote_count": 2205,
+      "rating": 7.065,
+      "vote_count": 2206,
       "genres": [
         "Action",
         "Thriller",
@@ -285,7 +337,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878271+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894476+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8446,
@@ -336,20 +388,6 @@
         "normalized_time": "18:00"
       },
       {
-        "datetime": "2026-08-26T18:00:00",
-        "display_text": "Wednesday 26 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "26.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51813",
-        "booking_id": "51813",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-26T18:00:00",
-        "normalized_date": "26.08",
-        "normalized_time": "18:00"
-      },
-      {
         "datetime": "2026-08-29T20:30:00",
         "display_text": "Saturday 29 August 2026 at 20:30",
         "time": "20:30",
@@ -367,7 +405,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878287+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894499+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
@@ -418,7 +456,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878324+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894524+00:00",
     "source": "capitolbio"
   },
   {
@@ -449,7 +487,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878354+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894561+00:00",
     "source": "capitolbio"
   },
   {
@@ -480,7 +518,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878369+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894581+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -532,7 +570,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878384+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894600+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -582,7 +620,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878401+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894624+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
@@ -634,7 +672,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878416+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894643+00:00",
     "source": "capitolbio"
   },
   {
@@ -665,7 +703,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878431+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894662+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
@@ -716,14 +754,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878482+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894681+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
       "title": "Duck Soup",
       "overview": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
       "release_date": "1933-11-12",
-      "rating": 7.318,
+      "rating": 7.3,
       "vote_count": 869,
       "genres": [
         "Comedy",
@@ -767,7 +805,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878499+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894700+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3055,
@@ -818,15 +856,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878518+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894724+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
       "title": "Fame",
       "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
       "release_date": "1980-05-16",
-      "rating": 6.443,
-      "vote_count": 511,
+      "rating": 6.433,
+      "vote_count": 518,
       "genres": [
         "Drama",
         "Music"
@@ -869,7 +907,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878533+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894743+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9584,
@@ -921,15 +959,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-26T08:14:49.878548+00:00",
+    "scraped_at": "2026-07-27T09:38:53.894762+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
       "title": "Kickboxer",
       "overview": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
       "release_date": "1989-04-20",
-      "rating": 6.841,
-      "vote_count": 1591,
+      "rating": 6.843,
+      "vote_count": 1592,
       "genres": [
         "Action",
         "Thriller",

@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-26T08:16:02.218394+00:00",
+    "scraped_at": "2026-07-27T09:40:23.139877+00:00",
     "source": "zita",
     "tmdb": {
       "id": 39833,
@@ -70,7 +70,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-26T08:16:08.884082+00:00",
+    "scraped_at": "2026-07-27T09:40:31.464263+00:00",
     "source": "zita",
     "tmdb": {
       "id": 394968,
@@ -115,15 +115,15 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-26T08:16:12.733637+00:00",
+    "scraped_at": "2026-07-27T09:40:36.070985+00:00",
     "source": "zita",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.1,
-      "vote_count": 2436,
+      "rating": 8.119,
+      "vote_count": 2438,
       "genres": [
         "Drama"
       ],
@@ -135,52 +135,6 @@
       "runtime": 85,
       "budget": 0,
       "revenue": 250000
-    }
-  },
-  {
-    "film_id": "sommarlek",
-    "url": "https://zita.se/sommarlek",
-    "title": "Sommarlek",
-    "director": "",
-    "genre": "Sverige19511 jan 195192 minDramaSvenskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "20:00",
-        "time": "20:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3112",
-        "normalized_datetime": "2026-07-26T20:00:00",
-        "normalized_date": "26.07",
-        "normalized_time": "20:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-07-26T08:16:22.903076+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 47473,
-      "title": "Summer Interlude",
-      "overview": "During a brief summer vacation, a lonely woman recalls her first love thirteen years earlier.",
-      "release_date": "1951-10-01",
-      "rating": 7.357,
-      "vote_count": 175,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/3Yl2nPAzBcygds63L6yf4g7I2k8.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3Yl2nPAzBcygds63L6yf4g7I2k8.jpg",
-      "backdrop_path": "/UfbtXEm4FopWpqBZVLOCOMjsnr.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/UfbtXEm4FopWpqBZVLOCOMjsnr.jpg",
-      "imdb_id": "tt0044060",
-      "runtime": 96,
-      "budget": 0,
-      "revenue": 0
     }
   }
 ]
