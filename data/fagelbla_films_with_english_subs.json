@@ -22,15 +22,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-07-27T09:39:16.405050+00:00",
+    "scraped_at": "2026-07-28T08:23:06.844781+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.119,
-      "vote_count": 2438,
+      "rating": 8.12,
+      "vote_count": 2439,
       "genres": [
         "Drama"
       ],
@@ -67,7 +67,100 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-07-27T09:39:16.405699+00:00",
+    "scraped_at": "2026-07-28T08:23:06.845381+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 164,
+      "title": "Breakfast at Tiffany's",
+      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+      "release_date": "1961-10-06",
+      "rating": 7.62,
+      "vote_count": 4516,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "imdb_id": "tt0054698",
+      "runtime": 115,
+      "budget": 2500000,
+      "revenue": 9500000
+    }
+  },
+  {
+    "film_id": "det-sjunde-inseglet",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Det sjunde inseglet",
+    "director": "Ingmar Bergman",
+    "duration": "1h 36 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-08-17T17:45:00+02:00",
+        "display_text": "Måndag, 17th Augusti 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 17th Augusti",
+        "ticket_url": "https://biofagelbla.se/movie/det-sjunde-inseglet/?showtime=58271",
+        "showtime_id": "58271",
+        "normalized_datetime": "2026-08-17T17:45:00",
+        "normalized_date": "17.08",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-07-28T08:23:06.846484+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 490,
+      "title": "The Seventh Seal",
+      "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+      "release_date": "1957-02-16",
+      "rating": 8.142,
+      "vote_count": 3389,
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "poster_path": "/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+      "backdrop_path": "/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
+      "imdb_id": "tt0050976",
+      "runtime": 96,
+      "budget": 150000,
+      "revenue": 311212
+    }
+  },
+  {
+    "film_id": "breakfast-at-tiffanys",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Breakfast at Tiffany’s",
+    "director": "Blake Edwards",
+    "duration": "1h 55 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-09-05T10:30:00+02:00",
+        "display_text": "Lördag, 5th September 10:30",
+        "time": "10:30",
+        "date_section": "Lördag, 5th September",
+        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=58275",
+        "showtime_id": "58275",
+        "normalized_datetime": "2026-09-05T10:30:00",
+        "normalized_date": "05.09",
+        "normalized_time": "10:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-07-28T08:23:06.847034+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,

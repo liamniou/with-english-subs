@@ -27,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894310+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913188+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 20770,
@@ -49,57 +49,6 @@
       "runtime": 85,
       "budget": 1200000,
       "revenue": 2600000
-    }
-  },
-  {
-    "film_id": "gummo",
-    "url": "https://www.capitolbio.se/filmer/gummo/4479",
-    "title": "Gummo",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Ingår i Temat: Teenage angst - the best of times, the worst of times, tonårstiden på film har alltid större känslor, coolare bilar och mer färg.\n\nHarmony Korines kultklassiker\n\nGummo tar oss med till en tråkig småstad i Ohio som alrig återhämtat sig efter en stor tornado på 1970-talet. Tonåringen Solomon och hans något äldre kompis Tummler har inget vettigare för sig än att slå ihjäl tiden och bli höga på att sniffa lim.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4479/1920/0d592fea-f902-4bb2-86e8-06404c190582.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-08-05T20:30:00",
-        "display_text": "Wednesday 5 August 2026 at 20:30",
-        "time": "20:30",
-        "date_section": "05.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51170",
-        "booking_id": "51170",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-05T20:30:00",
-        "normalized_date": "05.08",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-07-27T09:38:53.894365+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 18415,
-      "title": "Gummo",
-      "overview": "Teenagers Solomon and Tummler kill time in Xenia, Ohio, a small town that has never recovered from the tornado that ravaged the community in the 1970s.",
-      "release_date": "1997-10-17",
-      "rating": 6.6,
-      "vote_count": 720,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster_path": "/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
-      "backdrop_path": "/mLdMnoIE4SjMkTkgxayaHH9DS4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mLdMnoIE4SjMkTkgxayaHH9DS4.jpg",
-      "imdb_id": "tt0119237",
-      "runtime": 89,
-      "budget": 1300000,
-      "revenue": 116799
     }
   },
   {
@@ -130,14 +79,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894388+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913240+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9470,
       "title": "Kung Fu Hustle",
       "overview": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
       "release_date": "2004-02-10",
-      "rating": 7.51,
+      "rating": 7.509,
       "vote_count": 3253,
       "genres": [
         "Action",
@@ -183,7 +132,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894415+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913286+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8374,
@@ -191,7 +140,7 @@
       "overview": "Tired of the crime overrunning the streets of Boston, Irish Catholic twin brothers Conner and Murphy are inspired by their faith to cleanse their hometown of evil with their own brand of zealous vigilante justice. As they hunt down and kill one notorious gangster after another, they become controversial folk heroes in the community. But Paul Smecker, an eccentric FBI agent, is fast closing in on their blood-soaked trail.",
       "release_date": "1999-01-22",
       "rating": 7.251,
-      "vote_count": 2732,
+      "vote_count": 2733,
       "genres": [
         "Action",
         "Thriller",
@@ -235,7 +184,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894436+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913306+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 13785,
@@ -285,15 +234,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894456+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913323+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11690,
       "title": "Bloodsport",
       "overview": "An American Army Major goes AWOL to Hong Kong for an outlawed martial arts contest called the Kumite.",
       "release_date": "1988-02-26",
-      "rating": 7.065,
-      "vote_count": 2206,
+      "rating": 7.064,
+      "vote_count": 2207,
       "genres": [
         "Action",
         "Thriller",
@@ -337,7 +286,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894476+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913338+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8446,
@@ -388,6 +337,20 @@
         "normalized_time": "18:00"
       },
       {
+        "datetime": "2026-08-26T18:00:00",
+        "display_text": "Wednesday 26 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "26.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51813",
+        "booking_id": "51813",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-26T18:00:00",
+        "normalized_date": "26.08",
+        "normalized_time": "18:00"
+      },
+      {
         "datetime": "2026-08-29T20:30:00",
         "display_text": "Saturday 29 August 2026 at 20:30",
         "time": "20:30",
@@ -405,7 +368,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894499+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913353+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
@@ -456,7 +419,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894524+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913388+00:00",
     "source": "capitolbio"
   },
   {
@@ -487,7 +450,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894561+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913416+00:00",
     "source": "capitolbio"
   },
   {
@@ -518,7 +481,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894581+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913431+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -570,7 +533,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894600+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913445+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -620,15 +583,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894624+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913462+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
       "title": "Cabaret",
       "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
       "release_date": "1972-02-13",
-      "rating": 7.426,
-      "vote_count": 990,
+      "rating": 7.427,
+      "vote_count": 991,
       "genres": [
         "Music",
         "Romance",
@@ -672,7 +635,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894643+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913479+00:00",
     "source": "capitolbio"
   },
   {
@@ -703,15 +666,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894662+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913492+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
       "title": "Salò, or the 120 Days of Sodom",
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
-      "rating": 6.3,
-      "vote_count": 2323,
+      "rating": 6.344,
+      "vote_count": 2324,
       "genres": [
         "Horror",
         "Drama"
@@ -754,7 +717,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894681+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913506+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -775,57 +738,6 @@
       "runtime": 68,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "valley-of-the-dolls",
-    "url": "https://www.capitolbio.se/filmer/valley-of-the-dolls/4529",
-    "title": "Valley of the Dolls",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Kultklassiker fån 1967 \n\nMed Sharon Tate som en djupt olycklig partytjej som missbrukar piller. Valley of the Dolls bygger på den skandalomsusade romanen med samma namn, blev en biosuccé 1967 och har sedan dess uppnått kultstatus.\n\nBaserad på Jacqueline Susanns bok med samma namn från 1966.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4529/1920/29f611a2-0e09-4523-9c1c-20592baef959.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-15T18:00:00",
-        "display_text": "Tuesday 15 September 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "15.09",
-        "ticket_url": "https://www.capitolbio.se/boka/51705",
-        "booking_id": "51705",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-15T18:00:00",
-        "normalized_date": "15.09",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-07-27T09:38:53.894700+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 3055,
-      "title": "Valley of the Dolls",
-      "overview": "Lured by their dreams of fame and fortune, three ambitious young women enter the world of show business and discover how easy it is to sink into a celebrity nightmare of ego, alcohol and pills — the beloved \"dolls.\"",
-      "release_date": "1967-12-27",
-      "rating": 6.0,
-      "vote_count": 148,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
-      "backdrop_path": "/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
-      "imdb_id": "tt0062430",
-      "runtime": 123,
-      "budget": 5000000,
-      "revenue": 50000000
     }
   },
   {
@@ -856,15 +768,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894724+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913520+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
       "title": "Fame",
       "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
       "release_date": "1980-05-16",
-      "rating": 6.433,
-      "vote_count": 518,
+      "rating": 6.4,
+      "vote_count": 519,
       "genres": [
         "Drama",
         "Music"
@@ -877,58 +789,6 @@
       "runtime": 134,
       "budget": 8500000,
       "revenue": 42000000
-    }
-  },
-  {
-    "film_id": "convoy",
-    "url": "https://www.capitolbio.se/filmer/convoy/4530",
-    "title": "Convoy",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Sam Peckinpahs klassiska road-movie \n\nEn mäktig konvoj av dammhissande lastbilar går mot en statlig linje i sydvästra Amerika. Den massiva samlingen av fordon i alla former och storlekar leds av 'Rubber Duck', en legendarisk lastbilsförare som har samlat denna enorma armé tillsammans för att protestera mot poliskorruption, federala och statliga lagar och skuggiga politik.\n\nMed Kris Kristofferson och Ali MacGraw i huvudrollerna.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4530/1920/90a7aa5c-1d0b-476f-8bff-58bfe10d2081.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-21T20:15:00",
-        "display_text": "Monday 21 September 2026 at 20:15",
-        "time": "20:15",
-        "date_section": "21.09",
-        "ticket_url": "https://www.capitolbio.se/boka/51710",
-        "booking_id": "51710",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-21T20:15:00",
-        "normalized_date": "21.09",
-        "normalized_time": "20:15"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-07-27T09:38:53.894743+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 9584,
-      "title": "Convoy",
-      "overview": "Trucker Rubber Duck and his buddies Pig Pen, Widow Woman and Spider Mike use their CB radios to warn one another of the presence of cops. But conniving Sheriff Wallace is hip to the truckers' tactics, and begins tricking the drivers through his own CB broadcasts. Facing constant harassment from the law, Rubber Duck and his pals use their radios to coordinate a vast convoy and rule the road.",
-      "release_date": "1978-06-27",
-      "rating": 6.286,
-      "vote_count": 432,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Drama"
-      ],
-      "poster_path": "/xjowoBInlikSlvfAYDRN9ubaODB.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xjowoBInlikSlvfAYDRN9ubaODB.jpg",
-      "backdrop_path": "/1AvdIZYSzPXgiDWIPldnja4awla.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1AvdIZYSzPXgiDWIPldnja4awla.jpg",
-      "imdb_id": "tt0077369",
-      "runtime": 112,
-      "budget": 12000000,
-      "revenue": 45000000
     }
   },
   {
@@ -959,15 +819,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-27T09:38:53.894762+00:00",
+    "scraped_at": "2026-07-28T08:22:53.913537+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
       "title": "Kickboxer",
       "overview": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
       "release_date": "1989-04-20",
-      "rating": 6.843,
-      "vote_count": 1592,
+      "rating": 6.841,
+      "vote_count": 1594,
       "genres": [
         "Action",
         "Thriller",
