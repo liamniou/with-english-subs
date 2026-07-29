@@ -9,9 +9,9 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "i morgon 18:00",
+        "display_text": "18:00",
         "time": "18:00",
-        "date": "i morgon",
+        "date": "",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5858",
         "normalized_datetime": "2026-07-29T18:00:00",
@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-28T08:23:45.774088+00:00",
+    "scraped_at": "2026-07-29T08:30:42.050565+00:00",
     "source": "zita",
     "tmdb": {
       "id": 39833,
@@ -70,7 +70,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-28T08:23:51.534684+00:00",
+    "scraped_at": "2026-07-29T08:30:46.152803+00:00",
     "source": "zita",
     "tmdb": {
       "id": 394968,
@@ -115,14 +115,14 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-28T08:23:55.428027+00:00",
+    "scraped_at": "2026-07-29T08:30:48.806172+00:00",
     "source": "zita",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.12,
+      "rating": 8.1,
       "vote_count": 2439,
       "genres": [
         "Drama"

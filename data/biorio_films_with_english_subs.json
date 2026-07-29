@@ -1,100 +1,5 @@
 [
   {
-    "film_id": "fucking-amal",
-    "url": "https://www.biorio.se/sv/filmer/fucking-amal",
-    "title": "Fucking Åmål",
-    "director": "Lukas Moodysson",
-    "showtimes": [
-      {
-        "datetime": "2026-07-28T18:15:00.000Z",
-        "display_text": "Tuesday July 28, 2026 at 18:15",
-        "movie_id": "5915",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2224",
-        "api_data": {
-          "id": 2224,
-          "movieId": 5915,
-          "movieVersionId": 614,
-          "startTime": "2026-07-28T18:15:00.000Z",
-          "endTime": "2026-07-28T19:44:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5915,
-            "title": "Fucking Åmål",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5915/posters/1779885917820-p9cm5jj.avif",
-            "movieVersions": [
-              {
-                "duration": 89,
-                "audio": "Svenska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Svenska"
-          },
-          "MovieVersion": {
-            "id": 614,
-            "duration": 89,
-            "subtitles": "Engelska",
-            "audio": "Svenska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [
-            "Pride"
-          ],
-          "ticketsSold": 48,
-          "ticketsAvailable": 132,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-07-28T18:15:00",
-        "normalized_date": "28.07",
-        "normalized_time": "18:15"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-07-28T08:21:49.783698",
-    "source": "biorio",
-    "tmdb": {
-      "id": 11634,
-      "title": "Show Me Love",
-      "overview": "Two teenage girls in small-town Sweden. Elin is beautiful, popular, and bored with life. Agnes is friendless, sad, and secretly in love with Elin.",
-      "release_date": "1998-10-23",
-      "rating": 7.1,
-      "vote_count": 599,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "poster_path": "/ek5fMfwGVTyQ0N0VXBT1VWqan3U.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ek5fMfwGVTyQ0N0VXBT1VWqan3U.jpg",
-      "backdrop_path": "/7TjeFeYpwMqI9Q2o69IcZrQoUK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7TjeFeYpwMqI9Q2o69IcZrQoUK.jpg",
-      "imdb_id": "tt0150662",
-      "runtime": 89,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "fleabag",
     "url": "https://www.biorio.se/sv/filmer/fleabag",
     "title": "Fleabag",
@@ -151,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 44,
-          "ticketsAvailable": 136,
+          "ticketsSold": 47,
+          "ticketsAvailable": 133,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-01T16:10:00",
@@ -163,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-28T08:21:57.693567",
+    "scraped_at": "2026-07-29T08:28:21.924189",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -306,8 +211,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 128,
-          "ticketsAvailable": 52,
+          "ticketsSold": 141,
+          "ticketsAvailable": 39,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -318,7 +223,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-28T08:22:04.195686",
+    "scraped_at": "2026-07-29T08:28:30.184788",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -410,14 +315,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-28T08:22:18.864635",
+    "scraped_at": "2026-07-29T08:28:47.057670",
     "source": "biorio",
     "tmdb": {
       "id": 144,
       "title": "Wings of Desire",
       "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
       "release_date": "1987-09-23",
-      "rating": 7.759,
+      "rating": 7.758,
       "vote_count": 1509,
       "genres": [
         "Drama",
@@ -550,8 +455,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 49,
-          "ticketsAvailable": 131,
+          "ticketsSold": 51,
+          "ticketsAvailable": 129,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-27T18:10:00",
@@ -609,8 +514,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 47,
-          "ticketsAvailable": 133,
+          "ticketsSold": 49,
+          "ticketsAvailable": 131,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-29T18:10:00",
@@ -621,12 +526,12 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-28T08:22:23.921521",
+    "scraped_at": "2026-07-29T08:28:52.091566",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
       "title": "2 Big to Rig",
-      "overview": "Captured live over the course of GHOST’s two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX® in select locations.  Featuring the only pro-shot footage of Papa V Perpetua and his band of Nameless Ghouls from the phone-free SKELETOUR, 2 BIG TO RIG immerses the audience in the GHOST live ritual, including exclusive behind-the-scenes and backstage access.  2 BIG TO RIG was created to share the SKELETOUR experience with the faithful in the territories where staging the show was not logistically feasible — and is a love letter to all those who have shared the GHOST ritual.  Shot on 16mm film, GHOST has never looked or sounded better, ripping through material from the band's six albums — including 2025’s global #1 SKELETÁ as well as non-LP favorites including “Mary On A Cross,” “Kiss the Go-Goat,” and “The Future is a Foreign Land.”",
+      "overview": "Captured live over the course of GHOST’s two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX® in select locations.  Featuring the only pro-shot footage of Papa V Perpetua and his band of Nameless Ghouls from the phone-free SKELETOUR, 2 BIG TO RIG immerses the audience in the GHOST live ritual, including exclusive behind-the-scenes and backstage access.",
       "release_date": "2026-08-24",
       "rating": 0.0,
       "vote_count": 0,
@@ -715,7 +620,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-28T08:22:26.747970",
+    "scraped_at": "2026-07-29T08:28:55.111032",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -814,14 +719,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-28T08:22:29.919718",
+    "scraped_at": "2026-07-29T08:28:58.780935",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
       "title": "Ghost in the Shell",
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
-      "rating": 7.926,
+      "rating": 7.9,
       "vote_count": 3956,
       "genres": [
         "Action",
