@@ -1,53 +1,5 @@
 [
   {
-    "film_id": "love-me-tender",
-    "url": "https://zita.se/love-me-tender",
-    "title": "Love me tender",
-    "director": "",
-    "genre": "Frankrike4 sept 2026134 minDramaLucky DogsFranskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "18:00",
-        "time": "18:00",
-        "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5858",
-        "normalized_datetime": "2026-07-29T18:00:00",
-        "normalized_date": "29.07",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-07-29T08:30:42.050565+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 39833,
-      "title": "Love Me Tender",
-      "overview": "After the Civil War, Confederate soldiers Clint and Vance Reno steal a Union payroll, leading to conflict when the younger marries the woman his older brother loves.",
-      "release_date": "1956-11-15",
-      "rating": 6.2,
-      "vote_count": 95,
-      "genres": [
-        "Romance",
-        "Music",
-        "Western",
-        "Drama"
-      ],
-      "poster_path": "/4PdRIIrBN4q8H7f8yGbd0ScpTjh.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4PdRIIrBN4q8H7f8yGbd0ScpTjh.jpg",
-      "backdrop_path": "/48oxvgG5yrMPA2f9cPEhi9mHOV4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/48oxvgG5yrMPA2f9cPEhi9mHOV4.jpg",
-      "imdb_id": "tt0049452",
-      "runtime": 89,
-      "budget": 1200000,
-      "revenue": 9000000
-    }
-  },
-  {
     "film_id": "paradistorg",
     "url": "https://zita.se/paradistorg",
     "title": "Paradistorg",
@@ -70,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-29T08:30:46.152803+00:00",
+    "scraped_at": "2026-07-30T08:14:49.032280+00:00",
     "source": "zita",
     "tmdb": {
       "id": 394968,
@@ -115,7 +67,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-07-29T08:30:48.806172+00:00",
+    "scraped_at": "2026-07-30T08:14:51.791685+00:00",
     "source": "zita",
     "tmdb": {
       "id": 797,
