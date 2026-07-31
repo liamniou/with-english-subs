@@ -27,15 +27,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.656789+00:00",
+    "scraped_at": "2026-07-31T08:40:28.656799+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 20770,
       "title": "But I'm a Cheerleader",
       "overview": "Megan is an all-American girl. A cheerleader. She has a boyfriend. But Megan doesn't like kissing her boyfriend very much. And she's pretty touchy with her cheerleader friends. Her conservative parents worry that she must be a lesbian and send her off to \"sexual redirection\" school, where she must, with other lesbians and gays learn how to be straight.",
       "release_date": "2000-07-07",
-      "rating": 7.08,
-      "vote_count": 859,
+      "rating": 7.078,
+      "vote_count": 860,
       "genres": [
         "Comedy",
         "Drama",
@@ -52,64 +52,13 @@
     }
   },
   {
-    "film_id": "gummo",
-    "url": "https://www.capitolbio.se/filmer/gummo/4479",
-    "title": "Gummo",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Ingår i Temat: Teenage angst - the best of times, the worst of times, tonårstiden på film har alltid större känslor, coolare bilar och mer färg.\n\nHarmony Korines kultklassiker\n\nGummo tar oss med till en tråkig småstad i Ohio som alrig återhämtat sig efter en stor tornado på 1970-talet. Tonåringen Solomon och hans något äldre kompis Tummler har inget vettigare för sig än att slå ihjäl tiden och bli höga på att sniffa lim.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4479/1920/0d592fea-f902-4bb2-86e8-06404c190582.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-08-05T20:30:00",
-        "display_text": "Wednesday 5 August 2026 at 20:30",
-        "time": "20:30",
-        "date_section": "05.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51170",
-        "booking_id": "51170",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-05T20:30:00",
-        "normalized_date": "05.08",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-07-30T08:13:25.656842+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 18415,
-      "title": "Gummo",
-      "overview": "Teenagers Solomon and Tummler kill time in Xenia, Ohio, a small town that has never recovered from the tornado that ravaged the community in the 1970s.",
-      "release_date": "1997-10-17",
-      "rating": 6.598,
-      "vote_count": 721,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster_path": "/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
-      "backdrop_path": "/mLdMnoIE4SjMkTkgxayaHH9DS4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mLdMnoIE4SjMkTkgxayaHH9DS4.jpg",
-      "imdb_id": "tt0119237",
-      "runtime": 89,
-      "budget": 1300000,
-      "revenue": 116799
-    }
-  },
-  {
     "film_id": "kung-fu-hustle",
     "url": "https://www.capitolbio.se/filmer/kung-fu-hustle/4474",
     "title": "Kung Fu Hustle",
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "Ingår i Temat: Geniala komedier - smart och svartsynt, slapstick och tramsigt, det finns en komedi för varje sinnesstämning på Capitol.\n\nKung Fu Hustle är en underbar actionkomedi från 2004. Filmen utspelar sig i 1940-talets Kina, där ett hänsynslöst gäng terroriserar städerna och kräver beskyddarpengar av alla. Huvudpersonen Sing (Stephen Chow) är en småkriminell som vill imponera på gänget och själv bli en hårdför gangster, men när han försöker pressa de fattiga hyresgästerna i ett slitet bostadsområde upptäcker han att flera av de till synes vanliga invånarna är mäktiga kung fu-mästare som inte låter sig skrämmas.\n\nFantastisk action och galna karaktärer slåss om uppmärksamheten i allt från fantasifulla kung fu-uppgörelser till danssekvenser, resultatet är makalöst: poetiskt, roligt, vackert och hisnande.",
+    "description": "Ingår i Temat: Geniala komedier - smart och svartsynt, slapstick och tramsigt, det finns en komedi för varje sinnesstämning på Capitol.\n\nKung Fu Hustle är en underbar actionkomedi från 2004. Filmen utspelar sig i 1940-talets Kina, där ett hänsynslöst gäng terroriserar städerna och kräver beskyddarpengar av alla. Huvudpersonen Sing (Stephen Chow) är en småkriminell som vill imponera på gänget och själv bli en hårdför gangster, men när han försöker pressa de fattiga hyresgästerna i ett slitet bostadsområde upptäcker han att flera av de till synes vanliga invånarna är mäktiga kung fu-mästare som inte låter sig skrämmas.\n\nFantastisk action och galna karaktärer slåss om uppmärksamheten i allt från fantasifulla kung fu-uppgörelser till danssekvenser, resultatet är makalöst: poetiskt, roligt, vackert och hisnande. \n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4474/1920/d84f6b65-f3da-4953-aff7-345459d045e0.jpg",
     "showtimes": [
       {
@@ -130,15 +79,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.656871+00:00",
+    "scraped_at": "2026-07-31T08:40:28.656851+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9470,
       "title": "Kung Fu Hustle",
       "overview": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
       "release_date": "2004-02-10",
-      "rating": 7.508,
-      "vote_count": 3257,
+      "rating": 7.509,
+      "vote_count": 3258,
       "genres": [
         "Action",
         "Comedy",
@@ -162,7 +111,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "Kultklassiker från 1999\n\nIngår i Temat: Bad men - för vi alla älskar en riktigt bra skurk.\n\nThe Boondock Saints följer tvillingbröderna Connor och Murphy MacManus, som tar lagen i egna händer efter att de blivit vittnen till ett mord. De börjar en våldsam kampanj för att rensa Boston från brottslighet. Med en mix av svart humor och intensiv action, utforskar filmen teman om moral, rättvisa och hämnd.",
+    "description": "Kultklassiker från 1999\n\nIngår i Temat: Bad men - för vi alla älskar en riktigt bra skurk.\n\nThe Boondock Saints följer tvillingbröderna Connor och Murphy MacManus, som tar lagen i egna händer efter att de blivit vittnen till ett mord. De börjar en våldsam kampanj för att rensa Boston från brottslighet. Med en mix av svart humor och intensiv action, utforskar filmen teman om moral, rättvisa och hämnd.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4477/1920/58468f9f-cd78-4bf2-a97f-82678bc04a0c.jpg",
     "showtimes": [
       {
@@ -183,7 +132,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.656894+00:00",
+    "scraped_at": "2026-07-31T08:40:28.656879+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8374,
@@ -191,7 +140,7 @@
       "overview": "Tired of the crime overrunning the streets of Boston, Irish Catholic twin brothers Conner and Murphy are inspired by their faith to cleanse their hometown of evil with their own brand of zealous vigilante justice. As they hunt down and kill one notorious gangster after another, they become controversial folk heroes in the community. But Paul Smecker, an eccentric FBI agent, is fast closing in on their blood-soaked trail.",
       "release_date": "1999-01-22",
       "rating": 7.251,
-      "vote_count": 2734,
+      "vote_count": 2736,
       "genres": [
         "Action",
         "Thriller",
@@ -214,7 +163,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "Ingår i Temat: Geniala komedier - smart och svartsynt, slapstick och tramsigt, det finns en komedi för varje sinnesstämning på Capitol.\n\nDet är dags för den årliga hundutställningen i Philadelphia. Ett antal mycket skruvade karaktärer reser från olika delar av USA för att delta med sina hundar.  Ett filmteam intervjuar dem när de förbereder sig, anländer till hotellet och tävlar. Från Florida kommer kvinnan Fleck som hela tiden springer in i gamla älskare. En stum gammal man och hans bystiga troféfru har med sig en prisvinnande pudel. Från North Carolina kommer en kille som vill bli buktalare och från Tribeca kommer två homosexuella män. Hundshowen tar fram essensen hos hundägarna. Vem kommer att vara 'best in show'?\n\nRegisserad av Christopher Guest som även gjorde  'This is Spinal tap' och 'Waiting for Guffman'.",
+    "description": "Ingår i Temat: Geniala komedier - smart och svartsynt, slapstick och tramsigt, det finns en komedi för varje sinnesstämning på Capitol.\n\nDet är dags för den årliga hundutställningen i Philadelphia. Ett antal mycket skruvade karaktärer reser från olika delar av USA för att delta med sina hundar.  Ett filmteam intervjuar dem när de förbereder sig, anländer till hotellet och tävlar. Från Florida kommer kvinnan Fleck som hela tiden springer in i gamla älskare. En stum gammal man och hans bystiga troféfru har med sig en prisvinnande pudel. Från North Carolina kommer en kille som vill bli buktalare och från Tribeca kommer två homosexuella män. Hundshowen tar fram essensen hos hundägarna. Vem kommer att vara 'best in show'?\n\nRegisserad av Christopher Guest som även gjorde  'This is Spinal tap' och 'Waiting for Guffman'.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4475/1920/8cbe6eed-df0f-4533-8872-f4fa913e90ad.jpg",
     "showtimes": [
       {
@@ -235,14 +184,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.656914+00:00",
+    "scraped_at": "2026-07-31T08:40:28.656897+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 13785,
       "title": "Best in Show",
       "overview": "The tension is palpable, the excitement is mounting and the heady scent of competition is in the air as hundreds of eager contestants from across America prepare to take part in what is undoubtedly one of the greatest events of their lives -- the Mayflower Dog Show. The canine contestants and their owners are as wondrously diverse as the great country that has bred them.",
       "release_date": "2000-09-29",
-      "rating": 6.885,
+      "rating": 6.9,
       "vote_count": 684,
       "genres": [
         "Comedy"
@@ -264,7 +213,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "Frank Dux åker till Asien för att medverka i 'Kumite', en illegal kampsportstävling där allvarliga skador och till och med döden inte hör till ovanligheterna. Ett flertal mästare, alla med sin egen stil, möts i tävlingen i Hongkong.\n\nBloodsport är en klichétät men underbar kampsportsfilm med några av de finaste matcher vi sett filmas i subgenren 'fightturneringsfilmer'.",
+    "description": "Frank Dux åker till Asien för att medverka i 'Kumite', en illegal kampsportstävling där allvarliga skador och till och med döden inte hör till ovanligheterna. Ett flertal mästare, alla med sin egen stil, möts i tävlingen i Hongkong.\n\nBloodsport är en klichétät men underbar kampsportsfilm med några av de finaste matcher vi sett filmas i subgenren 'fightturneringsfilmer'. \n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/3417/1920/7cb10044-9d23-4ffd-a12e-fa84cfc8c210.jpg",
     "showtimes": [
       {
@@ -285,15 +234,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.656933+00:00",
+    "scraped_at": "2026-07-31T08:40:28.656913+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11690,
       "title": "Bloodsport",
       "overview": "An American Army Major goes AWOL to Hong Kong for an outlawed martial arts contest called the Kumite.",
       "release_date": "1988-02-26",
-      "rating": 7.059,
-      "vote_count": 2209,
+      "rating": 7.06,
+      "vote_count": 2211,
       "genres": [
         "Action",
         "Thriller",
@@ -316,7 +265,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "Musikaliska gangsterkomedi regisserad av Alan Parker!\n\nFilmen är en parodi på klassiska gangsterfilmer där samtliga roller spelas av barn, och i stället för riktiga vapen skjuter maffiagängen 'splat guns' som kletar ner offren med vispgrädde.",
+    "description": "Musikaliska gangsterkomedi regisserad av Alan Parker!\n\nFilmen är en parodi på klassiska gangsterfilmer där samtliga roller spelas av barn, och i stället för riktiga vapen skjuter maffiagängen 'splat guns' som kletar ner offren med vispgrädde.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4518/1920/275488c5-cc7d-4337-841a-6a4f3c8d9b07.jpg",
     "showtimes": [
       {
@@ -337,7 +286,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.656951+00:00",
+    "scraped_at": "2026-07-31T08:40:28.656928+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8446,
@@ -388,20 +337,6 @@
         "normalized_time": "18:00"
       },
       {
-        "datetime": "2026-08-26T18:00:00",
-        "display_text": "Wednesday 26 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "26.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51813",
-        "booking_id": "51813",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-26T18:00:00",
-        "normalized_date": "26.08",
-        "normalized_time": "18:00"
-      },
-      {
         "datetime": "2026-08-29T20:30:00",
         "display_text": "Saturday 29 August 2026 at 20:30",
         "time": "20:30",
@@ -419,7 +354,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.656972+00:00",
+    "scraped_at": "2026-07-31T08:40:28.656944+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
@@ -449,7 +384,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "En grupp aristokrater samlas på godset Gosford Park för en jakthelg. Snart inträffar ett mord som får den polerade fasaden att spricka  och både gäster och personal blir misstänkta i mordgåtan som avslöjar klasskonflikter och maktspel. \n\nEn briljant ensemble skriven av skaparen till Downton Abbey Julian Fellowes.\n\nCapitols Afternoon Tea-meny:\nScones\nMed vispad grädde & sylt\n\nCucumber sandwich\nBrittisk toast med gurka och färskost\n\nEgg salad & kress sandwich\nKlassisk äggsallad med majonnäs\n\nCheddar and chutney on ryebread\nOst och rödlökschutney på danskt rågbröd\n\nShortbread\nSmåkaka\n\nVictoria cake\nSockerkaka med smörcrème och hallonsylt\n\nMini Bakewell tart\nMinipaj med körsbär och mandel\n\n\nTill detta serveras nybryggt te, ett grönt och ett svart.\n\nVill ni lyxa till det lite extra? Toppa eftermiddagen med en flaska champagne – den ultimata drycken till en stämningsfull film.\n\nVi serverar de förköpta menyerna vid era platser i salongen.\nVänligen observera att innehållet i menyn inte kan ändras efter individuella önskemål. Innehållet kan inte heller ändras till gluten- och/eller laktosfria alternativ.\n\nVÄLKOMNA!\n\n\nOBS! Senast kl. 21.00 på tisdagen i samma vecka som biovisningen måste din beställning av Afternoon tea-paket vara registrerad.\n\nEtt fåtal Afternoon tea-paket finns att köpa på plats hos oss, kom gärna i god tid då först till kvarn gäller. I foajébaren kan du beställa dryck och snacks innan, under och efter visningen.",
+    "description": "En grupp aristokrater samlas på godset Gosford Park för en jakthelg. Snart inträffar ett mord som får den polerade fasaden att spricka  och både gäster och personal blir misstänkta i mordgåtan som avslöjar klasskonflikter och maktspel. \n\nEn briljant ensemble skriven av skaparen till Downton Abbey Julian Fellowes.\n\nCapitols Afternoon Tea-meny:\nScones\nMed vispad grädde & sylt\n\nCucumber sandwich\nBrittisk toast med gurka och färskost\n\nEgg salad & kress sandwich\nKlassisk äggsallad med majonnäs\n\nCheddar and chutney on ryebread\nOst och rödlökschutney på danskt rågbröd\n\nShortbread\nSmåkaka\n\nVictoria cake\nSockerkaka med smörcrème och hallonsylt\n\nMini Bakewell tart\nMinipaj med körsbär och mandel\n\n\nTill detta serveras nybryggt te, ett grönt och ett svart.\n\nVill ni lyxa till det lite extra? Toppa eftermiddagen med en flaska champagne – den ultimata drycken till en stämningsfull film.\n\nVi serverar de förköpta menyerna vid era platser i salongen.\nVänligen observera att innehållet i menyn inte kan ändras efter individuella önskemål. Innehållet kan inte heller ändras till gluten- och/eller laktosfria alternativ.\n\nVÄLKOMNA!\n\n\nOBS! Senast kl. 21.00 på tisdagen i samma vecka som biovisningen måste din beställning av Afternoon tea-paket vara registrerad.\n\nEtt fåtal Afternoon tea-paket finns att köpa på plats hos oss, kom gärna i god tid då först till kvarn gäller. I foajébaren kan du beställa dryck och snacks innan, under och efter visningen.\n\nFler Afternoon Teas att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4329/1920/12d136ef-859d-4e5b-8274-48ec4ac67804.jpg",
     "showtimes": [
       {
@@ -470,7 +405,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.657011+00:00",
+    "scraped_at": "2026-07-31T08:40:28.656961+00:00",
     "source": "capitolbio"
   },
   {
@@ -480,7 +415,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "Välkommen på Mordet på Orientexpressen med Afternoon Tea!\n\nCapitols Afternoon Tea-meny:\nScones\nMed vispad grädde & sylt\n\nCucumber sandwich\nBrittisk toast med gurka och färskost\n\nEgg salad & kress sandwich\nKlassisk äggsallad med majonnäs\n\nCheddar and chutney on ryebread\nOst och rödlökschutney på danskt rågbröd\n\nShortbread\nSmåkaka\n\nVictoria cake\nSockerkaka med smörcrème och hallonsylt\n\nMini Bakewell tart\nMinipaj med körsbär och mandel\n\n\nTill detta serveras nybryggt te, ett grönt och ett svart.\n\nVill ni lyxa till det lite extra? Toppa eftermiddagen med en flaska champagne – den ultimata drycken till en stämningsfull film.\n\nVi serverar de förköpta menyerna vid era platser i salongen.\nVänligen observera att innehållet i menyn inte kan ändras efter individuella önskemål. Innehållet kan inte heller ändras till gluten- och/eller laktosfria alternativ.\n\nVÄLKOMNA!\n\n\nOBS! Senast kl. 21.00 på tisdagen i samma vecka som biovisningen måste din beställning av Afternoon tea-paket vara registrerad.\n\nEtt fåtal Afternoon tea-paket finns att köpa på plats hos oss, kom gärna i god tid då först till kvarn gäller. I foajébaren kan du beställa dryck och snacks innan, under och efter visningen.",
+    "description": "Välkommen på Mordet på Orientexpressen med Afternoon Tea!\n\nCapitols Afternoon Tea-meny:\nScones\nMed vispad grädde & sylt\n\nCucumber sandwich\nBrittisk toast med gurka och färskost\n\nEgg salad & kress sandwich\nKlassisk äggsallad med majonnäs\n\nCheddar and chutney on ryebread\nOst och rödlökschutney på danskt rågbröd\n\nShortbread\nSmåkaka\n\nVictoria cake\nSockerkaka med smörcrème och hallonsylt\n\nMini Bakewell tart\nMinipaj med körsbär och mandel\n\n\nTill detta serveras nybryggt te, ett grönt och ett svart.\n\nVill ni lyxa till det lite extra? Toppa eftermiddagen med en flaska champagne – den ultimata drycken till en stämningsfull film.\n\nVi serverar de förköpta menyerna vid era platser i salongen.\nVänligen observera att innehållet i menyn inte kan ändras efter individuella önskemål. Innehållet kan inte heller ändras till gluten- och/eller laktosfria alternativ.\n\nVÄLKOMNA!\n\n\nOBS! Senast kl. 21.00 på tisdagen i samma vecka som biovisningen måste din beställning av Afternoon tea-paket vara registrerad.\n\nEtt fåtal Afternoon tea-paket finns att köpa på plats hos oss, kom gärna i god tid då först till kvarn gäller. I foajébaren kan du beställa dryck och snacks innan, under och efter visningen. \n\nFler Afternoon Teas att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/1498/1920/e631a50a-d992-41df-a652-6016294b79a9.jpg",
     "showtimes": [
       {
@@ -501,7 +436,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.657045+00:00",
+    "scraped_at": "2026-07-31T08:40:28.656993+00:00",
     "source": "capitolbio"
   },
   {
@@ -511,7 +446,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "Spielbergs första långfilm (bygger på Richard Mathesons berättelse) gjordes ursprungligen för TV och tar oss med till ökenlandskapet i Kalifornien där en helt vanlig handelsresande (Dennis Weaver) hotas till livet av en vild lastbilschaufför. Filmen bärs uteslutande upp av Weaver och hans desperata kamp för att överleva, i takt med att handlingen får en allt mer tryckande och paranoid utveckling.",
+    "description": "Spielbergs första långfilm (bygger på Richard Mathesons berättelse) gjordes ursprungligen för TV och tar oss med till ökenlandskapet i Kalifornien där en helt vanlig handelsresande (Dennis Weaver) hotas till livet av en vild lastbilschaufför. Filmen bärs uteslutande upp av Weaver och hans desperata kamp för att överleva, i takt med att handlingen får en allt mer tryckande och paranoid utveckling.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4526/1920/6097fb22-6f2b-40c4-9a76-c4ef3f3f0d22.jpg",
     "showtimes": [
       {
@@ -532,7 +467,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.657063+00:00",
+    "scraped_at": "2026-07-31T08:40:28.657009+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -563,7 +498,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "Kultfilm från 1976\n\nDokumentär om Edie Bouvier Beale och hennes mor Edith – två åldrande udda och excentriska släktingar till Jackie Kennedy Onassis – Big Edie var sopran och Little Edie en vacker kvinna som drömde om ett liv på scenen. Sedan lämnade de allt bakom sig och flyttade till fashionabla East Hampton till en stor villa, ett hus så förfallet att myndigheterna hotade att stänga det på grund av bristande sanitära förhållanden.\n\nBröderna Maysles dokumentärfilm om mor och dotter i ”Grey Gardens” från 1976 blev med tiden en riktig kultfilm, musikal på Broadway, spelfilm och tv-serie.",
+    "description": "Kultfilm från 1976\n\nDokumentär om Edie Bouvier Beale och hennes mor Edith – två åldrande udda och excentriska släktingar till Jackie Kennedy Onassis – Big Edie var sopran och Little Edie en vacker kvinna som drömde om ett liv på scenen. Sedan lämnade de allt bakom sig och flyttade till fashionabla East Hampton till en stor villa, ett hus så förfallet att myndigheterna hotade att stänga det på grund av bristande sanitära förhållanden.\n\nBröderna Maysles dokumentärfilm om mor och dotter i ”Grey Gardens” från 1976 blev med tiden en riktig kultfilm, musikal på Broadway, spelfilm och tv-serie.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4527/1920/908d5f47-c190-48bf-8c6b-4f9e68aabb8b.jpg",
     "showtimes": [
       {
@@ -584,7 +519,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.657084+00:00",
+    "scraped_at": "2026-07-31T08:40:28.657026+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -613,7 +548,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "I Weimar-republikens Berlin, på 1930-talet, jobbar den unga amerikanskan på Kit-Kat Club, där förälskelsen drabbar henne två gånger om. Samtidigt tar sig långsamt nazisterna till makten.\nBob Fosses åttafaldigt Oscarbelönade musikal från 1972 blev Liza Minnellis stora genombrott. Som dotter till Judy Garland tog hon med bravur vidare familjens traditioner och vann en statyett för sin huvudroll som nattklubbssångerskan Sally Bowles.",
+    "description": "I Weimar-republikens Berlin, på 1930-talet, jobbar den unga amerikanskan på Kit-Kat Club, där förälskelsen drabbar henne två gånger om. Samtidigt tar sig långsamt nazisterna till makten.\nBob Fosses åttafaldigt Oscarbelönade musikal från 1972 blev Liza Minnellis stora genombrott. Som dotter till Judy Garland tog hon med bravur vidare familjens traditioner och vann en statyett för sin huvudroll som nattklubbssångerskan Sally Bowles.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/82/1920/48ce7514-464f-4a58-a5b8-a0e3698921cc.jpg",
     "showtimes": [
       {
@@ -634,7 +569,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.657104+00:00",
+    "scraped_at": "2026-07-31T08:40:28.657042+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
@@ -659,13 +594,13 @@
     }
   },
   {
-    "film_id": "afternoon-tea-m-dress-along",
-    "url": "https://www.capitolbio.se/filmer/afternoon-tea-m-dress-along/4535",
-    "title": "Afternoon Tea m Dress-Along",
+    "film_id": "afternoon-tea-dress-along-med-chicago",
+    "url": "https://www.capitolbio.se/filmer/afternoon-tea-dress-along-med-chicago/4535",
+    "title": "Afternoon Tea: Dress-Along med Chicago",
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "Jazz it up – glitter, glamour & guilty pleasures!\nDress-Along succén fortsätter! \n\nÄnnu en gång tar vi med dig till 20-talets Chicago fyllt av jazz, glamour, gangsters, fagra jailbirds och skandal.\n\nDress-Along Movie Night är en filmupplevelse där karaktärerna kliver ner från bioduken och in i salongen!\n\nDenna gång förvandlar vi biografen till en te och champagnesalong med vår omtyckta Afternoon tea. Kombinera en kopp rykande te, kylt bubbel, nybakade scones och andra läckra godsaker – allt medan du njuter av spektaklet som pågår på och nedanför vita duken.\n\nLåt 20-talets jazz och glittrande dekadens inspirera din outfit – eller gör entré som den förföriska Velma, den drömmande Roxie, den slipade Billy eller varför inte som en av de legendariska jailbirds från ‘Cell Block Tango’? Vem blir du just denna kväll?\n\nDatum: lördag 12 september\nTid: Mingel från 13:00.\nFilmstart: 14:00\n\nBegränsat antal platser och Afternoon tea – säkra din biljett redan nu!\n\nOBS: Inga återköp eller byten gäller på biljetter till Dress-Along.",
+    "description": "Jazz it up – glitter, glamour & guilty pleasures!\nDress-Along succén fortsätter! \n\nÄnnu en gång tar vi med dig till 20-talets Chicago fyllt av jazz, glamour, gangsters, fagra jailbirds och skandal.\n\nDress-Along Movie Night är en filmupplevelse där karaktärerna kliver ner från bioduken och in i salongen!\n\nDenna gång förvandlar vi biografen till en te och champagnesalong med vår omtyckta Afternoon tea. Kombinera en kopp rykande te, kylt bubbel, nybakade scones och andra läckra godsaker – allt medan du njuter av spektaklet som pågår på och nedanför vita duken.\n\nLåt 20-talets jazz och glittrande dekadens inspirera din outfit – eller gör entré som den förföriska Velma, den drömmande Roxie, den slipade Billy eller varför inte som en av de legendariska jailbirds från ‘Cell Block Tango’? Vem blir du just denna kväll?\n\nDatum: lördag 12 september\nTid: Mingel från 13:00.\nFilmstart: 14:00\n\nBegränsat antal platser och Afternoon tea – säkra din biljett redan nu!\n\nOBS: Inga återköp eller byten gäller på biljetter till Dress-Along.\n\nFler Afternoon Teas att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4402/1920/ea3c00d6-7704-42de-af9f-ffa1cd4b06eb.jpg",
     "showtimes": [
       {
@@ -686,7 +621,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.657122+00:00",
+    "scraped_at": "2026-07-31T08:40:28.657058+00:00",
     "source": "capitolbio"
   },
   {
@@ -696,7 +631,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "Pasolinis sista film – en tolkning av Markis de Sades De 120 dagarna i Sodom, med handlingen förflyttad till den fascistiska Salòrepubliken är en av filmhistoriens mest kontroversiella våldsskildringar, som hatats och förbjudits, men också hyllats för sin skarpa satir och provokationskraft.\n\nSalò fick världspremiär i november 1975, tre veckor efter mordet på Pasolini. Filmen totalförbjöds i hemlandet Italien, men lockade i 178 000 svenskar till biograferna.",
+    "description": "Pasolinis sista film – en tolkning av Markis de Sades De 120 dagarna i Sodom, med handlingen förflyttad till den fascistiska Salòrepubliken är en av filmhistoriens mest kontroversiella våldsskildringar, som hatats och förbjudits, men också hyllats för sin skarpa satir och provokationskraft.\n\nSalò fick världspremiär i november 1975, tre veckor efter mordet på Pasolini. Filmen totalförbjöds i hemlandet Italien, men lockade i 178 000 svenskar till biograferna.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4475/1920/8cbe6eed-df0f-4533-8872-f4fa913e90ad.jpg",
     "showtimes": [
       {
@@ -717,14 +652,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.657139+00:00",
+    "scraped_at": "2026-07-31T08:40:28.657072+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
       "title": "Salò, or the 120 Days of Sodom",
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
-      "rating": 6.343,
+      "rating": 6.3,
       "vote_count": 2325,
       "genres": [
         "Horror",
@@ -747,7 +682,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "Bröderna Marx allra bästa film Duck Soup\n\n“I could dance with you ‘til the cows come home. On second thought, I’d rather dance with the cows until you came home.”\n\nRufus T. Firefly utnämns till diktator för konkurslandet Freedonia och förklarar direkt krig mot grannlandet Sylvania över kärleken till sin förmögna stödjare Mrs. Teasdale. Han brottas även med två odugliga spioner som inte verkar kunna bestämma sig för vilken sida de står på.",
+    "description": "Bröderna Marx allra bästa film Duck Soup\n\n“I could dance with you ‘til the cows come home. On second thought, I’d rather dance with the cows until you came home.”\n\nRufus T. Firefly utnämns till diktator för konkurslandet Freedonia och förklarar direkt krig mot grannlandet Sylvania över kärleken till sin förmögna stödjare Mrs. Teasdale. Han brottas även med två odugliga spioner som inte verkar kunna bestämma sig för vilken sida de står på.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4531/1920/57cdc27d-850e-4515-bbeb-527f42b1eae7.jpg",
     "showtimes": [
       {
@@ -768,7 +703,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.657159+00:00",
+    "scraped_at": "2026-07-31T08:40:28.657086+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -798,7 +733,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "Kultklassiker fån 1967 \n\nMed Sharon Tate som en djupt olycklig partytjej som missbrukar piller. Valley of the Dolls bygger på den skandalomsusade romanen med samma namn, blev en biosuccé 1967 och har sedan dess uppnått kultstatus.\n\nBaserad på Jacqueline Susanns bok med samma namn från 1966.",
+    "description": "Kultklassiker fån 1967 \n\nMed Sharon Tate som en djupt olycklig partytjej som missbrukar piller. Valley of the Dolls bygger på den skandalomsusade romanen med samma namn, blev en biosuccé 1967 och har sedan dess uppnått kultstatus.\n\nBaserad på Jacqueline Susanns bok med samma namn från 1966.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4529/1920/29f611a2-0e09-4523-9c1c-20592baef959.jpg",
     "showtimes": [
       {
@@ -819,7 +754,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.657179+00:00",
+    "scraped_at": "2026-07-31T08:40:28.657100+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3055,
@@ -849,7 +784,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "På New York City High School tränas studenterna i dans, sång och skådespeleri. De tänjer sina gränser till max för att lyckas i den stenhårda artistvärlden. Vi följer gatusmarta Coco (Irene Cara), blyga Doris (Maureen Teefy), homosexuelle Montgomery (Paul McCrane), tuffingen Raul (Barry Miller), känslige Bruno (Lee Curreri) och de andra i kampen för att nå sina drömmar om framgång och berömmelse samtidigt som de brottas med vanliga tonårsproblem som ensamhet, osäkerhet och att hitta sig själva. Irene Cara, som spelar sångerskan Coco, lyser i sin skådespelarprestation. Filmen belönades med två Oscar och är sprängfylld med fantastiska, till synes spontana dansnummer och inspirerande musik.",
+    "description": "På New York City High School tränas studenterna i dans, sång och skådespeleri. De tänjer sina gränser till max för att lyckas i den stenhårda artistvärlden. Vi följer gatusmarta Coco (Irene Cara), blyga Doris (Maureen Teefy), homosexuelle Montgomery (Paul McCrane), tuffingen Raul (Barry Miller), känslige Bruno (Lee Curreri) och de andra i kampen för att nå sina drömmar om framgång och berömmelse samtidigt som de brottas med vanliga tonårsproblem som ensamhet, osäkerhet och att hitta sig själva. Irene Cara, som spelar sångerskan Coco, lyser i sin skådespelarprestation. Filmen belönades med två Oscar och är sprängfylld med fantastiska, till synes spontana dansnummer och inspirerande musik.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/226/1920/8e350c96-5d55-451a-9ee5-bb0e87e4b61e.jpg",
     "showtimes": [
       {
@@ -870,15 +805,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.657197+00:00",
+    "scraped_at": "2026-07-31T08:40:28.657116+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
       "title": "Fame",
       "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
       "release_date": "1980-05-16",
-      "rating": 6.4,
-      "vote_count": 519,
+      "rating": 6.432,
+      "vote_count": 520,
       "genres": [
         "Drama",
         "Music"
@@ -900,7 +835,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "Sam Peckinpahs klassiska road-movie \n\nEn mäktig konvoj av dammhissande lastbilar går mot en statlig linje i sydvästra Amerika. Den massiva samlingen av fordon i alla former och storlekar leds av 'Rubber Duck', en legendarisk lastbilsförare som har samlat denna enorma armé tillsammans för att protestera mot poliskorruption, federala och statliga lagar och skuggiga politik.\n\nMed Kris Kristofferson och Ali MacGraw i huvudrollerna.",
+    "description": "Sam Peckinpahs klassiska road-movie \n\nEn mäktig konvoj av dammhissande lastbilar går mot en statlig linje i sydvästra Amerika. Den massiva samlingen av fordon i alla former och storlekar leds av 'Rubber Duck', en legendarisk lastbilsförare som har samlat denna enorma armé tillsammans för att protestera mot poliskorruption, federala och statliga lagar och skuggiga politik.\n\nMed Kris Kristofferson och Ali MacGraw i huvudrollerna.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4530/1920/90a7aa5c-1d0b-476f-8bff-58bfe10d2081.jpg",
     "showtimes": [
       {
@@ -921,7 +856,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.657214+00:00",
+    "scraped_at": "2026-07-31T08:40:28.657133+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9584,
@@ -952,7 +887,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "KICKBOXER är Jean-Claude Van Dammes legendariska film som sparkade igång hans karriär och som ofta blir nämnd som en av de häftigaste martial art-filmerna i filmhistorien.",
+    "description": "KICKBOXER är Jean-Claude Van Dammes legendariska film som sparkade igång hans karriär och som ofta blir nämnd som en av de häftigaste martial art-filmerna i filmhistorien.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4528/1920/6b9e7818-c6df-4b6f-b269-2a3799369153.jpg",
     "showtimes": [
       {
@@ -973,15 +908,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-07-30T08:13:25.657231+00:00",
+    "scraped_at": "2026-07-31T08:40:28.657146+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
       "title": "Kickboxer",
       "overview": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
       "release_date": "1989-04-20",
-      "rating": 6.84,
-      "vote_count": 1595,
+      "rating": 6.841,
+      "vote_count": 1596,
       "genres": [
         "Action",
         "Thriller",
