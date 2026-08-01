@@ -56,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 56,
-          "ticketsAvailable": 124,
+          "ticketsSold": 59,
+          "ticketsAvailable": 121,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-01T16:10:00",
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-31T08:39:30.602899",
+    "scraped_at": "2026-08-01T08:09:19.619897",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -211,8 +211,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 163,
-          "ticketsAvailable": 17,
+          "ticketsSold": 169,
+          "ticketsAvailable": 11,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -223,7 +223,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-31T08:39:38.162962",
+    "scraped_at": "2026-08-01T08:09:28.236496",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -315,7 +315,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-31T08:39:53.879581",
+    "scraped_at": "2026-08-01T08:09:44.151230",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -396,8 +396,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 56,
-          "ticketsAvailable": 124,
+          "ticketsSold": 58,
+          "ticketsAvailable": 122,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-26T16:00:00",
@@ -514,8 +514,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 51,
-          "ticketsAvailable": 129,
+          "ticketsSold": 53,
+          "ticketsAvailable": 127,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-29T18:10:00",
@@ -526,7 +526,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-31T08:39:58.821534",
+    "scraped_at": "2026-08-01T08:09:48.898450",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -541,8 +541,8 @@
       ],
       "poster_path": "/nZnCOQNa4UcBNGjqbw12HPIFqBY.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/nZnCOQNa4UcBNGjqbw12HPIFqBY.jpg",
-      "backdrop_path": "/dddyeJgHJtgIW2sICb9nZGOmLow.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/dddyeJgHJtgIW2sICb9nZGOmLow.jpg",
+      "backdrop_path": "/y4kqw66F7maIsNE4AOMhISVZCz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/y4kqw66F7maIsNE4AOMhISVZCz.jpg",
       "imdb_id": "tt43683692",
       "runtime": 115,
       "budget": 0,
@@ -620,7 +620,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-31T08:40:01.789988",
+    "scraped_at": "2026-08-01T08:09:51.479332",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -719,7 +719,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-07-31T08:40:05.141079",
+    "scraped_at": "2026-08-01T08:09:54.808395",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
