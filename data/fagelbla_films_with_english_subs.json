@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-08-01T08:10:30.837248+00:00",
+    "scraped_at": "2026-08-02T08:12:19.044462+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
@@ -30,7 +30,7 @@
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
       "rating": 8.1,
-      "vote_count": 2439,
+      "vote_count": 2440,
       "genres": [
         "Drama"
       ],
@@ -67,14 +67,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-08-01T08:10:30.837856+00:00",
+    "scraped_at": "2026-08-02T08:12:19.044954+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.619,
+      "rating": 7.6,
       "vote_count": 4519,
       "genres": [
         "Comedy",
@@ -114,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-08-01T08:10:30.838967+00:00",
+    "scraped_at": "2026-08-02T08:12:19.045808+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 490,
@@ -122,7 +122,7 @@
       "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
       "release_date": "1957-02-16",
       "rating": 8.142,
-      "vote_count": 3391,
+      "vote_count": 3392,
       "genres": [
         "Fantasy",
         "Drama"
@@ -160,14 +160,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-08-01T08:10:30.839519+00:00",
+    "scraped_at": "2026-08-02T08:12:19.046223+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.619,
+      "rating": 7.6,
       "vote_count": 4519,
       "genres": [
         "Comedy",

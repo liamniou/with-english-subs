@@ -1,97 +1,5 @@
 [
   {
-    "film_id": "fleabag",
-    "url": "https://www.biorio.se/sv/filmer/fleabag",
-    "title": "Fleabag",
-    "director": "Tony Grech-Smith",
-    "showtimes": [
-      {
-        "datetime": "2026-08-01T16:10:00.000Z",
-        "display_text": "Saturday August 01, 2026 at 16:10",
-        "movie_id": "5509",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2362",
-        "api_data": {
-          "id": 2362,
-          "movieId": 5509,
-          "movieVersionId": 187,
-          "startTime": "2026-08-01T16:10:00.000Z",
-          "endTime": "2026-08-01T17:30:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": "Engelska",
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5509,
-            "title": "Fleabag",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5509/posters/1748606053347-ciwlb.jpg",
-            "movieVersions": [
-              {
-                "duration": 80,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 187,
-            "duration": 80,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 17,
-              "name": "Live på Rio (standardpris)"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 59,
-          "ticketsAvailable": 121,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-08-01T16:10:00",
-        "normalized_date": "01.08",
-        "normalized_time": "16:10"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-08-01T08:09:19.619897",
-    "source": "biorio",
-    "tmdb": {
-      "id": 620350,
-      "title": "National Theatre Live: Fleabag",
-      "overview": "Fleabag may seem oversexed, emotionally unfiltered and self-obsessed, but that's just the tip of the iceberg. With family and friendships under strain and a guinea pig café struggling to keep afloat, Fleabag suddenly finds herself with nothing to lose.",
-      "release_date": "2019-09-12",
-      "rating": 7.705,
-      "vote_count": 73,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "poster_path": "/ym3Jo2mo2dK9Z27ryMr5mmkDljx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ym3Jo2mo2dK9Z27ryMr5mmkDljx.jpg",
-      "backdrop_path": "/h3StNE0j4jc1qFt88t7IR2w4wVm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/h3StNE0j4jc1qFt88t7IR2w4wVm.jpg",
-      "imdb_id": "tt10702760",
-      "runtime": 81,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "the-room",
     "url": "https://www.biorio.se/sv/filmer/the-room",
     "title": "The Room",
@@ -211,8 +119,8 @@
           "tags": [
             "Med besök"
           ],
-          "ticketsSold": 169,
-          "ticketsAvailable": 11,
+          "ticketsSold": 171,
+          "ticketsAvailable": 9,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-06T19:00:00",
@@ -223,7 +131,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-01T08:09:28.236496",
+    "scraped_at": "2026-08-02T08:11:09.059442",
     "source": "biorio",
     "tmdb": {
       "id": 17473,
@@ -231,7 +139,7 @@
       "overview": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
       "release_date": "2003-06-27",
       "rating": 3.998,
-      "vote_count": 1544,
+      "vote_count": 1545,
       "genres": [
         "Drama",
         "Romance"
@@ -315,7 +223,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-01T08:09:44.151230",
+    "scraped_at": "2026-08-02T08:11:26.309330",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -455,8 +363,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 55,
-          "ticketsAvailable": 125,
+          "ticketsSold": 57,
+          "ticketsAvailable": 123,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-27T18:10:00",
@@ -526,7 +434,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-01T08:09:48.898450",
+    "scraped_at": "2026-08-02T08:11:31.250221",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -620,7 +528,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-01T08:09:51.479332",
+    "scraped_at": "2026-08-02T08:11:34.165769",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -707,8 +615,8 @@
           "tags": [
             "Timelessfest 2026"
           ],
-          "ticketsSold": 9,
-          "ticketsAvailable": 171,
+          "ticketsSold": 14,
+          "ticketsAvailable": 166,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-03T16:00:00",
@@ -719,7 +627,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-01T08:09:54.808395",
+    "scraped_at": "2026-08-02T08:11:37.929280",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
