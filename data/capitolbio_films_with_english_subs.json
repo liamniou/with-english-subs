@@ -27,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.376775+00:00",
+    "scraped_at": "2026-08-03T09:31:37.967672+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 20770,
@@ -49,57 +49,6 @@
       "runtime": 85,
       "budget": 1200000,
       "revenue": 2600000
-    }
-  },
-  {
-    "film_id": "gummo",
-    "url": "https://www.capitolbio.se/filmer/gummo/4479",
-    "title": "Gummo",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Ingår i Temat: Teenage angst - the best of times, the worst of times, tonårstiden på film har alltid större känslor, coolare bilar och mer färg.\n\nHarmony Korines kultklassiker\n\nGummo tar oss med till en tråkig småstad i Ohio som alrig återhämtat sig efter en stor tornado på 1970-talet. Tonåringen Solomon och hans något äldre kompis Tummler har inget vettigare för sig än att slå ihjäl tiden och bli höga på att sniffa lim.\n\nFler klassiker att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4479/1920/0d592fea-f902-4bb2-86e8-06404c190582.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-08-05T20:30:00",
-        "display_text": "Wednesday 5 August 2026 at 20:30",
-        "time": "20:30",
-        "date_section": "05.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51170",
-        "booking_id": "51170",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-05T20:30:00",
-        "normalized_date": "05.08",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-02T08:12:03.376826+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 18415,
-      "title": "Gummo",
-      "overview": "Teenagers Solomon and Tummler kill time in Xenia, Ohio, a small town that has never recovered from the tornado that ravaged the community in the 1970s.",
-      "release_date": "1997-10-17",
-      "rating": 6.597,
-      "vote_count": 722,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster_path": "/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
-      "backdrop_path": "/mLdMnoIE4SjMkTkgxayaHH9DS4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mLdMnoIE4SjMkTkgxayaHH9DS4.jpg",
-      "imdb_id": "tt0119237",
-      "runtime": 89,
-      "budget": 1300000,
-      "revenue": 116799
     }
   },
   {
@@ -130,15 +79,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.376837+00:00",
+    "scraped_at": "2026-08-03T09:31:37.967726+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9470,
       "title": "Kung Fu Hustle",
       "overview": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
       "release_date": "2004-02-10",
-      "rating": 7.5,
-      "vote_count": 3261,
+      "rating": 7.508,
+      "vote_count": 3265,
       "genres": [
         "Action",
         "Comedy",
@@ -183,7 +132,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.376847+00:00",
+    "scraped_at": "2026-08-03T09:31:37.967748+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8374,
@@ -191,7 +140,7 @@
       "overview": "Tired of the crime overrunning the streets of Boston, Irish Catholic twin brothers Conner and Murphy are inspired by their faith to cleanse their hometown of evil with their own brand of zealous vigilante justice. As they hunt down and kill one notorious gangster after another, they become controversial folk heroes in the community. But Paul Smecker, an eccentric FBI agent, is fast closing in on their blood-soaked trail.",
       "release_date": "1999-01-22",
       "rating": 7.252,
-      "vote_count": 2741,
+      "vote_count": 2743,
       "genres": [
         "Action",
         "Thriller",
@@ -235,7 +184,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.376858+00:00",
+    "scraped_at": "2026-08-03T09:31:37.967767+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 13785,
@@ -285,7 +234,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.376868+00:00",
+    "scraped_at": "2026-08-03T09:31:37.967783+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11690,
@@ -293,7 +242,7 @@
       "overview": "An American Army Major goes AWOL to Hong Kong for an outlawed martial arts contest called the Kumite.",
       "release_date": "1988-02-26",
       "rating": 7.059,
-      "vote_count": 2213,
+      "vote_count": 2217,
       "genres": [
         "Action",
         "Thriller",
@@ -337,7 +286,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.376878+00:00",
+    "scraped_at": "2026-08-03T09:31:37.967799+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8446,
@@ -388,20 +337,6 @@
         "normalized_time": "18:00"
       },
       {
-        "datetime": "2026-08-26T18:00:00",
-        "display_text": "Wednesday 26 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "26.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51813",
-        "booking_id": "51813",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-26T18:00:00",
-        "normalized_date": "26.08",
-        "normalized_time": "18:00"
-      },
-      {
         "datetime": "2026-08-29T20:30:00",
         "display_text": "Saturday 29 August 2026 at 20:30",
         "time": "20:30",
@@ -419,7 +354,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.376890+00:00",
+    "scraped_at": "2026-08-03T09:31:37.967814+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
@@ -484,7 +419,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.376909+00:00",
+    "scraped_at": "2026-08-03T09:31:37.967832+00:00",
     "source": "capitolbio"
   },
   {
@@ -515,7 +450,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.376927+00:00",
+    "scraped_at": "2026-08-03T09:31:37.967864+00:00",
     "source": "capitolbio"
   },
   {
@@ -546,7 +481,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.376937+00:00",
+    "scraped_at": "2026-08-03T09:31:37.967880+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -598,7 +533,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.376947+00:00",
+    "scraped_at": "2026-08-03T09:31:37.967894+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -648,14 +583,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.376956+00:00",
+    "scraped_at": "2026-08-03T09:31:37.967909+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
       "title": "Cabaret",
       "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
       "release_date": "1972-02-13",
-      "rating": 7.428,
+      "rating": 7.4,
       "vote_count": 992,
       "genres": [
         "Music",
@@ -700,7 +635,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.376964+00:00",
+    "scraped_at": "2026-08-03T09:31:37.967929+00:00",
     "source": "capitolbio"
   },
   {
@@ -731,7 +666,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.376973+00:00",
+    "scraped_at": "2026-08-03T09:31:37.967943+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
@@ -782,7 +717,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.376982+00:00",
+    "scraped_at": "2026-08-03T09:31:37.967957+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -833,7 +768,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.376991+00:00",
+    "scraped_at": "2026-08-03T09:31:37.967971+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3055,
@@ -884,14 +819,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.377000+00:00",
+    "scraped_at": "2026-08-03T09:31:37.968006+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
       "title": "Fame",
       "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
       "release_date": "1980-05-16",
-      "rating": 6.431,
+      "rating": 6.432,
       "vote_count": 520,
       "genres": [
         "Drama",
@@ -935,14 +870,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.377010+00:00",
+    "scraped_at": "2026-08-03T09:31:37.968024+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9584,
       "title": "Convoy",
       "overview": "Trucker Rubber Duck and his buddies Pig Pen, Widow Woman and Spider Mike use their CB radios to warn one another of the presence of cops. But conniving Sheriff Wallace is hip to the truckers' tactics, and begins tricking the drivers through his own CB broadcasts. Facing constant harassment from the law, Rubber Duck and his pals use their radios to coordinate a vast convoy and rule the road.",
       "release_date": "1978-06-27",
-      "rating": 6.277,
+      "rating": 6.276,
       "vote_count": 435,
       "genres": [
         "Action",
@@ -987,15 +922,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-02T08:12:03.377018+00:00",
+    "scraped_at": "2026-08-03T09:31:37.968039+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
       "title": "Kickboxer",
       "overview": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
       "release_date": "1989-04-20",
-      "rating": 6.842,
-      "vote_count": 1597,
+      "rating": 6.841,
+      "vote_count": 1599,
       "genres": [
         "Action",
         "Thriller",
