@@ -1,50 +1,5 @@
 [
   {
-    "film_id": "paradistorg",
-    "url": "https://zita.se/paradistorg",
-    "title": "Paradistorg",
-    "director": "",
-    "genre": "",
-    "duration": "Sverige19771 jan 2015112 minFrån 11 årSvenskaEngelska",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "20:00",
-        "time": "20:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5907",
-        "normalized_datetime": "2026-08-03T20:00:00",
-        "normalized_date": "03.08",
-        "normalized_time": "20:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-08-03T09:32:33.401746+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 394968,
-      "title": "Summer Paradise",
-      "overview": "Conventions of civility among family members are severely strained by the very real breakup of the bonds between them. During a few days at a vacation home, Katha, a woman in late middle age, tries to cope with an influx of discontented, disconnected relatives. Her divorced daughter brings all sorts of people to the house, including a woman-friend accompanied by her psychotic son; the grandfather of the house is convinced he is dying and is satisfied by nothing; and some friends drop off their angry teenage son to stay with her, while they go on a long trip abroad. Her friend Emma doesn't help much with keeping a lid on things, as she is a social worker who is fascinated by the awfulness of these situations.",
-      "release_date": "1977-04-27",
-      "rating": 5.125,
-      "vote_count": 8,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/gMF5FG141ItdIbx5AvoKHmhhXyi.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gMF5FG141ItdIbx5AvoKHmhhXyi.jpg",
-      "backdrop_path": "/wx3kJkFClKfJHNfA4EB2TNLespS.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/wx3kJkFClKfJHNfA4EB2TNLespS.jpg",
-      "imdb_id": "tt0076524",
-      "runtime": 113,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "persona",
     "url": "https://zita.se/persona",
     "title": "Persona",
@@ -53,10 +8,10 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2026-08-05T17:30:00",
-        "display_text": "ons 5 aug 17:30",
+        "datetime": "",
+        "display_text": "i morgon 17:30",
         "time": "17:30",
-        "date": "ons 5 aug",
+        "date": "i morgon",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=3116",
         "normalized_datetime": "2026-08-05T17:30:00",
@@ -67,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-08-03T09:32:35.414802+00:00",
+    "scraped_at": "2026-08-04T08:28:31.795357+00:00",
     "source": "zita",
     "tmdb": {
       "id": 797,
@@ -75,7 +30,7 @@
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
       "rating": 8.12,
-      "vote_count": 2441,
+      "vote_count": 2442,
       "genres": [
         "Drama"
       ],
