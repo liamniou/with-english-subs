@@ -9,9 +9,9 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "i morgon 17:30",
+        "display_text": "17:30",
         "time": "17:30",
-        "date": "i morgon",
+        "date": "",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=3116",
         "normalized_datetime": "2026-08-05T17:30:00",
@@ -22,15 +22,15 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-08-04T08:28:31.795357+00:00",
+    "scraped_at": "2026-08-05T08:27:25.610071+00:00",
     "source": "zita",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.12,
-      "vote_count": 2442,
+      "rating": 8.121,
+      "vote_count": 2444,
       "genres": [
         "Drama"
       ],
@@ -42,6 +42,53 @@
       "runtime": 85,
       "budget": 0,
       "revenue": 250000
+    }
+  },
+  {
+    "film_id": "sentimental-value",
+    "url": "https://zita.se/sentimental-value",
+    "title": "Sentimental Value",
+    "director": "",
+    "genre": "Norge20253 okt 2025126 minDramaFrån 11 årTriArtNorskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "2026-08-07T18:15:00",
+        "display_text": "fre 7 aug 18:15",
+        "time": "18:15",
+        "date": "fre 7 aug",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5437",
+        "normalized_datetime": "2026-08-07T18:15:00",
+        "normalized_date": "07.08",
+        "normalized_time": "18:15"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-08-05T08:27:28.980395+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1697369,
+      "title": "Sentimental Value",
+      "overview": "Dr. Rick Nelson, a victim of the Oklahoma City bombings, learns what it feels like to live in an alternate reality.",
+      "release_date": "2026-05-08",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Science Fiction"
+      ],
+      "poster_path": "/9lKnSnTFCj8TVWPi5ENNgS6qrbq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9lKnSnTFCj8TVWPi5ENNgS6qrbq.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": null,
+      "runtime": 7,
+      "budget": 0,
+      "revenue": 0
     }
   }
 ]
