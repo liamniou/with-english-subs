@@ -1,47 +1,48 @@
 [
   {
-    "film_id": "persona",
-    "url": "https://zita.se/persona",
-    "title": "Persona",
+    "film_id": "daughters-of-the-dust",
+    "url": "https://zita.se/daughters-dust",
+    "title": "Daughters of the Dust",
     "director": "",
-    "genre": "Sverige196618 okt 196685 minDramaFrån 15 årSvenskaEngelska",
+    "genre": "USA1991112 minDramaFrån 15 årJulie Dash...🔍Julie DashEngelska, FranskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "17:30",
-        "time": "17:30",
+        "display_text": "20:00",
+        "time": "20:00",
         "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3116",
-        "normalized_datetime": "2026-08-05T17:30:00",
-        "normalized_date": "05.08",
-        "normalized_time": "17:30"
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3807",
+        "normalized_datetime": "2026-08-06T20:00:00",
+        "normalized_date": "06.08",
+        "normalized_time": "20:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-08-05T08:27:25.610071+00:00",
+    "scraped_at": "2026-08-06T08:31:40.297720+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 797,
-      "title": "Persona",
-      "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
-      "release_date": "1966-10-18",
-      "rating": 8.121,
-      "vote_count": 2444,
+      "id": 68427,
+      "title": "Daughters of the Dust",
+      "overview": "In 1902, a Gullah family on the Sea Islands off South Carolina decide whether to migrate to the mainland, risking their unique cultural heritage.",
+      "release_date": "1991-01-24",
+      "rating": 6.3,
+      "vote_count": 57,
       "genres": [
-        "Drama"
+        "Drama",
+        "Romance"
       ],
-      "poster_path": "/yPTntWP9Wvew8vHN0jB7Z1EvEUN.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yPTntWP9Wvew8vHN0jB7Z1EvEUN.jpg",
-      "backdrop_path": "/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
-      "imdb_id": "tt0060827",
-      "runtime": 85,
-      "budget": 0,
-      "revenue": 250000
+      "poster_path": "/sk5qednzLeDZMIhto6Oa9QFKOon.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sk5qednzLeDZMIhto6Oa9QFKOon.jpg",
+      "backdrop_path": "/l8ofJ0ErKaL5F3JKmYVn4aa4i1w.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/l8ofJ0ErKaL5F3JKmYVn4aa4i1w.jpg",
+      "imdb_id": "tt0104057",
+      "runtime": 112,
+      "budget": 800000,
+      "revenue": 1642436
     }
   },
   {
@@ -53,10 +54,10 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2026-08-07T18:15:00",
-        "display_text": "fre 7 aug 18:15",
+        "datetime": "",
+        "display_text": "i morgon 18:15",
         "time": "18:15",
-        "date": "fre 7 aug",
+        "date": "i morgon",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5437",
         "normalized_datetime": "2026-08-07T18:15:00",
@@ -67,7 +68,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-08-05T08:27:28.980395+00:00",
+    "scraped_at": "2026-08-06T08:31:50.661400+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1697369,

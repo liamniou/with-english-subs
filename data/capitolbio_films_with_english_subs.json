@@ -27,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130018+00:00",
+    "scraped_at": "2026-08-06T08:23:35.389953+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 18415,
@@ -78,15 +78,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130059+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390007+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9470,
       "title": "Kung Fu Hustle",
       "overview": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
       "release_date": "2004-02-10",
-      "rating": 7.508,
-      "vote_count": 3265,
+      "rating": 7.509,
+      "vote_count": 3267,
       "genres": [
         "Action",
         "Comedy",
@@ -131,7 +131,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130070+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390026+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8374,
@@ -183,14 +183,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130104+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390071+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 13785,
       "title": "Best in Show",
       "overview": "The tension is palpable, the excitement is mounting and the heady scent of competition is in the air as hundreds of eager contestants from across America prepare to take part in what is undoubtedly one of the greatest events of their lives -- the Mayflower Dog Show. The canine contestants and their owners are as wondrously diverse as the great country that has bred them.",
       "release_date": "2000-09-29",
-      "rating": 6.884,
+      "rating": 6.9,
       "vote_count": 687,
       "genres": [
         "Comedy"
@@ -233,7 +233,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130114+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390088+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11690,
@@ -241,7 +241,7 @@
       "overview": "An American Army Major goes AWOL to Hong Kong for an outlawed martial arts contest called the Kumite.",
       "release_date": "1988-02-26",
       "rating": 7.06,
-      "vote_count": 2222,
+      "vote_count": 2223,
       "genres": [
         "Action",
         "Thriller",
@@ -285,7 +285,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130123+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390103+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8446,
@@ -336,20 +336,6 @@
         "normalized_time": "18:00"
       },
       {
-        "datetime": "2026-08-26T18:00:00",
-        "display_text": "Wednesday 26 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "26.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51813",
-        "booking_id": "51813",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-26T18:00:00",
-        "normalized_date": "26.08",
-        "normalized_time": "18:00"
-      },
-      {
         "datetime": "2026-08-29T20:30:00",
         "display_text": "Saturday 29 August 2026 at 20:30",
         "time": "20:30",
@@ -367,7 +353,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130133+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390117+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
@@ -432,7 +418,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130152+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390135+00:00",
     "source": "capitolbio"
   },
   {
@@ -463,7 +449,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130169+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390167+00:00",
     "source": "capitolbio"
   },
   {
@@ -494,7 +480,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130178+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390182+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -546,7 +532,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130187+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390196+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -596,7 +582,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130196+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390211+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
@@ -648,7 +634,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130205+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390228+00:00",
     "source": "capitolbio"
   },
   {
@@ -679,7 +665,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130213+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390242+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
@@ -687,7 +673,7 @@
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
       "rating": 6.3,
-      "vote_count": 2327,
+      "vote_count": 2329,
       "genres": [
         "Horror",
         "Drama"
@@ -730,7 +716,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130221+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390256+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -781,7 +767,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130231+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390270+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3055,
@@ -832,7 +818,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130239+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390287+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
@@ -853,58 +839,6 @@
       "runtime": 134,
       "budget": 8500000,
       "revenue": 42000000
-    }
-  },
-  {
-    "film_id": "convoy",
-    "url": "https://www.capitolbio.se/filmer/convoy/4530",
-    "title": "Convoy",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Sam Peckinpahs klassiska road-movie \n\nEn mäktig konvoj av dammhissande lastbilar går mot en statlig linje i sydvästra Amerika. Den massiva samlingen av fordon i alla former och storlekar leds av 'Rubber Duck', en legendarisk lastbilsförare som har samlat denna enorma armé tillsammans för att protestera mot poliskorruption, federala och statliga lagar och skuggiga politik.\n\nMed Kris Kristofferson och Ali MacGraw i huvudrollerna.\n\nFler klassiker att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4530/1920/2e2e5b6c-8b95-45ef-b6b6-0620483abd55.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-21T20:15:00",
-        "display_text": "Monday 21 September 2026 at 20:15",
-        "time": "20:15",
-        "date_section": "21.09",
-        "ticket_url": "https://www.capitolbio.se/boka/51710",
-        "booking_id": "51710",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-21T20:15:00",
-        "normalized_date": "21.09",
-        "normalized_time": "20:15"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-05T08:26:07.130249+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 9584,
-      "title": "Convoy",
-      "overview": "Trucker Rubber Duck and his buddies Pig Pen, Widow Woman and Spider Mike use their CB radios to warn one another of the presence of cops. But conniving Sheriff Wallace is hip to the truckers' tactics, and begins tricking the drivers through his own CB broadcasts. Facing constant harassment from the law, Rubber Duck and his pals use their radios to coordinate a vast convoy and rule the road.",
-      "release_date": "1978-06-27",
-      "rating": 6.276,
-      "vote_count": 435,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Drama"
-      ],
-      "poster_path": "/xjowoBInlikSlvfAYDRN9ubaODB.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xjowoBInlikSlvfAYDRN9ubaODB.jpg",
-      "backdrop_path": "/1AvdIZYSzPXgiDWIPldnja4awla.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1AvdIZYSzPXgiDWIPldnja4awla.jpg",
-      "imdb_id": "tt0077369",
-      "runtime": 112,
-      "budget": 12000000,
-      "revenue": 45000000
     }
   },
   {
@@ -935,7 +869,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-05T08:26:07.130257+00:00",
+    "scraped_at": "2026-08-06T08:23:35.390304+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,

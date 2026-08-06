@@ -1,1 +1,2439 @@
-[]
+[
+  {
+    "film_id": "10203",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=10203&cityId=1",
+    "title": "Originaltitel: Maynila: Sa mga kuko ng liwanag",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 22/8 kl. 18:30",
+        "normalized_datetime": "2026-08-22T18:30:00",
+        "normalized_date": "22.08",
+        "normalized_time": "18:30"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:23:57.412011",
+    "tmdb": {
+      "id": 70580,
+      "title": "Manila in the Claws of Light",
+      "overview": "Julio, a young fisherman from a provincial village, descends into social alienation as he arrives in Manila to search for his loved one.",
+      "release_date": "1975-07-16",
+      "rating": 7.38,
+      "vote_count": 75,
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "poster_path": "/jUV0ConXpzIlAsnqjzGp0CvuqG4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jUV0ConXpzIlAsnqjzGp0CvuqG4.jpg",
+      "backdrop_path": "/nu5kvLgnLwhdG7l2tJu3Z6ahjCW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nu5kvLgnLwhdG7l2tJu3Z6ahjCW.jpg",
+      "imdb_id": "tt0073363",
+      "runtime": 127,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14103",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14103&cityId=1",
+    "title": "Originaltitel: Herbaria",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "mån 24/8 kl. 18:00",
+        "normalized_datetime": "2026-08-24T18:00:00",
+        "normalized_date": "24.08",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Mauritz"
+    ],
+    "scraped_at": "2026-08-06T08:24:10.851099",
+    "tmdb": {
+      "id": 951188,
+      "title": "Herbaria",
+      "overview": "In his second feature film, Leandro Listorti establishes a parallel between two worlds he seems to know well: that of plants and that of cinema. This delicate cinematographic work, full of beautiful images—both archival and current—gives an account of the immense work of classification and preservation, and generously invites us to think about forms of representation and memory.",
+      "release_date": "2022-12-01",
+      "rating": 9.0,
+      "vote_count": 1,
+      "genres": [
+        "Documentary"
+      ],
+      "poster_path": "/6Te6HJKyal7aWqmJqQQTzWhdee8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6Te6HJKyal7aWqmJqQQTzWhdee8.jpg",
+      "backdrop_path": "/3JCNeZSwf44sLZ3pwA5LDJAJGZh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3JCNeZSwf44sLZ3pwA5LDJAJGZh.jpg",
+      "imdb_id": "tt11537034",
+      "runtime": 83,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14125",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14125&cityId=1",
+    "title": "Originaltitel: Die goldene Stadt",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 30/8 kl. 14:00",
+        "normalized_datetime": "2026-08-30T14:00:00",
+        "normalized_date": "30.08",
+        "normalized_time": "14:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:24:28.806240",
+    "tmdb": {
+      "id": 265025,
+      "title": "The Golden City",
+      "overview": "Anna Jobst is the daughter of a rich, conservative farmer. Living on the bank of the Moldau, she wishes nothing more than follow the river to Prague, the \"Golden City\".  After arriving, she quickly falls into a bad crowd.",
+      "release_date": "1942-09-03",
+      "rating": 5.833,
+      "vote_count": 9,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/qXlYxjIpOqiIDmLVXY5yfb7Drq9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qXlYxjIpOqiIDmLVXY5yfb7Drq9.jpg",
+      "backdrop_path": "/hbev9QNDMTXcojUcyrxQ4Hy2MMB.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hbev9QNDMTXcojUcyrxQ4Hy2MMB.jpg",
+      "imdb_id": "tt0034800",
+      "runtime": 110,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "10606",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=10606&cityId=1",
+    "title": "Originaltitel: Panelstory aneb Jak se rodí sídliste",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 30/8 kl. 16:30",
+        "normalized_datetime": "2026-08-30T16:30:00",
+        "normalized_date": "30.08",
+        "normalized_time": "16:30"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:24:32.163338",
+    "tmdb": {
+      "id": 182651,
+      "title": "Panelstory or Birth of a Community",
+      "overview": "An old man is wandering round a badly signposted and as yet mostly under construction Prague housing estate looking for the high rise block into which he is supposed to be moving with his daughter's family. The old granddad from the countryside likes chatting, nothing escapes his eyes and he wants to give everyone a helping hand.",
+      "release_date": "1981-12-25",
+      "rating": 7.2,
+      "vote_count": 13,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "poster_path": "/8eKqaFCGjMe43Uj2394z7c70s2M.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8eKqaFCGjMe43Uj2394z7c70s2M.jpg",
+      "backdrop_path": "/jYMqk4VFNi6GnEh4KpL0x2t4sdx.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jYMqk4VFNi6GnEh4KpL0x2t4sdx.jpg",
+      "imdb_id": "tt0079694",
+      "runtime": 96,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14095",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14095&cityId=1",
+    "title": "Originaltitel: Histoire(s) du cinéma 1a & 1b",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "ons 2/9 kl. 18:00",
+        "normalized_datetime": "2026-09-02T18:00:00",
+        "normalized_date": "02.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:24:41.008162",
+    "tmdb": {
+      "id": 91296,
+      "title": "Histoire(s) du Cinéma 1b: A Single (Hi)story",
+      "overview": "A very personal look at the history of cinema directed, written and edited by Jean-Luc Godard in his Swiss residence in Rolle for ten years (1988-98); a monumental collage, constructed from film fragments, texts and quotations, photos and paintings, music and sound, and diverse readings; a critical, beautiful and melancholic vision of cinematographic art.",
+      "release_date": "1989-11-16",
+      "rating": 6.6,
+      "vote_count": 27,
+      "genres": [
+        "Documentary"
+      ],
+      "poster_path": "/Alw1Ex1G4S6jFeGiLkGSRLesROW.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/Alw1Ex1G4S6jFeGiLkGSRLesROW.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt0179216",
+      "runtime": 42,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "39",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=39&cityId=1",
+    "title": "Originaltitel: Accattone",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "tor 3/9 kl. 18:00",
+        "normalized_datetime": "2026-09-03T18:00:00",
+        "normalized_date": "03.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:24:44.531175",
+    "tmdb": {
+      "id": 12491,
+      "title": "Accattone",
+      "overview": "A pimp with no other means to provide for himself finds his life spiralling out of control when his prostitute is sent to prison.",
+      "release_date": "1961-09-25",
+      "rating": 7.7,
+      "vote_count": 522,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/113ts2Bmm5CZ3YJMwfCU9XGFCAf.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/113ts2Bmm5CZ3YJMwfCU9XGFCAf.jpg",
+      "backdrop_path": "/rJSCS5EP9JGjNECa5hEB9Bsibjf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/rJSCS5EP9JGjNECa5hEB9Bsibjf.jpg",
+      "imdb_id": "tt0054599",
+      "runtime": 117,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "4271",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=4271&cityId=1",
+    "title": "Originaltitel: Popiól i diament",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "fre 4/9 kl. 18:00",
+        "normalized_datetime": "2026-09-04T18:00:00",
+        "normalized_date": "04.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:24:47.685516",
+    "tmdb": {
+      "id": 5055,
+      "title": "Ashes and Diamonds",
+      "overview": "A young academy soldier, Maciek Chelmicki, is ordered to shoot the secretary of the KW PPR. A coincidence causes him to kill someone else. Meeting face to face with his victim, he gets a shock. He faces the necessity of repeating the assassination.  He meets Krystyna, a girl working as a barmaid in the restaurant of the \"Monopol\" hotel. His affection for her makes him even more aware of the senselessness of killing at the end of the war. Loyalty to the oath he took, and thus the obligation to obey the order, tips the scales.",
+      "release_date": "1958-10-03",
+      "rating": 7.4,
+      "vote_count": 284,
+      "genres": [
+        "Drama",
+        "War",
+        "Romance"
+      ],
+      "poster_path": "/nE8aqRvVnRQEqskiarnFhdJdk8g.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nE8aqRvVnRQEqskiarnFhdJdk8g.jpg",
+      "backdrop_path": "/1QlZ3Kge4bCH01V3VibxckeVIiu.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1QlZ3Kge4bCH01V3VibxckeVIiu.jpg",
+      "imdb_id": "tt0052080",
+      "runtime": 103,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14106",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14106&cityId=1",
+    "title": "Originaltitel: Pokolenie",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 13/9 kl. 16:00",
+        "normalized_datetime": "2026-09-13T16:00:00",
+        "normalized_date": "13.09",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:25:16.762688",
+    "tmdb": {
+      "id": 43322,
+      "title": "A Generation",
+      "overview": "Stach is a wayward teen living in squalor on the outskirts of Nazi-occupied Warsaw. Guided by an avuncular Communist organizer, he is introduced to the underground resistance—and to the beautiful Dorota. Soon he is engaged in dangerous efforts to fight oppression and indignity, maturing as he assumes responsibility for others’ lives.",
+      "release_date": "1955-01-26",
+      "rating": 6.968,
+      "vote_count": 63,
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "poster_path": "/zUQKN61bjCxSgubchybgzExMCNR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zUQKN61bjCxSgubchybgzExMCNR.jpg",
+      "backdrop_path": "/mVQthfjH5QrkDyiY6RxAgl60LqG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mVQthfjH5QrkDyiY6RxAgl60LqG.jpg",
+      "imdb_id": "tt0048500",
+      "runtime": 87,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14053",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14053&cityId=1",
+    "title": "Originaltitel: Die Straße",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "tis 15/9 kl. 18:00",
+        "normalized_datetime": "2026-09-15T18:00:00",
+        "normalized_date": "15.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:25:23.526301",
+    "tmdb": {
+      "id": 130052,
+      "title": "The Street",
+      "overview": "The movie follows two distinct plot lines until the two eventually merge: the first is that of the bored middle-aged man seeking a departure from monotony in his life; the second is that of the blind man and the little boy, his grandson, who are interdependent. None of the characters have been given names and are therefore referred to only by description. The city is an expressionistic nightmare, a dangerous and chaotic place.",
+      "release_date": "1923-11-29",
+      "rating": 7.1,
+      "vote_count": 19,
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "poster_path": "/84cRJwtD6Yonnant5pSyvbb9xJl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/84cRJwtD6Yonnant5pSyvbb9xJl.jpg",
+      "backdrop_path": "/xT8WQzupmSgVhZsPXFlB7yr1pCD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xT8WQzupmSgVhZsPXFlB7yr1pCD.jpg",
+      "imdb_id": "tt0014516",
+      "runtime": 79,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "6600",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=6600&cityId=1",
+    "title": "Originaltitel: Westler",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 19/9 kl. 16:30",
+        "normalized_datetime": "2026-09-19T16:30:00",
+        "normalized_date": "19.09",
+        "normalized_time": "16:30"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:25:33.870979",
+    "tmdb": {
+      "id": 39360,
+      "title": "Westler: East of the Wall",
+      "overview": "Felix from West-Berlin falls in love with Thomas in East-Berlin. At first they keep their relationship going by regular visits from Felix, but the curfew forces him to return every evening. When the East-German authorities become suspicious, Thomas decides to try and flee to the West.",
+      "release_date": "1985-03-28",
+      "rating": 5.571,
+      "vote_count": 14,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/s6CY1fNNVbB1ShrTC0en34Z2ZJ8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/s6CY1fNNVbB1ShrTC0en34Z2ZJ8.jpg",
+      "backdrop_path": "/aqdZHdhZrTzc99FOy7BtXFvte7C.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/aqdZHdhZrTzc99FOy7BtXFvte7C.jpg",
+      "imdb_id": "tt0090309",
+      "runtime": 94,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "8794",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=8794&cityId=1",
+    "title": "Originaltitel: Christiane F. - Wir Kinder vom Bahnhof Zoo",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 19/9 kl. 18:30",
+        "normalized_datetime": "2026-09-19T18:30:00",
+        "normalized_date": "19.09",
+        "normalized_time": "18:30"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:25:37.428577",
+    "tmdb": {
+      "id": 9589,
+      "title": "Christiane F.",
+      "overview": "A teen girl in 1970s Berlin becomes addicted to heroin. Everything in her life slowly begins to distort and disappear as she befriends a small crew of junkies and falls in love with a drug-abusing male prostitute.",
+      "release_date": "1981-04-02",
+      "rating": 7.3,
+      "vote_count": 1458,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/dHNonSmzgxMzEWp0FrzQIVvcBD6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dHNonSmzgxMzEWp0FrzQIVvcBD6.jpg",
+      "backdrop_path": "/1X8giVBqnqLqnMKPPOnmqR3eUly.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1X8giVBqnqLqnMKPPOnmqR3eUly.jpg",
+      "imdb_id": "tt0082176",
+      "runtime": 131,
+      "budget": 4000000,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "2764",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=2764&cityId=1",
+    "title": "Originaltitel: Kanal",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 20/9 kl. 16:00",
+        "normalized_datetime": "2026-09-20T16:00:00",
+        "normalized_date": "20.09",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:25:42.488718",
+    "tmdb": {
+      "id": 29933,
+      "title": "Kanal",
+      "overview": "In the last few days of the Warsaw Uprising during World War II, a modest group of Resistance members remains. The band must take refuge in the sewers under the orders of leader Zadra, but it's only a matter of time before they will have to emerge. However, when they try, they are met only with intense hostility from the Nazis. Despite their attempts stay resolute through immense mental strain, it becomes increasingly apparent that they may be doomed.",
+      "release_date": "1957-04-20",
+      "rating": 7.7,
+      "vote_count": 161,
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "poster_path": "/mUxZNNmvX3MwIJ9LTcuw76ZdtN6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mUxZNNmvX3MwIJ9LTcuw76ZdtN6.jpg",
+      "backdrop_path": "/kfuJtNiY3aevZHzSMA007pbVWqH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kfuJtNiY3aevZHzSMA007pbVWqH.jpg",
+      "imdb_id": "tt0050585",
+      "runtime": 96,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14092",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14092&cityId=1",
+    "title": "Originaltitel: Cure",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "fre 25/9 kl. 18:00",
+        "normalized_datetime": "2026-09-25T18:00:00",
+        "normalized_date": "25.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:25:55.322372",
+    "tmdb": {
+      "id": 36095,
+      "title": "Cure",
+      "overview": "A frustrated detective deals with the case of several gruesome murders committed by people who have no recollection of what they've done.",
+      "release_date": "1997-12-27",
+      "rating": 7.548,
+      "vote_count": 833,
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ],
+      "poster_path": "/xNVJr9q6AtSbjosS6Ed9YirOkSo.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xNVJr9q6AtSbjosS6Ed9YirOkSo.jpg",
+      "backdrop_path": "/xxIRKSd9LmHojUD5grvMuGypwVC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xxIRKSd9LmHojUD5grvMuGypwVC.jpg",
+      "imdb_id": "tt0123948",
+      "runtime": 111,
+      "budget": 20000,
+      "revenue": 234821
+    }
+  },
+  {
+    "film_id": "14054",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14054&cityId=1",
+    "title": "Originaltitel: Asphalt",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 26/9 kl. 14:00",
+        "normalized_datetime": "2026-09-26T14:00:00",
+        "normalized_date": "26.09",
+        "normalized_time": "14:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:25:58.686046",
+    "tmdb": {
+      "id": 55584,
+      "title": "Asphalt",
+      "overview": "Starring Betty Amann in her most famous leading role, Joe May's Asphalt is a luxuriously produced German Expressionist classic where tragic liaisons and fatal encounters are shaped alongside the constant roar of Berlin traffic.",
+      "release_date": "1929-03-12",
+      "rating": 7.284,
+      "vote_count": 51,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/dlAQ3fEkoTOn4WNF9Zh9Rk2bMEN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dlAQ3fEkoTOn4WNF9Zh9Rk2bMEN.jpg",
+      "backdrop_path": "/wJMaLm0XXhB4Pq5ptmSPoSuM6Wr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/wJMaLm0XXhB4Pq5ptmSPoSuM6Wr.jpg",
+      "imdb_id": "tt0019655",
+      "runtime": 93,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "3749",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=3749&cityId=1",
+    "title": "Originaltitel: Niewinni czarodzieje",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 27/9 kl. 16:30",
+        "normalized_datetime": "2026-09-27T16:30:00",
+        "normalized_date": "27.09",
+        "normalized_time": "16:30"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:26:07.253205",
+    "tmdb": {
+      "id": 80324,
+      "title": "Innocent Sorcerers",
+      "overview": "A young doctor is tired of being sought by women. One night he meets a young girl who all but forces herself into his room where they talk of morals and love.",
+      "release_date": "1960-12-17",
+      "rating": 7.011,
+      "vote_count": 46,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "poster_path": "/t8fadEnUuIczqDZVcWaVQECUVRh.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/t8fadEnUuIczqDZVcWaVQECUVRh.jpg",
+      "backdrop_path": "/yVywZerF7Blnq4lZcGTl9OtRvEr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yVywZerF7Blnq4lZcGTl9OtRvEr.jpg",
+      "imdb_id": "tt0054119",
+      "runtime": 83,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14089",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14089&cityId=1",
+    "title": "Originaltitel: Die Zärtlichkeit der Wölfe",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 27/9 kl. 18:30",
+        "normalized_datetime": "2026-09-27T18:30:00",
+        "normalized_date": "27.09",
+        "normalized_time": "18:30"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:26:10.449153",
+    "tmdb": {
+      "id": 127946,
+      "title": "Tenderness of the Wolves",
+      "overview": "A German serial killer preys on boys and young men during the so-called years of crisis between the wars. Based on the true story of Fritz Haarmann, aka the Butcher of Hanover and the Vampire of Hanover.",
+      "release_date": "1973-07-12",
+      "rating": 5.663,
+      "vote_count": 46,
+      "genres": [
+        "Horror",
+        "Crime",
+        "Drama"
+      ],
+      "poster_path": "/hArRqqGnyoHERNzKnbrOJGLKoKq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hArRqqGnyoHERNzKnbrOJGLKoKq.jpg",
+      "backdrop_path": "/wd3MNn0tkExUKCzbfkkEJ8ZFshP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/wd3MNn0tkExUKCzbfkkEJ8ZFshP.jpg",
+      "imdb_id": "tt0070957",
+      "runtime": 82,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "10254",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=10254&cityId=1",
+    "title": "Originaltitel: Xiao Wu",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "tis 29/9 kl. 18:00",
+        "normalized_datetime": "2026-09-29T18:00:00",
+        "normalized_date": "29.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:26:15.644749",
+    "tmdb": {
+      "id": 258814,
+      "title": "Hidden Whisper",
+      "overview": "The film consists of three stories: One about a 5-year-old girl, one about a teenager, and still another about a 30 something woman involved in an affair with a married man. Without providing a definite answer whether the three leading actresses are playing the same person in different stages of life, the movie instead hovers on several consistent themes that keep on emerging in all the stories. For example, the image of drops of blood on the clothes, in the shape of maroon flowers.",
+      "release_date": "2000-11-11",
+      "rating": 7.5,
+      "vote_count": 2,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/87PDNPoflbweSwLkQaNXU9YyGSG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/87PDNPoflbweSwLkQaNXU9YyGSG.jpg",
+      "backdrop_path": "/36SkKq0Or03peUDmQ71g3BVzzqd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/36SkKq0Or03peUDmQ71g3BVzzqd.jpg",
+      "imdb_id": "tt0247061",
+      "runtime": 96,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "7607",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=7607&cityId=1",
+    "title": "Originaltitel: Ayneh",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 3/10 kl. 16:00",
+        "normalized_datetime": "2026-10-03T16:00:00",
+        "normalized_date": "03.10",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:26:26.592338",
+    "tmdb": {
+      "id": 511455,
+      "title": "Wing Mirror",
+      "overview": "Accidentally, a poor couple and a rich one meet each other. These young couple have some difficulties.",
+      "release_date": "2017-12-06",
+      "rating": 3.7,
+      "vote_count": 11,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "poster_path": "/6aGqNisJ0t1gL2mpccIw16dmS8Y.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6aGqNisJ0t1gL2mpccIw16dmS8Y.jpg",
+      "backdrop_path": "/nSmsaUAN1G8kYh91Me8lB6S8eTd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nSmsaUAN1G8kYh91Me8lB6S8eTd.jpg",
+      "imdb_id": "tt7203412",
+      "runtime": 102,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "1117",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=1117&cityId=1",
+    "title": "Originaltitel: Czlowiek z marmuru",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "mån 5/10 kl. 18:00",
+        "normalized_datetime": "2026-10-05T18:00:00",
+        "normalized_date": "05.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Mauritz"
+    ],
+    "scraped_at": "2026-08-06T08:26:37.255580",
+    "tmdb": {
+      "id": 224,
+      "title": "Man of Marble",
+      "overview": "A young Polish filmmaker sets out to find out what happened to Mateusz Birkut, a bricklayer who became a propaganda hero in the 1950s but later fell out of favor and disappeared.",
+      "release_date": "1977-02-25",
+      "rating": 7.0,
+      "vote_count": 93,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/dQWfBHQmdQbcUAeyr0VS1j19uto.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dQWfBHQmdQbcUAeyr0VS1j19uto.jpg",
+      "backdrop_path": "/36zif7dloaMlMUzrIW5xf1ymqV2.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/36zif7dloaMlMUzrIW5xf1ymqV2.jpg",
+      "imdb_id": "tt0075902",
+      "runtime": 153,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14096",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14096&cityId=1",
+    "title": "Originaltitel: Histoire(s) du cinéma 2a & Orphée",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "tis 6/10 kl. 18:00",
+        "normalized_datetime": "2026-10-06T18:00:00",
+        "normalized_date": "06.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:26:40.503375"
+  },
+  {
+    "film_id": "14070",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14070&cityId=1",
+    "title": "Originaltitel: Pane, amore e fantasia",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "ons 7/10 kl. 18:00",
+        "normalized_datetime": "2026-10-07T18:00:00",
+        "normalized_date": "07.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:26:43.765118",
+    "tmdb": {
+      "id": 56402,
+      "title": "Bread, Love and Dreams",
+      "overview": "When a veteran marshal is sent to a small town, he quickly falls for two women: a midwife and an earthy young woman nicknamed \"Frisky\".",
+      "release_date": "1953-12-22",
+      "rating": 7.0,
+      "vote_count": 183,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "poster_path": "/qFZa1OU1Kbp0yDQN9RvU5bmWNAw.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qFZa1OU1Kbp0yDQN9RvU5bmWNAw.jpg",
+      "backdrop_path": "/kvL58xz7yjaBuZ75Y4A0dmztoQq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kvL58xz7yjaBuZ75Y4A0dmztoQq.jpg",
+      "imdb_id": "tt0046159",
+      "runtime": 87,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14075",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14075&cityId=1",
+    "title": "Originaltitel: Senza sapere niente di lei",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 11/10 kl. 18:00",
+        "normalized_datetime": "2026-10-11T18:00:00",
+        "normalized_date": "11.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:27:00.612879",
+    "tmdb": {
+      "id": 104945,
+      "title": "Unknown Woman",
+      "overview": "When an old lady dies two hours before her life insurance expires, the insurance lawyer suspects something dubious. He begins to investigate and he becomes the lover of the old lady's daughter...",
+      "release_date": "1969-11-18",
+      "rating": 7.2,
+      "vote_count": 5,
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "poster_path": "/wzBrD3dgwAZaVlAyUaf2uucnyKC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wzBrD3dgwAZaVlAyUaf2uucnyKC.jpg",
+      "backdrop_path": "/v57qaCMxWLzeP3imfkAMvmqq6mU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/v57qaCMxWLzeP3imfkAMvmqq6mU.jpg",
+      "imdb_id": "tt0173184",
+      "runtime": 96,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14109",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14109&cityId=1",
+    "title": "Originaltitel: Sziget a szárazföldön",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "mån 12/10 kl. 18:00",
+        "normalized_datetime": "2026-10-12T18:00:00",
+        "normalized_date": "12.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Mauritz"
+    ],
+    "scraped_at": "2026-08-06T08:27:03.855044",
+    "tmdb": {
+      "id": 245656,
+      "title": "The Lady from Constantinople",
+      "overview": "Persuaded by the janitor's wife, a lively, but lonesome old woman, who is only attached to the world through her cherished objects and memories, decides to exchange her two-room apartment for a smaller one. For a little while her everyday life is changed. She meets and entertains new people every day.",
+      "release_date": "1969-09-04",
+      "rating": 6.286,
+      "vote_count": 7,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/lyo0UrNpobfgg7mSPnsHSwicHJS.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lyo0UrNpobfgg7mSPnsHSwicHJS.jpg",
+      "backdrop_path": "/o8wiTzueG1SywoS3XA534LEZYv8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/o8wiTzueG1SywoS3XA534LEZYv8.jpg",
+      "imdb_id": "tt0065059",
+      "runtime": 79,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14077",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14077&cityId=1",
+    "title": "Originaltitel: Il tempo che ci vuole",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "tis 13/10 kl. 18:00",
+        "normalized_datetime": "2026-10-13T18:00:00",
+        "normalized_date": "13.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:27:07.058056",
+    "tmdb": {
+      "id": 1103750,
+      "title": "The Time It Takes",
+      "overview": "A devoted father working in film shares a magical bond with his daughter, but as she enters adolescence and falls into addiction, he takes her to Paris in a final effort to save her and their fading connection.",
+      "release_date": "2024-09-26",
+      "rating": 6.933,
+      "vote_count": 90,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/3YrO0qSnbAvxVJKRMXrajhYkzfH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3YrO0qSnbAvxVJKRMXrajhYkzfH.jpg",
+      "backdrop_path": "/3yEsVpfLhHC0Lljl56hSFBGfHM7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3yEsVpfLhHC0Lljl56hSFBGfHM7.jpg",
+      "imdb_id": "tt27952254",
+      "runtime": 110,
+      "budget": 0,
+      "revenue": 1087697
+    }
+  },
+  {
+    "film_id": "10292",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=10292&cityId=1",
+    "title": "Originaltitel: Pardeh",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "ons 14/10 kl. 18:00",
+        "normalized_datetime": "2026-10-14T18:00:00",
+        "normalized_date": "14.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Mauritz"
+    ],
+    "scraped_at": "2026-08-06T08:27:10.401253",
+    "tmdb": {
+      "id": 493826,
+      "title": "7 Veils",
+      "overview": "From Afghanistan, little is known but a few cliches, the word Taliban, and a war that seems to have never ceased since the Soviet era and its new turn taken since 2001. A country devastated in a state of permanent conflict, a population deeply marked: how to do it justice?  Equipped with her only camera, reconnecting with her beginnings on documentaries, the director embraces the beautiful ambition to reach the intimate heart of the country.",
+      "release_date": "2017-01-04",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Documentary"
+      ],
+      "poster_path": "/vDJN8XQTViNqBNtBtdrkLTnUEEI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vDJN8XQTViNqBNtBtdrkLTnUEEI.jpg",
+      "backdrop_path": "/uSrVVaWBlK21ZnVziort2lmz53s.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/uSrVVaWBlK21ZnVziort2lmz53s.jpg",
+      "imdb_id": "tt7290698",
+      "runtime": 80,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14067",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14067&cityId=1",
+    "title": "Originaltitel: Pola X",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "tor 15/10 kl. 18:00",
+        "normalized_datetime": "2026-10-15T18:00:00",
+        "normalized_date": "15.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:27:13.710529",
+    "tmdb": {
+      "id": 35717,
+      "title": "Pola X",
+      "overview": "A writer leaves his upper-class life and journeys with a woman claiming to be his sister, and her two friends.",
+      "release_date": "1999-05-12",
+      "rating": 5.5,
+      "vote_count": 100,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/gTmZlEoH03sNtaNeYbboB7vgn5j.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gTmZlEoH03sNtaNeYbboB7vgn5j.jpg",
+      "backdrop_path": "/1GLqS5pRl3xpgrPjrIkFpQZH1IZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1GLqS5pRl3xpgrPjrIkFpQZH1IZ.jpg",
+      "imdb_id": "tt0152015",
+      "runtime": 134,
+      "budget": 11000000,
+      "revenue": 791919
+    }
+  },
+  {
+    "film_id": "14136",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14136&cityId=1",
+    "title": "Originaltitel: Trenque Lauquen",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 17/10 kl. 16:30",
+        "normalized_datetime": "2026-10-17T16:30:00",
+        "normalized_date": "17.10",
+        "normalized_time": "16:30"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Mauritz"
+    ],
+    "scraped_at": "2026-08-06T08:27:20.647238",
+    "tmdb": {
+      "id": 715742,
+      "title": "Trenque Lauquen",
+      "overview": "With the strange disappearance of Laura, two colleagues, her older boyfriend, Rafael, and Ezequiel, learn of their recent discoveries, which may help them locate her. However, the story is bigger and stranger than they could imagine.",
+      "release_date": "2023-05-02",
+      "rating": 7.2,
+      "vote_count": 50,
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_path": "/pSxqQpy0IbmVwzUNMGnoTVRg7f0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pSxqQpy0IbmVwzUNMGnoTVRg7f0.jpg",
+      "backdrop_path": "/fnYViegs73sx1vBxxIxFMVTts9s.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fnYViegs73sx1vBxxIxFMVTts9s.jpg",
+      "imdb_id": "tt21378968",
+      "runtime": 260,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14071",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14071&cityId=1",
+    "title": "Originaltitel: La finestra sul Luna park",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 18/10 kl. 16:00",
+        "normalized_datetime": "2026-10-18T16:00:00",
+        "normalized_date": "18.10",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:27:25.860399",
+    "tmdb": {
+      "id": 269297,
+      "title": "The Window to Luna Park",
+      "overview": "Back home after his wife's death, a migrant labourer faces a dilemma between a high-paying job overseas and one last chance at reconnecting with his son, who sees him only as a stranger because of all his years abroad.",
+      "release_date": "1957-08-29",
+      "rating": 6.8,
+      "vote_count": 10,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/kro46CnYBbo8jwmpltiyIPuqqyb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kro46CnYBbo8jwmpltiyIPuqqyb.jpg",
+      "backdrop_path": "/nYF4O02GdzhAE9DdAKD7p8za01G.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nYF4O02GdzhAE9DdAKD7p8za01G.jpg",
+      "imdb_id": "tt0049209",
+      "runtime": 90,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14097",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14097&cityId=1",
+    "title": "Originaltitel: Histoire(s) du cinéma 2b & B som i bluff",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 18/10 kl. 18:00",
+        "normalized_datetime": "2026-10-18T18:00:00",
+        "normalized_date": "18.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:27:29.198776"
+  },
+  {
+    "film_id": "9512",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=9512&cityId=1",
+    "title": "Originaltitel: Touki Bouki",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "tis 20/10 kl. 18:00",
+        "normalized_datetime": "2026-10-20T18:00:00",
+        "normalized_date": "20.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Mauritz"
+    ],
+    "scraped_at": "2026-08-06T08:27:34.229386",
+    "tmdb": {
+      "id": 77771,
+      "title": "Touki Bouki",
+      "overview": "Mory, a cowherd, and Anta, a university student, try to make money in order to go to Paris and leave their boring past behind.",
+      "release_date": "1973-05-10",
+      "rating": 6.603,
+      "vote_count": 121,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/kcBYKHyg9GcQqa6DWq0AuQDhtPI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kcBYKHyg9GcQqa6DWq0AuQDhtPI.jpg",
+      "backdrop_path": "/7DlEixaKiNJyK0tHri0AEUAQrk8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7DlEixaKiNJyK0tHri0AEUAQrk8.jpg",
+      "imdb_id": "tt0070820",
+      "runtime": 91,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "10258",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=10258&cityId=1",
+    "title": "Originaltitel: Er shi si cheng ji",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 25/10 kl. 18:00",
+        "normalized_datetime": "2026-10-25T18:00:00",
+        "normalized_date": "25.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:27:51.806638",
+    "tmdb": {
+      "id": 29972,
+      "title": "24 City",
+      "overview": "As a decades-old state-run aeronautics munitions factory in downtown Chengdu, China is being torn down for the construction of the titular luxury apartment complex, director Jia Zhangke interviews various people affiliated with it about their experiences.",
+      "release_date": "2008-09-27",
+      "rating": 7.0,
+      "vote_count": 63,
+      "genres": [
+        "Drama",
+        "Documentary"
+      ],
+      "poster_path": "/zAtPh6od2wiaarDxwnpXeD3IgKF.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zAtPh6od2wiaarDxwnpXeD3IgKF.jpg",
+      "backdrop_path": "/bf2qMkrj8Ifx97mQzFn1YS6h4uh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bf2qMkrj8Ifx97mQzFn1YS6h4uh.jpg",
+      "imdb_id": "tt1103963",
+      "runtime": 108,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14110",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14110&cityId=1",
+    "title": "Originaltitel: Istenmezején 1972-73-ban",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "mån 26/10 kl. 18:00",
+        "normalized_datetime": "2026-10-26T18:00:00",
+        "normalized_date": "26.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Mauritz"
+    ],
+    "scraped_at": "2026-08-06T08:27:55.343114"
+  },
+  {
+    "film_id": "14102",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14102&cityId=1",
+    "title": "Originaltitel: Histoire(s) du cinéma 3a & Teorema",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "ons 28/10 kl. 18:00",
+        "normalized_datetime": "2026-10-28T18:00:00",
+        "normalized_date": "28.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:28:01.071084"
+  },
+  {
+    "film_id": "14074",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14074&cityId=1",
+    "title": "Originaltitel: Incompreso",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 31/10 kl. 16:30",
+        "normalized_datetime": "2026-10-31T16:30:00",
+        "normalized_date": "31.10",
+        "normalized_time": "16:30"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:28:11.022935",
+    "tmdb": {
+      "id": 166451,
+      "title": "Incompreso",
+      "overview": "Freely taken from the novel \"Misunderstood\" by Florence Montgomery, \"Incompreso\" takes place in the second half of the 1950s in Lucca: Edoardo Quaratesi, an important producer of fine wines, while loving his wife Elisa and his two children, Francesco and Mino, is mainly dedicated to his work. To suffer the most from the absence of Edoardo is the firstborn, Francesco, who pours all his unsatisfied need for love on his mother and little brother. After Elisa's death due to a serious illness, the situation at the Quaratesi home gets complicated, until we reach a dramatic epilogue.",
+      "release_date": "1998-01-29",
+      "rating": 7.862,
+      "vote_count": 29,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/qCJO8ihFmyCe60dVwqcL9dZRlwF.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qCJO8ihFmyCe60dVwqcL9dZRlwF.jpg",
+      "backdrop_path": "/dbcS7iybnIYoapGzV52OrmBVyBq.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/dbcS7iybnIYoapGzV52OrmBVyBq.jpg",
+      "imdb_id": "tt0309165",
+      "runtime": 0,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "736",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=736&cityId=1",
+    "title": "Originaltitel: Brzezina",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 1/11 kl. 16:00",
+        "normalized_datetime": "2026-11-01T16:00:00",
+        "normalized_date": "01.11",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:28:18.703655",
+    "tmdb": {
+      "id": 42539,
+      "title": "The Birch Wood",
+      "overview": "A man suffering from tuberculosis returns from abroad to stay at his brother's farm, hoping to make amends, while also beginning a love affair with a farm girl.",
+      "release_date": "1970-11-10",
+      "rating": 6.563,
+      "vote_count": 24,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/nZWaiNDaY6fWUh8KE9nCKFQXQ00.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nZWaiNDaY6fWUh8KE9nCKFQXQ00.jpg",
+      "backdrop_path": "/m1IsEhhaG3mPPi2RHoLQ6avw90x.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/m1IsEhhaG3mPPi2RHoLQ6avw90x.jpg",
+      "imdb_id": "tt0068321",
+      "runtime": 99,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "10223",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=10223&cityId=1",
+    "title": "Originaltitel: Tokyo!",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 1/11 kl. 18:00",
+        "normalized_datetime": "2026-11-01T18:00:00",
+        "normalized_date": "01.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:28:21.867557",
+    "tmdb": {
+      "id": 405818,
+      "title": "Door II: Tokyo Diary",
+      "overview": "Ai is a call girl that makes good money for what she does but there’s always at risk no matter how good the money is.",
+      "release_date": "1991-04-25",
+      "rating": 6.2,
+      "vote_count": 15,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "poster_path": "/lskJ34j4VKwbMwcvFSQeNYEdt8g.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lskJ34j4VKwbMwcvFSQeNYEdt8g.jpg",
+      "backdrop_path": "/jRJKqIOPOlwRbznby6b1ounyygm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jRJKqIOPOlwRbznby6b1ounyygm.jpg",
+      "imdb_id": "tt0223151",
+      "runtime": 82,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14111",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14111&cityId=1",
+    "title": "Originaltitel: Egyszerü történet",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "mån 2/11 kl. 18:00",
+        "normalized_datetime": "2026-11-02T18:00:00",
+        "normalized_date": "02.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Mauritz"
+    ],
+    "scraped_at": "2026-08-06T08:28:25.102500",
+    "tmdb": {
+      "id": 481012,
+      "title": "A Commonplace Story",
+      "overview": "The second part of Judit Eleks long-term documentary about two girls and their lives in a small Hungarian village. What has become of their dreams and hopes?",
+      "release_date": "1976-12-02",
+      "rating": 9.0,
+      "vote_count": 1,
+      "genres": [
+        "Documentary"
+      ],
+      "poster_path": "/ue6qjJykssbmoSh75UdmVjeBVrg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ue6qjJykssbmoSh75UdmVjeBVrg.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt0169843",
+      "runtime": 104,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "11835",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=11835&cityId=1",
+    "title": "Originaltitel: Mordets Melodi",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "tis 3/11 kl. 18:00",
+        "normalized_datetime": "2026-11-03T18:00:00",
+        "normalized_date": "03.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:28:28.405282",
+    "tmdb": {
+      "id": 73271,
+      "title": "Melody of a Murder",
+      "overview": "A woman is found strangled in her shop. Shortly after, another murder is committed. Perhaps the most terrifying is that the both girls' name is Sonja. The police is convinced it's the same killer and at each scene is heard a woman singing the same song. A song which is soon dubbed the 'murder melody.'",
+      "release_date": "1944-03-31",
+      "rating": 5.923,
+      "vote_count": 13,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "poster_path": "/z9IDKdPfGFBQK2cASz0dk0znYji.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z9IDKdPfGFBQK2cASz0dk0znYji.jpg",
+      "backdrop_path": "/8KzlgFtjKEsdFp4xQogcoL5njnm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8KzlgFtjKEsdFp4xQogcoL5njnm.jpg",
+      "imdb_id": "tt0122619",
+      "runtime": 93,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14121",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14121&cityId=1",
+    "title": "Originaltitel: Tianmimi",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "ons 4/11 kl. 18:00",
+        "normalized_datetime": "2026-11-04T18:00:00",
+        "normalized_date": "04.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:28:31.718913"
+  },
+  {
+    "film_id": "14126",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14126&cityId=1",
+    "title": "Originaltitel: Obaltan",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "fre 6/11 kl. 18:00",
+        "normalized_datetime": "2026-11-06T18:00:00",
+        "normalized_date": "06.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:28:37.060126",
+    "tmdb": {
+      "id": 70909,
+      "title": "Aimless Bullet",
+      "overview": "Two brothers—Chul-ho, an accountant with a toothache and a pregnant wife, and Yong-ho, an unemployed ex-soldier wounded in battle—navigate life in post-war Korea.",
+      "release_date": "1961-04-13",
+      "rating": 7.118,
+      "vote_count": 38,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/4O53U5HYkdw4HN6mpJmvxqfPi7U.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4O53U5HYkdw4HN6mpJmvxqfPi7U.jpg",
+      "backdrop_path": "/f1d3HKb0maqs8Axluv86cHM6DMd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/f1d3HKb0maqs8Axluv86cHM6DMd.jpg",
+      "imdb_id": "tt0053577",
+      "runtime": 107,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14065",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14065&cityId=1",
+    "title": "Originaltitel: Det sande ansigt",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 7/11 kl. 14:00",
+        "normalized_datetime": "2026-11-07T14:00:00",
+        "normalized_date": "07.11",
+        "normalized_time": "14:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:28:40.513471",
+    "tmdb": {
+      "id": 326102,
+      "title": "The Face of Truth",
+      "overview": "Lau Lauritzen plays an ordinary architect, with a wife and a son. He gets accused for killing a 10-year old girl, and of course nobody doubts he's the one. Even his wife and his uncle has trouble believing him, but at least they don't tell him.",
+      "release_date": "1951-08-21",
+      "rating": 6.833,
+      "vote_count": 6,
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "poster_path": "/vgBSECTIzJttIJo1VIQF4nozc5y.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vgBSECTIzJttIJo1VIQF4nozc5y.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt0043990",
+      "runtime": 92,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14127",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14127&cityId=1",
+    "title": "Originaltitel: Reptilicus",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 7/11 kl. 16:00",
+        "normalized_datetime": "2026-11-07T16:00:00",
+        "normalized_date": "07.11",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:28:43.985089",
+    "tmdb": {
+      "id": 21266,
+      "title": "Reptilicus",
+      "overview": "A portion of the tail of a prehistoric reptile is discovered in Denmark. It regenerates into the entire reptile, which proceeds to destroy buildings and property and generally make a nuisance of itself. It can fly, swim, and walk, and has impenetrable scales, which makes it difficult to kill.",
+      "release_date": "1961-02-20",
+      "rating": 3.7,
+      "vote_count": 105,
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "poster_path": "/aROeaJgaEoq72gksPLqpQqbKZ2F.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aROeaJgaEoq72gksPLqpQqbKZ2F.jpg",
+      "backdrop_path": "/a5h1Q4u2CKIVXWdUFsMQrfbN0f1.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/a5h1Q4u2CKIVXWdUFsMQrfbN0f1.jpg",
+      "imdb_id": "tt0056405",
+      "runtime": 81,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14114",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14114&cityId=1",
+    "title": "Originaltitel: Shan he gu ren",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 8/11 kl. 18:00",
+        "normalized_datetime": "2026-11-08T18:00:00",
+        "normalized_date": "08.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:28:53.125694",
+    "tmdb": {
+      "id": 314388,
+      "title": "Mountains May Depart",
+      "overview": "The life of Tao, and those close to her, is explored in three different time periods: 1999, 2014, and 2025.",
+      "release_date": "2015-10-30",
+      "rating": 6.9,
+      "vote_count": 257,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/zMg4uP2Ev8lIZr1kOvHrPOM8teA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zMg4uP2Ev8lIZr1kOvHrPOM8teA.jpg",
+      "backdrop_path": "/nE6sFxIB15GDiRVcoMUGtojd5ga.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nE6sFxIB15GDiRVcoMUGtojd5ga.jpg",
+      "imdb_id": "tt3740778",
+      "runtime": 127,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14112",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14112&cityId=1",
+    "title": "Originaltitel: Mária-nap",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "mån 9/11 kl. 18:00",
+        "normalized_datetime": "2026-11-09T18:00:00",
+        "normalized_date": "09.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Mauritz"
+    ],
+    "scraped_at": "2026-08-06T08:28:56.547838",
+    "tmdb": {
+      "id": 390010,
+      "title": "Maria's Day",
+      "overview": "In 1866, the Szendrey family gathers for the name-day of Júlia’s sister, Mária, but the event dissolves into bitter grievances and the physical decline of the household. As the dying widow of the poet Sándor Petőfi, Júlia struggles with a failed second marriage while Mária grapples with jealousy over her own husband’s love for Júlia. The family’s fragile unity finally shatters under the suffocating weight of Sándor’s heroic legacy and the pervasive shadow of illnesses.",
+      "release_date": "1984-03-26",
+      "rating": 3.75,
+      "vote_count": 4,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "poster_path": "/f5ES4Pg53l8G36RhQOG5jmOMEEd.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f5ES4Pg53l8G36RhQOG5jmOMEEd.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt0085902",
+      "runtime": 113,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14108",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14108&cityId=1",
+    "title": "Originaltitel: Walesa. Czlowiek z nadziei",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "ons 11/11 kl. 18:00",
+        "normalized_datetime": "2026-11-11T18:00:00",
+        "normalized_date": "11.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:29:01.590241",
+    "tmdb": {
+      "id": 209385,
+      "title": "Wałesa: Man of Hope",
+      "overview": "How was it possible that a single man influenced contemporary world so significantly? This film is an attempt to capture the phenomenon of a common man’s metamorphosis into a charismatic leader — an attempt to see how a Gdansk shipyard electrician fighting for workers’ rights awakened a hidden desire for freedom in millions of people.",
+      "release_date": "2013-09-23",
+      "rating": 5.727,
+      "vote_count": 86,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "poster_path": "/fcMdwmlWbtTKEjIGEu3IuSZ7x61.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fcMdwmlWbtTKEjIGEu3IuSZ7x61.jpg",
+      "backdrop_path": "/k1gbnFXnyAwyNVoPaX5N0ArYrEF.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/k1gbnFXnyAwyNVoPaX5N0ArYrEF.jpg",
+      "imdb_id": "tt2113820",
+      "runtime": 127,
+      "budget": 0,
+      "revenue": 5250588
+    }
+  },
+  {
+    "film_id": "14119",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14119&cityId=1",
+    "title": "Originaltitel: Ai zai bie xiang de ji jie",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "tor 12/11 kl. 18:00",
+        "normalized_datetime": "2026-11-12T18:00:00",
+        "normalized_date": "12.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:29:05.059764",
+    "tmdb": {
+      "id": 213001,
+      "title": "Farewell China",
+      "overview": "Li Hung is a desperate mother who tried for years to obtain an American visa to study to create a better life for her husband Nansan and her son. But after a short time, she loses contact with her family, and her husband, Nansan smuggles himself to New York to find her.",
+      "release_date": "1990-12-06",
+      "rating": 7.091,
+      "vote_count": 11,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/xFS0CUBGJ7h5EneHnwzdQ7fSOTn.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xFS0CUBGJ7h5EneHnwzdQ7fSOTn.jpg",
+      "backdrop_path": "/9YK9Wxiqz6WKMCYoMqQLOEG2DAE.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9YK9Wxiqz6WKMCYoMqQLOEG2DAE.jpg",
+      "imdb_id": "tt0099000",
+      "runtime": 114,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "11791",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=11791&cityId=1",
+    "title": "Originaltitel: Mosura",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "fre 13/11 kl. 18:00",
+        "normalized_datetime": "2026-11-13T18:00:00",
+        "normalized_date": "13.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:29:08.378940",
+    "tmdb": {
+      "id": 39410,
+      "title": "Mothra",
+      "overview": "Shipwreck survivors found on the presumably uninhabited Infant Island leads to a scientific expedition that discovers a surviving native population along with the Shobijin, tiny twin fairy priestesses of the island's mythical deity called Mothra. After the fairies are kidnapped by an exploitative businessman named Clark Nelson, Mothra sets out to rescue them.",
+      "release_date": "1961-07-30",
+      "rating": 7.151,
+      "vote_count": 186,
+      "genres": [
+        "Adventure",
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "poster_path": "/u6Xuovau8elLM6hGc5g1gMzjmWK.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/u6Xuovau8elLM6hGc5g1gMzjmWK.jpg",
+      "backdrop_path": "/8eABuieVLIO7P2QdpaWbNXwTpwI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8eABuieVLIO7P2QdpaWbNXwTpwI.jpg",
+      "imdb_id": "tt0055198",
+      "runtime": 101,
+      "budget": 0,
+      "revenue": 2237760
+    }
+  },
+  {
+    "film_id": "10256",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=10256&cityId=1",
+    "title": "Originaltitel: Ren xiao yao",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 14/11 kl. 16:00",
+        "normalized_datetime": "2026-11-14T16:00:00",
+        "normalized_date": "14.11",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:29:13.508828",
+    "tmdb": {
+      "id": 80243,
+      "title": "Unknown Pleasures",
+      "overview": "Two disaffected, unemployed Chinese youth drift through life on the streets of their industrial town, their paths crossing with that of a local young singer and dancer working for a liquor company as a spokesmodel.",
+      "release_date": "2002-06-06",
+      "rating": 6.5,
+      "vote_count": 56,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "poster_path": "/9koydgKSQLs8MjnGilFmjRlhzXA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9koydgKSQLs8MjnGilFmjRlhzXA.jpg",
+      "backdrop_path": "/uBuazTEgvWuRY5kYiJhe0gc9sED.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/uBuazTEgvWuRY5kYiJhe0gc9sED.jpg",
+      "imdb_id": "tt0318025",
+      "runtime": 112,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14113",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14113&cityId=1",
+    "title": "Originaltitel: Ébredés",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "mån 16/11 kl. 18:00",
+        "normalized_datetime": "2026-11-16T18:00:00",
+        "normalized_date": "16.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Mauritz"
+    ],
+    "scraped_at": "2026-08-06T08:29:24.193817",
+    "tmdb": {
+      "id": 464144,
+      "title": "Awakening",
+      "overview": "1952, Budapest. Kati is thirteen years old when her mother dies. Her father works as a founder at the Miskolc foundry, deprived of his former position of director-engineer. Kati is left alone in their flat, transformed into a place crowded with tenants. That is, not quite: in her imagination her mother is alive again, for she still needs her.",
+      "release_date": "1995-10-05",
+      "rating": 10.0,
+      "vote_count": 1,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/tYJVUzFsmlPBcuc3GUVcrg7ZmDv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tYJVUzFsmlPBcuc3GUVcrg7ZmDv.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt0111864",
+      "runtime": 104,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14101",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14101&cityId=1",
+    "title": "Originaltitel: Histoire(s) du cinéma 3b & Nya vågen",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "ons 18/11 kl. 18:00",
+        "normalized_datetime": "2026-11-18T18:00:00",
+        "normalized_date": "18.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:29:29.470040"
+  },
+  {
+    "film_id": "11804",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=11804&cityId=1",
+    "title": "Originaltitel: En Herre i Kjole og Hvidt,",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 21/11 kl. 16:00",
+        "normalized_datetime": "2026-11-21T16:00:00",
+        "normalized_date": "21.11",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:29:38.078228",
+    "tmdb": {
+      "id": 179464,
+      "title": "A Gentleman in Top Hat and Tails",
+      "overview": "In broad daylight, a man runs at full speed across the Town Hall Square wearing a dress and white. People stare in amazement as he tries to grab a seat in a phone box to make a call. However, his story is even more incredible than they can imagine.",
+      "release_date": "1942-12-21",
+      "rating": 7.8,
+      "vote_count": 4,
+      "genres": [
+        "Comedy"
+      ],
+      "poster_path": "/lIslUAE9em7gcq2I2iDu5eAM6Fo.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lIslUAE9em7gcq2I2iDu5eAM6Fo.jpg",
+      "backdrop_path": "/mR9JVyhRUFeXmhPNZ5rsBOkJRnR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mR9JVyhRUFeXmhPNZ5rsBOkJRnR.jpg",
+      "imdb_id": "tt0124742",
+      "runtime": 95,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14076",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14076&cityId=1",
+    "title": "Originaltitel: Delitto D'amore",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 22/11 kl. 16:00",
+        "normalized_datetime": "2026-11-22T16:00:00",
+        "normalized_date": "22.11",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:29:44.999398",
+    "tmdb": {
+      "id": 1106079,
+      "title": "Delitto d'amore",
+      "overview": "",
+      "release_date": "1966-03-11",
+      "rating": 7.0,
+      "vote_count": 1,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/oEXPk8ET5HlvLAfaA15V7VSPWCb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oEXPk8ET5HlvLAfaA15V7VSPWCb.jpg",
+      "backdrop_path": "/qH0GXAFGoRKCI0JnNajsqD6Kvum.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qH0GXAFGoRKCI0JnNajsqD6Kvum.jpg",
+      "imdb_id": "tt0058868",
+      "runtime": 0,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "12224",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=12224&cityId=1",
+    "title": "Originaltitel: Toute une nuit",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 22/11 kl. 18:00",
+        "normalized_datetime": "2026-11-22T18:00:00",
+        "normalized_date": "22.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:29:48.196753",
+    "tmdb": {
+      "id": 63215,
+      "title": "Toute une nuit",
+      "overview": "Following over two dozen different individuals in the almost wordless atmosphere of a dark night in a Brussels town, acceptance and rejection in the realm of romance is examined.",
+      "release_date": "1982-10-27",
+      "rating": 6.471,
+      "vote_count": 35,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/q3asH6robNOysEYHQsWV7dE0kq1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q3asH6robNOysEYHQsWV7dE0kq1.jpg",
+      "backdrop_path": "/3gSqZ9cKFibs60gXrZNoiXAizsO.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3gSqZ9cKFibs60gXrZNoiXAizsO.jpg",
+      "imdb_id": "tt0084808",
+      "runtime": 90,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14115",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14115&cityId=1",
+    "title": "Originaltitel: Jiang hu er nü",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "ons 25/11 kl. 18:00",
+        "normalized_datetime": "2026-11-25T18:00:00",
+        "normalized_date": "25.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Mauritz"
+    ],
+    "scraped_at": "2026-08-06T08:29:55.229983",
+    "tmdb": {
+      "id": 1247214,
+      "title": "Heroine in the Dust",
+      "overview": "Wracked with the guilt of his wicked past, Tai Pang changes his name and tries to make a new start in life. But others cannot forget and he is forced to defend himself for his past transgressions.",
+      "release_date": "1972-01-01",
+      "rating": 8.0,
+      "vote_count": 1,
+      "genres": [],
+      "poster_path": "/7XPGsIIRYe0j6Bbmj5LJ4UK3Ro9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7XPGsIIRYe0j6Bbmj5LJ4UK3Ro9.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt0187875",
+      "runtime": 86,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "929",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=929&cityId=1",
+    "title": "Originaltitel: Chikamatsu monogatari",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "tor 26/11 kl. 18:00",
+        "normalized_datetime": "2026-11-26T18:00:00",
+        "normalized_date": "26.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:29:58.577501",
+    "tmdb": {
+      "id": 35861,
+      "title": "Chikamatsu Monogatari",
+      "overview": "When the wife of a 17th-century Kyoto scrollmaker is falsely accused of having an affair with his best employee, the pair flee the city and find themselves truly falling for one another.",
+      "release_date": "1954-11-23",
+      "rating": 7.817,
+      "vote_count": 156,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/3FTzr49lQKouUEutQRX5bqMCO4C.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3FTzr49lQKouUEutQRX5bqMCO4C.jpg",
+      "backdrop_path": "/aiEMx1ND6Gq5uFYWRHektj5CrSs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/aiEMx1ND6Gq5uFYWRHektj5CrSs.jpg",
+      "imdb_id": "tt0046851",
+      "runtime": 102,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14055",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14055&cityId=1",
+    "title": "Originaltitel: Gefahren der Großstadt-Straße",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 28/11 kl. 14:00",
+        "normalized_datetime": "2026-11-28T14:00:00",
+        "normalized_date": "28.11",
+        "normalized_time": "14:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:30:03.763300",
+    "tmdb": {
+      "id": 648127,
+      "title": "Gefahren der Großstadt-Straße",
+      "overview": "Educational film about the dangers of a city.  Together with the Munich Police Force, Toni Attenberger shows how to behave and what to look out for in the busy 1924 Munich. Shot on location we are shown the Do's and Dont's of traffic, various types of beggars, pickpockets and criminals.",
+      "release_date": "1924-12-15",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Documentary",
+        "Drama"
+      ],
+      "poster_path": "/oZRLrB1oGwHkw9RZvJAO140S0Tf.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oZRLrB1oGwHkw9RZvJAO140S0Tf.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt10192596",
+      "runtime": 67,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14064",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14064&cityId=1",
+    "title": "Originaltitel: Drama paa Slottet",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 28/11 kl. 16:00",
+        "normalized_datetime": "2026-11-28T16:00:00",
+        "normalized_date": "28.11",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:30:07.231438",
+    "tmdb": {
+      "id": 379340,
+      "title": "Drama på slottet",
+      "overview": "At the old Copenhagen Castle, a strange drama is played out in the year 1699 - the last year of King Christian V's life. One winter day, the young Junker Friedrich von Kötschau comes from Hesse to Christian V's court. The old gloomy castle is filled with sadness, where the king's increasing weakness puts a damper on all the joy of life. Friedrich von Kötschau is a handsome young nobleman, and even His Majesty is delighted with his many cheerful inventions. In addition, he has a prescription for gold, and the king gives him permission to experiment in the castle cellar with the old palace pharmacist Paulus.",
+      "release_date": "1943-12-16",
+      "rating": 7.333,
+      "vote_count": 3,
+      "genres": [
+        "Comedy"
+      ],
+      "poster_path": "/cFSRrgcfGOm5x4eAcWTv8BfJJ9H.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cFSRrgcfGOm5x4eAcWTv8BfJJ9H.jpg",
+      "backdrop_path": "/u7iTdMU8ts2J15VSaHOwDoTYBMK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/u7iTdMU8ts2J15VSaHOwDoTYBMK.jpg",
+      "imdb_id": "tt0122464",
+      "runtime": 0,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "10257",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=10257&cityId=1",
+    "title": "Originaltitel: Shijie",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 28/11 kl. 18:00",
+        "normalized_datetime": "2026-11-28T18:00:00",
+        "normalized_date": "28.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:30:10.500556",
+    "tmdb": {
+      "id": 939949,
+      "title": "Huahua's Dazzling World and its Myriad Temptations",
+      "overview": "Huahua, an eccentric and exuberant woman from Xiongan New Area, livestreams herself dancing, singing, and chatting with fans for a living. Cell phone screens, beauty filters, and digital soundscapes reveal a world that Huahua creates with her own image.",
+      "release_date": "2022-03-11",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Documentary"
+      ],
+      "poster_path": "/dujpUwT3JtxPdFPUkIjDAJFYswD.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dujpUwT3JtxPdFPUkIjDAJFYswD.jpg",
+      "backdrop_path": "/vOeZ4faHoVnSF9TBwKi0GSlzdVN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vOeZ4faHoVnSF9TBwKi0GSlzdVN.jpg",
+      "imdb_id": "tt21225396",
+      "runtime": 82,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14098",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14098&cityId=1",
+    "title": "Originaltitel: Histoire(s) du cinéma 4a & Fel man",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "tor 3/12 kl. 18:00",
+        "normalized_datetime": "2026-12-03T18:00:00",
+        "normalized_date": "03.12",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:30:25.104968"
+  },
+  {
+    "film_id": "10040",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=10040&cityId=1",
+    "title": "Originaltitel: Metoroporisu",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 5/12 kl. 17:00",
+        "normalized_datetime": "2026-12-05T17:00:00",
+        "normalized_date": "05.12",
+        "normalized_time": "17:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:30:32.152515",
+    "tmdb": {
+      "id": 19,
+      "title": "Metropolis",
+      "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
+      "release_date": "1927-01-10",
+      "rating": 8.083,
+      "vote_count": 3147,
+      "genres": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "poster_path": "/kr9wXRN23zLuWJIelahas1mtnYj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kr9wXRN23zLuWJIelahas1mtnYj.jpg",
+      "backdrop_path": "/eeMoFKxjjiCi6iep2GEZtSAMYIr.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/eeMoFKxjjiCi6iep2GEZtSAMYIr.jpg",
+      "imdb_id": "tt0017136",
+      "runtime": 148,
+      "budget": 5300000,
+      "revenue": 1350322
+    }
+  },
+  {
+    "film_id": "14099",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14099&cityId=1",
+    "title": "Originaltitel: Histoire(s) du cinéma 4b & Två filmer av Hollis Frampton",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "mån 7/12 kl. 18:00",
+        "normalized_datetime": "2026-12-07T18:00:00",
+        "normalized_date": "07.12",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Mauritz"
+    ],
+    "scraped_at": "2026-08-06T08:30:41.449510"
+  },
+  {
+    "film_id": "14116",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14116&cityId=1",
+    "title": "Originaltitel: Feng liu yi dai",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "ons 9/12 kl. 18:00",
+        "normalized_datetime": "2026-12-09T18:00:00",
+        "normalized_date": "09.12",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:30:46.815042",
+    "tmdb": {
+      "id": 1136837,
+      "title": "Caught by the Tides",
+      "overview": "Years after her boyfriend left her for the big city and promised to bring her there after he’s settled down, a Chinese woman sets out on a journey to be reunited with him.",
+      "release_date": "2024-11-22",
+      "rating": 6.8,
+      "vote_count": 59,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/vRUsEXHm9iJgXuf8k4BiTLCnUb0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vRUsEXHm9iJgXuf8k4BiTLCnUb0.jpg",
+      "backdrop_path": "/66yL48TchPZHIRqj5XTtHDfwIUD.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/66yL48TchPZHIRqj5XTtHDfwIUD.jpg",
+      "imdb_id": "tt27958252",
+      "runtime": 111,
+      "budget": 0,
+      "revenue": 254
+    }
+  },
+  {
+    "film_id": "14120",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14120&cityId=1",
+    "title": "Originaltitel: Ruan Lingyu",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "tor 10/12 kl. 18:00",
+        "normalized_datetime": "2026-12-10T18:00:00",
+        "normalized_date": "10.12",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Skandia"
+    ],
+    "scraped_at": "2026-08-06T08:30:50.123437",
+    "tmdb": {
+      "id": 68004,
+      "title": "Center Stage",
+      "overview": "Based on the tragic true story of China's first prima donna of the silver screen, Ruan Lingyu, chronicling her rise to fame as a movie actress in Shanghai during the 1930s.",
+      "release_date": "1991-11-29",
+      "rating": 7.3,
+      "vote_count": 89,
+      "genres": [
+        "Drama",
+        "Romance",
+        "History"
+      ],
+      "poster_path": "/mrRQD7dJzZ39sgwhbsFQ8kK8UjT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mrRQD7dJzZ39sgwhbsFQ8kK8UjT.jpg",
+      "backdrop_path": "/sZhMWwFYPpgnmhntFeg3jyL7nnR.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sZhMWwFYPpgnmhntFeg3jyL7nnR.jpg",
+      "imdb_id": "tt0102816",
+      "runtime": 155,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14123",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14123&cityId=1",
+    "title": "Originaltitel: Au bonheur des dames",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 12/12 kl. 14:00",
+        "normalized_datetime": "2026-12-12T14:00:00",
+        "normalized_date": "12.12",
+        "normalized_time": "14:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:30:55.413131",
+    "tmdb": {
+      "id": 47612,
+      "title": "Au Bonheur des Dames",
+      "overview": "Denise, an orphaned girl, moves to Paris where she hopes to find work at her uncle's store. But the glamorous department store 'Aux Bonheur des Dames' across the street crushes all the little businesses around. She finds a position there.",
+      "release_date": "1930-07-03",
+      "rating": 6.3,
+      "vote_count": 36,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/sVFvFFEMRJ1eUzD6nbYLSqwHi0d.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sVFvFFEMRJ1eUzD6nbYLSqwHi0d.jpg",
+      "backdrop_path": "/o5bRLCNBmWBCBluFlOLUgivdONs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/o5bRLCNBmWBCBluFlOLUgivdONs.jpg",
+      "imdb_id": "tt0020656",
+      "runtime": 95,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14131",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14131&cityId=1",
+    "title": "Originaltitel: Le Pont du Nord",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "lör 12/12 kl. 18:30",
+        "normalized_datetime": "2026-12-12T18:30:00",
+        "normalized_date": "12.12",
+        "normalized_time": "18:30"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:31:00.825554",
+    "tmdb": {
+      "id": 59484,
+      "title": "Le Pont du Nord",
+      "overview": "Marie is just out from prison when she runs into Baptiste, a young paranoid needing companionship. In their pursuit of a mysterious briefcase carried by Marie's former lover, they roam the street of Paris, transformed into a giant board game, a maze spotted with mysterious traps, puzzling clues, and chance encounters. Maybe they are bricks in some sinister scheme, maybe they are playing a board game, maybe it's a fairy tale, maybe it's yet something else...",
+      "release_date": "1982-03-24",
+      "rating": 6.8,
+      "vote_count": 43,
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Comedy"
+      ],
+      "poster_path": "/olNvDYC1SyZXxMaa4IayWj7Sq4K.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/olNvDYC1SyZXxMaa4IayWj7Sq4K.jpg",
+      "backdrop_path": "/eAm42QGfavLsAAW98niNlAigOl9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/eAm42QGfavLsAAW98niNlAigOl9.jpg",
+      "imdb_id": "tt0082927",
+      "runtime": 129,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "13691",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=13691&cityId=1",
+    "title": "Originaltitel: Afsporet",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 13/12 kl. 14:00",
+        "normalized_datetime": "2026-12-13T14:00:00",
+        "normalized_date": "13.12",
+        "normalized_time": "14:00"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:31:04.209459",
+    "tmdb": {
+      "id": 221723,
+      "title": "Derailed",
+      "overview": "A young woman of good family is driven into one of thieves and prostitutes and ends in suicide.",
+      "release_date": "1942-02-19",
+      "rating": 6.3,
+      "vote_count": 10,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/qgcIrENS4MiE0ITaKxJgVgSsOvh.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qgcIrENS4MiE0ITaKxJgVgSsOvh.jpg",
+      "backdrop_path": "/9yhXEN0O5tDoHRmk16QbuGtF6Xh.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9yhXEN0O5tDoHRmk16QbuGtF6Xh.jpg",
+      "imdb_id": "tt0034435",
+      "runtime": 102,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "14118",
+    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14118&cityId=1",
+    "title": "Originaltitel: Bu tuo wa de ren",
+    "director": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "sön 13/12 kl. 16:30",
+        "normalized_datetime": "2026-12-13T16:30:00",
+        "normalized_date": "13.12",
+        "normalized_time": "16:30"
+      }
+    ],
+    "cinemas": [
+      "Filmhuset - Bio Victor"
+    ],
+    "scraped_at": "2026-08-06T08:31:07.561708",
+    "tmdb": {
+      "id": 181735,
+      "title": "A Fishy Story",
+      "overview": "An aspiring starlet arrives in the Fragrant Harbor with dreams of becoming a star, whilst striking up a friendship with a wannabe cabbie who lives in the same apartment building.",
+      "release_date": "1989-07-08",
+      "rating": 6.625,
+      "vote_count": 8,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster_path": "/4eQ76WAT9NiR4jnQGs5UM6QjaAJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4eQ76WAT9NiR4jnQGs5UM6QjaAJ.jpg",
+      "backdrop_path": "/t2LMuXSbQr2saqgi3g1oIGJXlpV.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/t2LMuXSbQr2saqgi3g1oIGJXlpV.jpg",
+      "imdb_id": "tt0096989",
+      "runtime": 99,
+      "budget": 0,
+      "revenue": 0
+    }
+  }
+]
