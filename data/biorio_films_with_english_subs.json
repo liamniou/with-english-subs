@@ -68,15 +68,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-07T07:04:15.051916",
+    "scraped_at": "2026-08-08T06:39:27.444500",
     "source": "biorio",
     "tmdb": {
       "id": 144,
       "title": "Wings of Desire",
       "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
       "release_date": "1987-09-23",
-      "rating": 7.759,
-      "vote_count": 1513,
+      "rating": 7.76,
+      "vote_count": 1514,
       "genres": [
         "Drama",
         "Fantasy",
@@ -279,7 +279,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-07T07:04:19.654155",
+    "scraped_at": "2026-08-08T06:39:31.850117",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -361,8 +361,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 18,
-          "ticketsAvailable": 162,
+          "ticketsSold": 20,
+          "ticketsAvailable": 160,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-30T08:30:00",
@@ -373,7 +373,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-07T07:04:22.501518",
+    "scraped_at": "2026-08-08T06:39:34.441823",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -472,7 +472,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-07T07:04:25.656595",
+    "scraped_at": "2026-08-08T06:39:37.583405",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
@@ -480,7 +480,7 @@
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
       "rating": 7.926,
-      "vote_count": 3972,
+      "vote_count": 3973,
       "genres": [
         "Action",
         "Animation",
