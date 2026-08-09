@@ -1,47 +1,45 @@
 [
   {
-    "film_id": "sentimental-value",
-    "url": "https://zita.se/sentimental-value",
-    "title": "Sentimental Value",
+    "film_id": "unknown-title",
+    "url": "https://zita.se/haru-tove",
+    "title": "Unknown Title",
     "director": "",
-    "genre": "Norge20253 okt 2025126 minDramaFrån 11 årTriArtNorskaEngelska",
+    "genre": "Sverig, Finland103 minDokumentärFolkets Bio StockholmSvenskaEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "18:15",
-        "time": "18:15",
+        "display_text": "15:00",
+        "time": "15:00",
         "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5437",
-        "normalized_datetime": "2026-08-08T18:15:00",
-        "normalized_date": "08.08",
-        "normalized_time": "18:15"
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5936",
+        "normalized_datetime": "2026-08-09T15:00:00",
+        "normalized_date": "09.08",
+        "normalized_time": "15:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-08-07T07:13:21.670354+00:00",
+    "scraped_at": "2026-08-09T06:52:52.321898+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1697369,
-      "title": "Sentimental Value",
-      "overview": "Dr. Rick Nelson, a victim of the Oklahoma City bombings, learns what it feels like to live in an alternate reality.",
-      "release_date": "2026-05-08",
-      "rating": 10.0,
-      "vote_count": 1,
+      "id": 949470,
+      "title": "Unknown Title",
+      "overview": "A short film by Andrei Ventslova",
+      "release_date": "1988-04-15",
+      "rating": 0.0,
+      "vote_count": 0,
       "genres": [
-        "Crime",
-        "Drama",
-        "Science Fiction"
+        "Drama"
       ],
-      "poster_path": "/9lKnSnTFCj8TVWPi5ENNgS6qrbq.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9lKnSnTFCj8TVWPi5ENNgS6qrbq.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
+      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
       "imdb_id": null,
-      "runtime": 7,
+      "runtime": 1,
       "budget": 0,
       "revenue": 0
     }

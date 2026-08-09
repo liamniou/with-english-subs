@@ -27,15 +27,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523714+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696574+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9470,
       "title": "Kung Fu Hustle",
       "overview": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
       "release_date": "2004-02-10",
-      "rating": 7.509,
-      "vote_count": 3268,
+      "rating": 7.511,
+      "vote_count": 3271,
       "genres": [
         "Action",
         "Comedy",
@@ -80,7 +80,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523764+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696626+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8374,
@@ -88,7 +88,7 @@
       "overview": "Tired of the crime overrunning the streets of Boston, Irish Catholic twin brothers Conner and Murphy are inspired by their faith to cleanse their hometown of evil with their own brand of zealous vigilante justice. As they hunt down and kill one notorious gangster after another, they become controversial folk heroes in the community. But Paul Smecker, an eccentric FBI agent, is fast closing in on their blood-soaked trail.",
       "release_date": "1999-01-22",
       "rating": 7.251,
-      "vote_count": 2747,
+      "vote_count": 2748,
       "genres": [
         "Action",
         "Thriller",
@@ -132,15 +132,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523777+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696644+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 13785,
       "title": "Best in Show",
       "overview": "The tension is palpable, the excitement is mounting and the heady scent of competition is in the air as hundreds of eager contestants from across America prepare to take part in what is undoubtedly one of the greatest events of their lives -- the Mayflower Dog Show. The canine contestants and their owners are as wondrously diverse as the great country that has bred them.",
       "release_date": "2000-09-29",
-      "rating": 6.9,
-      "vote_count": 687,
+      "rating": 6.885,
+      "vote_count": 688,
       "genres": [
         "Comedy"
       ],
@@ -182,15 +182,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523790+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696663+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11690,
       "title": "Bloodsport",
       "overview": "An American Army Major goes AWOL to Hong Kong for an outlawed martial arts contest called the Kumite.",
       "release_date": "1988-02-26",
-      "rating": 7.059,
-      "vote_count": 2224,
+      "rating": 7.057,
+      "vote_count": 2226,
       "genres": [
         "Action",
         "Thriller",
@@ -234,15 +234,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523802+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696683+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8446,
       "title": "Bugsy Malone",
       "overview": "New York, 1929, a war rages between two rival gangsters, Fat Sam and Dandy Dan. Dan is in possession of a new and deadly weapon, the dreaded \"splurge gun\". As the custard pies fly, Bugsy Malone, an all-round nice guy, falls for Blousey Brown, a singer at Fat Sam's speakeasy. His designs on her are disrupted by the seductive songstress Tallulah who wants Bugsy for herself.",
       "release_date": "1976-07-22",
-      "rating": 6.599,
-      "vote_count": 319,
+      "rating": 6.604,
+      "vote_count": 321,
       "genres": [
         "Drama",
         "Action",
@@ -285,20 +285,6 @@
         "normalized_time": "18:00"
       },
       {
-        "datetime": "2026-08-26T18:00:00",
-        "display_text": "Wednesday 26 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "26.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51813",
-        "booking_id": "51813",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-26T18:00:00",
-        "normalized_date": "26.08",
-        "normalized_time": "18:00"
-      },
-      {
         "datetime": "2026-08-29T20:30:00",
         "display_text": "Saturday 29 August 2026 at 20:30",
         "time": "20:30",
@@ -316,7 +302,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523814+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696698+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
@@ -381,7 +367,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523837+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696713+00:00",
     "source": "capitolbio"
   },
   {
@@ -412,7 +398,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523866+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696749+00:00",
     "source": "capitolbio"
   },
   {
@@ -443,7 +429,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523878+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696765+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -495,15 +481,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523889+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696779+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
       "title": "Grey Gardens",
       "overview": "Edie Bouvier Beale and her mother, Edith, two aging, eccentric relatives of Jackie Kennedy Onassis, are the sole inhabitants of a Long Island estate. The women reveal themselves to be misfits with outsized, engaging personalities. Much of the conversation is centered on their pasts, as mother and daughter now rarely leave home.",
       "release_date": "1976-02-19",
-      "rating": 7.325,
-      "vote_count": 249,
+      "rating": 7.319,
+      "vote_count": 251,
       "genres": [
         "Documentary"
       ],
@@ -545,15 +531,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523900+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696793+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
       "title": "Cabaret",
       "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
       "release_date": "1972-02-13",
-      "rating": 7.423,
-      "vote_count": 993,
+      "rating": 7.426,
+      "vote_count": 995,
       "genres": [
         "Music",
         "Romance",
@@ -597,7 +583,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523913+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696807+00:00",
     "source": "capitolbio"
   },
   {
@@ -628,7 +614,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523924+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696830+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
@@ -636,7 +622,7 @@
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
       "rating": 6.342,
-      "vote_count": 2331,
+      "vote_count": 2333,
       "genres": [
         "Horror",
         "Drama"
@@ -679,15 +665,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523935+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696844+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
       "title": "Duck Soup",
       "overview": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
       "release_date": "1933-11-12",
-      "rating": 7.318,
-      "vote_count": 869,
+      "rating": 7.32,
+      "vote_count": 870,
       "genres": [
         "Comedy",
         "War"
@@ -730,7 +716,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523946+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696858+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3055,
@@ -781,14 +767,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523956+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696872+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
       "title": "Fame",
       "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
       "release_date": "1980-05-16",
-      "rating": 6.434,
+      "rating": 6.4,
       "vote_count": 522,
       "genres": [
         "Drama",
@@ -832,15 +818,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523969+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696886+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9584,
       "title": "Convoy",
       "overview": "Trucker Rubber Duck and his buddies Pig Pen, Widow Woman and Spider Mike use their CB radios to warn one another of the presence of cops. But conniving Sheriff Wallace is hip to the truckers' tactics, and begins tricking the drivers through his own CB broadcasts. Facing constant harassment from the law, Rubber Duck and his pals use their radios to coordinate a vast convoy and rule the road.",
       "release_date": "1978-06-27",
-      "rating": 6.276,
-      "vote_count": 435,
+      "rating": 6.284,
+      "vote_count": 438,
       "genres": [
         "Action",
         "Comedy",
@@ -884,15 +870,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-08T06:40:02.523983+00:00",
+    "scraped_at": "2026-08-09T06:43:52.696902+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
       "title": "Kickboxer",
       "overview": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
       "release_date": "1989-04-20",
-      "rating": 6.8,
-      "vote_count": 1603,
+      "rating": 6.837,
+      "vote_count": 1606,
       "genres": [
         "Action",
         "Thriller",
