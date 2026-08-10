@@ -56,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 10,
-          "ticketsAvailable": 170,
+          "ticketsSold": 13,
+          "ticketsAvailable": 167,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-16T16:00:00",
@@ -68,15 +68,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-09T06:43:16.466599",
+    "scraped_at": "2026-08-10T07:17:48.487594",
     "source": "biorio",
     "tmdb": {
       "id": 144,
       "title": "Wings of Desire",
       "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
       "release_date": "1987-09-23",
-      "rating": 7.76,
-      "vote_count": 1514,
+      "rating": 7.761,
+      "vote_count": 1515,
       "genres": [
         "Drama",
         "Fantasy",
@@ -267,8 +267,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 58,
-          "ticketsAvailable": 122,
+          "ticketsSold": 62,
+          "ticketsAvailable": 118,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-29T18:10:00",
@@ -279,7 +279,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-09T06:43:21.307698",
+    "scraped_at": "2026-08-10T07:17:53.619954",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -361,8 +361,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 20,
-          "ticketsAvailable": 160,
+          "ticketsSold": 24,
+          "ticketsAvailable": 156,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-30T08:30:00",
@@ -373,7 +373,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-09T06:43:24.002598",
+    "scraped_at": "2026-08-10T07:17:56.191084",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -472,7 +472,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-09T06:43:27.277938",
+    "scraped_at": "2026-08-10T07:17:59.304929",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
@@ -480,7 +480,7 @@
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
       "rating": 7.925,
-      "vote_count": 3976,
+      "vote_count": 3978,
       "genres": [
         "Action",
         "Animation",

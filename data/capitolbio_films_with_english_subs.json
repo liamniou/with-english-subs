@@ -27,14 +27,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-09T06:43:52.696574+00:00",
+    "scraped_at": "2026-08-10T07:18:24.662731+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9470,
       "title": "Kung Fu Hustle",
       "overview": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
       "release_date": "2004-02-10",
-      "rating": 7.511,
+      "rating": 7.5,
       "vote_count": 3271,
       "genres": [
         "Action",
@@ -50,58 +50,6 @@
       "runtime": 99,
       "budget": 20000000,
       "revenue": 102034104
-    }
-  },
-  {
-    "film_id": "the-boondock-saints",
-    "url": "https://www.capitolbio.se/filmer/the-boondock-saints/4477",
-    "title": "The Boondock Saints",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Kultklassiker från 1999\n\nIngår i Temat: Bad men - för vi alla älskar en riktigt bra skurk.\n\nThe Boondock Saints följer tvillingbröderna Connor och Murphy MacManus, som tar lagen i egna händer efter att de blivit vittnen till ett mord. De börjar en våldsam kampanj för att rensa Boston från brottslighet. Med en mix av svart humor och intensiv action, utforskar filmen teman om moral, rättvisa och hämnd.\n\nFler klassiker att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4477/1920/58468f9f-cd78-4bf2-a97f-82678bc04a0c.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-08-12T18:00:00",
-        "display_text": "Wednesday 12 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "12.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51157",
-        "booking_id": "51157",
-        "hall": "Salong 1",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-12T18:00:00",
-        "normalized_date": "12.08",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-09T06:43:52.696626+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 8374,
-      "title": "The Boondock Saints",
-      "overview": "Tired of the crime overrunning the streets of Boston, Irish Catholic twin brothers Conner and Murphy are inspired by their faith to cleanse their hometown of evil with their own brand of zealous vigilante justice. As they hunt down and kill one notorious gangster after another, they become controversial folk heroes in the community. But Paul Smecker, an eccentric FBI agent, is fast closing in on their blood-soaked trail.",
-      "release_date": "1999-01-22",
-      "rating": 7.251,
-      "vote_count": 2748,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Crime"
-      ],
-      "poster_path": "/wtLUmkWg41xFLpvmUWAN1mm65f6.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wtLUmkWg41xFLpvmUWAN1mm65f6.jpg",
-      "backdrop_path": "/9DNDELpVxuLJWMoomgULhhZFoHR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9DNDELpVxuLJWMoomgULhhZFoHR.jpg",
-      "imdb_id": "tt0144117",
-      "runtime": 108,
-      "budget": 6000000,
-      "revenue": 38256
     }
   },
   {
@@ -132,7 +80,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-09T06:43:52.696644+00:00",
+    "scraped_at": "2026-08-10T07:18:24.662784+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 13785,
@@ -182,14 +130,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-09T06:43:52.696663+00:00",
+    "scraped_at": "2026-08-10T07:18:24.662803+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11690,
       "title": "Bloodsport",
       "overview": "An American Army Major goes AWOL to Hong Kong for an outlawed martial arts contest called the Kumite.",
       "release_date": "1988-02-26",
-      "rating": 7.057,
+      "rating": 7.1,
       "vote_count": 2226,
       "genres": [
         "Action",
@@ -234,7 +182,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-09T06:43:52.696683+00:00",
+    "scraped_at": "2026-08-10T07:18:24.662823+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8446,
@@ -285,6 +233,20 @@
         "normalized_time": "18:00"
       },
       {
+        "datetime": "2026-08-26T18:00:00",
+        "display_text": "Wednesday 26 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "26.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51813",
+        "booking_id": "51813",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-26T18:00:00",
+        "normalized_date": "26.08",
+        "normalized_time": "18:00"
+      },
+      {
         "datetime": "2026-08-29T20:30:00",
         "display_text": "Saturday 29 August 2026 at 20:30",
         "time": "20:30",
@@ -302,7 +264,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-09T06:43:52.696698+00:00",
+    "scraped_at": "2026-08-10T07:18:24.662841+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
@@ -367,7 +329,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-09T06:43:52.696713+00:00",
+    "scraped_at": "2026-08-10T07:18:24.662868+00:00",
     "source": "capitolbio"
   },
   {
@@ -398,7 +360,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-09T06:43:52.696749+00:00",
+    "scraped_at": "2026-08-10T07:18:24.662901+00:00",
     "source": "capitolbio"
   },
   {
@@ -429,7 +391,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-09T06:43:52.696765+00:00",
+    "scraped_at": "2026-08-10T07:18:24.662922+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -481,7 +443,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-09T06:43:52.696779+00:00",
+    "scraped_at": "2026-08-10T07:18:24.662937+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -531,7 +493,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-09T06:43:52.696793+00:00",
+    "scraped_at": "2026-08-10T07:18:24.662952+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
@@ -583,7 +545,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-09T06:43:52.696807+00:00",
+    "scraped_at": "2026-08-10T07:18:24.662966+00:00",
     "source": "capitolbio"
   },
   {
@@ -614,7 +576,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-09T06:43:52.696830+00:00",
+    "scraped_at": "2026-08-10T07:18:24.662982+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
@@ -622,7 +584,7 @@
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
       "rating": 6.342,
-      "vote_count": 2333,
+      "vote_count": 2334,
       "genres": [
         "Horror",
         "Drama"
@@ -665,7 +627,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-09T06:43:52.696844+00:00",
+    "scraped_at": "2026-08-10T07:18:24.662996+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -716,7 +678,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-09T06:43:52.696858+00:00",
+    "scraped_at": "2026-08-10T07:18:24.663010+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3055,
@@ -767,7 +729,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-09T06:43:52.696872+00:00",
+    "scraped_at": "2026-08-10T07:18:24.663024+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
@@ -788,58 +750,6 @@
       "runtime": 134,
       "budget": 8500000,
       "revenue": 42000000
-    }
-  },
-  {
-    "film_id": "convoy",
-    "url": "https://www.capitolbio.se/filmer/convoy/4530",
-    "title": "Convoy",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Sam Peckinpahs klassiska road-movie \n\nEn mäktig konvoj av dammhissande lastbilar går mot en statlig linje i sydvästra Amerika. Den massiva samlingen av fordon i alla former och storlekar leds av 'Rubber Duck', en legendarisk lastbilsförare som har samlat denna enorma armé tillsammans för att protestera mot poliskorruption, federala och statliga lagar och skuggiga politik.\n\nMed Kris Kristofferson och Ali MacGraw i huvudrollerna.\n\nFler klassiker att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4530/1920/2e2e5b6c-8b95-45ef-b6b6-0620483abd55.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-21T20:15:00",
-        "display_text": "Monday 21 September 2026 at 20:15",
-        "time": "20:15",
-        "date_section": "21.09",
-        "ticket_url": "https://www.capitolbio.se/boka/51710",
-        "booking_id": "51710",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-21T20:15:00",
-        "normalized_date": "21.09",
-        "normalized_time": "20:15"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-09T06:43:52.696886+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 9584,
-      "title": "Convoy",
-      "overview": "Trucker Rubber Duck and his buddies Pig Pen, Widow Woman and Spider Mike use their CB radios to warn one another of the presence of cops. But conniving Sheriff Wallace is hip to the truckers' tactics, and begins tricking the drivers through his own CB broadcasts. Facing constant harassment from the law, Rubber Duck and his pals use their radios to coordinate a vast convoy and rule the road.",
-      "release_date": "1978-06-27",
-      "rating": 6.284,
-      "vote_count": 438,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Drama"
-      ],
-      "poster_path": "/xjowoBInlikSlvfAYDRN9ubaODB.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xjowoBInlikSlvfAYDRN9ubaODB.jpg",
-      "backdrop_path": "/1AvdIZYSzPXgiDWIPldnja4awla.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1AvdIZYSzPXgiDWIPldnja4awla.jpg",
-      "imdb_id": "tt0077369",
-      "runtime": 112,
-      "budget": 12000000,
-      "revenue": 45000000
     }
   },
   {
@@ -870,7 +780,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-09T06:43:52.696902+00:00",
+    "scraped_at": "2026-08-10T07:18:24.663037+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
