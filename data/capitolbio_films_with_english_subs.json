@@ -1,58 +1,5 @@
 [
   {
-    "film_id": "kung-fu-hustle",
-    "url": "https://www.capitolbio.se/filmer/kung-fu-hustle/4474",
-    "title": "Kung Fu Hustle",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Ingår i Temat: Geniala komedier - smart och svartsynt, slapstick och tramsigt, det finns en komedi för varje sinnesstämning på Capitol.\n\nKung Fu Hustle är en underbar actionkomedi från 2004. Filmen utspelar sig i 1940-talets Kina, där ett hänsynslöst gäng terroriserar städerna och kräver beskyddarpengar av alla. Huvudpersonen Sing (Stephen Chow) är en småkriminell som vill imponera på gänget och själv bli en hårdför gangster, men när han försöker pressa de fattiga hyresgästerna i ett slitet bostadsområde upptäcker han att flera av de till synes vanliga invånarna är mäktiga kung fu-mästare som inte låter sig skrämmas.\n\nFantastisk action och galna karaktärer slåss om uppmärksamheten i allt från fantasifulla kung fu-uppgörelser till danssekvenser, resultatet är makalöst: poetiskt, roligt, vackert och hisnande. \n\nFler klassiker att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4474/1920/d84f6b65-f3da-4953-aff7-345459d045e0.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-08-11T18:00:00",
-        "display_text": "Tuesday 11 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "11.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51122",
-        "booking_id": "51122",
-        "hall": "Salong 1",
-        "audio_language": "ZN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-11T18:00:00",
-        "normalized_date": "11.08",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-11T06:56:12.162709+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 9470,
-      "title": "Kung Fu Hustle",
-      "overview": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
-      "release_date": "2004-02-10",
-      "rating": 7.511,
-      "vote_count": 3273,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Crime",
-        "Fantasy"
-      ],
-      "poster_path": "/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
-      "backdrop_path": "/9XhZhoSnFJ3AjpfzdIiZVHLQIS4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9XhZhoSnFJ3AjpfzdIiZVHLQIS4.jpg",
-      "imdb_id": "tt0373074",
-      "runtime": 99,
-      "budget": 20000000,
-      "revenue": 102034104
-    }
-  },
-  {
     "film_id": "the-boondock-saints",
     "url": "https://www.capitolbio.se/filmer/the-boondock-saints/4477",
     "title": "The Boondock Saints",
@@ -63,32 +10,32 @@
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4477/1920/58468f9f-cd78-4bf2-a97f-82678bc04a0c.jpg",
     "showtimes": [
       {
-        "datetime": "2026-08-12T18:00:00",
-        "display_text": "Wednesday 12 August 2026 at 18:00",
+        "datetime": "2026-08-13T18:00:00",
+        "display_text": "Thursday 13 August 2026 at 18:00",
         "time": "18:00",
-        "date_section": "12.08",
+        "date_section": "13.08",
         "ticket_url": "https://www.capitolbio.se/boka/51157",
         "booking_id": "51157",
         "hall": "Salong 1",
         "audio_language": "EN",
         "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-12T18:00:00",
-        "normalized_date": "12.08",
+        "normalized_datetime": "2026-08-13T18:00:00",
+        "normalized_date": "13.08",
         "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-11T06:56:12.162762+00:00",
+    "scraped_at": "2026-08-12T07:15:09.363399+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8374,
       "title": "The Boondock Saints",
       "overview": "Tired of the crime overrunning the streets of Boston, Irish Catholic twin brothers Conner and Murphy are inspired by their faith to cleanse their hometown of evil with their own brand of zealous vigilante justice. As they hunt down and kill one notorious gangster after another, they become controversial folk heroes in the community. But Paul Smecker, an eccentric FBI agent, is fast closing in on their blood-soaked trail.",
       "release_date": "1999-01-22",
-      "rating": 7.2,
-      "vote_count": 2751,
+      "rating": 7.251,
+      "vote_count": 2752,
       "genres": [
         "Action",
         "Thriller",
@@ -132,7 +79,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-11T06:56:12.162784+00:00",
+    "scraped_at": "2026-08-12T07:15:09.363445+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 13785,
@@ -182,7 +129,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-11T06:56:12.162802+00:00",
+    "scraped_at": "2026-08-12T07:15:09.363463+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11690,
@@ -234,7 +181,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-11T06:56:12.162818+00:00",
+    "scraped_at": "2026-08-12T07:15:09.363479+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8446,
@@ -285,20 +232,6 @@
         "normalized_time": "18:00"
       },
       {
-        "datetime": "2026-08-26T18:00:00",
-        "display_text": "Wednesday 26 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "26.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51813",
-        "booking_id": "51813",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-26T18:00:00",
-        "normalized_date": "26.08",
-        "normalized_time": "18:00"
-      },
-      {
         "datetime": "2026-08-29T20:30:00",
         "display_text": "Saturday 29 August 2026 at 20:30",
         "time": "20:30",
@@ -316,7 +249,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-11T06:56:12.162833+00:00",
+    "scraped_at": "2026-08-12T07:15:09.363494+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
@@ -381,7 +314,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-11T06:56:12.162863+00:00",
+    "scraped_at": "2026-08-12T07:15:09.363510+00:00",
     "source": "capitolbio"
   },
   {
@@ -412,7 +345,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-11T06:56:12.162895+00:00",
+    "scraped_at": "2026-08-12T07:15:09.363545+00:00",
     "source": "capitolbio"
   },
   {
@@ -443,7 +376,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-11T06:56:12.162911+00:00",
+    "scraped_at": "2026-08-12T07:15:09.363569+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -495,7 +428,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-11T06:56:12.162926+00:00",
+    "scraped_at": "2026-08-12T07:15:09.363587+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -545,7 +478,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-11T06:56:12.162940+00:00",
+    "scraped_at": "2026-08-12T07:15:09.363601+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
@@ -597,7 +530,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-11T06:56:12.162956+00:00",
+    "scraped_at": "2026-08-12T07:15:09.363616+00:00",
     "source": "capitolbio"
   },
   {
@@ -628,14 +561,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-11T06:56:12.162971+00:00",
+    "scraped_at": "2026-08-12T07:15:09.363630+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
       "title": "Salò, or the 120 Days of Sodom",
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
-      "rating": 6.344,
+      "rating": 6.3,
       "vote_count": 2336,
       "genres": [
         "Horror",
@@ -679,7 +612,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-11T06:56:12.162988+00:00",
+    "scraped_at": "2026-08-12T07:15:09.363647+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -700,57 +633,6 @@
       "runtime": 68,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "valley-of-the-dolls",
-    "url": "https://www.capitolbio.se/filmer/valley-of-the-dolls/4529",
-    "title": "Valley of the Dolls",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Kultklassiker fån 1967 \n\nMed Sharon Tate som en djupt olycklig partytjej som missbrukar piller. Valley of the Dolls bygger på den skandalomsusade romanen med samma namn, blev en biosuccé 1967 och har sedan dess uppnått kultstatus.\n\nBaserad på Jacqueline Susanns bok med samma namn från 1966.\n\nFler klassiker att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4529/1920/29f611a2-0e09-4523-9c1c-20592baef959.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-15T18:00:00",
-        "display_text": "Tuesday 15 September 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "15.09",
-        "ticket_url": "https://www.capitolbio.se/boka/51705",
-        "booking_id": "51705",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-15T18:00:00",
-        "normalized_date": "15.09",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-11T06:56:12.163002+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 3055,
-      "title": "Valley of the Dolls",
-      "overview": "Lured by their dreams of fame and fortune, three ambitious young women enter the world of show business and discover how easy it is to sink into a celebrity nightmare of ego, alcohol and pills — the beloved \"dolls.\"",
-      "release_date": "1967-12-27",
-      "rating": 6.0,
-      "vote_count": 148,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
-      "backdrop_path": "/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
-      "imdb_id": "tt0062430",
-      "runtime": 123,
-      "budget": 5000000,
-      "revenue": 50000000
     }
   },
   {
@@ -781,7 +663,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-11T06:56:12.163019+00:00",
+    "scraped_at": "2026-08-12T07:15:09.363661+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
@@ -832,7 +714,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-11T06:56:12.163042+00:00",
+    "scraped_at": "2026-08-12T07:15:09.363676+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
@@ -854,108 +736,6 @@
       "runtime": 98,
       "budget": 1500000,
       "revenue": 50000000
-    }
-  },
-  {
-    "film_id": "possession",
-    "url": "https://www.capitolbio.se/filmer/possession/3359",
-    "title": "Possession",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Världen Bästa Kultfilm!\n\nBlodigt skilsmässodrama där den psykotiska Isabelle Adjani slänger sig i väggarna och har skrämmande sex medan Sam Neill drivs till vanvett av sin rival. Isabelle Adjani och Sam Neill gör en enorm kraftansträngning i denna visuellt fantastiska och överväldigande film som belönade Adjani med priset för bästa kvinnliga huvudroll i Cannes.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/3359/1920/048cbb08-4d53-452e-8299-30dfc97de858.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-25T18:00:00",
-        "display_text": "Sunday 25 October 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "25.10",
-        "ticket_url": "https://www.capitolbio.se/boka/52053",
-        "booking_id": "52053",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-25T18:00:00",
-        "normalized_date": "25.10",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-11T06:56:12.163069+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 21484,
-      "title": "Possession",
-      "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
-      "release_date": "1981-05-27",
-      "rating": 7.3,
-      "vote_count": 1383,
-      "genres": [
-        "Horror"
-      ],
-      "poster_path": "/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
-      "backdrop_path": "/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
-      "imdb_id": "tt0082933",
-      "runtime": 124,
-      "budget": 2400000,
-      "revenue": 1200000
-    }
-  },
-  {
-    "film_id": "house-1977",
-    "url": "https://www.capitolbio.se/filmer/house-1977/4131",
-    "title": "House (1977)",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Japansk Kultskräck!\n\nExperimentlysten och färgsprakande rysarei om Angel som besöker sin moster med vännerna Fantasy, Prof, Kung Fu, Sweet, Melody och Mac. Mostern är en märklig dam med en märklig katt, och hennes hus visar sig vara inte bara märkligt utan även direkt livsfarligt.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4131/1920/c4a85f85-676c-466d-b8cc-a4a16d00a7c3.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-25T20:30:00",
-        "display_text": "Sunday 25 October 2026 at 20:30",
-        "time": "20:30",
-        "date_section": "25.10",
-        "ticket_url": "https://www.capitolbio.se/boka/52054",
-        "booking_id": "52054",
-        "hall": "Salong 1",
-        "audio_language": "JP",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-25T20:30:00",
-        "normalized_date": "25.10",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-11T06:56:12.163083+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 25623,
-      "title": "House",
-      "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye.",
-      "release_date": "1977-08-26",
-      "rating": 7.317,
-      "vote_count": 808,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Horror"
-      ],
-      "poster_path": "/myMnHnG6kxYaQYknnW76VCHBpYT.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/myMnHnG6kxYaQYknnW76VCHBpYT.jpg",
-      "backdrop_path": "/5040XNTvwARvLq1KtfCgJXBj3LC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5040XNTvwARvLq1KtfCgJXBj3LC.jpg",
-      "imdb_id": "tt0076162",
-      "runtime": 88,
-      "budget": 0,
-      "revenue": 0
     }
   }
 ]
