@@ -56,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 4,
-          "ticketsAvailable": 176,
+          "ticketsSold": 7,
+          "ticketsAvailable": 173,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-14T16:15:00",
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-12T07:14:17.309850",
+    "scraped_at": "2026-08-13T07:16:37.487075",
     "source": "biorio",
     "tmdb": {
       "id": 620350,
@@ -148,8 +148,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 24,
-          "ticketsAvailable": 156,
+          "ticketsSold": 27,
+          "ticketsAvailable": 153,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-16T16:00:00",
@@ -160,7 +160,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-12T07:14:22.348352",
+    "scraped_at": "2026-08-13T07:16:42.884382",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -168,7 +168,7 @@
       "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
       "release_date": "1987-09-23",
       "rating": 7.763,
-      "vote_count": 1516,
+      "vote_count": 1517,
       "genres": [
         "Drama",
         "Fantasy",
@@ -418,8 +418,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 61,
-          "ticketsAvailable": 119,
+          "ticketsSold": 66,
+          "ticketsAvailable": 114,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-29T18:10:00",
@@ -430,7 +430,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-12T07:14:30.268333",
+    "scraped_at": "2026-08-13T07:16:54.130270",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -524,7 +524,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-12T07:14:33.179285",
+    "scraped_at": "2026-08-13T07:16:58.138378",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -623,7 +623,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-12T07:14:37.308143",
+    "scraped_at": "2026-08-13T07:17:01.778580",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
@@ -631,7 +631,7 @@
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
       "rating": 7.925,
-      "vote_count": 3980,
+      "vote_count": 3983,
       "genres": [
         "Action",
         "Animation",
@@ -718,15 +718,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-12T07:14:55.551607",
+    "scraped_at": "2026-08-13T07:17:20.915633",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
       "title": "Mars Express",
       "overview": "In 2200, private detective Aline Ruby and her android partner Carlos Rivera are hired by a wealthy businessman to track down a notorious hacker. On Mars, they descend deep into the underbelly of the planet's capital city where they uncover a darker story of brain farms, political corruption, and a missing girl who holds a secret about the robots that threatens to change the face of the universe.",
       "release_date": "2023-11-22",
-      "rating": 7.466,
-      "vote_count": 568,
+      "rating": 7.464,
+      "vote_count": 570,
       "genres": [
         "Animation",
         "Science Fiction",
