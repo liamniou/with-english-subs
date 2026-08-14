@@ -1,57 +1,5 @@
 [
   {
-    "film_id": "the-boondock-saints",
-    "url": "https://www.capitolbio.se/filmer/the-boondock-saints/4477",
-    "title": "The Boondock Saints",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Kultklassiker från 1999\n\nIngår i Temat: Bad men - för vi alla älskar en riktigt bra skurk.\n\nThe Boondock Saints följer tvillingbröderna Connor och Murphy MacManus, som tar lagen i egna händer efter att de blivit vittnen till ett mord. De börjar en våldsam kampanj för att rensa Boston från brottslighet. Med en mix av svart humor och intensiv action, utforskar filmen teman om moral, rättvisa och hämnd.\n\nFler klassiker att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4477/1920/58468f9f-cd78-4bf2-a97f-82678bc04a0c.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-08-13T18:00:00",
-        "display_text": "Thursday 13 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "13.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51157",
-        "booking_id": "51157",
-        "hall": "Salong 1",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-13T18:00:00",
-        "normalized_date": "13.08",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-13T07:17:35.776713+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 8374,
-      "title": "The Boondock Saints",
-      "overview": "Tired of the crime overrunning the streets of Boston, Irish Catholic twin brothers Conner and Murphy are inspired by their faith to cleanse their hometown of evil with their own brand of zealous vigilante justice. As they hunt down and kill one notorious gangster after another, they become controversial folk heroes in the community. But Paul Smecker, an eccentric FBI agent, is fast closing in on their blood-soaked trail.",
-      "release_date": "1999-01-22",
-      "rating": 7.251,
-      "vote_count": 2753,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Crime"
-      ],
-      "poster_path": "/wtLUmkWg41xFLpvmUWAN1mm65f6.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wtLUmkWg41xFLpvmUWAN1mm65f6.jpg",
-      "backdrop_path": "/9DNDELpVxuLJWMoomgULhhZFoHR.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9DNDELpVxuLJWMoomgULhhZFoHR.jpg",
-      "imdb_id": "tt0144117",
-      "runtime": 108,
-      "budget": 6000000,
-      "revenue": 38256
-    }
-  },
-  {
     "film_id": "best-in-show",
     "url": "https://www.capitolbio.se/filmer/best-in-show/4475",
     "title": "Best in Show",
@@ -79,14 +27,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.776771+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819279+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 13785,
       "title": "Best in Show",
       "overview": "The tension is palpable, the excitement is mounting and the heady scent of competition is in the air as hundreds of eager contestants from across America prepare to take part in what is undoubtedly one of the greatest events of their lives -- the Mayflower Dog Show. The canine contestants and their owners are as wondrously diverse as the great country that has bred them.",
       "release_date": "2000-09-29",
-      "rating": 6.9,
+      "rating": 6.887,
       "vote_count": 689,
       "genres": [
         "Comedy"
@@ -129,15 +77,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.776793+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819326+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11690,
       "title": "Bloodsport",
       "overview": "An American Army Major goes AWOL to Hong Kong for an outlawed martial arts contest called the Kumite.",
       "release_date": "1988-02-26",
-      "rating": 7.058,
-      "vote_count": 2230,
+      "rating": 7.06,
+      "vote_count": 2231,
       "genres": [
         "Action",
         "Thriller",
@@ -181,7 +129,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.776817+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819339+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8446,
@@ -215,7 +163,7 @@
     "duration": "12 min",
     "language": "",
     "description": "Upplev svenska världssensationen GHOST SKELETOUR-turné som en i publiken på de två utsålda Mexico city-konserterna, filmad på krispig 16mm och med fantastisk ljudupptagning är 2 BIG TO RIG den oslagbara konsertfilmen med ett av världens största artister. \n\nGHOST: 2 BIG TO RIG Visas 26, 27 och 29 augusti.\n\nObs, inga återköp eller byten på denna visning.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4394/1920/6e5a62c3-9c81-49ec-b6c6-da158ba55d29.jpg",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4245/1920/be949d7d-5047-481a-81f4-3ea9df7bcd33.jpg",
     "showtimes": [
       {
         "datetime": "2026-08-26T18:00:00",
@@ -263,7 +211,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.776835+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819350+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
@@ -328,7 +276,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.776863+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819370+00:00",
     "source": "capitolbio"
   },
   {
@@ -359,7 +307,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.776897+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819393+00:00",
     "source": "capitolbio"
   },
   {
@@ -390,7 +338,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.776916+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819409+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -442,7 +390,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.776931+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819422+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -492,15 +440,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.776946+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819432+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
       "title": "Cabaret",
       "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
       "release_date": "1972-02-13",
-      "rating": 7.4,
-      "vote_count": 996,
+      "rating": 7.425,
+      "vote_count": 997,
       "genres": [
         "Music",
         "Romance",
@@ -544,7 +492,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.776961+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819443+00:00",
     "source": "capitolbio"
   },
   {
@@ -575,15 +523,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.776977+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819454+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
       "title": "Salò, or the 120 Days of Sodom",
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
-      "rating": 6.34,
-      "vote_count": 2338,
+      "rating": 6.339,
+      "vote_count": 2339,
       "genres": [
         "Horror",
         "Drama"
@@ -626,7 +574,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.776992+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819466+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -677,7 +625,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.777006+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819476+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3055,
@@ -728,15 +676,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.777023+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819487+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
       "title": "Fame",
       "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
       "release_date": "1980-05-16",
-      "rating": 6.425,
-      "vote_count": 524,
+      "rating": 6.424,
+      "vote_count": 525,
       "genres": [
         "Drama",
         "Music"
@@ -779,14 +727,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.777037+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819497+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
       "title": "Kickboxer",
       "overview": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
       "release_date": "1989-04-20",
-      "rating": 6.8,
+      "rating": 6.84,
       "vote_count": 1608,
       "genres": [
         "Action",
@@ -831,7 +779,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.777067+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819519+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 21484,
@@ -839,7 +787,7 @@
       "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
       "release_date": "1981-05-27",
       "rating": 7.3,
-      "vote_count": 1383,
+      "vote_count": 1384,
       "genres": [
         "Horror"
       ],
@@ -881,7 +829,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-13T07:17:35.777081+00:00",
+    "scraped_at": "2026-08-14T07:15:49.819532+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 25623,

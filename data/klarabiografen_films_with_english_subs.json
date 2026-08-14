@@ -26,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-13T07:18:06.553804+00:00",
+    "scraped_at": "2026-08-14T07:24:28.770221+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1430053,
@@ -75,7 +75,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-13T07:18:06.553939+00:00",
+    "scraped_at": "2026-08-14T07:24:28.770330+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 45166,
@@ -124,7 +124,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-13T07:18:06.554098+00:00",
+    "scraped_at": "2026-08-14T07:24:28.770453+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 435217,
@@ -173,7 +173,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-13T07:18:06.554274+00:00",
+    "scraped_at": "2026-08-14T07:24:28.770589+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 692562,
@@ -235,7 +235,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-13T07:18:06.554395+00:00",
+    "scraped_at": "2026-08-14T07:24:28.770676+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
@@ -285,7 +285,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-13T07:18:06.554447+00:00",
+    "scraped_at": "2026-08-14T07:24:28.770716+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1679401,
@@ -349,7 +349,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-13T07:18:06.554542+00:00",
+    "scraped_at": "2026-08-14T07:24:28.770803+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 511684,
@@ -399,8 +399,57 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-13T07:18:06.554687+00:00",
+    "scraped_at": "2026-08-14T07:24:28.770899+00:00",
     "source": "klarabiografen"
+  },
+  {
+    "film_id": "golden-boy-national-theatre",
+    "url": "https://kulturhusetstadsteatern.se/bio/golden-boy-national-theatre",
+    "title": "Golden Boy (National Theatre)",
+    "director": "",
+    "duration": "180 min",
+    "language": "",
+    "description": "Josh O’Connor (The Crown; Challengers) spelar huvudrollen i denna gripande och helt utsålda nyuppsättning av Clifford Odets amerikanska klassiker. Premiär på Klarabiografen den 6 november.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-08/NTL%202026%20Golden%20Boy%20-%20Listing%20Image%20%28Portrait%29.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-06T18:00:00+01:00",
+        "display_text": "Friday 6 November 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "06.11",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/32146/130937/",
+        "tix_event_id": 130937,
+        "tix_event_group_id": 32146,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-11-06T18:00:00",
+        "normalized_date": "06.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-08-14T07:24:28.770980+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 526031,
+      "title": "Golden Boy",
+      "overview": "GOLDEN BOY is the story of James, a young man who gambles on the dangers of being seen versus the quiet life of desperation and invisibility. Saved from doomed nonexistence by CQ, a wealthy debonair businessman with more going on than meets the eye, and introduced to a world he is not ready to navigate. We follow him as he chases his dreams -- while losing himself, one piece at a time. GOLDEN BOY is a story with universal themes. Trust. Seduction. Betrayal. Redemption.",
+      "release_date": "2018-06-08",
+      "rating": 5.833,
+      "vote_count": 6,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/wsQ2cbGUcE6sxOBrfFA9giAIPv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wsQ2cbGUcE6sxOBrfFA9giAIPv.jpg",
+      "backdrop_path": "/yQBFq7dHpfDgt3BPM0ORSfsOEZU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yQBFq7dHpfDgt3BPM0ORSfsOEZU.jpg",
+      "imdb_id": "tt5152882",
+      "runtime": 105,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "kinky-boots-musical",
@@ -429,7 +478,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-13T07:18:06.554853+00:00",
+    "scraped_at": "2026-08-14T07:24:28.771025+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -480,7 +529,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-13T07:18:06.555078+00:00",
+    "scraped_at": "2026-08-14T07:24:28.771184+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -530,7 +579,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-13T07:18:06.555176+00:00",
+    "scraped_at": "2026-08-14T07:24:28.771255+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1422112,
