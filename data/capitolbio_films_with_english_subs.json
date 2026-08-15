@@ -27,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-14T07:15:49.819279+00:00",
+    "scraped_at": "2026-08-15T06:26:26.469166+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 13785,
@@ -77,14 +77,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-14T07:15:49.819326+00:00",
+    "scraped_at": "2026-08-15T06:26:26.469218+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11690,
       "title": "Bloodsport",
       "overview": "An American Army Major goes AWOL to Hong Kong for an outlawed martial arts contest called the Kumite.",
       "release_date": "1988-02-26",
-      "rating": 7.06,
+      "rating": 7.1,
       "vote_count": 2231,
       "genres": [
         "Action",
@@ -129,7 +129,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-14T07:15:49.819339+00:00",
+    "scraped_at": "2026-08-15T06:26:26.469240+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8446,
@@ -180,20 +180,6 @@
         "normalized_time": "18:00"
       },
       {
-        "datetime": "2026-08-26T18:00:00",
-        "display_text": "Wednesday 26 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "26.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51813",
-        "booking_id": "51813",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-26T18:00:00",
-        "normalized_date": "26.08",
-        "normalized_time": "18:00"
-      },
-      {
         "datetime": "2026-08-29T20:30:00",
         "display_text": "Saturday 29 August 2026 at 20:30",
         "time": "20:30",
@@ -211,7 +197,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-14T07:15:49.819350+00:00",
+    "scraped_at": "2026-08-15T06:26:26.469258+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
@@ -276,7 +262,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-14T07:15:49.819370+00:00",
+    "scraped_at": "2026-08-15T06:26:26.469278+00:00",
     "source": "capitolbio"
   },
   {
@@ -307,7 +293,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-14T07:15:49.819393+00:00",
+    "scraped_at": "2026-08-15T06:26:26.469312+00:00",
     "source": "capitolbio"
   },
   {
@@ -338,7 +324,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-14T07:15:49.819409+00:00",
+    "scraped_at": "2026-08-15T06:26:26.469333+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -390,7 +376,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-14T07:15:49.819422+00:00",
+    "scraped_at": "2026-08-15T06:26:26.469359+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -440,7 +426,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-14T07:15:49.819432+00:00",
+    "scraped_at": "2026-08-15T06:26:26.469383+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
@@ -492,7 +478,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-14T07:15:49.819443+00:00",
+    "scraped_at": "2026-08-15T06:26:26.469404+00:00",
     "source": "capitolbio"
   },
   {
@@ -523,15 +509,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-14T07:15:49.819454+00:00",
+    "scraped_at": "2026-08-15T06:26:26.469422+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
       "title": "Salò, or the 120 Days of Sodom",
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
-      "rating": 6.339,
-      "vote_count": 2339,
+      "rating": 6.337,
+      "vote_count": 2341,
       "genres": [
         "Horror",
         "Drama"
@@ -574,7 +560,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-14T07:15:49.819466+00:00",
+    "scraped_at": "2026-08-15T06:26:26.469440+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -595,57 +581,6 @@
       "runtime": 68,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "valley-of-the-dolls",
-    "url": "https://www.capitolbio.se/filmer/valley-of-the-dolls/4529",
-    "title": "Valley of the Dolls",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Kultklassiker fån 1967 \n\nMed Sharon Tate som en djupt olycklig partytjej som missbrukar piller. Valley of the Dolls bygger på den skandalomsusade romanen med samma namn, blev en biosuccé 1967 och har sedan dess uppnått kultstatus.\n\nBaserad på Jacqueline Susanns bok med samma namn från 1966.\n\nFler klassiker att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4529/1920/29f611a2-0e09-4523-9c1c-20592baef959.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-15T18:00:00",
-        "display_text": "Tuesday 15 September 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "15.09",
-        "ticket_url": "https://www.capitolbio.se/boka/51705",
-        "booking_id": "51705",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-15T18:00:00",
-        "normalized_date": "15.09",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-14T07:15:49.819476+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 3055,
-      "title": "Valley of the Dolls",
-      "overview": "Lured by their dreams of fame and fortune, three ambitious young women enter the world of show business and discover how easy it is to sink into a celebrity nightmare of ego, alcohol and pills — the beloved \"dolls.\"",
-      "release_date": "1967-12-27",
-      "rating": 6.0,
-      "vote_count": 148,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
-      "backdrop_path": "/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
-      "imdb_id": "tt0062430",
-      "runtime": 123,
-      "budget": 5000000,
-      "revenue": 50000000
     }
   },
   {
@@ -676,14 +611,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-14T07:15:49.819487+00:00",
+    "scraped_at": "2026-08-15T06:26:26.469460+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
       "title": "Fame",
       "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
       "release_date": "1980-05-16",
-      "rating": 6.424,
+      "rating": 6.4,
       "vote_count": 525,
       "genres": [
         "Drama",
@@ -727,130 +662,28 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-14T07:15:49.819497+00:00",
+    "scraped_at": "2026-08-15T06:26:26.469478+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
       "title": "Kickboxer",
       "overview": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
       "release_date": "1989-04-20",
-      "rating": 6.84,
+      "rating": 6.8,
       "vote_count": 1608,
       "genres": [
         "Action",
         "Thriller",
         "Drama"
       ],
-      "poster_path": "/q3NCTsIb5mzOuf3XbQr9AfZyAaF.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/q3NCTsIb5mzOuf3XbQr9AfZyAaF.jpg",
+      "poster_path": "/tXSD8U5aVdGscQNcyY6C2ANVEuh.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tXSD8U5aVdGscQNcyY6C2ANVEuh.jpg",
       "backdrop_path": "/sl7hpSJR11FlfcewMJ6ihsbbAuJ.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/sl7hpSJR11FlfcewMJ6ihsbbAuJ.jpg",
       "imdb_id": "tt0097659",
       "runtime": 98,
       "budget": 1500000,
       "revenue": 50000000
-    }
-  },
-  {
-    "film_id": "possession",
-    "url": "https://www.capitolbio.se/filmer/possession/3359",
-    "title": "Possession",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Horroctober\n\nVärlden Bästa Kultfilm!\n\nBlodigt skilsmässodrama där den psykotiska Isabelle Adjani slänger sig i väggarna och har skrämmande sex medan Sam Neill drivs till vanvett av sin rival. Isabelle Adjani och Sam Neill gör en enorm kraftansträngning i denna visuellt fantastiska och överväldigande film som belönade Adjani med priset för bästa kvinnliga huvudroll i Cannes.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/3359/1920/048cbb08-4d53-452e-8299-30dfc97de858.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-25T18:00:00",
-        "display_text": "Sunday 25 October 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "25.10",
-        "ticket_url": "https://www.capitolbio.se/boka/52053",
-        "booking_id": "52053",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-25T18:00:00",
-        "normalized_date": "25.10",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-14T07:15:49.819519+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 21484,
-      "title": "Possession",
-      "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
-      "release_date": "1981-05-27",
-      "rating": 7.3,
-      "vote_count": 1384,
-      "genres": [
-        "Horror"
-      ],
-      "poster_path": "/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
-      "backdrop_path": "/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
-      "imdb_id": "tt0082933",
-      "runtime": 124,
-      "budget": 2400000,
-      "revenue": 1200000
-    }
-  },
-  {
-    "film_id": "house-1977",
-    "url": "https://www.capitolbio.se/filmer/house-1977/4131",
-    "title": "House (1977)",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Horroctober\n\nJapansk Kultskräck!\n\nExperimentlysten och färgsprakande rysarei om Angel som besöker sin moster med vännerna Fantasy, Prof, Kung Fu, Sweet, Melody och Mac. Mostern är en märklig dam med en märklig katt, och hennes hus visar sig vara inte bara märkligt utan även direkt livsfarligt.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4131/1920/c4a85f85-676c-466d-b8cc-a4a16d00a7c3.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-25T20:30:00",
-        "display_text": "Sunday 25 October 2026 at 20:30",
-        "time": "20:30",
-        "date_section": "25.10",
-        "ticket_url": "https://www.capitolbio.se/boka/52054",
-        "booking_id": "52054",
-        "hall": "Salong 1",
-        "audio_language": "JP",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-25T20:30:00",
-        "normalized_date": "25.10",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-14T07:15:49.819532+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 25623,
-      "title": "House",
-      "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye.",
-      "release_date": "1977-08-26",
-      "rating": 7.3,
-      "vote_count": 808,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Horror"
-      ],
-      "poster_path": "/ryZ3DdZPvXVCv9qRCtVRfmNbYAH.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ryZ3DdZPvXVCv9qRCtVRfmNbYAH.jpg",
-      "backdrop_path": "/5040XNTvwARvLq1KtfCgJXBj3LC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5040XNTvwARvLq1KtfCgJXBj3LC.jpg",
-      "imdb_id": "tt0076162",
-      "runtime": 88,
-      "budget": 0,
-      "revenue": 0
     }
   }
 ]

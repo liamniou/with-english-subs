@@ -1,47 +1,48 @@
 [
   {
-    "film_id": "unknown-title",
-    "url": "https://zita.se/haru-tove",
-    "title": "Unknown Title",
+    "film_id": "the-atomic-café",
+    "url": "https://zita.se/the-atomic-cafe",
+    "title": "The Atomic Café",
     "director": "",
-    "genre": "Sverig, Finland103 minDokumentärFolkets Bio StockholmSvenskaEngelska",
+    "genre": "USA198286 minDokumentärFrån 11 årFolkets BioEngelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "15:00",
-        "time": "15:00",
+        "display_text": "20:00",
+        "time": "20:00",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5936",
-        "normalized_datetime": "2026-08-14T15:00:00",
-        "normalized_date": "14.08",
-        "normalized_time": "15:00"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5918",
+        "normalized_datetime": "2026-08-15T20:00:00",
+        "normalized_date": "15.08",
+        "normalized_time": "20:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-08-09T06:52:52.321898+00:00",
+    "scraped_at": "2026-08-15T06:35:00.173329+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 949470,
-      "title": "Unknown Title",
-      "overview": "A short film by Andrei Ventslova",
-      "release_date": "1988-04-15",
-      "rating": 0.0,
-      "vote_count": 0,
+      "id": 26851,
+      "title": "The Atomic Cafe",
+      "overview": "A disturbing collection of 1940s and 1950s United States government-issued propaganda films designed to reassure Americans that the atomic bomb was not a threat to their safety.",
+      "release_date": "1982-03-17",
+      "rating": 7.329,
+      "vote_count": 76,
       "genres": [
-        "Drama"
+        "Documentary",
+        "History"
       ],
-      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "imdb_id": null,
-      "runtime": 1,
-      "budget": 0,
-      "revenue": 0
+      "poster_path": "/9kTkv6o25fuWVSRu1AgOsF0cwz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9kTkv6o25fuWVSRu1AgOsF0cwz.jpg",
+      "backdrop_path": "/yDrAyZMQpEKAK2HiK5NujvutilM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yDrAyZMQpEKAK2HiK5NujvutilM.jpg",
+      "imdb_id": "tt0083590",
+      "runtime": 86,
+      "budget": 300000,
+      "revenue": 22293
     }
   }
 ]

@@ -1,54 +1,5 @@
 [
   {
-    "film_id": "fifth-step-national-theatre",
-    "url": "https://kulturhusetstadsteatern.se/bio/fifth-step-national-theatre",
-    "title": "The Fifth Step (National Theatre)",
-    "director": "",
-    "duration": "1 tim 40 min",
-    "language": "",
-    "description": "Finn den Hertog regisserar denna provokativa och underhållande föreställning, inspelad live från Soho Place i Londons West End.",
-    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2025-09/The%20Fifth%20Step.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-08-14T18:00:00+02:00",
-        "display_text": "Friday 14 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "14.08",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/26517/125761/",
-        "tix_event_id": 125761,
-        "tix_event_group_id": 26517,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-08-14T18:00:00",
-        "normalized_date": "14.08",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Klarabiografen"
-    ],
-    "scraped_at": "2026-08-14T07:24:28.770221+00:00",
-    "source": "klarabiografen",
-    "tmdb": {
-      "id": 1430053,
-      "title": "The Fifth Step",
-      "overview": "An inmate manages to win the prison time battle by thinking about his wife, who  was also imprisoned. He lives only with the hope that the two will see each other again, but eventually realizes that the only thing he has left is the memory of the two's dancing steps.",
-      "release_date": "",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/zMDBTVUTxYLkQMlrapfiAOhjqYl.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zMDBTVUTxYLkQMlrapfiAOhjqYl.jpg",
-      "backdrop_path": "/qDlh8ac9mg9fX1l0EP9tYSTybtK.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qDlh8ac9mg9fX1l0EP9tYSTybtK.jpg",
-      "imdb_id": null,
-      "runtime": 8,
-      "budget": 1000,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "all-my-sons",
     "url": "https://kulturhusetstadsteatern.se/bio/all-my-sons",
     "title": "All My Sons",
@@ -75,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-14T07:24:28.770330+00:00",
+    "scraped_at": "2026-08-15T06:34:05.144016+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 45166,
@@ -124,7 +75,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-14T07:24:28.770453+00:00",
+    "scraped_at": "2026-08-15T06:34:05.144171+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 435217,
@@ -173,24 +124,24 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-14T07:24:28.770589+00:00",
+    "scraped_at": "2026-08-15T06:34:05.144343+00:00",
     "source": "klarabiografen",
     "tmdb": {
-      "id": 692562,
+      "id": 387722,
       "title": "The Playboy of the Western World",
-      "overview": "A man comes into a pub and boasts that he has just killed his father. Instead of condemning him for the crime, the locals revel in his story and praise him for his deed, with the daughter of the landlord falling for this \"dashing hero\". Things take an even more surprising turn, when the father enters the pub. Based on John Millington Synge's play The Playboy of the Western World.",
-      "release_date": "1974-01-01",
-      "rating": 7.0,
-      "vote_count": 1,
+      "overview": "A quiet little village, and especially a pretty young woman, falls under the spell of a charming, somewhat roguish stranger who suddenly appears one day.",
+      "release_date": "1962-12-31",
+      "rating": 6.3,
+      "vote_count": 5,
       "genres": [
-        "TV Movie"
+        "Comedy"
       ],
-      "poster_path": null,
-      "poster_url": null,
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt0395247",
-      "runtime": 101,
+      "poster_path": "/oTljoxLrf3GtpUe2Ld0cySIrH8p.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oTljoxLrf3GtpUe2Ld0cySIrH8p.jpg",
+      "backdrop_path": "/yZYB80btTXmGlBNd1RS54LePbPG.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yZYB80btTXmGlBNd1RS54LePbPG.jpg",
+      "imdb_id": "tt0056354",
+      "runtime": 100,
       "budget": 0,
       "revenue": 0
     }
@@ -235,7 +186,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-14T07:24:28.770676+00:00",
+    "scraped_at": "2026-08-15T06:34:05.144455+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
@@ -285,7 +236,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-14T07:24:28.770716+00:00",
+    "scraped_at": "2026-08-15T06:34:05.144504+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1679401,
@@ -349,7 +300,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-14T07:24:28.770803+00:00",
+    "scraped_at": "2026-08-15T06:34:05.144593+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 511684,
@@ -399,7 +350,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-14T07:24:28.770899+00:00",
+    "scraped_at": "2026-08-15T06:34:05.144731+00:00",
     "source": "klarabiografen"
   },
   {
@@ -429,7 +380,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-14T07:24:28.770980+00:00",
+    "scraped_at": "2026-08-15T06:34:05.144836+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 526031,
@@ -478,7 +429,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-14T07:24:28.771025+00:00",
+    "scraped_at": "2026-08-15T06:34:05.144894+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -529,7 +480,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-14T07:24:28.771184+00:00",
+    "scraped_at": "2026-08-15T06:34:05.145117+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -579,7 +530,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-14T07:24:28.771255+00:00",
+    "scraped_at": "2026-08-15T06:34:05.145211+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1422112,

@@ -1,97 +1,5 @@
 [
   {
-    "film_id": "fleabag",
-    "url": "https://www.biorio.se/sv/filmer/fleabag",
-    "title": "Fleabag",
-    "director": "Tony Grech-Smith",
-    "showtimes": [
-      {
-        "datetime": "2026-08-14T16:15:00.000Z",
-        "display_text": "Friday August 14, 2026 at 16:15",
-        "movie_id": "5509",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2580",
-        "api_data": {
-          "id": 2580,
-          "movieId": 5509,
-          "movieVersionId": 187,
-          "startTime": "2026-08-14T16:15:00.000Z",
-          "endTime": "2026-08-14T17:42:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5509,
-            "title": "Fleabag",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/5509/posters/1748606053347-ciwlb.jpg",
-            "movieVersions": [
-              {
-                "duration": 87,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 187,
-            "duration": 87,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 17,
-              "name": "Live på Rio (standardpris)"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 12,
-          "ticketsAvailable": 168,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-08-14T16:15:00",
-        "normalized_date": "14.08",
-        "normalized_time": "16:15"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-08-14T07:14:53.935063",
-    "source": "biorio",
-    "tmdb": {
-      "id": 620350,
-      "title": "National Theatre Live: Fleabag",
-      "overview": "Fleabag may seem oversexed, emotionally unfiltered and self-obsessed, but that's just the tip of the iceberg. With family and friendships under strain and a guinea pig café struggling to keep afloat, Fleabag suddenly finds herself with nothing to lose.",
-      "release_date": "2019-09-12",
-      "rating": 7.713,
-      "vote_count": 75,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "poster_path": "/ym3Jo2mo2dK9Z27ryMr5mmkDljx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ym3Jo2mo2dK9Z27ryMr5mmkDljx.jpg",
-      "backdrop_path": "/h3StNE0j4jc1qFt88t7IR2w4wVm.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/h3StNE0j4jc1qFt88t7IR2w4wVm.jpg",
-      "imdb_id": "tt10702760",
-      "runtime": 81,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "himmel-over-berlin",
     "url": "https://www.biorio.se/sv/filmer/himmel-over-berlin",
     "title": "Himmel över Berlin",
@@ -148,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 28,
-          "ticketsAvailable": 152,
+          "ticketsSold": 34,
+          "ticketsAvailable": 146,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-16T16:00:00",
@@ -160,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-14T07:14:58.913376",
+    "scraped_at": "2026-08-15T06:25:31.951228",
     "source": "biorio",
     "tmdb": {
       "id": 144,
@@ -241,8 +149,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 3,
-          "ticketsAvailable": 177,
+          "ticketsSold": 5,
+          "ticketsAvailable": 175,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-04T16:00:00",
@@ -300,8 +208,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 72,
-          "ticketsAvailable": 108,
+          "ticketsSold": 70,
+          "ticketsAvailable": 110,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-26T16:00:00",
@@ -359,8 +267,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 59,
-          "ticketsAvailable": 121,
+          "ticketsSold": 60,
+          "ticketsAvailable": 120,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-27T18:10:00",
@@ -418,8 +326,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 66,
-          "ticketsAvailable": 114,
+          "ticketsSold": 69,
+          "ticketsAvailable": 111,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-29T18:10:00",
@@ -430,7 +338,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-14T07:15:09.960151",
+    "scraped_at": "2026-08-15T06:25:43.321197",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -524,7 +432,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-14T07:15:13.769096",
+    "scraped_at": "2026-08-15T06:25:47.720112",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -611,8 +519,8 @@
           "tags": [
             "Timelessfest 2026"
           ],
-          "ticketsSold": 20,
-          "ticketsAvailable": 160,
+          "ticketsSold": 26,
+          "ticketsAvailable": 154,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-03T16:00:00",
@@ -623,7 +531,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-14T07:15:17.063346",
+    "scraped_at": "2026-08-15T06:25:51.000949",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
@@ -631,7 +539,7 @@
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
       "rating": 7.925,
-      "vote_count": 3983,
+      "vote_count": 3986,
       "genres": [
         "Action",
         "Animation",
@@ -718,7 +626,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-14T07:15:36.600369",
+    "scraped_at": "2026-08-15T06:26:12.866476",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
