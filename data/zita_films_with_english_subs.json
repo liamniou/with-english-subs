@@ -1,10 +1,10 @@
 [
   {
-    "film_id": "the-atomic-café",
-    "url": "https://zita.se/the-atomic-cafe",
-    "title": "The Atomic Café",
+    "film_id": "sommarnattens-leende",
+    "url": "https://zita.se/sommarnattens-leende",
+    "title": "Sommarnattens leende",
     "director": "",
-    "genre": "USA198286 minDokumentärFrån 11 årFolkets BioEngelska",
+    "genre": "Sverige19551 jan 1955109 minDrama, komediSvenskaEngelska",
     "duration": "",
     "showtimes": [
       {
@@ -13,36 +13,36 @@
         "time": "20:00",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5918",
-        "normalized_datetime": "2026-08-15T20:00:00",
-        "normalized_date": "15.08",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3113",
+        "normalized_datetime": "2026-08-16T20:00:00",
+        "normalized_date": "16.08",
         "normalized_time": "20:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-08-15T06:35:00.173329+00:00",
+    "scraped_at": "2026-08-16T06:31:00.640971+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 26851,
-      "title": "The Atomic Cafe",
-      "overview": "A disturbing collection of 1940s and 1950s United States government-issued propaganda films designed to reassure Americans that the atomic bomb was not a threat to their safety.",
-      "release_date": "1982-03-17",
-      "rating": 7.329,
-      "vote_count": 76,
+      "id": 11700,
+      "title": "Smiles of a Summer Night",
+      "overview": "Early in the 20th century, middle-aged lawyer Fredrik Egerman and his young wife, Anne, have still not consummated their marriage, while Fredrik's son finds himself increasingly attracted to his new stepmother. To make matters worse, Fredrik's old flame Desiree makes a public bet that she can seduce him at a romantic weekend retreat where four couples convene, swapping partners and pairing off in unexpected ways.",
+      "release_date": "1955-12-26",
+      "rating": 7.4,
+      "vote_count": 277,
       "genres": [
-        "Documentary",
-        "History"
+        "Comedy",
+        "Romance"
       ],
-      "poster_path": "/9kTkv6o25fuWVSRu1AgOsF0cwz.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9kTkv6o25fuWVSRu1AgOsF0cwz.jpg",
-      "backdrop_path": "/yDrAyZMQpEKAK2HiK5NujvutilM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yDrAyZMQpEKAK2HiK5NujvutilM.jpg",
-      "imdb_id": "tt0083590",
-      "runtime": 86,
-      "budget": 300000,
-      "revenue": 22293
+      "poster_path": "/wKeV8lKz8k9DDBCw6MJ9MkhvhqF.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wKeV8lKz8k9DDBCw6MJ9MkhvhqF.jpg",
+      "backdrop_path": "/mPpEL0P0JSw8AdjB2fx4NzIUIFZ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mPpEL0P0JSw8AdjB2fx4NzIUIFZ.jpg",
+      "imdb_id": "tt0048641",
+      "runtime": 109,
+      "budget": 0,
+      "revenue": 0
     }
   }
 ]
