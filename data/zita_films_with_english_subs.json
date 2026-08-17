@@ -1,48 +1,28 @@
 [
   {
-    "film_id": "sommarnattens-leende",
-    "url": "https://zita.se/sommarnattens-leende",
-    "title": "Sommarnattens leende",
+    "film_id": "heta-känslor-i-bombay",
+    "url": "https://zita.se/bombay-talkie-",
+    "title": "Heta känslor i Bombay",
     "director": "",
-    "genre": "Sverige19551 jan 1955109 minDrama, komediSvenskaEngelska",
+    "genre": "Bombay TalkieUSA, Indien1970112 minDramaFolkets Bio StockholmEngelskaengelska",
     "duration": "",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "20:00",
-        "time": "20:00",
+        "display_text": "18:00",
+        "time": "18:00",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3113",
-        "normalized_datetime": "2026-08-16T20:00:00",
-        "normalized_date": "16.08",
-        "normalized_time": "20:00"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5940",
+        "normalized_datetime": "2026-08-17T18:00:00",
+        "normalized_date": "17.08",
+        "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-08-16T06:31:00.640971+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 11700,
-      "title": "Smiles of a Summer Night",
-      "overview": "Early in the 20th century, middle-aged lawyer Fredrik Egerman and his young wife, Anne, have still not consummated their marriage, while Fredrik's son finds himself increasingly attracted to his new stepmother. To make matters worse, Fredrik's old flame Desiree makes a public bet that she can seduce him at a romantic weekend retreat where four couples convene, swapping partners and pairing off in unexpected ways.",
-      "release_date": "1955-12-26",
-      "rating": 7.4,
-      "vote_count": 277,
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "poster_path": "/wKeV8lKz8k9DDBCw6MJ9MkhvhqF.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wKeV8lKz8k9DDBCw6MJ9MkhvhqF.jpg",
-      "backdrop_path": "/mPpEL0P0JSw8AdjB2fx4NzIUIFZ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mPpEL0P0JSw8AdjB2fx4NzIUIFZ.jpg",
-      "imdb_id": "tt0048641",
-      "runtime": 109,
-      "budget": 0,
-      "revenue": 0
-    }
+    "scraped_at": "2026-08-17T06:48:30.514720+00:00",
+    "source": "zita"
   }
 ]

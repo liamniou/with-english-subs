@@ -1,98 +1,5 @@
 [
   {
-    "film_id": "himmel-over-berlin",
-    "url": "https://www.biorio.se/sv/filmer/himmel-over-berlin",
-    "title": "Himmel över Berlin",
-    "director": "Wim Wenders",
-    "showtimes": [
-      {
-        "datetime": "2026-08-16T16:00:00.000Z",
-        "display_text": "Sunday August 16, 2026 at 16:00",
-        "movie_id": "5024",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2307",
-        "api_data": {
-          "id": 2307,
-          "movieId": 5024,
-          "movieVersionId": 15,
-          "startTime": "2026-08-16T16:00:00.000Z",
-          "endTime": "2026-08-16T18:08:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5024,
-            "title": "Himmel över Berlin",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1741269594239-105221735-himmel-aff.jpg",
-            "movieVersions": [
-              {
-                "duration": 128,
-                "audio": "Tyska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Tyska"
-          },
-          "MovieVersion": {
-            "id": 15,
-            "duration": 128,
-            "subtitles": "Engelska",
-            "audio": "Tyska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 50,
-          "ticketsAvailable": 130,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-08-16T16:00:00",
-        "normalized_date": "16.08",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-08-16T06:28:23.682320",
-    "source": "biorio",
-    "tmdb": {
-      "id": 144,
-      "title": "Wings of Desire",
-      "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
-      "release_date": "1987-09-23",
-      "rating": 7.762,
-      "vote_count": 1518,
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Romance"
-      ],
-      "poster_path": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
-      "backdrop_path": "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
-      "imdb_id": "tt0093191",
-      "runtime": 128,
-      "budget": 2500000,
-      "revenue": 3548590
-    }
-  },
-  {
     "film_id": "ghost-2-big-to-rig",
     "url": "https://www.biorio.se/sv/filmer/ghost-2-big-to-rig",
     "title": "Ghost: 2 Big to Rig",
@@ -149,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 5,
-          "ticketsAvailable": 175,
+          "ticketsSold": 9,
+          "ticketsAvailable": 171,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-04T16:00:00",
@@ -267,8 +174,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 60,
-          "ticketsAvailable": 120,
+          "ticketsSold": 63,
+          "ticketsAvailable": 117,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-27T18:10:00",
@@ -326,8 +233,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 69,
-          "ticketsAvailable": 111,
+          "ticketsSold": 74,
+          "ticketsAvailable": 106,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-29T18:10:00",
@@ -338,7 +245,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-16T06:28:38.672900",
+    "scraped_at": "2026-08-17T06:39:27.636622",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -420,8 +327,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 28,
-          "ticketsAvailable": 152,
+          "ticketsSold": 30,
+          "ticketsAvailable": 150,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-30T08:30:00",
@@ -432,7 +339,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-16T06:28:43.791887",
+    "scraped_at": "2026-08-17T06:39:31.814976",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -519,8 +426,8 @@
           "tags": [
             "Timelessfest 2026"
           ],
-          "ticketsSold": 26,
-          "ticketsAvailable": 154,
+          "ticketsSold": 28,
+          "ticketsAvailable": 152,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-03T16:00:00",
@@ -531,7 +438,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-16T06:28:47.465157",
+    "scraped_at": "2026-08-17T06:39:34.848503",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
@@ -539,7 +446,7 @@
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
       "rating": 7.926,
-      "vote_count": 3990,
+      "vote_count": 3991,
       "genres": [
         "Action",
         "Animation",
@@ -626,7 +533,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-16T06:29:11.634564",
+    "scraped_at": "2026-08-17T06:39:55.517291",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
