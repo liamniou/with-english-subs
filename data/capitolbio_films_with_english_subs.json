@@ -27,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.581973+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205291+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 13785,
@@ -77,15 +77,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.582024+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205341+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11690,
       "title": "Bloodsport",
       "overview": "An American Army Major goes AWOL to Hong Kong for an outlawed martial arts contest called the Kumite.",
       "release_date": "1988-02-26",
-      "rating": 7.1,
-      "vote_count": 2234,
+      "rating": 7.06,
+      "vote_count": 2236,
       "genres": [
         "Action",
         "Thriller",
@@ -129,7 +129,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.582073+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205359+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8446,
@@ -163,7 +163,7 @@
     "duration": "12 min",
     "language": "",
     "description": "Upplev svenska världssensationen GHOST SKELETOUR-turné som en i publiken på de två utsålda Mexico city-konserterna, filmad på krispig 16mm och med fantastisk ljudupptagning är 2 BIG TO RIG den oslagbara konsertfilmen med ett av världens största artister. \n\nGHOST: 2 BIG TO RIG Visas 26, 27 och 29 augusti.\n\nObs, inga återköp eller byten på denna visning.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4532/1920/1361e225-9c0f-4377-9ec2-aea38ae48811.jpg",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4533/1920/62fccd1b-5fea-4620-9950-2d14582ebfc7.jpg",
     "showtimes": [
       {
         "datetime": "2026-08-26T18:00:00",
@@ -172,20 +172,6 @@
         "date_section": "26.08",
         "ticket_url": "https://www.capitolbio.se/boka/51812",
         "booking_id": "51812",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-26T18:00:00",
-        "normalized_date": "26.08",
-        "normalized_time": "18:00"
-      },
-      {
-        "datetime": "2026-08-26T18:00:00",
-        "display_text": "Wednesday 26 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "26.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51813",
-        "booking_id": "51813",
         "hall": "Salong 2",
         "audio_language": "EN",
         "subtitle_language": "EN",
@@ -211,7 +197,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.582088+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205379+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
@@ -276,7 +262,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.582117+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205394+00:00",
     "source": "capitolbio"
   },
   {
@@ -307,7 +293,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.582149+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205421+00:00",
     "source": "capitolbio"
   },
   {
@@ -338,7 +324,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.582167+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205442+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -390,15 +376,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.582190+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205461+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
       "title": "Grey Gardens",
       "overview": "Edie Bouvier Beale and her mother, Edith, two aging, eccentric relatives of Jackie Kennedy Onassis, are the sole inhabitants of a Long Island estate. The women reveal themselves to be misfits with outsized, engaging personalities. Much of the conversation is centered on their pasts, as mother and daughter now rarely leave home.",
       "release_date": "1976-02-19",
-      "rating": 7.31,
-      "vote_count": 252,
+      "rating": 7.285,
+      "vote_count": 253,
       "genres": [
         "Documentary"
       ],
@@ -440,7 +426,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.582208+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205476+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
@@ -448,7 +434,7 @@
       "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
       "release_date": "1972-02-13",
       "rating": 7.42,
-      "vote_count": 999,
+      "vote_count": 998,
       "genres": [
         "Music",
         "Romance",
@@ -492,7 +478,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.582222+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205491+00:00",
     "source": "capitolbio"
   },
   {
@@ -523,7 +509,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.582237+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205505+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
@@ -531,7 +517,7 @@
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
       "rating": 6.334,
-      "vote_count": 2343,
+      "vote_count": 2342,
       "genres": [
         "Horror",
         "Drama"
@@ -574,7 +560,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.582253+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205520+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -582,7 +568,7 @@
       "overview": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
       "release_date": "1933-11-12",
       "rating": 7.319,
-      "vote_count": 872,
+      "vote_count": 871,
       "genres": [
         "Comedy",
         "War"
@@ -608,24 +594,24 @@
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4529/1920/29f611a2-0e09-4523-9c1c-20592baef959.jpg",
     "showtimes": [
       {
-        "datetime": "2026-09-15T18:00:00",
-        "display_text": "Tuesday 15 September 2026 at 18:00",
+        "datetime": "2026-09-16T18:00:00",
+        "display_text": "Wednesday 16 September 2026 at 18:00",
         "time": "18:00",
-        "date_section": "15.09",
+        "date_section": "16.09",
         "ticket_url": "https://www.capitolbio.se/boka/51705",
         "booking_id": "51705",
         "hall": "Salong 2",
         "audio_language": "EN",
         "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-15T18:00:00",
-        "normalized_date": "15.09",
+        "normalized_datetime": "2026-09-16T18:00:00",
+        "normalized_date": "16.09",
         "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.582270+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205558+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3055,
@@ -676,15 +662,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.582284+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205573+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
       "title": "Fame",
       "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
       "release_date": "1980-05-16",
-      "rating": 6.4,
-      "vote_count": 525,
+      "rating": 6.426,
+      "vote_count": 527,
       "genres": [
         "Drama",
         "Music"
@@ -710,32 +696,32 @@
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4528/1920/6b9e7818-c6df-4b6f-b269-2a3799369153.jpg",
     "showtimes": [
       {
-        "datetime": "2026-09-27T20:15:00",
-        "display_text": "Sunday 27 September 2026 at 20:15",
-        "time": "20:15",
+        "datetime": "2026-09-27T20:30:00",
+        "display_text": "Sunday 27 September 2026 at 20:30",
+        "time": "20:30",
         "date_section": "27.09",
         "ticket_url": "https://www.capitolbio.se/boka/51714",
         "booking_id": "51714",
         "hall": "Salong 2",
         "audio_language": "EN",
         "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-27T20:15:00",
+        "normalized_datetime": "2026-09-27T20:30:00",
         "normalized_date": "27.09",
-        "normalized_time": "20:15"
+        "normalized_time": "20:30"
       }
     ],
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.582299+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205588+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
       "title": "Kickboxer",
       "overview": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
       "release_date": "1989-04-20",
-      "rating": 6.8,
-      "vote_count": 1608,
+      "rating": 6.842,
+      "vote_count": 1609,
       "genres": [
         "Action",
         "Thriller",
@@ -779,14 +765,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.582325+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205613+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 21484,
       "title": "Possession",
       "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
       "release_date": "1981-05-27",
-      "rating": 7.314,
+      "rating": 7.3,
       "vote_count": 1385,
       "genres": [
         "Horror"
@@ -829,7 +815,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-17T06:40:09.582344+00:00",
+    "scraped_at": "2026-08-18T06:31:46.205636+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 25623,

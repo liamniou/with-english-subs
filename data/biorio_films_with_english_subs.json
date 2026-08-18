@@ -56,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 9,
-          "ticketsAvailable": 171,
+          "ticketsSold": 11,
+          "ticketsAvailable": 169,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-04T16:00:00",
@@ -174,8 +174,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 63,
-          "ticketsAvailable": 117,
+          "ticketsSold": 65,
+          "ticketsAvailable": 115,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-27T18:10:00",
@@ -183,8 +183,8 @@
         "normalized_time": "18:10"
       },
       {
-        "datetime": "2026-08-29T18:10:00.000Z",
-        "display_text": "Saturday August 29, 2026 at 18:10",
+        "datetime": "2026-08-29T18:15:00.000Z",
+        "display_text": "Saturday August 29, 2026 at 18:15",
         "movie_id": "5957",
         "cinema_id": "10",
         "booking_url": "https://www.biorio.se/sv/boka/2550",
@@ -192,8 +192,8 @@
           "id": 2550,
           "movieId": 5957,
           "movieVersionId": 656,
-          "startTime": "2026-08-29T18:10:00.000Z",
-          "endTime": "2026-08-29T20:05:00.000Z",
+          "startTime": "2026-08-29T18:15:00.000Z",
+          "endTime": "2026-08-29T20:10:00.000Z",
           "screenId": 1,
           "screenNumber": 1,
           "language": null,
@@ -237,15 +237,15 @@
           "ticketsAvailable": 106,
           "isPublished": true
         },
-        "normalized_datetime": "2026-08-29T18:10:00",
+        "normalized_datetime": "2026-08-29T18:15:00",
         "normalized_date": "29.08",
-        "normalized_time": "18:10"
+        "normalized_time": "18:15"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-17T06:39:27.636622",
+    "scraped_at": "2026-08-18T06:31:02.268010",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -327,8 +327,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 30,
-          "ticketsAvailable": 150,
+          "ticketsSold": 32,
+          "ticketsAvailable": 148,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-30T08:30:00",
@@ -339,7 +339,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-17T06:39:31.814976",
+    "scraped_at": "2026-08-18T06:31:07.309777",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -426,8 +426,8 @@
           "tags": [
             "Timelessfest 2026"
           ],
-          "ticketsSold": 28,
-          "ticketsAvailable": 152,
+          "ticketsSold": 30,
+          "ticketsAvailable": 150,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-03T16:00:00",
@@ -438,7 +438,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-17T06:39:34.848503",
+    "scraped_at": "2026-08-18T06:31:10.184375",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
@@ -446,7 +446,7 @@
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
       "rating": 7.926,
-      "vote_count": 3991,
+      "vote_count": 3992,
       "genres": [
         "Action",
         "Animation",
@@ -533,7 +533,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-17T06:39:55.517291",
+    "scraped_at": "2026-08-18T06:31:31.085526",
     "source": "biorio",
     "tmdb": {
       "id": 586810,

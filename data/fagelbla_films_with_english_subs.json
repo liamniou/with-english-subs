@@ -1,51 +1,5 @@
 [
   {
-    "film_id": "det-sjunde-inseglet",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Det sjunde inseglet",
-    "director": "Ingmar Bergman",
-    "duration": "1h 36 mins",
-    "language": "Svensk",
-    "showtimes": [
-      {
-        "datetime": "2026-08-17T17:45:00+02:00",
-        "display_text": "Måndag, 17th Augusti 17:45",
-        "time": "17:45",
-        "date_section": "Måndag, 17th Augusti",
-        "ticket_url": "https://biofagelbla.se/movie/det-sjunde-inseglet/?showtime=58271",
-        "showtime_id": "58271",
-        "normalized_datetime": "2026-08-17T17:45:00",
-        "normalized_date": "17.08",
-        "normalized_time": "17:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-08-17T06:47:39.560911+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 490,
-      "title": "The Seventh Seal",
-      "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
-      "release_date": "1957-02-16",
-      "rating": 8.142,
-      "vote_count": 3414,
-      "genres": [
-        "Fantasy",
-        "Drama"
-      ],
-      "poster_path": "/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
-      "backdrop_path": "/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
-      "imdb_id": "tt0050976",
-      "runtime": 96,
-      "budget": 150000,
-      "revenue": 311212
-    }
-  },
-  {
     "film_id": "breakfast-at-tiffanys",
     "url": "https://biofagelbla.se/program/",
     "title": "Breakfast at Tiffany’s",
@@ -68,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-08-17T06:47:39.562686+00:00",
+    "scraped_at": "2026-08-18T06:39:05.326635+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -76,7 +30,7 @@
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
       "rating": 7.617,
-      "vote_count": 4535,
+      "vote_count": 4536,
       "genres": [
         "Comedy",
         "Romance",
@@ -115,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-08-17T06:47:39.563296+00:00",
+    "scraped_at": "2026-08-18T06:39:05.327316+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -123,7 +77,7 @@
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
       "rating": 7.617,
-      "vote_count": 4535,
+      "vote_count": 4536,
       "genres": [
         "Comedy",
         "Romance",
