@@ -174,8 +174,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 65,
-          "ticketsAvailable": 115,
+          "ticketsSold": 67,
+          "ticketsAvailable": 113,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-27T18:10:00",
@@ -245,7 +245,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-18T06:31:02.268010",
+    "scraped_at": "2026-08-19T06:32:06.451554",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -327,8 +327,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 32,
-          "ticketsAvailable": 148,
+          "ticketsSold": 33,
+          "ticketsAvailable": 147,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-30T08:30:00",
@@ -339,7 +339,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-18T06:31:07.309777",
+    "scraped_at": "2026-08-19T06:32:11.706278",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -426,8 +426,8 @@
           "tags": [
             "Timelessfest 2026"
           ],
-          "ticketsSold": 30,
-          "ticketsAvailable": 150,
+          "ticketsSold": 42,
+          "ticketsAvailable": 138,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-03T16:00:00",
@@ -438,7 +438,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-18T06:31:10.184375",
+    "scraped_at": "2026-08-19T06:32:15.489013",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
@@ -446,7 +446,7 @@
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
       "rating": 7.926,
-      "vote_count": 3992,
+      "vote_count": 3994,
       "genres": [
         "Action",
         "Animation",
@@ -533,7 +533,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-18T06:31:31.085526",
+    "scraped_at": "2026-08-19T06:32:37.498782",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
