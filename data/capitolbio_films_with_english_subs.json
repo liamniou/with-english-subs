@@ -27,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-20T06:35:06.053818+00:00",
+    "scraped_at": "2026-08-21T06:35:28.985407+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11690,
@@ -79,7 +79,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-20T06:35:06.053872+00:00",
+    "scraped_at": "2026-08-21T06:35:28.985461+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8446,
@@ -130,20 +130,6 @@
         "normalized_time": "18:00"
       },
       {
-        "datetime": "2026-08-26T18:00:00",
-        "display_text": "Wednesday 26 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "26.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51813",
-        "booking_id": "51813",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-26T18:00:00",
-        "normalized_date": "26.08",
-        "normalized_time": "18:00"
-      },
-      {
         "datetime": "2026-08-29T20:30:00",
         "display_text": "Saturday 29 August 2026 at 20:30",
         "time": "20:30",
@@ -161,7 +147,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-20T06:35:06.053893+00:00",
+    "scraped_at": "2026-08-21T06:35:28.985479+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
@@ -226,7 +212,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-20T06:35:06.053937+00:00",
+    "scraped_at": "2026-08-21T06:35:28.985502+00:00",
     "source": "capitolbio"
   },
   {
@@ -257,7 +243,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-20T06:35:06.053971+00:00",
+    "scraped_at": "2026-08-21T06:35:28.985531+00:00",
     "source": "capitolbio"
   },
   {
@@ -288,7 +274,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-20T06:35:06.053992+00:00",
+    "scraped_at": "2026-08-21T06:35:28.985547+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -340,7 +326,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-20T06:35:06.054017+00:00",
+    "scraped_at": "2026-08-21T06:35:28.985568+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -390,7 +376,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-20T06:35:06.054038+00:00",
+    "scraped_at": "2026-08-21T06:35:28.985628+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
@@ -442,7 +428,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-20T06:35:06.054056+00:00",
+    "scraped_at": "2026-08-21T06:35:28.985643+00:00",
     "source": "capitolbio"
   },
   {
@@ -473,15 +459,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-20T06:35:06.054074+00:00",
+    "scraped_at": "2026-08-21T06:35:28.985658+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
       "title": "Salò, or the 120 Days of Sodom",
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
-      "rating": 6.334,
-      "vote_count": 2343,
+      "rating": 6.335,
+      "vote_count": 2344,
       "genres": [
         "Horror",
         "Drama"
@@ -524,7 +510,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-20T06:35:06.054112+00:00",
+    "scraped_at": "2026-08-21T06:35:28.985672+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -575,7 +561,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-20T06:35:06.054133+00:00",
+    "scraped_at": "2026-08-21T06:35:28.985709+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3055,
@@ -626,7 +612,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-20T06:35:06.054151+00:00",
+    "scraped_at": "2026-08-21T06:35:28.985726+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
@@ -677,7 +663,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-20T06:35:06.054169+00:00",
+    "scraped_at": "2026-08-21T06:35:28.985741+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
@@ -729,15 +715,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-20T06:35:06.054200+00:00",
+    "scraped_at": "2026-08-21T06:35:28.985765+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 21484,
       "title": "Possession",
       "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
       "release_date": "1981-05-27",
-      "rating": 7.3,
-      "vote_count": 1388,
+      "rating": 7.314,
+      "vote_count": 1389,
       "genres": [
         "Horror"
       ],
@@ -779,15 +765,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-20T06:35:06.054218+00:00",
+    "scraped_at": "2026-08-21T06:35:28.985780+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 25623,
       "title": "House",
       "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye.",
       "release_date": "1977-08-26",
-      "rating": 7.316,
-      "vote_count": 810,
+      "rating": 7.318,
+      "vote_count": 811,
       "genres": [
         "Comedy",
         "Fantasy",
