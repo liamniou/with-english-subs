@@ -27,14 +27,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-21T06:35:28.985407+00:00",
+    "scraped_at": "2026-08-22T06:29:03.146961+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 11690,
       "title": "Bloodsport",
       "overview": "An American Army Major goes AWOL to Hong Kong for an outlawed martial arts contest called the Kumite.",
       "release_date": "1988-02-26",
-      "rating": 7.061,
+      "rating": 7.1,
       "vote_count": 2238,
       "genres": [
         "Action",
@@ -79,7 +79,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-21T06:35:28.985461+00:00",
+    "scraped_at": "2026-08-22T06:29:03.147012+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 8446,
@@ -130,6 +130,20 @@
         "normalized_time": "18:00"
       },
       {
+        "datetime": "2026-08-26T18:00:00",
+        "display_text": "Wednesday 26 August 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "26.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51813",
+        "booking_id": "51813",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-26T18:00:00",
+        "normalized_date": "26.08",
+        "normalized_time": "18:00"
+      },
+      {
         "datetime": "2026-08-29T20:30:00",
         "display_text": "Saturday 29 August 2026 at 20:30",
         "time": "20:30",
@@ -147,7 +161,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-21T06:35:28.985479+00:00",
+    "scraped_at": "2026-08-22T06:29:03.147076+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
@@ -212,7 +226,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-21T06:35:28.985502+00:00",
+    "scraped_at": "2026-08-22T06:29:03.147121+00:00",
     "source": "capitolbio"
   },
   {
@@ -243,7 +257,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-21T06:35:28.985531+00:00",
+    "scraped_at": "2026-08-22T06:29:03.147155+00:00",
     "source": "capitolbio"
   },
   {
@@ -274,7 +288,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-21T06:35:28.985547+00:00",
+    "scraped_at": "2026-08-22T06:29:03.147175+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -326,7 +340,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-21T06:35:28.985568+00:00",
+    "scraped_at": "2026-08-22T06:29:03.147198+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -376,15 +390,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-21T06:35:28.985628+00:00",
+    "scraped_at": "2026-08-22T06:29:03.147218+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
       "title": "Cabaret",
       "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
       "release_date": "1972-02-13",
-      "rating": 7.4,
-      "vote_count": 999,
+      "rating": 7.416,
+      "vote_count": 1001,
       "genres": [
         "Music",
         "Romance",
@@ -428,7 +442,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-21T06:35:28.985643+00:00",
+    "scraped_at": "2026-08-22T06:29:03.147235+00:00",
     "source": "capitolbio"
   },
   {
@@ -459,7 +473,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-21T06:35:28.985658+00:00",
+    "scraped_at": "2026-08-22T06:29:03.147252+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
@@ -467,7 +481,7 @@
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
       "rating": 6.335,
-      "vote_count": 2344,
+      "vote_count": 2345,
       "genres": [
         "Horror",
         "Drama"
@@ -510,7 +524,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-21T06:35:28.985672+00:00",
+    "scraped_at": "2026-08-22T06:29:03.147270+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -561,7 +575,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-21T06:35:28.985709+00:00",
+    "scraped_at": "2026-08-22T06:29:03.147289+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3055,
@@ -612,7 +626,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-21T06:35:28.985726+00:00",
+    "scraped_at": "2026-08-22T06:29:03.147306+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
@@ -663,7 +677,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-21T06:35:28.985741+00:00",
+    "scraped_at": "2026-08-22T06:29:03.147324+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
@@ -715,15 +729,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-21T06:35:28.985765+00:00",
+    "scraped_at": "2026-08-22T06:29:03.147379+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 21484,
       "title": "Possession",
       "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
       "release_date": "1981-05-27",
-      "rating": 7.314,
-      "vote_count": 1389,
+      "rating": 7.3,
+      "vote_count": 1392,
       "genres": [
         "Horror"
       ],
@@ -765,7 +779,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-21T06:35:28.985780+00:00",
+    "scraped_at": "2026-08-22T06:29:03.147399+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 25623,
