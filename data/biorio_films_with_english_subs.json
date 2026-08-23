@@ -245,7 +245,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-22T06:28:05.231802",
+    "scraped_at": "2026-08-23T06:29:03.057377",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -327,8 +327,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 33,
-          "ticketsAvailable": 147,
+          "ticketsSold": 34,
+          "ticketsAvailable": 146,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-30T08:30:00",
@@ -339,7 +339,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-22T06:28:11.886918",
+    "scraped_at": "2026-08-23T06:29:08.826638",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -426,8 +426,8 @@
           "tags": [
             "Timelessfest 2026"
           ],
-          "ticketsSold": 46,
-          "ticketsAvailable": 134,
+          "ticketsSold": 48,
+          "ticketsAvailable": 132,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-03T16:00:00",
@@ -438,15 +438,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-22T06:28:17.243151",
+    "scraped_at": "2026-08-23T06:29:13.094878",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
       "title": "Ghost in the Shell",
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
-      "rating": 7.925,
-      "vote_count": 4000,
+      "rating": 7.924,
+      "vote_count": 4002,
       "genres": [
         "Action",
         "Animation",
@@ -533,15 +533,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-22T06:28:43.480459",
+    "scraped_at": "2026-08-23T06:29:35.544956",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
       "title": "Mars Express",
       "overview": "In 2200, private detective Aline Ruby and her android partner Carlos Rivera are hired by a wealthy businessman to track down a notorious hacker. On Mars, they descend deep into the underbelly of the planet's capital city where they uncover a darker story of brain farms, political corruption, and a missing girl who holds a secret about the robots that threatens to change the face of the universe.",
       "release_date": "2023-11-22",
-      "rating": 7.5,
-      "vote_count": 573,
+      "rating": 7.469,
+      "vote_count": 575,
       "genres": [
         "Animation",
         "Science Fiction",

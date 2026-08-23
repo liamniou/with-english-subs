@@ -1,54 +1,5 @@
 [
   {
-    "film_id": "all-my-sons",
-    "url": "https://kulturhusetstadsteatern.se/bio/all-my-sons",
-    "title": "All My Sons",
-    "director": "",
-    "duration": "2 tim 15 min, ingen paus",
-    "language": "",
-    "description": "Bryan Cranston (Breaking Bad) och Marianne Jean-Baptiste (Hard Truths) gör huvudrollerna i denna femstjärnigt hyllade uppsättning av Arthur Millers klassiska pjäs. Biljetterna till Wyndham Theatre i West End har under vintern varit de dyraste och mest eftertraktade i hela London. Nu kan pjäsen upplevas på Klarabiografen, med premiär 24 april.",
-    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-03/All-My-Sons_A3.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-08-22T15:00:00+02:00",
-        "display_text": "Saturday 22 August 2026 at 15:00",
-        "time": "15:00",
-        "date_section": "22.08",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/29782/122593/",
-        "tix_event_id": 122593,
-        "tix_event_group_id": 29782,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-08-22T15:00:00",
-        "normalized_date": "22.08",
-        "normalized_time": "15:00"
-      }
-    ],
-    "cinemas": [
-      "Klarabiografen"
-    ],
-    "scraped_at": "2026-08-22T06:38:43.984411+00:00",
-    "source": "klarabiografen",
-    "tmdb": {
-      "id": 45166,
-      "title": "All My Sons",
-      "overview": "During WWII, industrialist Joe Keller commits a crime and frames his business partner Herbert Deever. Years later, his sin comes back to haunt him when his son plans to marry Deever's daughter.",
-      "release_date": "1948-05-01",
-      "rating": 6.516,
-      "vote_count": 32,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/zEtpSNIQy2wW8ZDpT4MaF7O18Ha.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zEtpSNIQy2wW8ZDpT4MaF7O18Ha.jpg",
-      "backdrop_path": "/bvDSGW50jvDvbiWhxKMYp0YEHEP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bvDSGW50jvDvbiWhxKMYp0YEHEP.jpg",
-      "imdb_id": "tt0040087",
-      "runtime": 94,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "audience-west-end",
     "url": "https://kulturhusetstadsteatern.se/bio/audience-west-end",
     "title": "The Audience (West End)",
@@ -75,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-22T06:38:43.984630+00:00",
+    "scraped_at": "2026-08-23T06:37:05.216395+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 435217,
@@ -124,7 +75,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-22T06:38:43.984864+00:00",
+    "scraped_at": "2026-08-23T06:37:05.216613+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 387722,
@@ -186,7 +137,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-22T06:38:43.985086+00:00",
+    "scraped_at": "2026-08-23T06:37:05.216779+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
@@ -236,7 +187,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-22T06:38:43.985177+00:00",
+    "scraped_at": "2026-08-23T06:37:05.216869+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1679401,
@@ -300,7 +251,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-22T06:38:43.985295+00:00",
+    "scraped_at": "2026-08-23T06:37:05.216977+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 511684,
@@ -350,7 +301,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-22T06:38:43.985442+00:00",
+    "scraped_at": "2026-08-23T06:37:05.217125+00:00",
     "source": "klarabiografen"
   },
   {
@@ -380,7 +331,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-22T06:38:43.985546+00:00",
+    "scraped_at": "2026-08-23T06:37:05.217239+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 526031,
@@ -429,7 +380,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-22T06:38:43.985608+00:00",
+    "scraped_at": "2026-08-23T06:37:05.217303+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -480,7 +431,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-22T06:38:43.985988+00:00",
+    "scraped_at": "2026-08-23T06:37:05.217549+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -530,7 +481,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-08-22T06:38:43.986111+00:00",
+    "scraped_at": "2026-08-23T06:37:05.217650+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1422112,
