@@ -1,84 +1,5 @@
 [
   {
-    "film_id": "ghost-2-big-to-rig",
-    "url": "https://www.capitolbio.se/filmer/ghost-2-big-to-rig/4519",
-    "title": "GHOST: 2 BIG TO RIG",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Upplev svenska världssensationen GHOST SKELETOUR-turné som en i publiken på de två utsålda Mexico city-konserterna, filmad på krispig 16mm och med fantastisk ljudupptagning är 2 BIG TO RIG den oslagbara konsertfilmen med ett av världens största artister. \n\nGHOST: 2 BIG TO RIG Visas 26, 27 och 29 augusti.\n\nObs, inga återköp eller byten på denna visning.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4532/1920/1361e225-9c0f-4377-9ec2-aea38ae48811.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-08-26T18:00:00",
-        "display_text": "Wednesday 26 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "26.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51812",
-        "booking_id": "51812",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-26T18:00:00",
-        "normalized_date": "26.08",
-        "normalized_time": "18:00"
-      },
-      {
-        "datetime": "2026-08-27T18:00:00",
-        "display_text": "Thursday 27 August 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "27.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51813",
-        "booking_id": "51813",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-27T18:00:00",
-        "normalized_date": "27.08",
-        "normalized_time": "18:00"
-      },
-      {
-        "datetime": "2026-08-29T20:30:00",
-        "display_text": "Saturday 29 August 2026 at 20:30",
-        "time": "20:30",
-        "date_section": "29.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51814",
-        "booking_id": "51814",
-        "hall": "Salong 1",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-29T20:30:00",
-        "normalized_date": "29.08",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-26T06:37:36.644368+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 1693400,
-      "title": "2 Big to Rig",
-      "overview": "Captured live over the course of GHOST’s two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX® in select locations.  Featuring the only pro-shot footage of Papa V Perpetua and his band of Nameless Ghouls from the phone-free SKELETOUR, 2 BIG TO RIG immerses the audience in the GHOST live ritual, including exclusive behind-the-scenes and backstage access.",
-      "release_date": "2026-08-24",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "poster_path": "/6h8iogSv0SUnFWa89Q2IGH4cEaB.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6h8iogSv0SUnFWa89Q2IGH4cEaB.jpg",
-      "backdrop_path": "/y4kqw66F7maIsNE4AOMhISVZCz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/y4kqw66F7maIsNE4AOMhISVZCz.jpg",
-      "imdb_id": "tt43683692",
-      "runtime": 115,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "afternoon-tea-gosford-park",
     "url": "https://www.capitolbio.se/filmer/afternoon-tea-gosford-park/4329",
     "title": "Afternoon Tea: Gosford Park",
@@ -120,8 +41,59 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-26T06:37:36.644434+00:00",
+    "scraped_at": "2026-08-27T17:13:19.975508+00:00",
     "source": "capitolbio"
+  },
+  {
+    "film_id": "ghost-2-big-to-rig",
+    "url": "https://www.capitolbio.se/filmer/ghost-2-big-to-rig/4519",
+    "title": "GHOST: 2 BIG TO RIG",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Upplev svenska världssensationen GHOST SKELETOUR-turné som en i publiken på de två utsålda Mexico city-konserterna, filmad på krispig 16mm och med fantastisk ljudupptagning är 2 BIG TO RIG den oslagbara konsertfilmen med ett av världens största artister. \n\nGHOST: 2 BIG TO RIG Visas 26, 27 och 29 augusti.\n\nObs, inga återköp eller byten på denna visning.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4532/1920/1361e225-9c0f-4377-9ec2-aea38ae48811.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-08-29T20:30:00",
+        "display_text": "Saturday 29 August 2026 at 20:30",
+        "time": "20:30",
+        "date_section": "29.08",
+        "ticket_url": "https://www.capitolbio.se/boka/51814",
+        "booking_id": "51814",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-08-29T20:30:00",
+        "normalized_date": "29.08",
+        "normalized_time": "20:30"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-08-27T17:13:19.975588+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 1693400,
+      "title": "Ghost: 2 Big to Rig",
+      "overview": "Captured live over the course of GHOST’s two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX® in select locations.  Featuring the only pro-shot footage of Papa V Perpetua and his band of Nameless Ghouls from the phone-free SKELETOUR, 2 BIG TO RIG immerses the audience in the GHOST live ritual, including exclusive behind-the-scenes and backstage access.",
+      "release_date": "2026-08-24",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "poster_path": "/6h8iogSv0SUnFWa89Q2IGH4cEaB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6h8iogSv0SUnFWa89Q2IGH4cEaB.jpg",
+      "backdrop_path": "/y4kqw66F7maIsNE4AOMhISVZCz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/y4kqw66F7maIsNE4AOMhISVZCz.jpg",
+      "imdb_id": "tt43683692",
+      "runtime": 115,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "afternoon-tea-mordet-pa-orientexpressen-1974",
@@ -151,7 +123,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-26T06:37:36.644468+00:00",
+    "scraped_at": "2026-08-27T17:13:19.975606+00:00",
     "source": "capitolbio"
   },
   {
@@ -182,7 +154,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-26T06:37:36.644487+00:00",
+    "scraped_at": "2026-08-27T17:13:19.975622+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -234,7 +206,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-26T06:37:36.644505+00:00",
+    "scraped_at": "2026-08-27T17:13:19.975639+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -284,15 +256,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-26T06:37:36.644530+00:00",
+    "scraped_at": "2026-08-27T17:13:19.975654+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
       "title": "Cabaret",
       "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
       "release_date": "1972-02-13",
-      "rating": 7.4,
-      "vote_count": 1001,
+      "rating": 7.419,
+      "vote_count": 1002,
       "genres": [
         "Music",
         "Romance",
@@ -306,6 +278,58 @@
       "runtime": 124,
       "budget": 4600000,
       "revenue": 42800000
+    }
+  },
+  {
+    "film_id": "blommor-av-stal-steel-magnolias",
+    "url": "https://www.capitolbio.se/filmer/blommor-av-stal-steel-magnolias/4573",
+    "title": "Blommor av Stål (Steel Magnolias)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Vi hedrar DOLLY PARTON PARTON \n\nEn historia om livet, kärleken och sorgen i en småstad i delstaten Louisiana i USA. I centrum ställs Shelby, nygift och gravid, inför det faktum att hon kan dö i barnsäng på grund av sin diabetes. Vettskrämd och arg över att hon kanske kommer att förlora sin enda dotter vänder sig M’Lynn till sina vänner för att genom skratt och tårar orka kämpa mot rädslan och glädjas över sitt barnbarn.\n\nSex fantastiska stjärnor - Dolly Parton, Sally Field, Shirley MacLaine, Daryl Hannah, Olympia Dukakis och Julia Robert - möts i denna hjärtevärmande berättelsen om systerskap.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4573/1920/32fb137e-2d65-47c1-98a5-229aa6d69163.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-09T17:45:00",
+        "display_text": "Wednesday 9 September 2026 at 17:45",
+        "time": "17:45",
+        "date_section": "09.09",
+        "ticket_url": "https://www.capitolbio.se/boka/52268",
+        "booking_id": "52268",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-09T17:45:00",
+        "normalized_date": "09.09",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-08-27T17:13:19.975673+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 10860,
+      "title": "Steel Magnolias",
+      "overview": "A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship and welcome her into the fold.",
+      "release_date": "1989-11-15",
+      "rating": 7.2,
+      "vote_count": 750,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/7ExUSN9s9gX9bhVM17zDLEizano.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7ExUSN9s9gX9bhVM17zDLEizano.jpg",
+      "backdrop_path": "/nvrQW1NmhkQ7B4FjNik7uqMOldP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nvrQW1NmhkQ7B4FjNik7uqMOldP.jpg",
+      "imdb_id": "tt0098384",
+      "runtime": 118,
+      "budget": 15000000,
+      "revenue": 95904091
     }
   },
   {
@@ -336,7 +360,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-26T06:37:36.644549+00:00",
+    "scraped_at": "2026-08-27T17:13:19.975690+00:00",
     "source": "capitolbio"
   },
   {
@@ -347,7 +371,7 @@
     "duration": "12 min",
     "language": "",
     "description": "Pasolinis sista film – en tolkning av Markis de Sades De 120 dagarna i Sodom, med handlingen förflyttad till den fascistiska Salòrepubliken är en av filmhistoriens mest kontroversiella våldsskildringar, som hatats och förbjudits, men också hyllats för sin skarpa satir och provokationskraft.\n\nSalò fick världspremiär i november 1975, tre veckor efter mordet på Pasolini. Filmen totalförbjöds i hemlandet Italien, men lockade i 178 000 svenskar till biograferna.\n\nFler klassiker att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4531/1920/57cdc27d-850e-4515-bbeb-527f42b1eae7.jpg",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4573/1920/32fb137e-2d65-47c1-98a5-229aa6d69163.jpg",
     "showtimes": [
       {
         "datetime": "2026-09-13T20:00:00",
@@ -367,7 +391,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-26T06:37:36.644570+00:00",
+    "scraped_at": "2026-08-27T17:13:19.975710+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
@@ -418,7 +442,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-26T06:37:36.644587+00:00",
+    "scraped_at": "2026-08-27T17:13:19.975725+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -439,57 +463,6 @@
       "runtime": 68,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "valley-of-the-dolls",
-    "url": "https://www.capitolbio.se/filmer/valley-of-the-dolls/4529",
-    "title": "Valley of the Dolls",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Kultklassiker fån 1967 \n\nMed Sharon Tate som en djupt olycklig partytjej som missbrukar piller. Valley of the Dolls bygger på den skandalomsusade romanen med samma namn, blev en biosuccé 1967 och har sedan dess uppnått kultstatus.\n\nBaserad på Jacqueline Susanns bok med samma namn från 1966.\n\nFler klassiker att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4529/1920/29f611a2-0e09-4523-9c1c-20592baef959.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-16T18:00:00",
-        "display_text": "Wednesday 16 September 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "16.09",
-        "ticket_url": "https://www.capitolbio.se/boka/51705",
-        "booking_id": "51705",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-16T18:00:00",
-        "normalized_date": "16.09",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-26T06:37:36.644604+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 3055,
-      "title": "Valley of the Dolls",
-      "overview": "Lured by their dreams of fame and fortune, three ambitious young women enter the world of show business and discover how easy it is to sink into a celebrity nightmare of ego, alcohol and pills — the beloved \"dolls.\"",
-      "release_date": "1967-12-27",
-      "rating": 6.0,
-      "vote_count": 150,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
-      "backdrop_path": "/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
-      "imdb_id": "tt0062430",
-      "runtime": 123,
-      "budget": 5000000,
-      "revenue": 50000000
     }
   },
   {
@@ -520,7 +493,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-26T06:37:36.644621+00:00",
+    "scraped_at": "2026-08-27T17:13:19.975739+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
@@ -560,7 +533,7 @@
         "date_section": "27.09",
         "ticket_url": "https://www.capitolbio.se/boka/51714",
         "booking_id": "51714",
-        "hall": "Salong 1",
+        "hall": "Salong 4",
         "audio_language": "EN",
         "subtitle_language": "EN",
         "normalized_datetime": "2026-09-27T20:30:00",
@@ -571,15 +544,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-26T06:37:36.644640+00:00",
+    "scraped_at": "2026-08-27T17:13:19.975753+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
       "title": "Kickboxer",
       "overview": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
       "release_date": "1989-04-20",
-      "rating": 6.842,
-      "vote_count": 1613,
+      "rating": 6.844,
+      "vote_count": 1614,
       "genres": [
         "Action",
         "Thriller",
