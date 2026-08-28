@@ -66,8 +66,8 @@
         "Comedy",
         "Drama"
       ],
-      "poster_path": "/8eKqaFCGjMe43Uj2394z7c70s2M.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8eKqaFCGjMe43Uj2394z7c70s2M.jpg",
+      "poster_path": "/gsEeIWflZibkrBi3XprcWqxqpXa.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gsEeIWflZibkrBi3XprcWqxqpXa.jpg",
       "backdrop_path": "/jYMqk4VFNi6GnEh4KpL0x2t4sdx.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/jYMqk4VFNi6GnEh4KpL0x2t4sdx.jpg",
       "imdb_id": "tt0079694",
@@ -215,7 +215,7 @@
       "title": "Holy Motors",
       "overview": "We follow 24 hours in the life of a being moving from life to life like a cold and solitary assassin moving from hit to hit. In each of these interwoven lives, the being possesses an entirely distinct identity: sometimes a man, sometimes a woman, sometimes youthful, sometimes old. By turns murderer, beggar, company chairman, monstrous creature, worker, family man.",
       "release_date": "2012-07-02",
-      "rating": 6.984,
+      "rating": 7.0,
       "vote_count": 1285,
       "genres": [
         "Drama",
@@ -371,15 +371,15 @@
       "title": "Christiane F.",
       "overview": "A teen girl in 1970s Berlin becomes addicted to heroin. Everything in her life slowly begins to distort and disappear as she befriends a small crew of junkies and falls in love with a drug-abusing male prostitute.",
       "release_date": "1981-04-02",
-      "rating": 7.3,
-      "vote_count": 1469,
+      "rating": 7.334,
+      "vote_count": 1470,
       "genres": [
         "Drama"
       ],
-      "poster_path": "/dHNonSmzgxMzEWp0FrzQIVvcBD6.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dHNonSmzgxMzEWp0FrzQIVvcBD6.jpg",
-      "backdrop_path": "/1X8giVBqnqLqnMKPPOnmqR3eUly.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1X8giVBqnqLqnMKPPOnmqR3eUly.jpg",
+      "poster_path": "/d9A203jfNyPnvbCfzSqFwuwHEx7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d9A203jfNyPnvbCfzSqFwuwHEx7.jpg",
+      "backdrop_path": "/vhu2Nscn4HTi5gwYBRXU3OJqVCo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vhu2Nscn4HTi5gwYBRXU3OJqVCo.jpg",
       "imdb_id": "tt0082176",
       "runtime": 131,
       "budget": 4000000,
@@ -448,8 +448,8 @@
       "title": "Cure",
       "overview": "A frustrated detective deals with the case of several gruesome murders committed by people who have no recollection of what they've done.",
       "release_date": "1997-12-27",
-      "rating": 7.57,
-      "vote_count": 853,
+      "rating": 7.572,
+      "vote_count": 854,
       "genres": [
         "Crime",
         "Horror",
@@ -2128,7 +2128,7 @@
       "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
       "release_date": "1927-01-10",
       "rating": 8.086,
-      "vote_count": 3175,
+      "vote_count": 3176,
       "genres": [
         "Drama",
         "Science Fiction"
@@ -2302,7 +2302,7 @@
       "title": "Le Pont du Nord",
       "overview": "Marie is just out from prison when she runs into Baptiste, a young paranoid needing companionship. In their pursuit of a mysterious briefcase carried by Marie's former lover, they roam the street of Paris, transformed into a giant board game, a maze spotted with mysterious traps, puzzling clues, and chance encounters. Maybe they are bricks in some sinister scheme, maybe they are playing a board game, maybe it's a fairy tale, maybe it's yet something else...",
       "release_date": "1982-03-24",
-      "rating": 6.818,
+      "rating": 6.8,
       "vote_count": 44,
       "genres": [
         "Mystery",

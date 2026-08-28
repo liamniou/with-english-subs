@@ -6,17 +6,17 @@
     "director": "Amir Juan Chamdin",
     "showtimes": [
       {
-        "datetime": "2026-08-27T18:10:00.000Z",
-        "display_text": "Thursday August 27, 2026 at 18:10",
+        "datetime": "2026-09-04T16:00:00.000Z",
+        "display_text": "Friday September 04, 2026 at 16:00",
         "movie_id": "5957",
         "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2549",
+        "booking_url": "https://www.biorio.se/sv/boka/2595",
         "api_data": {
-          "id": 2549,
+          "id": 2595,
           "movieId": 5957,
           "movieVersionId": 656,
-          "startTime": "2026-08-27T18:10:00.000Z",
-          "endTime": "2026-08-27T20:05:00.000Z",
+          "startTime": "2026-09-04T16:00:00.000Z",
+          "endTime": "2026-09-04T17:55:00.000Z",
           "screenId": 1,
           "screenNumber": 1,
           "language": null,
@@ -24,7 +24,7 @@
           "membersOnly": false,
           "screeningLive": true,
           "isArchived": false,
-          "onlineAvailableFrom": "2026-07-23T13:00:00.000Z",
+          "onlineAvailableFrom": null,
           "includeInReport": true,
           "movie": {
             "id": 5957,
@@ -56,13 +56,13 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 71,
-          "ticketsAvailable": 109,
+          "ticketsSold": 20,
+          "ticketsAvailable": 160,
           "isPublished": true
         },
-        "normalized_datetime": "2026-08-27T18:10:00",
-        "normalized_date": "27.08",
-        "normalized_time": "18:10"
+        "normalized_datetime": "2026-09-04T16:00:00",
+        "normalized_date": "04.09",
+        "normalized_time": "16:00"
       },
       {
         "datetime": "2026-08-29T18:15:00.000Z",
@@ -115,86 +115,27 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 81,
-          "ticketsAvailable": 99,
+          "ticketsSold": 80,
+          "ticketsAvailable": 100,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-29T18:15:00",
         "normalized_date": "29.08",
         "normalized_time": "18:15"
-      },
-      {
-        "datetime": "2026-09-04T16:00:00.000Z",
-        "display_text": "Friday September 04, 2026 at 16:00",
-        "movie_id": "5957",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2595",
-        "api_data": {
-          "id": 2595,
-          "movieId": 5957,
-          "movieVersionId": 656,
-          "startTime": "2026-09-04T16:00:00.000Z",
-          "endTime": "2026-09-04T17:55:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5957,
-            "title": "Ghost: 2 Big to Rig",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1784235261587-990117692-a9818928-e5a3-49c7-9b84-ff06a77c3ce2.avif",
-            "movieVersions": [
-              {
-                "duration": 115,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 656,
-            "duration": 115,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 15,
-          "ticketsAvailable": 165,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-09-04T16:00:00",
-        "normalized_date": "04.09",
-        "normalized_time": "16:00"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-27T17:12:20.688820",
+    "scraped_at": "2026-08-28T17:59:17.738213",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
       "title": "Ghost: 2 Big to Rig",
       "overview": "Captured live over the course of GHOST’s two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX® in select locations.  Featuring the only pro-shot footage of Papa V Perpetua and his band of Nameless Ghouls from the phone-free SKELETOUR, 2 BIG TO RIG immerses the audience in the GHOST live ritual, including exclusive behind-the-scenes and backstage access.",
       "release_date": "2026-08-24",
-      "rating": 0.0,
-      "vote_count": 0,
+      "rating": 8.0,
+      "vote_count": 3,
       "genres": [
         "Music",
         "Documentary"
@@ -268,8 +209,8 @@
           "tags": [
             "Frukostbio"
           ],
-          "ticketsSold": 52,
-          "ticketsAvailable": 128,
+          "ticketsSold": 55,
+          "ticketsAvailable": 125,
           "isPublished": true
         },
         "normalized_datetime": "2026-08-30T08:30:00",
@@ -280,7 +221,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-27T17:12:25.631069",
+    "scraped_at": "2026-08-28T17:59:19.495882",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -367,8 +308,8 @@
           "tags": [
             "Timelessfest 2026"
           ],
-          "ticketsSold": 60,
-          "ticketsAvailable": 120,
+          "ticketsSold": 62,
+          "ticketsAvailable": 118,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-03T16:00:00",
@@ -379,7 +320,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-27T17:12:32.534182",
+    "scraped_at": "2026-08-28T17:59:29.226534",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
@@ -387,7 +328,7 @@
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
       "rating": 7.926,
-      "vote_count": 4017,
+      "vote_count": 4018,
       "genres": [
         "Action",
         "Animation",
@@ -474,7 +415,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-27T17:12:56.990620",
+    "scraped_at": "2026-08-28T17:59:59.152589",
     "source": "biorio",
     "tmdb": {
       "id": 586810,

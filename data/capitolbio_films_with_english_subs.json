@@ -41,7 +41,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-27T17:13:19.975508+00:00",
+    "scraped_at": "2026-08-28T18:00:31.712534+00:00",
     "source": "capitolbio"
   },
   {
@@ -72,15 +72,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-27T17:13:19.975588+00:00",
+    "scraped_at": "2026-08-28T18:00:31.712583+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
       "title": "Ghost: 2 Big to Rig",
       "overview": "Captured live over the course of GHOST’s two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX® in select locations.  Featuring the only pro-shot footage of Papa V Perpetua and his band of Nameless Ghouls from the phone-free SKELETOUR, 2 BIG TO RIG immerses the audience in the GHOST live ritual, including exclusive behind-the-scenes and backstage access.",
       "release_date": "2026-08-24",
-      "rating": 0.0,
-      "vote_count": 0,
+      "rating": 8.0,
+      "vote_count": 3,
       "genres": [
         "Music",
         "Documentary"
@@ -123,7 +123,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-27T17:13:19.975606+00:00",
+    "scraped_at": "2026-08-28T18:00:31.712601+00:00",
     "source": "capitolbio"
   },
   {
@@ -154,7 +154,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-27T17:13:19.975622+00:00",
+    "scraped_at": "2026-08-28T18:00:31.712625+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -206,14 +206,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-27T17:13:19.975639+00:00",
+    "scraped_at": "2026-08-28T18:00:31.712642+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
       "title": "Grey Gardens",
       "overview": "Edie Bouvier Beale and her mother, Edith, two aging, eccentric relatives of Jackie Kennedy Onassis, are the sole inhabitants of a Long Island estate. The women reveal themselves to be misfits with outsized, engaging personalities. Much of the conversation is centered on their pasts, as mother and daughter now rarely leave home.",
       "release_date": "1976-02-19",
-      "rating": 7.259,
+      "rating": 7.3,
       "vote_count": 255,
       "genres": [
         "Documentary"
@@ -256,7 +256,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-27T17:13:19.975654+00:00",
+    "scraped_at": "2026-08-28T18:00:31.712660+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
@@ -308,7 +308,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-27T17:13:19.975673+00:00",
+    "scraped_at": "2026-08-28T18:00:31.712675+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10860,
@@ -316,7 +316,7 @@
       "overview": "A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship and welcome her into the fold.",
       "release_date": "1989-11-15",
       "rating": 7.2,
-      "vote_count": 750,
+      "vote_count": 751,
       "genres": [
         "Comedy",
         "Drama",
@@ -360,7 +360,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-27T17:13:19.975690+00:00",
+    "scraped_at": "2026-08-28T18:00:31.712693+00:00",
     "source": "capitolbio"
   },
   {
@@ -391,15 +391,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-27T17:13:19.975710+00:00",
+    "scraped_at": "2026-08-28T18:00:31.712713+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
       "title": "Salò, or the 120 Days of Sodom",
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
-      "rating": 6.336,
-      "vote_count": 2351,
+      "rating": 6.337,
+      "vote_count": 2352,
       "genres": [
         "Horror",
         "Drama"
@@ -442,7 +442,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-27T17:13:19.975725+00:00",
+    "scraped_at": "2026-08-28T18:00:31.712728+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -463,6 +463,57 @@
       "runtime": 68,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "valley-of-the-dolls",
+    "url": "https://www.capitolbio.se/filmer/valley-of-the-dolls/4529",
+    "title": "Valley of the Dolls",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Kultklassiker fån 1967 \n\nMed Sharon Tate som en djupt olycklig partytjej som missbrukar piller. Valley of the Dolls bygger på den skandalomsusade romanen med samma namn, blev en biosuccé 1967 och har sedan dess uppnått kultstatus.\n\nBaserad på Jacqueline Susanns bok med samma namn från 1966.\n\nFler klassiker att boka hittar du här",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4529/1920/29f611a2-0e09-4523-9c1c-20592baef959.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-16T18:00:00",
+        "display_text": "Wednesday 16 September 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "16.09",
+        "ticket_url": "https://www.capitolbio.se/boka/51705",
+        "booking_id": "51705",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-16T18:00:00",
+        "normalized_date": "16.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-08-28T18:00:31.712743+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 3055,
+      "title": "Valley of the Dolls",
+      "overview": "Lured by their dreams of fame and fortune, three ambitious young women enter the world of show business and discover how easy it is to sink into a celebrity nightmare of ego, alcohol and pills — the beloved \"dolls.\"",
+      "release_date": "1967-12-27",
+      "rating": 6.0,
+      "vote_count": 150,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
+      "backdrop_path": "/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
+      "imdb_id": "tt0062430",
+      "runtime": 123,
+      "budget": 5000000,
+      "revenue": 50000000
     }
   },
   {
@@ -493,15 +544,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-27T17:13:19.975739+00:00",
+    "scraped_at": "2026-08-28T18:00:31.712758+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
       "title": "Fame",
       "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
       "release_date": "1980-05-16",
-      "rating": 6.425,
-      "vote_count": 528,
+      "rating": 6.419,
+      "vote_count": 527,
       "genres": [
         "Drama",
         "Music"
@@ -544,7 +595,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-27T17:13:19.975753+00:00",
+    "scraped_at": "2026-08-28T18:00:31.712775+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
@@ -552,7 +603,7 @@
       "overview": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
       "release_date": "1989-04-20",
       "rating": 6.844,
-      "vote_count": 1614,
+      "vote_count": 1615,
       "genres": [
         "Action",
         "Thriller",
@@ -566,6 +617,172 @@
       "runtime": 98,
       "budget": 1500000,
       "revenue": 50000000
+    }
+  },
+  {
+    "film_id": "queen-budapest",
+    "url": "https://www.capitolbio.se/filmer/queen-budapest/4576",
+    "title": "Queen Budapest",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Queen Budapest, den sista filmade livekonserten med Queen, har digitaliserats i knivskarp 4K-upplösning och fått en helt ny dynamisk ljudmix.\n\n27 juli 1986 klev Queen upp på Népstadion i Budapest och levererade sin största stadionkonsert någonsin inför 80 000 extatiska fans. Spelningen gjordes under den legendariska turnén 'Magic Tour', bandets allra sista turné med Freddie Mercury. Filmen bjuder på en rad av Queens absolut största hits, däribland Bohemian Rhapsody, Crazy Little Thing Called Love, I Want To Break Free och We Are The Champions.\n\nEftersom det fortfarande återstod tre år innan Berlinmurens fall, blev detta den första västerländska rockkonserten som arrangerades på en stor arena bakom järnridån. Historien var så pass unik att de ungerska myndigheterna och landets filmindustri samlade sina absolut främsta filmfotografer och tekniker för att dokumentera hela händelsen för eftervärlden.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4576/1920/46328707-077b-4c73-a391-53845bec664e.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-07T18:00:00",
+        "display_text": "Wednesday 7 October 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "07.10",
+        "ticket_url": "https://www.capitolbio.se/boka/52290",
+        "booking_id": "52290",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-07T18:00:00",
+        "normalized_date": "07.10",
+        "normalized_time": "18:00"
+      },
+      {
+        "datetime": "2026-10-10T18:10:00",
+        "display_text": "Saturday 10 October 2026 at 18:10",
+        "time": "18:10",
+        "date_section": "10.10",
+        "ticket_url": "https://www.capitolbio.se/boka/52291",
+        "booking_id": "52291",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-10T18:10:00",
+        "normalized_date": "10.10",
+        "normalized_time": "18:10"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-08-28T18:00:31.712801+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 142773,
+      "title": "Queen Budapest",
+      "overview": "On July 27, 1986, Queen performed the largest-ever stadium concert at the Népstadion in Budapest in front of 80,000 ecstatic fans. The concert was part of the famed Magic Tour, which was the last time the band toured with lead singer Freddie Mercury.",
+      "release_date": "2012-09-20",
+      "rating": 8.2,
+      "vote_count": 79,
+      "genres": [
+        "Music"
+      ],
+      "poster_path": "/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
+      "backdrop_path": "/vhPl9k80mgiTbR3hkaGjTU0fyQI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vhPl9k80mgiTbR3hkaGjTU0fyQI.jpg",
+      "imdb_id": "tt0093427",
+      "runtime": 91,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "possession",
+    "url": "https://www.capitolbio.se/filmer/possession/3359",
+    "title": "Possession",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Horroctober\n\nVärlden Bästa Kultfilm!\n\nBlodigt skilsmässodrama där den psykotiska Isabelle Adjani slänger sig i väggarna och har skrämmande sex medan Sam Neill drivs till vanvett av sin rival. Isabelle Adjani och Sam Neill gör en enorm kraftansträngning i denna visuellt fantastiska och överväldigande film som belönade Adjani med priset för bästa kvinnliga huvudroll i Cannes.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/3359/1920/048cbb08-4d53-452e-8299-30dfc97de858.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-28T18:00:00",
+        "display_text": "Wednesday 28 October 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "28.10",
+        "ticket_url": "https://www.capitolbio.se/boka/52053",
+        "booking_id": "52053",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-28T18:00:00",
+        "normalized_date": "28.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-08-28T18:00:31.712827+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 21484,
+      "title": "Possession",
+      "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
+      "release_date": "1981-05-27",
+      "rating": 7.3,
+      "vote_count": 1399,
+      "genres": [
+        "Horror"
+      ],
+      "poster_path": "/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
+      "backdrop_path": "/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
+      "imdb_id": "tt0082933",
+      "runtime": 124,
+      "budget": 2400000,
+      "revenue": 1200000
+    }
+  },
+  {
+    "film_id": "house-1977",
+    "url": "https://www.capitolbio.se/filmer/house-1977/4131",
+    "title": "House (1977)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Horroctober\n\nJapansk Kultskräck!\n\nExperimentlysten och färgsprakande rysarei om Angel som besöker sin moster med vännerna Fantasy, Prof, Kung Fu, Sweet, Melody och Mac. Mostern är en märklig dam med en märklig katt, och hennes hus visar sig vara inte bara märkligt utan även direkt livsfarligt.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4131/1920/c4a85f85-676c-466d-b8cc-a4a16d00a7c3.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-28T20:30:00",
+        "display_text": "Wednesday 28 October 2026 at 20:30",
+        "time": "20:30",
+        "date_section": "28.10",
+        "ticket_url": "https://www.capitolbio.se/boka/52054",
+        "booking_id": "52054",
+        "hall": "Salong 1",
+        "audio_language": "JP",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-28T20:30:00",
+        "normalized_date": "28.10",
+        "normalized_time": "20:30"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-08-28T18:00:31.712841+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 25623,
+      "title": "House",
+      "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye.",
+      "release_date": "1977-08-26",
+      "rating": 7.3,
+      "vote_count": 814,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "poster_path": "/ryZ3DdZPvXVCv9qRCtVRfmNbYAH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ryZ3DdZPvXVCv9qRCtVRfmNbYAH.jpg",
+      "backdrop_path": "/5040XNTvwARvLq1KtfCgJXBj3LC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5040XNTvwARvLq1KtfCgJXBj3LC.jpg",
+      "imdb_id": "tt0076162",
+      "runtime": 88,
+      "budget": 0,
+      "revenue": 0
     }
   }
 ]
