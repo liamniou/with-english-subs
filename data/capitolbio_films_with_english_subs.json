@@ -1,50 +1,5 @@
 [
   {
-    "film_id": "afternoon-tea-gosford-park",
-    "url": "https://www.capitolbio.se/filmer/afternoon-tea-gosford-park/4329",
-    "title": "Afternoon Tea: Gosford Park",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "En grupp aristokrater samlas på godset Gosford Park för en jakthelg. Snart inträffar ett mord som får den polerade fasaden att spricka  och både gäster och personal blir misstänkta i mordgåtan som avslöjar klasskonflikter och maktspel. \n\nEn briljant ensemble skriven av skaparen till Downton Abbey Julian Fellowes.\n\nCapitols Afternoon Tea-meny:\nScones\nMed vispad grädde & sylt\n\nCucumber sandwich\nBrittisk toast med gurka och färskost\n\nChickpea sandwich \nKikärtsröra med paprika- & citronmajonnäs och groddar på vitt bröd\n\nBlue Cheese on ryebread\nÄdelostkräm med plommonmarmelad på rågbröd\n\nScottish shortbread\nFrasig småkaka med kokos och citron\n\nVictoria cake\nSockerkaka med smörcrème och jordgubbsylt\n\nMini Bakewell tart\nMinipaj med körsbär och choklad\n\nTill detta serveras nybryggt te, ett grönt och ett svart.\n\nVill ni lyxa till det lite extra? Toppa eftermiddagen med en flaska champagne – den ultimata drycken till en stämningsfull film.\n\nVi serverar de förköpta menyerna vid era platser i salongen.\nVänligen observera att innehållet i menyn inte kan ändras efter individuella önskemål. Innehållet kan inte heller ändras till gluten- och/eller laktosfria alternativ.\n\nVÄLKOMNA!\n\n\nOBS! Senast kl. 21.00 på tisdagen i samma vecka som biovisningen måste din beställning av Afternoon tea-paket vara registrerad.\n\nEtt fåtal Afternoon tea-paket finns att köpa på plats hos oss, kom gärna i god tid då först till kvarn gäller. I foajébaren kan du beställa dryck och snacks innan, under och efter visningen.\n\nFler Afternoon Teas att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4329/1920/12d136ef-859d-4e5b-8274-48ec4ac67804.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-08-29T14:00:00",
-        "display_text": "Saturday 29 August 2026 at 14:00",
-        "time": "14:00",
-        "date_section": "29.08",
-        "ticket_url": "https://www.capitolbio.se/boka/50309",
-        "booking_id": "50309",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-29T14:00:00",
-        "normalized_date": "29.08",
-        "normalized_time": "14:00"
-      },
-      {
-        "datetime": "2026-10-03T14:00:00",
-        "display_text": "Saturday 3 October 2026 at 14:00",
-        "time": "14:00",
-        "date_section": "03.10",
-        "ticket_url": "https://www.capitolbio.se/boka/51922",
-        "booking_id": "51922",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-03T14:00:00",
-        "normalized_date": "03.10",
-        "normalized_time": "14:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-28T18:00:31.712534+00:00",
-    "source": "capitolbio"
-  },
-  {
     "film_id": "ghost-2-big-to-rig",
     "url": "https://www.capitolbio.se/filmer/ghost-2-big-to-rig/4519",
     "title": "GHOST: 2 BIG TO RIG",
@@ -72,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-28T18:00:31.712583+00:00",
+    "scraped_at": "2026-08-29T12:06:52.318039+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1693400,
@@ -123,7 +78,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-28T18:00:31.712601+00:00",
+    "scraped_at": "2026-08-29T12:06:52.318088+00:00",
     "source": "capitolbio"
   },
   {
@@ -154,7 +109,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-28T18:00:31.712625+00:00",
+    "scraped_at": "2026-08-29T12:06:52.318107+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -206,7 +161,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-28T18:00:31.712642+00:00",
+    "scraped_at": "2026-08-29T12:06:52.318125+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -256,7 +211,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-28T18:00:31.712660+00:00",
+    "scraped_at": "2026-08-29T12:06:52.318141+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
@@ -278,58 +233,6 @@
       "runtime": 124,
       "budget": 4600000,
       "revenue": 42800000
-    }
-  },
-  {
-    "film_id": "blommor-av-stal-steel-magnolias",
-    "url": "https://www.capitolbio.se/filmer/blommor-av-stal-steel-magnolias/4573",
-    "title": "Blommor av Stål (Steel Magnolias)",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Vi hedrar DOLLY PARTON PARTON \n\nEn historia om livet, kärleken och sorgen i en småstad i delstaten Louisiana i USA. I centrum ställs Shelby, nygift och gravid, inför det faktum att hon kan dö i barnsäng på grund av sin diabetes. Vettskrämd och arg över att hon kanske kommer att förlora sin enda dotter vänder sig M’Lynn till sina vänner för att genom skratt och tårar orka kämpa mot rädslan och glädjas över sitt barnbarn.\n\nSex fantastiska stjärnor - Dolly Parton, Sally Field, Shirley MacLaine, Daryl Hannah, Olympia Dukakis och Julia Robert - möts i denna hjärtevärmande berättelsen om systerskap.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4573/1920/32fb137e-2d65-47c1-98a5-229aa6d69163.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-09T17:45:00",
-        "display_text": "Wednesday 9 September 2026 at 17:45",
-        "time": "17:45",
-        "date_section": "09.09",
-        "ticket_url": "https://www.capitolbio.se/boka/52268",
-        "booking_id": "52268",
-        "hall": "Salong 1",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-09T17:45:00",
-        "normalized_date": "09.09",
-        "normalized_time": "17:45"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-28T18:00:31.712675+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 10860,
-      "title": "Steel Magnolias",
-      "overview": "A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship and welcome her into the fold.",
-      "release_date": "1989-11-15",
-      "rating": 7.2,
-      "vote_count": 751,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/7ExUSN9s9gX9bhVM17zDLEizano.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7ExUSN9s9gX9bhVM17zDLEizano.jpg",
-      "backdrop_path": "/nvrQW1NmhkQ7B4FjNik7uqMOldP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nvrQW1NmhkQ7B4FjNik7uqMOldP.jpg",
-      "imdb_id": "tt0098384",
-      "runtime": 118,
-      "budget": 15000000,
-      "revenue": 95904091
     }
   },
   {
@@ -360,7 +263,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-28T18:00:31.712693+00:00",
+    "scraped_at": "2026-08-29T12:06:52.318162+00:00",
     "source": "capitolbio"
   },
   {
@@ -391,15 +294,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-28T18:00:31.712713+00:00",
+    "scraped_at": "2026-08-29T12:06:52.318178+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
       "title": "Salò, or the 120 Days of Sodom",
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
-      "rating": 6.337,
-      "vote_count": 2352,
+      "rating": 6.336,
+      "vote_count": 2353,
       "genres": [
         "Horror",
         "Drama"
@@ -442,7 +345,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-28T18:00:31.712728+00:00",
+    "scraped_at": "2026-08-29T12:06:52.318199+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -493,7 +396,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-28T18:00:31.712743+00:00",
+    "scraped_at": "2026-08-29T12:06:52.318219+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3055,
@@ -544,7 +447,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-28T18:00:31.712758+00:00",
+    "scraped_at": "2026-08-29T12:06:52.318256+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
@@ -595,15 +498,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-28T18:00:31.712775+00:00",
+    "scraped_at": "2026-08-29T12:06:52.318276+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
       "title": "Kickboxer",
       "overview": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
       "release_date": "1989-04-20",
-      "rating": 6.844,
-      "vote_count": 1615,
+      "rating": 6.846,
+      "vote_count": 1617,
       "genres": [
         "Action",
         "Thriller",
@@ -618,6 +521,37 @@
       "budget": 1500000,
       "revenue": 50000000
     }
+  },
+  {
+    "film_id": "afternoon-tea-gosford-park",
+    "url": "https://www.capitolbio.se/filmer/afternoon-tea-gosford-park/4329",
+    "title": "Afternoon Tea: Gosford Park",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "En grupp aristokrater samlas på godset Gosford Park för en jakthelg. Snart inträffar ett mord som får den polerade fasaden att spricka  och både gäster och personal blir misstänkta i mordgåtan som avslöjar klasskonflikter och maktspel. \n\nEn briljant ensemble skriven av skaparen till Downton Abbey Julian Fellowes.\n\nCapitols Afternoon Tea-meny:\nScones\nMed vispad grädde & sylt\n\nCucumber sandwich\nBrittisk toast med gurka och färskost\n\nChickpea sandwich \nKikärtsröra med paprika- & citronmajonnäs och groddar på vitt bröd\n\nBlue Cheese on ryebread\nÄdelostkräm med plommonmarmelad på rågbröd\n\nScottish shortbread\nFrasig småkaka med kokos och citron\n\nVictoria cake\nSockerkaka med smörcrème och jordgubbsylt\n\nMini Bakewell tart\nMinipaj med körsbär och choklad\n\nTill detta serveras nybryggt te, ett grönt och ett svart.\n\nVill ni lyxa till det lite extra? Toppa eftermiddagen med en flaska champagne – den ultimata drycken till en stämningsfull film.\n\nVi serverar de förköpta menyerna vid era platser i salongen.\nVänligen observera att innehållet i menyn inte kan ändras efter individuella önskemål. Innehållet kan inte heller ändras till gluten- och/eller laktosfria alternativ.\n\nVÄLKOMNA!\n\n\nOBS! Senast kl. 21.00 på tisdagen i samma vecka som biovisningen måste din beställning av Afternoon tea-paket vara registrerad.\n\nEtt fåtal Afternoon tea-paket finns att köpa på plats hos oss, kom gärna i god tid då först till kvarn gäller. I foajébaren kan du beställa dryck och snacks innan, under och efter visningen.\n\nFler Afternoon Teas att boka hittar du här",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4329/1920/12d136ef-859d-4e5b-8274-48ec4ac67804.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-03T14:00:00",
+        "display_text": "Saturday 3 October 2026 at 14:00",
+        "time": "14:00",
+        "date_section": "03.10",
+        "ticket_url": "https://www.capitolbio.se/boka/51922",
+        "booking_id": "51922",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-03T14:00:00",
+        "normalized_date": "03.10",
+        "normalized_time": "14:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-08-29T12:06:52.318292+00:00",
+    "source": "capitolbio"
   },
   {
     "film_id": "queen-budapest",
@@ -661,7 +595,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-28T18:00:31.712801+00:00",
+    "scraped_at": "2026-08-29T12:06:52.318318+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 142773,
@@ -679,108 +613,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/vhPl9k80mgiTbR3hkaGjTU0fyQI.jpg",
       "imdb_id": "tt0093427",
       "runtime": 91,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "possession",
-    "url": "https://www.capitolbio.se/filmer/possession/3359",
-    "title": "Possession",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Horroctober\n\nVärlden Bästa Kultfilm!\n\nBlodigt skilsmässodrama där den psykotiska Isabelle Adjani slänger sig i väggarna och har skrämmande sex medan Sam Neill drivs till vanvett av sin rival. Isabelle Adjani och Sam Neill gör en enorm kraftansträngning i denna visuellt fantastiska och överväldigande film som belönade Adjani med priset för bästa kvinnliga huvudroll i Cannes.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/3359/1920/048cbb08-4d53-452e-8299-30dfc97de858.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-28T18:00:00",
-        "display_text": "Wednesday 28 October 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "28.10",
-        "ticket_url": "https://www.capitolbio.se/boka/52053",
-        "booking_id": "52053",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-28T18:00:00",
-        "normalized_date": "28.10",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-28T18:00:31.712827+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 21484,
-      "title": "Possession",
-      "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
-      "release_date": "1981-05-27",
-      "rating": 7.3,
-      "vote_count": 1399,
-      "genres": [
-        "Horror"
-      ],
-      "poster_path": "/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
-      "backdrop_path": "/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/zfw3fcF7d4KcWYEvps4zUfl303b.jpg",
-      "imdb_id": "tt0082933",
-      "runtime": 124,
-      "budget": 2400000,
-      "revenue": 1200000
-    }
-  },
-  {
-    "film_id": "house-1977",
-    "url": "https://www.capitolbio.se/filmer/house-1977/4131",
-    "title": "House (1977)",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Horroctober\n\nJapansk Kultskräck!\n\nExperimentlysten och färgsprakande rysarei om Angel som besöker sin moster med vännerna Fantasy, Prof, Kung Fu, Sweet, Melody och Mac. Mostern är en märklig dam med en märklig katt, och hennes hus visar sig vara inte bara märkligt utan även direkt livsfarligt.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4131/1920/c4a85f85-676c-466d-b8cc-a4a16d00a7c3.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-28T20:30:00",
-        "display_text": "Wednesday 28 October 2026 at 20:30",
-        "time": "20:30",
-        "date_section": "28.10",
-        "ticket_url": "https://www.capitolbio.se/boka/52054",
-        "booking_id": "52054",
-        "hall": "Salong 1",
-        "audio_language": "JP",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-28T20:30:00",
-        "normalized_date": "28.10",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-28T18:00:31.712841+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 25623,
-      "title": "House",
-      "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye.",
-      "release_date": "1977-08-26",
-      "rating": 7.3,
-      "vote_count": 814,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Horror"
-      ],
-      "poster_path": "/ryZ3DdZPvXVCv9qRCtVRfmNbYAH.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ryZ3DdZPvXVCv9qRCtVRfmNbYAH.jpg",
-      "backdrop_path": "/5040XNTvwARvLq1KtfCgJXBj3LC.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5040XNTvwARvLq1KtfCgJXBj3LC.jpg",
-      "imdb_id": "tt0076162",
-      "runtime": 88,
       "budget": 0,
       "revenue": 0
     }
