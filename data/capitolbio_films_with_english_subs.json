@@ -1,56 +1,5 @@
 [
   {
-    "film_id": "ghost-2-big-to-rig",
-    "url": "https://www.capitolbio.se/filmer/ghost-2-big-to-rig/4519",
-    "title": "GHOST: 2 BIG TO RIG",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Upplev svenska världssensationen GHOST SKELETOUR-turné som en i publiken på de två utsålda Mexico city-konserterna, filmad på krispig 16mm och med fantastisk ljudupptagning är 2 BIG TO RIG den oslagbara konsertfilmen med ett av världens största artister. \n\nGHOST: 2 BIG TO RIG Visas 26, 27 och 29 augusti.\n\nObs, inga återköp eller byten på denna visning.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4532/1920/1361e225-9c0f-4377-9ec2-aea38ae48811.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-08-29T20:30:00",
-        "display_text": "Saturday 29 August 2026 at 20:30",
-        "time": "20:30",
-        "date_section": "29.08",
-        "ticket_url": "https://www.capitolbio.se/boka/51814",
-        "booking_id": "51814",
-        "hall": "Salong 1",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-08-29T20:30:00",
-        "normalized_date": "29.08",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-29T12:06:52.318039+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 1693400,
-      "title": "Ghost: 2 Big to Rig",
-      "overview": "Captured live over the course of GHOST’s two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX® in select locations.  Featuring the only pro-shot footage of Papa V Perpetua and his band of Nameless Ghouls from the phone-free SKELETOUR, 2 BIG TO RIG immerses the audience in the GHOST live ritual, including exclusive behind-the-scenes and backstage access.",
-      "release_date": "2026-08-24",
-      "rating": 8.0,
-      "vote_count": 3,
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "poster_path": "/6h8iogSv0SUnFWa89Q2IGH4cEaB.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6h8iogSv0SUnFWa89Q2IGH4cEaB.jpg",
-      "backdrop_path": "/y4kqw66F7maIsNE4AOMhISVZCz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/y4kqw66F7maIsNE4AOMhISVZCz.jpg",
-      "imdb_id": "tt43683692",
-      "runtime": 115,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "afternoon-tea-mordet-pa-orientexpressen-1974",
     "url": "https://www.capitolbio.se/filmer/afternoon-tea-mordet-pa-orientexpressen-1974/1498",
     "title": "Afternoon Tea: Mordet på Orientexpressen (1974)",
@@ -78,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-29T12:06:52.318088+00:00",
+    "scraped_at": "2026-08-30T11:02:16.892148+00:00",
     "source": "capitolbio"
   },
   {
@@ -109,7 +58,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-29T12:06:52.318107+00:00",
+    "scraped_at": "2026-08-30T11:02:16.892193+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -161,7 +110,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-29T12:06:52.318125+00:00",
+    "scraped_at": "2026-08-30T11:02:16.892208+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -211,14 +160,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-29T12:06:52.318141+00:00",
+    "scraped_at": "2026-08-30T11:02:16.892221+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
       "title": "Cabaret",
       "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
       "release_date": "1972-02-13",
-      "rating": 7.419,
+      "rating": 7.4,
       "vote_count": 1002,
       "genres": [
         "Music",
@@ -233,6 +182,57 @@
       "runtime": 124,
       "budget": 4600000,
       "revenue": 42800000
+    }
+  },
+  {
+    "film_id": "blommor-av-stal-steel-magnolias",
+    "url": "https://www.capitolbio.se/filmer/blommor-av-stal-steel-magnolias/4573",
+    "title": "Blommor av Stål (Steel Magnolias)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Vi hedrar DOLLY PARTON PARTON \n\nEn historia om livet, kärleken och sorgen i en småstad i delstaten Louisiana i USA. I centrum ställs Shelby, nygift och gravid, inför det faktum att hon kan dö i barnsäng på grund av sin diabetes. Vettskrämd och arg över att hon kanske kommer att förlora sin enda dotter vänder sig M’Lynn till sina vänner för att genom skratt och tårar orka kämpa mot rädslan och glädjas över sitt barnbarn.\n\nSex fantastiska stjärnor - Dolly Parton, Sally Field, Shirley MacLaine, Daryl Hannah, Olympia Dukakis och Julia Robert - möts i denna hjärtevärmande berättelsen om systerskap.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4573/1920/32fb137e-2d65-47c1-98a5-229aa6d69163.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-09T17:45:00",
+        "display_text": "Wednesday 9 September 2026 at 17:45",
+        "time": "17:45",
+        "date_section": "09.09",
+        "ticket_url": "https://www.capitolbio.se/boka/52268",
+        "booking_id": "52268",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-09T17:45:00",
+        "normalized_date": "09.09",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-08-30T11:02:16.892234+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 10860,
+      "title": "Steel Magnolias",
+      "overview": "A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship and welcome her into the fold.",
+      "release_date": "1989-11-15",
+      "rating": 7.2,
+      "vote_count": 755,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster_path": "/7ExUSN9s9gX9bhVM17zDLEizano.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7ExUSN9s9gX9bhVM17zDLEizano.jpg",
+      "backdrop_path": "/nvrQW1NmhkQ7B4FjNik7uqMOldP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nvrQW1NmhkQ7B4FjNik7uqMOldP.jpg",
+      "imdb_id": "tt0098384",
+      "runtime": 117,
+      "budget": 15000000,
+      "revenue": 95904091
     }
   },
   {
@@ -263,7 +263,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-29T12:06:52.318162+00:00",
+    "scraped_at": "2026-08-30T11:02:16.892250+00:00",
     "source": "capitolbio"
   },
   {
@@ -294,7 +294,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-29T12:06:52.318178+00:00",
+    "scraped_at": "2026-08-30T11:02:16.892263+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
@@ -302,7 +302,7 @@
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
       "rating": 6.336,
-      "vote_count": 2353,
+      "vote_count": 2354,
       "genres": [
         "Horror",
         "Drama"
@@ -345,7 +345,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-29T12:06:52.318199+00:00",
+    "scraped_at": "2026-08-30T11:02:16.892278+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -366,57 +366,6 @@
       "runtime": 68,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "valley-of-the-dolls",
-    "url": "https://www.capitolbio.se/filmer/valley-of-the-dolls/4529",
-    "title": "Valley of the Dolls",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Kultklassiker fån 1967 \n\nMed Sharon Tate som en djupt olycklig partytjej som missbrukar piller. Valley of the Dolls bygger på den skandalomsusade romanen med samma namn, blev en biosuccé 1967 och har sedan dess uppnått kultstatus.\n\nBaserad på Jacqueline Susanns bok med samma namn från 1966.\n\nFler klassiker att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4529/1920/29f611a2-0e09-4523-9c1c-20592baef959.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-16T18:00:00",
-        "display_text": "Wednesday 16 September 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "16.09",
-        "ticket_url": "https://www.capitolbio.se/boka/51705",
-        "booking_id": "51705",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-16T18:00:00",
-        "normalized_date": "16.09",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-29T12:06:52.318219+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 3055,
-      "title": "Valley of the Dolls",
-      "overview": "Lured by their dreams of fame and fortune, three ambitious young women enter the world of show business and discover how easy it is to sink into a celebrity nightmare of ego, alcohol and pills — the beloved \"dolls.\"",
-      "release_date": "1967-12-27",
-      "rating": 6.0,
-      "vote_count": 150,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
-      "backdrop_path": "/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
-      "imdb_id": "tt0062430",
-      "runtime": 123,
-      "budget": 5000000,
-      "revenue": 50000000
     }
   },
   {
@@ -447,7 +396,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-29T12:06:52.318256+00:00",
+    "scraped_at": "2026-08-30T11:02:16.892293+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
@@ -498,7 +447,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-29T12:06:52.318276+00:00",
+    "scraped_at": "2026-08-30T11:02:16.892306+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
@@ -550,7 +499,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-29T12:06:52.318292+00:00",
+    "scraped_at": "2026-08-30T11:02:16.892317+00:00",
     "source": "capitolbio"
   },
   {
@@ -595,7 +544,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-29T12:06:52.318318+00:00",
+    "scraped_at": "2026-08-30T11:02:16.892329+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 142773,
@@ -615,6 +564,58 @@
       "runtime": 91,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "queen-christina",
+    "url": "https://www.capitolbio.se/filmer/queen-christina/4577",
+    "title": "Queen Christina",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "År 2026 skulle Drottning Kristina ha fyllt 400 år. Det uppmärksammar vi genom Greta Garbo som Drottning Kristina\n\n1933 återvände Greta Garbo till vita duken efter en frånvaro på 18 månader vilket tydligen var ett så långt uppehåll att MGM marknadsförde Drottning Kristina som ”Garbos återkomst”. Filmen drog fulla hus och blev en stor succé för den 28-åriga svenskan. Från början var det tänkt att Laurence Olivier skulle spela den manliga huvudrollen men under repetitionerna framkom det att det inte fanns någon kemi mellan Garbo och engelsmannen. John Gilbert fick hoppa in i sista stund och det skulle bli hans näst sista film innan han avled i en hjärtattack några år senare. Drottning Kristina är ett kostymdrama som är väldigt löst baserat på de historiska händelserna i hennes liv.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4577/1920/509747d5-3320-4ac9-8782-d73e1f9245b3.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-21T18:00:00",
+        "display_text": "Wednesday 21 October 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "21.10",
+        "ticket_url": "https://www.capitolbio.se/boka/52322",
+        "booking_id": "52322",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-21T18:00:00",
+        "normalized_date": "21.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-08-30T11:02:16.892351+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 31526,
+      "title": "Queen Christina",
+      "overview": "Popular monarch Queen Christina of Sweden must choose between love and loyalty to her nation when she unexpectedly falls for a Spanish envoy.",
+      "release_date": "1934-02-09",
+      "rating": 6.924,
+      "vote_count": 145,
+      "genres": [
+        "Romance",
+        "History",
+        "Drama"
+      ],
+      "poster_path": "/lGGYwoBp21CzF7cMzNPcOr6i6iw.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lGGYwoBp21CzF7cMzNPcOr6i6iw.jpg",
+      "backdrop_path": "/e6YpCECKNPMBonp425jmHgd6D44.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/e6YpCECKNPMBonp425jmHgd6D44.jpg",
+      "imdb_id": "tt0024481",
+      "runtime": 99,
+      "budget": 1114000,
+      "revenue": 2610000
     }
   }
 ]
