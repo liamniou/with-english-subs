@@ -63,8 +63,8 @@
           "tags": [
             "Timelessfest 2026"
           ],
-          "ticketsSold": 69,
-          "ticketsAvailable": 111,
+          "ticketsSold": 87,
+          "ticketsAvailable": 93,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-03T16:00:00",
@@ -75,15 +75,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-30T11:01:23.328105",
+    "scraped_at": "2026-08-31T12:23:25.635851",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
       "title": "Ghost in the Shell",
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
-      "rating": 7.926,
-      "vote_count": 4020,
+      "rating": 7.927,
+      "vote_count": 4022,
       "genres": [
         "Action",
         "Animation",
@@ -156,8 +156,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 25,
-          "ticketsAvailable": 155,
+          "ticketsSold": 30,
+          "ticketsAvailable": 150,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-04T16:00:00",
@@ -168,7 +168,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-30T11:01:25.888505",
+    "scraped_at": "2026-08-31T12:23:29.126570",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -262,7 +262,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-30T11:01:50.311665",
+    "scraped_at": "2026-08-31T12:23:58.441212",
     "source": "biorio",
     "tmdb": {
       "id": 586810,

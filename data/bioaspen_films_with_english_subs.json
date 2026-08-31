@@ -1,5 +1,54 @@
 [
   {
+    "film_id": "left-handed-girl",
+    "url": "https://www.bioaspen.se/movies/left-handed-girl/",
+    "title": "Left-Handed Girl - english subtitles",
+    "director": "Shih-Ching Tsou",
+    "duration": "1 tim 48 min",
+    "language": "Kinesiska",
+    "description": "Shu-Fen flyttar med sina två döttrar till Taipei, där hon öppnar ett nattligt marknadsstånd. Den femåriga och vänsterhänta dottern I-Jing, förstår att familjen har det tufft ekonomiskt. När hennes morfar säger att vänsterhanden är djävulens hand, börjar hon stjäla. Stölderna skyller hon på djävulen. Sean Baker har klippt, producerat och varit med och skrivit »Left handed girl«. Årets iPhone-filmade Oscarsbidrag från Taiwan skildrar tre kvinnors tillvaro i en rolig, energisk och charmig pärla från Taipeis färgsprakande nattmarknader.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/6739/1080/0b7e471f-5850-46b3-b234-1e34d9a6e6b7.png",
+    "showtimes": [
+      {
+        "datetime": "2026-09-18T18:15:00",
+        "display_text": "Friday 18 September 2026 at 18:15",
+        "time": "18:15",
+        "date_section": "18.09",
+        "ticket_url": "https://www.bioaspen.se/movies/left-handed-girl/",
+        "hall": "Salong 1",
+        "audio_language": "Kinesiska",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-18T18:15:00",
+        "normalized_date": "18.09",
+        "normalized_time": "18:15"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-08-31T12:22:52.875299+00:00",
+    "source": "bioaspen",
+    "tmdb": {
+      "id": 999075,
+      "title": "Left-Handed Girl",
+      "overview": "A mother and her two daughters move to Taipei to open a noodle stand at a vibrant night market, but family secrets and tradition test their fresh start.",
+      "release_date": "2025-09-17",
+      "rating": 7.276,
+      "vote_count": 192,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/gU1zqMzqFcQJu7F6LUrmkMJPiLp.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gU1zqMzqFcQJu7F6LUrmkMJPiLp.jpg",
+      "backdrop_path": "/xqft4oJyMATznCFFLpTlQPiSr8N.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xqft4oJyMATznCFFLpTlQPiSr8N.jpg",
+      "imdb_id": "tt27722618",
+      "runtime": 109,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
     "film_id": "tyska-tisdagar-im-glanze-dieses-gluckes",
     "url": "https://www.bioaspen.se/movies/tyska-tisdagar-im-glanze-dieses-gluckes/",
     "title": "Tyska tisdagar: Im Glanze dieses Glückes",
@@ -26,7 +75,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-08-30T11:00:51.548998+00:00",
+    "scraped_at": "2026-08-31T12:22:52.875335+00:00",
     "source": "bioaspen"
   },
   {
@@ -56,7 +105,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-08-30T11:00:51.549031+00:00",
+    "scraped_at": "2026-08-31T12:22:52.875352+00:00",
     "source": "bioaspen"
   },
   {
@@ -86,7 +135,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-08-30T11:00:51.549044+00:00",
+    "scraped_at": "2026-08-31T12:22:52.875366+00:00",
     "source": "bioaspen"
   },
   {
@@ -116,7 +165,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-08-30T11:00:51.549055+00:00",
+    "scraped_at": "2026-08-31T12:22:52.875380+00:00",
     "source": "bioaspen"
   },
   {
@@ -146,7 +195,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-08-30T11:00:51.549066+00:00",
+    "scraped_at": "2026-08-31T12:22:52.875394+00:00",
     "source": "bioaspen"
   }
 ]
