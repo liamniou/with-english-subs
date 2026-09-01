@@ -27,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-31T12:24:30.843062+00:00",
+    "scraped_at": "2026-09-01T10:57:09.954049+00:00",
     "source": "capitolbio"
   },
   {
@@ -58,7 +58,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-31T12:24:30.843115+00:00",
+    "scraped_at": "2026-09-01T10:57:09.954104+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 139321,
@@ -110,7 +110,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-31T12:24:30.843137+00:00",
+    "scraped_at": "2026-09-01T10:57:09.954122+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -160,7 +160,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-31T12:24:30.843156+00:00",
+    "scraped_at": "2026-09-01T10:57:09.954143+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
@@ -182,57 +182,6 @@
       "runtime": 124,
       "budget": 4600000,
       "revenue": 42800000
-    }
-  },
-  {
-    "film_id": "blommor-av-stal-steel-magnolias",
-    "url": "https://www.capitolbio.se/filmer/blommor-av-stal-steel-magnolias/4573",
-    "title": "Blommor av Stål (Steel Magnolias)",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Vi hedrar DOLLY PARTON PARTON \n\nEn historia om livet, kärleken och sorgen i en småstad i delstaten Louisiana i USA. I centrum ställs Shelby, nygift och gravid, inför det faktum att hon kan dö i barnsäng på grund av sin diabetes. Vettskrämd och arg över att hon kanske kommer att förlora sin enda dotter vänder sig M’Lynn till sina vänner för att genom skratt och tårar orka kämpa mot rädslan och glädjas över sitt barnbarn.\n\nSex fantastiska stjärnor - Dolly Parton, Sally Field, Shirley MacLaine, Daryl Hannah, Olympia Dukakis och Julia Robert - möts i denna hjärtevärmande berättelsen om systerskap.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4573/1920/32fb137e-2d65-47c1-98a5-229aa6d69163.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-09T17:45:00",
-        "display_text": "Wednesday 9 September 2026 at 17:45",
-        "time": "17:45",
-        "date_section": "09.09",
-        "ticket_url": "https://www.capitolbio.se/boka/52268",
-        "booking_id": "52268",
-        "hall": "Salong 1",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-09T17:45:00",
-        "normalized_date": "09.09",
-        "normalized_time": "17:45"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-08-31T12:24:30.843181+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 10860,
-      "title": "Steel Magnolias",
-      "overview": "A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship and welcome her into the fold.",
-      "release_date": "1989-11-15",
-      "rating": 7.2,
-      "vote_count": 755,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster_path": "/7ExUSN9s9gX9bhVM17zDLEizano.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7ExUSN9s9gX9bhVM17zDLEizano.jpg",
-      "backdrop_path": "/nvrQW1NmhkQ7B4FjNik7uqMOldP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/nvrQW1NmhkQ7B4FjNik7uqMOldP.jpg",
-      "imdb_id": "tt0098384",
-      "runtime": 117,
-      "budget": 15000000,
-      "revenue": 95904091
     }
   },
   {
@@ -263,7 +212,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-31T12:24:30.843203+00:00",
+    "scraped_at": "2026-09-01T10:57:09.954160+00:00",
     "source": "capitolbio"
   },
   {
@@ -277,31 +226,31 @@
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4573/1920/32fb137e-2d65-47c1-98a5-229aa6d69163.jpg",
     "showtimes": [
       {
-        "datetime": "2026-09-13T20:00:00",
-        "display_text": "Sunday 13 September 2026 at 20:00",
-        "time": "20:00",
+        "datetime": "2026-09-13T20:05:00",
+        "display_text": "Sunday 13 September 2026 at 20:05",
+        "time": "20:05",
         "date_section": "13.09",
         "ticket_url": "https://www.capitolbio.se/boka/51712",
         "booking_id": "51712",
         "hall": "Salong 1",
         "audio_language": "IT",
         "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-13T20:00:00",
+        "normalized_datetime": "2026-09-13T20:05:00",
         "normalized_date": "13.09",
-        "normalized_time": "20:00"
+        "normalized_time": "20:05"
       }
     ],
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-31T12:24:30.843222+00:00",
+    "scraped_at": "2026-09-01T10:57:09.954178+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
       "title": "Salò, or the 120 Days of Sodom",
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
-      "rating": 6.337,
+      "rating": 6.3,
       "vote_count": 2355,
       "genres": [
         "Horror",
@@ -345,7 +294,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-31T12:24:30.843243+00:00",
+    "scraped_at": "2026-09-01T10:57:09.954194+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -396,7 +345,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-31T12:24:30.843267+00:00",
+    "scraped_at": "2026-09-01T10:57:09.954212+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3055,
@@ -447,15 +396,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-31T12:24:30.843285+00:00",
+    "scraped_at": "2026-09-01T10:57:09.954233+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
       "title": "Fame",
       "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
       "release_date": "1980-05-16",
-      "rating": 6.422,
-      "vote_count": 528,
+      "rating": 6.423,
+      "vote_count": 529,
       "genres": [
         "Drama",
         "Music"
@@ -498,7 +447,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-31T12:24:30.843303+00:00",
+    "scraped_at": "2026-09-01T10:57:09.954250+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
@@ -550,7 +499,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-31T12:24:30.843321+00:00",
+    "scraped_at": "2026-09-01T10:57:09.954266+00:00",
     "source": "capitolbio"
   },
   {
@@ -595,15 +544,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-31T12:24:30.843341+00:00",
+    "scraped_at": "2026-09-01T10:57:09.954282+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 142773,
-      "title": "Queen Budapest",
+      "title": "Queen: Budapest",
       "overview": "On July 27, 1986, Queen performed the largest-ever stadium concert at the Népstadion in Budapest in front of 80,000 ecstatic fans. The concert was part of the famed Magic Tour, which was the last time the band toured with lead singer Freddie Mercury.",
       "release_date": "2012-09-20",
-      "rating": 8.2,
-      "vote_count": 79,
+      "rating": 0.0,
+      "vote_count": 0,
       "genres": [
         "Music"
       ],
@@ -618,14 +567,14 @@
     }
   },
   {
-    "film_id": "queen-christina",
-    "url": "https://www.capitolbio.se/filmer/queen-christina/4577",
-    "title": "Queen Christina",
+    "film_id": "drottning-kristina",
+    "url": "https://www.capitolbio.se/filmer/drottning-kristina/4577",
+    "title": "Drottning Kristina",
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "År 2026 skulle Drottning Kristina ha fyllt 400 år. Det uppmärksammar vi genom Greta Garbo som Drottning Kristina\n\n1933 återvände Greta Garbo till vita duken efter en frånvaro på 18 månader vilket tydligen var ett så långt uppehåll att MGM marknadsförde Drottning Kristina som ”Garbos återkomst”. Filmen drog fulla hus och blev en stor succé för den 28-åriga svenskan. Från början var det tänkt att Laurence Olivier skulle spela den manliga huvudrollen men under repetitionerna framkom det att det inte fanns någon kemi mellan Garbo och engelsmannen. John Gilbert fick hoppa in i sista stund och det skulle bli hans näst sista film innan han avled i en hjärtattack några år senare. Drottning Kristina är ett kostymdrama som är väldigt löst baserat på de historiska händelserna i hennes liv.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4577/1920/509747d5-3320-4ac9-8782-d73e1f9245b3.jpg",
+    "description": "År 2026 skulle Drottning Kristina ha fyllt 400 år. Det uppmärksammar vi genom att visa Greta Garbo som Drottning Kristina\n\n1933 återvände Greta Garbo till vita duken efter en frånvaro på 18 månader vilket tydligen var ett så långt uppehåll att MGM marknadsförde Drottning Kristina som ”Garbos återkomst”. Filmen drog fulla hus och blev en stor succé för den 28-åriga svenskan. Från början var det tänkt att Laurence Olivier skulle spela den manliga huvudrollen men under repetitionerna framkom det att det inte fanns någon kemi mellan Garbo och engelsmannen. \nJohn Gilbert fick hoppa in i sista stund och det skulle bli hans näst sista film innan han avled i en hjärtattack några år senare. Drottning Kristina är ett kostymdrama som är väldigt löst baserat på de historiska händelserna i hennes liv.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4573/1920/32fb137e-2d65-47c1-98a5-229aa6d69163.jpg",
     "showtimes": [
       {
         "datetime": "2026-10-21T18:00:00",
@@ -645,7 +594,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-31T12:24:30.843374+00:00",
+    "scraped_at": "2026-09-01T10:57:09.954312+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 31526,
@@ -697,15 +646,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-31T12:24:30.843391+00:00",
+    "scraped_at": "2026-09-01T10:57:09.954326+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 21484,
       "title": "Possession",
       "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
       "release_date": "1981-05-27",
-      "rating": 7.323,
-      "vote_count": 1406,
+      "rating": 7.325,
+      "vote_count": 1407,
       "genres": [
         "Horror"
       ],
@@ -747,7 +696,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-08-31T12:24:30.843408+00:00",
+    "scraped_at": "2026-09-01T10:57:09.954340+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 25623,

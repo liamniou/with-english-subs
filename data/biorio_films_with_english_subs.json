@@ -63,8 +63,8 @@
           "tags": [
             "Timelessfest 2026"
           ],
-          "ticketsSold": 87,
-          "ticketsAvailable": 93,
+          "ticketsSold": 97,
+          "ticketsAvailable": 83,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-03T16:00:00",
@@ -75,15 +75,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-31T12:23:25.635851",
+    "scraped_at": "2026-09-01T10:55:53.774036",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
       "title": "Ghost in the Shell",
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
-      "rating": 7.927,
-      "vote_count": 4022,
+      "rating": 7.9,
+      "vote_count": 4023,
       "genres": [
         "Action",
         "Animation",
@@ -156,8 +156,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 30,
-          "ticketsAvailable": 150,
+          "ticketsSold": 35,
+          "ticketsAvailable": 145,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-04T16:00:00",
@@ -168,7 +168,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-31T12:23:29.126570",
+    "scraped_at": "2026-09-01T10:55:57.762541",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -262,15 +262,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-08-31T12:23:58.441212",
+    "scraped_at": "2026-09-01T10:56:32.340284",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
       "title": "Mars Express",
       "overview": "In 2200, private detective Aline Ruby and her android partner Carlos Rivera are hired by a wealthy businessman to track down a notorious hacker. On Mars, they descend deep into the underbelly of the planet's capital city where they uncover a darker story of brain farms, political corruption, and a missing girl who holds a secret about the robots that threatens to change the face of the universe.",
       "release_date": "2023-11-22",
-      "rating": 7.469,
-      "vote_count": 575,
+      "rating": 7.471,
+      "vote_count": 577,
       "genres": [
         "Animation",
         "Science Fiction",
