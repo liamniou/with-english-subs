@@ -63,8 +63,8 @@
           "tags": [
             "Timelessfest 2026"
           ],
-          "ticketsSold": 97,
-          "ticketsAvailable": 83,
+          "ticketsSold": 103,
+          "ticketsAvailable": 77,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-03T16:00:00",
@@ -75,15 +75,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-01T10:55:53.774036",
+    "scraped_at": "2026-09-02T10:22:32.127110",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
       "title": "Ghost in the Shell",
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
-      "rating": 7.9,
-      "vote_count": 4023,
+      "rating": 7.928,
+      "vote_count": 4026,
       "genres": [
         "Action",
         "Animation",
@@ -156,8 +156,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 35,
-          "ticketsAvailable": 145,
+          "ticketsSold": 43,
+          "ticketsAvailable": 137,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-04T16:00:00",
@@ -168,11 +168,11 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-01T10:55:57.762541",
+    "scraped_at": "2026-09-02T10:22:35.965991",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
-      "title": "Ghost: 2 Big to Rig",
+      "title": "2 Big to Rig",
       "overview": "Captured live over the course of GHOST’s two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX® in select locations.  Featuring the only pro-shot footage of Papa V Perpetua and his band of Nameless Ghouls from the phone-free SKELETOUR, 2 BIG TO RIG immerses the audience in the GHOST live ritual, including exclusive behind-the-scenes and backstage access.",
       "release_date": "2026-08-24",
       "rating": 8.0,
@@ -262,7 +262,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-01T10:56:32.340284",
+    "scraped_at": "2026-09-02T10:23:05.334757",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
@@ -270,7 +270,7 @@
       "overview": "In 2200, private detective Aline Ruby and her android partner Carlos Rivera are hired by a wealthy businessman to track down a notorious hacker. On Mars, they descend deep into the underbelly of the planet's capital city where they uncover a darker story of brain farms, political corruption, and a missing girl who holds a secret about the robots that threatens to change the face of the universe.",
       "release_date": "2023-11-22",
       "rating": 7.471,
-      "vote_count": 577,
+      "vote_count": 579,
       "genres": [
         "Animation",
         "Science Fiction",
