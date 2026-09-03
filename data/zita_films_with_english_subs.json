@@ -9,9 +9,9 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "i morgon 18:30",
+        "display_text": "18:30",
         "time": "18:30",
-        "date": "i morgon",
+        "date": "",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=3685",
         "normalized_datetime": "2026-09-03T18:30:00",
@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-09-02T10:32:33.181954+00:00",
+    "scraped_at": "2026-09-03T10:41:55.379332+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
@@ -67,7 +67,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-09-02T10:32:37.906579+00:00",
+    "scraped_at": "2026-09-03T10:42:01.459545+00:00",
     "source": "zita",
     "tmdb": {
       "id": 44379,

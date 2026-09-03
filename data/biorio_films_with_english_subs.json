@@ -63,8 +63,8 @@
           "tags": [
             "Timelessfest 2026"
           ],
-          "ticketsSold": 103,
-          "ticketsAvailable": 77,
+          "ticketsSold": 114,
+          "ticketsAvailable": 66,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-03T16:00:00",
@@ -75,7 +75,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-02T10:22:32.127110",
+    "scraped_at": "2026-09-03T10:31:12.971446",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
@@ -156,8 +156,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 43,
-          "ticketsAvailable": 137,
+          "ticketsSold": 53,
+          "ticketsAvailable": 127,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-04T16:00:00",
@@ -168,7 +168,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-02T10:22:35.965991",
+    "scraped_at": "2026-09-03T10:31:17.485810",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -262,7 +262,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-02T10:23:05.334757",
+    "scraped_at": "2026-09-03T10:31:53.584618",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
