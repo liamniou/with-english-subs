@@ -1,105 +1,5 @@
 [
   {
-    "film_id": "ghost-in-the-shell",
-    "url": "https://www.biorio.se/sv/filmer/ghost-in-the-shell",
-    "title": "Ghost in the Shell",
-    "director": "Mamoru Oshii",
-    "showtimes": [
-      {
-        "datetime": "2026-09-03T16:00:00.000Z",
-        "display_text": "Thursday September 03, 2026 at 16:00",
-        "movie_id": "4989",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2542",
-        "api_data": {
-          "id": 2542,
-          "movieId": 4989,
-          "movieVersionId": 28,
-          "startTime": "2026-09-03T16:00:00.000Z",
-          "endTime": "2026-09-03T17:23:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 4989,
-            "title": "Ghost in the Shell",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/4989/posters/1742375281690-muxuif.jpg",
-            "movieVersions": [
-              {
-                "duration": 83,
-                "audio": "Japanska",
-                "subtitles": "Engelska"
-              },
-              {
-                "duration": 83,
-                "audio": "JAP",
-                "subtitles": "ENG"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "MovieVersion": {
-            "id": 28,
-            "duration": 83,
-            "subtitles": "Engelska",
-            "audio": "Japanska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            }
-          ],
-          "tags": [
-            "Timelessfest 2026"
-          ],
-          "ticketsSold": 114,
-          "ticketsAvailable": 66,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-09-03T16:00:00",
-        "normalized_date": "03.09",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-09-03T10:31:12.971446",
-    "source": "biorio",
-    "tmdb": {
-      "id": 9323,
-      "title": "Ghost in the Shell",
-      "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
-      "release_date": "1995-11-18",
-      "rating": 7.928,
-      "vote_count": 4026,
-      "genres": [
-        "Action",
-        "Animation",
-        "Science Fiction"
-      ],
-      "poster_path": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg",
-      "backdrop_path": "/jIpagj2Dud9g3ZVJFvaWikEWsYz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jIpagj2Dud9g3ZVJFvaWikEWsYz.jpg",
-      "imdb_id": "tt0113568",
-      "runtime": 83,
-      "budget": 3000000,
-      "revenue": 10000000
-    }
-  },
-  {
     "film_id": "ghost-2-big-to-rig",
     "url": "https://www.biorio.se/sv/filmer/ghost-2-big-to-rig",
     "title": "Ghost: 2 Big to Rig",
@@ -156,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 53,
-          "ticketsAvailable": 127,
+          "ticketsSold": 59,
+          "ticketsAvailable": 121,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-04T16:00:00",
@@ -168,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-03T10:31:17.485810",
+    "scraped_at": "2026-09-04T10:20:19.195305",
     "source": "biorio",
     "tmdb": {
       "id": 1693400,
@@ -250,8 +150,8 @@
           "tags": [
             "Rendez-Vous"
           ],
-          "ticketsSold": 0,
-          "ticketsAvailable": 180,
+          "ticketsSold": 2,
+          "ticketsAvailable": 178,
           "isPublished": true
         },
         "normalized_datetime": "2026-10-13T16:00:00",
@@ -262,15 +162,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-03T10:31:53.584618",
+    "scraped_at": "2026-09-04T10:21:05.344091",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
       "title": "Mars Express",
       "overview": "In 2200, private detective Aline Ruby and her android partner Carlos Rivera are hired by a wealthy businessman to track down a notorious hacker. On Mars, they descend deep into the underbelly of the planet's capital city where they uncover a darker story of brain farms, political corruption, and a missing girl who holds a secret about the robots that threatens to change the face of the universe.",
       "release_date": "2023-11-22",
-      "rating": 7.471,
-      "vote_count": 579,
+      "rating": 7.473,
+      "vote_count": 580,
       "genres": [
         "Animation",
         "Science Fiction",

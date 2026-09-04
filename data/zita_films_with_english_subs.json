@@ -1,50 +1,5 @@
 [
   {
-    "film_id": "unknown-title",
-    "url": "https://zita.se/jeanne-dielman",
-    "title": "Unknown Title",
-    "director": "",
-    "genre": "Belgien, Frankrike19751 jan 2014201 minDramaFrån 15 årChantal AkermanFranskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "18:30",
-        "time": "18:30",
-        "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=3685",
-        "normalized_datetime": "2026-09-03T18:30:00",
-        "normalized_date": "03.09",
-        "normalized_time": "18:30"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-09-03T10:41:55.379332+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 949470,
-      "title": "Unknown Title",
-      "overview": "A short film by Andrei Ventslova",
-      "release_date": "1988-04-15",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "imdb_id": null,
-      "runtime": 1,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "the-gleaners-and-i",
     "url": "https://zita.se/the-gleaners-and-i",
     "title": "The Gleaners and I",
@@ -67,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-09-03T10:42:01.459545+00:00",
+    "scraped_at": "2026-09-04T10:31:20.605502+00:00",
     "source": "zita",
     "tmdb": {
       "id": 44379,
