@@ -26,15 +26,15 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-04T10:19:49.832277+00:00",
+    "scraped_at": "2026-09-05T09:47:21.958975+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 999075,
       "title": "Left-Handed Girl",
       "overview": "A mother and her two daughters move to Taipei to open a noodle stand at a vibrant night market, but family secrets and tradition test their fresh start.",
       "release_date": "2025-09-17",
-      "rating": 7.276,
-      "vote_count": 192,
+      "rating": 7.269,
+      "vote_count": 193,
       "genres": [
         "Drama"
       ],
@@ -75,7 +75,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-04T10:19:49.832308+00:00",
+    "scraped_at": "2026-09-05T09:47:21.959007+00:00",
     "source": "bioaspen"
   },
   {
@@ -105,7 +105,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-04T10:19:49.832318+00:00",
+    "scraped_at": "2026-09-05T09:47:21.959020+00:00",
     "source": "bioaspen"
   },
   {
@@ -135,7 +135,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-04T10:19:49.832329+00:00",
+    "scraped_at": "2026-09-05T09:47:21.959034+00:00",
     "source": "bioaspen"
   },
   {
@@ -165,7 +165,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-04T10:19:49.832337+00:00",
+    "scraped_at": "2026-09-05T09:47:21.959045+00:00",
     "source": "bioaspen"
   },
   {
@@ -195,7 +195,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-04T10:19:49.832345+00:00",
+    "scraped_at": "2026-09-05T09:47:21.959055+00:00",
     "source": "bioaspen"
   }
 ]

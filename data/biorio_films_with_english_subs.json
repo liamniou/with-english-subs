@@ -1,22 +1,22 @@
 [
   {
-    "film_id": "ghost-2-big-to-rig",
-    "url": "https://www.biorio.se/sv/filmer/ghost-2-big-to-rig",
-    "title": "Ghost: 2 Big to Rig",
-    "director": "Amir Juan Chamdin",
+    "film_id": "et-the-extra-terrestrial",
+    "url": "https://www.biorio.se/sv/filmer/et-the-extra-terrestrial",
+    "title": "E.T. the Extra-Terrestrial",
+    "director": "Steven Spielberg",
     "showtimes": [
       {
-        "datetime": "2026-09-04T16:00:00.000Z",
-        "display_text": "Friday September 04, 2026 at 16:00",
-        "movie_id": "5957",
+        "datetime": "2026-09-06T08:30:00.000Z",
+        "display_text": "Sunday September 06, 2026 at 08:30",
+        "movie_id": "5934",
         "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2595",
+        "booking_url": "https://www.biorio.se/sv/boka/2460",
         "api_data": {
-          "id": 2595,
-          "movieId": 5957,
-          "movieVersionId": 656,
-          "startTime": "2026-09-04T16:00:00.000Z",
-          "endTime": "2026-09-04T17:55:00.000Z",
+          "id": 2460,
+          "movieId": 5934,
+          "movieVersionId": 632,
+          "startTime": "2026-09-06T08:30:00.000Z",
+          "endTime": "2026-09-06T10:15:00.000Z",
           "screenId": 1,
           "screenNumber": 1,
           "language": null,
@@ -27,12 +27,12 @@
           "onlineAvailableFrom": null,
           "includeInReport": true,
           "movie": {
-            "id": 5957,
-            "title": "Ghost: 2 Big to Rig",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/posters/1784235261587-990117692-a9818928-e5a3-49c7-9b84-ff06a77c3ce2.avif",
+            "id": 5934,
+            "title": "E.T. the Extra-Terrestrial",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5934/posters/1781267875419-mb8gnj.avif",
             "movieVersions": [
               {
-                "duration": 115,
+                "duration": 105,
                 "audio": "Engelska",
                 "subtitles": "Engelska"
               }
@@ -41,8 +41,103 @@
             "audio": "Engelska"
           },
           "MovieVersion": {
-            "id": 656,
-            "duration": 115,
+            "id": 632,
+            "duration": 105,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 3,
+              "name": "Frukostbio"
+            }
+          ],
+          "tags": [
+            "Frukostbio"
+          ],
+          "ticketsSold": 48,
+          "ticketsAvailable": 132,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-09-06T08:30:00",
+        "normalized_date": "06.09",
+        "normalized_time": "08:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-09-05T09:47:44.213259",
+    "source": "biorio",
+    "tmdb": {
+      "id": 601,
+      "title": "E.T. the Extra-Terrestrial",
+      "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+      "release_date": "1982-06-11",
+      "rating": 7.517,
+      "vote_count": 12224,
+      "genres": [
+        "Adventure",
+        "Science Fiction",
+        "Family"
+      ],
+      "poster_path": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+      "imdb_id": "tt0083866",
+      "runtime": 115,
+      "budget": 10500000,
+      "revenue": 797307407
+    }
+  },
+  {
+    "film_id": "ar-2001---ett-rymdaventyr",
+    "url": "https://www.biorio.se/sv/filmer/ar-2001---ett-rymdaventyr",
+    "title": "År 2001 - ett rymdäventyr",
+    "director": "Stanley Kubrick",
+    "showtimes": [
+      {
+        "datetime": "2026-09-09T18:00:00.000Z",
+        "display_text": "Wednesday September 09, 2026 at 18:00",
+        "movie_id": "4924",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2522",
+        "api_data": {
+          "id": 2522,
+          "movieId": 4924,
+          "movieVersionId": 50,
+          "startTime": "2026-09-09T18:00:00.000Z",
+          "endTime": "2026-09-09T20:30:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 4924,
+            "title": "År 2001 - ett rymdäventyr",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/4924/posters/1742311015588-9ob7i.jpg",
+            "movieVersions": [
+              {
+                "duration": 150,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 50,
+            "duration": 150,
             "subtitles": "Engelska",
             "audio": "Engelska"
           },
@@ -56,39 +151,40 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 59,
-          "ticketsAvailable": 121,
+          "ticketsSold": 88,
+          "ticketsAvailable": 92,
           "isPublished": true
         },
-        "normalized_datetime": "2026-09-04T16:00:00",
-        "normalized_date": "04.09",
-        "normalized_time": "16:00"
+        "normalized_datetime": "2026-09-09T18:00:00",
+        "normalized_date": "09.09",
+        "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-04T10:20:19.195305",
+    "scraped_at": "2026-09-05T09:47:55.059521",
     "source": "biorio",
     "tmdb": {
-      "id": 1693400,
-      "title": "2 Big to Rig",
-      "overview": "Captured live over the course of GHOST’s two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX® in select locations.  Featuring the only pro-shot footage of Papa V Perpetua and his band of Nameless Ghouls from the phone-free SKELETOUR, 2 BIG TO RIG immerses the audience in the GHOST live ritual, including exclusive behind-the-scenes and backstage access.",
-      "release_date": "2026-08-24",
-      "rating": 8.0,
-      "vote_count": 4,
+      "id": 62,
+      "title": "2001: A Space Odyssey",
+      "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+      "release_date": "1968-04-02",
+      "rating": 8.045,
+      "vote_count": 12898,
       "genres": [
-        "Music",
-        "Documentary"
+        "Science Fiction",
+        "Mystery",
+        "Adventure"
       ],
-      "poster_path": "/6h8iogSv0SUnFWa89Q2IGH4cEaB.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6h8iogSv0SUnFWa89Q2IGH4cEaB.jpg",
-      "backdrop_path": "/y4kqw66F7maIsNE4AOMhISVZCz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/y4kqw66F7maIsNE4AOMhISVZCz.jpg",
-      "imdb_id": "tt43683692",
-      "runtime": 115,
-      "budget": 0,
-      "revenue": 0
+      "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+      "imdb_id": "tt0062622",
+      "runtime": 149,
+      "budget": 12000000,
+      "revenue": 71923560
     }
   },
   {
@@ -162,7 +258,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-04T10:21:05.344091",
+    "scraped_at": "2026-09-05T09:48:20.632564",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
