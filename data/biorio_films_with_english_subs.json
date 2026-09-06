@@ -1,100 +1,5 @@
 [
   {
-    "film_id": "et-the-extra-terrestrial",
-    "url": "https://www.biorio.se/sv/filmer/et-the-extra-terrestrial",
-    "title": "E.T. the Extra-Terrestrial",
-    "director": "Steven Spielberg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-06T08:30:00.000Z",
-        "display_text": "Sunday September 06, 2026 at 08:30",
-        "movie_id": "5934",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2460",
-        "api_data": {
-          "id": 2460,
-          "movieId": 5934,
-          "movieVersionId": 632,
-          "startTime": "2026-09-06T08:30:00.000Z",
-          "endTime": "2026-09-06T10:15:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 5934,
-            "title": "E.T. the Extra-Terrestrial",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/biorio/movies/movies/5934/posters/1781267875419-mb8gnj.avif",
-            "movieVersions": [
-              {
-                "duration": 105,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 632,
-            "duration": 105,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 3,
-              "name": "Frukostbio"
-            }
-          ],
-          "tags": [
-            "Frukostbio"
-          ],
-          "ticketsSold": 48,
-          "ticketsAvailable": 132,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-09-06T08:30:00",
-        "normalized_date": "06.09",
-        "normalized_time": "08:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-09-05T09:47:44.213259",
-    "source": "biorio",
-    "tmdb": {
-      "id": 601,
-      "title": "E.T. the Extra-Terrestrial",
-      "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
-      "release_date": "1982-06-11",
-      "rating": 7.517,
-      "vote_count": 12224,
-      "genres": [
-        "Adventure",
-        "Science Fiction",
-        "Family"
-      ],
-      "poster_path": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
-      "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
-      "imdb_id": "tt0083866",
-      "runtime": 115,
-      "budget": 10500000,
-      "revenue": 797307407
-    }
-  },
-  {
     "film_id": "ar-2001---ett-rymdaventyr",
     "url": "https://www.biorio.se/sv/filmer/ar-2001---ett-rymdaventyr",
     "title": "År 2001 - ett rymdäventyr",
@@ -151,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 88,
-          "ticketsAvailable": 92,
+          "ticketsSold": 97,
+          "ticketsAvailable": 83,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-09T18:00:00",
@@ -163,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-05T09:47:55.059521",
+    "scraped_at": "2026-09-06T10:03:56.464010",
     "source": "biorio",
     "tmdb": {
       "id": 62,
@@ -171,7 +76,7 @@
       "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
       "release_date": "1968-04-02",
       "rating": 8.045,
-      "vote_count": 12898,
+      "vote_count": 12901,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -258,15 +163,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-05T09:48:20.632564",
+    "scraped_at": "2026-09-06T10:04:16.423165",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
       "title": "Mars Express",
       "overview": "In 2200, private detective Aline Ruby and her android partner Carlos Rivera are hired by a wealthy businessman to track down a notorious hacker. On Mars, they descend deep into the underbelly of the planet's capital city where they uncover a darker story of brain farms, political corruption, and a missing girl who holds a secret about the robots that threatens to change the face of the universe.",
       "release_date": "2023-11-22",
-      "rating": 7.473,
-      "vote_count": 580,
+      "rating": 7.471,
+      "vote_count": 581,
       "genres": [
         "Animation",
         "Science Fiction",

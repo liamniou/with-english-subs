@@ -1,36 +1,5 @@
 [
   {
-    "film_id": "afternoon-tea-mordet-pa-orientexpressen-1974",
-    "url": "https://www.capitolbio.se/filmer/afternoon-tea-mordet-pa-orientexpressen-1974/1498",
-    "title": "Afternoon Tea: Mordet på Orientexpressen (1974)",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Välkommen på Mordet på Orientexpressen med Afternoon Tea!\n\nCapitols Afternoon Tea-meny:\nScones\nMed vispad grädde & sylt\n\nCucumber sandwich\nBrittisk toast med gurka och färskost\n\nChickpea sandwich \nKikärtsröra med paprika- & citronmajonnäs och groddar på vitt bröd\n\nBlue Cheese on ryebread\nÄdelostkräm med plommonmarmelad på rågbröd\n\nScottish shortbread\nFrasig småkaka med kokos och citron\n\nVictoria cake\nSockerkaka med smörcrème och jordgubbsylt\n\nMini Bakewell tart\nMinipaj med körsbär och choklad\n\nTill detta serveras nybryggt te, ett grönt och ett svart.\n\nVill ni lyxa till det lite extra? Toppa eftermiddagen med en flaska champagne – den ultimata drycken till en stämningsfull film.\n\nVi serverar de förköpta menyerna vid era platser i salongen.\nVänligen observera att innehållet i menyn inte kan ändras efter individuella önskemål. Innehållet kan inte heller ändras till gluten- och/eller laktosfria alternativ.\n\nVÄLKOMNA!\n\n\nOBS! Senast kl. 21.00 på tisdagen i samma vecka som biovisningen måste din beställning av Afternoon tea-paket vara registrerad.\n\nEtt fåtal Afternoon tea-paket finns att köpa på plats hos oss, kom gärna i god tid då först till kvarn gäller. I foajébaren kan du beställa dryck och snacks innan, under och efter visningen. \n\nFler Afternoon Teas att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/1498/1920/e631a50a-d992-41df-a652-6016294b79a9.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-05T14:00:00",
-        "display_text": "Saturday 5 September 2026 at 14:00",
-        "time": "14:00",
-        "date_section": "05.09",
-        "ticket_url": "https://www.capitolbio.se/boka/50555",
-        "booking_id": "50555",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-05T14:00:00",
-        "normalized_date": "05.09",
-        "normalized_time": "14:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-09-05T09:48:57.342759+00:00",
-    "source": "capitolbio"
-  },
-  {
     "film_id": "grey-gardens-1976",
     "url": "https://www.capitolbio.se/filmer/grey-gardens-1976/4527",
     "title": "Grey Gardens (1976)",
@@ -58,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-05T09:48:57.342807+00:00",
+    "scraped_at": "2026-09-06T10:04:45.223426+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 17346,
@@ -108,14 +77,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-05T09:48:57.342822+00:00",
+    "scraped_at": "2026-09-06T10:04:45.223510+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10784,
       "title": "Cabaret",
       "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
       "release_date": "1972-02-13",
-      "rating": 7.419,
+      "rating": 7.4,
       "vote_count": 1004,
       "genres": [
         "Music",
@@ -160,7 +129,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-05T09:48:57.342835+00:00",
+    "scraped_at": "2026-09-06T10:04:45.223529+00:00",
     "source": "capitolbio"
   },
   {
@@ -191,7 +160,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-05T09:48:57.342863+00:00",
+    "scraped_at": "2026-09-06T10:04:45.223545+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
@@ -242,7 +211,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-05T09:48:57.342875+00:00",
+    "scraped_at": "2026-09-06T10:04:45.223573+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -263,6 +232,57 @@
       "runtime": 68,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "valley-of-the-dolls",
+    "url": "https://www.capitolbio.se/filmer/valley-of-the-dolls/4529",
+    "title": "Valley of the Dolls",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Kultklassiker fån 1967 \n\nMed Sharon Tate som en djupt olycklig partytjej som missbrukar piller. Valley of the Dolls bygger på den skandalomsusade romanen med samma namn, blev en biosuccé 1967 och har sedan dess uppnått kultstatus.\n\nBaserad på Jacqueline Susanns bok med samma namn från 1966.\n\nFler klassiker att boka hittar du här",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4529/1920/29f611a2-0e09-4523-9c1c-20592baef959.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-16T18:00:00",
+        "display_text": "Wednesday 16 September 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "16.09",
+        "ticket_url": "https://www.capitolbio.se/boka/51705",
+        "booking_id": "51705",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-16T18:00:00",
+        "normalized_date": "16.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-09-06T10:04:45.223588+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 3055,
+      "title": "Valley of the Dolls",
+      "overview": "Lured by their dreams of fame and fortune, three ambitious young women enter the world of show business and discover how easy it is to sink into a celebrity nightmare of ego, alcohol and pills — the beloved \"dolls.\"",
+      "release_date": "1967-12-27",
+      "rating": 6.0,
+      "vote_count": 150,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
+      "backdrop_path": "/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
+      "imdb_id": "tt0062430",
+      "runtime": 123,
+      "budget": 5000000,
+      "revenue": 50000000
     }
   },
   {
@@ -293,15 +313,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-05T09:48:57.342887+00:00",
+    "scraped_at": "2026-09-06T10:04:45.223604+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
       "title": "Fame",
       "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
       "release_date": "1980-05-16",
-      "rating": 6.423,
-      "vote_count": 529,
+      "rating": 6.4,
+      "vote_count": 530,
       "genres": [
         "Drama",
         "Music"
@@ -344,7 +364,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-05T09:48:57.342902+00:00",
+    "scraped_at": "2026-09-06T10:04:45.223622+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
@@ -355,8 +375,7 @@
       "vote_count": 1619,
       "genres": [
         "Action",
-        "Thriller",
-        "Drama"
+        "Thriller"
       ],
       "poster_path": "/tXSD8U5aVdGscQNcyY6C2ANVEuh.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/tXSD8U5aVdGscQNcyY6C2ANVEuh.jpg",
@@ -396,7 +415,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-05T09:48:57.342917+00:00",
+    "scraped_at": "2026-09-06T10:04:45.223639+00:00",
     "source": "capitolbio"
   },
   {
@@ -441,7 +460,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-05T09:48:57.342932+00:00",
+    "scraped_at": "2026-09-06T10:04:45.223657+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 142773,
@@ -491,7 +510,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-05T09:48:57.342953+00:00",
+    "scraped_at": "2026-09-06T10:04:45.223683+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1392469,
@@ -542,7 +561,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-05T09:48:57.342966+00:00",
+    "scraped_at": "2026-09-06T10:04:45.223698+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 837,
@@ -594,7 +613,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-05T09:48:57.342977+00:00",
+    "scraped_at": "2026-09-06T10:04:45.223712+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 31526,
@@ -646,14 +665,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-05T09:48:57.342989+00:00",
+    "scraped_at": "2026-09-06T10:04:45.223727+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9871,
       "title": "Ginger Snaps",
       "overview": "The story of two outcast sisters, Ginger and Brigitte, in the mindless suburban town of Bailey Downs. On the night of Ginger's first period, she is savagely attacked by a wild creature. Ginger's wounds miraculously heal but something is not quite right. Now Brigitte must save her sister and save herself.",
       "release_date": "2000-12-11",
-      "rating": 6.9,
+      "rating": 6.932,
       "vote_count": 1028,
       "genres": [
         "Horror",
@@ -697,15 +716,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-05T09:48:57.343001+00:00",
+    "scraped_at": "2026-09-06T10:04:45.223742+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 21484,
       "title": "Possession",
       "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
       "release_date": "1981-05-27",
-      "rating": 7.3,
-      "vote_count": 1410,
+      "rating": 7.322,
+      "vote_count": 1413,
       "genres": [
         "Horror"
       ],
@@ -747,7 +766,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-05T09:48:57.343013+00:00",
+    "scraped_at": "2026-09-06T10:04:45.223756+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 25623,
