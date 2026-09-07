@@ -26,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-06T10:03:30.415836+00:00",
+    "scraped_at": "2026-09-07T11:16:40.378426+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 999075,
@@ -75,7 +75,187 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-06T10:03:30.415874+00:00",
+    "scraped_at": "2026-09-07T11:16:40.378457+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "cinema-queer-tiger",
+    "url": "https://www.bioaspen.se/movies/cinema-queer-tiger/",
+    "title": "Cinema Queer: Tiger",
+    "director": "",
+    "duration": "2 tim 06 min",
+    "language": "JP",
+    "description": "Taiga är en 35-årige erotiska massören som bor i Tokyo. Samtidigt som han försöker återuppliva sitt otillfredsställande kärleksliv och navigera komplicerade familjeförhållanden, försöker Taiga också omvandla sina massagekunskaper till sexarbete framför kameran – en uppgift som visade sig betydligt svårare än väntat. Utöver sina romantiska och yrkesmässiga äventyr uppstår komplikationer kring hans sjuke far och dominanta syster, som hotar att göra honom arvlös. Tiger är en pulserande och levande skildring av queert liv i dagens Japan, under Tokyos bländande neonljus.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7191/1080/8630fc1d-3cbf-4182-9dbd-5536ad9d4dad.jpeg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-29T18:00:00",
+        "display_text": "Tuesday 29 September 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "29.09",
+        "ticket_url": "https://www.bioaspen.se/movies/cinema-queer-tiger/",
+        "hall": "Salong 1",
+        "audio_language": "JP",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-29T18:00:00",
+        "normalized_date": "29.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-09-07T11:16:40.378470+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "cinema-queer-bearcave",
+    "url": "https://www.bioaspen.se/movies/cinema-queer-bearcave/",
+    "title": "Cinema Queer: BEARCAVE",
+    "director": "",
+    "duration": "2 tim 08 min",
+    "language": "GR",
+    "description": "Stergios Dinopoulos, Krysianna Papadakis / Grekland / 2025 / 128 min / engelska undertexterTisdag 29 sep kl 20.30, Bio AspenI den grekiska bergsbyn Tirna bor barndomsvännerna Argyro och Anneta. Argyro är en bonde med hård attityd medan Anetta arbetar som nagelskulptör, medan hon drömmer om att lämna byn bakom sig. När Anetta berättar att hon är gravid och planerar att lämna Tirna tillsammans med sin trista kille, blir hon utmanad av Argyro att ge sig ut på en expedition för att finna den mystiska Björngrottan. Bear Cave är regissörernas debutfilm och i den möts grekisk folktro, queerhet och vulvaformade grottor.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7192/1080/a6cf01dc-d904-4040-b148-803d56c59f0a.png",
+    "showtimes": [
+      {
+        "datetime": "2026-09-29T20:30:00",
+        "display_text": "Tuesday 29 September 2026 at 20:30",
+        "time": "20:30",
+        "date_section": "29.09",
+        "ticket_url": "https://www.bioaspen.se/movies/cinema-queer-bearcave/",
+        "hall": "Salong 1",
+        "audio_language": "GR",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-29T20:30:00",
+        "normalized_date": "29.09",
+        "normalized_time": "20:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-09-07T11:16:40.378485+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "cinema-queer-downtown",
+    "url": "https://www.bioaspen.se/movies/cinema-queer-downtown/",
+    "title": "Cinema Queer: DOWNTOWN",
+    "director": "",
+    "duration": "1 tim 38 min",
+    "language": "NL",
+    "description": "Michiel van Erp / Nederländerna / 2026 / 98 min / engelsk textOnsdag 30 sep kl 18.00, Bio AspenAmsterdam 1986. På klubben Downtown är stämningen het, musiken är elektrisk och en hel generation lever fritt, trotsigt och stolt som sig själva. Här hittar vi vännerna Ronnie och Lennart. Ronnie spelar skivor. Lennart kommer för att dansa och ragga upp någon. När den 20-årige konstnären Bas anländer – ung, strålande, oemotståndlig – förändras något mellan de tre. Ett starkt band knyts som tyvärr snart kommer att prövas hårt. För verkligheten förändras drastiskt och fler och fler stamgäster börjar försvinna från Downtown. Plötsligt en dag bort för att aldrig återvända. Downtown är en film om vad det innebar att vara ung, gay och levande under ett av historiens mest vackra och brutala decennier.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7193/1080/98e1d645-a571-4485-9205-7967f4489d1f.jpeg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-30T18:00:00",
+        "display_text": "Wednesday 30 September 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "30.09",
+        "ticket_url": "https://www.bioaspen.se/movies/cinema-queer-downtown/",
+        "hall": "Salong 1",
+        "audio_language": "NL",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-30T18:00:00",
+        "normalized_date": "30.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-09-07T11:16:40.378496+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "cinema-queer-on-the-road",
+    "url": "https://www.bioaspen.se/movies/cinema-queer-on-the-road/",
+    "title": "Cinema Queer: ON THE ROAD",
+    "director": "",
+    "duration": "1 tim 33 min",
+    "language": "SPA",
+    "description": "David Pablos / Mexiko / 2025 / 93 min / engelska undertexterOnsdag 30 sep kl 20.00, AspenVeneno, upprorisk och rastlös rör han sig mellan Mexikos lastbilshak där han ligger med råbarkade chaufförer den ena värre än den andra. När han en dag hamnar i konflikt med den okända mexikanska maffian tvingas han fly hals över huvudet. I desperat behov av skjuts möter han Muñeco, en hård och inbunden chaufför. Han lyckas övertala Muñeco att ta med honom djupt in i den hypermaskulina världen av långtradartransporter genom norra Mexiko. Under resans gång växer en oväntad närhet fram mellan dem, men skuggor från Venenos förflutna dyker upp på nytt och sätter bådas liv på spel. En stenhård och hyperkänslig kärlekshistoria bland stora män och ännu större lastbilar.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7194/1080/81b33739-17e1-48bd-aa70-96011b0791e6.jpeg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-30T20:00:00",
+        "display_text": "Wednesday 30 September 2026 at 20:00",
+        "time": "20:00",
+        "date_section": "30.09",
+        "ticket_url": "https://www.bioaspen.se/movies/cinema-queer-on-the-road/",
+        "hall": "Salong 1",
+        "audio_language": "SPA",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-30T20:00:00",
+        "normalized_date": "30.09",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-09-07T11:16:40.378506+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "cinema-queer-the-arctic-circle-of-lust",
+    "url": "https://www.bioaspen.se/movies/cinema-queer-the-arctic-circle-of-lust/",
+    "title": "Cinema Queer: THE ARCTIC CIRCLE OF LUST",
+    "director": "",
+    "duration": "1 tim 37 min",
+    "language": "FI",
+    "description": "Markku Heikkinen / Finland, Tyskland, Sverige / 2026 / / 97 min / engelska undertexterTorsdag 1 okt kl 18.00, AspenLängst upp i de finska skogarna möter vi Petri och Anu. De är potatisbönder och ett par sedan många år tillbaka. De älskar varandra och trots de händelser som ärrat livet så lyser deras kärlek lika starkt som solen över potatisfälten i norr. Men så en dag så berättar Petri att han är bisexuell och deras relation sätts på prov. För hur balanserar man sin relation när man måste para potatisplockning med cruising på rastplatser och mathandling med heta möten i jacuzzin? Det blir till att sätta upp spelregler för relationen och för Petri och Amu att bestämma sig för vad som är viktigt för dem trots samhällets konventioner. Fylld av humor, kärlek och finsk sisu ger oss regissören Markku Heikkinen en stillsam film om att våga gå sin egen väg.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7195/1080/b4ec8110-8def-43db-8219-0f62fa0e6743.jpeg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-01T18:00:00",
+        "display_text": "Thursday 1 October 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "01.10",
+        "ticket_url": "https://www.bioaspen.se/movies/cinema-queer-the-arctic-circle-of-lust/",
+        "hall": "Salong 1",
+        "audio_language": "FI",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-01T18:00:00",
+        "normalized_date": "01.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-09-07T11:16:40.378517+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "cinema-queer-six-months-in-a-pink-and-blue-building",
+    "url": "https://www.bioaspen.se/movies/cinema-queer-six-months-in-a-pink-and-blue-building/",
+    "title": "Cinema Queer: SIX MONTHS IN A PINK AND BLUE BUILDING",
+    "director": "",
+    "duration": "1 tim 45 min",
+    "language": "SPA",
+    "description": "Bruno Santamaría Razo / Mexiko / 2026 / 105 min / engelska undertexterTorsdag 1 okt kl 20.30, AspenDet är tidigt 90-tal i Mexiko City och det är äntligen dags för Brunos födelsedag. Hans bohemiska familj har bjudit in vänner och familj till en storslagen maskerad där temat är det motsatta biologiska könet. I virrvarret av höga klackar, lösmustascher och smäktade musik blir Brunos känslor för bästa vännen Vladimir omöjlig att dölja och kanske är det nu rätt tid att bekänna färg. Men när Brunos pappas plötsligt avslöjar den hemlighet han burit på är det mer än födelsedagsfesten som riskerar att slås i spillror. Regissören Bruno Santamaría Razo hämtar inspiration från sitt eget liv i den här poetiska uppväxtskildringen.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7196/1080/34b093d7-5b44-4b67-9e1d-d148b7e2def0.jpeg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-01T20:30:00",
+        "display_text": "Thursday 1 October 2026 at 20:30",
+        "time": "20:30",
+        "date_section": "01.10",
+        "ticket_url": "https://www.bioaspen.se/movies/cinema-queer-six-months-in-a-pink-and-blue-building/",
+        "hall": "Salong 1",
+        "audio_language": "SPA",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-01T20:30:00",
+        "normalized_date": "01.10",
+        "normalized_time": "20:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-09-07T11:16:40.378531+00:00",
     "source": "bioaspen"
   },
   {
@@ -105,8 +285,58 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-06T10:03:30.415890+00:00",
+    "scraped_at": "2026-09-07T11:16:40.378544+00:00",
     "source": "bioaspen"
+  },
+  {
+    "film_id": "the-magic-city-birmingham-according-to-sun-ra",
+    "url": "https://www.bioaspen.se/movies/the-magic-city-birmingham-according-to-sun-ra/",
+    "title": "The Magic City: Birmingham according to Sun Ra",
+    "director": "Guillaume Maupin, Pablo Guarise",
+    "duration": "1 tim 40 min",
+    "language": "EN",
+    "description": "He left it for Chicago at the age of 32 and did not return until late in his Life.Portraying this artist as a young man as much as portraying a city,The Magic Citytells the story of Sun Ra’s early years in this urban universe that was both political and magical, common and fantastic, disturbing and fascinating.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7198/1080/5d2bb7ee-b2ce-443e-af66-0d142d3ae930.jpeg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-23T18:15:00",
+        "display_text": "Friday 23 October 2026 at 18:15",
+        "time": "18:15",
+        "date_section": "23.10",
+        "ticket_url": "https://www.bioaspen.se/movies/the-magic-city-birmingham-according-to-sun-ra/",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-23T18:15:00",
+        "normalized_date": "23.10",
+        "normalized_time": "18:15"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-09-07T11:16:40.378554+00:00",
+    "source": "bioaspen",
+    "tmdb": {
+      "id": 1605919,
+      "title": "The Magic City: Birmingham according to Sun Ra",
+      "overview": "Between segregation and cosmic revelation, The Magic City traces the birth of Sun Ra, where a city becomes myth and a man, a galaxy.",
+      "release_date": "2025-10-15",
+      "rating": 8.0,
+      "vote_count": 1,
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "poster_path": "/2KCfRHEBEEMRZkrxiORSNfpWh6a.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2KCfRHEBEEMRZkrxiORSNfpWh6a.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt39054918",
+      "runtime": 97,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "wajda-100-ar-filmkonsert-innocent-sorcerers-niewinni-czarodzieje",
@@ -135,7 +365,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-06T10:03:30.415907+00:00",
+    "scraped_at": "2026-09-07T11:16:40.378565+00:00",
     "source": "bioaspen"
   },
   {
@@ -165,7 +395,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-06T10:03:30.415921+00:00",
+    "scraped_at": "2026-09-07T11:16:40.378575+00:00",
     "source": "bioaspen"
   },
   {
@@ -195,7 +425,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-06T10:03:30.415934+00:00",
+    "scraped_at": "2026-09-07T11:16:40.378586+00:00",
     "source": "bioaspen"
   }
 ]
