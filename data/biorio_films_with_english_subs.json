@@ -56,8 +56,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 99,
-          "ticketsAvailable": 81,
+          "ticketsSold": 104,
+          "ticketsAvailable": 76,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-09T18:00:00",
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-07T11:17:14.366092",
+    "scraped_at": "2026-09-08T10:24:53.007557",
     "source": "biorio",
     "tmdb": {
       "id": 62,
@@ -76,7 +76,7 @@
       "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
       "release_date": "1968-04-02",
       "rating": 8.045,
-      "vote_count": 12904,
+      "vote_count": 12909,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -151,8 +151,8 @@
           "tags": [
             "Rendez-Vous"
           ],
-          "ticketsSold": 2,
-          "ticketsAvailable": 178,
+          "ticketsSold": 7,
+          "ticketsAvailable": 173,
           "isPublished": true
         },
         "normalized_datetime": "2026-10-13T16:00:00",
@@ -163,15 +163,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-07T11:17:36.279518",
+    "scraped_at": "2026-09-08T10:25:15.278379",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
       "title": "Mars Express",
       "overview": "In 2200, private detective Aline Ruby and her android partner Carlos Rivera are hired by a wealthy businessman to track down a notorious hacker. On Mars, they descend deep into the underbelly of the planet's capital city where they uncover a darker story of brain farms, political corruption, and a missing girl who holds a secret about the robots that threatens to change the face of the universe.",
       "release_date": "2023-11-22",
-      "rating": 7.471,
-      "vote_count": 581,
+      "rating": 7.472,
+      "vote_count": 582,
       "genres": [
         "Animation",
         "Science Fiction",
