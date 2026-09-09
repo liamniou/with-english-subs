@@ -53,11 +53,15 @@
             {
               "id": 1,
               "name": "Ordinarie"
+            },
+            {
+              "id": 35,
+              "name": "Tony + Nirvanna"
             }
           ],
           "tags": [],
-          "ticketsSold": 104,
-          "ticketsAvailable": 76,
+          "ticketsSold": 116,
+          "ticketsAvailable": 64,
           "isPublished": true
         },
         "normalized_datetime": "2026-09-09T18:00:00",
@@ -68,15 +72,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-08T10:24:53.007557",
+    "scraped_at": "2026-09-09T10:34:40.758549",
     "source": "biorio",
     "tmdb": {
       "id": 62,
       "title": "2001: A Space Odyssey",
       "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
       "release_date": "1968-04-02",
-      "rating": 8.045,
-      "vote_count": 12909,
+      "rating": 8.0,
+      "vote_count": 12914,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -146,6 +150,10 @@
             {
               "id": 1,
               "name": "Ordinarie"
+            },
+            {
+              "id": 35,
+              "name": "Tony + Nirvanna"
             }
           ],
           "tags": [
@@ -163,7 +171,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-08T10:25:15.278379",
+    "scraped_at": "2026-09-09T10:35:06.802980",
     "source": "biorio",
     "tmdb": {
       "id": 586810,

@@ -1,57 +1,5 @@
 [
   {
-    "film_id": "musikal-cabaret",
-    "url": "https://www.capitolbio.se/filmer/musikal-cabaret/82",
-    "title": "Musikal: Cabaret",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "I Weimar-republikens Berlin, på 1930-talet, jobbar den unga amerikanskan på Kit-Kat Club, där förälskelsen drabbar henne två gånger om. Samtidigt tar sig långsamt nazisterna till makten.\nBob Fosses åttafaldigt Oscarbelönade musikal från 1972 blev Liza Minnellis stora genombrott. Som dotter till Judy Garland tog hon med bravur vidare familjens traditioner och vann en statyett för sin huvudroll som nattklubbssångerskan Sally Bowles.\n\nFler klassiker att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/82/1920/48ce7514-464f-4a58-a5b8-a0e3698921cc.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-08T18:00:00",
-        "display_text": "Tuesday 8 September 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "08.09",
-        "ticket_url": "https://www.capitolbio.se/boka/51751",
-        "booking_id": "51751",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-08T18:00:00",
-        "normalized_date": "08.09",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-09-08T10:25:45.466298+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 10784,
-      "title": "Cabaret",
-      "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
-      "release_date": "1972-02-13",
-      "rating": 7.417,
-      "vote_count": 1005,
-      "genres": [
-        "Music",
-        "Romance",
-        "Drama"
-      ],
-      "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
-      "backdrop_path": "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
-      "imdb_id": "tt0068327",
-      "runtime": 124,
-      "budget": 4600000,
-      "revenue": 42800000
-    }
-  },
-  {
     "film_id": "afternoon-tea-dress-along-med-chicago",
     "url": "https://www.capitolbio.se/filmer/afternoon-tea-dress-along-med-chicago/4535",
     "title": "Afternoon Tea: Dress-Along med Chicago",
@@ -79,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-08T10:25:45.466360+00:00",
+    "scraped_at": "2026-09-09T10:35:43.704035+00:00",
     "source": "capitolbio"
   },
   {
@@ -110,15 +58,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-08T10:25:45.466380+00:00",
+    "scraped_at": "2026-09-09T10:35:43.704082+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
       "title": "Salò, or the 120 Days of Sodom",
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
-      "rating": 6.336,
-      "vote_count": 2358,
+      "rating": 6.335,
+      "vote_count": 2360,
       "genres": [
         "Horror",
         "Drama"
@@ -161,7 +109,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-08T10:25:45.466398+00:00",
+    "scraped_at": "2026-09-09T10:35:43.704100+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -182,6 +130,57 @@
       "runtime": 68,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "valley-of-the-dolls",
+    "url": "https://www.capitolbio.se/filmer/valley-of-the-dolls/4529",
+    "title": "Valley of the Dolls",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Kultklassiker fån 1967 \n\nMed Sharon Tate som en djupt olycklig partytjej som missbrukar piller. Valley of the Dolls bygger på den skandalomsusade romanen med samma namn, blev en biosuccé 1967 och har sedan dess uppnått kultstatus.\n\nBaserad på Jacqueline Susanns bok med samma namn från 1966.\n\nFler klassiker att boka hittar du här",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4529/1920/29f611a2-0e09-4523-9c1c-20592baef959.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-16T18:00:00",
+        "display_text": "Wednesday 16 September 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "16.09",
+        "ticket_url": "https://www.capitolbio.se/boka/51705",
+        "booking_id": "51705",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-16T18:00:00",
+        "normalized_date": "16.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-09-09T10:35:43.704119+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 3055,
+      "title": "Valley of the Dolls",
+      "overview": "Lured by their dreams of fame and fortune, three ambitious young women enter the world of show business and discover how easy it is to sink into a celebrity nightmare of ego, alcohol and pills — the beloved \"dolls.\"",
+      "release_date": "1967-12-27",
+      "rating": 6.0,
+      "vote_count": 150,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
+      "backdrop_path": "/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
+      "imdb_id": "tt0062430",
+      "runtime": 123,
+      "budget": 5000000,
+      "revenue": 50000000
     }
   },
   {
@@ -212,7 +211,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-08T10:25:45.466432+00:00",
+    "scraped_at": "2026-09-09T10:35:43.704154+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
@@ -263,7 +262,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-08T10:25:45.466451+00:00",
+    "scraped_at": "2026-09-09T10:35:43.704169+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
@@ -314,7 +313,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-08T10:25:45.466469+00:00",
+    "scraped_at": "2026-09-09T10:35:43.704185+00:00",
     "source": "capitolbio"
   },
   {
@@ -359,14 +358,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-08T10:25:45.466489+00:00",
+    "scraped_at": "2026-09-09T10:35:43.704203+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 142773,
       "title": "Queen: Budapest",
       "overview": "On July 27, 1986, Queen performed the largest-ever stadium concert at the Népstadion in Budapest in front of 80,000 ecstatic fans. The concert was part of the famed Magic Tour, which was the last time the band toured with lead singer Freddie Mercury.",
       "release_date": "2012-09-20",
-      "rating": 8.213,
+      "rating": 8.2,
       "vote_count": 80,
       "genres": [
         "Music"
@@ -409,7 +408,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-08T10:25:45.466521+00:00",
+    "scraped_at": "2026-09-09T10:35:43.704234+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1392469,
@@ -460,15 +459,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-08T10:25:45.466542+00:00",
+    "scraped_at": "2026-09-09T10:35:43.704253+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 837,
       "title": "Videodrome",
       "overview": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
       "release_date": "1983-02-04",
-      "rating": 7.25,
-      "vote_count": 2556,
+      "rating": 7.2,
+      "vote_count": 2558,
       "genres": [
         "Horror",
         "Science Fiction",
@@ -512,7 +511,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-08T10:25:45.466559+00:00",
+    "scraped_at": "2026-09-09T10:35:43.704268+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 31526,
@@ -564,7 +563,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-08T10:25:45.466575+00:00",
+    "scraped_at": "2026-09-09T10:35:43.704283+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9871,
@@ -615,15 +614,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-08T10:25:45.466591+00:00",
+    "scraped_at": "2026-09-09T10:35:43.704297+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 21484,
       "title": "Possession",
       "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
       "release_date": "1981-05-27",
-      "rating": 7.324,
-      "vote_count": 1415,
+      "rating": 7.323,
+      "vote_count": 1416,
       "genres": [
         "Horror"
       ],
@@ -665,7 +664,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-08T10:25:45.466607+00:00",
+    "scraped_at": "2026-09-09T10:35:43.704311+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 25623,

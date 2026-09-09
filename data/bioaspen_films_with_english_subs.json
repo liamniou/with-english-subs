@@ -26,15 +26,15 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-08T10:24:20.765761+00:00",
+    "scraped_at": "2026-09-09T10:34:05.487209+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 999075,
       "title": "Left-Handed Girl",
       "overview": "A mother and her two daughters move to Taipei to open a noodle stand at a vibrant night market, but family secrets and tradition test their fresh start.",
       "release_date": "2025-09-17",
-      "rating": 7.269,
-      "vote_count": 193,
+      "rating": 7.273,
+      "vote_count": 194,
       "genres": [
         "Drama"
       ],
@@ -75,7 +75,37 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-08T10:24:20.765802+00:00",
+    "scraped_at": "2026-09-09T10:34:05.487245+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "hazama-free-short-film-event",
+    "url": "https://www.bioaspen.se/movies/hazama-free-short-film-event/",
+    "title": "Hazama - short film event",
+    "director": "",
+    "duration": "0 tim 15 min",
+    "language": "JP",
+    "description": "hej@bioaspen.sehttps://www.instagram.com/bioaspen/https://www.facebook.com/bioaspenhttps://www.tiktok.com/@bio.aspen",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7183/1080/283c87bf-c197-4b71-9352-f5b605f1e43c.jpeg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-24T19:00:00",
+        "display_text": "Thursday 24 September 2026 at 19:00",
+        "time": "19:00",
+        "date_section": "24.09",
+        "ticket_url": "https://www.bioaspen.se/movies/hazama-free-short-film-event/",
+        "hall": "Salong 1",
+        "audio_language": "JP",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-24T19:00:00",
+        "normalized_date": "24.09",
+        "normalized_time": "19:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-09-09T10:34:05.487261+00:00",
     "source": "bioaspen"
   },
   {
@@ -105,7 +135,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-08T10:24:20.765819+00:00",
+    "scraped_at": "2026-09-09T10:34:05.487278+00:00",
     "source": "bioaspen"
   },
   {
@@ -135,7 +165,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-08T10:24:20.765837+00:00",
+    "scraped_at": "2026-09-09T10:34:05.487292+00:00",
     "source": "bioaspen"
   },
   {
@@ -165,7 +195,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-08T10:24:20.765851+00:00",
+    "scraped_at": "2026-09-09T10:34:05.487306+00:00",
     "source": "bioaspen"
   },
   {
@@ -195,7 +225,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-08T10:24:20.765865+00:00",
+    "scraped_at": "2026-09-09T10:34:05.487319+00:00",
     "source": "bioaspen"
   },
   {
@@ -225,7 +255,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-08T10:24:20.765878+00:00",
+    "scraped_at": "2026-09-09T10:34:05.487336+00:00",
     "source": "bioaspen"
   },
   {
@@ -255,7 +285,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-08T10:24:20.765896+00:00",
+    "scraped_at": "2026-09-09T10:34:05.487352+00:00",
     "source": "bioaspen"
   },
   {
@@ -285,7 +315,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-08T10:24:20.765912+00:00",
+    "scraped_at": "2026-09-09T10:34:05.487366+00:00",
     "source": "bioaspen"
   },
   {
@@ -315,7 +345,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-08T10:24:20.765927+00:00",
+    "scraped_at": "2026-09-09T10:34:05.487378+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1605919,
@@ -365,7 +395,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-08T10:24:20.765940+00:00",
+    "scraped_at": "2026-09-09T10:34:05.487392+00:00",
     "source": "bioaspen"
   },
   {
@@ -395,7 +425,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-08T10:24:20.765953+00:00",
+    "scraped_at": "2026-09-09T10:34:05.487405+00:00",
     "source": "bioaspen"
   },
   {
@@ -425,7 +455,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-08T10:24:20.765966+00:00",
+    "scraped_at": "2026-09-09T10:34:05.487418+00:00",
     "source": "bioaspen"
   }
 ]
