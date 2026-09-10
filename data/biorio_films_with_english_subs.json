@@ -1,102 +1,5 @@
 [
   {
-    "film_id": "ar-2001---ett-rymdaventyr",
-    "url": "https://www.biorio.se/sv/filmer/ar-2001---ett-rymdaventyr",
-    "title": "År 2001 - ett rymdäventyr",
-    "director": "Stanley Kubrick",
-    "showtimes": [
-      {
-        "datetime": "2026-09-09T18:00:00.000Z",
-        "display_text": "Wednesday September 09, 2026 at 18:00",
-        "movie_id": "4924",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2522",
-        "api_data": {
-          "id": 2522,
-          "movieId": 4924,
-          "movieVersionId": 50,
-          "startTime": "2026-09-09T18:00:00.000Z",
-          "endTime": "2026-09-09T20:30:00.000Z",
-          "screenId": 1,
-          "screenNumber": 1,
-          "language": null,
-          "subtitles": null,
-          "membersOnly": false,
-          "screeningLive": true,
-          "isArchived": false,
-          "onlineAvailableFrom": null,
-          "includeInReport": true,
-          "movie": {
-            "id": 4924,
-            "title": "År 2001 - ett rymdäventyr",
-            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/4924/posters/1742311015588-9ob7i.jpg",
-            "movieVersions": [
-              {
-                "duration": 150,
-                "audio": "Engelska",
-                "subtitles": "Engelska"
-              }
-            ],
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "MovieVersion": {
-            "id": 50,
-            "duration": 150,
-            "subtitles": "Engelska",
-            "audio": "Engelska"
-          },
-          "screen": {
-            "capacity": 180
-          },
-          "TicketTypes": [
-            {
-              "id": 1,
-              "name": "Ordinarie"
-            },
-            {
-              "id": 35,
-              "name": "Tony + Nirvanna"
-            }
-          ],
-          "tags": [],
-          "ticketsSold": 116,
-          "ticketsAvailable": 64,
-          "isPublished": true
-        },
-        "normalized_datetime": "2026-09-09T18:00:00",
-        "normalized_date": "09.09",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-09-09T10:34:40.758549",
-    "source": "biorio",
-    "tmdb": {
-      "id": 62,
-      "title": "2001: A Space Odyssey",
-      "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
-      "release_date": "1968-04-02",
-      "rating": 8.0,
-      "vote_count": 12914,
-      "genres": [
-        "Science Fiction",
-        "Mystery",
-        "Adventure"
-      ],
-      "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
-      "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
-      "imdb_id": "tt0062622",
-      "runtime": 149,
-      "budget": 12000000,
-      "revenue": 71923560
-    }
-  },
-  {
     "film_id": "mars-express",
     "url": "https://www.biorio.se/sv/filmer/mars-express",
     "title": "Mars Express",
@@ -171,14 +74,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-09T10:35:06.802980",
+    "scraped_at": "2026-09-10T10:23:18.277207",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
       "title": "Mars Express",
       "overview": "In 2200, private detective Aline Ruby and her android partner Carlos Rivera are hired by a wealthy businessman to track down a notorious hacker. On Mars, they descend deep into the underbelly of the planet's capital city where they uncover a darker story of brain farms, political corruption, and a missing girl who holds a secret about the robots that threatens to change the face of the universe.",
       "release_date": "2023-11-22",
-      "rating": 7.472,
+      "rating": 7.5,
       "vote_count": 582,
       "genres": [
         "Animation",
@@ -193,6 +96,99 @@
       "runtime": 89,
       "budget": 7900000,
       "revenue": 1455713
+    }
+  },
+  {
+    "film_id": "ar-2001---ett-rymdaventyr",
+    "url": "https://www.biorio.se/sv/filmer/ar-2001---ett-rymdaventyr",
+    "title": "År 2001 - ett rymdäventyr",
+    "director": "Stanley Kubrick",
+    "showtimes": [
+      {
+        "datetime": "2026-10-15T18:15:00.000Z",
+        "display_text": "Thursday October 15, 2026 at 18:15",
+        "movie_id": "4924",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2738",
+        "api_data": {
+          "id": 2738,
+          "movieId": 4924,
+          "movieVersionId": 50,
+          "startTime": "2026-10-15T18:15:00.000Z",
+          "endTime": "2026-10-15T20:45:00.000Z",
+          "screenId": 1,
+          "screenNumber": 1,
+          "language": null,
+          "subtitles": null,
+          "membersOnly": false,
+          "screeningLive": true,
+          "isArchived": false,
+          "onlineAvailableFrom": null,
+          "includeInReport": true,
+          "movie": {
+            "id": 4924,
+            "title": "År 2001 - ett rymdäventyr",
+            "posterurl": "https://rio.ams3.digitaloceanspaces.com/movies/movies/4924/posters/1742311015588-9ob7i.jpg",
+            "movieVersions": [
+              {
+                "duration": 150,
+                "audio": "Engelska",
+                "subtitles": "Engelska"
+              }
+            ],
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "MovieVersion": {
+            "id": 50,
+            "duration": 150,
+            "subtitles": "Engelska",
+            "audio": "Engelska"
+          },
+          "screen": {
+            "capacity": 180
+          },
+          "TicketTypes": [
+            {
+              "id": 1,
+              "name": "Ordinarie"
+            }
+          ],
+          "tags": [],
+          "ticketsSold": 0,
+          "ticketsAvailable": 180,
+          "isPublished": true
+        },
+        "normalized_datetime": "2026-10-15T18:15:00",
+        "normalized_date": "15.10",
+        "normalized_time": "18:15"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-09-10T10:23:20.356777",
+    "source": "biorio",
+    "tmdb": {
+      "id": 62,
+      "title": "2001: A Space Odyssey",
+      "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+      "release_date": "1968-04-02",
+      "rating": 8.045,
+      "vote_count": 12916,
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Adventure"
+      ],
+      "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+      "imdb_id": "tt0062622",
+      "runtime": 149,
+      "budget": 12000000,
+      "revenue": 71923560
     }
   }
 ]
