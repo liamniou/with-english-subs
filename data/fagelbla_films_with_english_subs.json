@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-10T10:30:20.450183+00:00",
+    "scraped_at": "2026-09-11T10:25:19.608700+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 26372,
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-10T10:30:20.451972+00:00",
+    "scraped_at": "2026-09-11T10:25:19.610411+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -76,7 +76,7 @@
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
       "rating": 7.614,
-      "vote_count": 4562,
+      "vote_count": 4563,
       "genres": [
         "Comedy",
         "Romance",
@@ -115,15 +115,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-10T10:30:20.452261+00:00",
+    "scraped_at": "2026-09-11T10:25:19.610690+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1058424,
       "title": "Hope",
       "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
       "release_date": "2026-07-15",
-      "rating": 8.2,
-      "vote_count": 32,
+      "rating": 8.139,
+      "vote_count": 36,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -162,7 +162,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-10T10:30:20.452804+00:00",
+    "scraped_at": "2026-09-11T10:25:19.611180+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -170,7 +170,7 @@
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
       "rating": 7.614,
-      "vote_count": 4562,
+      "vote_count": 4563,
       "genres": [
         "Comedy",
         "Romance",

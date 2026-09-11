@@ -1,31 +1,5 @@
 [
   {
-    "film_id": "på-armlängds-avstånd",
-    "url": "https://zita.se/pa-armlangds-avstand",
-    "title": "På armlängds avstånd",
-    "director": "",
-    "genre": "",
-    "duration": "Sverige45 minMockumentär, satir...🔍Theodor ÖsterbergSvenskaEngelska",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "18:00",
-        "time": "18:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5975",
-        "normalized_datetime": "2026-09-10T18:00:00",
-        "normalized_date": "10.09",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-09-10T10:31:21.985729+00:00",
-    "source": "zita"
-  },
-  {
     "film_id": "the-gleaners-and-i",
     "url": "https://zita.se/the-gleaners-and-i",
     "title": "The Gleaners and I",
@@ -48,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-09-10T10:31:25.696241+00:00",
+    "scraped_at": "2026-09-11T10:26:43.852125+00:00",
     "source": "zita",
     "tmdb": {
       "id": 44379,

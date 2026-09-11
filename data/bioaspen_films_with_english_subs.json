@@ -26,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-10T10:22:27.673351+00:00",
+    "scraped_at": "2026-09-11T10:23:35.319991+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 999075,
@@ -75,7 +75,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-10T10:22:27.673395+00:00",
+    "scraped_at": "2026-09-11T10:23:35.320031+00:00",
     "source": "bioaspen"
   },
   {
@@ -105,7 +105,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-10T10:22:27.673411+00:00",
+    "scraped_at": "2026-09-11T10:23:35.320047+00:00",
     "source": "bioaspen"
   },
   {
@@ -135,7 +135,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-10T10:22:27.673430+00:00",
+    "scraped_at": "2026-09-11T10:23:35.320065+00:00",
     "source": "bioaspen"
   },
   {
@@ -165,7 +165,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-10T10:22:27.673444+00:00",
+    "scraped_at": "2026-09-11T10:23:35.320079+00:00",
     "source": "bioaspen"
   },
   {
@@ -195,7 +195,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-10T10:22:27.673458+00:00",
+    "scraped_at": "2026-09-11T10:23:35.320092+00:00",
     "source": "bioaspen"
   },
   {
@@ -225,7 +225,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-10T10:22:27.673471+00:00",
+    "scraped_at": "2026-09-11T10:23:35.320109+00:00",
     "source": "bioaspen"
   },
   {
@@ -255,7 +255,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-10T10:22:27.673489+00:00",
+    "scraped_at": "2026-09-11T10:23:35.320125+00:00",
     "source": "bioaspen"
   },
   {
@@ -285,8 +285,58 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-10T10:22:27.673505+00:00",
+    "scraped_at": "2026-09-11T10:23:35.320141+00:00",
     "source": "bioaspen"
+  },
+  {
+    "film_id": "national-theatre-the-misanthrope",
+    "url": "https://www.bioaspen.se/movies/national-theatre-the-misanthrope/",
+    "title": "National Theatre: The Misanthrope",
+    "director": "Indhu Rubasingham",
+    "duration": "2 tim 30 min",
+    "language": "EN",
+    "description": "Att säga sanningen är inte alltid så enkelt. Alice, en briljant romanförfattare, föraktar det moderna samhällets välpolerade lögner. Men ju mer hon utmanar människorna omkring sig, desto hårdare blir motreaktionerna. Snart tvingas hon konfrontera priset för att stå upp för sin sanning i en värld som hellre vill tysta henne.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7207/1080/ca3af5d9-08fc-460d-98f0-d00e9356b3da.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-04T17:30:00",
+        "display_text": "Sunday 4 October 2026 at 17:30",
+        "time": "17:30",
+        "date_section": "04.10",
+        "ticket_url": "https://www.bioaspen.se/movies/national-theatre-the-misanthrope/",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-04T17:30:00",
+        "normalized_date": "04.10",
+        "normalized_time": "17:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-09-11T10:23:35.320155+00:00",
+    "source": "bioaspen",
+    "tmdb": {
+      "id": 1693710,
+      "title": "National Theatre Live: The Misanthrope",
+      "overview": "Alice, a brilliant novelist, despises the hollow contemporary mantras of kindness and respect. But the bolder she becomes in speaking out, the more colleagues avoid her, and the more her personal relationships begin to fracture. As she challenges fashionable ideas and lends her voice to causes others are afraid to touch, she faces intense criticism and backlash. Alice will soon learn the price she must pay as an artist and as a woman for daring to speak her mind. Award-winner Sandra Oh is the Misanthrope in Martin Crimp's cutting new version of Molière's dark comedy, directed by National Theatre Director Indhu Rubasingham.",
+      "release_date": "2026-09-22",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster_path": "/d9IOrH7HY4Q5fMNAxq3NtVwGfLM.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d9IOrH7HY4Q5fMNAxq3NtVwGfLM.jpg",
+      "backdrop_path": "/odug5Awh1Xl2NZqvns6xMXDpDYs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/odug5Awh1Xl2NZqvns6xMXDpDYs.jpg",
+      "imdb_id": "tt42715304",
+      "runtime": 150,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "phantoms-of-july",
@@ -315,7 +365,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-10T10:22:27.673520+00:00",
+    "scraped_at": "2026-09-11T10:23:35.320168+00:00",
     "source": "bioaspen"
   },
   {
@@ -345,7 +395,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-10T10:22:27.673533+00:00",
+    "scraped_at": "2026-09-11T10:23:35.320182+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1605919,
@@ -395,7 +445,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-10T10:22:27.673547+00:00",
+    "scraped_at": "2026-09-11T10:23:35.320194+00:00",
     "source": "bioaspen"
   },
   {
@@ -425,7 +475,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-10T10:22:27.673561+00:00",
+    "scraped_at": "2026-09-11T10:23:35.320208+00:00",
     "source": "bioaspen"
   },
   {
@@ -455,7 +505,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-10T10:22:27.673574+00:00",
+    "scraped_at": "2026-09-11T10:23:35.320221+00:00",
     "source": "bioaspen"
   }
 ]
