@@ -27,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-11T10:24:58.926851+00:00",
+    "scraped_at": "2026-09-12T09:55:25.589799+00:00",
     "source": "capitolbio"
   },
   {
@@ -58,7 +58,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-11T10:24:58.926902+00:00",
+    "scraped_at": "2026-09-12T09:55:25.589845+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 5336,
@@ -66,7 +66,7 @@
       "overview": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
       "release_date": "1976-01-10",
       "rating": 6.331,
-      "vote_count": 2362,
+      "vote_count": 2364,
       "genres": [
         "Horror",
         "Drama"
@@ -109,7 +109,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-11T10:24:58.926920+00:00",
+    "scraped_at": "2026-09-12T09:55:25.589856+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3063,
@@ -130,6 +130,57 @@
       "runtime": 68,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "valley-of-the-dolls",
+    "url": "https://www.capitolbio.se/filmer/valley-of-the-dolls/4529",
+    "title": "Valley of the Dolls",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Kultklassiker fån 1967 \n\nMed Sharon Tate som en djupt olycklig partytjej som missbrukar piller. Valley of the Dolls bygger på den skandalomsusade romanen med samma namn, blev en biosuccé 1967 och har sedan dess uppnått kultstatus.\n\nBaserad på Jacqueline Susanns bok med samma namn från 1966.\n\nFler klassiker att boka hittar du här",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4529/1920/29f611a2-0e09-4523-9c1c-20592baef959.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-16T18:00:00",
+        "display_text": "Wednesday 16 September 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "16.09",
+        "ticket_url": "https://www.capitolbio.se/boka/51705",
+        "booking_id": "51705",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-16T18:00:00",
+        "normalized_date": "16.09",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-09-12T09:55:25.589866+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 3055,
+      "title": "Valley of the Dolls",
+      "overview": "Lured by their dreams of fame and fortune, three ambitious young women enter the world of show business and discover how easy it is to sink into a celebrity nightmare of ego, alcohol and pills — the beloved \"dolls.\"",
+      "release_date": "1967-12-27",
+      "rating": 6.0,
+      "vote_count": 150,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
+      "backdrop_path": "/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
+      "imdb_id": "tt0062430",
+      "runtime": 123,
+      "budget": 5000000,
+      "revenue": 50000000
     }
   },
   {
@@ -160,7 +211,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-11T10:24:58.926936+00:00",
+    "scraped_at": "2026-09-12T09:55:25.589883+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 3537,
@@ -211,7 +262,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-11T10:24:58.926958+00:00",
+    "scraped_at": "2026-09-12T09:55:25.589893+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
@@ -262,7 +313,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-11T10:24:58.926973+00:00",
+    "scraped_at": "2026-09-12T09:55:25.589903+00:00",
     "source": "capitolbio"
   },
   {
@@ -307,7 +358,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-11T10:24:58.926988+00:00",
+    "scraped_at": "2026-09-12T09:55:25.589915+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 142773,
@@ -357,15 +408,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-11T10:24:58.927020+00:00",
+    "scraped_at": "2026-09-12T09:55:25.589934+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1392469,
       "title": "Cocktail 2",
       "overview": "A vacation in Sicily forces longtime partners Diya and Kunal to question their love and commitment after they reunite with Diya's old friend Ally.",
       "release_date": "2026-06-19",
-      "rating": 5.917,
-      "vote_count": 30,
+      "rating": 5.515,
+      "vote_count": 34,
       "genres": [
         "Romance",
         "Comedy"
@@ -378,6 +429,58 @@
       "runtime": 150,
       "budget": 15872640,
       "revenue": 12947333
+    }
+  },
+  {
+    "film_id": "valerie-and-her-week-of-wonders-med-per-faxneld",
+    "url": "https://www.capitolbio.se/filmer/valerie-and-her-week-of-wonders-med-per-faxneld/4599",
+    "title": "Valerie and Her Week of Wonders med Per Faxneld",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Välkommen på esoterisk afton av Evil Dead II\n\nVampyrer, häxor och onda präster i gotisk-surrealistisk tjeckoslovakisk klassiker från 1970. Med sitt magnifika bildspråk och Luboš Fišers kusliga psykedeliska soundtrack har denna anti-katolska feberdröm behållit all sin sprängkraft. Filmen kom att påverka bland annat författaren Angela Carter och regissörer som Neil Jordan och Guillermo del Toro. Ett delirium höljt i vit spets, droppande blod och prunkande blommor – som du aldrig kommer vilja lämna!  \n\nInnan visningen håller Per Faxneld, professor i religionsvetenskap, en introduktion om den märkliga roman filmen är baserad på och de traditioner som inspirerade regissören.\n\nOBS, inga återköp eller byten gäller på föreläsningar.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4599/1920/f5bc51ee-8daa-40ef-82dd-4cf22e3e6ea4.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-14T20:15:00",
+        "display_text": "Wednesday 14 October 2026 at 20:15",
+        "time": "20:15",
+        "date_section": "14.10",
+        "ticket_url": "https://www.capitolbio.se/boka/52515",
+        "booking_id": "52515",
+        "hall": "Salong 2",
+        "audio_language": "CS",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-14T20:15:00",
+        "normalized_date": "14.10",
+        "normalized_time": "20:15"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-09-12T09:55:25.589947+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 46315,
+      "title": "Valerie and Her Week of Wonders",
+      "overview": "Valerie, a Czechoslovakian teenager living with her grandmother, is blossoming into womanhood, but that transformation proves secondary to the effects she experiences when she puts on a pair of magic earrings. Now seeing the world around her in a different light, Valerie must endure her sexual awakening while attempting to discern reality from fantasy as she encounters lecherous priest Gracian, a vampire-like stranger and otherworldly carnival folk.",
+      "release_date": "1970-10-16",
+      "rating": 7.0,
+      "vote_count": 319,
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Drama"
+      ],
+      "poster_path": "/lY0IkdouazLBpPYot8dsPAsJqHK.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lY0IkdouazLBpPYot8dsPAsJqHK.jpg",
+      "backdrop_path": "/cygF3MFce4MDpvyqDQXNvZiytc4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cygF3MFce4MDpvyqDQXNvZiytc4.jpg",
+      "imdb_id": "tt0066516",
+      "runtime": 73,
+      "budget": 0,
+      "revenue": 0
     }
   },
   {
@@ -408,7 +511,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-11T10:24:58.927038+00:00",
+    "scraped_at": "2026-09-12T09:55:25.589956+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 837,
@@ -460,7 +563,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-11T10:24:58.927055+00:00",
+    "scraped_at": "2026-09-12T09:55:25.589965+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 31526,
@@ -512,7 +615,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-11T10:24:58.927069+00:00",
+    "scraped_at": "2026-09-12T09:55:25.589997+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9871,
@@ -563,15 +666,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-11T10:24:58.927085+00:00",
+    "scraped_at": "2026-09-12T09:55:25.590007+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 21484,
       "title": "Possession",
       "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
       "release_date": "1981-05-27",
-      "rating": 7.319,
-      "vote_count": 1419,
+      "rating": 7.324,
+      "vote_count": 1422,
       "genres": [
         "Horror"
       ],
@@ -613,15 +716,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-11T10:24:58.927098+00:00",
+    "scraped_at": "2026-09-12T09:55:25.590017+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 25623,
       "title": "House",
       "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye.",
       "release_date": "1977-08-26",
-      "rating": 7.329,
-      "vote_count": 822,
+      "rating": 7.327,
+      "vote_count": 823,
       "genres": [
         "Comedy",
         "Fantasy",

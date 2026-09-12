@@ -53,10 +53,6 @@
             {
               "id": 1,
               "name": "Ordinarie"
-            },
-            {
-              "id": 35,
-              "name": "Tony + Nirvanna"
             }
           ],
           "tags": [
@@ -74,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-11T10:24:24.292957",
+    "scraped_at": "2026-09-12T09:54:50.378776",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
@@ -155,8 +151,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 2,
-          "ticketsAvailable": 178,
+          "ticketsSold": 3,
+          "ticketsAvailable": 177,
           "isPublished": true
         },
         "normalized_datetime": "2026-10-15T18:15:00",
@@ -167,7 +163,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-11T10:24:26.429328",
+    "scraped_at": "2026-09-12T09:54:52.392948",
     "source": "biorio",
     "tmdb": {
       "id": 62,
@@ -175,7 +171,7 @@
       "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
       "release_date": "1968-04-02",
       "rating": 8.045,
-      "vote_count": 12919,
+      "vote_count": 12922,
       "genres": [
         "Science Fiction",
         "Mystery",
