@@ -1,68 +1,5 @@
 [
   {
-    "film_id": "les-liaisons-dangereuses",
-    "url": "https://kulturhusetstadsteatern.se/bio/les-liaisons-dangereuses",
-    "title": "Les Liaisons Dangereuses",
-    "director": "",
-    "duration": "3 tim inkl 1 paus",
-    "language": "",
-    "description": "En ny iscensättning av hyllade Les Liaisons Dangereuses (Farliga förbindelser), regisserad av Marianne Elliott. Lesley Manville och Aidan Turner spelar huvudrollerna i detta gripande drama om makt, begär och förförelse; filmat på National Theatre i London.",
-    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-03/Les%20Liaisons%20Dangereuses_affisch.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-12T17:00:00+02:00",
-        "display_text": "Saturday 12 September 2026 at 17:00",
-        "time": "17:00",
-        "date_section": "12.09",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/30106/123868/",
-        "tix_event_id": 123868,
-        "tix_event_group_id": 30106,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-09-12T17:00:00",
-        "normalized_date": "12.09",
-        "normalized_time": "17:00"
-      },
-      {
-        "datetime": "2026-10-09T18:00:00+02:00",
-        "display_text": "Friday 9 October 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "09.10",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/30106/123869/",
-        "tix_event_id": 123869,
-        "tix_event_group_id": 30106,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-10-09T18:00:00",
-        "normalized_date": "09.10",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Klarabiografen"
-    ],
-    "scraped_at": "2026-09-12T10:02:55.768738+00:00",
-    "source": "klarabiografen",
-    "tmdb": {
-      "id": 968739,
-      "title": "Dangerous Liaisons",
-      "overview": "The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.",
-      "release_date": "2022-07-08",
-      "rating": 5.9,
-      "vote_count": 323,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/opTwqTgREzvP67ERVrqt0ApXbeV.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/opTwqTgREzvP67ERVrqt0ApXbeV.jpg",
-      "backdrop_path": "/bW62WOLYzax1WSG6tDTuJ5dBdT7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bW62WOLYzax1WSG6tDTuJ5dBdT7.jpg",
-      "imdb_id": "tt15548032",
-      "runtime": 109,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "top-hat-musical",
     "url": "https://kulturhusetstadsteatern.se/bio/top-hat-musical",
     "title": "Top Hat - The Musical",
@@ -89,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-12T10:02:55.768855+00:00",
+    "scraped_at": "2026-09-13T11:01:37.163701+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1679401,
@@ -153,7 +90,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-12T10:02:55.769072+00:00",
+    "scraped_at": "2026-09-13T11:01:37.163961+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 511684,
@@ -172,6 +109,56 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/x7oPJoXAnGlWZhzDl7CqGvQcguU.jpg",
       "imdb_id": "tt0184741",
       "runtime": 115,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "les-liaisons-dangereuses",
+    "url": "https://kulturhusetstadsteatern.se/bio/les-liaisons-dangereuses",
+    "title": "Les Liaisons Dangereuses",
+    "director": "",
+    "duration": "3 tim inkl 1 paus",
+    "language": "",
+    "description": "En ny iscensättning av hyllade Les Liaisons Dangereuses (Farliga förbindelser), regisserad av Marianne Elliott. Lesley Manville och Aidan Turner spelar huvudrollerna i detta gripande drama om makt, begär och förförelse; filmat på National Theatre i London.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-03/Les%20Liaisons%20Dangereuses_affisch.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-09T18:00:00+02:00",
+        "display_text": "Friday 9 October 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "09.10",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/30106/123869/",
+        "tix_event_id": 123869,
+        "tix_event_group_id": 30106,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-10-09T18:00:00",
+        "normalized_date": "09.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-09-13T11:01:37.164100+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 968739,
+      "title": "Dangerous Liaisons",
+      "overview": "The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.",
+      "release_date": "2022-07-08",
+      "rating": 5.9,
+      "vote_count": 323,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/opTwqTgREzvP67ERVrqt0ApXbeV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/opTwqTgREzvP67ERVrqt0ApXbeV.jpg",
+      "backdrop_path": "/bW62WOLYzax1WSG6tDTuJ5dBdT7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bW62WOLYzax1WSG6tDTuJ5dBdT7.jpg",
+      "imdb_id": "tt15548032",
+      "runtime": 109,
       "budget": 0,
       "revenue": 0
     }
@@ -203,7 +190,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-12T10:02:55.769222+00:00",
+    "scraped_at": "2026-09-13T11:01:37.164197+00:00",
     "source": "klarabiografen"
   },
   {
@@ -233,7 +220,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-12T10:02:55.769314+00:00",
+    "scraped_at": "2026-09-13T11:01:37.164329+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 526031,
@@ -282,7 +269,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-12T10:02:55.769350+00:00",
+    "scraped_at": "2026-09-13T11:01:37.164379+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -333,7 +320,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-12T10:02:55.769524+00:00",
+    "scraped_at": "2026-09-13T11:01:37.164611+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -383,7 +370,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-12T10:02:55.769582+00:00",
+    "scraped_at": "2026-09-13T11:01:37.164689+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1422112,
