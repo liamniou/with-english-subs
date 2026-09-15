@@ -1,8 +1,8 @@
 [
   {
-    "film_id": "the-gleaners-and-i",
+    "film_id": "efterskörd",
     "url": "https://zita.se/the-gleaners-and-i",
-    "title": "The Gleaners and I",
+    "title": "Efterskörd",
     "director": "",
     "genre": "Les glaneurs et la glaneuse Les glaneurs et la...🔍Frankrike1 jan 200882 minDokumentärNonstop EntertainmentFranskaEngelska",
     "duration": "",
@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-09-14T11:36:58.422728+00:00",
+    "scraped_at": "2026-09-15T10:59:32.500243+00:00",
     "source": "zita",
     "tmdb": {
       "id": 44379,
