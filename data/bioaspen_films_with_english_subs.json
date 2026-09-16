@@ -26,15 +26,15 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-15T10:49:05.173884+00:00",
+    "scraped_at": "2026-09-16T10:38:11.700543+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 999075,
       "title": "Left-Handed Girl",
       "overview": "A mother and her two daughters move to Taipei to open a noodle stand at a vibrant night market, but family secrets and tradition test their fresh start.",
       "release_date": "2025-09-17",
-      "rating": 7.273,
-      "vote_count": 194,
+      "rating": 7.272,
+      "vote_count": 195,
       "genres": [
         "Drama"
       ],
@@ -75,7 +75,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-15T10:49:05.173939+00:00",
+    "scraped_at": "2026-09-16T10:38:11.700581+00:00",
     "source": "bioaspen"
   },
   {
@@ -105,7 +105,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-15T10:49:05.173956+00:00",
+    "scraped_at": "2026-09-16T10:38:11.700597+00:00",
     "source": "bioaspen"
   },
   {
@@ -135,7 +135,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-15T10:49:05.173973+00:00",
+    "scraped_at": "2026-09-16T10:38:11.700614+00:00",
     "source": "bioaspen"
   },
   {
@@ -165,7 +165,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-15T10:49:05.173988+00:00",
+    "scraped_at": "2026-09-16T10:38:11.700627+00:00",
     "source": "bioaspen"
   },
   {
@@ -195,7 +195,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-15T10:49:05.174001+00:00",
+    "scraped_at": "2026-09-16T10:38:11.700640+00:00",
     "source": "bioaspen"
   },
   {
@@ -225,7 +225,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-15T10:49:05.174017+00:00",
+    "scraped_at": "2026-09-16T10:38:11.700656+00:00",
     "source": "bioaspen"
   },
   {
@@ -255,7 +255,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-15T10:49:05.174033+00:00",
+    "scraped_at": "2026-09-16T10:38:11.700672+00:00",
     "source": "bioaspen"
   },
   {
@@ -285,7 +285,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-15T10:49:05.174049+00:00",
+    "scraped_at": "2026-09-16T10:38:11.700687+00:00",
     "source": "bioaspen"
   },
   {
@@ -315,7 +315,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-15T10:49:05.174063+00:00",
+    "scraped_at": "2026-09-16T10:38:11.700701+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1693710,
@@ -365,7 +365,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-15T10:49:05.174077+00:00",
+    "scraped_at": "2026-09-16T10:38:11.700714+00:00",
     "source": "bioaspen"
   },
   {
@@ -395,7 +395,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-15T10:49:05.174090+00:00",
+    "scraped_at": "2026-09-16T10:38:11.700727+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1605919,
@@ -445,7 +445,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-15T10:49:05.174104+00:00",
+    "scraped_at": "2026-09-16T10:38:11.700740+00:00",
     "source": "bioaspen"
   },
   {
@@ -475,7 +475,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-15T10:49:05.174117+00:00",
+    "scraped_at": "2026-09-16T10:38:11.700753+00:00",
     "source": "bioaspen"
   },
   {
@@ -505,7 +505,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-15T10:49:05.174130+00:00",
+    "scraped_at": "2026-09-16T10:38:11.700766+00:00",
     "source": "bioaspen"
   }
 ]
