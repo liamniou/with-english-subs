@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-17T10:47:42.159661",
+    "scraped_at": "2026-09-18T10:23:45.937042",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
@@ -151,8 +151,8 @@
             }
           ],
           "tags": [],
-          "ticketsSold": 3,
-          "ticketsAvailable": 177,
+          "ticketsSold": 7,
+          "ticketsAvailable": 173,
           "isPublished": true
         },
         "normalized_datetime": "2026-10-15T18:15:00",
@@ -163,15 +163,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-17T10:47:44.382916",
+    "scraped_at": "2026-09-18T10:23:48.188363",
     "source": "biorio",
     "tmdb": {
       "id": 62,
       "title": "2001: A Space Odyssey",
       "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
       "release_date": "1968-04-02",
-      "rating": 8.0,
-      "vote_count": 12930,
+      "rating": 8.045,
+      "vote_count": 12931,
       "genres": [
         "Science Fiction",
         "Mystery",

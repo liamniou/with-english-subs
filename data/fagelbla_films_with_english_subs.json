@@ -1,51 +1,5 @@
 [
   {
-    "film_id": "taxi-driver",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Taxi Driver",
-    "director": "Martin Scorsese",
-    "duration": "1h 54 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2026-09-17T20:30:00+02:00",
-        "display_text": "Torsdag, 17th September 20:30",
-        "time": "20:30",
-        "date_section": "Torsdag, 17th September",
-        "ticket_url": "https://biofagelbla.se/movie/taxi-driver/?showtime=58680",
-        "showtime_id": "58680",
-        "normalized_datetime": "2026-09-17T20:30:00",
-        "normalized_date": "17.09",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-09-17T10:55:20.817617+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 103,
-      "title": "Taxi Driver",
-      "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
-      "release_date": "1976-02-09",
-      "rating": 8.121,
-      "vote_count": 13784,
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
-      "backdrop_path": "/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
-      "imdb_id": "tt0075314",
-      "runtime": 114,
-      "budget": 1900000,
-      "revenue": 28579636
-    }
-  },
-  {
     "film_id": "breakfast-at-tiffanys",
     "url": "https://biofagelbla.se/program/",
     "title": "Breakfast at Tiffany’s",
@@ -68,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-17T10:55:20.818964+00:00",
+    "scraped_at": "2026-09-18T10:24:52.157922+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -115,15 +69,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-17T10:55:20.819254+00:00",
+    "scraped_at": "2026-09-18T10:24:52.158271+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1058424,
       "title": "Hope",
       "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
       "release_date": "2026-07-15",
-      "rating": 7.4,
-      "vote_count": 65,
+      "rating": 7.371,
+      "vote_count": 70,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -162,7 +116,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-17T10:55:20.820320+00:00",
+    "scraped_at": "2026-09-18T10:24:52.159544+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,

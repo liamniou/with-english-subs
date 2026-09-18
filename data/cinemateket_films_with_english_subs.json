@@ -1431,23 +1431,23 @@
     ],
     "scraped_at": "2026-09-17T10:53:17.208143",
     "tmdb": {
-      "id": 464144,
-      "title": "Awakening",
-      "overview": "1952, Budapest. Kati is thirteen years old when her mother dies. Her father works as a founder at the Miskolc foundry, deprived of his former position of director-engineer. Kati is left alone in their flat, transformed into a place crowded with tenants. That is, not quite: in her imagination her mother is alive again, for she still needs her.",
-      "release_date": "1995-10-05",
-      "rating": 10.0,
-      "vote_count": 1,
+      "id": 1645551,
+      "title": "Spring Wind - The Awakening",
+      "overview": "Follows the birth of a political and social movement from the inside, with Péter Magyar as its face. For more than a year, the filmmakers accompanied him on country tours, campaign sites, and background conversations, as well as being present in those quiet, intimate moments – many times in his own home – that have remained hidden from the public until now.",
+      "release_date": "2026-03-12",
+      "rating": 8.2,
+      "vote_count": 10,
       "genres": [
-        "Drama"
+        "Documentary"
       ],
-      "poster_path": "/tYJVUzFsmlPBcuc3GUVcrg7ZmDv.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tYJVUzFsmlPBcuc3GUVcrg7ZmDv.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt0111864",
-      "runtime": 104,
+      "poster_path": "/9mvoVo2I7HeODEjFl1ryH66sc5x.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9mvoVo2I7HeODEjFl1ryH66sc5x.jpg",
+      "backdrop_path": "/o7WlgJCVD1bUN2Ig4a8Y4hWZB1n.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/o7WlgJCVD1bUN2Ig4a8Y4hWZB1n.jpg",
+      "imdb_id": "tt40381358",
+      "runtime": 101,
       "budget": 0,
-      "revenue": 0
+      "revenue": 940144
     }
   },
   {
