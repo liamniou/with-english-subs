@@ -27,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-18T10:22:57.917708+00:00",
+    "scraped_at": "2026-09-19T10:06:10.768112+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1397364,
@@ -57,7 +57,7 @@
     "duration": "106 min",
     "language": "Indonesiska",
     "description": "I ett indonesiskt fängelse lever fångarna i ständig rädsla för både vakter och varandra. När en ny mystisk fånge anländer börjar en osynlig övernaturlig entitet brutalt mörda fångarna och arrangera liken som blodiga konstverk. Entiteten ger sig på de fångar som har mest negativ aura, så fångarna börjar tävla om att vara snälla – men i ett system byggt på orättvisa är det nästan omöjligt att vara snäll.",
-    "poster_url": "https://mars-images.imgix.net/1789716499026?auto=compress&w=1200&fit=max",
+    "poster_url": "https://images.filmgrail.com/1789716499026?optimizer=image&width=1200",
     "showtimes": [
       {
         "datetime": "2026-10-24T20:00:00",
@@ -77,14 +77,14 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-18T10:23:09.254214+00:00",
+    "scraped_at": "2026-09-19T10:06:23.317615+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1393326,
       "title": "Ghost in the Cell",
       "overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
       "release_date": "2026-04-16",
-      "rating": 7.208,
+      "rating": 7.2,
       "vote_count": 65,
       "genres": [
         "Horror",
@@ -129,7 +129,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-18T10:23:10.220574+00:00",
+    "scraped_at": "2026-09-19T10:06:24.388955+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1314122,
@@ -180,7 +180,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-18T10:23:12.232258+00:00",
+    "scraped_at": "2026-09-19T10:06:26.446553+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1468846,
@@ -231,7 +231,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-18T10:23:13.124959+00:00",
+    "scraped_at": "2026-09-19T10:06:27.404689+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 110160,

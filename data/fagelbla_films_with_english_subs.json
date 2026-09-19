@@ -22,14 +22,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-18T10:24:52.157922+00:00",
+    "scraped_at": "2026-09-19T10:13:09.410500+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.614,
+      "rating": 7.6,
       "vote_count": 4566,
       "genres": [
         "Comedy",
@@ -69,15 +69,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-18T10:24:52.158271+00:00",
+    "scraped_at": "2026-09-19T10:13:09.410768+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1058424,
       "title": "Hope",
       "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
       "release_date": "2026-07-15",
-      "rating": 7.371,
-      "vote_count": 70,
+      "rating": 7.4,
+      "vote_count": 76,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -116,14 +116,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-18T10:24:52.159544+00:00",
+    "scraped_at": "2026-09-19T10:13:09.411740+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.614,
+      "rating": 7.6,
       "vote_count": 4566,
       "genres": [
         "Comedy",
@@ -138,6 +138,52 @@
       "runtime": 115,
       "budget": 2500000,
       "revenue": 9500000
+    }
+  },
+  {
+    "film_id": "barry-lyndon",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Barry Lyndon",
+    "director": "Stanley Kubrick",
+    "duration": "3h 5 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-11-03T19:45:00+01:00",
+        "display_text": "Tisdag, 3rd November 19:45",
+        "time": "19:45",
+        "date_section": "Tisdag, 3rd November",
+        "ticket_url": "https://biofagelbla.se/movie/barry-lyndon/?showtime=59544",
+        "showtime_id": "59544",
+        "normalized_datetime": "2026-11-03T19:45:00",
+        "normalized_date": "03.11",
+        "normalized_time": "19:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-09-19T10:13:09.412072+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 3175,
+      "title": "Barry Lyndon",
+      "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
+      "release_date": "1975-12-16",
+      "rating": 7.999,
+      "vote_count": 3284,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "poster_path": "/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
+      "backdrop_path": "/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
+      "imdb_id": "tt0072684",
+      "runtime": 188,
+      "budget": 11000000,
+      "revenue": 31500000
     }
   }
 ]
