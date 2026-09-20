@@ -27,15 +27,15 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-19T10:06:10.768112+00:00",
+    "scraped_at": "2026-09-20T10:24:41.461224+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1397364,
       "title": "La Grazia",
       "overview": "As his tenure as President of Italy nears its end, Mariano De Santis faces wrenching decisions-both political and deeply personal. Amid these moral quandaries, he must confront his own conscience and seek guidance from those closest to him, including his confidante and daughter, Dorotea.",
       "release_date": "2025-12-05",
-      "rating": 7.307,
-      "vote_count": 443,
+      "rating": 7.306,
+      "vote_count": 444,
       "genres": [
         "Drama"
       ],
@@ -77,15 +77,15 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-19T10:06:23.317615+00:00",
+    "scraped_at": "2026-09-20T10:24:53.382954+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1393326,
       "title": "Ghost in the Cell",
       "overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
       "release_date": "2026-04-16",
-      "rating": 7.2,
-      "vote_count": 65,
+      "rating": 7.201,
+      "vote_count": 67,
       "genres": [
         "Horror",
         "Comedy",
@@ -129,7 +129,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-19T10:06:24.388955+00:00",
+    "scraped_at": "2026-09-20T10:24:54.363838+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1314122,
@@ -180,7 +180,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-19T10:06:26.446553+00:00",
+    "scraped_at": "2026-09-20T10:24:56.313549+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1468846,
@@ -231,14 +231,14 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-19T10:06:27.404689+00:00",
+    "scraped_at": "2026-09-20T10:24:57.196037+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 110160,
       "title": "Laurence Anyways",
       "overview": "The story of an impossible love between a woman named Fred and a transgender woman named Laurence who reveals her inner desire to become her true self.",
       "release_date": "2012-05-18",
-      "rating": 7.6,
+      "rating": 7.611,
       "vote_count": 918,
       "genres": [
         "Drama",

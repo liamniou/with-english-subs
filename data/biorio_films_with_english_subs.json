@@ -70,7 +70,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-19T10:06:50.419503",
+    "scraped_at": "2026-09-20T10:25:20.013243",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
@@ -163,7 +163,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-19T10:06:52.472554",
+    "scraped_at": "2026-09-20T10:25:22.167126",
     "source": "biorio",
     "tmdb": {
       "id": 62,
@@ -171,7 +171,7 @@
       "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
       "release_date": "1968-04-02",
       "rating": 8.045,
-      "vote_count": 12933,
+      "vote_count": 12941,
       "genres": [
         "Science Fiction",
         "Mystery",
