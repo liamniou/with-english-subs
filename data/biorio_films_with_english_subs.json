@@ -70,15 +70,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-20T10:25:20.013243",
+    "scraped_at": "2026-09-21T11:41:57.739474",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
       "title": "Mars Express",
       "overview": "In 2200, private detective Aline Ruby and her android partner Carlos Rivera are hired by a wealthy businessman to track down a notorious hacker. On Mars, they descend deep into the underbelly of the planet's capital city where they uncover a darker story of brain farms, political corruption, and a missing girl who holds a secret about the robots that threatens to change the face of the universe.",
       "release_date": "2023-11-22",
-      "rating": 7.467,
-      "vote_count": 586,
+      "rating": 7.466,
+      "vote_count": 587,
       "genres": [
         "Animation",
         "Science Fiction",
@@ -163,7 +163,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-20T10:25:22.167126",
+    "scraped_at": "2026-09-21T11:42:00.032673",
     "source": "biorio",
     "tmdb": {
       "id": 62,
@@ -171,7 +171,7 @@
       "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
       "release_date": "1968-04-02",
       "rating": 8.045,
-      "vote_count": 12941,
+      "vote_count": 12947,
       "genres": [
         "Science Fiction",
         "Mystery",
