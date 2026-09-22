@@ -1,56 +1,5 @@
 [
   {
-    "film_id": "fame-1980",
-    "url": "https://www.capitolbio.se/filmer/fame-1980/226",
-    "title": "Fame (1980)",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "På New York City High School tränas studenterna i dans, sång och skådespeleri. De tänjer sina gränser till max för att lyckas i den stenhårda artistvärlden. Vi följer gatusmarta Coco (Irene Cara), blyga Doris (Maureen Teefy), homosexuelle Montgomery (Paul McCrane), tuffingen Raul (Barry Miller), känslige Bruno (Lee Curreri) och de andra i kampen för att nå sina drömmar om framgång och berömmelse samtidigt som de brottas med vanliga tonårsproblem som ensamhet, osäkerhet och att hitta sig själva. Irene Cara, som spelar sångerskan Coco, lyser i sin skådespelarprestation. Filmen belönades med två Oscar och är sprängfylld med fantastiska, till synes spontana dansnummer och inspirerande musik.\n\nFler klassiker att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/226/1920/8e350c96-5d55-451a-9ee5-bb0e87e4b61e.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-21T17:45:00",
-        "display_text": "Monday 21 September 2026 at 17:45",
-        "time": "17:45",
-        "date_section": "21.09",
-        "ticket_url": "https://www.capitolbio.se/boka/51704",
-        "booking_id": "51704",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-21T17:45:00",
-        "normalized_date": "21.09",
-        "normalized_time": "17:45"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-09-21T11:42:41.290358+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 3537,
-      "title": "Fame",
-      "overview": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
-      "release_date": "1980-05-16",
-      "rating": 6.436,
-      "vote_count": 533,
-      "genres": [
-        "Drama",
-        "Music"
-      ],
-      "poster_path": "/ewuGn4kxsqbYfgSO8Y5kzYlBcKE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ewuGn4kxsqbYfgSO8Y5kzYlBcKE.jpg",
-      "backdrop_path": "/jekdv0OUnppLnpbPdBIkwCoeENo.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jekdv0OUnppLnpbPdBIkwCoeENo.jpg",
-      "imdb_id": "tt0080716",
-      "runtime": 134,
-      "budget": 8500000,
-      "revenue": 42000000
-    }
-  },
-  {
     "film_id": "kickboxer-1989",
     "url": "https://www.capitolbio.se/filmer/kickboxer-1989/4528",
     "title": "Kickboxer (1989)",
@@ -78,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-21T11:42:41.290404+00:00",
+    "scraped_at": "2026-09-22T10:46:11.588903+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
@@ -129,7 +78,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-21T11:42:41.290421+00:00",
+    "scraped_at": "2026-09-22T10:46:11.588949+00:00",
     "source": "capitolbio"
   },
   {
@@ -174,7 +123,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-21T11:42:41.290437+00:00",
+    "scraped_at": "2026-09-22T10:46:11.588963+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 142773,
@@ -225,15 +174,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-21T11:42:41.290475+00:00",
+    "scraped_at": "2026-09-22T10:46:11.588986+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1392469,
       "title": "Cocktail 2",
       "overview": "A vacation in Sicily forces longtime partners Diya and Kunal to question their love and commitment after they reunite with Diya's old friend Ally.",
       "release_date": "2026-06-19",
-      "rating": 5.529,
-      "vote_count": 35,
+      "rating": 5.597,
+      "vote_count": 36,
       "genres": [
         "Romance",
         "Comedy"
@@ -276,14 +225,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-21T11:42:41.290490+00:00",
+    "scraped_at": "2026-09-22T10:46:11.589001+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 46315,
       "title": "Valerie and Her Week of Wonders",
       "overview": "Valerie, a Czechoslovakian teenager living with her grandmother, is blossoming into womanhood, but that transformation proves secondary to the effects she experiences when she puts on a pair of magic earrings. Now seeing the world around her in a different light, Valerie must endure her sexual awakening while attempting to discern reality from fantasy as she encounters lecherous priest Gracian, a vampire-like stranger and otherworldly carnival folk.",
       "release_date": "1970-10-16",
-      "rating": 6.995,
+      "rating": 7.0,
       "vote_count": 322,
       "genres": [
         "Fantasy",
@@ -328,15 +277,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-21T11:42:41.290507+00:00",
+    "scraped_at": "2026-09-22T10:46:11.589012+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 837,
       "title": "Videodrome",
       "overview": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
       "release_date": "1983-02-04",
-      "rating": 7.25,
-      "vote_count": 2568,
+      "rating": 7.249,
+      "vote_count": 2570,
       "genres": [
         "Horror",
         "Science Fiction",
@@ -380,7 +329,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-21T11:42:41.290525+00:00",
+    "scraped_at": "2026-09-22T10:46:11.589026+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 31526,
@@ -432,7 +381,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-21T11:42:41.290541+00:00",
+    "scraped_at": "2026-09-22T10:46:11.589040+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9871,
@@ -483,15 +432,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-21T11:42:41.290558+00:00",
+    "scraped_at": "2026-09-22T10:46:11.589052+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 21484,
       "title": "Possession",
       "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
       "release_date": "1981-05-27",
-      "rating": 7.323,
-      "vote_count": 1435,
+      "rating": 7.318,
+      "vote_count": 1438,
       "genres": [
         "Horror"
       ],
@@ -533,15 +482,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-21T11:42:41.290573+00:00",
+    "scraped_at": "2026-09-22T10:46:11.589068+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 25623,
       "title": "House",
       "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye.",
       "release_date": "1977-08-26",
-      "rating": 7.334,
-      "vote_count": 832,
+      "rating": 7.3,
+      "vote_count": 833,
       "genres": [
         "Comedy",
         "Fantasy",
@@ -555,58 +504,6 @@
       "runtime": 88,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "singalong-moulin-rouge",
-    "url": "https://www.capitolbio.se/filmer/singalong-moulin-rouge/2061",
-    "title": "Singalong: Moulin Rouge",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Älskade singalongfavoriten Moulin Rouge är tillbaka på Capitol!\n\nAllsångsledare för kvällen är Martina Huzell.\n\nKom gärna i god tid och ladda upp i foajébaren! Partyt fortsätter sedan i salongen.\n\nEn passionerad poet faller för en vacker kurtisan i den exotiska kärleksmusikal av fantasifulla regissören Baz Luhrman (Romeo+Julia och Strictly Ballroom). Stjärnorna Nicole Kidman och Ewan McGregor gör fantastiska rolltolkningar och tar dig med på en fascinerande och romantisk resa i en häpnadsväckande och sensuell värld på nattklubben Moulin Rouge i Paris. Filmen är hypnotiserande, full med sprudlande underhållning och massor av moderna hits som gör Moulin Rouge till en upplevelse som du sent kommer att glömma!\n\nOBS, inga återköp gäller på singalonger.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/2061/1920/067cf25e-e6dd-4863-90b0-bb0e14aba26f.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-11-16T18:10:00",
-        "display_text": "Monday 16 November 2026 at 18:10",
-        "time": "18:10",
-        "date_section": "16.11",
-        "ticket_url": "https://www.capitolbio.se/boka/52595",
-        "booking_id": "52595",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-11-16T18:10:00",
-        "normalized_date": "16.11",
-        "normalized_time": "18:10"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-09-21T11:42:41.290588+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 824,
-      "title": "Moulin Rouge!",
-      "overview": "A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet, who is plunged into the heady world of Moulin Rouge, begins a passionate affair with the club's most notorious and beautiful star.",
-      "release_date": "2001-05-18",
-      "rating": 7.518,
-      "vote_count": 4946,
-      "genres": [
-        "Drama",
-        "Romance",
-        "Music"
-      ],
-      "poster_path": "/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
-      "backdrop_path": "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
-      "imdb_id": "tt0203009",
-      "runtime": 128,
-      "budget": 52500000,
-      "revenue": 179213434
     }
   }
 ]

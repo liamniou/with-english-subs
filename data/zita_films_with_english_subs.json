@@ -9,9 +9,9 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "i morgon 18:00",
+        "display_text": "18:00",
         "time": "18:00",
-        "date": "i morgon",
+        "date": "",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5955",
         "normalized_datetime": "2026-09-22T18:00:00",
@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-09-21T11:50:24.552219+00:00",
+    "scraped_at": "2026-09-22T10:52:33.825820+00:00",
     "source": "zita",
     "tmdb": {
       "id": 44379,
@@ -30,7 +30,7 @@
       "overview": "Varda focuses her eye on gleaners: those who scour already-reaped fields for the odd potato or turnip. Her investigation leads from forgotten corners of the French countryside to off-hours at the green markets of Paris, following those who insist on finding a use for that which society has cast off, whether out of necessity or activism.",
       "release_date": "2000-07-07",
       "rating": 7.7,
-      "vote_count": 229,
+      "vote_count": 230,
       "genres": [
         "Documentary"
       ],

@@ -39,7 +39,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-21T11:49:22.368584+00:00",
+    "scraped_at": "2026-09-22T10:51:41.701286+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 511684,
@@ -60,6 +60,56 @@
       "runtime": 115,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "persepolis-banned-books-week",
+    "url": "https://kulturhusetstadsteatern.se/bio/persepolis-banned-books-week",
+    "title": "Persepolis (Banned Books Week)",
+    "director": "",
+    "duration": "Film 1 tim 36 min + samtal",
+    "language": "",
+    "description": "Teheran 1978. Marjane är åtta år gammal och funderar över framtiden. Hon är älskad av sina moderna och kultiverade föräldrar och har en speciell kärlek till sin mormor. Men bakom slöjan fantiserar Marjane om ett liv som revolutionär.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-09/Persepolis.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-06T18:45:00+02:00",
+        "display_text": "Tuesday 6 October 2026 at 18:45",
+        "time": "18:45",
+        "date_section": "06.10",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/32736/134956/",
+        "tix_event_id": 134956,
+        "tix_event_group_id": 32736,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-10-06T18:45:00",
+        "normalized_date": "06.10",
+        "normalized_time": "18:45"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-09-22T10:51:41.701377+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 2011,
+      "title": "Persepolis",
+      "overview": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
+      "release_date": "2007-06-27",
+      "rating": 7.878,
+      "vote_count": 2249,
+      "genres": [
+        "Animation",
+        "Drama"
+      ],
+      "poster_path": "/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg",
+      "backdrop_path": "/4pfb85bv0rKkmslTp2hzAqA7RT4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/4pfb85bv0rKkmslTp2hzAqA7RT4.jpg",
+      "imdb_id": "tt0808417",
+      "runtime": 95,
+      "budget": 7300000,
+      "revenue": 22783990
     }
   },
   {
@@ -89,7 +139,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-21T11:49:22.368761+00:00",
+    "scraped_at": "2026-09-22T10:51:41.701444+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
@@ -139,7 +189,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-21T11:49:22.368880+00:00",
+    "scraped_at": "2026-09-22T10:51:41.701538+00:00",
     "source": "klarabiografen"
   },
   {
@@ -169,7 +219,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-21T11:49:22.369090+00:00",
+    "scraped_at": "2026-09-22T10:51:41.701687+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 526031,
@@ -218,7 +268,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-21T11:49:22.369182+00:00",
+    "scraped_at": "2026-09-22T10:51:41.701772+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -269,7 +319,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-21T11:49:22.369537+00:00",
+    "scraped_at": "2026-09-22T10:51:41.702086+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -319,7 +369,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-21T11:49:22.369684+00:00",
+    "scraped_at": "2026-09-22T10:51:41.702161+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1422112,
