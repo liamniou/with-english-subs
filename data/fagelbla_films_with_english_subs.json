@@ -1,5 +1,52 @@
 [
   {
+    "film_id": "tomorrow-never-dies",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Tomorrow Never Dies",
+    "director": "Roger Spottiswoode",
+    "duration": "1h 59 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-09-25T20:30:00+02:00",
+        "display_text": "Fredag, 25th September 20:30",
+        "time": "20:30",
+        "date_section": "Fredag, 25th September",
+        "ticket_url": "https://biofagelbla.se/movie/tomorrow-never-dies/?showtime=58688",
+        "showtime_id": "58688",
+        "normalized_datetime": "2026-09-25T20:30:00",
+        "normalized_date": "25.09",
+        "normalized_time": "20:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-09-23T10:43:58.326000+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 714,
+      "title": "Tomorrow Never Dies",
+      "overview": "A deranged media mogul is staging international incidents to pit the world's superpowers against each other. Now James Bond must take on this evil mastermind in an adrenaline-charged battle to end his reign of terror and prevent global pandemonium.",
+      "release_date": "1997-12-11",
+      "rating": 6.39,
+      "vote_count": 3556,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Thriller"
+      ],
+      "poster_path": "/gZm002w7q9yLOkltxT76TWGfdZX.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gZm002w7q9yLOkltxT76TWGfdZX.jpg",
+      "backdrop_path": "/fesAgiKA0pc04vScDTAQe1f9nd4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fesAgiKA0pc04vScDTAQe1f9nd4.jpg",
+      "imdb_id": "tt0120347",
+      "runtime": 119,
+      "budget": 110000000,
+      "revenue": 333011068
+    }
+  },
+  {
     "film_id": "breakfast-at-tiffanys",
     "url": "https://biofagelbla.se/program/",
     "title": "Breakfast at Tiffany’s",
@@ -22,15 +69,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-22T10:51:40.097208+00:00",
+    "scraped_at": "2026-09-23T10:43:58.326392+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.614,
-      "vote_count": 4571,
+      "rating": 7.615,
+      "vote_count": 4572,
       "genres": [
         "Comedy",
         "Romance",
@@ -69,15 +116,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-22T10:51:40.097468+00:00",
+    "scraped_at": "2026-09-23T10:43:58.326706+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1058424,
       "title": "Hope",
       "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
       "release_date": "2026-07-15",
-      "rating": 7.38,
-      "vote_count": 83,
+      "rating": 7.4,
+      "vote_count": 85,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -116,15 +163,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-22T10:51:40.098440+00:00",
+    "scraped_at": "2026-09-23T10:43:58.328013+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.614,
-      "vote_count": 4571,
+      "rating": 7.615,
+      "vote_count": 4572,
       "genres": [
         "Comedy",
         "Romance",
@@ -163,14 +210,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-22T10:51:40.098730+00:00",
+    "scraped_at": "2026-09-23T10:43:58.328463+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 3175,
       "title": "Barry Lyndon",
       "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
       "release_date": "1975-12-16",
-      "rating": 7.999,
+      "rating": 8.0,
       "vote_count": 3292,
       "genres": [
         "Drama",

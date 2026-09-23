@@ -1,35 +1,5 @@
 [
   {
-    "film_id": "tyska-tisdagar-im-glanze-dieses-gluckes",
-    "url": "https://www.bioaspen.se/movies/tyska-tisdagar-im-glanze-dieses-gluckes/",
-    "title": "Tyska tisdagar: Im Glanze dieses Glückes",
-    "director": "Tamara Trampe, Johann Feindt, Jeanine Meerapfel, Dieter Schumann, Helga Reidemeister",
-    "duration": "1 tim 25 min",
-    "language": "DE",
-    "description": "Genom samtal med arbetare, skolelever, gränsvakter, poliser, lärare och en tidigare Stasi-officer skildrar dokumentärfilmskollektivetBlick ins Landden osäkerhet, desorientering och omprövning som följde i återföreningens spår. Ett nyktert och närgånget porträtt av livet i skuggan av historiens stora omvälvningar.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/6983/1080/a2a54628-a111-435f-8b1f-99ec6c5f6b71.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-22T18:00:00",
-        "display_text": "Tuesday 22 September 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "22.09",
-        "ticket_url": "https://www.bioaspen.se/movies/tyska-tisdagar-im-glanze-dieses-gluckes/",
-        "hall": "Salong 1",
-        "audio_language": "DE",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-22T18:00:00",
-        "normalized_date": "22.09",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-09-22T10:44:41.849080+00:00",
-    "source": "bioaspen"
-  },
-  {
     "film_id": "hazama-free-short-film-event",
     "url": "https://www.bioaspen.se/movies/hazama-free-short-film-event/",
     "title": "Hazama - short film event",
@@ -56,7 +26,37 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-22T10:44:41.849113+00:00",
+    "scraped_at": "2026-09-23T10:35:14.098703+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "the-virgin-suicides",
+    "url": "https://www.bioaspen.se/movies/the-virgin-suicides/",
+    "title": "The Virgin Suicides - frukostbio",
+    "director": "Sofia Coppola",
+    "duration": "1 tim 33 min",
+    "language": "EN",
+    "description": "Det är 70-tal i en prydlig amerikansk förort. Historien om fem vackra, självmordsbenägna tonårssystrar berättas genom några besatta grannpojkars ögon, som i vuxen ålder fortfarande inte kan glömma det som hände, försöker förstå det obegripliga. Det är som en saga om de guldlockiga flickorna som blir inlåsta av den elaka modern och väntar på att bli räddade av modiga prinsar. Eller ett mytiskt drama där självmord får symbolisera det ofrånkomliga slutet på tonårstidens värld av längtan, lust och förlust: den första kärlekens vånda och rus, avskyvärda föräldrar och en oförglömlig känsla av att leva.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/6927/1080/cc8b9021-1454-452c-bfdd-c05f728aec7c.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-09-27T10:00:00",
+        "display_text": "Sunday 27 September 2026 at 10:00",
+        "time": "10:00",
+        "date_section": "27.09",
+        "ticket_url": "https://www.bioaspen.se/movies/the-virgin-suicides/",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-09-27T10:00:00",
+        "normalized_date": "27.09",
+        "normalized_time": "10:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-09-23T10:35:14.098742+00:00",
     "source": "bioaspen"
   },
   {
@@ -86,7 +86,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-22T10:44:41.849126+00:00",
+    "scraped_at": "2026-09-23T10:35:14.098756+00:00",
     "source": "bioaspen"
   },
   {
@@ -116,7 +116,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-22T10:44:41.849140+00:00",
+    "scraped_at": "2026-09-23T10:35:14.098770+00:00",
     "source": "bioaspen"
   },
   {
@@ -146,7 +146,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-22T10:44:41.849150+00:00",
+    "scraped_at": "2026-09-23T10:35:14.098782+00:00",
     "source": "bioaspen"
   },
   {
@@ -176,7 +176,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-22T10:44:41.849160+00:00",
+    "scraped_at": "2026-09-23T10:35:14.098794+00:00",
     "source": "bioaspen"
   },
   {
@@ -206,7 +206,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-22T10:44:41.849170+00:00",
+    "scraped_at": "2026-09-23T10:35:14.098806+00:00",
     "source": "bioaspen"
   },
   {
@@ -236,7 +236,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-22T10:44:41.849184+00:00",
+    "scraped_at": "2026-09-23T10:35:14.098822+00:00",
     "source": "bioaspen"
   },
   {
@@ -266,7 +266,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-22T10:44:41.849196+00:00",
+    "scraped_at": "2026-09-23T10:35:14.098836+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1693710,
@@ -284,7 +284,7 @@
       "backdrop_path": "/odug5Awh1Xl2NZqvns6xMXDpDYs.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/odug5Awh1Xl2NZqvns6xMXDpDYs.jpg",
       "imdb_id": "tt42715304",
-      "runtime": 150,
+      "runtime": 105,
       "budget": 0,
       "revenue": 0
     }
@@ -316,7 +316,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-22T10:44:41.849206+00:00",
+    "scraped_at": "2026-09-23T10:35:14.098849+00:00",
     "source": "bioaspen"
   },
   {
@@ -346,7 +346,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-22T10:44:41.849217+00:00",
+    "scraped_at": "2026-09-23T10:35:14.098860+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1605919,
@@ -396,7 +396,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-22T10:44:41.849227+00:00",
+    "scraped_at": "2026-09-23T10:35:14.098872+00:00",
     "source": "bioaspen"
   },
   {
@@ -426,7 +426,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-22T10:44:41.849237+00:00",
+    "scraped_at": "2026-09-23T10:35:14.098884+00:00",
     "source": "bioaspen"
   },
   {
@@ -456,7 +456,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-22T10:44:41.849247+00:00",
+    "scraped_at": "2026-09-23T10:35:14.098896+00:00",
     "source": "bioaspen"
   }
 ]

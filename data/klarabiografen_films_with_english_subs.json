@@ -39,7 +39,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-22T10:51:41.701286+00:00",
+    "scraped_at": "2026-09-23T10:44:00.163070+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 511684,
@@ -69,7 +69,7 @@
     "director": "",
     "duration": "Film 1 tim 36 min + samtal",
     "language": "",
-    "description": "Teheran 1978. Marjane är åtta år gammal och funderar över framtiden. Hon är älskad av sina moderna och kultiverade föräldrar och har en speciell kärlek till sin mormor. Men bakom slöjan fantiserar Marjane om ett liv som revolutionär.",
+    "description": "Teheran 1978. Marjane är åtta år gammal och funderar över sin framtid i Iran efter den islamistiska revolutionen. Hon är uppväxt i en modern och sekulär familj, är älskad av sina föräldrar och hyser en speciell kärlek till sin mormor. Men bakom slöjan fantiserar Marjane om ett liv som revolutionär. ",
     "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-09/Persepolis.jpg",
     "showtimes": [
       {
@@ -89,7 +89,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-22T10:51:41.701377+00:00",
+    "scraped_at": "2026-09-23T10:44:00.163169+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 2011,
@@ -139,7 +139,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-22T10:51:41.701444+00:00",
+    "scraped_at": "2026-09-23T10:44:00.163259+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
@@ -189,8 +189,57 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-22T10:51:41.701538+00:00",
+    "scraped_at": "2026-09-23T10:44:00.163362+00:00",
     "source": "klarabiografen"
+  },
+  {
+    "film_id": "fogo-do-vento-ny-europeisk-film-portugal",
+    "url": "https://kulturhusetstadsteatern.se/bio/fogo-do-vento-ny-europeisk-film-portugal",
+    "title": "Fogo do Vento (Ny europeisk film - Portugal)",
+    "director": "",
+    "duration": "1 tim 30 min",
+    "language": "",
+    "description": "Ny europeisk film/ New European Film is back! This filmseries aims to put the spotlight on new European cinema from new directors across the continent.\r\nTicket price is 60 SEK and all the films are subtitled in English.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-09/FDV_CARTAZ_CMYK_70X100_300DPI_6.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-04T18:00:00+01:00",
+        "display_text": "Wednesday 4 November 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "04.11",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/32753/135037/",
+        "tix_event_id": 135037,
+        "tix_event_group_id": 32753,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-11-04T18:00:00",
+        "normalized_date": "04.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-09-23T10:44:00.163562+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 1315107,
+      "title": "Fire of Wind",
+      "overview": "The vine bore fruit, and it's harvest time. Soraia, a young girl, cuts herself. Blood mixes with wine. A black bull is on the loose. Up in the oak trees, time swells, and a community takes shelter. They share bread and wine, memories and dreams, the history of a landscape. We enter a long night, where nature also speaks. The fiery wind that brings the heatwaves, it's burning.",
+      "release_date": "2026-05-21",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/p7VusEWuJ1CPupCPBGtfBYHwkhR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p7VusEWuJ1CPupCPBGtfBYHwkhR.jpg",
+      "backdrop_path": "/sRzdRwUGuDMVkT2gMWGjjtyvM2x.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sRzdRwUGuDMVkT2gMWGjjtyvM2x.jpg",
+      "imdb_id": "tt32881169",
+      "runtime": 72,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "golden-boy-national-theatre",
@@ -219,7 +268,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-22T10:51:41.701687+00:00",
+    "scraped_at": "2026-09-23T10:44:00.163583+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 526031,
@@ -268,7 +317,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-22T10:51:41.701772+00:00",
+    "scraped_at": "2026-09-23T10:44:00.163722+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -319,7 +368,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-22T10:51:41.702086+00:00",
+    "scraped_at": "2026-09-23T10:44:00.164004+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -369,7 +418,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-09-22T10:51:41.702161+00:00",
+    "scraped_at": "2026-09-23T10:44:00.164086+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1422112,

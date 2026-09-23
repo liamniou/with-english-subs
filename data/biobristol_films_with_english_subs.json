@@ -27,15 +27,15 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-22T10:45:10.655396+00:00",
+    "scraped_at": "2026-09-23T10:35:43.395710+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1393326,
       "title": "Ghost in the Cell",
       "overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
       "release_date": "2026-04-16",
-      "rating": 7.201,
-      "vote_count": 67,
+      "rating": 7.2,
+      "vote_count": 72,
       "genres": [
         "Horror",
         "Comedy",
@@ -79,7 +79,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-22T10:45:11.764479+00:00",
+    "scraped_at": "2026-09-23T10:35:44.411605+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1314122,
@@ -130,7 +130,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-22T10:45:13.120279+00:00",
+    "scraped_at": "2026-09-23T10:35:46.491970+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1468846,
@@ -181,14 +181,14 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-22T10:45:13.570659+00:00",
+    "scraped_at": "2026-09-23T10:35:47.361479+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 110160,
       "title": "Laurence Anyways",
       "overview": "The story of an impossible love between a woman named Fred and a transgender woman named Laurence who reveals her inner desire to become her true self.",
       "release_date": "2012-05-18",
-      "rating": 7.611,
+      "rating": 7.6,
       "vote_count": 918,
       "genres": [
         "Drama",
