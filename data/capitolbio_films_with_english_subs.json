@@ -27,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-23T10:37:18.424786+00:00",
+    "scraped_at": "2026-09-24T10:56:18.118041+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 10222,
@@ -35,7 +35,7 @@
       "overview": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
       "release_date": "1989-04-20",
       "rating": 6.843,
-      "vote_count": 1630,
+      "vote_count": 1631,
       "genres": [
         "Action",
         "Thriller"
@@ -78,7 +78,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-23T10:37:18.424835+00:00",
+    "scraped_at": "2026-09-24T10:56:18.118096+00:00",
     "source": "capitolbio"
   },
   {
@@ -123,7 +123,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-23T10:37:18.424850+00:00",
+    "scraped_at": "2026-09-24T10:56:18.118117+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 142773,
@@ -145,6 +145,37 @@
       "budget": 0,
       "revenue": 0
     }
+  },
+  {
+    "film_id": "brokeback-mountain-med-samtal",
+    "url": "https://www.capitolbio.se/filmer/brokeback-mountain-med-samtal/4641",
+    "title": "Brokeback Mountain med samtal",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "I samband med International Coming Out Day visas klassikern Brokeback Mountain\n\nVisningen inleds med ett samtal med RFSL Stockholm om filmens betydelse och om att komma ut. Efter filmen genomförs ett samtal med ensemblen från musikalversionen av Brokeback Mountain som har premiär på Intiman den 19:e november.\n\nProgram\n16.00-16.15: Samtal mellan Jennie Graflund från RFSL och journalisten och författaren Emil Åkerö om filmen.\n16.15-18.30: Filmvisning\n18.30-19.00: Emil samtalar med Samuel Astor och Malte Gårdinger om filmen och musikalen.\n\nHandling\nEnnis och Jack möts när de en sommar ska vakta en flock får i bergen vid Brokeback Mountain. Det blir inledningen på en komplicerad och sorglig kärlekshistoria som sträcker sig över 20 år mellan två män som tvingas dölja sin kärlek på grund av omgivningens intolerans.\n\nArrangeras i samarbete med 2Entertain, RFSL Stockholm och produktionsbolaget Nördarnas Drottning och Bitterbögarnas Kung.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4641/1920/660da732-45ed-4bad-9a66-9e7927c442a1.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-11T16:00:00",
+        "display_text": "Sunday 11 October 2026 at 16:00",
+        "time": "16:00",
+        "date_section": "11.10",
+        "ticket_url": "https://www.capitolbio.se/boka/52772",
+        "booking_id": "52772",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-11T16:00:00",
+        "normalized_date": "11.10",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-09-24T10:56:18.118147+00:00",
+    "source": "capitolbio"
   },
   {
     "film_id": "cocktail",
@@ -174,7 +205,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-23T10:37:18.424875+00:00",
+    "scraped_at": "2026-09-24T10:56:18.118169+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 1392469,
@@ -225,14 +256,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-23T10:37:18.424892+00:00",
+    "scraped_at": "2026-09-24T10:56:18.118186+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 46315,
       "title": "Valerie and Her Week of Wonders",
       "overview": "Valerie, a Czechoslovakian teenager living with her grandmother, is blossoming into womanhood, but that transformation proves secondary to the effects she experiences when she puts on a pair of magic earrings. Now seeing the world around her in a different light, Valerie must endure her sexual awakening while attempting to discern reality from fantasy as she encounters lecherous priest Gracian, a vampire-like stranger and otherworldly carnival folk.",
       "release_date": "1970-10-16",
-      "rating": 7.002,
+      "rating": 7.0,
       "vote_count": 323,
       "genres": [
         "Fantasy",
@@ -277,7 +308,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-23T10:37:18.424905+00:00",
+    "scraped_at": "2026-09-24T10:56:18.118205+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 837,
@@ -285,7 +316,7 @@
       "overview": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
       "release_date": "1983-02-04",
       "rating": 7.249,
-      "vote_count": 2570,
+      "vote_count": 2571,
       "genres": [
         "Horror",
         "Science Fiction",
@@ -329,7 +360,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-23T10:37:18.424920+00:00",
+    "scraped_at": "2026-09-24T10:56:18.118224+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 31526,
@@ -381,14 +412,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-23T10:37:18.424935+00:00",
+    "scraped_at": "2026-09-24T10:56:18.118240+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9871,
       "title": "Ginger Snaps",
       "overview": "The story of two outcast sisters, Ginger and Brigitte, in the mindless suburban town of Bailey Downs. On the night of Ginger's first period, she is savagely attacked by a wild creature. Ginger's wounds miraculously heal but something is not quite right. Now Brigitte must save her sister and save herself.",
       "release_date": "2000-12-11",
-      "rating": 6.936,
+      "rating": 6.9,
       "vote_count": 1032,
       "genres": [
         "Horror",
@@ -432,14 +463,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-23T10:37:18.424948+00:00",
+    "scraped_at": "2026-09-24T10:56:18.118258+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 21484,
       "title": "Possession",
       "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
       "release_date": "1981-05-27",
-      "rating": 7.318,
+      "rating": 7.3,
       "vote_count": 1439,
       "genres": [
         "Horror"
@@ -482,7 +513,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-09-23T10:37:18.424964+00:00",
+    "scraped_at": "2026-09-24T10:56:18.118276+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 25623,
@@ -504,6 +535,58 @@
       "runtime": 88,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "singalong-moulin-rouge",
+    "url": "https://www.capitolbio.se/filmer/singalong-moulin-rouge/2061",
+    "title": "Singalong: Moulin Rouge",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Älskade singalongfavoriten Moulin Rouge är tillbaka på Capitol!\n\nAllsångsledare för kvällen är Martina Huzell.\n\nKom gärna i god tid och ladda upp i foajébaren! Partyt fortsätter sedan i salongen.\n\nEn passionerad poet faller för en vacker kurtisan i den exotiska kärleksmusikal av fantasifulla regissören Baz Luhrman (Romeo+Julia och Strictly Ballroom). Stjärnorna Nicole Kidman och Ewan McGregor gör fantastiska rolltolkningar och tar dig med på en fascinerande och romantisk resa i en häpnadsväckande och sensuell värld på nattklubben Moulin Rouge i Paris. Filmen är hypnotiserande, full med sprudlande underhållning och massor av moderna hits som gör Moulin Rouge till en upplevelse som du sent kommer att glömma!\n\nOBS, inga återköp gäller på singalonger.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/2061/1920/067cf25e-e6dd-4863-90b0-bb0e14aba26f.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-16T18:10:00",
+        "display_text": "Monday 16 November 2026 at 18:10",
+        "time": "18:10",
+        "date_section": "16.11",
+        "ticket_url": "https://www.capitolbio.se/boka/52595",
+        "booking_id": "52595",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-16T18:10:00",
+        "normalized_date": "16.11",
+        "normalized_time": "18:10"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-09-24T10:56:18.118292+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 824,
+      "title": "Moulin Rouge!",
+      "overview": "A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet, who is plunged into the heady world of Moulin Rouge, begins a passionate affair with the club's most notorious and beautiful star.",
+      "release_date": "2001-05-18",
+      "rating": 7.517,
+      "vote_count": 4952,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Music"
+      ],
+      "poster_path": "/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+      "backdrop_path": "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+      "imdb_id": "tt0203009",
+      "runtime": 128,
+      "budget": 52500000,
+      "revenue": 179213434
     }
   }
 ]

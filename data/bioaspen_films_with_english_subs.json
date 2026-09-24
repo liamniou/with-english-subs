@@ -26,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-23T10:35:14.098703+00:00",
+    "scraped_at": "2026-09-24T10:54:39.412922+00:00",
     "source": "bioaspen"
   },
   {
@@ -56,7 +56,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-23T10:35:14.098742+00:00",
+    "scraped_at": "2026-09-24T10:54:39.412958+00:00",
     "source": "bioaspen"
   },
   {
@@ -86,7 +86,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-23T10:35:14.098756+00:00",
+    "scraped_at": "2026-09-24T10:54:39.412975+00:00",
     "source": "bioaspen"
   },
   {
@@ -116,7 +116,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-23T10:35:14.098770+00:00",
+    "scraped_at": "2026-09-24T10:54:39.412993+00:00",
     "source": "bioaspen"
   },
   {
@@ -146,7 +146,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-23T10:35:14.098782+00:00",
+    "scraped_at": "2026-09-24T10:54:39.413007+00:00",
     "source": "bioaspen"
   },
   {
@@ -176,7 +176,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-23T10:35:14.098794+00:00",
+    "scraped_at": "2026-09-24T10:54:39.413023+00:00",
     "source": "bioaspen"
   },
   {
@@ -206,7 +206,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-23T10:35:14.098806+00:00",
+    "scraped_at": "2026-09-24T10:54:39.413037+00:00",
     "source": "bioaspen"
   },
   {
@@ -236,7 +236,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-23T10:35:14.098822+00:00",
+    "scraped_at": "2026-09-24T10:54:39.413053+00:00",
     "source": "bioaspen"
   },
   {
@@ -266,7 +266,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-23T10:35:14.098836+00:00",
+    "scraped_at": "2026-09-24T10:54:39.413069+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1693710,
@@ -279,8 +279,8 @@
         "Drama",
         "Comedy"
       ],
-      "poster_path": "/d9IOrH7HY4Q5fMNAxq3NtVwGfLM.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/d9IOrH7HY4Q5fMNAxq3NtVwGfLM.jpg",
+      "poster_path": "/u7Ew5OYKnctM5UIaBOnpum9Yx6C.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/u7Ew5OYKnctM5UIaBOnpum9Yx6C.jpg",
       "backdrop_path": "/odug5Awh1Xl2NZqvns6xMXDpDYs.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/odug5Awh1Xl2NZqvns6xMXDpDYs.jpg",
       "imdb_id": "tt42715304",
@@ -316,7 +316,67 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-23T10:35:14.098849+00:00",
+    "scraped_at": "2026-09-24T10:54:39.413084+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "saccharine",
+    "url": "https://www.bioaspen.se/movies/saccharine/",
+    "title": "Monsters of film: Saccharine",
+    "director": "Natalie Erika James",
+    "duration": "1 tim 53 min",
+    "language": "EN",
+    "description": "Den östasiatiska Hungry Ghost-mytologin möter moderna kroppsideal iNatalie Erika James(Relic)stilrena body horror som hade världspremiär i Sundance Midnight. Filmen är tydlig kommentar till vår tids fixering vid kroppsvikt och användningen av viktminskningspreparat som Ozempic och den destruktiva jakten på en perfekt kropp.Saccharineär både estetisk och äckligt taktil – närbilderna på mat och kroppar som förvandlas är motbjudande men samtidigt läckra och välkomponerade; Hanas inre ångest görs synlig.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7244/1080/f2006ff8-953b-4d29-bb37-3b3ea30f1f8c.jpeg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-20T20:30:00",
+        "display_text": "Tuesday 20 October 2026 at 20:30",
+        "time": "20:30",
+        "date_section": "20.10",
+        "ticket_url": "https://www.bioaspen.se/movies/saccharine/",
+        "hall": "Salong 1",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-20T20:30:00",
+        "normalized_date": "20.10",
+        "normalized_time": "20:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-09-24T10:54:39.413098+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "never-after-dark",
+    "url": "https://www.bioaspen.se/movies/never-after-dark/",
+    "title": "Monsters of film: Never After Dark",
+    "director": "Dave Boyle",
+    "duration": "1 tim 45 min",
+    "language": "JP",
+    "description": "Airi är ett kringvandrande medium som står närmare de döda än de levande. Som ressällskap har hon sin avlidna syster Miku. Airi hjälper rastlösa andar att lämna de levandes värld och hon har nu kallats till en isolerad herrgård på landsbygden. Uppdraget verkar rutinmässigt: fördriv en manlig ande som visar sig när klockan slår 00:05. Men här möter hon en grotesk uppenbarelse med krafter som överträffar allt hon tidigare sett. Ju djupare hon gräver i husets historia, desto mer inser hon att det största hotet inte är det övernaturliga – utan de levande.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7245/1080/c49c6fca-1ce1-4969-98ab-a2b5ba1ac704.jpeg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-21T20:30:00",
+        "display_text": "Wednesday 21 October 2026 at 20:30",
+        "time": "20:30",
+        "date_section": "21.10",
+        "ticket_url": "https://www.bioaspen.se/movies/never-after-dark/",
+        "hall": "Salong 1",
+        "audio_language": "JP",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-21T20:30:00",
+        "normalized_date": "21.10",
+        "normalized_time": "20:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-09-24T10:54:39.413111+00:00",
     "source": "bioaspen"
   },
   {
@@ -346,7 +406,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-23T10:35:14.098860+00:00",
+    "scraped_at": "2026-09-24T10:54:39.413125+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1605919,
@@ -396,7 +456,37 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-23T10:35:14.098872+00:00",
+    "scraped_at": "2026-09-24T10:54:39.413138+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "tre-kortfilmer-av-jani-peltonen-med-regissorssamtal",
+    "url": "https://www.bioaspen.se/movies/tre-kortfilmer-av-jani-peltonen-med-regissorssamtal/",
+    "title": "Tre kortfilmer av Jani Peltonen med regissörssamtal!",
+    "director": "",
+    "duration": "0 tim 57 min",
+    "language": "FI",
+    "description": "Under en kväll fördjupar vi oss i den finska regissören och filmforskaren Jani Peltonens dokumentära verk. I A tall man följer vi Väinö Myllyrinnes liv. Med sin längd på nästan 2,5 meter blev han en av Finlands första internationellt kända personer. I 30 Kilometres per second hör vi en anonym berättarröst som, efter att ha drabbats av en störning i proprioceptionen –förmågan att känna av kroppens rörelser och placering – berättar om det dansförbud som infördes under det finska vinterkriget.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7252/1080/1ef88e3d-4a01-4aa2-9313-5ae5c4648d3b.jpeg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-05T18:15:00",
+        "display_text": "Thursday 5 November 2026 at 18:15",
+        "time": "18:15",
+        "date_section": "05.11",
+        "ticket_url": "https://www.bioaspen.se/movies/tre-kortfilmer-av-jani-peltonen-med-regissorssamtal/",
+        "hall": "Salong 1",
+        "audio_language": "FI",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-05T18:15:00",
+        "normalized_date": "05.11",
+        "normalized_time": "18:15"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-09-24T10:54:39.413151+00:00",
     "source": "bioaspen"
   },
   {
@@ -426,7 +516,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-23T10:35:14.098884+00:00",
+    "scraped_at": "2026-09-24T10:54:39.413164+00:00",
     "source": "bioaspen"
   },
   {
@@ -456,7 +546,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-23T10:35:14.098896+00:00",
+    "scraped_at": "2026-09-24T10:54:39.413177+00:00",
     "source": "bioaspen"
   }
 ]
