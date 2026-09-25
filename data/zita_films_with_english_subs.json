@@ -14,8 +14,8 @@
         "date": "",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5955",
-        "normalized_datetime": "2026-09-24T18:00:00",
-        "normalized_date": "24.09",
+        "normalized_datetime": "2026-09-25T18:00:00",
+        "normalized_date": "25.09",
         "normalized_time": "18:00"
       }
     ],
@@ -29,8 +29,8 @@
       "title": "The Gleaners and I",
       "overview": "Varda focuses her eye on gleaners: those who scour already-reaped fields for the odd potato or turnip. Her investigation leads from forgotten corners of the French countryside to off-hours at the green markets of Paris, following those who insist on finding a use for that which society has cast off, whether out of necessity or activism.",
       "release_date": "2000-07-07",
-      "rating": 7.7,
-      "vote_count": 230,
+      "rating": 7.658,
+      "vote_count": 231,
       "genres": [
         "Documentary"
       ],

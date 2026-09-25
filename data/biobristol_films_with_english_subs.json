@@ -1,1 +1,207 @@
-[]
+[
+  {
+    "film_id": "ghost-in-the-cell",
+    "url": "https://www.biobristol.se/f/ghost-in-the-cell/561",
+    "title": "Ghost in the Cell",
+    "director": "Joko Anwar",
+    "duration": "106 min",
+    "language": "Indonesiska",
+    "description": "I ett indonesiskt fängelse lever fångarna i ständig rädsla för både vakter och varandra. När en ny mystisk fånge anländer börjar en osynlig övernaturlig entitet brutalt mörda fångarna och arrangera liken som blodiga konstverk. Entiteten ger sig på de fångar som har mest negativ aura, så fångarna börjar tävla om att vara snälla – men i ett system byggt på orättvisa är det nästan omöjligt att vara snäll.",
+    "poster_url": "https://images.filmgrail.com/1789716499026?optimizer=image&width=1200",
+    "showtimes": [
+      {
+        "datetime": "2026-10-24T20:00:00",
+        "display_text": "Saturday 24 October 2026 at 20:00",
+        "time": "20:00",
+        "date_section": "24.10",
+        "ticket_url": "https://www.biobristol.se/checkout?showId=6aaceda32c5a6a0c9b63a926",
+        "show_id": "6aaceda32c5a6a0c9b63a926",
+        "hall": "Bristol",
+        "audio_language": "",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-24T20:00:00",
+        "normalized_date": "24.10",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Bristol"
+    ],
+    "scraped_at": "2026-09-25T10:56:51.186225+00:00",
+    "source": "biobristol",
+    "tmdb": {
+      "id": 1393326,
+      "title": "Ghost in the Cell",
+      "overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
+      "release_date": "2026-04-16",
+      "rating": 7.155,
+      "vote_count": 74,
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Thriller"
+      ],
+      "poster_path": "/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg",
+      "backdrop_path": "/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+      "imdb_id": "tt9000310",
+      "runtime": 106,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "bloody-tennis",
+    "url": "https://www.biobristol.se/f/bloody-tennis/562",
+    "title": "Bloody Tennis",
+    "director": "Nikias Chryssos",
+    "duration": "94 min",
+    "language": "Engelska",
+    "description": "** COME TO THE SCREENING WITH A RACKET AND YOU'LL GET A 20% DISCOUNT ON TICKET PRICE - ONLY APPLICABLE IN THE CINEMA ON THE DAY OF THE SCREENING ** \n  \nSophie joins a prestigious tennis academy where the brutality of competitive sports is taken to its extreme and only the hungriest survive.  \n\nAmerikanska Sophie antas till en elit-tennisakademi gömd högt upp i bergen i södra Europa. Där tvingas hon hantera den hårda konkurrensen och brutaliteten bland lagkamraterna och skolans allt mer skumma ritualer. Tävlingsidrotten drivs till sina yttersta gränser med pennalism, psykologisk terror, strikt diet, blodsugande iglar och hårda servar. Sophie lär sig att göra vad som helst för att nå den eftertraktade platsen i Wimbledon.  \n\nNikias Chryssos (Der Bunker, Rave On) gör sin engelskspråkiga debut med en stilren, absurd och mörkt komisk body horror som tar elitidrottens psykologi på allvar - och sedan driver den in i det groteska. Han beskriver filmen som en spegling av ett samhälle där hänsynslöshet belönas mer än medkänsla, där konkurrens och individualitet tränger undan gemenskap, inspirerad av verkliga historier om missbruk och extrem press inom sport. Soundtrack av Jim Williams (Titane, Raw, Possessor). Med danska Sandra Guldberg Kampp som Sophie, Golden Globe-nominerade Helena Zengel, Lucie Zhang (Paris 13:e arrondissement), Zlatko Buric (Triangle of Sadness, Pusher) och Elina Löwensohn (Schindler's List) på rollistan. Filmen hade världspremiär i Locarno.",
+    "poster_url": "https://mars-images.imgix.net/1789716835673?auto=compress&w=1200&fit=max",
+    "showtimes": [
+      {
+        "datetime": "2026-10-24T18:00:00",
+        "display_text": "Saturday 24 October 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "24.10",
+        "ticket_url": "https://www.biobristol.se/checkout?showId=6aaced732c5a6a0c9b63a922",
+        "show_id": "6aaced732c5a6a0c9b63a922",
+        "hall": "Bristol",
+        "audio_language": "",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-24T18:00:00",
+        "normalized_date": "24.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Bristol"
+    ],
+    "scraped_at": "2026-09-25T10:56:52.111417+00:00",
+    "source": "biobristol",
+    "tmdb": {
+      "id": 1314122,
+      "title": "Bloody Tennis",
+      "overview": "Sophie joins a prestigious tennis academy, where the brutality of competitive sports is taken to its extreme and only the hungriest survive.",
+      "release_date": "2026-09-24",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "poster_path": "/eFpTlgIDqnTeTHoHHuNvQjoi0Du.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eFpTlgIDqnTeTHoHHuNvQjoi0Du.jpg",
+      "backdrop_path": "/juKO2h7aa371poRvShNCTidInd9.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/juKO2h7aa371poRvShNCTidInd9.jpg",
+      "imdb_id": "tt34735922",
+      "runtime": 94,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "species",
+    "url": "https://www.biobristol.se/f/species/564",
+    "title": "Species",
+    "director": "Marion Le Corroller",
+    "duration": "103 min",
+    "language": "Franska",
+    "description": "Margot, a young intern at the most competitive ER in the country, has trouble keeping up in this stressful environment. As she's confronted with multiple patients her age presenting unusual symptoms, her own body starts to show disturbing changes… ",
+    "poster_url": "https://mars-images.imgix.net/1789717519285?auto=compress&w=1200&fit=max",
+    "showtimes": [
+      {
+        "datetime": "2026-10-15T19:30:00",
+        "display_text": "Thursday 15 October 2026 at 19:30",
+        "time": "19:30",
+        "date_section": "15.10",
+        "ticket_url": "https://www.biobristol.se/checkout?showId=6aaced022c5a6a0c9b63a919",
+        "show_id": "6aaced022c5a6a0c9b63a919",
+        "hall": "Bristol",
+        "audio_language": "",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-15T19:30:00",
+        "normalized_date": "15.10",
+        "normalized_time": "19:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Bristol"
+    ],
+    "scraped_at": "2026-09-25T10:56:53.312118+00:00",
+    "source": "biobristol",
+    "tmdb": {
+      "id": 1468846,
+      "title": "Species",
+      "overview": "Margot, a young intern at the country's most competitive ER, struggles in the high-pressure environment. When multiple patients her age arrive with strange symptoms, her own body begins experiencing alarming transformations.",
+      "release_date": "2026-10-28",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "poster_path": "/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
+      "backdrop_path": "/sIleLElPQo13FuWHzKmIeXq8msd.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sIleLElPQo13FuWHzKmIeXq8msd.jpg",
+      "imdb_id": "tt37799273",
+      "runtime": 103,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "laurence-anyways",
+    "url": "https://www.biobristol.se/f/laurence-anyways/565",
+    "title": "Laurence Anyways",
+    "director": "Xavier Dolan",
+    "duration": "159 min",
+    "language": "Franska",
+    "description": "In the 90s, Laurence tells his girlfriend Fred that he wants to become a woman. In spite of the odds, in spite of each other, they confront the prejudices of their friends, ignore the council of their families, and brave the phobias of the society they offend. For 10 years, they try to live through this transition, and embark on an epic journey which, unbeknownst to them, may cost Fred and Laurence their love.",
+    "poster_url": "https://mars-images.imgix.net/1789722830622?auto=compress&w=1200&fit=max",
+    "showtimes": [
+      {
+        "datetime": "2026-11-06T18:15:00",
+        "display_text": "Friday 6 November 2026 at 18:15",
+        "time": "18:15",
+        "date_section": "06.11",
+        "ticket_url": "https://www.biobristol.se/checkout?showId=6aad01c32c5a6a0c9b63a92d",
+        "show_id": "6aad01c32c5a6a0c9b63a92d",
+        "hall": "Bristol",
+        "audio_language": "",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-06T18:15:00",
+        "normalized_date": "06.11",
+        "normalized_time": "18:15"
+      }
+    ],
+    "cinemas": [
+      "Bio Bristol"
+    ],
+    "scraped_at": "2026-09-25T10:56:53.903259+00:00",
+    "source": "biobristol",
+    "tmdb": {
+      "id": 110160,
+      "title": "Laurence Anyways",
+      "overview": "The story of an impossible love between a woman named Fred and a transgender woman named Laurence who reveals her inner desire to become her true self.",
+      "release_date": "2012-05-18",
+      "rating": 7.6,
+      "vote_count": 918,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/d8BpJ9qOQE7VFFqaV1XDdGfMsP7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d8BpJ9qOQE7VFFqaV1XDdGfMsP7.jpg",
+      "backdrop_path": "/kv3HLX9CByUxw92eX2rqCcrT4LJ.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kv3HLX9CByUxw92eX2rqCcrT4LJ.jpg",
+      "imdb_id": "tt1650048",
+      "runtime": 168,
+      "budget": 9500000,
+      "revenue": 0
+    }
+  }
+]

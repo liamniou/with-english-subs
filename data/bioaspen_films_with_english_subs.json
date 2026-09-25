@@ -1,35 +1,5 @@
 [
   {
-    "film_id": "hazama-free-short-film-event",
-    "url": "https://www.bioaspen.se/movies/hazama-free-short-film-event/",
-    "title": "Hazama - short film event",
-    "director": "",
-    "duration": "0 tim 15 min",
-    "language": "JP",
-    "description": "hej@bioaspen.sehttps://www.instagram.com/bioaspen/https://www.facebook.com/bioaspenhttps://www.tiktok.com/@bio.aspen",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/7183/1080/283c87bf-c197-4b71-9352-f5b605f1e43c.jpeg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-24T19:00:00",
-        "display_text": "Thursday 24 September 2026 at 19:00",
-        "time": "19:00",
-        "date_section": "24.09",
-        "ticket_url": "https://www.bioaspen.se/movies/hazama-free-short-film-event/",
-        "hall": "Salong 1",
-        "audio_language": "JP",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-24T19:00:00",
-        "normalized_date": "24.09",
-        "normalized_time": "19:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-09-24T10:54:39.412922+00:00",
-    "source": "bioaspen"
-  },
-  {
     "film_id": "the-virgin-suicides",
     "url": "https://www.bioaspen.se/movies/the-virgin-suicides/",
     "title": "The Virgin Suicides - frukostbio",
@@ -56,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-24T10:54:39.412958+00:00",
+    "scraped_at": "2026-09-25T10:56:17.823855+00:00",
     "source": "bioaspen"
   },
   {
@@ -86,7 +56,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-24T10:54:39.412975+00:00",
+    "scraped_at": "2026-09-25T10:56:17.823899+00:00",
     "source": "bioaspen"
   },
   {
@@ -116,7 +86,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-24T10:54:39.412993+00:00",
+    "scraped_at": "2026-09-25T10:56:17.823915+00:00",
     "source": "bioaspen"
   },
   {
@@ -146,7 +116,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-24T10:54:39.413007+00:00",
+    "scraped_at": "2026-09-25T10:56:17.823934+00:00",
     "source": "bioaspen"
   },
   {
@@ -176,7 +146,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-24T10:54:39.413023+00:00",
+    "scraped_at": "2026-09-25T10:56:17.823950+00:00",
     "source": "bioaspen"
   },
   {
@@ -206,7 +176,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-24T10:54:39.413037+00:00",
+    "scraped_at": "2026-09-25T10:56:17.823964+00:00",
     "source": "bioaspen"
   },
   {
@@ -236,7 +206,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-24T10:54:39.413053+00:00",
+    "scraped_at": "2026-09-25T10:56:17.823978+00:00",
     "source": "bioaspen"
   },
   {
@@ -266,7 +236,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-24T10:54:39.413069+00:00",
+    "scraped_at": "2026-09-25T10:56:17.823993+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1693710,
@@ -285,6 +255,56 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/odug5Awh1Xl2NZqvns6xMXDpDYs.jpg",
       "imdb_id": "tt42715304",
       "runtime": 105,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "arkipelag",
+    "url": "https://www.bioaspen.se/movies/arkipelag/",
+    "title": "Arkipelag - english subtitles",
+    "director": "Alex Schulman",
+    "duration": "1 tim 47 min",
+    "language": "SV",
+    "description": "Laddat drama möter mörk humor när Alex Schulman regidebuterar med Arkipelag, där Gustaf Skarsgård, Fares Fares och Linus Wahlgren spelar tre pappor som följer med sina döttrar på en skolresa till helvetet. Strandsatta med en stökig högstadieklass på en idyllisk skärgårdsö påminns de om egna tonårstrauman. Precis som ungdomarna tvingas de snart också inse hur svårt det är att dra gränsen mellan lek och farlig maktkamp, och att skilja offer från förövare. Arkipelag är årets svenska Oscarsbidrag.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7254/1080/5f1152f3-8a20-4beb-b091-3dcba49a8fc9.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-12T18:15:00",
+        "display_text": "Monday 12 October 2026 at 18:15",
+        "time": "18:15",
+        "date_section": "12.10",
+        "ticket_url": "https://www.bioaspen.se/movies/arkipelag/",
+        "hall": "Salong 1",
+        "audio_language": "SV",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-12T18:15:00",
+        "normalized_date": "12.10",
+        "normalized_time": "18:15"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-09-25T10:56:17.824010+00:00",
+    "source": "bioaspen",
+    "tmdb": {
+      "id": 1461432,
+      "title": "Adult Supervision",
+      "overview": "Three fathers accompany their teenage daughters on a school trip to a remote island. What begins as a peaceful getaway soon turns into a series of unexpected problems. Each father has a different approach to parenting, influenced by his own past experiences, and their conflicting views create tension among them. As the situation becomes increasingly difficult to control, memories of their past return and force them to confront their mistakes and shortcomings. The trip ultimately leaves them questioning who is really in control.",
+      "release_date": "2026-10-09",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster_path": "/rBR8DmaMqRcxv6Ewgg6rwczV8EY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rBR8DmaMqRcxv6Ewgg6rwczV8EY.jpg",
+      "backdrop_path": "/iAmfSMQNJG4UuTdTQdqgLO8GDlI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/iAmfSMQNJG4UuTdTQdqgLO8GDlI.jpg",
+      "imdb_id": "tt36462731",
+      "runtime": 108,
       "budget": 0,
       "revenue": 0
     }
@@ -316,7 +336,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-24T10:54:39.413084+00:00",
+    "scraped_at": "2026-09-25T10:56:17.824024+00:00",
     "source": "bioaspen"
   },
   {
@@ -346,7 +366,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-24T10:54:39.413098+00:00",
+    "scraped_at": "2026-09-25T10:56:17.824038+00:00",
     "source": "bioaspen"
   },
   {
@@ -376,7 +396,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-24T10:54:39.413111+00:00",
+    "scraped_at": "2026-09-25T10:56:17.824051+00:00",
     "source": "bioaspen"
   },
   {
@@ -406,7 +426,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-24T10:54:39.413125+00:00",
+    "scraped_at": "2026-09-25T10:56:17.824065+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1605919,
@@ -456,7 +476,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-24T10:54:39.413138+00:00",
+    "scraped_at": "2026-09-25T10:56:17.824078+00:00",
     "source": "bioaspen"
   },
   {
@@ -486,7 +506,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-24T10:54:39.413151+00:00",
+    "scraped_at": "2026-09-25T10:56:17.824091+00:00",
     "source": "bioaspen"
   },
   {
@@ -516,7 +536,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-24T10:54:39.413164+00:00",
+    "scraped_at": "2026-09-25T10:56:17.824104+00:00",
     "source": "bioaspen"
   },
   {
@@ -546,7 +566,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-24T10:54:39.413177+00:00",
+    "scraped_at": "2026-09-25T10:56:17.824117+00:00",
     "source": "bioaspen"
   }
 ]
