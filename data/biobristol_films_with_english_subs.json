@@ -27,15 +27,15 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-25T10:56:51.186225+00:00",
+    "scraped_at": "2026-09-26T10:37:44.381568+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1393326,
       "title": "Ghost in the Cell",
       "overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
       "release_date": "2026-04-16",
-      "rating": 7.155,
-      "vote_count": 74,
+      "rating": 7.14,
+      "vote_count": 75,
       "genres": [
         "Horror",
         "Comedy",
@@ -79,7 +79,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-25T10:56:52.111417+00:00",
+    "scraped_at": "2026-09-26T10:37:45.292289+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1314122,
@@ -130,7 +130,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-25T10:56:53.312118+00:00",
+    "scraped_at": "2026-09-26T10:37:46.853239+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1468846,
@@ -181,7 +181,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-25T10:56:53.903259+00:00",
+    "scraped_at": "2026-09-26T10:37:47.322748+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 110160,
