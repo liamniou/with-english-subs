@@ -1,52 +1,5 @@
 [
   {
-    "film_id": "breakfast-at-tiffanys",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Breakfast at Tiffany’s",
-    "director": "Blake Edwards",
-    "duration": "1h 55 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2026-09-27T10:30:00+02:00",
-        "display_text": "Söndag, 27th September 10:30",
-        "time": "10:30",
-        "date_section": "Söndag, 27th September",
-        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=58692",
-        "showtime_id": "58692",
-        "normalized_datetime": "2026-09-27T10:30:00",
-        "normalized_date": "27.09",
-        "normalized_time": "10:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-09-26T10:43:47.455357+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 164,
-      "title": "Breakfast at Tiffany's",
-      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
-      "release_date": "1961-10-06",
-      "rating": 7.614,
-      "vote_count": 4576,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "imdb_id": "tt0054698",
-      "runtime": 115,
-      "budget": 2500000,
-      "revenue": 9500000
-    }
-  },
-  {
     "film_id": "hope",
     "url": "https://biofagelbla.se/program/",
     "title": "Hope",
@@ -69,15 +22,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-26T10:43:47.455724+00:00",
+    "scraped_at": "2026-09-27T11:16:11.972397+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1058424,
       "title": "Hope",
       "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
       "release_date": "2026-07-15",
-      "rating": 7.331,
-      "vote_count": 89,
+      "rating": 7.302,
+      "vote_count": 91,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -116,15 +69,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-26T10:43:47.456237+00:00",
+    "scraped_at": "2026-09-27T11:16:11.972943+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1058424,
       "title": "Hope",
       "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
       "release_date": "2026-07-15",
-      "rating": 7.331,
-      "vote_count": 89,
+      "rating": 7.302,
+      "vote_count": 91,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -163,15 +116,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-26T10:43:47.456952+00:00",
+    "scraped_at": "2026-09-27T11:16:11.973701+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.121,
-      "vote_count": 2490,
+      "rating": 8.122,
+      "vote_count": 2492,
       "genres": [
         "Drama"
       ],
@@ -208,15 +161,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-26T10:43:47.458140+00:00",
+    "scraped_at": "2026-09-27T11:16:11.974965+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.614,
-      "vote_count": 4576,
+      "rating": 7.613,
+      "vote_count": 4578,
       "genres": [
         "Comedy",
         "Romance",
@@ -255,7 +208,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-09-26T10:43:47.458845+00:00",
+    "scraped_at": "2026-09-27T11:16:11.975444+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 3175,

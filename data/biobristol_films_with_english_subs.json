@@ -27,15 +27,15 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-26T10:37:44.381568+00:00",
+    "scraped_at": "2026-09-27T11:10:05.272652+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1393326,
       "title": "Ghost in the Cell",
       "overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
       "release_date": "2026-04-16",
-      "rating": 7.14,
-      "vote_count": 75,
+      "rating": 7.151,
+      "vote_count": 76,
       "genres": [
         "Horror",
         "Comedy",
@@ -79,21 +79,21 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-26T10:37:45.292289+00:00",
+    "scraped_at": "2026-09-27T11:10:06.229157+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1314122,
       "title": "Bloody Tennis",
       "overview": "Sophie joins a prestigious tennis academy, where the brutality of competitive sports is taken to its extreme and only the hungriest survive.",
       "release_date": "2026-09-24",
-      "rating": 0.0,
-      "vote_count": 0,
+      "rating": 6.0,
+      "vote_count": 1,
       "genres": [
         "Horror",
         "Thriller"
       ],
-      "poster_path": "/eFpTlgIDqnTeTHoHHuNvQjoi0Du.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eFpTlgIDqnTeTHoHHuNvQjoi0Du.jpg",
+      "poster_path": "/r9yJeReSvsBNIUtVYDA5qLvCAH4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/r9yJeReSvsBNIUtVYDA5qLvCAH4.jpg",
       "backdrop_path": "/juKO2h7aa371poRvShNCTidInd9.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/juKO2h7aa371poRvShNCTidInd9.jpg",
       "imdb_id": "tt34735922",
@@ -130,7 +130,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-26T10:37:46.853239+00:00",
+    "scraped_at": "2026-09-27T11:10:08.100639+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1468846,
@@ -181,7 +181,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-26T10:37:47.322748+00:00",
+    "scraped_at": "2026-09-27T11:10:08.569796+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 110160,
