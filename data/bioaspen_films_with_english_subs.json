@@ -1,35 +1,5 @@
 [
   {
-    "film_id": "the-virgin-suicides",
-    "url": "https://www.bioaspen.se/movies/the-virgin-suicides/",
-    "title": "The Virgin Suicides - frukostbio",
-    "director": "Sofia Coppola",
-    "duration": "1 tim 33 min",
-    "language": "EN",
-    "description": "Det är 70-tal i en prydlig amerikansk förort. Historien om fem vackra, självmordsbenägna tonårssystrar berättas genom några besatta grannpojkars ögon, som i vuxen ålder fortfarande inte kan glömma det som hände, försöker förstå det obegripliga. Det är som en saga om de guldlockiga flickorna som blir inlåsta av den elaka modern och väntar på att bli räddade av modiga prinsar. Eller ett mytiskt drama där självmord får symbolisera det ofrånkomliga slutet på tonårstidens värld av längtan, lust och förlust: den första kärlekens vånda och rus, avskyvärda föräldrar och en oförglömlig känsla av att leva.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/6927/1080/cc8b9021-1454-452c-bfdd-c05f728aec7c.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-27T10:00:00",
-        "display_text": "Sunday 27 September 2026 at 10:00",
-        "time": "10:00",
-        "date_section": "27.09",
-        "ticket_url": "https://www.bioaspen.se/movies/the-virgin-suicides/",
-        "hall": "Salong 1",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-27T10:00:00",
-        "normalized_date": "27.09",
-        "normalized_time": "10:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-09-27T11:09:32.238265+00:00",
-    "source": "bioaspen"
-  },
-  {
     "film_id": "cinema-queer-tiger",
     "url": "https://www.bioaspen.se/movies/cinema-queer-tiger/",
     "title": "Cinema Queer: Tiger",
@@ -56,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-27T11:09:32.238303+00:00",
+    "scraped_at": "2026-09-28T12:36:07.992597+00:00",
     "source": "bioaspen"
   },
   {
@@ -86,7 +56,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-27T11:09:32.238320+00:00",
+    "scraped_at": "2026-09-28T12:36:07.992634+00:00",
     "source": "bioaspen"
   },
   {
@@ -116,7 +86,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-27T11:09:32.238338+00:00",
+    "scraped_at": "2026-09-28T12:36:07.992650+00:00",
     "source": "bioaspen"
   },
   {
@@ -146,7 +116,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-27T11:09:32.238354+00:00",
+    "scraped_at": "2026-09-28T12:36:07.992668+00:00",
     "source": "bioaspen"
   },
   {
@@ -176,7 +146,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-27T11:09:32.238367+00:00",
+    "scraped_at": "2026-09-28T12:36:07.992681+00:00",
     "source": "bioaspen"
   },
   {
@@ -206,7 +176,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-27T11:09:32.238381+00:00",
+    "scraped_at": "2026-09-28T12:36:07.992697+00:00",
     "source": "bioaspen"
   },
   {
@@ -236,7 +206,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-27T11:09:32.238396+00:00",
+    "scraped_at": "2026-09-28T12:36:07.992710+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1693710,
@@ -286,7 +256,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-27T11:09:32.238412+00:00",
+    "scraped_at": "2026-09-28T12:36:07.992726+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1461432,
@@ -336,7 +306,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-27T11:09:32.238426+00:00",
+    "scraped_at": "2026-09-28T12:36:07.992742+00:00",
     "source": "bioaspen"
   },
   {
@@ -366,7 +336,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-27T11:09:32.238440+00:00",
+    "scraped_at": "2026-09-28T12:36:07.992756+00:00",
     "source": "bioaspen"
   },
   {
@@ -396,7 +366,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-27T11:09:32.238453+00:00",
+    "scraped_at": "2026-09-28T12:36:07.992770+00:00",
     "source": "bioaspen"
   },
   {
@@ -426,7 +396,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-27T11:09:32.238467+00:00",
+    "scraped_at": "2026-09-28T12:36:07.992783+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1605919,
@@ -476,7 +446,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-27T11:09:32.238509+00:00",
+    "scraped_at": "2026-09-28T12:36:07.992796+00:00",
     "source": "bioaspen"
   },
   {
@@ -506,7 +476,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-27T11:09:32.238524+00:00",
+    "scraped_at": "2026-09-28T12:36:07.992809+00:00",
     "source": "bioaspen"
   },
   {
@@ -536,7 +506,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-27T11:09:32.238537+00:00",
+    "scraped_at": "2026-09-28T12:36:07.992822+00:00",
     "source": "bioaspen"
   },
   {
@@ -566,7 +536,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-27T11:09:32.238550+00:00",
+    "scraped_at": "2026-09-28T12:36:07.992835+00:00",
     "source": "bioaspen"
   }
 ]
