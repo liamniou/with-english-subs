@@ -148,6 +148,45 @@ class BioRio:
                 return m.group(1)
 
         return None
+
+    def extract_embedded_showtimes(self, html_content, cinema_id, movie_id):
+        """Extract showtimes from the Next.js payload's `initialShowtimes`."""
+        chunks = re.findall(r'self\.__next_f\.push\(\[1,("(?:[^"\\]|\\.)*")\]\)', html_content)
+        payload = ''
+        for chunk in chunks:
+            try:
+                payload += json.loads(chunk)
+            except json.JSONDecodeError:
+                continue
+
+        showtimes = []
+        decoder = json.JSONDecoder()
+        for m in re.finditer(r'"initialShowtimes"\s*:\s*', payload):
+            try:
+                data, _ = decoder.raw_decode(payload, m.end())
+            except json.JSONDecodeError:
+                continue
+            if isinstance(data, list):
+                showtimes.extend(s for s in data if isinstance(s, dict))
+
+        seen = set()
+        formatted = []
+        for showtime in showtimes:
+            if str(showtime.get('movieId', movie_id)) != str(movie_id):
+                continue
+            showtime_id = showtime.get('id')
+            if showtime_id in seen:
+                continue
+            seen.add(showtime_id)
+            formatted.append({
+                'datetime': showtime.get('startTime', ''),
+                'display_text': self.format_api_showtime(showtime),
+                'movie_id': movie_id,
+                'cinema_id': cinema_id,
+                'booking_url': f"https://www.biorio.se/sv/boka/{showtime_id}",
+                'api_data': showtime
+            })
+        return formatted
     
     def fetch_showtimes_from_api(self, cinema_id, movie_id):
         """Fetch showtimes from Bio Rio API."""
@@ -278,7 +317,11 @@ class BioRio:
 
         if movie_id:
             print(f"  🎬 Found movie ID: {movie_id}")
-            api_showtimes = self.fetch_showtimes_from_api(cinema_id, movie_id)
+            api_showtimes = self.extract_embedded_showtimes(html_content, cinema_id, movie_id)
+            if api_showtimes:
+                print(f"  📄 Found {len(api_showtimes)} showtimes embedded in page")
+            else:
+                api_showtimes = self.fetch_showtimes_from_api(cinema_id, movie_id)
             if api_showtimes:
                 all_showtimes = api_showtimes
                 print(f"  ✅ Successfully fetched {len(api_showtimes)} showtimes from API")
