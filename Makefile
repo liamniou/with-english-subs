@@ -38,7 +38,7 @@ DATA_FILES := $(addprefix $(DATA_DIR)/,$(addsuffix _films_with_english_subs.json
 
 .DEFAULT_GOAL := help
 .PHONY: help install scrape enrich translate normalize generate pipeline \
-        clean clean-all serve check FORCE
+        clean clean-all serve check check-stale FORCE
 
 ## help: Show this help message
 help:
@@ -110,6 +110,10 @@ normalize:
 generate:
 	$(PY) $(SCRIPTS_DIR)/static_generator.py --output $(INDEX)
 	@echo "✅ Generated $(INDEX) ($$(du -h $(INDEX) | cut -f1))"
+
+## check-stale: Alert on Discord for cinemas with no English-sub screenings for 14+ days
+check-stale:
+	$(PY) $(SCRIPTS_DIR)/check_stale_cinemas.py --days 14
 
 ## pipeline: Full pipeline - scrape, enrich, translate, normalize, generate
 pipeline: check scrape enrich translate normalize generate
