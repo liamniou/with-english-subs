@@ -47,7 +47,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-29T09:49:14.412143",
+    "scraped_at": "2026-09-29T11:56:58.483492",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
@@ -97,7 +97,7 @@
           "date": "2026-10-15",
           "time": "20:15",
           "capacity": 180,
-          "ticketsSold": 22,
+          "ticketsSold": 21,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -116,7 +116,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-29T09:49:15.923455",
+    "scraped_at": "2026-09-29T11:57:00.364181",
     "source": "biorio",
     "tmdb": {
       "id": 62,
@@ -185,7 +185,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-29T09:49:35.684682",
+    "scraped_at": "2026-09-29T11:57:20.319204",
     "source": "biorio",
     "tmdb": {
       "id": 34070,

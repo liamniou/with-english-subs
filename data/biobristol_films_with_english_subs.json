@@ -27,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-29T09:48:48.251527+00:00",
+    "scraped_at": "2026-09-29T11:56:30.265662+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1393326,
@@ -79,7 +79,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-29T09:48:49.388400+00:00",
+    "scraped_at": "2026-09-29T11:56:31.563264+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1314122,
@@ -92,8 +92,8 @@
         "Horror",
         "Thriller"
       ],
-      "poster_path": "/r9yJeReSvsBNIUtVYDA5qLvCAH4.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/r9yJeReSvsBNIUtVYDA5qLvCAH4.jpg",
+      "poster_path": "/3lc1DsvKGUEtAcd8Od0viYk327Y.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3lc1DsvKGUEtAcd8Od0viYk327Y.jpg",
       "backdrop_path": "/juKO2h7aa371poRvShNCTidInd9.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/juKO2h7aa371poRvShNCTidInd9.jpg",
       "imdb_id": "tt34735922",
@@ -130,7 +130,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-29T09:48:50.551442+00:00",
+    "scraped_at": "2026-09-29T11:56:33.623602+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1468846,
@@ -181,7 +181,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-09-29T09:48:51.129298+00:00",
+    "scraped_at": "2026-09-29T11:56:34.577703+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 110160,
