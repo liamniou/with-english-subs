@@ -37,12 +37,19 @@ jobs:
         TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: make pipeline
+
+    - name: Alert on cinemas with no English-sub screenings
+      continue-on-error: true
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+      run: make check-stale
     
     - name: Commit updated data and index.html
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add data/*.json index.html || true
+        git add data/state/*.json || true
         git diff --staged --quiet || git commit -m "Auto-update: Latest film data and website [$(date)]"
         git push || true
     
