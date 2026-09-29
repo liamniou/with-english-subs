@@ -1,1 +1,211 @@
-[]
+[
+  {
+    "film_id": "mars-express",
+    "url": "https://www.biorio.se/sv/filmer/mars-express",
+    "title": "Mars Express",
+    "director": "Jérémie Périn",
+    "showtimes": [
+      {
+        "datetime": "2026-10-13T16:00:00.000Z",
+        "display_text": "Tuesday October 13, 2026 at 16:00",
+        "movie_id": "5964",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2587",
+        "api_data": {
+          "id": 2587,
+          "movieId": 5964,
+          "screenId": 1,
+          "screen": {
+            "id": 1,
+            "name": "Salong 1",
+            "capacity": 180
+          },
+          "startTime": "2026-10-13T16:00:00.000Z",
+          "endTime": "2026-10-13T17:25:00.000Z",
+          "date": "2026-10-13",
+          "time": "18:00",
+          "capacity": 180,
+          "ticketsSold": 26,
+          "status": "on_sale",
+          "is3D": false,
+          "isImax": false,
+          "membersOnly": false,
+          "excludeFromMemberBenefits": false,
+          "category": "Rendez-Vous",
+          "tags": [
+            "Rendez-Vous"
+          ],
+          "basePrice": 150,
+          "onlineAvailableFrom": null,
+          "campaignFreeTicket": false
+        },
+        "normalized_datetime": "2026-10-13T16:00:00",
+        "normalized_date": "13.10",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-09-29T09:49:14.412143",
+    "source": "biorio",
+    "tmdb": {
+      "id": 586810,
+      "title": "Mars Express",
+      "overview": "In 2200, private detective Aline Ruby and her android partner Carlos Rivera are hired by a wealthy businessman to track down a notorious hacker. On Mars, they descend deep into the underbelly of the planet's capital city where they uncover a darker story of brain farms, political corruption, and a missing girl who holds a secret about the robots that threatens to change the face of the universe.",
+      "release_date": "2023-11-22",
+      "rating": 7.456,
+      "vote_count": 595,
+      "genres": [
+        "Animation",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "poster_path": "/g8rUn0khoYB3G4gPPGTF1Xv9Olu.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g8rUn0khoYB3G4gPPGTF1Xv9Olu.jpg",
+      "backdrop_path": "/yIOw17XdfsoCaydtrkzlZBCcHk6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yIOw17XdfsoCaydtrkzlZBCcHk6.jpg",
+      "imdb_id": "tt26915336",
+      "runtime": 89,
+      "budget": 7900000,
+      "revenue": 1455713
+    }
+  },
+  {
+    "film_id": "ar-2001---ett-rymdaventyr",
+    "url": "https://www.biorio.se/sv/filmer/ar-2001---ett-rymdaventyr",
+    "title": "År 2001 - ett rymdäventyr",
+    "director": "Stanley Kubrick",
+    "showtimes": [
+      {
+        "datetime": "2026-10-15T18:15:00.000Z",
+        "display_text": "Thursday October 15, 2026 at 18:15",
+        "movie_id": "4924",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2738",
+        "api_data": {
+          "id": 2738,
+          "movieId": 4924,
+          "screenId": 1,
+          "screen": {
+            "id": 1,
+            "name": "Salong 1",
+            "capacity": 180
+          },
+          "startTime": "2026-10-15T18:15:00.000Z",
+          "endTime": "2026-10-15T20:45:00.000Z",
+          "date": "2026-10-15",
+          "time": "20:15",
+          "capacity": 180,
+          "ticketsSold": 22,
+          "status": "on_sale",
+          "is3D": false,
+          "isImax": false,
+          "membersOnly": false,
+          "excludeFromMemberBenefits": false,
+          "tags": [],
+          "basePrice": 150,
+          "onlineAvailableFrom": null,
+          "campaignFreeTicket": false
+        },
+        "normalized_datetime": "2026-10-15T18:15:00",
+        "normalized_date": "15.10",
+        "normalized_time": "18:15"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-09-29T09:49:15.923455",
+    "source": "biorio",
+    "tmdb": {
+      "id": 62,
+      "title": "2001: A Space Odyssey",
+      "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+      "release_date": "1968-04-02",
+      "rating": 8.044,
+      "vote_count": 12983,
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Adventure"
+      ],
+      "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+      "imdb_id": "tt0062622",
+      "runtime": 149,
+      "budget": 12000000,
+      "revenue": 71923560
+    }
+  },
+  {
+    "film_id": "sanger-fran-andra-vaningen",
+    "url": "https://www.biorio.se/sv/filmer/sanger-fran-andra-vaningen",
+    "title": "Sånger från andra våningen",
+    "director": "Roy Andersson",
+    "showtimes": [
+      {
+        "datetime": "2026-11-22T14:45:00.000Z",
+        "display_text": "Sunday November 22, 2026 at 14:45",
+        "movie_id": "5941",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2836",
+        "api_data": {
+          "id": 2836,
+          "movieId": 5941,
+          "screenId": 1,
+          "screen": {
+            "id": 1,
+            "name": "Salong 1",
+            "capacity": 180
+          },
+          "startTime": "2026-11-22T14:45:00.000Z",
+          "endTime": "2026-11-22T16:25:00.000Z",
+          "date": "2026-11-22",
+          "time": "15:45",
+          "capacity": 180,
+          "ticketsSold": 0,
+          "status": "on_sale",
+          "is3D": false,
+          "isImax": false,
+          "membersOnly": false,
+          "excludeFromMemberBenefits": false,
+          "tags": [],
+          "basePrice": 150,
+          "onlineAvailableFrom": null,
+          "campaignFreeTicket": false
+        },
+        "normalized_datetime": "2026-11-22T14:45:00",
+        "normalized_date": "22.11",
+        "normalized_time": "14:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-09-29T09:49:35.684682",
+    "source": "biorio",
+    "tmdb": {
+      "id": 34070,
+      "title": "Songs from the Second Floor",
+      "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
+      "release_date": "2000-10-06",
+      "rating": 7.0,
+      "vote_count": 328,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster_path": "/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
+      "backdrop_path": "/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
+      "imdb_id": "tt0120263",
+      "runtime": 99,
+      "budget": 0,
+      "revenue": 80334
+    }
+  }
+]
