@@ -1,65 +1,5 @@
 [
   {
-    "film_id": "cinema-queer-tiger",
-    "url": "https://www.bioaspen.se/movies/cinema-queer-tiger/",
-    "title": "Cinema Queer: Tiger",
-    "director": "",
-    "duration": "2 tim 06 min",
-    "language": "JP",
-    "description": "Taiga är en 35-årige erotiska massören som bor i Tokyo. Samtidigt som han försöker återuppliva sitt otillfredsställande kärleksliv och navigera komplicerade familjeförhållanden, försöker Taiga också omvandla sina massagekunskaper till sexarbete framför kameran – en uppgift som visade sig betydligt svårare än väntat. Utöver sina romantiska och yrkesmässiga äventyr uppstår komplikationer kring hans sjuke far och dominanta syster, som hotar att göra honom arvlös. Tiger är en pulserande och levande skildring av queert liv i dagens Japan, under Tokyos bländande neonljus.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/7191/1080/8630fc1d-3cbf-4182-9dbd-5536ad9d4dad.jpeg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-29T18:00:00",
-        "display_text": "Tuesday 29 September 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "29.09",
-        "ticket_url": "https://www.bioaspen.se/movies/cinema-queer-tiger/",
-        "hall": "Salong 1",
-        "audio_language": "JP",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-29T18:00:00",
-        "normalized_date": "29.09",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-09-29T11:55:56.248374+00:00",
-    "source": "bioaspen"
-  },
-  {
-    "film_id": "cinema-queer-bearcave",
-    "url": "https://www.bioaspen.se/movies/cinema-queer-bearcave/",
-    "title": "Cinema Queer: BEARCAVE",
-    "director": "",
-    "duration": "2 tim 08 min",
-    "language": "GR",
-    "description": "Stergios Dinopoulos, Krysianna Papadakis / Grekland / 2025 / 128 min / engelska undertexterTisdag 29 sep kl 20.30, Bio AspenI den grekiska bergsbyn Tirna bor barndomsvännerna Argyro och Anneta. Argyro är en bonde med hård attityd medan Anetta arbetar som nagelskulptör, medan hon drömmer om att lämna byn bakom sig. När Anetta berättar att hon är gravid och planerar att lämna Tirna tillsammans med sin trista kille, blir hon utmanad av Argyro att ge sig ut på en expedition för att finna den mystiska Björngrottan. Bear Cave är regissörernas debutfilm och i den möts grekisk folktro, queerhet och vulvaformade grottor.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/7192/1080/a6cf01dc-d904-4040-b148-803d56c59f0a.png",
-    "showtimes": [
-      {
-        "datetime": "2026-09-29T20:30:00",
-        "display_text": "Tuesday 29 September 2026 at 20:30",
-        "time": "20:30",
-        "date_section": "29.09",
-        "ticket_url": "https://www.bioaspen.se/movies/cinema-queer-bearcave/",
-        "hall": "Salong 1",
-        "audio_language": "GR",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-29T20:30:00",
-        "normalized_date": "29.09",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-09-29T11:55:56.248419+00:00",
-    "source": "bioaspen"
-  },
-  {
     "film_id": "cinema-queer-downtown",
     "url": "https://www.bioaspen.se/movies/cinema-queer-downtown/",
     "title": "Cinema Queer: DOWNTOWN",
@@ -86,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-29T11:55:56.248435+00:00",
+    "scraped_at": "2026-09-30T11:43:43.973866+00:00",
     "source": "bioaspen"
   },
   {
@@ -116,7 +56,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-29T11:55:56.248450+00:00",
+    "scraped_at": "2026-09-30T11:43:43.973906+00:00",
     "source": "bioaspen"
   },
   {
@@ -146,7 +86,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-29T11:55:56.248463+00:00",
+    "scraped_at": "2026-09-30T11:43:43.973920+00:00",
     "source": "bioaspen"
   },
   {
@@ -176,7 +116,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-29T11:55:56.248476+00:00",
+    "scraped_at": "2026-09-30T11:43:43.973935+00:00",
     "source": "bioaspen"
   },
   {
@@ -206,7 +146,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-29T11:55:56.248489+00:00",
+    "scraped_at": "2026-09-30T11:43:43.973946+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1693710,
@@ -256,7 +196,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-29T11:55:56.248508+00:00",
+    "scraped_at": "2026-09-30T11:43:43.973957+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1461432,
@@ -306,7 +246,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-29T11:55:56.248523+00:00",
+    "scraped_at": "2026-09-30T11:43:43.973969+00:00",
     "source": "bioaspen"
   },
   {
@@ -336,7 +276,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-29T11:55:56.248537+00:00",
+    "scraped_at": "2026-09-30T11:43:43.973986+00:00",
     "source": "bioaspen"
   },
   {
@@ -366,7 +306,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-29T11:55:56.248550+00:00",
+    "scraped_at": "2026-09-30T11:43:43.973999+00:00",
     "source": "bioaspen"
   },
   {
@@ -396,7 +336,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-29T11:55:56.248562+00:00",
+    "scraped_at": "2026-09-30T11:43:43.974011+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1605919,
@@ -446,7 +386,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-29T11:55:56.248575+00:00",
+    "scraped_at": "2026-09-30T11:43:43.974022+00:00",
     "source": "bioaspen"
   },
   {
@@ -476,7 +416,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-29T11:55:56.248587+00:00",
+    "scraped_at": "2026-09-30T11:43:43.974033+00:00",
     "source": "bioaspen"
   },
   {
@@ -506,7 +446,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-29T11:55:56.248599+00:00",
+    "scraped_at": "2026-09-30T11:43:43.974045+00:00",
     "source": "bioaspen"
   },
   {
@@ -536,7 +476,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-29T11:55:56.248612+00:00",
+    "scraped_at": "2026-09-30T11:43:43.974056+00:00",
     "source": "bioaspen"
   }
 ]
