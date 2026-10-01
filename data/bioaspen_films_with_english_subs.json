@@ -1,65 +1,5 @@
 [
   {
-    "film_id": "cinema-queer-downtown",
-    "url": "https://www.bioaspen.se/movies/cinema-queer-downtown/",
-    "title": "Cinema Queer: DOWNTOWN",
-    "director": "",
-    "duration": "1 tim 38 min",
-    "language": "NL",
-    "description": "Michiel van Erp / Nederländerna / 2026 / 98 min / engelsk textOnsdag 30 sep kl 18.00, Bio AspenAmsterdam 1986. På klubben Downtown är stämningen het, musiken är elektrisk och en hel generation lever fritt, trotsigt och stolt som sig själva. Här hittar vi vännerna Ronnie och Lennart. Ronnie spelar skivor. Lennart kommer för att dansa och ragga upp någon. När den 20-årige konstnären Bas anländer – ung, strålande, oemotståndlig – förändras något mellan de tre. Ett starkt band knyts som tyvärr snart kommer att prövas hårt. För verkligheten förändras drastiskt och fler och fler stamgäster börjar försvinna från Downtown. Plötsligt en dag bort för att aldrig återvända. Downtown är en film om vad det innebar att vara ung, gay och levande under ett av historiens mest vackra och brutala decennier.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/7193/1080/98e1d645-a571-4485-9205-7967f4489d1f.jpeg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-30T18:00:00",
-        "display_text": "Wednesday 30 September 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "30.09",
-        "ticket_url": "https://www.bioaspen.se/movies/cinema-queer-downtown/",
-        "hall": "Salong 1",
-        "audio_language": "NL",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-30T18:00:00",
-        "normalized_date": "30.09",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-09-30T11:43:43.973866+00:00",
-    "source": "bioaspen"
-  },
-  {
-    "film_id": "cinema-queer-on-the-road",
-    "url": "https://www.bioaspen.se/movies/cinema-queer-on-the-road/",
-    "title": "Cinema Queer: ON THE ROAD",
-    "director": "",
-    "duration": "1 tim 33 min",
-    "language": "SPA",
-    "description": "David Pablos / Mexiko / 2025 / 93 min / engelska undertexterOnsdag 30 sep kl 20.00, AspenVeneno, upprorisk och rastlös rör han sig mellan Mexikos lastbilshak där han ligger med råbarkade chaufförer den ena värre än den andra. När han en dag hamnar i konflikt med den okända mexikanska maffian tvingas han fly hals över huvudet. I desperat behov av skjuts möter han Muñeco, en hård och inbunden chaufför. Han lyckas övertala Muñeco att ta med honom djupt in i den hypermaskulina världen av långtradartransporter genom norra Mexiko. Under resans gång växer en oväntad närhet fram mellan dem, men skuggor från Venenos förflutna dyker upp på nytt och sätter bådas liv på spel. En stenhård och hyperkänslig kärlekshistoria bland stora män och ännu större lastbilar.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/7194/1080/81b33739-17e1-48bd-aa70-96011b0791e6.jpeg",
-    "showtimes": [
-      {
-        "datetime": "2026-09-30T20:00:00",
-        "display_text": "Wednesday 30 September 2026 at 20:00",
-        "time": "20:00",
-        "date_section": "30.09",
-        "ticket_url": "https://www.bioaspen.se/movies/cinema-queer-on-the-road/",
-        "hall": "Salong 1",
-        "audio_language": "SPA",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-09-30T20:00:00",
-        "normalized_date": "30.09",
-        "normalized_time": "20:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-09-30T11:43:43.973906+00:00",
-    "source": "bioaspen"
-  },
-  {
     "film_id": "cinema-queer-the-arctic-circle-of-lust",
     "url": "https://www.bioaspen.se/movies/cinema-queer-the-arctic-circle-of-lust/",
     "title": "Cinema Queer: THE ARCTIC CIRCLE OF LUST",
@@ -86,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-30T11:43:43.973920+00:00",
+    "scraped_at": "2026-10-01T12:12:56.840386+00:00",
     "source": "bioaspen"
   },
   {
@@ -116,7 +56,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-30T11:43:43.973935+00:00",
+    "scraped_at": "2026-10-01T12:12:56.840438+00:00",
     "source": "bioaspen"
   },
   {
@@ -124,7 +64,7 @@
     "url": "https://www.bioaspen.se/movies/national-theatre-the-misanthrope/",
     "title": "National Theatre: The Misanthrope",
     "director": "Indhu Rubasingham",
-    "duration": "2 tim 30 min",
+    "duration": "1 tim 50 min",
     "language": "EN",
     "description": "Att säga sanningen är inte alltid så enkelt. Alice, en briljant romanförfattare, föraktar det moderna samhällets välpolerade lögner. Men ju mer hon utmanar människorna omkring sig, desto hårdare blir motreaktionerna. Snart tvingas hon konfrontera priset för att stå upp för sin sanning i en värld som hellre vill tysta henne.",
     "poster_url": "https://biljetter.bioaspen.se/media/posters/7207/1080/ca3af5d9-08fc-460d-98f0-d00e9356b3da.jpg",
@@ -146,7 +86,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-30T11:43:43.973946+00:00",
+    "scraped_at": "2026-10-01T12:12:56.840455+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1693710,
@@ -196,7 +136,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-30T11:43:43.973957+00:00",
+    "scraped_at": "2026-10-01T12:12:56.840470+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1461432,
@@ -246,7 +186,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-30T11:43:43.973969+00:00",
+    "scraped_at": "2026-10-01T12:12:56.840484+00:00",
     "source": "bioaspen"
   },
   {
@@ -276,7 +216,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-30T11:43:43.973986+00:00",
+    "scraped_at": "2026-10-01T12:12:56.840497+00:00",
     "source": "bioaspen"
   },
   {
@@ -306,7 +246,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-30T11:43:43.973999+00:00",
+    "scraped_at": "2026-10-01T12:12:56.840511+00:00",
     "source": "bioaspen"
   },
   {
@@ -336,7 +276,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-30T11:43:43.974011+00:00",
+    "scraped_at": "2026-10-01T12:12:56.840532+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1605919,
@@ -386,7 +326,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-30T11:43:43.974022+00:00",
+    "scraped_at": "2026-10-01T12:12:56.840549+00:00",
     "source": "bioaspen"
   },
   {
@@ -416,7 +356,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-30T11:43:43.974033+00:00",
+    "scraped_at": "2026-10-01T12:12:56.840564+00:00",
     "source": "bioaspen"
   },
   {
@@ -446,7 +386,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-30T11:43:43.974045+00:00",
+    "scraped_at": "2026-10-01T12:12:56.840577+00:00",
     "source": "bioaspen"
   },
   {
@@ -476,7 +416,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-09-30T11:43:43.974056+00:00",
+    "scraped_at": "2026-10-01T12:12:56.840590+00:00",
     "source": "bioaspen"
   }
 ]

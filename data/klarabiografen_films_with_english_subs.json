@@ -1,1 +1,443 @@
-[]
+[
+  {
+    "film_id": "misanthrope-national-theatre",
+    "url": "https://kulturhusetstadsteatern.se/bio/misanthrope-national-theatre",
+    "title": "The Misanthrope (National Theatre)",
+    "director": "",
+    "duration": "2 tim 30 min",
+    "language": "",
+    "description": "Sandra Oh briljerar i titelrollen i denna skarpa och moderna nytolkning av Molières klassiska komedi. En intelligent och tankeväckande föreställning om sanning, makt och priset för att säga vad man tycker.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-06/the-misanthrope-national-theatre-sandra-oh.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-02T18:00:00+02:00",
+        "display_text": "Friday 2 October 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "02.10",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31914/129933/",
+        "tix_event_id": 129933,
+        "tix_event_group_id": 31914,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-10-02T18:00:00",
+        "normalized_date": "02.10",
+        "normalized_time": "18:00"
+      },
+      {
+        "datetime": "2027-01-08T18:00:00+01:00",
+        "display_text": "Friday 8 January 2027 at 18:00",
+        "time": "18:00",
+        "date_section": "08.01",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31914/129932/",
+        "tix_event_id": 129932,
+        "tix_event_group_id": 31914,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2027-01-08T18:00:00",
+        "normalized_date": "08.01.2027",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-10-01T12:19:10.394894+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 511684,
+      "title": "The Misanthrope",
+      "overview": "This television film records Ingmar Bergman’s Copenhagen stage production of Molière’s The Misanthrope, presented as a guest performance at the Royal Danish Theatre. The play centers on Alceste, a man who rejects social hypocrisy and flattery, whose rigid principles are tested by his love for the socially adept Célimène.",
+      "release_date": "1974-05-10",
+      "rating": 6.8,
+      "vote_count": 4,
+      "genres": [
+        "Comedy",
+        "TV Movie"
+      ],
+      "poster_path": "/1bEjnqGgfTyaA7nfUYLBAVDVX6a.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1bEjnqGgfTyaA7nfUYLBAVDVX6a.jpg",
+      "backdrop_path": "/x7oPJoXAnGlWZhzDl7CqGvQcguU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/x7oPJoXAnGlWZhzDl7CqGvQcguU.jpg",
+      "imdb_id": "tt0184741",
+      "runtime": 115,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "persepolis-banned-books-week",
+    "url": "https://kulturhusetstadsteatern.se/bio/persepolis-banned-books-week",
+    "title": "Persepolis (Banned Books Week)",
+    "director": "",
+    "duration": "Film 1 tim 36 min + samtal",
+    "language": "",
+    "description": "Teheran 1978. Marjane är åtta år gammal och funderar över sin framtid i Iran efter den islamistiska revolutionen. Hon är uppväxt i en modern och sekulär familj, är älskad av sina föräldrar och hyser en speciell kärlek till sin mormor. Men bakom slöjan fantiserar Marjane om ett liv som revolutionär. ",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-09/Persepolis.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-06T18:45:00+02:00",
+        "display_text": "Tuesday 6 October 2026 at 18:45",
+        "time": "18:45",
+        "date_section": "06.10",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/32736/134956/",
+        "tix_event_id": 134956,
+        "tix_event_group_id": 32736,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-10-06T18:45:00",
+        "normalized_date": "06.10",
+        "normalized_time": "18:45"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-10-01T12:19:10.395049+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 2011,
+      "title": "Persepolis",
+      "overview": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
+      "release_date": "2007-06-27",
+      "rating": 7.9,
+      "vote_count": 2252,
+      "genres": [
+        "Animation",
+        "Drama"
+      ],
+      "poster_path": "/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg",
+      "backdrop_path": "/4pfb85bv0rKkmslTp2hzAqA7RT4.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/4pfb85bv0rKkmslTp2hzAqA7RT4.jpg",
+      "imdb_id": "tt0808417",
+      "runtime": 95,
+      "budget": 7300000,
+      "revenue": 22783990
+    }
+  },
+  {
+    "film_id": "les-liaisons-dangereuses",
+    "url": "https://kulturhusetstadsteatern.se/bio/les-liaisons-dangereuses",
+    "title": "Les Liaisons Dangereuses",
+    "director": "",
+    "duration": "3 tim inkl 1 paus",
+    "language": "",
+    "description": "En ny iscensättning av hyllade Les Liaisons Dangereuses (Farliga förbindelser), regisserad av Marianne Elliott. Lesley Manville och Aidan Turner spelar huvudrollerna i detta gripande drama om makt, begär och förförelse; filmat på National Theatre i London.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-03/Les%20Liaisons%20Dangereuses_affisch.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-09T18:00:00+02:00",
+        "display_text": "Friday 9 October 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "09.10",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/30106/123869/",
+        "tix_event_id": 123869,
+        "tix_event_group_id": 30106,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-10-09T18:00:00",
+        "normalized_date": "09.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-10-01T12:19:10.395155+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 968739,
+      "title": "Dangerous Liaisons",
+      "overview": "The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.",
+      "release_date": "2022-07-08",
+      "rating": 5.9,
+      "vote_count": 325,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/opTwqTgREzvP67ERVrqt0ApXbeV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/opTwqTgREzvP67ERVrqt0ApXbeV.jpg",
+      "backdrop_path": "/bW62WOLYzax1WSG6tDTuJ5dBdT7.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bW62WOLYzax1WSG6tDTuJ5dBdT7.jpg",
+      "imdb_id": "tt15548032",
+      "runtime": 109,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "funny-girl-musical",
+    "url": "https://kulturhusetstadsteatern.se/bio/funny-girl-musical",
+    "title": "Funny Girl - The Musical",
+    "director": "",
+    "duration": "2 timmar 40 min inkl 1 paus",
+    "language": "",
+    "description": "Funny Girl är den bitterljuva och kritikerrosade musikalen om Fanny Brice – med Sheridan Smith i en oförglömlig roll. Upplev tidlösa hits som ”Don’t Rain On My Parade” och ”People”. Premiär på Klarabiografen den 14 oktober!",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-06/Funny%20Girl%202.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-14T18:00:00+02:00",
+        "display_text": "Wednesday 14 October 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "14.10",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31913/129931/",
+        "tix_event_id": 129931,
+        "tix_event_group_id": 31913,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-10-14T18:00:00",
+        "normalized_date": "14.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-10-01T12:19:10.395300+00:00",
+    "source": "klarabiografen"
+  },
+  {
+    "film_id": "fogo-do-vento-ny-europeisk-film-portugal",
+    "url": "https://kulturhusetstadsteatern.se/bio/fogo-do-vento-ny-europeisk-film-portugal",
+    "title": "Fogo do Vento (Ny europeisk film - Portugal)",
+    "director": "",
+    "duration": "1 tim 30 min",
+    "language": "",
+    "description": "Ny europeisk film/ New European Film is back! This filmseries aims to put the spotlight on new European cinema from new directors across the continent.\r\nTicket price is 60 SEK and all the films are subtitled in English.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-09/FDV_CARTAZ_CMYK_70X100_300DPI_6.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-04T18:00:00+01:00",
+        "display_text": "Wednesday 4 November 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "04.11",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/32753/135037/",
+        "tix_event_id": 135037,
+        "tix_event_group_id": 32753,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-11-04T18:00:00",
+        "normalized_date": "04.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-10-01T12:19:10.395665+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 1315107,
+      "title": "Fire of Wind",
+      "overview": "The vine bore fruit, and it's harvest time. Soraia, a young girl, cuts herself. Blood mixes with wine. A black bull is on the loose. Up in the oak trees, time swells, and a community takes shelter. They share bread and wine, memories and dreams, the history of a landscape. We enter a long night, where nature also speaks. The fiery wind that brings the heatwaves, it's burning.",
+      "release_date": "2026-05-21",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/p7VusEWuJ1CPupCPBGtfBYHwkhR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/p7VusEWuJ1CPupCPBGtfBYHwkhR.jpg",
+      "backdrop_path": "/sRzdRwUGuDMVkT2gMWGjjtyvM2x.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sRzdRwUGuDMVkT2gMWGjjtyvM2x.jpg",
+      "imdb_id": "tt32881169",
+      "runtime": 72,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "golden-boy-national-theatre",
+    "url": "https://kulturhusetstadsteatern.se/bio/golden-boy-national-theatre",
+    "title": "Golden Boy (National Theatre)",
+    "director": "",
+    "duration": "180 min",
+    "language": "",
+    "description": "Josh O’Connor (The Crown; Challengers) spelar huvudrollen i denna gripande och helt utsålda nyuppsättning av Clifford Odets amerikanska klassiker. Premiär på Klarabiografen den 6 november.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-08/NTL%202026%20Golden%20Boy%20-%20Listing%20Image%20%28Portrait%29.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-06T18:00:00+01:00",
+        "display_text": "Friday 6 November 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "06.11",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/32146/130937/",
+        "tix_event_id": 130937,
+        "tix_event_group_id": 32146,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-11-06T18:00:00",
+        "normalized_date": "06.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-10-01T12:19:10.395728+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 526031,
+      "title": "Golden Boy",
+      "overview": "GOLDEN BOY is the story of James, a young man who gambles on the dangers of being seen versus the quiet life of desperation and invisibility. Saved from doomed nonexistence by CQ, a wealthy debonair businessman with more going on than meets the eye, and introduced to a world he is not ready to navigate. We follow him as he chases his dreams -- while losing himself, one piece at a time. GOLDEN BOY is a story with universal themes. Trust. Seduction. Betrayal. Redemption.",
+      "release_date": "2018-06-08",
+      "rating": 5.8,
+      "vote_count": 6,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/wsQ2cbGUcE6sxOBrfFA9giAIPv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wsQ2cbGUcE6sxOBrfFA9giAIPv.jpg",
+      "backdrop_path": "/yQBFq7dHpfDgt3BPM0ORSfsOEZU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yQBFq7dHpfDgt3BPM0ORSfsOEZU.jpg",
+      "imdb_id": "tt5152882",
+      "runtime": 105,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "kinky-boots-musical",
+    "url": "https://kulturhusetstadsteatern.se/bio/kinky-boots-musical",
+    "title": "Kinky Boots - The Musical",
+    "director": "",
+    "duration": "2 tim 15 min inkl 1 paus",
+    "language": "",
+    "description": "Säg ”Yeah!” och låt Kinky Boots lyfta humöret till svindlande höjder! Denna färgsprakande feelgood-musikal berättar historien om oväntad vänskap, modet att vara sig själv och kraften i att följa sina drömmar. Premiär på Klarabiografen den 25 november!",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-06/Kinky%20boots.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-25T18:00:00+01:00",
+        "display_text": "Wednesday 25 November 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "25.11",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31915/129934/",
+        "tix_event_id": 129934,
+        "tix_event_group_id": 31915,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-11-25T18:00:00",
+        "normalized_date": "25.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-10-01T12:19:10.395908+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 607181,
+      "title": "Kinky Boots: The Musical",
+      "overview": "Charlie Price is a shoe factory owner struggling to save his family business, and Lola is a fabulous entertainer with a wildly exciting idea. With a little compassion and a lot of understanding, this unexpected pair learn to embrace their differences and create a line of sturdy stilettos unlike any the world has ever seen!",
+      "release_date": "2019-06-25",
+      "rating": 7.8,
+      "vote_count": 61,
+      "genres": [
+        "Music",
+        "Comedy",
+        "Drama"
+      ],
+      "poster_path": "/20QfQHWGw0ZSfYaSinnsJoiVZCd.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/20QfQHWGw0ZSfYaSinnsJoiVZCd.jpg",
+      "backdrop_path": "/uce77WMOY76zDnKoIEC7wYfHmW6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/uce77WMOY76zDnKoIEC7wYfHmW6.jpg",
+      "imdb_id": "tt10442108",
+      "runtime": 122,
+      "budget": 0,
+      "revenue": 1880834
+    }
+  },
+  {
+    "film_id": "hetty-feather",
+    "url": "https://kulturhusetstadsteatern.se/bio/hetty-feather",
+    "title": "Hetty Feather ",
+    "director": "",
+    "duration": "2 tim 15 min inkl 1 paus",
+    "language": "",
+    "description": "Följ Hetty Feather på ett storslaget och känsloladdat äventyr från barnhem till cirkusliv i viktorianska London. En hyllad familjeföreställning fylld av spänning, värme och jakt på den egna familjen. Premiär på Klarabiografen 13 mars!",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-06/Hetty%20Feather.jpg",
+    "showtimes": [
+      {
+        "datetime": "2027-03-13T18:00:00+01:00",
+        "display_text": "Saturday 13 March 2027 at 18:00",
+        "time": "18:00",
+        "date_section": "13.03",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31972/130031/",
+        "tix_event_id": 130031,
+        "tix_event_group_id": 31972,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2027-03-13T18:00:00",
+        "normalized_date": "13.03.2027",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-10-01T12:19:10.396296+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 719803,
+      "title": "Hetty Feather: Live on Stage",
+      "overview": "Jacqueline Wilson's best-selling novel comes to life on stage as young Hetty Feather, who was abandoned by her mother in a Foundling Hospital, sets out to find the woman who left her behind. Her red hair, intrepid imagination, and feisty nature repeatedly get her into trouble along the way. Infused with live music and daring aerial feats, this new musical is perfect for the whole family.",
+      "release_date": "2020-04-15",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "poster_path": "/sWMCjMsx2gRjDP2U5iKWHQV2hez.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sWMCjMsx2gRjDP2U5iKWHQV2hez.jpg",
+      "backdrop_path": "/pS4Br6Q7sAxXUCk6v96tsBVLSXo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pS4Br6Q7sAxXUCk6v96tsBVLSXo.jpg",
+      "imdb_id": "tt12465976",
+      "runtime": 119,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "42nd-street",
+    "url": "https://kulturhusetstadsteatern.se/bio/42nd-street",
+    "title": "42nd Street",
+    "director": "",
+    "duration": "2 tim 30 min inkl 1 paus",
+    "language": "",
+    "description": "En glittrande Broadwayklassiker fylld av spektakulära dansnummer, odödliga hits och showbiz-magi. 42nd Street är den ultimata feelgood-musikalen om drömmar, talang och chansen att bli stjärna över en natt. Premiär på Klarabiografen 10 april.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-06/42nd%20street.jpg",
+    "showtimes": [
+      {
+        "datetime": "2027-04-10T18:00:00+02:00",
+        "display_text": "Saturday 10 April 2027 at 18:00",
+        "time": "18:00",
+        "date_section": "10.04",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31976/130034/",
+        "tix_event_id": 130034,
+        "tix_event_group_id": 31976,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2027-04-10T18:00:00",
+        "normalized_date": "10.04.2027",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-10-01T12:19:10.396395+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 1422112,
+      "title": "42nd Street",
+      "overview": "A sensory dive into the lives of dancers and artists hungry for fame, clashing with police tactics and unorthodox views. 42nd Street unveils a defiant counter-culture in the Dominican urban scene—all unfolding on a bold, unrelenting 600-meter 42nd street.",
+      "release_date": "2025-08-21",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Documentary"
+      ],
+      "poster_path": "/AgF6Xl5Qi0HoRBav4MzWN0rKZ6J.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AgF6Xl5Qi0HoRBav4MzWN0rKZ6J.jpg",
+      "backdrop_path": "/1IcsukEptFDxvxPpDUYs1OVO2fn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1IcsukEptFDxvxPpDUYs1OVO2fn.jpg",
+      "imdb_id": "tt35081754",
+      "runtime": 91,
+      "budget": 0,
+      "revenue": 0
+    }
+  }
+]

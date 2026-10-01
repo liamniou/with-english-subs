@@ -25,7 +25,7 @@
           "date": "2026-10-13",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 26,
+          "ticketsSold": 27,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -47,7 +47,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-30T11:44:40.001173",
+    "scraped_at": "2026-10-01T12:13:43.238400",
     "source": "biorio",
     "tmdb": {
       "id": 586810,
@@ -55,7 +55,7 @@
       "overview": "In 2200, private detective Aline Ruby and her android partner Carlos Rivera are hired by a wealthy businessman to track down a notorious hacker. On Mars, they descend deep into the underbelly of the planet's capital city where they uncover a darker story of brain farms, political corruption, and a missing girl who holds a secret about the robots that threatens to change the face of the universe.",
       "release_date": "2023-11-22",
       "rating": 7.456,
-      "vote_count": 596,
+      "vote_count": 597,
       "genres": [
         "Animation",
         "Science Fiction",
@@ -116,7 +116,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-09-30T11:44:42.384631",
+    "scraped_at": "2026-10-01T12:13:45.190330",
     "source": "biorio",
     "tmdb": {
       "id": 62,
@@ -124,7 +124,7 @@
       "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
       "release_date": "1968-04-02",
       "rating": 8.043,
-      "vote_count": 12986,
+      "vote_count": 12989,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -138,74 +138,6 @@
       "runtime": 149,
       "budget": 12000000,
       "revenue": 71923560
-    }
-  },
-  {
-    "film_id": "sanger-fran-andra-vaningen",
-    "url": "https://www.biorio.se/sv/filmer/sanger-fran-andra-vaningen",
-    "title": "Sånger från andra våningen",
-    "director": "Roy Andersson",
-    "showtimes": [
-      {
-        "datetime": "2026-11-22T14:45:00.000Z",
-        "display_text": "Sunday November 22, 2026 at 14:45",
-        "movie_id": "5941",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2836",
-        "api_data": {
-          "id": 2836,
-          "movieId": 5941,
-          "screenId": 1,
-          "screen": {
-            "id": 1,
-            "name": "Salong 1",
-            "capacity": 180
-          },
-          "startTime": "2026-11-22T14:45:00.000Z",
-          "endTime": "2026-11-22T16:25:00.000Z",
-          "date": "2026-11-22",
-          "time": "15:45",
-          "capacity": 180,
-          "ticketsSold": 0,
-          "status": "on_sale",
-          "is3D": false,
-          "isImax": false,
-          "membersOnly": false,
-          "excludeFromMemberBenefits": false,
-          "tags": [],
-          "basePrice": 150,
-          "onlineAvailableFrom": null,
-          "campaignFreeTicket": false
-        },
-        "normalized_datetime": "2026-11-22T14:45:00",
-        "normalized_date": "22.11",
-        "normalized_time": "14:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-09-30T11:45:02.603399",
-    "source": "biorio",
-    "tmdb": {
-      "id": 34070,
-      "title": "Songs from the Second Floor",
-      "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
-      "release_date": "2000-10-06",
-      "rating": 7.0,
-      "vote_count": 328,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster_path": "/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
-      "backdrop_path": "/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
-      "imdb_id": "tt0120263",
-      "runtime": 99,
-      "budget": 0,
-      "revenue": 80334
     }
   }
 ]
