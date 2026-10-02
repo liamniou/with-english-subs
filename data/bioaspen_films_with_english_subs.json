@@ -1,65 +1,5 @@
 [
   {
-    "film_id": "cinema-queer-the-arctic-circle-of-lust",
-    "url": "https://www.bioaspen.se/movies/cinema-queer-the-arctic-circle-of-lust/",
-    "title": "Cinema Queer: THE ARCTIC CIRCLE OF LUST",
-    "director": "",
-    "duration": "1 tim 37 min",
-    "language": "FI",
-    "description": "Markku Heikkinen / Finland, Tyskland, Sverige / 2026 / / 97 min / engelska undertexterTorsdag 1 okt kl 18.00, AspenLängst upp i de finska skogarna möter vi Petri och Anu. De är potatisbönder och ett par sedan många år tillbaka. De älskar varandra och trots de händelser som ärrat livet så lyser deras kärlek lika starkt som solen över potatisfälten i norr. Men så en dag så berättar Petri att han är bisexuell och deras relation sätts på prov. För hur balanserar man sin relation när man måste para potatisplockning med cruising på rastplatser och mathandling med heta möten i jacuzzin? Det blir till att sätta upp spelregler för relationen och för Petri och Amu att bestämma sig för vad som är viktigt för dem trots samhällets konventioner. Fylld av humor, kärlek och finsk sisu ger oss regissören Markku Heikkinen en stillsam film om att våga gå sin egen väg.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/7195/1080/b4ec8110-8def-43db-8219-0f62fa0e6743.jpeg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-01T18:00:00",
-        "display_text": "Thursday 1 October 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "01.10",
-        "ticket_url": "https://www.bioaspen.se/movies/cinema-queer-the-arctic-circle-of-lust/",
-        "hall": "Salong 1",
-        "audio_language": "FI",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-01T18:00:00",
-        "normalized_date": "01.10",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-10-01T12:12:56.840386+00:00",
-    "source": "bioaspen"
-  },
-  {
-    "film_id": "cinema-queer-six-months-in-a-pink-and-blue-building",
-    "url": "https://www.bioaspen.se/movies/cinema-queer-six-months-in-a-pink-and-blue-building/",
-    "title": "Cinema Queer: SIX MONTHS IN A PINK AND BLUE BUILDING",
-    "director": "",
-    "duration": "1 tim 45 min",
-    "language": "SPA",
-    "description": "Bruno Santamaría Razo / Mexiko / 2026 / 105 min / engelska undertexterTorsdag 1 okt kl 20.30, AspenDet är tidigt 90-tal i Mexiko City och det är äntligen dags för Brunos födelsedag. Hans bohemiska familj har bjudit in vänner och familj till en storslagen maskerad där temat är det motsatta biologiska könet. I virrvarret av höga klackar, lösmustascher och smäktade musik blir Brunos känslor för bästa vännen Vladimir omöjlig att dölja och kanske är det nu rätt tid att bekänna färg. Men när Brunos pappas plötsligt avslöjar den hemlighet han burit på är det mer än födelsedagsfesten som riskerar att slås i spillror. Regissören Bruno Santamaría Razo hämtar inspiration från sitt eget liv i den här poetiska uppväxtskildringen.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/7196/1080/34b093d7-5b44-4b67-9e1d-d148b7e2def0.jpeg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-01T20:30:00",
-        "display_text": "Thursday 1 October 2026 at 20:30",
-        "time": "20:30",
-        "date_section": "01.10",
-        "ticket_url": "https://www.bioaspen.se/movies/cinema-queer-six-months-in-a-pink-and-blue-building/",
-        "hall": "Salong 1",
-        "audio_language": "SPA",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-01T20:30:00",
-        "normalized_date": "01.10",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-10-01T12:12:56.840438+00:00",
-    "source": "bioaspen"
-  },
-  {
     "film_id": "national-theatre-the-misanthrope",
     "url": "https://www.bioaspen.se/movies/national-theatre-the-misanthrope/",
     "title": "National Theatre: The Misanthrope",
@@ -86,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-01T12:12:56.840455+00:00",
+    "scraped_at": "2026-10-02T11:42:14.626703+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1693710,
@@ -136,7 +76,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-01T12:12:56.840470+00:00",
+    "scraped_at": "2026-10-02T11:42:14.626741+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1461432,
@@ -186,7 +126,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-01T12:12:56.840484+00:00",
+    "scraped_at": "2026-10-02T11:42:14.626757+00:00",
     "source": "bioaspen"
   },
   {
@@ -216,7 +156,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-01T12:12:56.840497+00:00",
+    "scraped_at": "2026-10-02T11:42:14.626771+00:00",
     "source": "bioaspen"
   },
   {
@@ -246,7 +186,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-01T12:12:56.840511+00:00",
+    "scraped_at": "2026-10-02T11:42:14.626785+00:00",
     "source": "bioaspen"
   },
   {
@@ -276,7 +216,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-01T12:12:56.840532+00:00",
+    "scraped_at": "2026-10-02T11:42:14.626799+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1605919,
@@ -326,7 +266,37 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-01T12:12:56.840549+00:00",
+    "scraped_at": "2026-10-02T11:42:14.626812+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "reformatens-filmklubb-visar-reclaiming-cocoa",
+    "url": "https://www.bioaspen.se/movies/reformatens-filmklubb-visar-reclaiming-cocoa/",
+    "title": "Reformatens filmklubb visar Reclaiming Cocoa!",
+    "director": "Philippe Stalder",
+    "duration": "2 tim 12 min",
+    "language": "TBA",
+    "description": "Ghana står för omkring 25 procent av världens kakaoproduktion, men i över hundra år har vinsterna hamnat långt därifrån, i Europa, medan de lokala odlarna och samhällena fått en mycket liten del av kakan. Det behövs nya system där bönder och arbetare får en rättvis andel av det värde de är med och skapar. IReclaiming Cocoamöter vi några av de människor som arbetar för en mer hållbar och rättvis framtid för kakaon:",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7268/1080/f6bce411-c5fb-4502-a4dd-8f6ee0154467.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-28T18:00:00",
+        "display_text": "Wednesday 28 October 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "28.10",
+        "ticket_url": "https://www.bioaspen.se/movies/reformatens-filmklubb-visar-reclaiming-cocoa/",
+        "hall": "Salong 1",
+        "audio_language": "TBA",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-28T18:00:00",
+        "normalized_date": "28.10",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-10-02T11:42:14.626832+00:00",
     "source": "bioaspen"
   },
   {
@@ -356,7 +326,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-01T12:12:56.840564+00:00",
+    "scraped_at": "2026-10-02T11:42:14.626848+00:00",
     "source": "bioaspen"
   },
   {
@@ -386,7 +356,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-01T12:12:56.840577+00:00",
+    "scraped_at": "2026-10-02T11:42:14.626862+00:00",
     "source": "bioaspen"
   },
   {
@@ -416,7 +386,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-01T12:12:56.840590+00:00",
+    "scraped_at": "2026-10-02T11:42:14.626875+00:00",
     "source": "bioaspen"
   }
 ]

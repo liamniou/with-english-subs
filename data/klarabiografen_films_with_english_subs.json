@@ -4,7 +4,7 @@
     "url": "https://kulturhusetstadsteatern.se/bio/misanthrope-national-theatre",
     "title": "The Misanthrope (National Theatre)",
     "director": "",
-    "duration": "2 tim 30 min",
+    "duration": "1 tim 50 min",
     "language": "",
     "description": "Sandra Oh briljerar i titelrollen i denna skarpa och moderna nytolkning av Molières klassiska komedi. En intelligent och tankeväckande föreställning om sanning, makt och priset för att säga vad man tycker.",
     "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-06/the-misanthrope-national-theatre-sandra-oh.jpg",
@@ -39,7 +39,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-01T12:19:10.394894+00:00",
+    "scraped_at": "2026-10-02T11:48:25.240096+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 511684,
@@ -89,15 +89,15 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-01T12:19:10.395049+00:00",
+    "scraped_at": "2026-10-02T11:48:25.240232+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 2011,
       "title": "Persepolis",
       "overview": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
       "release_date": "2007-06-27",
-      "rating": 7.9,
-      "vote_count": 2252,
+      "rating": 7.878,
+      "vote_count": 2253,
       "genres": [
         "Animation",
         "Drama"
@@ -139,7 +139,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-01T12:19:10.395155+00:00",
+    "scraped_at": "2026-10-02T11:48:25.240327+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
@@ -189,7 +189,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-01T12:19:10.395300+00:00",
+    "scraped_at": "2026-10-02T11:48:25.240463+00:00",
     "source": "klarabiografen"
   },
   {
@@ -219,7 +219,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-01T12:19:10.395665+00:00",
+    "scraped_at": "2026-10-02T11:48:25.240853+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1315107,
@@ -268,7 +268,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-01T12:19:10.395728+00:00",
+    "scraped_at": "2026-10-02T11:48:25.240897+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 526031,
@@ -317,7 +317,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-01T12:19:10.395908+00:00",
+    "scraped_at": "2026-10-02T11:48:25.241019+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -368,7 +368,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-01T12:19:10.396296+00:00",
+    "scraped_at": "2026-10-02T11:48:25.241426+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -418,7 +418,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-01T12:19:10.396395+00:00",
+    "scraped_at": "2026-10-02T11:48:25.241523+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1422112,

@@ -1,52 +1,5 @@
 [
   {
-    "film_id": "hope",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Hope",
-    "director": "Na Hong-jin",
-    "duration": "2h 37 mins",
-    "language": "Koreanska",
-    "showtimes": [
-      {
-        "datetime": "2026-10-01T19:45:00+02:00",
-        "display_text": "Torsdag, 1st Oktober 19:45",
-        "time": "19:45",
-        "date_section": "Torsdag, 1st Oktober",
-        "ticket_url": "https://biofagelbla.se/movie/hope/?showtime=59729",
-        "showtime_id": "59729",
-        "normalized_datetime": "2026-10-01T19:45:00",
-        "normalized_date": "01.10",
-        "normalized_time": "19:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-10-01T12:19:08.731913+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 1058424,
-      "title": "Hope",
-      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "release_date": "2026-07-15",
-      "rating": 7.205,
-      "vote_count": 105,
-      "genres": [
-        "Science Fiction",
-        "Mystery",
-        "Action"
-      ],
-      "poster_path": "/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-      "backdrop_path": "/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
-      "imdb_id": "tt27369017",
-      "runtime": 157,
-      "budget": 46000000,
-      "revenue": 41212538
-    }
-  },
-  {
     "film_id": "the-sound-of-music",
     "url": "https://biofagelbla.se/program/",
     "title": "The Sound of Music",
@@ -69,14 +22,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-01T12:19:08.732289+00:00",
+    "scraped_at": "2026-10-02T11:48:23.737084+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 15121,
       "title": "The Sound of Music",
       "overview": "In the years before World War II, a tomboyish postulant at an Austrian abbey is hired as a governess in the home of a widowed naval captain with seven children and brings a new love of life and music into the home.",
       "release_date": "1965-03-29",
-      "rating": 7.728,
+      "rating": 7.7,
       "vote_count": 3751,
       "genres": [
         "Drama",
@@ -117,15 +70,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-01T12:19:08.732771+00:00",
+    "scraped_at": "2026-10-02T11:48:23.737636+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 797,
       "title": "Persona",
       "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
       "release_date": "1966-10-18",
-      "rating": 8.121,
-      "vote_count": 2495,
+      "rating": 8.12,
+      "vote_count": 2496,
       "genres": [
         "Drama"
       ],
@@ -162,14 +115,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-01T12:19:08.734016+00:00",
+    "scraped_at": "2026-10-02T11:48:23.738892+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.612,
+      "rating": 7.6,
       "vote_count": 4582,
       "genres": [
         "Comedy",
@@ -209,7 +162,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-01T12:19:08.734407+00:00",
+    "scraped_at": "2026-10-02T11:48:23.739301+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 3175,
@@ -217,7 +170,7 @@
       "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
       "release_date": "1975-12-16",
       "rating": 8.0,
-      "vote_count": 3298,
+      "vote_count": 3299,
       "genres": [
         "Drama",
         "History"
