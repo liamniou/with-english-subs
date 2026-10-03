@@ -1,68 +1,5 @@
 [
   {
-    "film_id": "misanthrope-national-theatre",
-    "url": "https://kulturhusetstadsteatern.se/bio/misanthrope-national-theatre",
-    "title": "The Misanthrope (National Theatre)",
-    "director": "",
-    "duration": "1 tim 50 min",
-    "language": "",
-    "description": "Sandra Oh briljerar i titelrollen i denna skarpa och moderna nytolkning av Molières klassiska komedi. En intelligent och tankeväckande föreställning om sanning, makt och priset för att säga vad man tycker.",
-    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-06/the-misanthrope-national-theatre-sandra-oh.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-02T18:00:00+02:00",
-        "display_text": "Friday 2 October 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "02.10",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31914/129933/",
-        "tix_event_id": 129933,
-        "tix_event_group_id": 31914,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-10-02T18:00:00",
-        "normalized_date": "02.10",
-        "normalized_time": "18:00"
-      },
-      {
-        "datetime": "2027-01-08T18:00:00+01:00",
-        "display_text": "Friday 8 January 2027 at 18:00",
-        "time": "18:00",
-        "date_section": "08.01",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31914/129932/",
-        "tix_event_id": 129932,
-        "tix_event_group_id": 31914,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2027-01-08T18:00:00",
-        "normalized_date": "08.01.2027",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Klarabiografen"
-    ],
-    "scraped_at": "2026-10-02T11:48:25.240096+00:00",
-    "source": "klarabiografen",
-    "tmdb": {
-      "id": 511684,
-      "title": "The Misanthrope",
-      "overview": "This television film records Ingmar Bergman’s Copenhagen stage production of Molière’s The Misanthrope, presented as a guest performance at the Royal Danish Theatre. The play centers on Alceste, a man who rejects social hypocrisy and flattery, whose rigid principles are tested by his love for the socially adept Célimène.",
-      "release_date": "1974-05-10",
-      "rating": 6.8,
-      "vote_count": 4,
-      "genres": [
-        "Comedy",
-        "TV Movie"
-      ],
-      "poster_path": "/1bEjnqGgfTyaA7nfUYLBAVDVX6a.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1bEjnqGgfTyaA7nfUYLBAVDVX6a.jpg",
-      "backdrop_path": "/x7oPJoXAnGlWZhzDl7CqGvQcguU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/x7oPJoXAnGlWZhzDl7CqGvQcguU.jpg",
-      "imdb_id": "tt0184741",
-      "runtime": 115,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "persepolis-banned-books-week",
     "url": "https://kulturhusetstadsteatern.se/bio/persepolis-banned-books-week",
     "title": "Persepolis (Banned Books Week)",
@@ -89,15 +26,15 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-02T11:48:25.240232+00:00",
+    "scraped_at": "2026-10-03T11:03:37.555305+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 2011,
       "title": "Persepolis",
       "overview": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
       "release_date": "2007-06-27",
-      "rating": 7.878,
-      "vote_count": 2253,
+      "rating": 7.879,
+      "vote_count": 2254,
       "genres": [
         "Animation",
         "Drama"
@@ -139,7 +76,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-02T11:48:25.240327+00:00",
+    "scraped_at": "2026-10-03T11:03:37.555396+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 968739,
@@ -189,7 +126,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-02T11:48:25.240463+00:00",
+    "scraped_at": "2026-10-03T11:03:37.555513+00:00",
     "source": "klarabiografen"
   },
   {
@@ -219,7 +156,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-02T11:48:25.240853+00:00",
+    "scraped_at": "2026-10-03T11:03:37.555927+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1315107,
@@ -268,7 +205,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-02T11:48:25.240897+00:00",
+    "scraped_at": "2026-10-03T11:03:37.555967+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 526031,
@@ -317,7 +254,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-02T11:48:25.241019+00:00",
+    "scraped_at": "2026-10-03T11:03:37.556095+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -339,6 +276,56 @@
       "runtime": 122,
       "budget": 0,
       "revenue": 1880834
+    }
+  },
+  {
+    "film_id": "misanthrope-national-theatre",
+    "url": "https://kulturhusetstadsteatern.se/bio/misanthrope-national-theatre",
+    "title": "The Misanthrope (National Theatre)",
+    "director": "",
+    "duration": "1 tim 50 min",
+    "language": "",
+    "description": "Sandra Oh briljerar i titelrollen i denna skarpa och moderna nytolkning av Molières klassiska komedi. En intelligent och tankeväckande föreställning om sanning, makt och priset för att säga vad man tycker.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-06/the-misanthrope-national-theatre-sandra-oh.jpg",
+    "showtimes": [
+      {
+        "datetime": "2027-01-08T18:00:00+01:00",
+        "display_text": "Friday 8 January 2027 at 18:00",
+        "time": "18:00",
+        "date_section": "08.01",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31914/129932/",
+        "tix_event_id": 129932,
+        "tix_event_group_id": 31914,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2027-01-08T18:00:00",
+        "normalized_date": "08.01.2027",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-10-03T11:03:37.556375+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 511684,
+      "title": "The Misanthrope",
+      "overview": "This television film records Ingmar Bergman’s Copenhagen stage production of Molière’s The Misanthrope, presented as a guest performance at the Royal Danish Theatre. The play centers on Alceste, a man who rejects social hypocrisy and flattery, whose rigid principles are tested by his love for the socially adept Célimène.",
+      "release_date": "1974-05-10",
+      "rating": 6.8,
+      "vote_count": 4,
+      "genres": [
+        "Comedy",
+        "TV Movie"
+      ],
+      "poster_path": "/1bEjnqGgfTyaA7nfUYLBAVDVX6a.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1bEjnqGgfTyaA7nfUYLBAVDVX6a.jpg",
+      "backdrop_path": "/x7oPJoXAnGlWZhzDl7CqGvQcguU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/x7oPJoXAnGlWZhzDl7CqGvQcguU.jpg",
+      "imdb_id": "tt0184741",
+      "runtime": 115,
+      "budget": 0,
+      "revenue": 0
     }
   },
   {
@@ -368,7 +355,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-02T11:48:25.241426+00:00",
+    "scraped_at": "2026-10-03T11:03:37.556488+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -418,7 +405,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-02T11:48:25.241523+00:00",
+    "scraped_at": "2026-10-03T11:03:37.556582+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1422112,

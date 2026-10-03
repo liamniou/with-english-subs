@@ -27,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-10-02T11:42:40.495878+00:00",
+    "scraped_at": "2026-10-03T10:56:43.650319+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1393326,
@@ -35,7 +35,7 @@
       "overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
       "release_date": "2026-04-16",
       "rating": 7.1,
-      "vote_count": 80,
+      "vote_count": 82,
       "genres": [
         "Horror",
         "Comedy",
@@ -48,7 +48,7 @@
       "imdb_id": "tt9000310",
       "runtime": 106,
       "budget": 0,
-      "revenue": 0
+      "revenue": 105743
     }
   },
   {
@@ -79,15 +79,15 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-10-02T11:42:41.390107+00:00",
+    "scraped_at": "2026-10-03T10:56:44.875048+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1314122,
       "title": "Bloody Tennis",
       "overview": "Sophie joins a prestigious tennis academy, where the brutality of competitive sports is taken to its extreme and only the hungriest survive.",
       "release_date": "2026-09-24",
-      "rating": 4.5,
-      "vote_count": 2,
+      "rating": 5.0,
+      "vote_count": 3,
       "genres": [
         "Horror",
         "Thriller"
@@ -130,7 +130,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-10-02T11:42:42.954173+00:00",
+    "scraped_at": "2026-10-03T10:56:46.929243+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1468846,
@@ -181,15 +181,15 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-10-02T11:42:43.407959+00:00",
+    "scraped_at": "2026-10-03T10:56:47.793004+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 110160,
       "title": "Laurence Anyways",
       "overview": "The story of an impossible love between a woman named Fred and a transgender woman named Laurence who reveals her inner desire to become her true self.",
       "release_date": "2012-05-18",
-      "rating": 7.6,
-      "vote_count": 918,
+      "rating": 7.612,
+      "vote_count": 919,
       "genres": [
         "Drama",
         "Romance"
