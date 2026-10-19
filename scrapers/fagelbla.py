@@ -22,7 +22,7 @@ import httpx
 import json
 import os
 from datetime import datetime, timezone
-from selectolax.parser import HTMLParser
+from selectolax.lexbor import LexborHTMLParser as HTMLParser
 from urllib.parse import urljoin, urlparse, parse_qs
 
 

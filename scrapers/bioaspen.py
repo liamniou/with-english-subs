@@ -19,7 +19,7 @@ from datetime import date, datetime, timezone
 from typing import Any
 
 import httpx
-from selectolax.parser import HTMLParser
+from selectolax.lexbor import LexborHTMLParser as HTMLParser
 
 
 BASE = "https://www.bioaspen.se"

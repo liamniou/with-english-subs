@@ -23,7 +23,7 @@ import json
 import os
 import re
 from datetime import datetime, timezone, timedelta
-from selectolax.parser import HTMLParser
+from selectolax.lexbor import LexborHTMLParser as HTMLParser
 from urllib.parse import urljoin, urlparse
 
 

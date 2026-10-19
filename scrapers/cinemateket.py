@@ -4,7 +4,7 @@ Cinemateket Stockholm web scraper to find films with English subtitles.
 """
 
 import httpx
-from selectolax.parser import HTMLParser
+from selectolax.lexbor import LexborHTMLParser as HTMLParser
 import time
 import json
 import os

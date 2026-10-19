@@ -5,7 +5,7 @@ Scrapes from https://www.biorio.se/aktuellt and follows movie links.
 """
 
 import httpx
-from selectolax.parser import HTMLParser
+from selectolax.lexbor import LexborHTMLParser as HTMLParser
 import time
 import json
 import os
@@ -126,7 +126,7 @@ class BioRio:
     
     def extract_movie_id(self, html_content):
         """Extract movie ID from the page source."""
-        from selectolax.parser import HTMLParser
+        from selectolax.lexbor import LexborHTMLParser as HTMLParser
 
         tree = HTMLParser(html_content)
 
