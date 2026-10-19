@@ -1,94 +1,94 @@
 [
   {
-    "film_id": "persona",
+    "film_id": "det-sjunde-inseglet",
     "url": "https://biofagelbla.se/program/",
-    "title": "Persona",
+    "title": "Det sjunde inseglet",
     "director": "Ingmar Bergman",
-    "duration": "1h 24 mins",
+    "duration": "1h 36 mins",
     "language": "Svensk",
     "showtimes": [
       {
-        "datetime": "2026-10-05T17:30:00+02:00",
-        "display_text": "Måndag, 5th Oktober 17:30",
-        "time": "17:30",
-        "date_section": "Måndag, 5th Oktober",
-        "ticket_url": "https://biofagelbla.se/movie/persona/?showtime=59706",
-        "showtime_id": "59706",
-        "normalized_datetime": "2026-10-05T17:30:00",
-        "normalized_date": "05.10",
-        "normalized_time": "17:30"
+        "datetime": "2026-10-19T20:00:00+02:00",
+        "display_text": "Måndag, 19th Oktober 20:00",
+        "time": "20:00",
+        "date_section": "Måndag, 19th Oktober",
+        "ticket_url": "https://biofagelbla.se/movie/det-sjunde-inseglet/?showtime=60189",
+        "showtime_id": "60189",
+        "normalized_datetime": "2026-10-19T20:00:00",
+        "normalized_date": "19.10",
+        "normalized_time": "20:00"
       }
     ],
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-03T11:03:35.726975+00:00",
+    "scraped_at": "2026-10-19T15:01:58.365751+00:00",
     "source": "fagelbla",
     "tmdb": {
-      "id": 797,
-      "title": "Persona",
-      "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
-      "release_date": "1966-10-18",
-      "rating": 8.119,
-      "vote_count": 2497,
+      "id": 490,
+      "title": "The Seventh Seal",
+      "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+      "release_date": "1957-02-16",
+      "rating": 8.134,
+      "vote_count": 3486,
       "genres": [
+        "Fantasy",
         "Drama"
       ],
-      "poster_path": "/cl0HEZT8UfzLqaMrYTvGNHOfPYj.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cl0HEZT8UfzLqaMrYTvGNHOfPYj.jpg",
-      "backdrop_path": "/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
-      "imdb_id": "tt0060827",
-      "runtime": 85,
-      "budget": 0,
-      "revenue": 250000
+      "poster_path": "/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+      "backdrop_path": "/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
+      "imdb_id": "tt0050976",
+      "runtime": 96,
+      "budget": 150000,
+      "revenue": 311212
     }
   },
   {
-    "film_id": "breakfast-at-tiffanys",
+    "film_id": "vargtimmen",
     "url": "https://biofagelbla.se/program/",
-    "title": "Breakfast at Tiffany’s",
-    "director": "Blake Edwards",
-    "duration": "1h 55 mins",
-    "language": "Engelska",
+    "title": "Vargtimmen",
+    "director": "Ingmar Bergman, Lenn Hjortzberg, Bo Arne Vibenius",
+    "duration": "1h 28 mins",
+    "language": "Svensk",
     "showtimes": [
       {
-        "datetime": "2026-10-17T10:30:00+02:00",
-        "display_text": "Lördag, 17th Oktober 10:30",
-        "time": "10:30",
-        "date_section": "Lördag, 17th Oktober",
-        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=58708",
-        "showtime_id": "58708",
-        "normalized_datetime": "2026-10-17T10:30:00",
-        "normalized_date": "17.10",
-        "normalized_time": "10:30"
+        "datetime": "2026-11-02T17:45:00+01:00",
+        "display_text": "Måndag, 2nd November 17:45",
+        "time": "17:45",
+        "date_section": "Måndag, 2nd November",
+        "ticket_url": "https://biofagelbla.se/movie/hour-of-the-wolf/?showtime=60374",
+        "showtime_id": "60374",
+        "normalized_datetime": "2026-11-02T17:45:00",
+        "normalized_date": "02.11",
+        "normalized_time": "17:45"
       }
     ],
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-03T11:03:35.728216+00:00",
+    "scraped_at": "2026-10-19T15:01:58.366583+00:00",
     "source": "fagelbla",
     "tmdb": {
-      "id": 164,
-      "title": "Breakfast at Tiffany's",
-      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
-      "release_date": "1961-10-06",
-      "rating": 7.6,
-      "vote_count": 4582,
+      "id": 18333,
+      "title": "Hour of the Wolf",
+      "overview": "While vacationing on a remote German island with his younger pregnant wife, an artist has an emotional breakdown while confronting his repressed desires.",
+      "release_date": "1968-02-19",
+      "rating": 7.4,
+      "vote_count": 583,
       "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
+        "Drama",
+        "Horror"
       ],
-      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
-      "imdb_id": "tt0054698",
-      "runtime": 115,
-      "budget": 2500000,
-      "revenue": 9500000
+      "poster_path": "/jSqTnEP1x1OcOglqrInYvGSF1tL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jSqTnEP1x1OcOglqrInYvGSF1tL.jpg",
+      "backdrop_path": "/pEHxojfy6EGOZ3e7TU9lREpWvNN.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pEHxojfy6EGOZ3e7TU9lREpWvNN.jpg",
+      "imdb_id": "tt0063759",
+      "runtime": 88,
+      "budget": 0,
+      "revenue": 0
     }
   },
   {
@@ -114,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-03T11:03:35.728631+00:00",
+    "scraped_at": "2026-10-19T15:01:58.366698+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 3175,
@@ -122,19 +122,232 @@
       "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
       "release_date": "1975-12-16",
       "rating": 8.0,
-      "vote_count": 3302,
+      "vote_count": 3322,
       "genres": [
         "Drama",
         "History"
       ],
-      "poster_path": "/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
+      "poster_path": "/A0byHUHMwZ7dtBQtfZ44QIgDbjo.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A0byHUHMwZ7dtBQtfZ44QIgDbjo.jpg",
       "backdrop_path": "/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
       "imdb_id": "tt0072684",
       "runtime": 188,
       "budget": 11000000,
       "revenue": 31500000
+    }
+  },
+  {
+    "film_id": "marie-antoinette",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Marie Antoinette",
+    "director": "Sofia Coppola",
+    "duration": "2h 3 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-11-14T10:30:00+01:00",
+        "display_text": "Lördag, 14th November 10:30",
+        "time": "10:30",
+        "date_section": "Lördag, 14th November",
+        "ticket_url": "https://biofagelbla.se/movie/marie-antoinette/?showtime=58698",
+        "showtime_id": "58698",
+        "normalized_datetime": "2026-11-14T10:30:00",
+        "normalized_date": "14.11",
+        "normalized_time": "10:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-10-19T15:01:58.366834+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 1887,
+      "title": "Marie Antoinette",
+      "overview": "A retelling of the story of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles.",
+      "release_date": "2006-05-24",
+      "rating": 6.7,
+      "vote_count": 3030,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "poster_path": "/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "backdrop_path": "/9hxBNoRjEDZGjyR1JpmmtxJWmVU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/9hxBNoRjEDZGjyR1JpmmtxJWmVU.jpg",
+      "imdb_id": "tt0422720",
+      "runtime": 123,
+      "budget": 40000000,
+      "revenue": 60917189
+    }
+  },
+  {
+    "film_id": "breakfast-at-tiffanys",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Breakfast at Tiffany’s",
+    "director": "Blake Edwards",
+    "duration": "1h 55 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-11-21T10:30:00+01:00",
+        "display_text": "Lördag, 21st November 10:30",
+        "time": "10:30",
+        "date_section": "Lördag, 21st November",
+        "ticket_url": "https://biofagelbla.se/movie/breakfast-at-tiffanys/?showtime=60383",
+        "showtime_id": "60383",
+        "normalized_datetime": "2026-11-21T10:30:00",
+        "normalized_date": "21.11",
+        "normalized_time": "10:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-10-19T15:01:58.367001+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 164,
+      "title": "Breakfast at Tiffany's",
+      "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+      "release_date": "1961-10-06",
+      "rating": 7.61,
+      "vote_count": 4599,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "poster_path": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "backdrop_path": "/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jXZ2tyJl44yKvh22I6ooQwU5rFM.jpg",
+      "imdb_id": "tt0054698",
+      "runtime": 115,
+      "budget": 2500000,
+      "revenue": 9500000
+    }
+  },
+  {
+    "film_id": "gosford-park",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Gosford Park",
+    "director": "Robert Altman",
+    "duration": "2h 17 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-11-29T10:30:00+01:00",
+        "display_text": "Söndag, 29th November 10:30",
+        "time": "10:30",
+        "date_section": "Söndag, 29th November",
+        "ticket_url": "https://biofagelbla.se/movie/gosford-park/?showtime=60378",
+        "showtime_id": "60378",
+        "normalized_datetime": "2026-11-29T10:30:00",
+        "normalized_date": "29.11",
+        "normalized_time": "10:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-10-19T15:01:58.367156+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 5279,
+      "title": "Gosford Park",
+      "overview": "In 1930s England, a group of pretentious rich and famous gather together for a weekend of relaxation at a hunting resort. But when a murder occurs, each one of these interesting characters becomes a suspect.",
+      "release_date": "2001-12-26",
+      "rating": 6.821,
+      "vote_count": 1309,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "poster_path": "/7r8DeZuaaHCiOEbkqZC6MFmwJ69.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7r8DeZuaaHCiOEbkqZC6MFmwJ69.jpg",
+      "backdrop_path": "/936dZMmlCejiIzDe5jWsxdTSoOf.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/936dZMmlCejiIzDe5jWsxdTSoOf.jpg",
+      "imdb_id": "tt0280707",
+      "runtime": 137,
+      "budget": 19800000,
+      "revenue": 87754044
+    }
+  },
+  {
+    "film_id": "fanny-och-alexander--complete-version",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Fanny och Alexander – Complete version",
+    "director": "Ingmar Bergman",
+    "duration": "5h 12 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-12-13T10:00:00+01:00",
+        "display_text": "Söndag, 13th December 10:00",
+        "time": "10:00",
+        "date_section": "Söndag, 13th December",
+        "ticket_url": "https://biofagelbla.se/movie/fanny-och-alexander/?showtime=60390",
+        "showtime_id": "60390",
+        "normalized_datetime": "2026-12-13T10:00:00",
+        "normalized_date": "13.12",
+        "normalized_time": "10:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-10-19T15:01:58.367354+00:00",
+    "source": "fagelbla"
+  },
+  {
+    "film_id": "its-a-wonderful-life",
+    "url": "https://biofagelbla.se/program/",
+    "title": "It’s a Wonderful Life",
+    "director": "Frank Capra",
+    "duration": "2h 11 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-12-20T10:30:00+01:00",
+        "display_text": "Söndag, 20th December 10:30",
+        "time": "10:30",
+        "date_section": "Söndag, 20th December",
+        "ticket_url": "https://biofagelbla.se/movie/its-a-wonderful-life/?showtime=60392",
+        "showtime_id": "60392",
+        "normalized_datetime": "2026-12-20T10:30:00",
+        "normalized_date": "20.12",
+        "normalized_time": "10:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-10-19T15:01:58.367551+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 1585,
+      "title": "It's a Wonderful Life",
+      "overview": "George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
+      "release_date": "1946-12-20",
+      "rating": 8.277,
+      "vote_count": 5113,
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "poster_path": "/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "backdrop_path": "/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg",
+      "imdb_id": "tt0038650",
+      "runtime": 131,
+      "budget": 3180000,
+      "revenue": 9644124
     }
   }
 ]

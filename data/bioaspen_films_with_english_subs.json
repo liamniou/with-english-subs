@@ -1,103 +1,33 @@
 [
   {
-    "film_id": "national-theatre-the-misanthrope",
-    "url": "https://www.bioaspen.se/movies/national-theatre-the-misanthrope/",
-    "title": "National Theatre: The Misanthrope",
-    "director": "Indhu Rubasingham",
-    "duration": "1 tim 50 min",
+    "film_id": "penny-lane-is-dead",
+    "url": "https://www.bioaspen.se/movies/penny-lane-is-dead/",
+    "title": "Monsters of film: Penny Lane Is Dead",
+    "director": "Mia'Kate Russell",
+    "duration": "1 tim 30 min",
     "language": "EN",
-    "description": "Att säga sanningen är inte alltid så enkelt. Alice, en briljant romanförfattare, föraktar det moderna samhällets välpolerade lögner. Men ju mer hon utmanar människorna omkring sig, desto hårdare blir motreaktionerna. Snart tvingas hon konfrontera priset för att stå upp för sin sanning i en värld som hellre vill tysta henne.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/7207/1080/ca3af5d9-08fc-460d-98f0-d00e9356b3da.jpg",
+    "description": "Mia’Kate Russell,med 20 års erfarenhet som makeup- och special effects-artist, bl a på filmer somNitramochBetter Man, gör en briljant långfilmsdebut i den klassiska ozploitation-traditionen. Hon beskriver den själv som en queer love story blandad med punk, dark comedy och med kritik av australisk ”bloke culture” inspirerad av bland andra John Waters, David Lynch och Pedro Almodovar. Producenterna bakomTalk to Mestår bakom. Filmen hade premiär med “pink carpet” på Adelaide Film Festival.Under Fantasia Film Festival i Montréal 2026 svimmade åtminstone en åskådare under en särskilt grym scen med en köksmaskin.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7243/1080/7ef0805a-2b9e-4482-87f5-a03e274caf21.jpeg",
     "showtimes": [
       {
-        "datetime": "2026-10-04T17:30:00",
-        "display_text": "Sunday 4 October 2026 at 17:30",
-        "time": "17:30",
-        "date_section": "04.10",
-        "ticket_url": "https://www.bioaspen.se/movies/national-theatre-the-misanthrope/",
+        "datetime": "2026-10-19T20:30:00",
+        "display_text": "Monday 19 October 2026 at 20:30",
+        "time": "20:30",
+        "date_section": "19.10",
+        "ticket_url": "https://www.bioaspen.se/movies/penny-lane-is-dead/",
         "hall": "Salong 1",
         "audio_language": "EN",
         "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-04T17:30:00",
-        "normalized_date": "04.10",
-        "normalized_time": "17:30"
+        "normalized_datetime": "2026-10-19T20:30:00",
+        "normalized_date": "19.10",
+        "normalized_time": "20:30"
       }
     ],
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-03T10:56:16.202712+00:00",
-    "source": "bioaspen",
-    "tmdb": {
-      "id": 1693710,
-      "title": "National Theatre Live: The Misanthrope",
-      "overview": "Alice, a brilliant novelist, despises the hollow contemporary mantras of kindness and respect. But the bolder she becomes in speaking out, the more colleagues avoid her, and the more her personal relationships begin to fracture. As she challenges fashionable ideas and lends her voice to causes others are afraid to touch, she faces intense criticism and backlash. Alice will soon learn the price she must pay as an artist and as a woman for daring to speak her mind. Award-winner Sandra Oh is the Misanthrope in Martin Crimp's cutting new version of Molière's dark comedy, directed by National Theatre Director Indhu Rubasingham.",
-      "release_date": "2026-09-22",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster_path": "/u7Ew5OYKnctM5UIaBOnpum9Yx6C.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/u7Ew5OYKnctM5UIaBOnpum9Yx6C.jpg",
-      "backdrop_path": "/odug5Awh1Xl2NZqvns6xMXDpDYs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/odug5Awh1Xl2NZqvns6xMXDpDYs.jpg",
-      "imdb_id": "tt42715304",
-      "runtime": 105,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "arkipelag",
-    "url": "https://www.bioaspen.se/movies/arkipelag/",
-    "title": "Arkipelag - english subtitles",
-    "director": "Alex Schulman",
-    "duration": "1 tim 47 min",
-    "language": "SV",
-    "description": "Laddat drama möter mörk humor när Alex Schulman regidebuterar med Arkipelag, där Gustaf Skarsgård, Fares Fares och Linus Wahlgren spelar tre pappor som följer med sina döttrar på en skolresa till helvetet. Strandsatta med en stökig högstadieklass på en idyllisk skärgårdsö påminns de om egna tonårstrauman. Precis som ungdomarna tvingas de snart också inse hur svårt det är att dra gränsen mellan lek och farlig maktkamp, och att skilja offer från förövare. Arkipelag är årets svenska Oscarsbidrag.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/7254/1080/5f1152f3-8a20-4beb-b091-3dcba49a8fc9.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-12T18:15:00",
-        "display_text": "Monday 12 October 2026 at 18:15",
-        "time": "18:15",
-        "date_section": "12.10",
-        "ticket_url": "https://www.bioaspen.se/movies/arkipelag/",
-        "hall": "Salong 1",
-        "audio_language": "SV",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-12T18:15:00",
-        "normalized_date": "12.10",
-        "normalized_time": "18:15"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-10-03T10:56:16.202748+00:00",
-    "source": "bioaspen",
-    "tmdb": {
-      "id": 1461432,
-      "title": "Adult Supervision",
-      "overview": "Three fathers accompany their teenage daughters on a school trip to a remote island. What begins as a peaceful getaway soon turns into a series of unexpected problems. Each father has a different approach to parenting, influenced by his own past experiences, and their conflicting views create tension among them. As the situation becomes increasingly difficult to control, memories of their past return and force them to confront their mistakes and shortcomings. The trip ultimately leaves them questioning who is really in control.",
-      "release_date": "2026-10-09",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster_path": "/rBR8DmaMqRcxv6Ewgg6rwczV8EY.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rBR8DmaMqRcxv6Ewgg6rwczV8EY.jpg",
-      "backdrop_path": "/iAmfSMQNJG4UuTdTQdqgLO8GDlI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/iAmfSMQNJG4UuTdTQdqgLO8GDlI.jpg",
-      "imdb_id": "tt36462731",
-      "runtime": 108,
-      "budget": 0,
-      "revenue": 0
-    }
+    "scraped_at": "2026-10-19T14:55:46.102538+00:00",
+    "source": "bioaspen"
   },
   {
     "film_id": "phantoms-of-july",
@@ -126,7 +56,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-03T10:56:16.202764+00:00",
+    "scraped_at": "2026-10-19T14:55:46.102588+00:00",
     "source": "bioaspen"
   },
   {
@@ -156,7 +86,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-03T10:56:16.202778+00:00",
+    "scraped_at": "2026-10-19T14:55:46.102604+00:00",
     "source": "bioaspen"
   },
   {
@@ -186,7 +116,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-03T10:56:16.202809+00:00",
+    "scraped_at": "2026-10-19T14:55:46.102617+00:00",
     "source": "bioaspen"
   },
   {
@@ -216,7 +146,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-03T10:56:16.202823+00:00",
+    "scraped_at": "2026-10-19T14:55:46.102636+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1605919,
@@ -266,38 +196,58 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-03T10:56:16.202837+00:00",
+    "scraped_at": "2026-10-19T14:55:46.102649+00:00",
     "source": "bioaspen"
   },
   {
-    "film_id": "reformatens-filmklubb-visar-reclaiming-cocoa",
-    "url": "https://www.bioaspen.se/movies/reformatens-filmklubb-visar-reclaiming-cocoa/",
-    "title": "Reformatens filmklubb visar Reclaiming Cocoa!",
-    "director": "Philippe Stalder",
-    "duration": "2 tim 12 min",
-    "language": "TBA",
-    "description": "Ghana står för omkring 25 procent av världens kakaoproduktion, men i över hundra år har vinsterna hamnat långt därifrån, i Europa, medan de lokala odlarna och samhällena fått en mycket liten del av kakan. Det behövs nya system där bönder och arbetare får en rättvis andel av det värde de är med och skapar. IReclaiming Cocoamöter vi några av de människor som arbetar för en mer hållbar och rättvis framtid för kakaon:",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/7268/1080/f6bce411-c5fb-4502-a4dd-8f6ee0154467.jpg",
+    "film_id": "arkipelag",
+    "url": "https://www.bioaspen.se/movies/arkipelag/",
+    "title": "Arkipelag - english subtitles",
+    "director": "Alex Schulman",
+    "duration": "1 tim 47 min",
+    "language": "SV",
+    "description": "Laddat drama möter mörk humor när Alex Schulman regidebuterar med Arkipelag, där Gustaf Skarsgård, Fares Fares och Linus Wahlgren spelar tre pappor som följer med sina döttrar på en skolresa till helvetet. Strandsatta med en stökig högstadieklass på en idyllisk skärgårdsö påminns de om egna tonårstrauman. Precis som ungdomarna tvingas de snart också inse hur svårt det är att dra gränsen mellan lek och farlig maktkamp, och att skilja offer från förövare. Arkipelag är årets svenska Oscarsbidrag.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7254/1080/919b8525-64f0-4d7a-982e-03b2a927ffbf.jpeg",
     "showtimes": [
       {
-        "datetime": "2026-10-28T18:00:00",
-        "display_text": "Wednesday 28 October 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "28.10",
-        "ticket_url": "https://www.bioaspen.se/movies/reformatens-filmklubb-visar-reclaiming-cocoa/",
+        "datetime": "2026-10-30T18:15:00",
+        "display_text": "Friday 30 October 2026 at 18:15",
+        "time": "18:15",
+        "date_section": "30.10",
+        "ticket_url": "https://www.bioaspen.se/movies/arkipelag/",
         "hall": "Salong 1",
-        "audio_language": "TBA",
+        "audio_language": "SV",
         "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-28T18:00:00",
-        "normalized_date": "28.10",
-        "normalized_time": "18:00"
+        "normalized_datetime": "2026-10-30T18:15:00",
+        "normalized_date": "30.10",
+        "normalized_time": "18:15"
       }
     ],
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-03T10:56:16.202856+00:00",
-    "source": "bioaspen"
+    "scraped_at": "2026-10-19T14:55:46.102662+00:00",
+    "source": "bioaspen",
+    "tmdb": {
+      "id": 1461432,
+      "title": "Adult Supervision",
+      "overview": "Three fathers accompany their teenage daughters on a school trip to a remote island. What begins as a peaceful getaway soon turns into a series of unexpected problems. Each father has a different approach to parenting, influenced by his own past experiences, and their conflicting views create tension among them. As the situation becomes increasingly difficult to control, memories of their past return and force them to confront their mistakes and shortcomings. The trip ultimately leaves them questioning who is really in control.",
+      "release_date": "2026-10-09",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster_path": "/rBR8DmaMqRcxv6Ewgg6rwczV8EY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rBR8DmaMqRcxv6Ewgg6rwczV8EY.jpg",
+      "backdrop_path": "/iAmfSMQNJG4UuTdTQdqgLO8GDlI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/iAmfSMQNJG4UuTdTQdqgLO8GDlI.jpg",
+      "imdb_id": "tt36462731",
+      "runtime": 108,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "tre-kortfilmer-av-jani-peltonen-med-regissorssamtal",
@@ -326,7 +276,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-03T10:56:16.202871+00:00",
+    "scraped_at": "2026-10-19T14:55:46.102677+00:00",
     "source": "bioaspen"
   },
   {
@@ -356,7 +306,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-03T10:56:16.202885+00:00",
+    "scraped_at": "2026-10-19T14:55:46.102693+00:00",
     "source": "bioaspen"
   },
   {
@@ -386,7 +336,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-03T10:56:16.202899+00:00",
+    "scraped_at": "2026-10-19T14:55:46.102708+00:00",
     "source": "bioaspen"
   }
 ]

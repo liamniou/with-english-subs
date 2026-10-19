@@ -1,242 +1,12 @@
 [
   {
-    "film_id": "afternoon-tea-gosford-park",
-    "url": "https://www.capitolbio.se/filmer/afternoon-tea-gosford-park/4329",
-    "title": "Afternoon Tea: Gosford Park",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "En grupp aristokrater samlas på godset Gosford Park för en jakthelg. Snart inträffar ett mord som får den polerade fasaden att spricka  och både gäster och personal blir misstänkta i mordgåtan som avslöjar klasskonflikter och maktspel. \n\nEn briljant ensemble skriven av skaparen till Downton Abbey Julian Fellowes.\n\nCapitols Afternoon Tea-meny:\nScones\nMed vispad grädde & sylt\n\nCucumber sandwich\nBrittisk toast med gurka och färskost\n\nChickpea sandwich \nKikärtsröra med paprika- & citronmajonnäs och groddar på vitt bröd\n\nBlue Cheese on ryebread\nÄdelostkräm med plommonmarmelad på rågbröd\n\nScottish shortbread\nFrasig småkaka med kokos och citron\n\nVictoria cake\nSockerkaka med smörcrème och jordgubbsylt\n\nMini Bakewell tart\nMinipaj med körsbär och choklad\n\nTill detta serveras nybryggt te, ett grönt och ett svart.\n\nVill ni lyxa till det lite extra? Toppa eftermiddagen med en flaska champagne – den ultimata drycken till en stämningsfull film.\n\nVi serverar de förköpta menyerna vid era platser i salongen.\nVänligen observera att innehållet i menyn inte kan ändras efter individuella önskemål. Innehållet kan inte heller ändras till gluten- och/eller laktosfria alternativ.\n\nVÄLKOMNA!\n\n\nOBS! Senast kl. 21.00 på tisdagen i samma vecka som biovisningen måste din beställning av Afternoon tea-paket vara registrerad.\n\nEtt fåtal Afternoon tea-paket finns att köpa på plats hos oss, kom gärna i god tid då först till kvarn gäller. I foajébaren kan du beställa dryck och snacks innan, under och efter visningen.\n\nFler Afternoon Teas att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4329/1920/12d136ef-859d-4e5b-8274-48ec4ac67804.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-03T14:00:00",
-        "display_text": "Saturday 3 October 2026 at 14:00",
-        "time": "14:00",
-        "date_section": "03.10",
-        "ticket_url": "https://www.capitolbio.se/boka/51922",
-        "booking_id": "51922",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-03T14:00:00",
-        "normalized_date": "03.10",
-        "normalized_time": "14:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-10-03T10:57:52.820760+00:00",
-    "source": "capitolbio"
-  },
-  {
-    "film_id": "queen-budapest",
-    "url": "https://www.capitolbio.se/filmer/queen-budapest/4576",
-    "title": "Queen Budapest",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Queen Budapest, den sista filmade livekonserten med Queen, har digitaliserats i knivskarp 4K-upplösning och fått en helt ny dynamisk ljudmix.\n\n27 juli 1986 klev Queen upp på Népstadion i Budapest och levererade sin största stadionkonsert någonsin inför 80 000 extatiska fans. Spelningen gjordes under den legendariska turnén 'Magic Tour', bandets allra sista turné med Freddie Mercury. Filmen bjuder på en rad av Queens absolut största hits, däribland Bohemian Rhapsody, Crazy Little Thing Called Love, I Want To Break Free och We Are The Champions.\n\nEftersom det fortfarande återstod tre år innan Berlinmurens fall, blev detta den första västerländska rockkonserten som arrangerades på en stor arena bakom järnridån. Historien var så pass unik att de ungerska myndigheterna och landets filmindustri samlade sina absolut främsta filmfotografer och tekniker för att dokumentera hela händelsen för eftervärlden.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4576/1920/46328707-077b-4c73-a391-53845bec664e.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-07T18:00:00",
-        "display_text": "Wednesday 7 October 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "07.10",
-        "ticket_url": "https://www.capitolbio.se/boka/52290",
-        "booking_id": "52290",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-07T18:00:00",
-        "normalized_date": "07.10",
-        "normalized_time": "18:00"
-      },
-      {
-        "datetime": "2026-10-10T18:10:00",
-        "display_text": "Saturday 10 October 2026 at 18:10",
-        "time": "18:10",
-        "date_section": "10.10",
-        "ticket_url": "https://www.capitolbio.se/boka/52291",
-        "booking_id": "52291",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-10T18:10:00",
-        "normalized_date": "10.10",
-        "normalized_time": "18:10"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-10-03T10:57:52.820840+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 142773,
-      "title": "Queen: Budapest",
-      "overview": "On 27 July 1986, Queen performed the largest-ever stadium concert at the Népstadion in Budapest in front of 80,000 ecstatic fans. The concert was part of the famed Magic Tour, which was the last time the band toured with lead singer Freddie Mercury.",
-      "release_date": "2012-09-20",
-      "rating": 8.2,
-      "vote_count": 80,
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "poster_path": "/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
-      "backdrop_path": "/vhPl9k80mgiTbR3hkaGjTU0fyQI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vhPl9k80mgiTbR3hkaGjTU0fyQI.jpg",
-      "imdb_id": "tt0093427",
-      "runtime": 96,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "brokeback-mountain-med-samtal",
-    "url": "https://www.capitolbio.se/filmer/brokeback-mountain-med-samtal/4641",
-    "title": "Brokeback Mountain med samtal",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "I samband med International Coming Out Day visas klassikern Brokeback Mountain\n\nVisningen inleds med ett samtal med RFSL Stockholm om filmens betydelse och om att komma ut. Efter filmen genomförs ett samtal med ensemblen från musikalversionen av Brokeback Mountain som har premiär på Intiman den 19:e november.\n\nProgram\n16.00-16.15: Samtal mellan Jennie Graflund ordförande RFSL och journalisten och författaren Emil Åkerö om filmen.\n16.15-18.30: Filmvisning\n18.30-19.00: Emil samtalar med Samuel Astor och Malte Gårdinger om filmen och scenversionen.\n\nHandling\nEnnis och Jack möts när de en sommar ska vakta en flock får i bergen vid Brokeback Mountain. Det blir inledningen på en komplicerad och sorglig kärlekshistoria som sträcker sig över 20 år mellan två män som tvingas dölja sin kärlek på grund av omgivningens intolerans.\n\nArrangeras i samarbete med 2Entertain, RFSL Stockholm och produktionsbolaget Nördarnas Drottning och Bitterbögarnas Kung.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4641/1920/660da732-45ed-4bad-9a66-9e7927c442a1.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-11T16:00:00",
-        "display_text": "Sunday 11 October 2026 at 16:00",
-        "time": "16:00",
-        "date_section": "11.10",
-        "ticket_url": "https://www.capitolbio.se/boka/52776",
-        "booking_id": "52776",
-        "hall": "Salong 1",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-11T16:00:00",
-        "normalized_date": "11.10",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-10-03T10:57:52.820872+00:00",
-    "source": "capitolbio"
-  },
-  {
-    "film_id": "cocktail",
-    "url": "https://www.capitolbio.se/filmer/cocktail/2593",
-    "title": "Cocktail",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Ung, självsäker och ambitiös. Brian Flanagan drömmer om framgång som börsmäklare. Men mycket snart inser Brian att det ligger mer pengar i att servera drinkar, än vad han kan göra på aktier. Brian dras in i en värld av sex och lättförtjänta pengar. Karusellen går allt snabbare, och utan att kunna hejda den går han mot en katastrof. \n80-tal, New York och en ung Tom Cruise, den där blandningen av komedi och romantik är svårslagen men 80-tals filmerna lyckades gång på gång. Dagens filmer har svårt att lyckas med den kombinationen så det är alltid skönt att ta sig an en gammal hederlig 80-talare som får till mysfaktorn.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/2593/1920/1e095671-2912-4771-bd48-503c81bd6346.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-12T18:00:00",
-        "display_text": "Monday 12 October 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "12.10",
-        "ticket_url": "https://www.capitolbio.se/boka/52407",
-        "booking_id": "52407",
-        "hall": "Salong 4",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-12T18:00:00",
-        "normalized_date": "12.10",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-10-03T10:57:52.820890+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 1392469,
-      "title": "Cocktail 2",
-      "overview": "A vacation in Sicily forces longtime partners Diya and Kunal to question their love and commitment after they reunite with Diya's old friend Ally.",
-      "release_date": "2026-06-19",
-      "rating": 5.6,
-      "vote_count": 36,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "poster_path": "/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
-      "backdrop_path": "/7CJQvCO8aNKEewAFw90qvQ7fr1T.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7CJQvCO8aNKEewAFw90qvQ7fr1T.jpg",
-      "imdb_id": "tt35064672",
-      "runtime": 150,
-      "budget": 15872640,
-      "revenue": 12947333
-    }
-  },
-  {
-    "film_id": "valerie-and-her-week-of-wonders-med-per-faxneld",
-    "url": "https://www.capitolbio.se/filmer/valerie-and-her-week-of-wonders-med-per-faxneld/4599",
-    "title": "Valerie and Her Week of Wonders med Per Faxneld",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Välkommen på esoterisk afton!\n\nVampyrer, häxor och onda präster i gotisk-surrealistisk tjeckoslovakisk klassiker från 1970. Med sitt magnifika bildspråk och Luboš Fišers kusliga psykedeliska soundtrack har denna anti-katolska feberdröm behållit all sin sprängkraft. Filmen kom att påverka bland annat författaren Angela Carter och regissörer som Neil Jordan och Guillermo del Toro. Ett delirium höljt i vit spets, droppande blod och prunkande blommor – som du aldrig kommer vilja lämna!  \n\nInnan visningen håller Per Faxneld, professor i religionsvetenskap, en introduktion om den märkliga roman filmen är baserad på och de traditioner som inspirerade regissören.\n\nOBS, inga återköp eller byten gäller på föreläsningar.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4599/1920/f5bc51ee-8daa-40ef-82dd-4cf22e3e6ea4.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-14T20:15:00",
-        "display_text": "Wednesday 14 October 2026 at 20:15",
-        "time": "20:15",
-        "date_section": "14.10",
-        "ticket_url": "https://www.capitolbio.se/boka/52515",
-        "booking_id": "52515",
-        "hall": "Salong 2",
-        "audio_language": "CS",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-14T20:15:00",
-        "normalized_date": "14.10",
-        "normalized_time": "20:15"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-10-03T10:57:52.820910+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 46315,
-      "title": "Valerie and Her Week of Wonders",
-      "overview": "Valerie, a Czechoslovakian teenager living with her grandmother, is blossoming into womanhood, but that transformation proves secondary to the effects she experiences when she puts on a pair of magic earrings. Now seeing the world around her in a different light, Valerie must endure her sexual awakening while attempting to discern reality from fantasy as she encounters lecherous priest Gracian, a vampire-like stranger and otherworldly carnival folk.",
-      "release_date": "1970-10-16",
-      "rating": 7.0,
-      "vote_count": 325,
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Drama"
-      ],
-      "poster_path": "/lY0IkdouazLBpPYot8dsPAsJqHK.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lY0IkdouazLBpPYot8dsPAsJqHK.jpg",
-      "backdrop_path": "/cygF3MFce4MDpvyqDQXNvZiytc4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cygF3MFce4MDpvyqDQXNvZiytc4.jpg",
-      "imdb_id": "tt0066516",
-      "runtime": 73,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "videodrome",
     "url": "https://www.capitolbio.se/filmer/videodrome/1798",
     "title": "Videodrome",
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "100% David Cronenberg\n100% Body Horror\n\nScience fiction-skräckfilmaren DAVID CRONENBERGS djävulska invasionsmakt är en TV-show som förför och kontrollerar sina tittare. Med DEBORAH HERRY (i sin första stora film) i rollen som bisarr TV-värdinna, James Woods som programmakare för kabel-TV på jakt efter den ultimata publikrysaren och specialeffekter på sminkområdet skapade av Oscarvinnaren Rick Baker (En amerikansk varulv i London, Stjärnornas krig) är Videodrome en pulserande science fiction-mardröm om en värld där videon kan kontrollera och förändra mänskligt liv.",
+    "description": "100% David Cronenberg\n100% Body Horror\n\nScience fiction-skräckfilmaren DAVID CRONENBERGS djävulska invasionsmakt är en TV-show som förför och kontrollerar sina tittare. Med DEBORAH HERRY (i sin första stora film) i rollen som bisarr TV-värdinna, James Woods som programmakare för kabel-TV på jakt efter den ultimata publikrysaren och specialeffekter på sminkområdet skapade av Oscarvinnaren Rick Baker (En amerikansk varulv i London, Stjärnornas krig) är Videodrome en pulserande science fiction-mardröm om en värld där videon kan kontrollera och förändra mänskligt liv.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/1798/1920/b1703d08-8b7a-44f4-b42a-6648d96cbcb1.jpg",
     "showtimes": [
       {
@@ -257,15 +27,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-03T10:57:52.820926+00:00",
+    "scraped_at": "2026-10-19T14:57:31.932345+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 837,
       "title": "Videodrome",
       "overview": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
       "release_date": "1983-02-04",
-      "rating": 7.2,
-      "vote_count": 2580,
+      "rating": 7.248,
+      "vote_count": 2604,
       "genres": [
         "Horror",
         "Science Fiction",
@@ -288,7 +58,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "År 2026 skulle Drottning Kristina ha fyllt 400 år. Det uppmärksammar vi genom att visa Greta Garbo som Drottning Kristina\n\n1933 återvände Greta Garbo till vita duken efter en frånvaro på 18 månader vilket tydligen var ett så långt uppehåll att MGM marknadsförde Drottning Kristina som ”Garbos återkomst”. Filmen drog fulla hus och blev en stor succé för den 28-åriga svenskan. Från början var det tänkt att Laurence Olivier skulle spela den manliga huvudrollen men under repetitionerna framkom det att det inte fanns någon kemi mellan Garbo och engelsmannen. \nJohn Gilbert fick hoppa in i sista stund och det skulle bli hans näst sista film innan han avled i en hjärtattack några år senare. Drottning Kristina är ett kostymdrama som är väldigt löst baserat på de historiska händelserna i hennes liv.",
+    "description": "År 2026 skulle Drottning Kristina ha fyllt 400 år. Det uppmärksammar vi genom att visa Greta Garbo som Drottning Kristina\n\n1933 återvände Greta Garbo till vita duken efter en frånvaro på 18 månader vilket tydligen var ett så långt uppehåll att MGM marknadsförde Drottning Kristina som ”Garbos återkomst”. Filmen drog fulla hus och blev en stor succé för den 28-åriga svenskan. Från början var det tänkt att Laurence Olivier skulle spela den manliga huvudrollen men under repetitionerna framkom det att det inte fanns någon kemi mellan Garbo och engelsmannen. \nJohn Gilbert fick hoppa in i sista stund och det skulle bli hans näst sista film innan han avled i en hjärtattack några år senare. Drottning Kristina är ett kostymdrama som är väldigt löst baserat på de historiska händelserna i hennes liv.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4562/1920/65c28e3e-411c-4821-9ead-ac2f30ac8424.jpg",
     "showtimes": [
       {
@@ -309,14 +79,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-03T10:57:52.820943+00:00",
+    "scraped_at": "2026-10-19T14:57:31.932398+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 31526,
       "title": "Queen Christina",
       "overview": "Popular monarch Queen Christina of Sweden must choose between love and loyalty to her nation when she unexpectedly falls for a Spanish envoy.",
       "release_date": "1934-02-09",
-      "rating": 6.912,
+      "rating": 6.9,
       "vote_count": 147,
       "genres": [
         "Romance",
@@ -334,13 +104,64 @@
     }
   },
   {
+    "film_id": "queen-budapest",
+    "url": "https://www.capitolbio.se/filmer/queen-budapest/4576",
+    "title": "Queen Budapest",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Queen Budapest, den sista filmade livekonserten med Queen, har digitaliserats i knivskarp 4K-upplösning och fått en helt ny dynamisk ljudmix.\n\n27 juli 1986 klev Queen upp på Népstadion i Budapest och levererade sin största stadionkonsert någonsin inför 80 000 extatiska fans. Spelningen gjordes under den legendariska turnén 'Magic Tour', bandets allra sista turné med Freddie Mercury. Filmen bjuder på en rad av Queens absolut största hits, däribland Bohemian Rhapsody, Crazy Little Thing Called Love, I Want To Break Free och We Are The Champions.\n\nEftersom det fortfarande återstod tre år innan Berlinmurens fall, blev detta den första västerländska rockkonserten som arrangerades på en stor arena bakom järnridån. Historien var så pass unik att de ungerska myndigheterna och landets filmindustri samlade sina absolut främsta filmfotografer och tekniker för att dokumentera hela händelsen för eftervärlden.",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4576/1920/46328707-077b-4c73-a391-53845bec664e.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-24T17:40:00",
+        "display_text": "Saturday 24 October 2026 at 17:40",
+        "time": "17:40",
+        "date_section": "24.10",
+        "ticket_url": "https://www.capitolbio.se/boka/52981",
+        "booking_id": "52981",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-24T17:40:00",
+        "normalized_date": "24.10",
+        "normalized_time": "17:40"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-10-19T14:57:31.932416+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 142773,
+      "title": "Queen: Live in Budapest",
+      "overview": "On 27 July 1986, Queen performed the largest-ever stadium concert at the Népstadion in Budapest in front of 80,000 ecstatic fans. The concert was part of the famed Magic Tour, which was the last time the band toured with lead singer Freddie Mercury.",
+      "release_date": "1986-12-11",
+      "rating": 8.247,
+      "vote_count": 85,
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "poster_path": "/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
+      "backdrop_path": "/vhPl9k80mgiTbR3hkaGjTU0fyQI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vhPl9k80mgiTbR3hkaGjTU0fyQI.jpg",
+      "imdb_id": "tt0093427",
+      "runtime": 97,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
     "film_id": "ginger-snaps",
     "url": "https://www.capitolbio.se/filmer/ginger-snaps/4586",
     "title": "Ginger Snaps",
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "Kultklassiker!\n\nHorroctober!\n\nDetta är berättelsen om systrarna Ginger och Brigitte, de passar inte riktigt in, har en udda stil och är besatta av döden. Natten då Ginger får sin första mens blir hon brutalt attackerad av en varulv. Hennes sår läks på mirakulöst vis, men något står inte rätt till, något som kommer att få sin kulmen nästa gång det blir fullmåne.",
+    "description": "Kultklassiker!\n\nHorroctober!\n\nDetta är berättelsen om systrarna Ginger och Brigitte, de passar inte riktigt in, har en udda stil och är besatta av döden. Natten då Ginger får sin första mens blir hon brutalt attackerad av en varulv. Hennes sår läks på mirakulöst vis, men något står inte rätt till, något som kommer att få sin kulmen nästa gång det blir fullmåne.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4586/1920/709c82c6-77bc-47e0-8cf7-4f070ea9e165.jpg",
     "showtimes": [
       {
@@ -361,15 +182,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-03T10:57:52.820960+00:00",
+    "scraped_at": "2026-10-19T14:57:31.932431+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9871,
       "title": "Ginger Snaps",
       "overview": "The story of two outcast sisters, Ginger and Brigitte, in the mindless suburban town of Bailey Downs. On the night of Ginger's first period, she is savagely attacked by a wild creature. Ginger's wounds miraculously heal but something is not quite right. Now Brigitte must save her sister and save herself.",
       "release_date": "2000-12-11",
-      "rating": 6.9,
-      "vote_count": 1036,
+      "rating": 6.933,
+      "vote_count": 1050,
       "genres": [
         "Horror",
         "Fantasy"
@@ -391,7 +212,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "Världen Bästa Kultfilm!\n\nHorroctober!\n\nBlodigt skilsmässodrama där den psykotiska Isabelle Adjani slänger sig i väggarna och har skrämmande sex medan Sam Neill drivs till vanvett av sin rival. Isabelle Adjani och Sam Neill gör en enorm kraftansträngning i denna visuellt fantastiska och överväldigande film som belönade Adjani med priset för bästa kvinnliga huvudroll i Cannes.",
+    "description": "Världen Bästa Kultfilm!\n\nHorroctober!\n\nBlodigt skilsmässodrama där den psykotiska Isabelle Adjani slänger sig i väggarna och har skrämmande sex medan Sam Neill drivs till vanvett av sin rival. Isabelle Adjani och Sam Neill gör en enorm kraftansträngning i denna visuellt fantastiska och överväldigande film som belönade Adjani med priset för bästa kvinnliga huvudroll i Cannes.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/3359/1920/048cbb08-4d53-452e-8299-30dfc97de858.jpg",
     "showtimes": [
       {
@@ -412,15 +233,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-03T10:57:52.820975+00:00",
+    "scraped_at": "2026-10-19T14:57:31.932452+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 21484,
       "title": "Possession",
       "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
       "release_date": "1981-05-27",
-      "rating": 7.317,
-      "vote_count": 1448,
+      "rating": 7.319,
+      "vote_count": 1476,
       "genres": [
         "Horror"
       ],
@@ -441,7 +262,7 @@
     "director": "",
     "duration": "12 min",
     "language": "",
-    "description": "Japansk Kultskräck!\n\nHorroctober!\n\nExperimentlysten och färgsprakande rysarei om Angel som besöker sin moster med vännerna Fantasy, Prof, Kung Fu, Sweet, Melody och Mac. Mostern är en märklig dam med en märklig katt, och hennes hus visar sig vara inte bara märkligt utan även direkt livsfarligt.",
+    "description": "Japansk Kultskräck!\n\nHorroctober!\n\nExperimentlysten och färgsprakande rysarei om Angel som besöker sin moster med vännerna Fantasy, Prof, Kung Fu, Sweet, Melody och Mac. Mostern är en märklig dam med en märklig katt, och hennes hus visar sig vara inte bara märkligt utan även direkt livsfarligt.\n\nFler klassiker att boka hittar du här",
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4131/1920/c4a85f85-676c-466d-b8cc-a4a16d00a7c3.jpg",
     "showtimes": [
       {
@@ -462,15 +283,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-03T10:57:52.820992+00:00",
+    "scraped_at": "2026-10-19T14:57:31.932466+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 25623,
       "title": "House",
       "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye.",
       "release_date": "1977-08-26",
-      "rating": 7.332,
-      "vote_count": 836,
+      "rating": 7.3,
+      "vote_count": 847,
       "genres": [
         "Comedy",
         "Fantasy",
@@ -484,6 +305,161 @@
       "runtime": 88,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "anatomy-of-a-murder",
+    "url": "https://www.capitolbio.se/filmer/anatomy-of-a-murder/3313",
+    "title": "Anatomy of a Murder",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "En av filmhistoriens bästa rättegångsdramor, full av passion och intriger av Otto Preminger.\n\nBen Gazzara är den äkta maken som skyller på tillfällig sinnesförvirring när han åtalas för mordet på sin hustrus våldtäcksman. James Stewart spelar advokaten som inte väjer för tabubelagda ämnen när han försvarar sin klient. Under rättegången uppdagas en rad överraskande detaljer som sätter rättssystemet på prov. Ingen vet vem de ska tro på, allra minst vi som ser filmen.\n\nFantastiska förtexter av Saul Bass och legendariskt soundtrack av Duke Ellington.\n\nFler klassiker att boka hittar du här",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/3313/1920/256214ec-471b-4bad-a848-08f5893b56d7.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-04T17:30:00",
+        "display_text": "Wednesday 4 November 2026 at 17:30",
+        "time": "17:30",
+        "date_section": "04.11",
+        "ticket_url": "https://www.capitolbio.se/boka/52948",
+        "booking_id": "52948",
+        "hall": "Salong 4",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-04T17:30:00",
+        "normalized_date": "04.11",
+        "normalized_time": "17:30"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-10-19T14:57:31.932481+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 93,
+      "title": "Anatomy of a Murder",
+      "overview": "Semi-retired Michigan lawyer Paul Biegler takes the case of Army Lt. Manion, who murdered a local innkeeper after his wife claimed that he raped her. Over the course of an extensive trial, Biegler parries with District Attorney Lodwick and out-of-town prosecutor Claude Dancer to set his client free, but his case rests on the victim's mysterious business partner, who's hiding a dark secret.",
+      "release_date": "1959-07-01",
+      "rating": 7.831,
+      "vote_count": 1234,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "poster_path": "/b2G1QSAwtBv9luhEwErIgSRaU92.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/b2G1QSAwtBv9luhEwErIgSRaU92.jpg",
+      "backdrop_path": "/xfEU7DOlQPwz8Y0TBhKmpETuNIc.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xfEU7DOlQPwz8Y0TBhKmpETuNIc.jpg",
+      "imdb_id": "tt0052561",
+      "runtime": 161,
+      "budget": 2000000,
+      "revenue": 8000000
+    }
+  },
+  {
+    "film_id": "singalong-moulin-rouge",
+    "url": "https://www.capitolbio.se/filmer/singalong-moulin-rouge/2061",
+    "title": "Singalong: Moulin Rouge",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Älskade singalongfavoriten Moulin Rouge är tillbaka på Capitol!\n\nAllsångsledare för kvällen är Martina Huzell.\n\nKom gärna i god tid och ladda upp i foajébaren! Partyt fortsätter sedan i salongen.\n\nEn passionerad poet faller för en vacker kurtisan i den exotiska kärleksmusikal av fantasifulla regissören Baz Luhrman (Romeo+Julia och Strictly Ballroom). Stjärnorna Nicole Kidman och Ewan McGregor gör fantastiska rolltolkningar och tar dig med på en fascinerande och romantisk resa i en häpnadsväckande och sensuell värld på nattklubben Moulin Rouge i Paris. Filmen är hypnotiserande, full med sprudlande underhållning och massor av moderna hits som gör Moulin Rouge till en upplevelse som du sent kommer att glömma!\n\nOBS, inga återköp gäller på singalonger.\n\nAndra singalonger/partyalonger att boka finns här!",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/2061/1920/067cf25e-e6dd-4863-90b0-bb0e14aba26f.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-16T18:10:00",
+        "display_text": "Monday 16 November 2026 at 18:10",
+        "time": "18:10",
+        "date_section": "16.11",
+        "ticket_url": "https://www.capitolbio.se/boka/52595",
+        "booking_id": "52595",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-16T18:10:00",
+        "normalized_date": "16.11",
+        "normalized_time": "18:10"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-10-19T14:57:31.932501+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 824,
+      "title": "Moulin Rouge!",
+      "overview": "A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet, who is plunged into the heady world of Moulin Rouge, begins a passionate affair with the club's most notorious and beautiful star.",
+      "release_date": "2001-05-18",
+      "rating": 7.518,
+      "vote_count": 4975,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Music"
+      ],
+      "poster_path": "/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+      "backdrop_path": "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+      "imdb_id": "tt0203009",
+      "runtime": 128,
+      "budget": 52500000,
+      "revenue": 179213434
+    }
+  },
+  {
+    "film_id": "paris-is-burning-1991",
+    "url": "https://www.capitolbio.se/filmer/paris-is-burning-1991/4658",
+    "title": "Paris Is Burning (1991)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Banbrytande amerikansk dokumentär av Jennie Livingston som skildrar Harlem-scenen för drag ball-kultur och voguing i New York under 1980-talet.\n\nFler klassiker att boka hittar du här",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4658/1920/31bece04-0d7f-466b-a923-7209826b2e5d.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-17T18:00:00",
+        "display_text": "Tuesday 17 November 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "17.11",
+        "ticket_url": "https://www.capitolbio.se/boka/52972",
+        "booking_id": "52972",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-17T18:00:00",
+        "normalized_date": "17.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-10-19T14:57:31.932540+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 31225,
+      "title": "Paris Is Burning",
+      "overview": "Where does voguing come from, and what, exactly, is throwing shade? This landmark documentary provides a vibrant snapshot of the 1980s through the eyes of New York City's African American and Latinx Harlem drag-ball scene. Made over seven years, PARIS IS BURNING offers an intimate portrait of rival fashion \"houses,\" from fierce contests for trophies to house mothers offering sustenance in a world rampant with homophobia, transphobia, racism, AIDS, and poverty. Featuring legendary voguers, drag queens, and trans women — including Willi Ninja, Pepper LaBeija, Dorian Corey, and Venus Xtravaganza.",
+      "release_date": "1991-03-13",
+      "rating": 8.0,
+      "vote_count": 571,
+      "genres": [
+        "Documentary",
+        "History"
+      ],
+      "poster_path": "/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "backdrop_path": "/1DOLRxIQbRxhZcllLVx4DUAGqfS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1DOLRxIQbRxhZcllLVx4DUAGqfS.jpg",
+      "imdb_id": "tt0100332",
+      "runtime": 78,
+      "budget": 500000,
+      "revenue": 3906006
     }
   }
 ]

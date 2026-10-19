@@ -1,54 +1,53 @@
 [
   {
-    "film_id": "ghost-in-the-cell",
-    "url": "https://www.biobristol.se/f/ghost-in-the-cell/561",
-    "title": "Ghost in the Cell",
-    "director": "Joko Anwar",
-    "duration": "106 min",
-    "language": "Indonesiska",
-    "description": "I ett indonesiskt fängelse lever fångarna i ständig rädsla för både vakter och varandra. När en ny mystisk fånge anländer börjar en osynlig övernaturlig entitet brutalt mörda fångarna och arrangera liken som blodiga konstverk. Entiteten ger sig på de fångar som har mest negativ aura, så fångarna börjar tävla om att vara snälla – men i ett system byggt på orättvisa är det nästan omöjligt att vara snäll.",
-    "poster_url": "https://images.filmgrail.com/1789716499026?optimizer=image&width=1200",
+    "film_id": "arkipelag",
+    "url": "https://www.biobristol.se/f/arkipelag/558",
+    "title": "Arkipelag",
+    "director": "Alex Schulman",
+    "duration": "107 min",
+    "language": "Svenska",
+    "description": "Laddat drama möter mörk humor när Alex Schulman regidebuterar med Arkipelag, där Gustaf Skarsgård, Fares Fares och Linus Wahlgren spelar tre pappor som följer med sina döttrar på en skolresa till helvetet. Strandsatta med en stökig högstadieklass på en idyllisk skärgårdsö påminns de om egna tonårstrauman. Precis som ungdomarna tvingas de snart också inse hur svårt det är att dra gränsen mellan lek och farlig maktkamp, och att skilja offer från förövare. Arkipelag är årets svenska Oscarsbidrag.\n",
+    "poster_url": "https://mars-images.imgix.net/1789679311455?auto=compress&w=1200&fit=max",
     "showtimes": [
       {
-        "datetime": "2026-10-24T20:00:00",
-        "display_text": "Saturday 24 October 2026 at 20:00",
-        "time": "20:00",
-        "date_section": "24.10",
-        "ticket_url": "https://www.biobristol.se/checkout?showId=6aaceda32c5a6a0c9b63a926",
-        "show_id": "6aaceda32c5a6a0c9b63a926",
+        "datetime": "2026-10-25T18:30:00",
+        "display_text": "Sunday 25 October 2026 at 18:30",
+        "time": "18:30",
+        "date_section": "25.10",
+        "ticket_url": "https://www.biobristol.se/checkout?showId=6accad41e1a392372dbafc9e",
+        "show_id": "6accad41e1a392372dbafc9e",
         "hall": "Bristol",
         "audio_language": "",
         "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-24T20:00:00",
-        "normalized_date": "24.10",
-        "normalized_time": "20:00"
+        "normalized_datetime": "2026-10-25T18:30:00",
+        "normalized_date": "25.10",
+        "normalized_time": "18:30"
       }
     ],
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-10-03T10:56:43.650319+00:00",
+    "scraped_at": "2026-10-19T14:56:05.350279+00:00",
     "source": "biobristol",
     "tmdb": {
-      "id": 1393326,
-      "title": "Ghost in the Cell",
-      "overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
-      "release_date": "2026-04-16",
-      "rating": 7.1,
-      "vote_count": 82,
+      "id": 1461432,
+      "title": "Adult Supervision",
+      "overview": "Three fathers accompany their teenage daughters on a school trip to a remote island. What begins as a peaceful getaway soon turns into a series of unexpected problems. Each father has a different approach to parenting, influenced by his own past experiences, and their conflicting views create tension among them. As the situation becomes increasingly difficult to control, memories of their past return and force them to confront their mistakes and shortcomings. The trip ultimately leaves them questioning who is really in control.",
+      "release_date": "2026-10-09",
+      "rating": 0.0,
+      "vote_count": 0,
       "genres": [
-        "Horror",
-        "Comedy",
-        "Thriller"
+        "Drama",
+        "Comedy"
       ],
-      "poster_path": "/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg",
-      "backdrop_path": "/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
-      "imdb_id": "tt9000310",
-      "runtime": 106,
+      "poster_path": "/rBR8DmaMqRcxv6Ewgg6rwczV8EY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rBR8DmaMqRcxv6Ewgg6rwczV8EY.jpg",
+      "backdrop_path": "/iAmfSMQNJG4UuTdTQdqgLO8GDlI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/iAmfSMQNJG4UuTdTQdqgLO8GDlI.jpg",
+      "imdb_id": "tt36462731",
+      "runtime": 108,
       "budget": 0,
-      "revenue": 105743
+      "revenue": 0
     }
   },
   {
@@ -79,15 +78,15 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-10-03T10:56:44.875048+00:00",
+    "scraped_at": "2026-10-19T14:56:07.141224+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1314122,
       "title": "Bloody Tennis",
       "overview": "Sophie joins a prestigious tennis academy, where the brutality of competitive sports is taken to its extreme and only the hungriest survive.",
       "release_date": "2026-09-24",
-      "rating": 5.0,
-      "vote_count": 3,
+      "rating": 5.333,
+      "vote_count": 6,
       "genres": [
         "Horror",
         "Thriller"
@@ -98,57 +97,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/juKO2h7aa371poRvShNCTidInd9.jpg",
       "imdb_id": "tt34735922",
       "runtime": 94,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "species",
-    "url": "https://www.biobristol.se/f/species/564",
-    "title": "Species",
-    "director": "Marion Le Corroller",
-    "duration": "103 min",
-    "language": "Franska",
-    "description": "Margot, a young intern at the most competitive ER in the country, has trouble keeping up in this stressful environment. As she's confronted with multiple patients her age presenting unusual symptoms, her own body starts to show disturbing changes… ",
-    "poster_url": "https://mars-images.imgix.net/1789717519285?auto=compress&w=1200&fit=max",
-    "showtimes": [
-      {
-        "datetime": "2026-10-15T19:30:00",
-        "display_text": "Thursday 15 October 2026 at 19:30",
-        "time": "19:30",
-        "date_section": "15.10",
-        "ticket_url": "https://www.biobristol.se/checkout?showId=6aaced022c5a6a0c9b63a919",
-        "show_id": "6aaced022c5a6a0c9b63a919",
-        "hall": "Bristol",
-        "audio_language": "",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-15T19:30:00",
-        "normalized_date": "15.10",
-        "normalized_time": "19:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Bristol"
-    ],
-    "scraped_at": "2026-10-03T10:56:46.929243+00:00",
-    "source": "biobristol",
-    "tmdb": {
-      "id": 1468846,
-      "title": "Species",
-      "overview": "Margot, a young intern at the country's most competitive ER, struggles in the high-pressure environment. When multiple patients her age arrive with strange symptoms, her own body begins experiencing alarming transformations.",
-      "release_date": "2026-10-28",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Science Fiction",
-        "Horror"
-      ],
-      "poster_path": "/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
-      "backdrop_path": "/sIleLElPQo13FuWHzKmIeXq8msd.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sIleLElPQo13FuWHzKmIeXq8msd.jpg",
-      "imdb_id": "tt37799273",
-      "runtime": 103,
       "budget": 0,
       "revenue": 0
     }
@@ -181,15 +129,15 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-10-03T10:56:47.793004+00:00",
+    "scraped_at": "2026-10-19T14:56:08.162634+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 110160,
       "title": "Laurence Anyways",
       "overview": "The story of an impossible love between a woman named Fred and a transgender woman named Laurence who reveals her inner desire to become her true self.",
       "release_date": "2012-05-18",
-      "rating": 7.612,
-      "vote_count": 919,
+      "rating": 7.611,
+      "vote_count": 921,
       "genres": [
         "Drama",
         "Romance"

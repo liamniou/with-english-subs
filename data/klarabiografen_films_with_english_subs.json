@@ -1,135 +1,5 @@
 [
   {
-    "film_id": "persepolis-banned-books-week",
-    "url": "https://kulturhusetstadsteatern.se/bio/persepolis-banned-books-week",
-    "title": "Persepolis (Banned Books Week)",
-    "director": "",
-    "duration": "Film 1 tim 36 min + samtal",
-    "language": "",
-    "description": "Teheran 1978. Marjane är åtta år gammal och funderar över sin framtid i Iran efter den islamistiska revolutionen. Hon är uppväxt i en modern och sekulär familj, är älskad av sina föräldrar och hyser en speciell kärlek till sin mormor. Men bakom slöjan fantiserar Marjane om ett liv som revolutionär. ",
-    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-09/Persepolis.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-06T18:45:00+02:00",
-        "display_text": "Tuesday 6 October 2026 at 18:45",
-        "time": "18:45",
-        "date_section": "06.10",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/32736/134956/",
-        "tix_event_id": 134956,
-        "tix_event_group_id": 32736,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-10-06T18:45:00",
-        "normalized_date": "06.10",
-        "normalized_time": "18:45"
-      }
-    ],
-    "cinemas": [
-      "Klarabiografen"
-    ],
-    "scraped_at": "2026-10-03T11:03:37.555305+00:00",
-    "source": "klarabiografen",
-    "tmdb": {
-      "id": 2011,
-      "title": "Persepolis",
-      "overview": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
-      "release_date": "2007-06-27",
-      "rating": 7.879,
-      "vote_count": 2254,
-      "genres": [
-        "Animation",
-        "Drama"
-      ],
-      "poster_path": "/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg",
-      "backdrop_path": "/4pfb85bv0rKkmslTp2hzAqA7RT4.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/4pfb85bv0rKkmslTp2hzAqA7RT4.jpg",
-      "imdb_id": "tt0808417",
-      "runtime": 95,
-      "budget": 7300000,
-      "revenue": 22783990
-    }
-  },
-  {
-    "film_id": "les-liaisons-dangereuses",
-    "url": "https://kulturhusetstadsteatern.se/bio/les-liaisons-dangereuses",
-    "title": "Les Liaisons Dangereuses",
-    "director": "",
-    "duration": "3 tim inkl 1 paus",
-    "language": "",
-    "description": "En ny iscensättning av hyllade Les Liaisons Dangereuses (Farliga förbindelser), regisserad av Marianne Elliott. Lesley Manville och Aidan Turner spelar huvudrollerna i detta gripande drama om makt, begär och förförelse; filmat på National Theatre i London.",
-    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-03/Les%20Liaisons%20Dangereuses_affisch.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-09T18:00:00+02:00",
-        "display_text": "Friday 9 October 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "09.10",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/30106/123869/",
-        "tix_event_id": 123869,
-        "tix_event_group_id": 30106,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-10-09T18:00:00",
-        "normalized_date": "09.10",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Klarabiografen"
-    ],
-    "scraped_at": "2026-10-03T11:03:37.555396+00:00",
-    "source": "klarabiografen",
-    "tmdb": {
-      "id": 968739,
-      "title": "Dangerous Liaisons",
-      "overview": "The innocent Célène might be falling in love with popular surfer Tristan at her new school. But she has no idea that, in actuality, she’s the object of a cruel bet between Tristan and Instagram influencer Vanessa.",
-      "release_date": "2022-07-08",
-      "rating": 5.9,
-      "vote_count": 325,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/opTwqTgREzvP67ERVrqt0ApXbeV.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/opTwqTgREzvP67ERVrqt0ApXbeV.jpg",
-      "backdrop_path": "/bW62WOLYzax1WSG6tDTuJ5dBdT7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bW62WOLYzax1WSG6tDTuJ5dBdT7.jpg",
-      "imdb_id": "tt15548032",
-      "runtime": 109,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "funny-girl-musical",
-    "url": "https://kulturhusetstadsteatern.se/bio/funny-girl-musical",
-    "title": "Funny Girl - The Musical",
-    "director": "",
-    "duration": "2 timmar 40 min inkl 1 paus",
-    "language": "",
-    "description": "Funny Girl är den bitterljuva och kritikerrosade musikalen om Fanny Brice – med Sheridan Smith i en oförglömlig roll. Upplev tidlösa hits som ”Don’t Rain On My Parade” och ”People”. Premiär på Klarabiografen den 14 oktober!",
-    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-06/Funny%20Girl%202.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-14T18:00:00+02:00",
-        "display_text": "Wednesday 14 October 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "14.10",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31913/129931/",
-        "tix_event_id": 129931,
-        "tix_event_group_id": 31913,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-10-14T18:00:00",
-        "normalized_date": "14.10",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Klarabiografen"
-    ],
-    "scraped_at": "2026-10-03T11:03:37.555513+00:00",
-    "source": "klarabiografen"
-  },
-  {
     "film_id": "fogo-do-vento-ny-europeisk-film-portugal",
     "url": "https://kulturhusetstadsteatern.se/bio/fogo-do-vento-ny-europeisk-film-portugal",
     "title": "Fogo do Vento (Ny europeisk film - Portugal)",
@@ -156,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-03T11:03:37.555927+00:00",
+    "scraped_at": "2026-10-19T15:02:00.236199+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1315107,
@@ -205,7 +75,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-03T11:03:37.555967+00:00",
+    "scraped_at": "2026-10-19T15:02:00.236263+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 526031,
@@ -226,6 +96,36 @@
       "budget": 0,
       "revenue": 0
     }
+  },
+  {
+    "film_id": "vigil-five-gefilte-samtal-yiddish-film-festival",
+    "url": "https://kulturhusetstadsteatern.se/bio/vigil-five-gefilte-samtal-yiddish-film-festival",
+    "title": "The Vigil + Five Gefilte + samtal (Yiddish Film Festival)",
+    "director": "",
+    "duration": "2 tim",
+    "language": "",
+    "description": "A supernatural horror film directed by Keith Thomas, starring Dave Davis as a lapsed Hasidic man performing an overnight watch (shomer) for a deceased Holocaust survivor.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-10/The-Vigil%20%282%29.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-07T18:00:00+01:00",
+        "display_text": "Saturday 7 November 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "07.11",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/33520/136218/",
+        "tix_event_id": 136218,
+        "tix_event_group_id": 33520,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-11-07T18:00:00",
+        "normalized_date": "07.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-10-19T15:02:00.236304+00:00",
+    "source": "klarabiografen"
   },
   {
     "film_id": "kinky-boots-musical",
@@ -254,15 +154,15 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-03T11:03:37.556095+00:00",
+    "scraped_at": "2026-10-19T15:02:00.236771+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
       "title": "Kinky Boots: The Musical",
       "overview": "Charlie Price is a shoe factory owner struggling to save his family business, and Lola is a fabulous entertainer with a wildly exciting idea. With a little compassion and a lot of understanding, this unexpected pair learn to embrace their differences and create a line of sturdy stilettos unlike any the world has ever seen!",
       "release_date": "2019-06-25",
-      "rating": 7.8,
-      "vote_count": 61,
+      "rating": 7.823,
+      "vote_count": 62,
       "genres": [
         "Music",
         "Comedy",
@@ -305,25 +205,25 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-03T11:03:37.556375+00:00",
+    "scraped_at": "2026-10-19T15:02:00.237176+00:00",
     "source": "klarabiografen",
     "tmdb": {
-      "id": 511684,
+      "id": 262488,
       "title": "The Misanthrope",
-      "overview": "This television film records Ingmar Bergman’s Copenhagen stage production of Molière’s The Misanthrope, presented as a guest performance at the Royal Danish Theatre. The play centers on Alceste, a man who rejects social hypocrisy and flattery, whose rigid principles are tested by his love for the socially adept Célimène.",
-      "release_date": "1974-05-10",
-      "rating": 6.8,
-      "vote_count": 4,
+      "overview": "The Misanthrope is the film debut from Darkthrone's Nocturno Culto and provides a unique insight into the heart of the Norwegian Black Metal scene.",
+      "release_date": "2007-01-01",
+      "rating": 0.0,
+      "vote_count": 0,
       "genres": [
-        "Comedy",
-        "TV Movie"
+        "Documentary",
+        "Music"
       ],
-      "poster_path": "/1bEjnqGgfTyaA7nfUYLBAVDVX6a.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1bEjnqGgfTyaA7nfUYLBAVDVX6a.jpg",
-      "backdrop_path": "/x7oPJoXAnGlWZhzDl7CqGvQcguU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/x7oPJoXAnGlWZhzDl7CqGvQcguU.jpg",
-      "imdb_id": "tt0184741",
-      "runtime": 115,
+      "poster_path": "/ajzTBmPvOiHNwBYod68AESXt6jS.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ajzTBmPvOiHNwBYod68AESXt6jS.jpg",
+      "backdrop_path": "/5KPnsSy9IgdcpVUwYETeSO7TyGw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5KPnsSy9IgdcpVUwYETeSO7TyGw.jpg",
+      "imdb_id": "tt1535487",
+      "runtime": 55,
       "budget": 0,
       "revenue": 0
     }
@@ -355,7 +255,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-03T11:03:37.556488+00:00",
+    "scraped_at": "2026-10-19T15:02:00.237305+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -405,26 +305,28 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-03T11:03:37.556582+00:00",
+    "scraped_at": "2026-10-19T15:02:00.237400+00:00",
     "source": "klarabiografen",
     "tmdb": {
-      "id": 1422112,
+      "id": 3062,
       "title": "42nd Street",
-      "overview": "A sensory dive into the lives of dancers and artists hungry for fame, clashing with police tactics and unorthodox views. 42nd Street unveils a defiant counter-culture in the Dominican urban scene—all unfolding on a bold, unrelenting 600-meter 42nd street.",
-      "release_date": "2025-08-21",
-      "rating": 0.0,
-      "vote_count": 0,
+      "overview": "Broadway director Julian Marsh needs just one more hit show so he can retire and recover his health. It looks like he just may pull it off until temperamental star Dorthy Brock breaks her ankle on the eve of the show's premiere and has to be replaced by her understudy Peggy.",
+      "release_date": "1933-03-11",
+      "rating": 6.9,
+      "vote_count": 228,
       "genres": [
-        "Documentary"
+        "Comedy",
+        "Drama",
+        "Romance"
       ],
-      "poster_path": "/AgF6Xl5Qi0HoRBav4MzWN0rKZ6J.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/AgF6Xl5Qi0HoRBav4MzWN0rKZ6J.jpg",
-      "backdrop_path": "/1IcsukEptFDxvxPpDUYs1OVO2fn.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1IcsukEptFDxvxPpDUYs1OVO2fn.jpg",
-      "imdb_id": "tt35081754",
-      "runtime": 91,
-      "budget": 0,
-      "revenue": 0
+      "poster_path": "/q4UEd8BL74zVsOOaJkKVMLMmdTg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q4UEd8BL74zVsOOaJkKVMLMmdTg.jpg",
+      "backdrop_path": "/5a5lJCew2hGBcd6abdMkomr9mos.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5a5lJCew2hGBcd6abdMkomr9mos.jpg",
+      "imdb_id": "tt0024034",
+      "runtime": 89,
+      "budget": 439000,
+      "revenue": 2281000
     }
   }
 ]
