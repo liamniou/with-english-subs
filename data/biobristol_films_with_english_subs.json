@@ -27,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-10-19T14:56:05.350279+00:00",
+    "scraped_at": "2026-10-20T10:46:56.887833+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1461432,
@@ -78,7 +78,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-10-19T14:56:07.141224+00:00",
+    "scraped_at": "2026-10-20T10:46:58.561131+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1314122,
@@ -129,14 +129,14 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-10-19T14:56:08.162634+00:00",
+    "scraped_at": "2026-10-20T10:46:59.577156+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 110160,
       "title": "Laurence Anyways",
       "overview": "The story of an impossible love between a woman named Fred and a transgender woman named Laurence who reveals her inner desire to become her true self.",
       "release_date": "2012-05-18",
-      "rating": 7.611,
+      "rating": 7.6,
       "vote_count": 921,
       "genres": [
         "Drama",

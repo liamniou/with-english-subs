@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-10-19T14:57:45.039656",
+    "scraped_at": "2026-10-20T10:48:19.482184",
     "tmdb": {
       "id": 77771,
       "title": "Touki Bouki",
@@ -55,7 +55,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T14:58:06.630345",
+    "scraped_at": "2026-10-20T10:48:41.928183",
     "tmdb": {
       "id": 29972,
       "title": "24 City",
@@ -93,7 +93,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-10-19T14:58:10.315921"
+    "scraped_at": "2026-10-20T10:48:45.419111"
   },
   {
     "film_id": "14102",
@@ -112,7 +112,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T14:58:16.351966"
+    "scraped_at": "2026-10-20T10:48:51.362597"
   },
   {
     "film_id": "14074",
@@ -131,7 +131,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T14:58:26.460334",
+    "scraped_at": "2026-10-20T10:49:03.714558",
     "tmdb": {
       "id": 166451,
       "title": "Incompreso",
@@ -169,7 +169,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T14:58:34.491812",
+    "scraped_at": "2026-10-20T10:49:11.762252",
     "tmdb": {
       "id": 42539,
       "title": "The Birch Wood",
@@ -207,7 +207,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T14:58:38.441601",
+    "scraped_at": "2026-10-20T10:49:15.151591",
     "tmdb": {
       "id": 8938,
       "title": "Tokyo!",
@@ -248,7 +248,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-10-19T14:58:42.034209",
+    "scraped_at": "2026-10-20T10:49:18.730440",
     "tmdb": {
       "id": 481012,
       "title": "A Commonplace Story",
@@ -286,7 +286,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T14:58:45.977430",
+    "scraped_at": "2026-10-20T10:49:22.258489",
     "tmdb": {
       "id": 73271,
       "title": "Melody of a Murder",
@@ -326,7 +326,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T14:58:49.690312"
+    "scraped_at": "2026-10-20T10:49:25.849521"
   },
   {
     "film_id": "14126",
@@ -345,7 +345,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T14:58:55.736136",
+    "scraped_at": "2026-10-20T10:49:31.422614",
     "tmdb": {
       "id": 70909,
       "title": "Aimless Bullet",
@@ -383,7 +383,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T14:58:59.436302",
+    "scraped_at": "2026-10-20T10:49:34.830363",
     "tmdb": {
       "id": 326102,
       "title": "The Face of Truth",
@@ -422,14 +422,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T14:59:03.308832",
+    "scraped_at": "2026-10-20T10:49:38.427049",
     "tmdb": {
       "id": 21266,
       "title": "Reptilicus",
       "overview": "A portion of the tail of a prehistoric reptile is discovered in Denmark. It regenerates into the entire reptile, which proceeds to destroy buildings and property and generally make a nuisance of itself. It can fly, swim, and walk, and has impenetrable scales, which makes it difficult to kill.",
       "release_date": "1961-02-20",
-      "rating": 3.6,
-      "vote_count": 106,
+      "rating": 3.621,
+      "vote_count": 107,
       "genres": [
         "Horror",
         "Science Fiction"
@@ -461,7 +461,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T14:59:13.747678",
+    "scraped_at": "2026-10-20T10:49:47.958222",
     "tmdb": {
       "id": 314388,
       "title": "Mountains May Depart",
@@ -500,7 +500,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-10-19T14:59:17.453013",
+    "scraped_at": "2026-10-20T10:49:51.500314",
     "tmdb": {
       "id": 390010,
       "title": "Maria's Day",
@@ -539,7 +539,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T14:59:23.468924",
+    "scraped_at": "2026-10-20T10:49:56.914046",
     "tmdb": {
       "id": 209385,
       "title": "Wałesa: Man of Hope",
@@ -578,7 +578,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T14:59:27.017874",
+    "scraped_at": "2026-10-20T10:50:00.359027",
     "tmdb": {
       "id": 213001,
       "title": "Farewell China",
@@ -616,7 +616,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T14:59:31.056595",
+    "scraped_at": "2026-10-20T10:50:03.992122",
     "tmdb": {
       "id": 39410,
       "title": "Mothra",
@@ -656,7 +656,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T14:59:37.453541",
+    "scraped_at": "2026-10-20T10:50:10.146219",
     "tmdb": {
       "id": 80243,
       "title": "Unknown Pleasures",
@@ -695,7 +695,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-10-19T14:59:50.703713",
+    "scraped_at": "2026-10-20T10:50:22.903623",
     "tmdb": {
       "id": 464144,
       "title": "Awakening",
@@ -733,7 +733,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T14:59:56.687347"
+    "scraped_at": "2026-10-20T10:50:28.847523"
   },
   {
     "film_id": "11804",
@@ -752,7 +752,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T15:00:07.023711",
+    "scraped_at": "2026-10-20T10:50:39.411833",
     "tmdb": {
       "id": 179464,
       "title": "A Gentleman in Top Hat and Tails",
@@ -790,7 +790,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T15:00:15.110789",
+    "scraped_at": "2026-10-20T10:50:47.088259",
     "tmdb": {
       "id": 1106079,
       "title": "Delitto d'amore",
@@ -828,7 +828,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T15:00:19.054390",
+    "scraped_at": "2026-10-20T10:50:50.796918",
     "tmdb": {
       "id": 63215,
       "title": "Toute une nuit",
@@ -867,7 +867,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-10-19T15:00:27.264025",
+    "scraped_at": "2026-10-20T10:50:58.216094",
     "tmdb": {
       "id": 1247214,
       "title": "Heroine in the Dust",
@@ -903,7 +903,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T15:00:31.080086",
+    "scraped_at": "2026-10-20T10:51:01.921519",
     "tmdb": {
       "id": 35861,
       "title": "Chikamatsu Monogatari",
@@ -942,7 +942,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T15:00:37.378891",
+    "scraped_at": "2026-10-20T10:51:07.378682",
     "tmdb": {
       "id": 648127,
       "title": "Gefahren der Großstadt-Straße",
@@ -981,7 +981,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T15:00:41.357599",
+    "scraped_at": "2026-10-20T10:51:10.845717",
     "tmdb": {
       "id": 379340,
       "title": "Drama på slottet",
@@ -1019,7 +1019,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T15:00:45.176799",
+    "scraped_at": "2026-10-20T10:51:17.055164",
     "tmdb": {
       "id": 939949,
       "title": "Huahua's Dazzling World and its Myriad Temptations",
@@ -1057,7 +1057,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T15:01:02.365039"
+    "scraped_at": "2026-10-20T10:51:33.705043"
   },
   {
     "film_id": "10040",
@@ -1076,14 +1076,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T15:01:10.690135",
+    "scraped_at": "2026-10-20T10:51:41.370548",
     "tmdb": {
       "id": 19,
       "title": "Metropolis",
       "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
       "release_date": "1927-01-10",
       "rating": 8.081,
-      "vote_count": 3236,
+      "vote_count": 3237,
       "genres": [
         "Drama",
         "Science Fiction"
@@ -1115,7 +1115,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-10-19T15:01:21.462172"
+    "scraped_at": "2026-10-20T10:51:50.804774"
   },
   {
     "film_id": "14116",
@@ -1134,7 +1134,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T15:01:27.545477",
+    "scraped_at": "2026-10-20T10:51:56.186549",
     "tmdb": {
       "id": 1136837,
       "title": "Caught by the Tides",
@@ -1172,13 +1172,13 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-10-19T15:01:31.384561",
+    "scraped_at": "2026-10-20T10:52:02.258127",
     "tmdb": {
       "id": 68004,
       "title": "Center Stage",
       "overview": "Based on the tragic true story of China's first prima donna of the silver screen, Ruan Lingyu, chronicling her rise to fame as a movie actress in Shanghai during the 1930s.",
       "release_date": "1991-11-29",
-      "rating": 7.326,
+      "rating": 7.3,
       "vote_count": 95,
       "genres": [
         "Drama",
@@ -1212,7 +1212,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T15:01:37.507955",
+    "scraped_at": "2026-10-20T10:52:07.957422",
     "tmdb": {
       "id": 47612,
       "title": "Au Bonheur des Dames",
@@ -1251,7 +1251,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T15:01:43.605713",
+    "scraped_at": "2026-10-20T10:52:13.387287",
     "tmdb": {
       "id": 59484,
       "title": "Le Pont du Nord",
@@ -1291,7 +1291,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T15:01:47.520896",
+    "scraped_at": "2026-10-20T10:52:17.012851",
     "tmdb": {
       "id": 221723,
       "title": "Derailed",
@@ -1331,7 +1331,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-10-19T15:01:51.378434",
+    "scraped_at": "2026-10-20T10:52:20.337356",
     "tmdb": {
       "id": 181735,
       "title": "A Fishy Story",

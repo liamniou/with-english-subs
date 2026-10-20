@@ -1,35 +1,5 @@
 [
   {
-    "film_id": "penny-lane-is-dead",
-    "url": "https://www.bioaspen.se/movies/penny-lane-is-dead/",
-    "title": "Monsters of film: Penny Lane Is Dead",
-    "director": "Mia'Kate Russell",
-    "duration": "1 tim 30 min",
-    "language": "EN",
-    "description": "Mia’Kate Russell,med 20 års erfarenhet som makeup- och special effects-artist, bl a på filmer somNitramochBetter Man, gör en briljant långfilmsdebut i den klassiska ozploitation-traditionen. Hon beskriver den själv som en queer love story blandad med punk, dark comedy och med kritik av australisk ”bloke culture” inspirerad av bland andra John Waters, David Lynch och Pedro Almodovar. Producenterna bakomTalk to Mestår bakom. Filmen hade premiär med “pink carpet” på Adelaide Film Festival.Under Fantasia Film Festival i Montréal 2026 svimmade åtminstone en åskådare under en särskilt grym scen med en köksmaskin.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/7243/1080/7ef0805a-2b9e-4482-87f5-a03e274caf21.jpeg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-19T20:30:00",
-        "display_text": "Monday 19 October 2026 at 20:30",
-        "time": "20:30",
-        "date_section": "19.10",
-        "ticket_url": "https://www.bioaspen.se/movies/penny-lane-is-dead/",
-        "hall": "Salong 1",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-19T20:30:00",
-        "normalized_date": "19.10",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-10-19T14:55:46.102538+00:00",
-    "source": "bioaspen"
-  },
-  {
     "film_id": "phantoms-of-july",
     "url": "https://www.bioaspen.se/movies/phantoms-of-july/",
     "title": "Tyska tisdagar: Phantoms of July (Sehnsucht in Sangerhausen)",
@@ -56,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-19T14:55:46.102588+00:00",
+    "scraped_at": "2026-10-20T10:46:39.244739+00:00",
     "source": "bioaspen"
   },
   {
@@ -86,7 +56,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-19T14:55:46.102604+00:00",
+    "scraped_at": "2026-10-20T10:46:39.244775+00:00",
     "source": "bioaspen"
   },
   {
@@ -116,7 +86,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-19T14:55:46.102617+00:00",
+    "scraped_at": "2026-10-20T10:46:39.244790+00:00",
     "source": "bioaspen"
   },
   {
@@ -146,7 +116,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-19T14:55:46.102636+00:00",
+    "scraped_at": "2026-10-20T10:46:39.244805+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1605919,
@@ -196,7 +166,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-19T14:55:46.102649+00:00",
+    "scraped_at": "2026-10-20T10:46:39.244822+00:00",
     "source": "bioaspen"
   },
   {
@@ -226,7 +196,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-19T14:55:46.102662+00:00",
+    "scraped_at": "2026-10-20T10:46:39.244836+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1461432,
@@ -276,7 +246,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-19T14:55:46.102677+00:00",
+    "scraped_at": "2026-10-20T10:46:39.244850+00:00",
     "source": "bioaspen"
   },
   {
@@ -306,7 +276,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-19T14:55:46.102693+00:00",
+    "scraped_at": "2026-10-20T10:46:39.244868+00:00",
     "source": "bioaspen"
   },
   {
@@ -336,7 +306,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-19T14:55:46.102708+00:00",
+    "scraped_at": "2026-10-20T10:46:39.244887+00:00",
     "source": "bioaspen"
   }
 ]
