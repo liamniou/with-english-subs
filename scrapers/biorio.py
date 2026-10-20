@@ -31,18 +31,29 @@ class BioRio:
         
         self.films_with_english_subs = []
     
+    RETRY_STATUSES = {403, 429, 500, 502, 503, 504}
+    RETRY_DELAYS = (5, 15)
+
     def get_page_content(self, url):
-        """Fetch page content with error handling."""
-        try:
-            response = self.session.get(url)
-            response.raise_for_status()
-            return response.text
-        except httpx.HTTPStatusError as e:
-            print(f"HTTP error fetching {url}: {e.response.status_code} {e.response.reason_phrase}")
-            return None
-        except httpx.RequestError as e:
-            print(f"Error fetching {url}: {e}")
-            return None
+        """Fetch page content, backing off and retrying when the site throttles us."""
+        for attempt in range(len(self.RETRY_DELAYS) + 1):
+            try:
+                response = self.session.get(url)
+                response.raise_for_status()
+                return response.text
+            except httpx.HTTPStatusError as e:
+                status = e.response.status_code
+                if status in self.RETRY_STATUSES and attempt < len(self.RETRY_DELAYS):
+                    retry_after = e.response.headers.get('retry-after', '')
+                    delay = min(int(retry_after), 60) if retry_after.isdigit() else self.RETRY_DELAYS[attempt]
+                    print(f"HTTP {status} fetching {url}, retrying in {delay}s")
+                    time.sleep(delay)
+                    continue
+                print(f"HTTP error fetching {url}: {status} {e.response.reason_phrase}")
+                return None
+            except httpx.RequestError as e:
+                print(f"Error fetching {url}: {e}")
+                return None
     
     def find_movie_links(self, html_content):
         """Find all movie links from a listing page that point to /filmer/<slug>."""
