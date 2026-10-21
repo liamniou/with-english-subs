@@ -25,7 +25,7 @@
           "date": "2026-10-24",
           "time": "20:20",
           "capacity": 180,
-          "ticketsSold": 10,
+          "ticketsSold": 13,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -44,15 +44,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-20T10:47:18.532895",
+    "scraped_at": "2026-10-21T10:59:14.727443",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
       "title": "Ghost in the Shell",
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
-      "rating": 7.928,
-      "vote_count": 4105,
+      "rating": 7.929,
+      "vote_count": 4108,
       "genres": [
         "Action",
         "Animation",
@@ -113,7 +113,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-20T10:47:44.523439",
+    "scraped_at": "2026-10-21T10:59:38.940504",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -121,7 +121,7 @@
       "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
       "release_date": "2000-10-06",
       "rating": 7.032,
-      "vote_count": 331,
+      "vote_count": 332,
       "genres": [
         "Drama",
         "Comedy"
@@ -162,7 +162,7 @@
           "date": "2026-12-01",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 0,
+          "ticketsSold": 1,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -181,15 +181,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-20T10:47:48.620396",
+    "scraped_at": "2026-10-21T10:59:43.335047",
     "source": "biorio",
     "tmdb": {
       "id": 27327,
       "title": "Phantom of the Paradise",
       "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
       "release_date": "1974-10-31",
-      "rating": 7.5,
-      "vote_count": 792,
+      "rating": 7.462,
+      "vote_count": 796,
       "genres": [
         "Drama",
         "Horror",
@@ -231,7 +231,7 @@
           "date": "2026-12-10",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 10,
+          "ticketsSold": 11,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -269,7 +269,7 @@
           "date": "2026-12-17",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 0,
+          "ticketsSold": 1,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -292,7 +292,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-20T10:47:52.170340",
+    "scraped_at": "2026-10-21T10:59:46.925644",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -300,7 +300,7 @@
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
       "rating": 7.93,
-      "vote_count": 1586,
+      "vote_count": 1587,
       "genres": [
         "Animation",
         "Drama",

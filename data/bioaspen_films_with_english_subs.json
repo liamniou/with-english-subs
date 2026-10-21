@@ -1,65 +1,5 @@
 [
   {
-    "film_id": "phantoms-of-july",
-    "url": "https://www.bioaspen.se/movies/phantoms-of-july/",
-    "title": "Tyska tisdagar: Phantoms of July (Sehnsucht in Sangerhausen)",
-    "director": "Julian Radlmaier",
-    "duration": "1 tim 30 min",
-    "language": "DE",
-    "description": "Under fyra tisdagskvällar mellan september och november visar vi prisbelönta och uppmärksammade filmer som speglar dagens Tyskland genom dokumentärfilm, drama och personliga berättelser. Ett tillfälle att möta olika perspektiv, upptäcka spännande filmskapare och se vad som händer inom tysk film.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/6984/1080/9c9bde42-7ced-4e55-a1e7-0792f34e4a2a.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-20T18:00:00",
-        "display_text": "Tuesday 20 October 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "20.10",
-        "ticket_url": "https://www.bioaspen.se/movies/phantoms-of-july/",
-        "hall": "Salong 1",
-        "audio_language": "DE",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-20T18:00:00",
-        "normalized_date": "20.10",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-10-20T10:46:39.244739+00:00",
-    "source": "bioaspen"
-  },
-  {
-    "film_id": "saccharine",
-    "url": "https://www.bioaspen.se/movies/saccharine/",
-    "title": "Monsters of film: Saccharine",
-    "director": "Natalie Erika James",
-    "duration": "1 tim 53 min",
-    "language": "EN",
-    "description": "Den östasiatiska Hungry Ghost-mytologin möter moderna kroppsideal iNatalie Erika James(Relic)stilrena body horror som hade världspremiär i Sundance Midnight. Filmen är tydlig kommentar till vår tids fixering vid kroppsvikt och användningen av viktminskningspreparat som Ozempic och den destruktiva jakten på en perfekt kropp.Saccharineär både estetisk och äckligt taktil – närbilderna på mat och kroppar som förvandlas är motbjudande men samtidigt läckra och välkomponerade; Hanas inre ångest görs synlig.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/7244/1080/f2006ff8-953b-4d29-bb37-3b3ea30f1f8c.jpeg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-20T20:30:00",
-        "display_text": "Tuesday 20 October 2026 at 20:30",
-        "time": "20:30",
-        "date_section": "20.10",
-        "ticket_url": "https://www.bioaspen.se/movies/saccharine/",
-        "hall": "Salong 1",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-20T20:30:00",
-        "normalized_date": "20.10",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-10-20T10:46:39.244775+00:00",
-    "source": "bioaspen"
-  },
-  {
     "film_id": "never-after-dark",
     "url": "https://www.bioaspen.se/movies/never-after-dark/",
     "title": "Monsters of film: Never After Dark",
@@ -86,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-20T10:46:39.244790+00:00",
+    "scraped_at": "2026-10-21T10:58:41.619934+00:00",
     "source": "bioaspen"
   },
   {
@@ -116,7 +56,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-20T10:46:39.244805+00:00",
+    "scraped_at": "2026-10-21T10:58:41.619971+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1605919,
@@ -166,7 +106,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-20T10:46:39.244822+00:00",
+    "scraped_at": "2026-10-21T10:58:41.619983+00:00",
     "source": "bioaspen"
   },
   {
@@ -196,7 +136,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-20T10:46:39.244836+00:00",
+    "scraped_at": "2026-10-21T10:58:41.619994+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1461432,
@@ -207,7 +147,7 @@
       "vote_count": 0,
       "genres": [
         "Drama",
-        "Comedy"
+        "Thriller"
       ],
       "poster_path": "/rBR8DmaMqRcxv6Ewgg6rwczV8EY.jpg",
       "poster_url": "https://image.tmdb.org/t/p/w500/rBR8DmaMqRcxv6Ewgg6rwczV8EY.jpg",
@@ -246,7 +186,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-20T10:46:39.244850+00:00",
+    "scraped_at": "2026-10-21T10:58:41.620007+00:00",
     "source": "bioaspen"
   },
   {
@@ -276,7 +216,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-20T10:46:39.244868+00:00",
+    "scraped_at": "2026-10-21T10:58:41.620017+00:00",
     "source": "bioaspen"
   },
   {
@@ -306,7 +246,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-20T10:46:39.244887+00:00",
+    "scraped_at": "2026-10-21T10:58:41.620028+00:00",
     "source": "bioaspen"
   }
 ]
