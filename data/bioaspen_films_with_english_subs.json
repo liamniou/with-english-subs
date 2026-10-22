@@ -1,35 +1,5 @@
 [
   {
-    "film_id": "never-after-dark",
-    "url": "https://www.bioaspen.se/movies/never-after-dark/",
-    "title": "Monsters of film: Never After Dark",
-    "director": "Dave Boyle",
-    "duration": "1 tim 45 min",
-    "language": "JP",
-    "description": "Airi är ett kringvandrande medium som står närmare de döda än de levande. Som ressällskap har hon sin avlidna syster Miku. Airi hjälper rastlösa andar att lämna de levandes värld och hon har nu kallats till en isolerad herrgård på landsbygden. Uppdraget verkar rutinmässigt: fördriv en manlig ande som visar sig när klockan slår 00:05. Men här möter hon en grotesk uppenbarelse med krafter som överträffar allt hon tidigare sett. Ju djupare hon gräver i husets historia, desto mer inser hon att det största hotet inte är det övernaturliga – utan de levande.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/7245/1080/c49c6fca-1ce1-4969-98ab-a2b5ba1ac704.jpeg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-21T20:30:00",
-        "display_text": "Wednesday 21 October 2026 at 20:30",
-        "time": "20:30",
-        "date_section": "21.10",
-        "ticket_url": "https://www.bioaspen.se/movies/never-after-dark/",
-        "hall": "Salong 1",
-        "audio_language": "JP",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-21T20:30:00",
-        "normalized_date": "21.10",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-10-21T10:58:41.619934+00:00",
-    "source": "bioaspen"
-  },
-  {
     "film_id": "the-magic-city-birmingham-according-to-sun-ra",
     "url": "https://www.bioaspen.se/movies/the-magic-city-birmingham-according-to-sun-ra/",
     "title": "The Magic City: Birmingham according to Sun Ra",
@@ -56,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-21T10:58:41.619971+00:00",
+    "scraped_at": "2026-10-22T10:57:32.676682+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1605919,
@@ -106,7 +76,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-21T10:58:41.619983+00:00",
+    "scraped_at": "2026-10-22T10:57:32.676710+00:00",
     "source": "bioaspen"
   },
   {
@@ -136,7 +106,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-21T10:58:41.619994+00:00",
+    "scraped_at": "2026-10-22T10:57:32.676719+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1461432,
@@ -186,7 +156,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-21T10:58:41.620007+00:00",
+    "scraped_at": "2026-10-22T10:57:32.676727+00:00",
     "source": "bioaspen"
   },
   {
@@ -216,7 +186,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-21T10:58:41.620017+00:00",
+    "scraped_at": "2026-10-22T10:57:32.676738+00:00",
     "source": "bioaspen"
   },
   {
@@ -246,7 +216,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-21T10:58:41.620028+00:00",
+    "scraped_at": "2026-10-22T10:57:32.676747+00:00",
     "source": "bioaspen"
   }
 ]

@@ -1,57 +1,5 @@
 [
   {
-    "film_id": "drottning-kristina",
-    "url": "https://www.capitolbio.se/filmer/drottning-kristina/4577",
-    "title": "Drottning Kristina",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "År 2026 skulle Drottning Kristina ha fyllt 400 år. Det uppmärksammar vi genom att visa Greta Garbo som Drottning Kristina\n\n1933 återvände Greta Garbo till vita duken efter en frånvaro på 18 månader vilket tydligen var ett så långt uppehåll att MGM marknadsförde Drottning Kristina som ”Garbos återkomst”. Filmen drog fulla hus och blev en stor succé för den 28-åriga svenskan. Från början var det tänkt att Laurence Olivier skulle spela den manliga huvudrollen men under repetitionerna framkom det att det inte fanns någon kemi mellan Garbo och engelsmannen. \nJohn Gilbert fick hoppa in i sista stund och det skulle bli hans näst sista film innan han avled i en hjärtattack några år senare. Drottning Kristina är ett kostymdrama som är väldigt löst baserat på de historiska händelserna i hennes liv.\n\nFler klassiker att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4562/1920/65c28e3e-411c-4821-9ead-ac2f30ac8424.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-21T18:00:00",
-        "display_text": "Wednesday 21 October 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "21.10",
-        "ticket_url": "https://www.capitolbio.se/boka/52322",
-        "booking_id": "52322",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-21T18:00:00",
-        "normalized_date": "21.10",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-10-21T11:00:04.492054+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 31526,
-      "title": "Queen Christina",
-      "overview": "Popular monarch Queen Christina of Sweden must choose between love and loyalty to her nation when she unexpectedly falls for a Spanish envoy.",
-      "release_date": "1934-02-09",
-      "rating": 6.9,
-      "vote_count": 147,
-      "genres": [
-        "Romance",
-        "History",
-        "Drama"
-      ],
-      "poster_path": "/lGGYwoBp21CzF7cMzNPcOr6i6iw.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lGGYwoBp21CzF7cMzNPcOr6i6iw.jpg",
-      "backdrop_path": "/e6YpCECKNPMBonp425jmHgd6D44.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/e6YpCECKNPMBonp425jmHgd6D44.jpg",
-      "imdb_id": "tt0024481",
-      "runtime": 99,
-      "budget": 1114000,
-      "revenue": 2610000
-    }
-  },
-  {
     "film_id": "queen-budapest",
     "url": "https://www.capitolbio.se/filmer/queen-budapest/4576",
     "title": "Queen Budapest",
@@ -79,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-21T11:00:04.492099+00:00",
+    "scraped_at": "2026-10-22T10:59:20.555002+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 142773,
@@ -130,7 +78,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-21T11:00:04.492113+00:00",
+    "scraped_at": "2026-10-22T10:59:20.555049+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9871,
@@ -181,15 +129,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-21T11:00:04.492124+00:00",
+    "scraped_at": "2026-10-22T10:59:20.555060+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 21484,
       "title": "Possession",
       "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
       "release_date": "1981-05-27",
-      "rating": 7.321,
-      "vote_count": 1478,
+      "rating": 7.3,
+      "vote_count": 1481,
       "genres": [
         "Horror"
       ],
@@ -231,15 +179,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-21T11:00:04.492140+00:00",
+    "scraped_at": "2026-10-22T10:59:20.555070+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 25623,
       "title": "House",
       "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye.",
       "release_date": "1977-08-26",
-      "rating": 7.324,
-      "vote_count": 849,
+      "rating": 7.3,
+      "vote_count": 850,
       "genres": [
         "Comedy",
         "Fantasy",
@@ -283,7 +231,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-21T11:00:04.492151+00:00",
+    "scraped_at": "2026-10-22T10:59:20.555086+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 93,
@@ -305,6 +253,109 @@
       "runtime": 161,
       "budget": 2000000,
       "revenue": 8000000
+    }
+  },
+  {
+    "film_id": "singalong-moulin-rouge",
+    "url": "https://www.capitolbio.se/filmer/singalong-moulin-rouge/2061",
+    "title": "Singalong: Moulin Rouge",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Älskade singalongfavoriten Moulin Rouge är tillbaka på Capitol!\n\nAllsångsledare för kvällen är Martina Huzell.\n\nKom gärna i god tid och ladda upp i foajébaren! Partyt fortsätter sedan i salongen.\n\nEn passionerad poet faller för en vacker kurtisan i den exotiska kärleksmusikal av fantasifulla regissören Baz Luhrman (Romeo+Julia och Strictly Ballroom). Stjärnorna Nicole Kidman och Ewan McGregor gör fantastiska rolltolkningar och tar dig med på en fascinerande och romantisk resa i en häpnadsväckande och sensuell värld på nattklubben Moulin Rouge i Paris. Filmen är hypnotiserande, full med sprudlande underhållning och massor av moderna hits som gör Moulin Rouge till en upplevelse som du sent kommer att glömma!\n\nOBS, inga återköp gäller på singalonger.\n\nAndra singalonger/partyalonger att boka finns här!",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/2061/1920/067cf25e-e6dd-4863-90b0-bb0e14aba26f.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-16T18:10:00",
+        "display_text": "Monday 16 November 2026 at 18:10",
+        "time": "18:10",
+        "date_section": "16.11",
+        "ticket_url": "https://www.capitolbio.se/boka/52595",
+        "booking_id": "52595",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-16T18:10:00",
+        "normalized_date": "16.11",
+        "normalized_time": "18:10"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-10-22T10:59:20.555096+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 824,
+      "title": "Moulin Rouge!",
+      "overview": "A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet, who is plunged into the heady world of Moulin Rouge, begins a passionate affair with the club's most notorious and beautiful star.",
+      "release_date": "2001-05-18",
+      "rating": 7.518,
+      "vote_count": 4983,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Music"
+      ],
+      "poster_path": "/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+      "backdrop_path": "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+      "imdb_id": "tt0203009",
+      "runtime": 128,
+      "budget": 52500000,
+      "revenue": 179213434
+    }
+  },
+  {
+    "film_id": "paris-is-burning-1991",
+    "url": "https://www.capitolbio.se/filmer/paris-is-burning-1991/4658",
+    "title": "Paris Is Burning (1991)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Banbrytande amerikansk dokumentär av Jennie Livingston som skildrar Harlem-scenen för drag ball-kultur och voguing i New York under 1980-talet.\n\nFler klassiker att boka hittar du här",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4658/1920/31bece04-0d7f-466b-a923-7209826b2e5d.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-17T18:00:00",
+        "display_text": "Tuesday 17 November 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "17.11",
+        "ticket_url": "https://www.capitolbio.se/boka/52972",
+        "booking_id": "52972",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-17T18:00:00",
+        "normalized_date": "17.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-10-22T10:59:20.555105+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 31225,
+      "title": "Paris Is Burning",
+      "overview": "Where does voguing come from, and what, exactly, is throwing shade? This landmark documentary provides a vibrant snapshot of the 1980s through the eyes of New York City's African American and Latinx Harlem drag-ball scene. Made over seven years, PARIS IS BURNING offers an intimate portrait of rival fashion \"houses,\" from fierce contests for trophies to house mothers offering sustenance in a world rampant with homophobia, transphobia, racism, AIDS, and poverty. Featuring legendary voguers, drag queens, and trans women — including Willi Ninja, Pepper LaBeija, Dorian Corey, and Venus Xtravaganza.",
+      "release_date": "1991-03-13",
+      "rating": 8.012,
+      "vote_count": 574,
+      "genres": [
+        "Documentary",
+        "History"
+      ],
+      "poster_path": "/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "backdrop_path": "/1DOLRxIQbRxhZcllLVx4DUAGqfS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1DOLRxIQbRxhZcllLVx4DUAGqfS.jpg",
+      "imdb_id": "tt0100332",
+      "runtime": 78,
+      "budget": 500000,
+      "revenue": 3906006
     }
   }
 ]
