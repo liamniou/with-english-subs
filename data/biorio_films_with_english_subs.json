@@ -25,7 +25,7 @@
           "date": "2026-10-24",
           "time": "20:20",
           "capacity": 180,
-          "ticketsSold": 20,
+          "ticketsSold": 33,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -44,15 +44,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-22T10:58:07.303621",
+    "scraped_at": "2026-10-23T10:50:45.345250",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
       "title": "Ghost in the Shell",
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
-      "rating": 7.93,
-      "vote_count": 4110,
+      "rating": 7.929,
+      "vote_count": 4111,
       "genres": [
         "Action",
         "Animation",
@@ -113,15 +113,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-22T10:58:43.832545",
+    "scraped_at": "2026-10-23T10:51:14.691751",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
       "title": "Songs from the Second Floor",
       "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
       "release_date": "2000-10-06",
-      "rating": 7.032,
-      "vote_count": 332,
+      "rating": 7.041,
+      "vote_count": 333,
       "genres": [
         "Drama",
         "Comedy"
@@ -181,7 +181,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-22T10:58:49.735626",
+    "scraped_at": "2026-10-23T10:51:19.238931",
     "source": "biorio",
     "tmdb": {
       "id": 27327,
@@ -292,14 +292,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-22T10:58:55.170229",
+    "scraped_at": "2026-10-23T10:51:23.885317",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
       "title": "Tokyo Godfathers",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
-      "rating": 7.93,
+      "rating": 7.929,
       "vote_count": 1587,
       "genres": [
         "Animation",

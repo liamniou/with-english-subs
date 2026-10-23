@@ -27,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-10-22T10:57:46.576205+00:00",
+    "scraped_at": "2026-10-23T10:50:30.671986+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1461432,
@@ -78,14 +78,14 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-10-22T10:57:48.635307+00:00",
+    "scraped_at": "2026-10-23T10:50:32.005112+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 1314122,
       "title": "Bloody Tennis",
       "overview": "Sophie joins a prestigious tennis academy, where the brutality of competitive sports is taken to its extreme and only the hungriest survive.",
       "release_date": "2026-09-24",
-      "rating": 5.333,
+      "rating": 5.3,
       "vote_count": 6,
       "genres": [
         "Horror",
@@ -129,7 +129,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-10-22T10:57:49.208682+00:00",
+    "scraped_at": "2026-10-23T10:50:32.456714+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 110160,

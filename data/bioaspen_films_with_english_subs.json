@@ -26,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-22T10:57:32.676682+00:00",
+    "scraped_at": "2026-10-23T10:50:17.787264+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1605919,
@@ -76,7 +76,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-22T10:57:32.676710+00:00",
+    "scraped_at": "2026-10-23T10:50:17.787300+00:00",
     "source": "bioaspen"
   },
   {
@@ -106,7 +106,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-22T10:57:32.676719+00:00",
+    "scraped_at": "2026-10-23T10:50:17.787316+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1461432,
@@ -156,7 +156,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-22T10:57:32.676727+00:00",
+    "scraped_at": "2026-10-23T10:50:17.787330+00:00",
     "source": "bioaspen"
   },
   {
@@ -186,7 +186,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-22T10:57:32.676738+00:00",
+    "scraped_at": "2026-10-23T10:50:17.787347+00:00",
     "source": "bioaspen"
   },
   {
@@ -216,7 +216,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-22T10:57:32.676747+00:00",
+    "scraped_at": "2026-10-23T10:50:17.787361+00:00",
     "source": "bioaspen"
   }
 ]

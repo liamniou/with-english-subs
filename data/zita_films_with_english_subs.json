@@ -1,5 +1,50 @@
 [
   {
+    "film_id": "unknown-title",
+    "url": "https://zita.se/irkalla--gilgameshs-dream",
+    "title": "Unknown Title",
+    "director": "",
+    "genre": "",
+    "duration": "Irak2025109 minArabiskaEngelska",
+    "showtimes": [
+      {
+        "datetime": "2026-11-07T16:00:00",
+        "display_text": "lör 7 nov 16:00",
+        "time": "16:00",
+        "date": "lör 7 nov",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=6066",
+        "normalized_datetime": "2026-11-07T16:00:00",
+        "normalized_date": "07.11",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-10-23T10:56:13.161085+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 949470,
+      "title": "Unknown Title",
+      "overview": "A short film by Andrei Ventslova",
+      "release_date": "1988-04-15",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "imdb_id": null,
+      "runtime": 1,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
     "film_id": "låt-den-rätte-komma-in",
     "url": "https://zita.se/lat-den-ratte",
     "title": "Låt den rätte komma in",
@@ -22,7 +67,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-10-22T11:05:23.961017+00:00",
+    "scraped_at": "2026-10-23T10:56:15.076654+00:00",
     "source": "zita",
     "tmdb": {
       "id": 13310,
@@ -30,7 +75,7 @@
       "overview": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl.",
       "release_date": "2008-10-24",
       "rating": 7.542,
-      "vote_count": 3391,
+      "vote_count": 3393,
       "genres": [
         "Horror",
         "Drama"
@@ -43,6 +88,51 @@
       "runtime": 115,
       "budget": 4000000,
       "revenue": 10785801
+    }
+  },
+  {
+    "film_id": "one-more-show",
+    "url": "https://zita.se/one-more-show",
+    "title": "One More Show",
+    "director": "",
+    "genre": "Irak20251 jan 202574 minDokumentärFolkets Bio StockholmArabiskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "2026-11-06T18:30:00",
+        "display_text": "fre 6 nov 18:30",
+        "time": "18:30",
+        "date": "fre 6 nov",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=6063",
+        "normalized_datetime": "2026-11-06T18:30:00",
+        "normalized_date": "06.11",
+        "normalized_time": "18:30"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-10-23T10:56:19.238966+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1578485,
+      "title": "One More Show",
+      "overview": "Amidst the devastation of the genocide carried by Israel in Gaza, a group of circus performers refuse to let despair take center stage. One More Show follows The Free Gaza troupe; Youssef, Batout, Ismail, Mohamed and Just, after being displaced from northern to southern Gaza, as they turn their craft into an act of defiance, resilience, and hope. As death hovers in the background, the troupe performs for children in shelters and on the streets, offering moments of joy in the darkest of times.",
+      "release_date": "2025-11-13",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Documentary"
+      ],
+      "poster_path": "/quu96ArqAMb7GNXkUO5eTmuQZc0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/quu96ArqAMb7GNXkUO5eTmuQZc0.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt38933379",
+      "runtime": 74,
+      "budget": 0,
+      "revenue": 0
     }
   }
 ]
