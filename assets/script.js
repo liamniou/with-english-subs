@@ -283,6 +283,12 @@ const DATA_SOURCES = [
         name: 'Bio Bristol',
         file: './data/biobristol_films_with_english_subs.json',
         fallback: null
+    },
+    {
+        // Each film carries its own data_source (cinema name) from the scraper
+        name: 'bio.se',
+        file: './data/biose_films_with_english_subs.json',
+        fallback: null
     }
 ];
 
@@ -312,7 +318,7 @@ async function loadFilms() {
                     
                     // Add source information to each film
                     films.forEach(film => {
-                        film.data_source = source.name;
+                        film.data_source = film.data_source || source.name;
                         film.source_file = response.url.split('/').pop();
                     });
                     

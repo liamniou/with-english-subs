@@ -1,0 +1,34 @@
+[
+  {
+    "film_id": "biocafe-tellus-45497",
+    "url": "https://bio.se/biografer/biocafe-tellus/film/45497/fjord-eng-txt",
+    "title": "Fjord",
+    "director": "",
+    "duration": "146 min",
+    "language": "Engelska",
+    "genre": "Drama, Thriller",
+    "description": "Vinnare av Guldpalmen i Cannes 2026\nDet rumänsk-norska paret Mihai och Lisbeth Gheorghiu flyttar till Norge med sina barn efter att Mihais föräldrar gått bort, för att komma närmare Lisbeths familj, som delar parets djupa religiösa övertygelse.\nSnart inleds en nära relation till grannfamiljen Halberg. Mats Halberg jobbar som rektor på den närliggande skolan, medan hustrun Mia har lämnat arbetet som jurist för att ta hand om Mats åldrande far. I takt med att vänskapen mellan grannarna fördjupas börjar familjen Halbergs rebelliska tonårsdotter Rakel förändras, och när Gheorghiufamiljens dotter Elia plötsligt dyker upp i skolan med blåmärken väcks misstankar om vad som egentligen pågår bakom stängda dörrar. Snart ställs de två familjerna mot varandra i en växande konflikt om uppfostran, tro och frihet.",
+    "poster_url": "https://wp3-prod-bucket.s3.eu-central-1.amazonaws.com/app/uploads/2026/09/04101545/fkb-asset-1000024094-poster.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-10-27T19:30:00",
+        "display_text": "Tuesday 27 October 2026 at 19:30",
+        "time": "19:30",
+        "date_section": "27.10",
+        "ticket_url": "https://bio.se/biografer/biocafe-tellus/film/45497/fjord-eng-txt",
+        "hall": "Salongen",
+        "audio_language": "Engelska",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-10-27T19:30:00",
+        "normalized_date": "27.10",
+        "normalized_time": "19:30"
+      }
+    ],
+    "cinemas": [
+      "Biocafé Tellus"
+    ],
+    "data_source": "Biocafé Tellus",
+    "scraped_at": "2026-10-23T12:12:22.677234+00:00",
+    "source": "biose"
+  }
+]

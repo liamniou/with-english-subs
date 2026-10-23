@@ -63,6 +63,7 @@ class StaticHTMLGenerator:
             "data/capitolbio_films_with_english_subs.json",
             "data/bioaspen_films_with_english_subs.json",
             "data/biobristol_films_with_english_subs.json",
+            "data/biose_films_with_english_subs.json",
             "data/films_with_english_subs.json",
             "data/films_with_english_subs_enriched.json"
         ]
