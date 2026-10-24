@@ -28,7 +28,26 @@
       "Biocafé Tellus"
     ],
     "data_source": "Biocafé Tellus",
-    "scraped_at": "2026-10-23T12:12:22.677234+00:00",
-    "source": "biose"
+    "scraped_at": "2026-10-24T10:06:47.994865+00:00",
+    "source": "biose",
+    "tmdb": {
+      "id": 1401459,
+      "title": "Fjord",
+      "overview": "Following the deaths of Mihai's parents, Mihai and Lisbeth Gheorghiu leave their life behind in Romania and move with their children to a remote village in Norway, hoping to rebuild their lives near Lisbeth's family. There, they grow close to their neighbors, the Halbergs, whose warmth gives them hope for a fresh start. But the fragile peace begins to unravel when the Gheorghiu family’s young daughter, Elia, arrives at school covered in bruises.",
+      "release_date": "2026-06-13",
+      "rating": 7.2,
+      "vote_count": 91,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/rhKlzjAJCEKUjxEk1qwr4bgbXlG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rhKlzjAJCEKUjxEk1qwr4bgbXlG.jpg",
+      "backdrop_path": "/rCYzSP07jCA1HuFvrwgaEAPHitT.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/rCYzSP07jCA1HuFvrwgaEAPHitT.jpg",
+      "imdb_id": "tt35410859",
+      "runtime": 146,
+      "budget": 4750000,
+      "revenue": 407491
+    }
   }
 ]

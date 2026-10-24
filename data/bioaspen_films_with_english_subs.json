@@ -1,55 +1,5 @@
 [
   {
-    "film_id": "the-magic-city-birmingham-according-to-sun-ra",
-    "url": "https://www.bioaspen.se/movies/the-magic-city-birmingham-according-to-sun-ra/",
-    "title": "The Magic City: Birmingham according to Sun Ra",
-    "director": "Guillaume Maupin, Pablo Guarise",
-    "duration": "1 tim 40 min",
-    "language": "EN",
-    "description": "He left it for Chicago at the age of 32 and did not return until late in his Life.Portraying this artist as a young man as much as portraying a city,The Magic Citytells the story of Sun Ra’s early years in this urban universe that was both political and magical, common and fantastic, disturbing and fascinating.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/7198/1080/5d2bb7ee-b2ce-443e-af66-0d142d3ae930.jpeg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-23T18:15:00",
-        "display_text": "Friday 23 October 2026 at 18:15",
-        "time": "18:15",
-        "date_section": "23.10",
-        "ticket_url": "https://www.bioaspen.se/movies/the-magic-city-birmingham-according-to-sun-ra/",
-        "hall": "Salong 1",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-23T18:15:00",
-        "normalized_date": "23.10",
-        "normalized_time": "18:15"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-10-23T10:50:17.787264+00:00",
-    "source": "bioaspen",
-    "tmdb": {
-      "id": 1605919,
-      "title": "The Magic City: Birmingham according to Sun Ra",
-      "overview": "Between segregation and cosmic revelation, The Magic City traces the birth of Sun Ra, where a city becomes myth and a man, a galaxy.",
-      "release_date": "2025-10-15",
-      "rating": 8.0,
-      "vote_count": 1,
-      "genres": [
-        "Documentary",
-        "Music"
-      ],
-      "poster_path": "/2KCfRHEBEEMRZkrxiORSNfpWh6a.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2KCfRHEBEEMRZkrxiORSNfpWh6a.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt39054918",
-      "runtime": 97,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "wajda-100-ar-filmkonsert-innocent-sorcerers-niewinni-czarodzieje",
     "url": "https://www.bioaspen.se/movies/wajda-100-ar-filmkonsert-innocent-sorcerers-niewinni-czarodzieje/",
     "title": "Wajda 100 år: Filmkonsert Innocent Sorcerers (Niewinni Czarodzieje)",
@@ -76,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-23T10:50:17.787300+00:00",
+    "scraped_at": "2026-10-24T10:05:17.073171+00:00",
     "source": "bioaspen"
   },
   {
@@ -106,7 +56,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-23T10:50:17.787316+00:00",
+    "scraped_at": "2026-10-24T10:05:17.073204+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1461432,
@@ -156,7 +106,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-23T10:50:17.787330+00:00",
+    "scraped_at": "2026-10-24T10:05:17.073216+00:00",
     "source": "bioaspen"
   },
   {
@@ -186,7 +136,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-23T10:50:17.787347+00:00",
+    "scraped_at": "2026-10-24T10:05:17.073227+00:00",
     "source": "bioaspen"
   },
   {
@@ -216,7 +166,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-23T10:50:17.787361+00:00",
+    "scraped_at": "2026-10-24T10:05:17.073241+00:00",
     "source": "bioaspen"
   }
 ]

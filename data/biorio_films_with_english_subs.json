@@ -25,7 +25,7 @@
           "date": "2026-10-24",
           "time": "20:20",
           "capacity": 180,
-          "ticketsSold": 33,
+          "ticketsSold": 41,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -44,15 +44,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-23T10:50:45.345250",
+    "scraped_at": "2026-10-24T10:05:43.624282",
     "source": "biorio",
     "tmdb": {
       "id": 9323,
       "title": "Ghost in the Shell",
       "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
       "release_date": "1995-11-18",
-      "rating": 7.929,
-      "vote_count": 4111,
+      "rating": 7.93,
+      "vote_count": 4112,
       "genres": [
         "Action",
         "Animation",
@@ -113,7 +113,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-23T10:51:14.691751",
+    "scraped_at": "2026-10-24T10:06:16.688736",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -181,14 +181,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-23T10:51:19.238931",
+    "scraped_at": "2026-10-24T10:06:21.977621",
     "source": "biorio",
     "tmdb": {
       "id": 27327,
       "title": "Phantom of the Paradise",
       "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
       "release_date": "1974-10-31",
-      "rating": 7.462,
+      "rating": 7.5,
       "vote_count": 796,
       "genres": [
         "Drama",
@@ -231,7 +231,7 @@
           "date": "2026-12-10",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 11,
+          "ticketsSold": 13,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -292,7 +292,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-23T10:51:23.885317",
+    "scraped_at": "2026-10-24T10:06:27.178911",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -314,6 +314,80 @@
       "runtime": 92,
       "budget": 2400000,
       "revenue": 607735
+    }
+  },
+  {
+    "film_id": "fanny-och-alexander",
+    "url": "https://www.biorio.se/sv/filmer/fanny-och-alexander",
+    "title": "Fanny och Alexander",
+    "director": "Ingmar Bergman",
+    "showtimes": [
+      {
+        "datetime": "2026-12-12T09:30:00.000Z",
+        "display_text": "Saturday December 12, 2026 at 09:30",
+        "movie_id": "5700",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2992",
+        "api_data": {
+          "id": 2992,
+          "movieId": 5700,
+          "screenId": 1,
+          "screen": {
+            "id": 1,
+            "name": "Salong 1",
+            "capacity": 180
+          },
+          "startTime": "2026-12-12T09:30:00.000Z",
+          "endTime": "2026-12-12T14:56:00.000Z",
+          "date": "2026-12-12",
+          "time": "10:30",
+          "capacity": 180,
+          "ticketsSold": 0,
+          "status": "on_sale",
+          "is3D": false,
+          "isImax": false,
+          "membersOnly": false,
+          "excludeFromMemberBenefits": true,
+          "category": "Snowtime",
+          "tags": [
+            "Snowtime",
+            "English subtitles"
+          ],
+          "subtitles": "Engelska",
+          "basePrice": 150,
+          "onlineAvailableFrom": null,
+          "campaignFreeTicket": false
+        },
+        "normalized_datetime": "2026-12-12T09:30:00",
+        "normalized_date": "12.12",
+        "normalized_time": "09:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-10-24T10:06:28.850836",
+    "source": "biorio",
+    "tmdb": {
+      "id": 5961,
+      "title": "Fanny and Alexander",
+      "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
+      "release_date": "1982-12-17",
+      "rating": 7.756,
+      "vote_count": 926,
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Mystery"
+      ],
+      "poster_path": "/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+      "backdrop_path": "/8reX3CMog1QHqGoym2Esvuk5MnK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8reX3CMog1QHqGoym2Esvuk5MnK.jpg",
+      "imdb_id": "tt0083922",
+      "runtime": 188,
+      "budget": 6000000,
+      "revenue": 6800000
     }
   }
 ]

@@ -1,34 +1,38 @@
 {
   "bioaspen": {
     "alerted": false,
-    "last_seen": "2026-10-23"
+    "last_seen": "2026-10-24"
   },
   "biobristol": {
     "alerted": false,
-    "last_seen": "2026-10-23"
+    "last_seen": "2026-10-24"
   },
   "biorio": {
     "alerted": false,
-    "last_seen": "2026-10-23"
+    "last_seen": "2026-10-24"
+  },
+  "biose": {
+    "alerted": false,
+    "last_seen": "2026-10-24"
   },
   "capitolbio": {
     "alerted": false,
-    "last_seen": "2026-10-23"
+    "last_seen": "2026-10-24"
   },
   "cinemateket": {
     "alerted": false,
-    "last_seen": "2026-10-23"
+    "last_seen": "2026-10-24"
   },
   "fagelbla": {
     "alerted": false,
-    "last_seen": "2026-10-23"
+    "last_seen": "2026-10-24"
   },
   "klarabiografen": {
     "alerted": false,
-    "last_seen": "2026-10-23"
+    "last_seen": "2026-10-24"
   },
   "zita": {
     "alerted": false,
-    "last_seen": "2026-10-23"
+    "last_seen": "2026-10-24"
   }
 }
