@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:11:18.683905+00:00",
+    "scraped_at": "2026-10-25T10:34:57.918099+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 18333,
@@ -68,15 +68,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:11:18.684023+00:00",
+    "scraped_at": "2026-10-25T10:34:57.918250+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 3175,
       "title": "Barry Lyndon",
       "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
       "release_date": "1975-12-16",
-      "rating": 8.001,
-      "vote_count": 3327,
+      "rating": 8.0,
+      "vote_count": 3328,
       "genres": [
         "Drama",
         "History"
@@ -114,15 +114,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:11:18.684309+00:00",
+    "scraped_at": "2026-10-25T10:34:57.918598+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
       "title": "Marie Antoinette",
       "overview": "A retelling of the story of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles.",
       "release_date": "2006-05-24",
-      "rating": 6.7,
-      "vote_count": 3034,
+      "rating": 6.69,
+      "vote_count": 3036,
       "genres": [
         "Drama",
         "History"
@@ -160,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:11:18.684379+00:00",
+    "scraped_at": "2026-10-25T10:34:57.918671+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1398,
@@ -168,7 +168,7 @@
       "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
       "release_date": "1979-05-25",
       "rating": 8.1,
-      "vote_count": 2643,
+      "vote_count": 2646,
       "genres": [
         "Science Fiction",
         "Drama"
@@ -206,7 +206,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:11:18.684502+00:00",
+    "scraped_at": "2026-10-25T10:34:57.918813+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -214,7 +214,7 @@
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
       "rating": 7.61,
-      "vote_count": 4608,
+      "vote_count": 4610,
       "genres": [
         "Comedy",
         "Romance",
@@ -253,15 +253,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:11:18.684632+00:00",
+    "scraped_at": "2026-10-25T10:34:57.918935+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 153,
       "title": "Lost in Translation",
       "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
       "release_date": "2003-09-18",
-      "rating": 7.4,
-      "vote_count": 8386,
+      "rating": 7.376,
+      "vote_count": 8391,
       "genres": [
         "Drama",
         "Comedy",
@@ -300,7 +300,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:11:18.684747+00:00",
+    "scraped_at": "2026-10-25T10:34:57.919134+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 5279,
@@ -347,7 +347,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:11:18.684861+00:00",
+    "scraped_at": "2026-10-25T10:34:57.920666+00:00",
     "source": "fagelbla"
   },
   {
@@ -373,7 +373,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:11:18.684965+00:00",
+    "scraped_at": "2026-10-25T10:34:57.920841+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1621,
@@ -381,7 +381,7 @@
       "overview": "A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires.",
       "release_date": "1983-06-07",
       "rating": 7.231,
-      "vote_count": 3822,
+      "vote_count": 3824,
       "genres": [
         "Comedy"
       ],
@@ -418,7 +418,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:11:18.685029+00:00",
+    "scraped_at": "2026-10-25T10:34:57.920966+00:00",
     "source": "fagelbla"
   },
   {
@@ -444,15 +444,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:11:18.685128+00:00",
+    "scraped_at": "2026-10-25T10:34:57.921111+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 20334,
       "title": "The Shop Around the Corner",
       "overview": "Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal.",
       "release_date": "1940-01-12",
-      "rating": 8.058,
-      "vote_count": 879,
+      "rating": 8.057,
+      "vote_count": 880,
       "genres": [
         "Comedy",
         "Drama",

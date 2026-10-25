@@ -1,56 +1,5 @@
 [
   {
-    "film_id": "queen-budapest",
-    "url": "https://www.capitolbio.se/filmer/queen-budapest/4576",
-    "title": "Queen Budapest",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Queen Budapest, den sista filmade livekonserten med Queen, har digitaliserats i knivskarp 4K-upplösning och fått en helt ny dynamisk ljudmix.\n\n27 juli 1986 klev Queen upp på Népstadion i Budapest och levererade sin största stadionkonsert någonsin inför 80 000 extatiska fans. Spelningen gjordes under den legendariska turnén 'Magic Tour', bandets allra sista turné med Freddie Mercury. Filmen bjuder på en rad av Queens absolut största hits, däribland Bohemian Rhapsody, Crazy Little Thing Called Love, I Want To Break Free och We Are The Champions.\n\nEftersom det fortfarande återstod tre år innan Berlinmurens fall, blev detta den första västerländska rockkonserten som arrangerades på en stor arena bakom järnridån. Historien var så pass unik att de ungerska myndigheterna och landets filmindustri samlade sina absolut främsta filmfotografer och tekniker för att dokumentera hela händelsen för eftervärlden.",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4576/1920/46328707-077b-4c73-a391-53845bec664e.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-24T17:40:00",
-        "display_text": "Saturday 24 October 2026 at 17:40",
-        "time": "17:40",
-        "date_section": "24.10",
-        "ticket_url": "https://www.capitolbio.se/boka/52981",
-        "booking_id": "52981",
-        "hall": "Salong 2",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-24T17:40:00",
-        "normalized_date": "24.10",
-        "normalized_time": "17:40"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-10-24T10:06:52.336338+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 142773,
-      "title": "Queen: Live in Budapest",
-      "overview": "On 27 July 1986, Queen performed the largest-ever stadium concert at the Népstadion in Budapest in front of 80,000 ecstatic fans. The concert was part of the famed Magic Tour, which was the last time the band toured with lead singer Freddie Mercury.",
-      "release_date": "1986-12-11",
-      "rating": 8.2,
-      "vote_count": 85,
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "poster_path": "/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
-      "backdrop_path": "/vhPl9k80mgiTbR3hkaGjTU0fyQI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vhPl9k80mgiTbR3hkaGjTU0fyQI.jpg",
-      "imdb_id": "tt0093427",
-      "runtime": 97,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "ginger-snaps",
     "url": "https://www.capitolbio.se/filmer/ginger-snaps/4586",
     "title": "Ginger Snaps",
@@ -78,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-24T10:06:52.336384+00:00",
+    "scraped_at": "2026-10-25T10:31:50.457926+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 9871,
@@ -86,7 +35,7 @@
       "overview": "The story of two outcast sisters, Ginger and Brigitte, in the mindless suburban town of Bailey Downs. On the night of Ginger's first period, she is savagely attacked by a wild creature. Ginger's wounds miraculously heal but something is not quite right. Now Brigitte must save her sister and save herself.",
       "release_date": "2000-12-11",
       "rating": 6.9,
-      "vote_count": 1052,
+      "vote_count": 1053,
       "genres": [
         "Horror",
         "Fantasy"
@@ -129,15 +78,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-24T10:06:52.336398+00:00",
+    "scraped_at": "2026-10-25T10:31:50.457969+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 21484,
       "title": "Possession",
       "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
       "release_date": "1981-05-27",
-      "rating": 7.3,
-      "vote_count": 1483,
+      "rating": 7.313,
+      "vote_count": 1487,
       "genres": [
         "Horror"
       ],
@@ -179,15 +128,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-24T10:06:52.336411+00:00",
+    "scraped_at": "2026-10-25T10:31:50.457983+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 25623,
       "title": "House",
       "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye.",
       "release_date": "1977-08-26",
-      "rating": 7.325,
-      "vote_count": 852,
+      "rating": 7.3,
+      "vote_count": 853,
       "genres": [
         "Comedy",
         "Fantasy",
@@ -231,7 +180,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-24T10:06:52.336429+00:00",
+    "scraped_at": "2026-10-25T10:31:50.457995+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 93,
@@ -253,6 +202,109 @@
       "runtime": 161,
       "budget": 2000000,
       "revenue": 8000000
+    }
+  },
+  {
+    "film_id": "singalong-moulin-rouge",
+    "url": "https://www.capitolbio.se/filmer/singalong-moulin-rouge/2061",
+    "title": "Singalong: Moulin Rouge",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Älskade singalongfavoriten Moulin Rouge är tillbaka på Capitol!\n\nAllsångsledare för kvällen är Martina Huzell.\n\nKom gärna i god tid och ladda upp i foajébaren! Partyt fortsätter sedan i salongen.\n\nEn passionerad poet faller för en vacker kurtisan i den exotiska kärleksmusikal av fantasifulla regissören Baz Luhrman (Romeo+Julia och Strictly Ballroom). Stjärnorna Nicole Kidman och Ewan McGregor gör fantastiska rolltolkningar och tar dig med på en fascinerande och romantisk resa i en häpnadsväckande och sensuell värld på nattklubben Moulin Rouge i Paris. Filmen är hypnotiserande, full med sprudlande underhållning och massor av moderna hits som gör Moulin Rouge till en upplevelse som du sent kommer att glömma!\n\nOBS, inga återköp gäller på singalonger.\n\nAndra singalonger/partyalonger att boka finns här!",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/2061/1920/067cf25e-e6dd-4863-90b0-bb0e14aba26f.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-16T18:10:00",
+        "display_text": "Monday 16 November 2026 at 18:10",
+        "time": "18:10",
+        "date_section": "16.11",
+        "ticket_url": "https://www.capitolbio.se/boka/52595",
+        "booking_id": "52595",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-16T18:10:00",
+        "normalized_date": "16.11",
+        "normalized_time": "18:10"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-10-25T10:31:50.458011+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 824,
+      "title": "Moulin Rouge!",
+      "overview": "A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet, who is plunged into the heady world of Moulin Rouge, begins a passionate affair with the club's most notorious and beautiful star.",
+      "release_date": "2001-05-18",
+      "rating": 7.5,
+      "vote_count": 4983,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Music"
+      ],
+      "poster_path": "/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+      "backdrop_path": "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+      "imdb_id": "tt0203009",
+      "runtime": 128,
+      "budget": 52500000,
+      "revenue": 179213434
+    }
+  },
+  {
+    "film_id": "paris-is-burning-1991",
+    "url": "https://www.capitolbio.se/filmer/paris-is-burning-1991/4658",
+    "title": "Paris Is Burning (1991)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Banbrytande amerikansk dokumentär av Jennie Livingston som skildrar Harlem-scenen för drag ball-kultur och voguing i New York under 1980-talet.\n\nFler klassiker att boka hittar du här",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4658/1920/31bece04-0d7f-466b-a923-7209826b2e5d.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-17T18:00:00",
+        "display_text": "Tuesday 17 November 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "17.11",
+        "ticket_url": "https://www.capitolbio.se/boka/52972",
+        "booking_id": "52972",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-17T18:00:00",
+        "normalized_date": "17.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-10-25T10:31:50.458023+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 31225,
+      "title": "Paris Is Burning",
+      "overview": "Where does voguing come from, and what, exactly, is throwing shade? This landmark documentary provides a vibrant snapshot of the 1980s through the eyes of New York City's African American and Latinx Harlem drag-ball scene. Made over seven years, PARIS IS BURNING offers an intimate portrait of rival fashion \"houses,\" from fierce contests for trophies to house mothers offering sustenance in a world rampant with homophobia, transphobia, racism, AIDS, and poverty. Featuring legendary voguers, drag queens, and trans women — including Willi Ninja, Pepper LaBeija, Dorian Corey, and Venus Xtravaganza.",
+      "release_date": "1991-03-13",
+      "rating": 8.012,
+      "vote_count": 574,
+      "genres": [
+        "Documentary",
+        "History"
+      ],
+      "poster_path": "/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "backdrop_path": "/1DOLRxIQbRxhZcllLVx4DUAGqfS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1DOLRxIQbRxhZcllLVx4DUAGqfS.jpg",
+      "imdb_id": "tt0100332",
+      "runtime": 78,
+      "budget": 500000,
+      "revenue": 3906006
     }
   }
 ]

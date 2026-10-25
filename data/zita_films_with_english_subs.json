@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:12:39.278479+00:00",
+    "scraped_at": "2026-10-25T10:36:19.956796+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
@@ -53,10 +53,10 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2026-10-26T20:30:00",
-        "display_text": "mån 26 okt 20:30",
+        "datetime": "",
+        "display_text": "i morgon 20:30",
         "time": "20:30",
-        "date": "mån 26 okt",
+        "date": "i morgon",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5641",
         "normalized_datetime": "2026-10-26T20:30:00",
@@ -67,7 +67,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:12:42.050210+00:00",
+    "scraped_at": "2026-10-25T10:36:21.438957+00:00",
     "source": "zita",
     "tmdb": {
       "id": 13310,
@@ -75,7 +75,7 @@
       "overview": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl.",
       "release_date": "2008-10-24",
       "rating": 7.542,
-      "vote_count": 3393,
+      "vote_count": 3397,
       "genres": [
         "Horror",
         "Drama"
@@ -113,7 +113,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:12:48.337849+00:00",
+    "scraped_at": "2026-10-25T10:36:26.664372+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1578485,
@@ -133,6 +133,53 @@
       "runtime": 74,
       "budget": 0,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "the-last-note",
+    "url": "https://zita.se/the-last-note",
+    "title": "The Last Note",
+    "director": "",
+    "genre": "The Last Note Grekland20171 jan 2017106 minDramaFrån 15 årFolkets Bio StockholmGrekiskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "17:00",
+        "time": "17:00",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=6004",
+        "normalized_datetime": "2026-10-25T17:00:00",
+        "normalized_date": "25.10",
+        "normalized_time": "17:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-10-25T10:36:28.472866+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 16140,
+      "title": "Death Note: The Last Name",
+      "overview": "In the second installment of the Death Note film franchise, Light Yagami meets a second Kira and faithful follower Misa Amane and her Shinigami named Rem. Light attempts to defeat L along with Teru Mikami (a Kira follower) and Kiyomi Takada (another Kira follower) but in the end will Light win? or will a Shinigami named Ryuk make all the difference in Light's victory or his ultimate death?",
+      "release_date": "2006-10-28",
+      "rating": 7.1,
+      "vote_count": 571,
+      "genres": [
+        "Fantasy",
+        "Thriller",
+        "Mystery"
+      ],
+      "poster_path": "/zFwCNC5LfmPKBsqMuAhzcG5Jubm.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zFwCNC5LfmPKBsqMuAhzcG5Jubm.jpg",
+      "backdrop_path": "/8swHho6hoIlHERMrX2Z83OBQJCa.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/8swHho6hoIlHERMrX2Z83OBQJCa.jpg",
+      "imdb_id": "tt0810827",
+      "runtime": 140,
+      "budget": 17000000,
+      "revenue": 47919757
     }
   }
 ]

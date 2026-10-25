@@ -1,74 +1,5 @@
 [
   {
-    "film_id": "ghost-in-the-shell",
-    "url": "https://www.biorio.se/sv/filmer/ghost-in-the-shell",
-    "title": "Ghost in the Shell",
-    "director": "Mamoru Oshii",
-    "showtimes": [
-      {
-        "datetime": "2026-10-24T18:20:00.000Z",
-        "display_text": "Saturday October 24, 2026 at 18:20",
-        "movie_id": "4989",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2932",
-        "api_data": {
-          "id": 2932,
-          "movieId": 4989,
-          "screenId": 1,
-          "screen": {
-            "id": 1,
-            "name": "Salong 1",
-            "capacity": 180
-          },
-          "startTime": "2026-10-24T18:20:00.000Z",
-          "endTime": "2026-10-24T19:43:00.000Z",
-          "date": "2026-10-24",
-          "time": "20:20",
-          "capacity": 180,
-          "ticketsSold": 41,
-          "status": "on_sale",
-          "is3D": false,
-          "isImax": false,
-          "membersOnly": false,
-          "excludeFromMemberBenefits": false,
-          "tags": [],
-          "basePrice": 150,
-          "onlineAvailableFrom": null,
-          "campaignFreeTicket": false
-        },
-        "normalized_datetime": "2026-10-24T18:20:00",
-        "normalized_date": "24.10",
-        "normalized_time": "18:20"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-10-24T10:05:43.624282",
-    "source": "biorio",
-    "tmdb": {
-      "id": 9323,
-      "title": "Ghost in the Shell",
-      "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
-      "release_date": "1995-11-18",
-      "rating": 7.93,
-      "vote_count": 4112,
-      "genres": [
-        "Action",
-        "Animation",
-        "Science Fiction"
-      ],
-      "poster_path": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg",
-      "backdrop_path": "/jIpagj2Dud9g3ZVJFvaWikEWsYz.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jIpagj2Dud9g3ZVJFvaWikEWsYz.jpg",
-      "imdb_id": "tt0113568",
-      "runtime": 83,
-      "budget": 3000000,
-      "revenue": 10000000
-    }
-  },
-  {
     "film_id": "sanger-fran-andra-vaningen",
     "url": "https://www.biorio.se/sv/filmer/sanger-fran-andra-vaningen",
     "title": "Sånger från andra våningen",
@@ -113,7 +44,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:06:16.688736",
+    "scraped_at": "2026-10-25T10:31:17.913572",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -181,15 +112,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:06:21.977621",
+    "scraped_at": "2026-10-25T10:31:22.589502",
     "source": "biorio",
     "tmdb": {
       "id": 27327,
       "title": "Phantom of the Paradise",
       "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
       "release_date": "1974-10-31",
-      "rating": 7.5,
-      "vote_count": 796,
+      "rating": 7.468,
+      "vote_count": 798,
       "genres": [
         "Drama",
         "Horror",
@@ -292,15 +223,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:06:27.178911",
+    "scraped_at": "2026-10-25T10:31:27.086152",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
       "title": "Tokyo Godfathers",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
-      "rating": 7.929,
-      "vote_count": 1587,
+      "rating": 7.93,
+      "vote_count": 1589,
       "genres": [
         "Animation",
         "Drama",
@@ -366,7 +297,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-24T10:06:28.850836",
+    "scraped_at": "2026-10-25T10:31:28.955804",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -374,7 +305,7 @@
       "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
       "release_date": "1982-12-17",
       "rating": 7.756,
-      "vote_count": 926,
+      "vote_count": 927,
       "genres": [
         "Fantasy",
         "Drama",
