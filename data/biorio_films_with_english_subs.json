@@ -44,7 +44,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-25T10:31:17.913572",
+    "scraped_at": "2026-10-26T12:04:24.588287",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
@@ -112,7 +112,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-25T10:31:22.589502",
+    "scraped_at": "2026-10-26T12:04:31.271106",
     "source": "biorio",
     "tmdb": {
       "id": 27327,
@@ -223,7 +223,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-25T10:31:27.086152",
+    "scraped_at": "2026-10-26T12:04:36.844433",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -273,7 +273,7 @@
           "date": "2026-12-12",
           "time": "10:30",
           "capacity": 180,
-          "ticketsSold": 0,
+          "ticketsSold": 4,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -297,7 +297,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-25T10:31:28.955804",
+    "scraped_at": "2026-10-26T12:04:39.106548",
     "source": "biorio",
     "tmdb": {
       "id": 5961,

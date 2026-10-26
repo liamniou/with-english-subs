@@ -1,56 +1,5 @@
 [
   {
-    "film_id": "arkipelag",
-    "url": "https://www.biobristol.se/f/arkipelag/558",
-    "title": "Arkipelag",
-    "director": "Alex Schulman",
-    "duration": "107 min",
-    "language": "Svenska",
-    "description": "Laddat drama möter mörk humor när Alex Schulman regidebuterar med Arkipelag, där Gustaf Skarsgård, Fares Fares och Linus Wahlgren spelar tre pappor som följer med sina döttrar på en skolresa till helvetet. Strandsatta med en stökig högstadieklass på en idyllisk skärgårdsö påminns de om egna tonårstrauman. Precis som ungdomarna tvingas de snart också inse hur svårt det är att dra gränsen mellan lek och farlig maktkamp, och att skilja offer från förövare. Arkipelag är årets svenska Oscarsbidrag.\n",
-    "poster_url": "https://mars-images.imgix.net/1789679311455?auto=compress&w=1200&fit=max",
-    "showtimes": [
-      {
-        "datetime": "2026-10-25T18:30:00",
-        "display_text": "Sunday 25 October 2026 at 18:30",
-        "time": "18:30",
-        "date_section": "25.10",
-        "ticket_url": "https://www.biobristol.se/checkout?showId=6accad41e1a392372dbafc9e",
-        "show_id": "6accad41e1a392372dbafc9e",
-        "hall": "Bristol",
-        "audio_language": "",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-25T18:30:00",
-        "normalized_date": "25.10",
-        "normalized_time": "18:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Bristol"
-    ],
-    "scraped_at": "2026-10-25T10:30:40.618106+00:00",
-    "source": "biobristol",
-    "tmdb": {
-      "id": 1461432,
-      "title": "Adult Supervision",
-      "overview": "Three fathers accompany their teenage daughters on a school trip to a remote island. What begins as a peaceful getaway soon turns into a series of unexpected problems. Each father has a different approach to parenting, influenced by his own past experiences, and their conflicting views create tension among them. As the situation becomes increasingly difficult to control, memories of their past return and force them to confront their mistakes and shortcomings. The trip ultimately leaves them questioning who is really in control.",
-      "release_date": "2026-10-09",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "poster_path": "/rBR8DmaMqRcxv6Ewgg6rwczV8EY.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rBR8DmaMqRcxv6Ewgg6rwczV8EY.jpg",
-      "backdrop_path": "/iAmfSMQNJG4UuTdTQdqgLO8GDlI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/iAmfSMQNJG4UuTdTQdqgLO8GDlI.jpg",
-      "imdb_id": "tt36462731",
-      "runtime": 108,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "laurence-anyways",
     "url": "https://www.biobristol.se/f/laurence-anyways/565",
     "title": "Laurence Anyways",
@@ -78,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-10-25T10:30:41.514127+00:00",
+    "scraped_at": "2026-10-26T12:03:37.580732+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 110160,

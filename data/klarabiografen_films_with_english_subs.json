@@ -26,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-25T10:34:59.742199+00:00",
+    "scraped_at": "2026-10-26T12:09:19.681390+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1315107,
@@ -75,7 +75,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-25T10:34:59.742269+00:00",
+    "scraped_at": "2026-10-26T12:09:19.681452+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 526031,
@@ -124,7 +124,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-25T10:34:59.742311+00:00",
+    "scraped_at": "2026-10-26T12:09:19.681491+00:00",
     "source": "klarabiografen"
   },
   {
@@ -154,7 +154,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-25T10:34:59.742791+00:00",
+    "scraped_at": "2026-10-26T12:09:19.681957+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -205,7 +205,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-25T10:34:59.743214+00:00",
+    "scraped_at": "2026-10-26T12:09:19.682405+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 262488,
@@ -255,7 +255,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-25T10:34:59.743324+00:00",
+    "scraped_at": "2026-10-26T12:09:19.682525+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -305,14 +305,14 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-10-25T10:34:59.743404+00:00",
+    "scraped_at": "2026-10-26T12:09:19.682633+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 3062,
       "title": "42nd Street",
       "overview": "Broadway director Julian Marsh needs just one more hit show so he can retire and recover his health. It looks like he just may pull it off until temperamental star Dorthy Brock breaks her ankle on the eve of the show's premiere and has to be replaced by her understudy Peggy.",
       "release_date": "1933-03-11",
-      "rating": 6.955,
+      "rating": 7.0,
       "vote_count": 231,
       "genres": [
         "Comedy",
