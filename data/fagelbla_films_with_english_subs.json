@@ -22,15 +22,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-26T12:09:17.405940+00:00",
+    "scraped_at": "2026-10-27T11:27:14.409947+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 18333,
       "title": "Hour of the Wolf",
       "overview": "While vacationing on a remote German island with his younger pregnant wife, an artist has an emotional breakdown while confronting his repressed desires.",
       "release_date": "1968-02-19",
-      "rating": 7.439,
-      "vote_count": 584,
+      "rating": 7.44,
+      "vote_count": 585,
       "genres": [
         "Drama",
         "Horror"
@@ -68,14 +68,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-26T12:09:17.406093+00:00",
+    "scraped_at": "2026-10-27T11:27:14.410102+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 3175,
       "title": "Barry Lyndon",
       "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
       "release_date": "1975-12-16",
-      "rating": 8.002,
+      "rating": 8.0,
       "vote_count": 3329,
       "genres": [
         "Drama",
@@ -114,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-26T12:09:17.406468+00:00",
+    "scraped_at": "2026-10-27T11:27:14.410704+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
@@ -160,15 +160,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-26T12:09:17.406591+00:00",
+    "scraped_at": "2026-10-27T11:27:14.410840+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1398,
       "title": "Stalker",
       "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
       "release_date": "1979-05-25",
-      "rating": 8.08,
-      "vote_count": 2649,
+      "rating": 8.1,
+      "vote_count": 2650,
       "genres": [
         "Science Fiction",
         "Drama"
@@ -181,6 +181,51 @@
       "runtime": 162,
       "budget": 120000,
       "revenue": 36784519
+    }
+  },
+  {
+    "film_id": "nattvardsgästerna",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Nattvardsgästerna",
+    "director": "Ingmar Bergman",
+    "duration": "1h 21 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-11-16T17:30:00+01:00",
+        "display_text": "Måndag, 16th November 17:30",
+        "time": "17:30",
+        "date_section": "Måndag, 16th November",
+        "ticket_url": "https://biofagelbla.se/movie/nattvardsgasterna/?showtime=60763",
+        "showtime_id": "60763",
+        "normalized_datetime": "2026-11-16T17:30:00",
+        "normalized_date": "16.11",
+        "normalized_time": "17:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-10-27T11:27:14.411099+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 29455,
+      "title": "Winter Light",
+      "overview": "A Swedish pastor fails a loving woman, a suicidal fisherman and God.",
+      "release_date": "1963-02-11",
+      "rating": 7.9,
+      "vote_count": 530,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/wDxrEssdjFWYwIZLbr06RQNcg1q.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wDxrEssdjFWYwIZLbr06RQNcg1q.jpg",
+      "backdrop_path": "/tis6nrWakUsuG6Jwdm4yESfTU0o.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tis6nrWakUsuG6Jwdm4yESfTU0o.jpg",
+      "imdb_id": "tt0057358",
+      "runtime": 80,
+      "budget": 0,
+      "revenue": 0
     }
   },
   {
@@ -206,14 +251,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-26T12:09:17.406774+00:00",
+    "scraped_at": "2026-10-27T11:27:14.411357+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.61,
+      "rating": 7.6,
       "vote_count": 4610,
       "genres": [
         "Comedy",
@@ -228,53 +273,6 @@
       "runtime": 115,
       "budget": 2500000,
       "revenue": 9500000
-    }
-  },
-  {
-    "film_id": "lost-in-translation",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Lost in Translation",
-    "director": "Sofia Coppola",
-    "duration": "1h 42 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2026-11-25T20:30:00+01:00",
-        "display_text": "Onsdag, 25th November 20:30",
-        "time": "20:30",
-        "date_section": "Onsdag, 25th November",
-        "ticket_url": "https://biofagelbla.se/movie/lost-in-translation/?showtime=60443",
-        "showtime_id": "60443",
-        "normalized_datetime": "2026-11-25T20:30:00",
-        "normalized_date": "25.11",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-10-26T12:09:17.406944+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 153,
-      "title": "Lost in Translation",
-      "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
-      "release_date": "2003-09-18",
-      "rating": 7.376,
-      "vote_count": 8392,
-      "genres": [
-        "Drama",
-        "Comedy",
-        "Romance"
-      ],
-      "poster_path": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
-      "backdrop_path": "/6ITVHoipvxAS8luzKtHTbPaHLtT.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6ITVHoipvxAS8luzKtHTbPaHLtT.jpg",
-      "imdb_id": "tt0335266",
-      "runtime": 102,
-      "budget": 4000000,
-      "revenue": 119723856
     }
   },
   {
@@ -300,15 +298,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-26T12:09:17.407114+00:00",
+    "scraped_at": "2026-10-27T11:27:14.412371+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 5279,
       "title": "Gosford Park",
       "overview": "In 1930s England, a group of pretentious rich and famous gather together for a weekend of relaxation at a hunting resort. But when a murder occurs, each one of these interesting characters becomes a suspect.",
       "release_date": "2001-12-26",
-      "rating": 6.818,
-      "vote_count": 1312,
+      "rating": 6.8,
+      "vote_count": 1313,
       "genres": [
         "Drama",
         "Mystery",
@@ -322,6 +320,52 @@
       "runtime": 137,
       "budget": 19800000,
       "revenue": 87754044
+    }
+  },
+  {
+    "film_id": "jungfrukällan",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Jungfrukällan",
+    "director": "Ingmar Bergman",
+    "duration": "1h 26 mins",
+    "language": "Svensk",
+    "showtimes": [
+      {
+        "datetime": "2026-11-30T17:30:00+01:00",
+        "display_text": "Måndag, 30th November 17:30",
+        "time": "17:30",
+        "date_section": "Måndag, 30th November",
+        "ticket_url": "https://biofagelbla.se/movie/jungfrukallan/?showtime=60762",
+        "showtime_id": "60762",
+        "normalized_datetime": "2026-11-30T17:30:00",
+        "normalized_date": "30.11",
+        "normalized_time": "17:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-10-27T11:27:14.412497+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 11656,
+      "title": "The Virgin Spring",
+      "overview": "Devout Christians Töre and Märeta send their only daughter, the virginal Karin, and their foster daughter, the unrepentant Ingeri, to deliver candles to a distant church. On their way through the woods, the girls encounter a group of savage goat herders who brutally rape and murder Karin as Ingeri remains hidden. When the killers unwittingly seek refuge in the farmhouse of Töre and Märeta, Töre plots a fitting revenge.",
+      "release_date": "1960-02-08",
+      "rating": 7.8,
+      "vote_count": 696,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "poster_path": "/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
+      "backdrop_path": "/pcBIabUibUmpOBggWckkjohXtiP.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pcBIabUibUmpOBggWckkjohXtiP.jpg",
+      "imdb_id": "tt0053976",
+      "runtime": 90,
+      "budget": 0,
+      "revenue": 700000
     }
   },
   {
@@ -347,7 +391,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-26T12:09:17.407301+00:00",
+    "scraped_at": "2026-10-27T11:27:14.412617+00:00",
     "source": "fagelbla"
   },
   {
@@ -373,15 +417,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-26T12:09:17.407414+00:00",
+    "scraped_at": "2026-10-27T11:27:14.412737+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1621,
       "title": "Trading Places",
       "overview": "A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires.",
       "release_date": "1983-06-07",
-      "rating": 7.23,
-      "vote_count": 3825,
+      "rating": 7.231,
+      "vote_count": 3826,
       "genres": [
         "Comedy"
       ],
@@ -418,7 +462,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-26T12:09:17.407511+00:00",
+    "scraped_at": "2026-10-27T11:27:14.412839+00:00",
     "source": "fagelbla"
   },
   {
@@ -444,14 +488,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-26T12:09:17.407723+00:00",
+    "scraped_at": "2026-10-27T11:27:14.413007+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 20334,
       "title": "The Shop Around the Corner",
       "overview": "Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal.",
       "release_date": "1940-01-12",
-      "rating": 8.057,
+      "rating": 8.1,
       "vote_count": 880,
       "genres": [
         "Comedy",

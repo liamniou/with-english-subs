@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-10-26T12:10:32.738784+00:00",
+    "scraped_at": "2026-10-27T11:28:22.480922+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
@@ -42,52 +42,6 @@
       "runtime": 1,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "låt-den-rätte-komma-in",
-    "url": "https://zita.se/lat-den-ratte",
-    "title": "Låt den rätte komma in",
-    "director": "",
-    "genre": "Sverige20081 jan 2023114 minSkräck, thriller, dramaFrån 15 årSvenskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "20:30",
-        "time": "20:30",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5641",
-        "normalized_datetime": "2026-10-26T20:30:00",
-        "normalized_date": "26.10",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-10-26T12:10:34.687358+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 13310,
-      "title": "Let the Right One In",
-      "overview": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl.",
-      "release_date": "2008-10-24",
-      "rating": 7.542,
-      "vote_count": 3398,
-      "genres": [
-        "Horror",
-        "Drama"
-      ],
-      "poster_path": "/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
-      "backdrop_path": "/mSl9sxOFwBtl2f1FMprrlLqJqON.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mSl9sxOFwBtl2f1FMprrlLqJqON.jpg",
-      "imdb_id": "tt1139797",
-      "runtime": 115,
-      "budget": 4000000,
-      "revenue": 10785801
     }
   },
   {
@@ -113,7 +67,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-10-26T12:10:42.168501+00:00",
+    "scraped_at": "2026-10-27T11:28:30.092414+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1578485,
