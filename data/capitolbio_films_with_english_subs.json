@@ -1,56 +1,5 @@
 [
   {
-    "film_id": "ginger-snaps",
-    "url": "https://www.capitolbio.se/filmer/ginger-snaps/4586",
-    "title": "Ginger Snaps",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "Kultklassiker!\n\nHorroctober!\n\nDetta är berättelsen om systrarna Ginger och Brigitte, de passar inte riktigt in, har en udda stil och är besatta av döden. Natten då Ginger får sin första mens blir hon brutalt attackerad av en varulv. Hennes sår läks på mirakulöst vis, men något står inte rätt till, något som kommer att få sin kulmen nästa gång det blir fullmåne.\n\nFler klassiker att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4586/1920/709c82c6-77bc-47e0-8cf7-4f070ea9e165.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-10-27T18:00:00",
-        "display_text": "Tuesday 27 October 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "27.10",
-        "ticket_url": "https://www.capitolbio.se/boka/52410",
-        "booking_id": "52410",
-        "hall": "Salong 4",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-27T18:00:00",
-        "normalized_date": "27.10",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-10-27T11:24:17.441063+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 9871,
-      "title": "Ginger Snaps",
-      "overview": "The story of two outcast sisters, Ginger and Brigitte, in the mindless suburban town of Bailey Downs. On the night of Ginger's first period, she is savagely attacked by a wild creature. Ginger's wounds miraculously heal but something is not quite right. Now Brigitte must save her sister and save herself.",
-      "release_date": "2000-12-11",
-      "rating": 6.9,
-      "vote_count": 1054,
-      "genres": [
-        "Horror",
-        "Fantasy"
-      ],
-      "poster_path": "/ozohDiJd7Oi65NEf8B0ya7lR9Fr.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ozohDiJd7Oi65NEf8B0ya7lR9Fr.jpg",
-      "backdrop_path": "/7GAgYVK29A4NADWhPbqC9c44X7P.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/7GAgYVK29A4NADWhPbqC9c44X7P.jpg",
-      "imdb_id": "tt0210070",
-      "runtime": 108,
-      "budget": 5000000,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "possession",
     "url": "https://www.capitolbio.se/filmer/possession/3359",
     "title": "Possession",
@@ -61,24 +10,24 @@
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/3359/1920/048cbb08-4d53-452e-8299-30dfc97de858.jpg",
     "showtimes": [
       {
-        "datetime": "2026-10-28T18:00:00",
-        "display_text": "Wednesday 28 October 2026 at 18:00",
+        "datetime": "2026-10-29T18:00:00",
+        "display_text": "Thursday 29 October 2026 at 18:00",
         "time": "18:00",
-        "date_section": "28.10",
+        "date_section": "29.10",
         "ticket_url": "https://www.capitolbio.se/boka/52053",
         "booking_id": "52053",
         "hall": "Salong 2",
         "audio_language": "EN",
         "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-28T18:00:00",
-        "normalized_date": "28.10",
+        "normalized_datetime": "2026-10-29T18:00:00",
+        "normalized_date": "29.10",
         "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-27T11:24:17.441109+00:00",
+    "scraped_at": "2026-10-28T11:57:43.531705+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 21484,
@@ -86,7 +35,7 @@
       "overview": "A young woman left her family for an unspecified reason. The husband determines to find out the truth and starts following his wife. At first, he suspects that a man is involved. But gradually, he finds out more and more strange behaviors and bizarre incidents that indicate something more than a possessed love affair.",
       "release_date": "1981-05-27",
       "rating": 7.3,
-      "vote_count": 1491,
+      "vote_count": 1492,
       "genres": [
         "Horror"
       ],
@@ -111,24 +60,24 @@
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4131/1920/c4a85f85-676c-466d-b8cc-a4a16d00a7c3.jpg",
     "showtimes": [
       {
-        "datetime": "2026-10-28T20:30:00",
-        "display_text": "Wednesday 28 October 2026 at 20:30",
+        "datetime": "2026-10-29T20:30:00",
+        "display_text": "Thursday 29 October 2026 at 20:30",
         "time": "20:30",
-        "date_section": "28.10",
+        "date_section": "29.10",
         "ticket_url": "https://www.capitolbio.se/boka/52054",
         "booking_id": "52054",
         "hall": "Salong 1",
         "audio_language": "JP",
         "subtitle_language": "EN",
-        "normalized_datetime": "2026-10-28T20:30:00",
-        "normalized_date": "28.10",
+        "normalized_datetime": "2026-10-29T20:30:00",
+        "normalized_date": "29.10",
         "normalized_time": "20:30"
       }
     ],
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-27T11:24:17.441147+00:00",
+    "scraped_at": "2026-10-28T11:57:43.531752+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 25623,
@@ -180,7 +129,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-27T11:24:17.441164+00:00",
+    "scraped_at": "2026-10-28T11:57:43.531768+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 93,
