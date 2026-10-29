@@ -27,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-28T11:57:43.531705+00:00",
+    "scraped_at": "2026-10-29T12:06:11.337971+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 21484,
@@ -77,7 +77,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-28T11:57:43.531752+00:00",
+    "scraped_at": "2026-10-29T12:06:11.338018+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 25623,
@@ -129,7 +129,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-28T11:57:43.531768+00:00",
+    "scraped_at": "2026-10-29T12:06:11.338036+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 93,
@@ -151,6 +151,109 @@
       "runtime": 161,
       "budget": 2000000,
       "revenue": 8000000
+    }
+  },
+  {
+    "film_id": "singalong-moulin-rouge",
+    "url": "https://www.capitolbio.se/filmer/singalong-moulin-rouge/2061",
+    "title": "Singalong: Moulin Rouge",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Älskade singalongfavoriten Moulin Rouge är tillbaka på Capitol!\n\nAllsångsledare för kvällen är Martina Huzell.\n\nKom gärna i god tid och ladda upp i foajébaren! Partyt fortsätter sedan i salongen.\n\nEn passionerad poet faller för en vacker kurtisan i den exotiska kärleksmusikal av fantasifulla regissören Baz Luhrman (Romeo+Julia och Strictly Ballroom). Stjärnorna Nicole Kidman och Ewan McGregor gör fantastiska rolltolkningar och tar dig med på en fascinerande och romantisk resa i en häpnadsväckande och sensuell värld på nattklubben Moulin Rouge i Paris. Filmen är hypnotiserande, full med sprudlande underhållning och massor av moderna hits som gör Moulin Rouge till en upplevelse som du sent kommer att glömma!\n\nOBS, inga återköp gäller på singalonger.\n\nAndra singalonger/partyalonger att boka finns här!",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/2061/1920/067cf25e-e6dd-4863-90b0-bb0e14aba26f.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-16T18:10:00",
+        "display_text": "Monday 16 November 2026 at 18:10",
+        "time": "18:10",
+        "date_section": "16.11",
+        "ticket_url": "https://www.capitolbio.se/boka/52595",
+        "booking_id": "52595",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-16T18:10:00",
+        "normalized_date": "16.11",
+        "normalized_time": "18:10"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-10-29T12:06:11.338053+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 824,
+      "title": "Moulin Rouge!",
+      "overview": "A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet, who is plunged into the heady world of Moulin Rouge, begins a passionate affair with the club's most notorious and beautiful star.",
+      "release_date": "2001-05-18",
+      "rating": 7.5,
+      "vote_count": 4986,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Music"
+      ],
+      "poster_path": "/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+      "backdrop_path": "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+      "imdb_id": "tt0203009",
+      "runtime": 128,
+      "budget": 52500000,
+      "revenue": 179213434
+    }
+  },
+  {
+    "film_id": "paris-is-burning-1991",
+    "url": "https://www.capitolbio.se/filmer/paris-is-burning-1991/4658",
+    "title": "Paris Is Burning (1991)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Banbrytande amerikansk dokumentär av Jennie Livingston som skildrar Harlem-scenen för drag ball-kultur och voguing i New York under 1980-talet.\n\nFler klassiker att boka hittar du här",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4658/1920/31bece04-0d7f-466b-a923-7209826b2e5d.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-18T18:00:00",
+        "display_text": "Wednesday 18 November 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "18.11",
+        "ticket_url": "https://www.capitolbio.se/boka/52972",
+        "booking_id": "52972",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-18T18:00:00",
+        "normalized_date": "18.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-10-29T12:06:11.338074+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 31225,
+      "title": "Paris Is Burning",
+      "overview": "Where does voguing come from, and what, exactly, is throwing shade? This landmark documentary provides a vibrant snapshot of the 1980s through the eyes of New York City's African American and Latinx Harlem drag-ball scene. Made over seven years, PARIS IS BURNING offers an intimate portrait of rival fashion \"houses,\" from fierce contests for trophies to house mothers offering sustenance in a world rampant with homophobia, transphobia, racism, AIDS, and poverty. Featuring legendary voguers, drag queens, and trans women — including Willi Ninja, Pepper LaBeija, Dorian Corey, and Venus Xtravaganza.",
+      "release_date": "1991-03-13",
+      "rating": 8.0,
+      "vote_count": 574,
+      "genres": [
+        "Documentary",
+        "History"
+      ],
+      "poster_path": "/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "backdrop_path": "/1DOLRxIQbRxhZcllLVx4DUAGqfS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1DOLRxIQbRxhZcllLVx4DUAGqfS.jpg",
+      "imdb_id": "tt0100332",
+      "runtime": 78,
+      "budget": 500000,
+      "revenue": 3906006
     }
   }
 ]

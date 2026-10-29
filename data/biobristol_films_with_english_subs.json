@@ -27,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-10-28T11:56:27.756873+00:00",
+    "scraped_at": "2026-10-29T12:05:00.055094+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 110160,
@@ -47,6 +47,108 @@
       "imdb_id": "tt1650048",
       "runtime": 168,
       "budget": 9500000,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "pepi-luci-bom-and-other-girls-like-mom",
+    "url": "https://www.biobristol.se/f/pepi-luci-bom-and-other-girls-like-mom/589",
+    "title": "Pepi, Luci, Bom and Other Girls Like Mom",
+    "director": "Pedro Almodóvar",
+    "duration": "82 min",
+    "language": "Spanska",
+    "description": "Pepi is raped by the policeman who catches her growing marijuana in her apartment. She seeks revenge by getting his masochist wife to leave him.",
+    "poster_url": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/1793269890382",
+    "showtimes": [
+      {
+        "datetime": "2026-11-22T19:00:00",
+        "display_text": "Sunday 22 November 2026 at 19:00",
+        "time": "19:00",
+        "date_section": "22.11",
+        "ticket_url": "https://www.biobristol.se/checkout?showId=6ae31d311194106504945fe5",
+        "show_id": "6ae31d311194106504945fe5",
+        "hall": "Bristol",
+        "audio_language": "",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-22T19:00:00",
+        "normalized_date": "22.11",
+        "normalized_time": "19:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Bristol"
+    ],
+    "scraped_at": "2026-10-29T12:05:10.953244+00:00",
+    "source": "biobristol",
+    "tmdb": {
+      "id": 4499,
+      "title": "Pepi, Luci, Bom",
+      "overview": "After a young heiress is assaulted by a policeman, she seeks revenge by befriending the policeman’s mousy wife and introducing her to her circle of outrageous punk friends.",
+      "release_date": "1980-10-27",
+      "rating": 6.3,
+      "vote_count": 199,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "poster_path": "/xL72JwMDJLGZBUtXgjx7eERJ8nj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xL72JwMDJLGZBUtXgjx7eERJ8nj.jpg",
+      "backdrop_path": "/5Egh8kLnbLERbDvHW1U59oC6lM.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5Egh8kLnbLERbDvHW1U59oC6lM.jpg",
+      "imdb_id": "tt0081323",
+      "runtime": 82,
+      "budget": 46000,
+      "revenue": 332089
+    }
+  },
+  {
+    "film_id": "the-natural-history-of-destruction",
+    "url": "https://www.biobristol.se/f/the-natural-history-of-destruction/590",
+    "title": "The natural history of destruction",
+    "director": "Sergei Loznitsa",
+    "duration": "99 min",
+    "language": "Tyska",
+    "description": "*FRUKOST BIO! Bara 139kr med visningen!*\nSamarbete med OFF och 50 % rabatt för deras medlemmar. Gäller i biljettkassan på visningsdagen* \n\nInspired by W.G. Sebald's book and based on WWII archive footage, the film puts forward the question: Is it morally acceptable to use civilian population as a means of war? Is it possible to justify mass destruction for the sake of higher \"moral\" ideals? The question remains as relevant today, as it was 80 years ago, and its urgency is tragically manifested in current political events.",
+    "poster_url": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/1793269145428",
+    "showtimes": [
+      {
+        "datetime": "2026-11-22T11:00:00",
+        "display_text": "Sunday 22 November 2026 at 11:00",
+        "time": "11:00",
+        "date_section": "22.11",
+        "ticket_url": "https://www.biobristol.se/checkout?showId=6ae31ee01194106504945fe9",
+        "show_id": "6ae31ee01194106504945fe9",
+        "hall": "Bristol",
+        "audio_language": "",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-22T11:00:00",
+        "normalized_date": "22.11",
+        "normalized_time": "11:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Bristol"
+    ],
+    "scraped_at": "2026-10-29T12:05:11.607190+00:00",
+    "source": "biobristol",
+    "tmdb": {
+      "id": 958000,
+      "title": "The Natural History of Destruction",
+      "overview": "Is it morally acceptable to use the civilian population as yet another tool for waging war? Is it possible to justify death and destruction for the sake of supposedly lofty ideals? The question remains as pertinent today as it was at the beginning of World War II, and it is becoming increasingly urgent to answer, as countless tragedies have been caused by unethical political decisions.",
+      "release_date": "2023-03-16",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Documentary",
+        "History"
+      ],
+      "poster_path": "/vkF18GeswhgQ9vHG27fHzFG4F8U.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vkF18GeswhgQ9vHG27fHzFG4F8U.jpg",
+      "backdrop_path": "/rYGjqLn8n0UUViqDX9ebSc3ngxI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/rYGjqLn8n0UUViqDX9ebSc3ngxI.jpg",
+      "imdb_id": "tt19725896",
+      "runtime": 110,
+      "budget": 0,
       "revenue": 0
     }
   }

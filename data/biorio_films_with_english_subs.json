@@ -1,73 +1,5 @@
 [
   {
-    "film_id": "sanger-fran-andra-vaningen",
-    "url": "https://www.biorio.se/sv/filmer/sanger-fran-andra-vaningen",
-    "title": "Sånger från andra våningen",
-    "director": "Roy Andersson",
-    "showtimes": [
-      {
-        "datetime": "2027-01-17T14:45:00.000Z",
-        "display_text": "Sunday January 17, 2027 at 14:45",
-        "movie_id": "5941",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/3009",
-        "api_data": {
-          "id": 3009,
-          "movieId": 5941,
-          "screenId": 1,
-          "screen": {
-            "id": 1,
-            "name": "Salong 1",
-            "capacity": 180
-          },
-          "startTime": "2027-01-17T14:45:00.000Z",
-          "endTime": "2027-01-17T16:24:00.000Z",
-          "date": "2027-01-17",
-          "time": "15:45",
-          "capacity": 180,
-          "ticketsSold": 3,
-          "status": "on_sale",
-          "is3D": false,
-          "isImax": false,
-          "membersOnly": false,
-          "excludeFromMemberBenefits": false,
-          "tags": [],
-          "basePrice": 150,
-          "onlineAvailableFrom": null,
-          "campaignFreeTicket": false
-        },
-        "normalized_datetime": "2027-01-17T14:45:00",
-        "normalized_date": "17.01.2027",
-        "normalized_time": "14:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-10-28T11:57:01.647803",
-    "source": "biorio",
-    "tmdb": {
-      "id": 34070,
-      "title": "Songs from the Second Floor",
-      "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
-      "release_date": "2000-10-06",
-      "rating": 7.0,
-      "vote_count": 333,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "poster_path": "/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
-      "backdrop_path": "/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
-      "imdb_id": "tt0120263",
-      "runtime": 99,
-      "budget": 0,
-      "revenue": 80334
-    }
-  },
-  {
     "film_id": "phantom-of-the-paradise",
     "url": "https://www.biorio.se/sv/filmer/phantom-of-the-paradise",
     "title": "Phantom of the Paradise",
@@ -112,7 +44,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-28T11:57:17.254511",
+    "scraped_at": "2026-10-29T12:05:40.824741",
     "source": "biorio",
     "tmdb": {
       "id": 27327,
@@ -200,7 +132,7 @@
           "date": "2026-12-17",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 4,
+          "ticketsSold": 6,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -223,7 +155,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-28T11:57:19.218141",
+    "scraped_at": "2026-10-29T12:05:45.339540",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -297,7 +229,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-28T11:57:21.946253",
+    "scraped_at": "2026-10-29T12:05:47.216159",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -319,6 +251,74 @@
       "runtime": 188,
       "budget": 6000000,
       "revenue": 6800000
+    }
+  },
+  {
+    "film_id": "sanger-fran-andra-vaningen",
+    "url": "https://www.biorio.se/sv/filmer/sanger-fran-andra-vaningen",
+    "title": "Sånger från andra våningen",
+    "director": "Roy Andersson",
+    "showtimes": [
+      {
+        "datetime": "2027-01-17T14:45:00.000Z",
+        "display_text": "Sunday January 17, 2027 at 14:45",
+        "movie_id": "5941",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/3009",
+        "api_data": {
+          "id": 3009,
+          "movieId": 5941,
+          "screenId": 1,
+          "screen": {
+            "id": 1,
+            "name": "Salong 1",
+            "capacity": 180
+          },
+          "startTime": "2027-01-17T14:45:00.000Z",
+          "endTime": "2027-01-17T16:24:00.000Z",
+          "date": "2027-01-17",
+          "time": "15:45",
+          "capacity": 180,
+          "ticketsSold": 3,
+          "status": "on_sale",
+          "is3D": false,
+          "isImax": false,
+          "membersOnly": false,
+          "excludeFromMemberBenefits": false,
+          "tags": [],
+          "basePrice": 150,
+          "onlineAvailableFrom": null,
+          "campaignFreeTicket": false
+        },
+        "normalized_datetime": "2027-01-17T14:45:00",
+        "normalized_date": "17.01.2027",
+        "normalized_time": "14:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-10-29T12:05:49.728845",
+    "source": "biorio",
+    "tmdb": {
+      "id": 34070,
+      "title": "Songs from the Second Floor",
+      "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
+      "release_date": "2000-10-06",
+      "rating": 7.043,
+      "vote_count": 334,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "poster_path": "/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
+      "backdrop_path": "/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
+      "imdb_id": "tt0120263",
+      "runtime": 99,
+      "budget": 0,
+      "revenue": 80334
     }
   }
 ]

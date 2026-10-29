@@ -26,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-28T11:56:17.369606+00:00",
+    "scraped_at": "2026-10-29T12:04:49.717666+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1461432,
@@ -76,8 +76,57 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-28T11:56:17.369643+00:00",
+    "scraped_at": "2026-10-29T12:04:49.717702+00:00",
     "source": "bioaspen"
+  },
+  {
+    "film_id": "doggerland",
+    "url": "https://www.bioaspen.se/movies/doggerland/",
+    "title": "Doggerland - english subtitles",
+    "director": "Kim Ekberg",
+    "duration": "1 tim 16 min",
+    "language": "SV",
+    "description": "Alf (John Holm) närmar sig 40 och bor fortfarande hemma hos sin överbeskyddande mamma Monica (Anita Holm) i ett radhusområde utanför Norrköping. Hon är ständigt på honom om att skaffa jobb och flytta hemifrån, när Alfs verkliga passion är hans diabolo-akt. När han äntligen får chansen att turnera i Europa med sitt nummer upptäcker både mor och son hur svårt det kan vara att släppa taget.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7173/1080/c7c764b5-a241-4960-9fd6-9108ebd30243.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-07T16:30:00",
+        "display_text": "Saturday 7 November 2026 at 16:30",
+        "time": "16:30",
+        "date_section": "07.11",
+        "ticket_url": "https://www.bioaspen.se/movies/doggerland/",
+        "hall": "Salong 1",
+        "audio_language": "SV",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-07T16:30:00",
+        "normalized_date": "07.11",
+        "normalized_time": "16:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-10-29T12:04:49.717719+00:00",
+    "source": "bioaspen",
+    "tmdb": {
+      "id": 1616878,
+      "title": "Doggerland",
+      "overview": "Instead of finding a “proper” job, Alf, pushing 40, lives with his mum and drifts though Norrköping’s cultural scene. Chats & faces, routines & intuitions, local politics & everyday life – the intimate and the social, in black-and-white analogue images.",
+      "release_date": "2026-10-16",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/jMFkXsqipwZSRP0913AWv8N5Ok9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jMFkXsqipwZSRP0913AWv8N5Ok9.jpg",
+      "backdrop_path": "/sPchYj49C2eaEcBKFDTmdfvFXiy.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sPchYj49C2eaEcBKFDTmdfvFXiy.jpg",
+      "imdb_id": "tt39382662",
+      "runtime": 76,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "the-family-approach",
@@ -106,7 +155,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-28T11:56:17.369655+00:00",
+    "scraped_at": "2026-10-29T12:04:49.717732+00:00",
     "source": "bioaspen"
   },
   {
@@ -136,7 +185,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-28T11:56:17.369665+00:00",
+    "scraped_at": "2026-10-29T12:04:49.717750+00:00",
     "source": "bioaspen"
   }
 ]
