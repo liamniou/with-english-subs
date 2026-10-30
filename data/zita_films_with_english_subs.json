@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-10-29T12:10:16.369578+00:00",
+    "scraped_at": "2026-10-30T12:03:35.109084+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
@@ -43,6 +43,32 @@
       "budget": 0,
       "revenue": 0
     }
+  },
+  {
+    "film_id": "nordic-competition",
+    "url": "https://zita.se/nordic-competition",
+    "title": "Nordic Competition",
+    "director": "",
+    "genre": "",
+    "duration": "Norden60 minengelska",
+    "showtimes": [
+      {
+        "datetime": "2026-11-27T18:00:00",
+        "display_text": "fre 27 nov 18:00",
+        "time": "18:00",
+        "date": "fre 27 nov",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5236",
+        "normalized_datetime": "2026-11-27T18:00:00",
+        "normalized_date": "27.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-10-30T12:03:43.485411+00:00",
+    "source": "zita"
   },
   {
     "film_id": "one-more-show",
@@ -67,7 +93,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-10-29T12:10:23.868680+00:00",
+    "scraped_at": "2026-10-30T12:03:45.162144+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1578485,

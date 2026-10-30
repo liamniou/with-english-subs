@@ -26,15 +26,15 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-29T12:04:49.717666+00:00",
+    "scraped_at": "2026-10-30T11:57:21.467984+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1461432,
       "title": "Adult Supervision",
       "overview": "Three fathers accompany their teenage daughters on a school trip to a remote island. What begins as a peaceful getaway soon turns into a series of unexpected problems. Each father has a different approach to parenting, influenced by his own past experiences, and their conflicting views create tension among them. As the situation becomes increasingly difficult to control, memories of their past return and force them to confront their mistakes and shortcomings. The trip ultimately leaves them questioning who is really in control.",
       "release_date": "2026-10-09",
-      "rating": 0.0,
-      "vote_count": 0,
+      "rating": 5.0,
+      "vote_count": 1,
       "genres": [
         "Drama",
         "Thriller"
@@ -76,7 +76,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-29T12:04:49.717702+00:00",
+    "scraped_at": "2026-10-30T11:57:21.468013+00:00",
     "source": "bioaspen"
   },
   {
@@ -106,7 +106,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-29T12:04:49.717719+00:00",
+    "scraped_at": "2026-10-30T11:57:21.468022+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1616878,
@@ -155,7 +155,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-29T12:04:49.717732+00:00",
+    "scraped_at": "2026-10-30T11:57:21.468031+00:00",
     "source": "bioaspen"
   },
   {
@@ -185,7 +185,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-10-29T12:04:49.717750+00:00",
+    "scraped_at": "2026-10-30T11:57:21.468042+00:00",
     "source": "bioaspen"
   }
 ]

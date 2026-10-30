@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-29T12:09:02.801227+00:00",
+    "scraped_at": "2026-10-30T12:02:17.220511+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 18333,
@@ -43,52 +43,6 @@
       "runtime": 88,
       "budget": 0,
       "revenue": 0
-    }
-  },
-  {
-    "film_id": "barry-lyndon",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Barry Lyndon",
-    "director": "Stanley Kubrick",
-    "duration": "3h 5 mins",
-    "language": "Engelska",
-    "showtimes": [
-      {
-        "datetime": "2026-11-03T19:45:00+01:00",
-        "display_text": "Tisdag, 3rd November 19:45",
-        "time": "19:45",
-        "date_section": "Tisdag, 3rd November",
-        "ticket_url": "https://biofagelbla.se/movie/barry-lyndon/?showtime=59544",
-        "showtime_id": "59544",
-        "normalized_datetime": "2026-11-03T19:45:00",
-        "normalized_date": "03.11",
-        "normalized_time": "19:45"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-10-29T12:09:02.801419+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 3175,
-      "title": "Barry Lyndon",
-      "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
-      "release_date": "1975-12-16",
-      "rating": 8.0,
-      "vote_count": 3329,
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "poster_path": "/A0byHUHMwZ7dtBQtfZ44QIgDbjo.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/A0byHUHMwZ7dtBQtfZ44QIgDbjo.jpg",
-      "backdrop_path": "/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ef6SvWbSfCFlKodJZqpIaTvsRRP.jpg",
-      "imdb_id": "tt0072684",
-      "runtime": 188,
-      "budget": 11000000,
-      "revenue": 31500000
     }
   },
   {
@@ -114,14 +68,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-29T12:09:02.802012+00:00",
+    "scraped_at": "2026-10-30T12:02:17.220876+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
       "title": "Marie Antoinette",
       "overview": "A retelling of the story of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles.",
       "release_date": "2006-05-24",
-      "rating": 6.69,
+      "rating": 6.7,
       "vote_count": 3037,
       "genres": [
         "Drama",
@@ -160,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-29T12:09:02.802144+00:00",
+    "scraped_at": "2026-10-30T12:02:17.220959+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1398,
@@ -168,7 +122,7 @@
       "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
       "release_date": "1979-05-25",
       "rating": 8.1,
-      "vote_count": 2651,
+      "vote_count": 2653,
       "genres": [
         "Science Fiction",
         "Drama"
@@ -206,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-29T12:09:02.802411+00:00",
+    "scraped_at": "2026-10-30T12:02:17.221056+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29455,
@@ -251,15 +205,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-29T12:09:02.802624+00:00",
+    "scraped_at": "2026-10-30T12:02:17.221204+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.6,
-      "vote_count": 4610,
+      "rating": 7.61,
+      "vote_count": 4611,
       "genres": [
         "Comedy",
         "Romance",
@@ -298,14 +252,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-29T12:09:02.803749+00:00",
+    "scraped_at": "2026-10-30T12:02:17.221405+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 5279,
       "title": "Gosford Park",
       "overview": "In 1930s England, a group of pretentious rich and famous gather together for a weekend of relaxation at a hunting resort. But when a murder occurs, each one of these interesting characters becomes a suspect.",
       "release_date": "2001-12-26",
-      "rating": 6.819,
+      "rating": 6.8,
       "vote_count": 1314,
       "genres": [
         "Drama",
@@ -345,15 +299,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-29T12:09:02.803891+00:00",
+    "scraped_at": "2026-10-30T12:02:17.221468+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
       "title": "The Virgin Spring",
       "overview": "Devout Christians Töre and Märeta send their only daughter, the virginal Karin, and their foster daughter, the unrepentant Ingeri, to deliver candles to a distant church. On their way through the woods, the girls encounter a group of savage goat herders who brutally rape and murder Karin as Ingeri remains hidden. When the killers unwittingly seek refuge in the farmhouse of Töre and Märeta, Töre plots a fitting revenge.",
       "release_date": "1960-02-08",
-      "rating": 7.8,
-      "vote_count": 696,
+      "rating": 7.844,
+      "vote_count": 697,
       "genres": [
         "Drama",
         "History"
@@ -391,7 +345,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-29T12:09:02.804018+00:00",
+    "scraped_at": "2026-10-30T12:02:17.221534+00:00",
     "source": "fagelbla"
   },
   {
@@ -417,15 +371,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-29T12:09:02.804158+00:00",
+    "scraped_at": "2026-10-30T12:02:17.221595+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1621,
       "title": "Trading Places",
       "overview": "A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires.",
       "release_date": "1983-06-07",
-      "rating": 7.231,
-      "vote_count": 3826,
+      "rating": 7.23,
+      "vote_count": 3827,
       "genres": [
         "Comedy"
       ],
@@ -462,7 +416,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-29T12:09:02.804258+00:00",
+    "scraped_at": "2026-10-30T12:02:17.221647+00:00",
     "source": "fagelbla"
   },
   {
@@ -488,7 +442,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-10-29T12:09:02.804476+00:00",
+    "scraped_at": "2026-10-30T12:02:17.221709+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 20334,
@@ -496,7 +450,7 @@
       "overview": "Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal.",
       "release_date": "1940-01-12",
       "rating": 8.057,
-      "vote_count": 881,
+      "vote_count": 882,
       "genres": [
         "Comedy",
         "Drama",
