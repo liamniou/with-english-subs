@@ -44,15 +44,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-30T11:58:15.212305",
+    "scraped_at": "2026-10-31T11:31:48.936912",
     "source": "biorio",
     "tmdb": {
       "id": 27327,
       "title": "Phantom of the Paradise",
       "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
       "release_date": "1974-10-31",
-      "rating": 7.5,
-      "vote_count": 798,
+      "rating": 7.468,
+      "vote_count": 799,
       "genres": [
         "Drama",
         "Horror",
@@ -155,7 +155,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-30T11:58:20.330120",
+    "scraped_at": "2026-10-31T11:31:54.302478",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -229,7 +229,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-30T11:58:22.141911",
+    "scraped_at": "2026-10-31T11:31:56.192514",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -298,7 +298,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-10-30T11:58:24.718367",
+    "scraped_at": "2026-10-31T11:31:58.515958",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
