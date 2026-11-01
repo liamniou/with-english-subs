@@ -1,15 +1,15 @@
 {
   "bioaspen": {
     "alerted": false,
-    "last_seen": "2026-10-31"
+    "last_seen": "2026-11-01"
   },
   "biobristol": {
     "alerted": false,
-    "last_seen": "2026-10-31"
+    "last_seen": "2026-11-01"
   },
   "biorio": {
     "alerted": false,
-    "last_seen": "2026-10-31"
+    "last_seen": "2026-11-01"
   },
   "biose": {
     "alerted": false,
@@ -17,22 +17,22 @@
   },
   "capitolbio": {
     "alerted": false,
-    "last_seen": "2026-10-31"
+    "last_seen": "2026-11-01"
   },
   "cinemateket": {
     "alerted": false,
-    "last_seen": "2026-10-31"
+    "last_seen": "2026-11-01"
   },
   "fagelbla": {
     "alerted": false,
-    "last_seen": "2026-10-31"
+    "last_seen": "2026-11-01"
   },
   "klarabiografen": {
     "alerted": false,
-    "last_seen": "2026-10-31"
+    "last_seen": "2026-11-01"
   },
   "zita": {
     "alerted": false,
-    "last_seen": "2026-10-31"
+    "last_seen": "2026-11-01"
   }
 }

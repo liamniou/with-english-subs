@@ -27,15 +27,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-10-31T11:32:14.837411+00:00",
+    "scraped_at": "2026-11-01T12:30:01.397196+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 93,
       "title": "Anatomy of a Murder",
       "overview": "Semi-retired Michigan lawyer Paul Biegler takes the case of Army Lt. Manion, who murdered a local innkeeper after his wife claimed that he raped her. Over the course of an extensive trial, Biegler parries with District Attorney Lodwick and out-of-town prosecutor Claude Dancer to set his client free, but his case rests on the victim's mysterious business partner, who's hiding a dark secret.",
       "release_date": "1959-07-01",
-      "rating": 7.836,
-      "vote_count": 1239,
+      "rating": 7.837,
+      "vote_count": 1241,
       "genres": [
         "Crime",
         "Drama",
