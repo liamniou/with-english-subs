@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:32:43.597707+00:00",
+    "scraped_at": "2026-11-02T14:32:40.363587+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 18333,
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:32:43.598288+00:00",
+    "scraped_at": "2026-11-02T14:32:40.363939+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
@@ -114,14 +114,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:32:43.598426+00:00",
+    "scraped_at": "2026-11-02T14:32:40.364012+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1398,
       "title": "Stalker",
       "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
       "release_date": "1979-05-25",
-      "rating": 8.079,
+      "rating": 8.1,
       "vote_count": 2655,
       "genres": [
         "Science Fiction",
@@ -160,7 +160,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:32:43.598583+00:00",
+    "scraped_at": "2026-11-02T14:32:40.364098+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29455,
@@ -205,7 +205,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:32:43.598806+00:00",
+    "scraped_at": "2026-11-02T14:32:40.364182+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -252,7 +252,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:32:43.599097+00:00",
+    "scraped_at": "2026-11-02T14:32:40.364402+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 5279,
@@ -299,14 +299,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:32:43.600302+00:00",
+    "scraped_at": "2026-11-02T14:32:40.364478+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 11656,
       "title": "The Virgin Spring",
       "overview": "Devout Christians Töre and Märeta send their only daughter, the virginal Karin, and their foster daughter, the unrepentant Ingeri, to deliver candles to a distant church. On their way through the woods, the girls encounter a group of savage goat herders who brutally rape and murder Karin as Ingeri remains hidden. When the killers unwittingly seek refuge in the farmhouse of Töre and Märeta, Töre plots a fitting revenge.",
       "release_date": "1960-02-08",
-      "rating": 7.844,
+      "rating": 7.8,
       "vote_count": 697,
       "genres": [
         "Drama",
@@ -345,7 +345,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:32:43.600505+00:00",
+    "scraped_at": "2026-11-02T14:32:40.365428+00:00",
     "source": "fagelbla"
   },
   {
@@ -371,7 +371,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:32:43.600707+00:00",
+    "scraped_at": "2026-11-02T14:32:40.365506+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1621,
@@ -379,7 +379,7 @@
       "overview": "A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires.",
       "release_date": "1983-06-07",
       "rating": 7.231,
-      "vote_count": 3828,
+      "vote_count": 3831,
       "genres": [
         "Comedy"
       ],
@@ -416,7 +416,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:32:43.600864+00:00",
+    "scraped_at": "2026-11-02T14:32:40.365564+00:00",
     "source": "fagelbla"
   },
   {
@@ -442,15 +442,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:32:43.601037+00:00",
+    "scraped_at": "2026-11-02T14:32:40.365626+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 20334,
       "title": "The Shop Around the Corner",
       "overview": "Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal.",
       "release_date": "1940-01-12",
-      "rating": 8.057,
-      "vote_count": 882,
+      "rating": 8.056,
+      "vote_count": 883,
       "genres": [
         "Comedy",
         "Drama",

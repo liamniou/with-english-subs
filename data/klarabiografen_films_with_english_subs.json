@@ -26,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-01T12:32:45.338359+00:00",
+    "scraped_at": "2026-11-02T14:32:42.181933+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 1315107,
@@ -70,12 +70,25 @@
         "normalized_datetime": "2026-11-06T18:00:00",
         "normalized_date": "06.11",
         "normalized_time": "18:00"
+      },
+      {
+        "datetime": "2027-01-03T16:00:00+01:00",
+        "display_text": "Sunday 3 January 2027 at 16:00",
+        "time": "16:00",
+        "date_section": "03.01",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/32146/137657/",
+        "tix_event_id": 137657,
+        "tix_event_group_id": 32146,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2027-01-03T16:00:00",
+        "normalized_date": "03.01.2027",
+        "normalized_time": "16:00"
       }
     ],
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-01T12:32:45.338455+00:00",
+    "scraped_at": "2026-11-02T14:32:42.181997+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 526031,
@@ -124,7 +137,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-01T12:32:45.338497+00:00",
+    "scraped_at": "2026-11-02T14:32:42.182025+00:00",
     "source": "klarabiografen"
   },
   {
@@ -154,7 +167,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-01T12:32:45.339063+00:00",
+    "scraped_at": "2026-11-02T14:32:42.182370+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -205,7 +218,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-01T12:32:45.339714+00:00",
+    "scraped_at": "2026-11-02T14:32:42.182762+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 262488,
@@ -255,7 +268,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-01T12:32:45.339842+00:00",
+    "scraped_at": "2026-11-02T14:32:42.182833+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -305,7 +318,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-01T12:32:45.339935+00:00",
+    "scraped_at": "2026-11-02T14:32:42.182890+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 3062,

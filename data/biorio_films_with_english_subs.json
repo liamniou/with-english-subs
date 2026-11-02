@@ -1,5 +1,73 @@
 [
   {
+    "film_id": "true-stories",
+    "url": "https://www.biorio.se/sv/filmer/true-stories",
+    "title": "True Stories",
+    "director": "David Byrne",
+    "showtimes": [
+      {
+        "datetime": "2026-11-03T17:00:00.000Z",
+        "display_text": "Tuesday November 03, 2026 at 17:00",
+        "movie_id": "6011",
+        "cinema_id": "10",
+        "booking_url": "https://www.biorio.se/sv/boka/2732",
+        "api_data": {
+          "id": 2732,
+          "movieId": 6011,
+          "screenId": 1,
+          "screen": {
+            "id": 1,
+            "name": "Salong 1",
+            "capacity": 180
+          },
+          "startTime": "2026-11-03T17:00:00.000Z",
+          "endTime": "2026-11-03T18:30:00.000Z",
+          "date": "2026-11-03",
+          "time": "18:00",
+          "capacity": 180,
+          "ticketsSold": 41,
+          "status": "on_sale",
+          "is3D": false,
+          "isImax": false,
+          "membersOnly": false,
+          "excludeFromMemberBenefits": false,
+          "tags": [],
+          "basePrice": 150,
+          "onlineAvailableFrom": null,
+          "campaignFreeTicket": false
+        },
+        "normalized_datetime": "2026-11-03T17:00:00",
+        "normalized_date": "03.11",
+        "normalized_time": "17:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Rio Stockholm"
+    ],
+    "scraped_at": "2026-11-02T14:28:16.096763",
+    "source": "biorio",
+    "tmdb": {
+      "id": 24798,
+      "title": "True Stories",
+      "overview": "A small but growing Texas town, filled with strange and musical characters, celebrates its sesquicentennial and converge on a local parade and talent show.",
+      "release_date": "1986-10-10",
+      "rating": 6.722,
+      "vote_count": 153,
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "poster_path": "/sngF8cskFWz2cig7b63ZaDNaQXr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sngF8cskFWz2cig7b63ZaDNaQXr.jpg",
+      "backdrop_path": "/lhuqyVPpbsenpQfNYF2JGJotAfl.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/lhuqyVPpbsenpQfNYF2JGJotAfl.jpg",
+      "imdb_id": "tt0092117",
+      "runtime": 89,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
     "film_id": "phantom-of-the-paradise",
     "url": "https://www.biorio.se/sv/filmer/phantom-of-the-paradise",
     "title": "Phantom of the Paradise",
@@ -25,7 +93,7 @@
           "date": "2026-12-01",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 3,
+          "ticketsSold": 5,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -44,7 +112,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:29:37.920832",
+    "scraped_at": "2026-11-02T14:28:44.447099",
     "source": "biorio",
     "tmdb": {
       "id": 27327,
@@ -94,7 +162,7 @@
           "date": "2026-12-10",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 14,
+          "ticketsSold": 16,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -155,7 +223,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:29:42.698085",
+    "scraped_at": "2026-11-02T14:28:49.929808",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -229,7 +297,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:29:44.985314",
+    "scraped_at": "2026-11-02T14:28:52.754448",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -298,7 +366,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:29:47.103043",
+    "scraped_at": "2026-11-02T14:28:55.185236",
     "source": "biorio",
     "tmdb": {
       "id": 34070,

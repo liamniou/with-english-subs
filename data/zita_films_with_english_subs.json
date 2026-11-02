@@ -1,5 +1,52 @@
 [
   {
+    "film_id": "fiume-o-morte",
+    "url": "https://zita.se/fiume-o-morte",
+    "title": "Fiume o morte!",
+    "director": "",
+    "genre": "Kroatien, Italien, SlovenienKroatien, Italien...🔍2025119 minDokumentärFrån 15 årkroatiska, italienskaengelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "19:00",
+        "time": "19:00",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5991",
+        "normalized_datetime": "2026-11-02T19:00:00",
+        "normalized_date": "02.11",
+        "normalized_time": "19:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-11-02T14:33:54.163397+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1403843,
+      "title": "Fiume o morte!",
+      "overview": "Through dramatic reconstruction and documentary asides, the spirit of Italian poet, playwright, journalist, aristocrat and army officer Gabriele D’Annunzio is captured, presenting the nascent fascism in his attempts to forge a new state in the aftermath of the First World War.",
+      "release_date": "2025-02-13",
+      "rating": 8.1,
+      "vote_count": 15,
+      "genres": [
+        "Documentary",
+        "Comedy",
+        "History"
+      ],
+      "poster_path": "/A9CZmSeDJ54agVVvnZ9pqvfHLxX.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A9CZmSeDJ54agVVvnZ9pqvfHLxX.jpg",
+      "backdrop_path": "/mrzu45wossOMSMPQ1YbwUpHirb0.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/mrzu45wossOMSMPQ1YbwUpHirb0.jpg",
+      "imdb_id": "tt34383611",
+      "runtime": 112,
+      "budget": 0,
+      "revenue": 32207
+    }
+  },
+  {
     "film_id": "unknown-title",
     "url": "https://zita.se/irkalla--gilgameshs-dream",
     "title": "Unknown Title",
@@ -22,7 +69,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:33:53.638071+00:00",
+    "scraped_at": "2026-11-02T14:33:56.701323+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
@@ -67,7 +114,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:33:59.390740+00:00",
+    "scraped_at": "2026-11-02T14:34:04.289371+00:00",
     "source": "zita"
   },
   {
@@ -93,7 +140,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-01T12:34:00.746637+00:00",
+    "scraped_at": "2026-11-02T14:34:06.124438+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1578485,

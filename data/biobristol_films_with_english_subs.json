@@ -27,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-11-01T12:29:00.254214+00:00",
+    "scraped_at": "2026-11-02T14:27:58.561174+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 110160,
@@ -78,7 +78,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-11-01T12:29:08.977479+00:00",
+    "scraped_at": "2026-11-02T14:28:04.527136+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 4499,
@@ -108,8 +108,8 @@
     "director": "Sergei Loznitsa",
     "duration": "99 min",
     "language": "Tyska",
-    "description": "*FRUKOST BIO! Bara 139kr med visningen!*\nSamarbete med OFF och 50 % rabatt för deras medlemmar. Gäller i biljettkassan på visningsdagen* \n\nInspired by W.G. Sebald's book and based on WWII archive footage, the film puts forward the question: Is it morally acceptable to use civilian population as a means of war? Is it possible to justify mass destruction for the sake of higher \"moral\" ideals? The question remains as relevant today, as it was 80 years ago, and its urgency is tragically manifested in current political events.",
-    "poster_url": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/1793269145428",
+    "description": "*FRUKOST BIO! Bara 139kr med visningen!*\nSamarbete med OFF och 50 % rabatt för deras medlemmar*\n\nQ&A med regissören Sergei Loznitsa efter visningen. \n\nInspired by W.G. Sebald's book and based on WWII archive footage, the film puts forward the question: Is it morally acceptable to use civilian population as a means of war? Is it possible to justify mass destruction for the sake of higher \"moral\" ideals? The question remains as relevant today, as it was 80 years ago, and its urgency is tragically manifested in current political events.",
+    "poster_url": "https://mars-images.imgix.net/1793269145428?auto=compress&w=1200&fit=max",
     "showtimes": [
       {
         "datetime": "2026-11-22T11:00:00",
@@ -129,7 +129,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-11-01T12:29:09.633823+00:00",
+    "scraped_at": "2026-11-02T14:28:05.792668+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 958000,
