@@ -25,7 +25,7 @@
           "date": "2026-11-03",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 41,
+          "ticketsSold": 47,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -44,7 +44,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-02T14:28:16.096763",
+    "scraped_at": "2026-11-03T13:26:06.568640",
     "source": "biorio",
     "tmdb": {
       "id": 24798,
@@ -93,7 +93,7 @@
           "date": "2026-12-01",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 5,
+          "ticketsSold": 7,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -112,15 +112,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-02T14:28:44.447099",
+    "scraped_at": "2026-11-03T13:26:34.449004",
     "source": "biorio",
     "tmdb": {
       "id": 27327,
       "title": "Phantom of the Paradise",
       "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
       "release_date": "1974-10-31",
-      "rating": 7.5,
-      "vote_count": 799,
+      "rating": 7.469,
+      "vote_count": 801,
       "genres": [
         "Drama",
         "Horror",
@@ -223,15 +223,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-02T14:28:49.929808",
+    "scraped_at": "2026-11-03T13:26:39.200398",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
       "title": "Tokyo Godfathers",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
-      "rating": 7.93,
-      "vote_count": 1590,
+      "rating": 7.926,
+      "vote_count": 1591,
       "genres": [
         "Animation",
         "Drama",
@@ -273,7 +273,7 @@
           "date": "2026-12-12",
           "time": "10:30",
           "capacity": 180,
-          "ticketsSold": 4,
+          "ticketsSold": 7,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -297,7 +297,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-02T14:28:52.754448",
+    "scraped_at": "2026-11-03T13:26:41.400514",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -347,7 +347,7 @@
           "date": "2027-01-17",
           "time": "15:45",
           "capacity": 180,
-          "ticketsSold": 3,
+          "ticketsSold": 4,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -366,7 +366,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-02T14:28:55.185236",
+    "scraped_at": "2026-11-03T13:26:43.613769",
     "source": "biorio",
     "tmdb": {
       "id": 34070,

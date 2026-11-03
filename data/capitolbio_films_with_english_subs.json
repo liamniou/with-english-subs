@@ -27,14 +27,14 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-11-02T14:29:14.699204+00:00",
+    "scraped_at": "2026-11-03T13:27:01.842286+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 93,
       "title": "Anatomy of a Murder",
       "overview": "Semi-retired Michigan lawyer Paul Biegler takes the case of Army Lt. Manion, who murdered a local innkeeper after his wife claimed that he raped her. Over the course of an extensive trial, Biegler parries with District Attorney Lodwick and out-of-town prosecutor Claude Dancer to set his client free, but his case rests on the victim's mysterious business partner, who's hiding a dark secret.",
       "release_date": "1959-07-01",
-      "rating": 7.837,
+      "rating": 7.8,
       "vote_count": 1242,
       "genres": [
         "Crime",
@@ -79,7 +79,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-11-02T14:29:14.699269+00:00",
+    "scraped_at": "2026-11-03T13:27:01.842330+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 824,
@@ -131,15 +131,15 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-11-02T14:29:14.699280+00:00",
+    "scraped_at": "2026-11-03T13:27:01.842344+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 31225,
       "title": "Paris Is Burning",
       "overview": "Where does voguing come from, and what, exactly, is throwing shade? This landmark documentary provides a vibrant snapshot of the 1980s through the eyes of New York City's African American and Latinx Harlem drag-ball scene. Made over seven years, PARIS IS BURNING offers an intimate portrait of rival fashion \"houses,\" from fierce contests for trophies to house mothers offering sustenance in a world rampant with homophobia, transphobia, racism, AIDS, and poverty. Featuring legendary voguers, drag queens, and trans women — including Willi Ninja, Pepper LaBeija, Dorian Corey, and Venus Xtravaganza.",
       "release_date": "1991-03-13",
-      "rating": 8.01,
-      "vote_count": 575,
+      "rating": 8.009,
+      "vote_count": 576,
       "genres": [
         "Documentary",
         "History"
