@@ -1,73 +1,5 @@
 [
   {
-    "film_id": "true-stories",
-    "url": "https://www.biorio.se/sv/filmer/true-stories",
-    "title": "True Stories",
-    "director": "David Byrne",
-    "showtimes": [
-      {
-        "datetime": "2026-11-03T17:00:00.000Z",
-        "display_text": "Tuesday November 03, 2026 at 17:00",
-        "movie_id": "6011",
-        "cinema_id": "10",
-        "booking_url": "https://www.biorio.se/sv/boka/2732",
-        "api_data": {
-          "id": 2732,
-          "movieId": 6011,
-          "screenId": 1,
-          "screen": {
-            "id": 1,
-            "name": "Salong 1",
-            "capacity": 180
-          },
-          "startTime": "2026-11-03T17:00:00.000Z",
-          "endTime": "2026-11-03T18:30:00.000Z",
-          "date": "2026-11-03",
-          "time": "18:00",
-          "capacity": 180,
-          "ticketsSold": 47,
-          "status": "on_sale",
-          "is3D": false,
-          "isImax": false,
-          "membersOnly": false,
-          "excludeFromMemberBenefits": false,
-          "tags": [],
-          "basePrice": 150,
-          "onlineAvailableFrom": null,
-          "campaignFreeTicket": false
-        },
-        "normalized_datetime": "2026-11-03T17:00:00",
-        "normalized_date": "03.11",
-        "normalized_time": "17:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Rio Stockholm"
-    ],
-    "scraped_at": "2026-11-03T13:26:06.568640",
-    "source": "biorio",
-    "tmdb": {
-      "id": 24798,
-      "title": "True Stories",
-      "overview": "A small but growing Texas town, filled with strange and musical characters, celebrates its sesquicentennial and converge on a local parade and talent show.",
-      "release_date": "1986-10-10",
-      "rating": 6.722,
-      "vote_count": 153,
-      "genres": [
-        "Comedy",
-        "Music"
-      ],
-      "poster_path": "/sngF8cskFWz2cig7b63ZaDNaQXr.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sngF8cskFWz2cig7b63ZaDNaQXr.jpg",
-      "backdrop_path": "/lhuqyVPpbsenpQfNYF2JGJotAfl.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/lhuqyVPpbsenpQfNYF2JGJotAfl.jpg",
-      "imdb_id": "tt0092117",
-      "runtime": 89,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "phantom-of-the-paradise",
     "url": "https://www.biorio.se/sv/filmer/phantom-of-the-paradise",
     "title": "Phantom of the Paradise",
@@ -112,14 +44,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-03T13:26:34.449004",
+    "scraped_at": "2026-11-04T13:37:29.016122",
     "source": "biorio",
     "tmdb": {
       "id": 27327,
       "title": "Phantom of the Paradise",
       "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
       "release_date": "1974-10-31",
-      "rating": 7.469,
+      "rating": 7.5,
       "vote_count": 801,
       "genres": [
         "Drama",
@@ -223,15 +155,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-03T13:26:39.200398",
+    "scraped_at": "2026-11-04T13:37:34.423282",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
       "title": "Tokyo Godfathers",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
-      "rating": 7.926,
-      "vote_count": 1591,
+      "rating": 7.925,
+      "vote_count": 1592,
       "genres": [
         "Animation",
         "Drama",
@@ -297,15 +229,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-03T13:26:41.400514",
+    "scraped_at": "2026-11-04T13:37:36.619626",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
       "title": "Fanny and Alexander",
       "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
       "release_date": "1982-12-17",
-      "rating": 7.8,
-      "vote_count": 927,
+      "rating": 7.755,
+      "vote_count": 928,
       "genres": [
         "Fantasy",
         "Drama",
@@ -366,7 +298,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-03T13:26:43.613769",
+    "scraped_at": "2026-11-04T13:37:38.709542",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
