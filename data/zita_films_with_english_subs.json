@@ -1,50 +1,5 @@
 [
   {
-    "film_id": "dancing-pigeons",
-    "url": "https://zita.se/dancing-pigeons",
-    "title": "Dancing Pigeons",
-    "director": "",
-    "genre": "Sverige20264 nov 202623 minDramaBarntillåtenFolkets BioAnnegret Kunath...🔍SvenskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "18:00",
-        "time": "18:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5964",
-        "normalized_datetime": "2026-11-04T18:00:00",
-        "normalized_date": "04.11",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-11-04T13:42:14.541384+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 1562447,
-      "title": "Dancing Pigeons",
-      "overview": "A psychic medium has his grand psychic seance interrupted as an audience member refuses to let him end the show without getting to speak to her deceased ex-husband.",
-      "release_date": "2025-10-22",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/uyNzOt05Vf6SSIj26pXt1y3i8oa.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uyNzOt05Vf6SSIj26pXt1y3i8oa.jpg",
-      "backdrop_path": "/o3A6JSF94cYdPcc5mtGBbGe7UmD.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/o3A6JSF94cYdPcc5mtGBbGe7UmD.jpg",
-      "imdb_id": "tt39227102",
-      "runtime": 23,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "unknown-title",
     "url": "https://zita.se/irkalla--gilgameshs-dream",
     "title": "Unknown Title",
@@ -67,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-04T13:42:21.471940+00:00",
+    "scraped_at": "2026-11-05T13:55:27.574324+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
@@ -112,7 +67,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-04T13:42:27.469586+00:00",
+    "scraped_at": "2026-11-05T13:55:32.486749+00:00",
     "source": "zita"
   },
   {
@@ -124,10 +79,10 @@
     "duration": "",
     "showtimes": [
       {
-        "datetime": "2026-11-06T18:30:00",
-        "display_text": "fre 6 nov 18:30",
+        "datetime": "",
+        "display_text": "i morgon 18:30",
         "time": "18:30",
-        "date": "fre 6 nov",
+        "date": "i morgon",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=6063",
         "normalized_datetime": "2026-11-06T18:30:00",
@@ -138,7 +93,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-04T13:42:28.543843+00:00",
+    "scraped_at": "2026-11-05T13:55:33.517298+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1578485,

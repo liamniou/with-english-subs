@@ -1,54 +1,5 @@
 [
   {
-    "film_id": "fogo-do-vento-ny-europeisk-film-portugal",
-    "url": "https://kulturhusetstadsteatern.se/bio/fogo-do-vento-ny-europeisk-film-portugal",
-    "title": "Fogo do Vento (Ny europeisk film - Portugal)",
-    "director": "",
-    "duration": "1 tim 30 min",
-    "language": "",
-    "description": "Ny europeisk film/ New European Film is back! This filmseries aims to put the spotlight on new European cinema from new directors across the continent.\r\nTicket price is 60 SEK and all the films are subtitled in English.",
-    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-09/FDV_CARTAZ_CMYK_70X100_300DPI_6.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-11-04T18:00:00+01:00",
-        "display_text": "Wednesday 4 November 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "04.11",
-        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/32753/135037/",
-        "tix_event_id": 135037,
-        "tix_event_group_id": 32753,
-        "hall": "Klarabiografen",
-        "normalized_datetime": "2026-11-04T18:00:00",
-        "normalized_date": "04.11",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Klarabiografen"
-    ],
-    "scraped_at": "2026-11-04T13:41:05.526781+00:00",
-    "source": "klarabiografen",
-    "tmdb": {
-      "id": 1315107,
-      "title": "Fire of Wind",
-      "overview": "The vine bore fruit, and it's harvest time. Soraia, a young girl, cuts herself. Blood mixes with wine. A black bull is on the loose. Up in the oak trees, time swells, and a community takes shelter. They share bread and wine, memories and dreams, the history of a landscape. We enter a long night, where nature also speaks. The fiery wind that brings the heatwaves, it's burning.",
-      "release_date": "2026-05-21",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/p7VusEWuJ1CPupCPBGtfBYHwkhR.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/p7VusEWuJ1CPupCPBGtfBYHwkhR.jpg",
-      "backdrop_path": "/sRzdRwUGuDMVkT2gMWGjjtyvM2x.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sRzdRwUGuDMVkT2gMWGjjtyvM2x.jpg",
-      "imdb_id": "tt32881169",
-      "runtime": 72,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "golden-boy-national-theatre",
     "url": "https://kulturhusetstadsteatern.se/bio/golden-boy-national-theatre",
     "title": "Golden Boy (National Theatre)",
@@ -88,24 +39,24 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-04T13:41:05.526850+00:00",
+    "scraped_at": "2026-11-05T13:54:07.579346+00:00",
     "source": "klarabiografen",
     "tmdb": {
-      "id": 526031,
+      "id": 267285,
       "title": "Golden Boy",
-      "overview": "GOLDEN BOY is the story of James, a young man who gambles on the dangers of being seen versus the quiet life of desperation and invisibility. Saved from doomed nonexistence by CQ, a wealthy debonair businessman with more going on than meets the eye, and introduced to a world he is not ready to navigate. We follow him as he chases his dreams -- while losing himself, one piece at a time. GOLDEN BOY is a story with universal themes. Trust. Seduction. Betrayal. Redemption.",
-      "release_date": "2018-06-08",
-      "rating": 5.8,
-      "vote_count": 6,
+      "overview": "Antoine a Union representative works in a financially troubled factory. He's not the sharpest tool in the box but he has a big heart and when he and his wife win the jackpot of the national lottery. Antoine will invest his gain to try and safe the factory.",
+      "release_date": "1996-02-21",
+      "rating": 6.5,
+      "vote_count": 5,
       "genres": [
-        "Drama"
+        "Comedy"
       ],
-      "poster_path": "/wsQ2cbGUcE6sxOBrfFA9giAIPv.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wsQ2cbGUcE6sxOBrfFA9giAIPv.jpg",
-      "backdrop_path": "/yQBFq7dHpfDgt3BPM0ORSfsOEZU.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yQBFq7dHpfDgt3BPM0ORSfsOEZU.jpg",
-      "imdb_id": "tt5152882",
-      "runtime": 105,
+      "poster_path": "/1v6VNIzETGrX4X5B4NADaEVRxRy.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1v6VNIzETGrX4X5B4NADaEVRxRy.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt0116432",
+      "runtime": 91,
       "budget": 0,
       "revenue": 0
     }
@@ -137,7 +88,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-04T13:41:05.526884+00:00",
+    "scraped_at": "2026-11-05T13:54:07.579390+00:00",
     "source": "klarabiografen"
   },
   {
@@ -167,7 +118,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-04T13:41:05.527215+00:00",
+    "scraped_at": "2026-11-05T13:54:07.579827+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -218,25 +169,25 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-04T13:41:05.527648+00:00",
+    "scraped_at": "2026-11-05T13:54:07.580403+00:00",
     "source": "klarabiografen",
     "tmdb": {
-      "id": 262488,
+      "id": 680744,
       "title": "The Misanthrope",
-      "overview": "The Misanthrope is the film debut from Darkthrone's Nocturno Culto and provides a unique insight into the heart of the Norwegian Black Metal scene.",
-      "release_date": "2007-01-01",
-      "rating": 0.0,
-      "vote_count": 0,
+      "overview": "A woman invites all her friends over for a dinner party in order to break up with them.",
+      "release_date": "2020-03-07",
+      "rating": 10.0,
+      "vote_count": 2,
       "genres": [
-        "Documentary",
-        "Music"
+        "Comedy",
+        "Drama"
       ],
-      "poster_path": "/ajzTBmPvOiHNwBYod68AESXt6jS.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ajzTBmPvOiHNwBYod68AESXt6jS.jpg",
-      "backdrop_path": "/5KPnsSy9IgdcpVUwYETeSO7TyGw.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5KPnsSy9IgdcpVUwYETeSO7TyGw.jpg",
-      "imdb_id": "tt1535487",
-      "runtime": 55,
+      "poster_path": "/5cUoueuFa6Hs3YRa22w9fSyQLId.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5cUoueuFa6Hs3YRa22w9fSyQLId.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt11673008",
+      "runtime": 0,
       "budget": 0,
       "revenue": 0
     }
@@ -268,7 +219,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-04T13:41:05.527722+00:00",
+    "scraped_at": "2026-11-05T13:54:07.580497+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -318,28 +269,26 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-04T13:41:05.527779+00:00",
+    "scraped_at": "2026-11-05T13:54:07.580574+00:00",
     "source": "klarabiografen",
     "tmdb": {
-      "id": 3062,
+      "id": 1422112,
       "title": "42nd Street",
-      "overview": "Broadway director Julian Marsh needs just one more hit show so he can retire and recover his health. It looks like he just may pull it off until temperamental star Dorthy Brock breaks her ankle on the eve of the show's premiere and has to be replaced by her understudy Peggy.",
-      "release_date": "1933-03-11",
-      "rating": 7.0,
-      "vote_count": 232,
+      "overview": "A sensory dive into the lives of dancers and artists hungry for fame, clashing with police tactics and unorthodox views. 42nd Street unveils a defiant counter-culture in the Dominican urban scene—all unfolding on a bold, unrelenting 600-meter 42nd street.",
+      "release_date": "2025-08-21",
+      "rating": 0.0,
+      "vote_count": 0,
       "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
+        "Documentary"
       ],
-      "poster_path": "/q4UEd8BL74zVsOOaJkKVMLMmdTg.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/q4UEd8BL74zVsOOaJkKVMLMmdTg.jpg",
-      "backdrop_path": "/5a5lJCew2hGBcd6abdMkomr9mos.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5a5lJCew2hGBcd6abdMkomr9mos.jpg",
-      "imdb_id": "tt0024034",
-      "runtime": 89,
-      "budget": 439000,
-      "revenue": 2281000
+      "poster_path": "/AgF6Xl5Qi0HoRBav4MzWN0rKZ6J.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AgF6Xl5Qi0HoRBav4MzWN0rKZ6J.jpg",
+      "backdrop_path": "/1IcsukEptFDxvxPpDUYs1OVO2fn.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1IcsukEptFDxvxPpDUYs1OVO2fn.jpg",
+      "imdb_id": "tt35081754",
+      "runtime": 91,
+      "budget": 0,
+      "revenue": 0
     }
   }
 ]

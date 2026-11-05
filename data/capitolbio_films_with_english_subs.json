@@ -1,57 +1,5 @@
 [
   {
-    "film_id": "anatomy-of-a-murder",
-    "url": "https://www.capitolbio.se/filmer/anatomy-of-a-murder/3313",
-    "title": "Anatomy of a Murder",
-    "director": "",
-    "duration": "12 min",
-    "language": "",
-    "description": "En av filmhistoriens bästa rättegångsdramor, full av passion och intriger av Otto Preminger.\n\nBen Gazzara är den äkta maken som skyller på tillfällig sinnesförvirring när han åtalas för mordet på sin hustrus våldtäcksman. James Stewart spelar advokaten som inte väjer för tabubelagda ämnen när han försvarar sin klient. Under rättegången uppdagas en rad överraskande detaljer som sätter rättssystemet på prov. Ingen vet vem de ska tro på, allra minst vi som ser filmen.\n\nFantastiska förtexter av Saul Bass och legendariskt soundtrack av Duke Ellington.\n\nFler klassiker att boka hittar du här",
-    "poster_url": "https://capitol.mycloudcinema.com/media/stills/3313/1920/256214ec-471b-4bad-a848-08f5893b56d7.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-11-04T17:30:00",
-        "display_text": "Wednesday 4 November 2026 at 17:30",
-        "time": "17:30",
-        "date_section": "04.11",
-        "ticket_url": "https://www.capitolbio.se/boka/52948",
-        "booking_id": "52948",
-        "hall": "Salong 4",
-        "audio_language": "EN",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-11-04T17:30:00",
-        "normalized_date": "04.11",
-        "normalized_time": "17:30"
-      }
-    ],
-    "cinemas": [
-      "Capitol"
-    ],
-    "scraped_at": "2026-11-04T13:37:56.898189+00:00",
-    "source": "capitolbio",
-    "tmdb": {
-      "id": 93,
-      "title": "Anatomy of a Murder",
-      "overview": "Semi-retired Michigan lawyer Paul Biegler takes the case of Army Lt. Manion, who murdered a local innkeeper after his wife claimed that he raped her. Over the course of an extensive trial, Biegler parries with District Attorney Lodwick and out-of-town prosecutor Claude Dancer to set his client free, but his case rests on the victim's mysterious business partner, who's hiding a dark secret.",
-      "release_date": "1959-07-01",
-      "rating": 7.8,
-      "vote_count": 1242,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-      ],
-      "poster_path": "/b2G1QSAwtBv9luhEwErIgSRaU92.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/b2G1QSAwtBv9luhEwErIgSRaU92.jpg",
-      "backdrop_path": "/xfEU7DOlQPwz8Y0TBhKmpETuNIc.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xfEU7DOlQPwz8Y0TBhKmpETuNIc.jpg",
-      "imdb_id": "tt0052561",
-      "runtime": 161,
-      "budget": 2000000,
-      "revenue": 8000000
-    }
-  },
-  {
     "film_id": "singalong-moulin-rouge",
     "url": "https://www.capitolbio.se/filmer/singalong-moulin-rouge/2061",
     "title": "Singalong: Moulin Rouge",
@@ -79,7 +27,7 @@
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-11-04T13:37:56.898240+00:00",
+    "scraped_at": "2026-11-05T13:51:09.247143+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 824,
@@ -87,7 +35,7 @@
       "overview": "A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet, who is plunged into the heady world of Moulin Rouge, begins a passionate affair with the club's most notorious and beautiful star.",
       "release_date": "2001-05-18",
       "rating": 7.518,
-      "vote_count": 4989,
+      "vote_count": 4992,
       "genres": [
         "Drama",
         "Romance",
@@ -101,6 +49,57 @@
       "runtime": 128,
       "budget": 52500000,
       "revenue": 179213434
+    }
+  },
+  {
+    "film_id": "paris-is-burning-1991",
+    "url": "https://www.capitolbio.se/filmer/paris-is-burning-1991/4658",
+    "title": "Paris Is Burning (1991)",
+    "director": "",
+    "duration": "12 min",
+    "language": "",
+    "description": "Banbrytande amerikansk dokumentär av Jennie Livingston som skildrar Harlem-scenen för drag ball-kultur och voguing i New York under 1980-talet.\n\nFler klassiker att boka hittar du här",
+    "poster_url": "https://capitol.mycloudcinema.com/media/stills/4658/1920/31bece04-0d7f-466b-a923-7209826b2e5d.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-11-18T18:00:00",
+        "display_text": "Wednesday 18 November 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "18.11",
+        "ticket_url": "https://www.capitolbio.se/boka/52972",
+        "booking_id": "52972",
+        "hall": "Salong 2",
+        "audio_language": "EN",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-18T18:00:00",
+        "normalized_date": "18.11",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Capitol"
+    ],
+    "scraped_at": "2026-11-05T13:51:09.247190+00:00",
+    "source": "capitolbio",
+    "tmdb": {
+      "id": 31225,
+      "title": "Paris Is Burning",
+      "overview": "Where does voguing come from, and what, exactly, is throwing shade? This landmark documentary provides a vibrant snapshot of the 1980s through the eyes of New York City's African American and Latinx Harlem drag-ball scene. Made over seven years, PARIS IS BURNING offers an intimate portrait of rival fashion \"houses,\" from fierce contests for trophies to house mothers offering sustenance in a world rampant with homophobia, transphobia, racism, AIDS, and poverty. Featuring legendary voguers, drag queens, and trans women — including Willi Ninja, Pepper LaBeija, Dorian Corey, and Venus Xtravaganza.",
+      "release_date": "1991-03-13",
+      "rating": 8.01,
+      "vote_count": 577,
+      "genres": [
+        "Documentary",
+        "History"
+      ],
+      "poster_path": "/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+      "backdrop_path": "/1DOLRxIQbRxhZcllLVx4DUAGqfS.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1DOLRxIQbRxhZcllLVx4DUAGqfS.jpg",
+      "imdb_id": "tt0100332",
+      "runtime": 78,
+      "budget": 500000,
+      "revenue": 3906006
     }
   }
 ]
