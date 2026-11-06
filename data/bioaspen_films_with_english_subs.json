@@ -1,35 +1,5 @@
 [
   {
-    "film_id": "tre-kortfilmer-av-jani-peltonen-med-regissorssamtal",
-    "url": "https://www.bioaspen.se/movies/tre-kortfilmer-av-jani-peltonen-med-regissorssamtal/",
-    "title": "Tre kortfilmer av Jani Peltonen med regissörssamtal! - gratis inträde!",
-    "director": "",
-    "duration": "0 tim 57 min",
-    "language": "FI",
-    "description": "Under en kväll fördjupar vi oss i den finska regissören och filmforskaren Jani Peltonens dokumentära verk. I A tall man följer vi Väinö Myllyrinnes liv. Med sin längd på nästan 2,5 meter blev han en av Finlands första internationellt kända personer. I 30 Kilometres per second hör vi en anonym berättarröst som, efter att ha drabbats av en störning i proprioceptionen –förmågan att känna av kroppens rörelser och placering – berättar om det dansförbud som infördes under det finska vinterkriget.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/7252/1080/1ef88e3d-4a01-4aa2-9313-5ae5c4648d3b.jpeg",
-    "showtimes": [
-      {
-        "datetime": "2026-11-05T18:15:00",
-        "display_text": "Thursday 5 November 2026 at 18:15",
-        "time": "18:15",
-        "date_section": "05.11",
-        "ticket_url": "https://www.bioaspen.se/movies/tre-kortfilmer-av-jani-peltonen-med-regissorssamtal/",
-        "hall": "Salong 1",
-        "audio_language": "FI",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-11-05T18:15:00",
-        "normalized_date": "05.11",
-        "normalized_time": "18:15"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-11-05T13:49:45.386996+00:00",
-    "source": "bioaspen"
-  },
-  {
     "film_id": "doggerland",
     "url": "https://www.bioaspen.se/movies/doggerland/",
     "title": "Doggerland - english subtitles",
@@ -56,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-11-05T13:49:45.387027+00:00",
+    "scraped_at": "2026-11-06T13:34:02.444459+00:00",
     "source": "bioaspen",
     "tmdb": {
       "id": 1616878,
@@ -105,7 +75,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-11-05T13:49:45.387039+00:00",
+    "scraped_at": "2026-11-06T13:34:02.444503+00:00",
     "source": "bioaspen"
   },
   {
@@ -135,7 +105,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-11-05T13:49:45.387050+00:00",
+    "scraped_at": "2026-11-06T13:34:02.444519+00:00",
     "source": "bioaspen"
   }
 ]

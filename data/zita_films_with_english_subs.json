@@ -8,10 +8,10 @@
     "duration": "Irak2025109 minArabiskaEngelska",
     "showtimes": [
       {
-        "datetime": "2026-11-07T16:00:00",
-        "display_text": "lör 7 nov 16:00",
+        "datetime": "",
+        "display_text": "i morgon 16:00",
         "time": "16:00",
-        "date": "lör 7 nov",
+        "date": "i morgon",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=6066",
         "normalized_datetime": "2026-11-07T16:00:00",
@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-05T13:55:27.574324+00:00",
+    "scraped_at": "2026-11-06T13:39:02.639256+00:00",
     "source": "zita",
     "tmdb": {
       "id": 949470,
@@ -67,7 +67,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-05T13:55:32.486749+00:00",
+    "scraped_at": "2026-11-06T13:39:07.217728+00:00",
     "source": "zita"
   },
   {
@@ -80,9 +80,9 @@
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "i morgon 18:30",
+        "display_text": "18:30",
         "time": "18:30",
-        "date": "i morgon",
+        "date": "",
         "cinema": "(Zita 2)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=6063",
         "normalized_datetime": "2026-11-06T18:30:00",
@@ -93,7 +93,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-05T13:55:33.517298+00:00",
+    "scraped_at": "2026-11-06T13:39:08.124613+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1578485,
@@ -111,6 +111,52 @@
       "backdrop_url": null,
       "imdb_id": "tt38933379",
       "runtime": 74,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "the-bog",
+    "url": "https://zita.se/the-bog",
+    "title": "The Bog",
+    "director": "",
+    "genre": "Lettland20261 jan 2026104 minDramaFrån 15 årFolkets Bio StockholmLettiskaEngelska",
+    "duration": "",
+    "showtimes": [
+      {
+        "datetime": "2026-12-05T20:30:00",
+        "display_text": "lör 5 dec 20:30",
+        "time": "20:30",
+        "date": "lör 5 dec",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=6084",
+        "normalized_datetime": "2026-12-05T20:30:00",
+        "normalized_date": "05.12",
+        "normalized_time": "20:30"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-11-06T13:39:11.713528+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1481197,
+      "title": "The Bog",
+      "overview": "A boy's body is discovered in a peat field, and a local drunk confesses to a decades-old murder. Policeman Broze reopens the case and is forced to confront his own role in the tragic game played by boys 30 years ago—a day he can't remember or forget.",
+      "release_date": "2026-10-23",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "poster_path": "/tEsT8vVrwbeSYUz3Ol3gDBm0rI7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tEsT8vVrwbeSYUz3Ol3gDBm0rI7.jpg",
+      "backdrop_path": "/poRTl2I13ao9YaCE9xqbqdT4XBt.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/poRTl2I13ao9YaCE9xqbqdT4XBt.jpg",
+      "imdb_id": "tt39716823",
+      "runtime": 0,
       "budget": 0,
       "revenue": 0
     }
