@@ -44,7 +44,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-06T13:34:49.321464",
+    "scraped_at": "2026-11-07T12:14:54.775429",
     "source": "biorio",
     "tmdb": {
       "id": 27327,
@@ -94,7 +94,7 @@
           "date": "2026-12-10",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 16,
+          "ticketsSold": 19,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -132,7 +132,7 @@
           "date": "2026-12-17",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 8,
+          "ticketsSold": 10,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -155,15 +155,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-06T13:34:54.122751",
+    "scraped_at": "2026-11-07T12:15:00.119278",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
       "title": "Tokyo Godfathers",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
-      "rating": 7.926,
-      "vote_count": 1592,
+      "rating": 7.93,
+      "vote_count": 1593,
       "genres": [
         "Animation",
         "Drama",
@@ -229,15 +229,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-06T13:34:56.314197",
+    "scraped_at": "2026-11-07T12:15:02.341979",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
       "title": "Fanny and Alexander",
       "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
       "release_date": "1982-12-17",
-      "rating": 7.755,
-      "vote_count": 928,
+      "rating": 7.752,
+      "vote_count": 929,
       "genres": [
         "Fantasy",
         "Drama",
@@ -298,7 +298,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-06T13:34:59.014689",
+    "scraped_at": "2026-11-07T12:15:06.030033",
     "source": "biorio",
     "tmdb": {
       "id": 34070,

@@ -1,56 +1,5 @@
 [
   {
-    "film_id": "laurence-anyways",
-    "url": "https://www.biobristol.se/f/laurence-anyways/565",
-    "title": "Laurence Anyways",
-    "director": "Xavier Dolan",
-    "duration": "159 min",
-    "language": "Franska",
-    "description": "In the 90s, Laurence tells his girlfriend Fred that he wants to become a woman. In spite of the odds, in spite of each other, they confront the prejudices of their friends, ignore the council of their families, and brave the phobias of the society they offend. For 10 years, they try to live through this transition, and embark on an epic journey which, unbeknownst to them, may cost Fred and Laurence their love.",
-    "poster_url": "https://mars-images.imgix.net/1789722830622?auto=compress&w=1200&fit=max",
-    "showtimes": [
-      {
-        "datetime": "2026-11-06T18:15:00",
-        "display_text": "Friday 6 November 2026 at 18:15",
-        "time": "18:15",
-        "date_section": "06.11",
-        "ticket_url": "https://www.biobristol.se/checkout?showId=6aad01c32c5a6a0c9b63a92d",
-        "show_id": "6aad01c32c5a6a0c9b63a92d",
-        "hall": "Bristol",
-        "audio_language": "",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-11-06T18:15:00",
-        "normalized_date": "06.11",
-        "normalized_time": "18:15"
-      }
-    ],
-    "cinemas": [
-      "Bio Bristol"
-    ],
-    "scraped_at": "2026-11-06T13:34:09.195018+00:00",
-    "source": "biobristol",
-    "tmdb": {
-      "id": 110160,
-      "title": "Laurence Anyways",
-      "overview": "The story of an impossible love between a woman named Fred and a transgender woman named Laurence who reveals her inner desire to become her true self.",
-      "release_date": "2012-05-18",
-      "rating": 7.6,
-      "vote_count": 922,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_path": "/d8BpJ9qOQE7VFFqaV1XDdGfMsP7.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/d8BpJ9qOQE7VFFqaV1XDdGfMsP7.jpg",
-      "backdrop_path": "/kv3HLX9CByUxw92eX2rqCcrT4LJ.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/kv3HLX9CByUxw92eX2rqCcrT4LJ.jpg",
-      "imdb_id": "tt1650048",
-      "runtime": 168,
-      "budget": 9500000,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "pepi-luci-bom-and-other-girls-like-mom",
     "url": "https://www.biobristol.se/f/pepi-luci-bom-and-other-girls-like-mom/589",
     "title": "Pepi, Luci, Bom and Other Girls Like Mom",
@@ -78,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-11-06T13:34:15.492997+00:00",
+    "scraped_at": "2026-11-07T12:14:18.454831+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 4499,
@@ -129,7 +78,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-11-06T13:34:16.397182+00:00",
+    "scraped_at": "2026-11-07T12:14:19.685117+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 958000,

@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-06T13:37:53.175221+00:00",
+    "scraped_at": "2026-11-07T12:18:39.395089+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
@@ -68,15 +68,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-06T13:37:53.175376+00:00",
+    "scraped_at": "2026-11-07T12:18:39.395239+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1398,
       "title": "Stalker",
       "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
       "release_date": "1979-05-25",
-      "rating": 8.073,
-      "vote_count": 2662,
+      "rating": 8.075,
+      "vote_count": 2663,
       "genres": [
         "Science Fiction",
         "Drama"
@@ -114,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-06T13:37:53.175578+00:00",
+    "scraped_at": "2026-11-07T12:18:39.395440+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29455,
@@ -126,8 +126,8 @@
       "genres": [
         "Drama"
       ],
-      "poster_path": "/wDxrEssdjFWYwIZLbr06RQNcg1q.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wDxrEssdjFWYwIZLbr06RQNcg1q.jpg",
+      "poster_path": "/hyHVYbvrDQottG45HBd3Z02oCDt.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hyHVYbvrDQottG45HBd3Z02oCDt.jpg",
       "backdrop_path": "/tis6nrWakUsuG6Jwdm4yESfTU0o.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/tis6nrWakUsuG6Jwdm4yESfTU0o.jpg",
       "imdb_id": "tt0057358",
@@ -159,15 +159,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-06T13:37:53.175753+00:00",
+    "scraped_at": "2026-11-07T12:18:39.395613+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.6,
-      "vote_count": 4620,
+      "rating": 7.606,
+      "vote_count": 4621,
       "genres": [
         "Comedy",
         "Romance",
@@ -206,7 +206,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-06T13:37:53.176085+00:00",
+    "scraped_at": "2026-11-07T12:18:39.395917+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 5279,
@@ -253,7 +253,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-06T13:37:53.176343+00:00",
+    "scraped_at": "2026-11-07T12:18:39.396049+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
@@ -298,7 +298,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-06T13:37:53.176472+00:00",
+    "scraped_at": "2026-11-07T12:18:39.396234+00:00",
     "source": "fagelbla"
   },
   {
@@ -324,7 +324,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-06T13:37:53.176655+00:00",
+    "scraped_at": "2026-11-07T12:18:39.396389+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1621,
@@ -369,7 +369,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-06T13:37:53.177816+00:00",
+    "scraped_at": "2026-11-07T12:18:39.396492+00:00",
     "source": "fagelbla"
   },
   {
@@ -395,7 +395,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-06T13:37:53.177960+00:00",
+    "scraped_at": "2026-11-07T12:18:39.396624+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 20334,
