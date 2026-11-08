@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-07T12:18:39.395089+00:00",
+    "scraped_at": "2026-11-08T12:38:03.753275+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
@@ -68,7 +68,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-07T12:18:39.395239+00:00",
+    "scraped_at": "2026-11-08T12:38:03.753444+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1398,
@@ -76,7 +76,7 @@
       "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
       "release_date": "1979-05-25",
       "rating": 8.075,
-      "vote_count": 2663,
+      "vote_count": 2665,
       "genres": [
         "Science Fiction",
         "Drama"
@@ -114,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-07T12:18:39.395440+00:00",
+    "scraped_at": "2026-11-08T12:38:03.753638+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29455,
@@ -159,7 +159,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-07T12:18:39.395613+00:00",
+    "scraped_at": "2026-11-08T12:38:03.753817+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -167,7 +167,7 @@
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
       "rating": 7.606,
-      "vote_count": 4621,
+      "vote_count": 4623,
       "genres": [
         "Comedy",
         "Romance",
@@ -206,15 +206,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-07T12:18:39.395917+00:00",
+    "scraped_at": "2026-11-08T12:38:03.754105+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 5279,
       "title": "Gosford Park",
       "overview": "In 1930s England, a group of pretentious rich and famous gather together for a weekend of relaxation at a hunting resort. But when a murder occurs, each one of these interesting characters becomes a suspect.",
       "release_date": "2001-12-26",
-      "rating": 6.821,
-      "vote_count": 1319,
+      "rating": 6.823,
+      "vote_count": 1320,
       "genres": [
         "Drama",
         "Mystery",
@@ -253,15 +253,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-07T12:18:39.396049+00:00",
+    "scraped_at": "2026-11-08T12:38:03.754280+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
       "title": "Autumn Sonata",
       "overview": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
       "release_date": "1978-10-08",
-      "rating": 8.0,
-      "vote_count": 745,
+      "rating": 7.981,
+      "vote_count": 746,
       "genres": [
         "Drama"
       ],
@@ -298,7 +298,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-07T12:18:39.396234+00:00",
+    "scraped_at": "2026-11-08T12:38:03.754473+00:00",
     "source": "fagelbla"
   },
   {
@@ -324,7 +324,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-07T12:18:39.396389+00:00",
+    "scraped_at": "2026-11-08T12:38:03.754670+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1621,
@@ -332,7 +332,7 @@
       "overview": "A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires.",
       "release_date": "1983-06-07",
       "rating": 7.233,
-      "vote_count": 3838,
+      "vote_count": 3840,
       "genres": [
         "Comedy"
       ],
@@ -369,7 +369,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-07T12:18:39.396492+00:00",
+    "scraped_at": "2026-11-08T12:38:03.754830+00:00",
     "source": "fagelbla"
   },
   {
@@ -395,15 +395,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-07T12:18:39.396624+00:00",
+    "scraped_at": "2026-11-08T12:38:03.755047+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 20334,
       "title": "The Shop Around the Corner",
       "overview": "Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal.",
       "release_date": "1940-01-12",
-      "rating": 8.1,
-      "vote_count": 883,
+      "rating": 8.053,
+      "vote_count": 885,
       "genres": [
         "Comedy",
         "Drama",

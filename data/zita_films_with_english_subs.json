@@ -1,139 +1,5 @@
 [
   {
-    "film_id": "hijra",
-    "url": "https://zita.se/hijra",
-    "title": "Hijra",
-    "director": "",
-    "genre": "HirjaSauidiarabien20251 jan 2025115 minDramaFolkets Bio StockholmArabiskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "21:00",
-        "time": "21:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=6064",
-        "normalized_datetime": "2026-11-07T21:00:00",
-        "normalized_date": "07.11",
-        "normalized_time": "21:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-11-07T12:19:59.840598+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 1296540,
-      "title": "Hijra",
-      "overview": "This film sheds light on the fascinating and often neglected topic of the Hijra community in India, which has been a part of the subcontinent for over 4,000 years. Despite being revered and celebrated in religious and spiritual ceremonies, this community continues to face abuse, discrimination, and violence. Our film seeks to explore the dimension of evil that resides within our minds and how it reflects onto the perceptions of the Hijra community. For us, this film is very special, as it is a product of our personal experiences and the desire to showcase the struggle and bliss of the third gender. We aim to tell a story that is engaging, sensitive, and respectful. Our team is excited to bring this project to life, and we hope that it will contribute to a greater understanding and appreciation of the Hijra community.",
-      "release_date": "2025-04-07",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [],
-      "poster_path": "/yPTw1aYbItdHnhOPtE1EVJOJtCg.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yPTw1aYbItdHnhOPtE1EVJOJtCg.jpg",
-      "backdrop_path": "/qCMHMWvu0Og51pH3SetyYFzSib7.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qCMHMWvu0Og51pH3SetyYFzSib7.jpg",
-      "imdb_id": null,
-      "runtime": 30,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "unknown-title",
-    "url": "https://zita.se/irkalla--gilgameshs-dream",
-    "title": "Unknown Title",
-    "director": "",
-    "genre": "",
-    "duration": "Irak2025109 minArabiskaEngelska",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "16:00",
-        "time": "16:00",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=6066",
-        "normalized_datetime": "2026-11-07T16:00:00",
-        "normalized_date": "07.11",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-11-07T12:20:01.045626+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 949470,
-      "title": "Unknown Title",
-      "overview": "A short film by Andrei Ventslova",
-      "release_date": "1988-04-15",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Drama"
-      ],
-      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
-      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
-      "imdb_id": null,
-      "runtime": 1,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "my-fathers-scent",
-    "url": "https://zita.se/my-father´s-scent",
-    "title": "My Father´s Scent",
-    "director": "",
-    "genre": "",
-    "duration": "Egypten2025115 minArabiskaEngelska",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "18:30",
-        "time": "18:30",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=6065",
-        "normalized_datetime": "2026-11-07T18:30:00",
-        "normalized_date": "07.11",
-        "normalized_time": "18:30"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-11-07T12:20:05.965033+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 1369661,
-      "title": "My Father's Scent",
-      "overview": "Over the course of one long night, a father and his son each discover many secrets about the other, and together they try to overcome all the differences of the past and move forward.",
-      "release_date": "2026-01-07",
-      "rating": 5.857,
-      "vote_count": 7,
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "poster_path": "/hHBlZn0BCesJ6zN68koxOpncwnC.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hHBlZn0BCesJ6zN68koxOpncwnC.jpg",
-      "backdrop_path": "/qpyvvF4X4HIYniXqYaWi743PCCS.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qpyvvF4X4HIYniXqYaWi743PCCS.jpg",
-      "imdb_id": "tt38629478",
-      "runtime": 96,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "nordic-competition",
     "url": "https://zita.se/nordic-competition",
     "title": "Nordic Competition",
@@ -156,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-07T12:20:08.660893+00:00",
+    "scraped_at": "2026-11-08T12:39:13.633151+00:00",
     "source": "zita"
   },
   {
@@ -182,7 +48,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-07T12:20:14.767476+00:00",
+    "scraped_at": "2026-11-08T12:39:17.972691+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1481197,
