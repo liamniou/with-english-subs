@@ -25,7 +25,7 @@
           "date": "2026-12-01",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 8,
+          "ticketsSold": 9,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -44,7 +44,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-08T12:35:21.343455",
+    "scraped_at": "2026-11-09T14:53:41.039846",
     "source": "biorio",
     "tmdb": {
       "id": 27327,
@@ -94,7 +94,7 @@
           "date": "2026-12-10",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 26,
+          "ticketsSold": 28,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -132,7 +132,7 @@
           "date": "2026-12-17",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 10,
+          "ticketsSold": 16,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -155,7 +155,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-08T12:35:25.995925",
+    "scraped_at": "2026-11-09T14:53:45.803244",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -229,7 +229,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-08T12:35:28.106102",
+    "scraped_at": "2026-11-09T14:53:48.679863",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -298,15 +298,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-08T12:35:31.277271",
+    "scraped_at": "2026-11-09T14:53:52.627589",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
       "title": "Songs from the Second Floor",
       "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
       "release_date": "2000-10-06",
-      "rating": 7.0,
-      "vote_count": 334,
+      "rating": 7.04,
+      "vote_count": 335,
       "genres": [
         "Drama",
         "Comedy"
