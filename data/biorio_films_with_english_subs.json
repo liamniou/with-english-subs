@@ -44,7 +44,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-09T14:53:41.039846",
+    "scraped_at": "2026-11-10T14:05:49.145692",
     "source": "biorio",
     "tmdb": {
       "id": 27327,
@@ -132,7 +132,7 @@
           "date": "2026-12-17",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 16,
+          "ticketsSold": 20,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -155,7 +155,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-09T14:53:45.803244",
+    "scraped_at": "2026-11-10T14:05:53.459852",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
@@ -229,15 +229,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-09T14:53:48.679863",
+    "scraped_at": "2026-11-10T14:05:56.281651",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
       "title": "Fanny and Alexander",
       "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
       "release_date": "1982-12-17",
-      "rating": 7.752,
-      "vote_count": 929,
+      "rating": 7.751,
+      "vote_count": 931,
       "genres": [
         "Fantasy",
         "Drama",
@@ -298,7 +298,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-09T14:53:52.627589",
+    "scraped_at": "2026-11-10T14:06:00.857599",
     "source": "biorio",
     "tmdb": {
       "id": 34070,

@@ -1,44 +1,5 @@
 [
   {
-    "film_id": "14112",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14112&cityId=1",
-    "title": "Originaltitel: Mária-nap",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "mån 9/11 kl. 18:00",
-        "normalized_datetime": "2026-11-09T18:00:00",
-        "normalized_date": "09.11",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Mauritz"
-    ],
-    "scraped_at": "2026-11-09T14:54:20.381497",
-    "tmdb": {
-      "id": 390010,
-      "title": "Maria's Day",
-      "overview": "In 1866, the Szendrey family gathers for the name-day of Júlia’s sister, Mária, but the event dissolves into bitter grievances and the physical decline of the household. As the dying widow of the poet Sándor Petőfi, Júlia struggles with a failed second marriage while Mária grapples with jealousy over her own husband’s love for Júlia. The family’s fragile unity finally shatters under the suffocating weight of Sándor’s heroic legacy and the pervasive shadow of illnesses.",
-      "release_date": "1984-03-26",
-      "rating": 4.2,
-      "vote_count": 5,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "poster_path": "/f5ES4Pg53l8G36RhQOG5jmOMEEd.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/f5ES4Pg53l8G36RhQOG5jmOMEEd.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt0085902",
-      "runtime": 113,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "14108",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14108&cityId=1",
     "title": "Originaltitel: Walesa. Czlowiek z nadziei",
@@ -55,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:54:27.284805",
+    "scraped_at": "2026-11-10T14:06:27.888861",
     "tmdb": {
       "id": 209385,
       "title": "Wałesa: Man of Hope",
@@ -94,7 +55,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:54:31.402157",
+    "scraped_at": "2026-11-10T14:06:31.778261",
     "tmdb": {
       "id": 213001,
       "title": "Farewell China",
@@ -132,7 +93,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:54:35.455825",
+    "scraped_at": "2026-11-10T14:06:36.170736",
     "tmdb": {
       "id": 39410,
       "title": "Mothra",
@@ -172,7 +133,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:54:41.654452",
+    "scraped_at": "2026-11-10T14:06:43.115218",
     "tmdb": {
       "id": 80243,
       "title": "Unknown Pleasures",
@@ -211,7 +172,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-11-09T14:54:55.179209",
+    "scraped_at": "2026-11-10T14:06:55.553807",
     "tmdb": {
       "id": 1645551,
       "title": "Spring Wind - The Awakening",
@@ -249,7 +210,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:55:01.320841"
+    "scraped_at": "2026-11-10T14:07:01.242406"
   },
   {
     "film_id": "11804",
@@ -268,7 +229,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:55:11.570574",
+    "scraped_at": "2026-11-10T14:07:11.099476",
     "tmdb": {
       "id": 179464,
       "title": "A Gentleman in Top Hat and Tails",
@@ -306,7 +267,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:55:19.668395",
+    "scraped_at": "2026-11-10T14:07:18.952089",
     "tmdb": {
       "id": 1106079,
       "title": "Delitto d'amore",
@@ -344,7 +305,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:55:23.815917",
+    "scraped_at": "2026-11-10T14:07:22.527148",
     "tmdb": {
       "id": 63215,
       "title": "Toute une nuit",
@@ -383,7 +344,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-11-09T14:55:32.145628",
+    "scraped_at": "2026-11-10T14:07:30.315514",
     "tmdb": {
       "id": 1247214,
       "title": "Heroine in the Dust",
@@ -419,7 +380,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:55:36.152446",
+    "scraped_at": "2026-11-10T14:07:33.991314",
     "tmdb": {
       "id": 35861,
       "title": "Chikamatsu Monogatari",
@@ -458,7 +419,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:55:42.559132",
+    "scraped_at": "2026-11-10T14:07:39.714812",
     "tmdb": {
       "id": 648127,
       "title": "Gefahren der Großstadt-Straße",
@@ -497,7 +458,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:55:46.257476",
+    "scraped_at": "2026-11-10T14:07:43.021220",
     "tmdb": {
       "id": 379340,
       "title": "Drama på slottet",
@@ -535,7 +496,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:55:50.023543",
+    "scraped_at": "2026-11-10T14:07:46.835283",
     "tmdb": {
       "id": 939949,
       "title": "Huahua's Dazzling World and its Myriad Temptations",
@@ -573,7 +534,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:56:07.424045"
+    "scraped_at": "2026-11-10T14:08:02.156348"
   },
   {
     "film_id": "10040",
@@ -592,14 +553,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:56:16.115435",
+    "scraped_at": "2026-11-10T14:08:09.599417",
     "tmdb": {
       "id": 19,
       "title": "Metropolis",
       "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
       "release_date": "1927-01-10",
-      "rating": 8.083,
-      "vote_count": 3260,
+      "rating": 8.1,
+      "vote_count": 3261,
       "genres": [
         "Drama",
         "Science Fiction"
@@ -631,7 +592,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-11-09T14:56:28.253697"
+    "scraped_at": "2026-11-10T14:08:18.836646"
   },
   {
     "film_id": "14116",
@@ -650,7 +611,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:56:34.931519",
+    "scraped_at": "2026-11-10T14:08:24.178850",
     "tmdb": {
       "id": 1136837,
       "title": "Caught by the Tides",
@@ -688,7 +649,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-11-09T14:56:39.287165",
+    "scraped_at": "2026-11-10T14:08:27.640091",
     "tmdb": {
       "id": 68004,
       "title": "Center Stage",
@@ -728,7 +689,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:56:46.108473",
+    "scraped_at": "2026-11-10T14:08:32.971197",
     "tmdb": {
       "id": 47612,
       "title": "Au Bonheur des Dames",
@@ -767,7 +728,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:56:52.363208",
+    "scraped_at": "2026-11-10T14:08:38.315304",
     "tmdb": {
       "id": 59484,
       "title": "Le Pont du Nord",
@@ -807,7 +768,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:56:56.092791",
+    "scraped_at": "2026-11-10T14:08:41.468992",
     "tmdb": {
       "id": 221723,
       "title": "Derailed",
@@ -847,7 +808,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-09T14:56:59.750886",
+    "scraped_at": "2026-11-10T14:08:44.695671",
     "tmdb": {
       "id": 181735,
       "title": "A Fishy Story",

@@ -27,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-11-09T14:52:56.056487+00:00",
+    "scraped_at": "2026-11-10T14:05:14.556604+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 4499,
@@ -78,7 +78,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-11-09T14:52:56.654174+00:00",
+    "scraped_at": "2026-11-10T14:05:15.051123+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 958000,
@@ -97,6 +97,58 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/rYGjqLn8n0UUViqDX9ebSc3ngxI.jpg",
       "imdb_id": "tt19725896",
       "runtime": 110,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "my-twentieth-century",
+    "url": "https://www.biobristol.se/f/my-twentieth-century/601",
+    "title": "My Twentieth Century",
+    "director": "Ildikó Enyedi",
+    "duration": "98 min",
+    "language": "Ungerska",
+    "description": "Ildikó Enyedi's fairytale-like, unconventional ironic film luminaire was awarded the Camera d'Or at Cannes in 1989. On the eve of the 20th century, two twin girls, Lili the anarchist and Dóra a luxurious woman of loose morals, along with Mr. Z. who loves them as an entity, all reach the Hungarian border at the same time on board the Orient Express. Their story, rushing under the spell of Edison's inventions, is a special ‘research of happiness', reclaiming the ‘mass murdering century' from the restlessly changing world and the miracle of existence. Tarkovsky's fabulous actor, Oleg Yankovsky, performs an unforgettable double with the young Polish actress Dorotha Segda. \r\n\r\nThe complete 4K digital restoration of the film was carried out at the Hungarian Filmlab, supervised by the Hungarian Film Fund - Hungarian National Film Archive in 2017. Digital grading was supervised by cinematographer Tibor Máthé.",
+    "poster_url": "https://marscode.s3.eu-north-1.amazonaws.com/assets/img/1794251432590",
+    "showtimes": [
+      {
+        "datetime": "2026-11-15T18:30:00",
+        "display_text": "Sunday 15 November 2026 at 18:30",
+        "time": "18:30",
+        "date_section": "15.11",
+        "ticket_url": "https://www.biobristol.se/checkout?showId=6af21b3fb16d5d1df1d8e57b",
+        "show_id": "6af21b3fb16d5d1df1d8e57b",
+        "hall": "Bristol",
+        "audio_language": "",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-11-15T18:30:00",
+        "normalized_date": "15.11",
+        "normalized_time": "18:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Bristol"
+    ],
+    "scraped_at": "2026-11-10T14:05:23.742197+00:00",
+    "source": "biobristol",
+    "tmdb": {
+      "id": 49978,
+      "title": "My Twentieth Century",
+      "overview": "A tale of twin girls, Dóra and Lili, who are born in 1880 Budapest at the same moment Thomas Edison presents his electric lightbulb to the world. The sisters are soon orphaned and separated in childhood, and follow different paths: one grows up to be a naïvely idealistic, bomb-toting anarchist, the other a pampered, hedonistic courtesan. Their paths cross once again on the Orient Express on New Year's Eve 1899...",
+      "release_date": "1989-09-01",
+      "rating": 6.5,
+      "vote_count": 51,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Science Fiction"
+      ],
+      "poster_path": "/sXdS2zI9cRnZzwyxbjduvxPoj64.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sXdS2zI9cRnZzwyxbjduvxPoj64.jpg",
+      "backdrop_path": "/NV1IxvmfqxrVsHrDcapgULDdeX.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/NV1IxvmfqxrVsHrDcapgULDdeX.jpg",
+      "imdb_id": "tt0096863",
+      "runtime": 102,
       "budget": 0,
       "revenue": 0
     }
