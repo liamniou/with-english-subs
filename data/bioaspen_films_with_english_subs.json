@@ -1,35 +1,5 @@
 [
   {
-    "film_id": "the-family-approach",
-    "url": "https://www.bioaspen.se/movies/the-family-approach/",
-    "title": "Tyska tisdagar: The Family Approach (Im Prinzip Familie)",
-    "director": "Daniel Abma",
-    "duration": "1 tim 31 min",
-    "language": "DE",
-    "description": "Under fyra tisdagskvällar mellan september och november visar vi prisbelönta och uppmärksammade filmer som speglar dagens Tyskland genom dokumentärfilm, drama och personliga berättelser. Ett tillfälle att möta olika perspektiv, upptäcka spännande filmskapare och se vad som händer inom tysk film.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/6985/1080/4be13120-39f9-43cb-9ffd-dbb7b3e7d0a3.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-11-10T18:00:00",
-        "display_text": "Tuesday 10 November 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "10.11",
-        "ticket_url": "https://www.bioaspen.se/movies/the-family-approach/",
-        "hall": "Salong 1",
-        "audio_language": "DE",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-11-10T18:00:00",
-        "normalized_date": "10.11",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-11-10T14:05:03.883443+00:00",
-    "source": "bioaspen"
-  },
-  {
     "film_id": "impatience-of-the-heart",
     "url": "https://www.bioaspen.se/movies/impatience-of-the-heart/",
     "title": "Tyska tisdagar: Impatience of the Heart (Ungeduld des Herzens)",
@@ -56,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-11-10T14:05:03.883474+00:00",
+    "scraped_at": "2026-11-11T13:22:11.374762+00:00",
     "source": "bioaspen"
   }
 ]

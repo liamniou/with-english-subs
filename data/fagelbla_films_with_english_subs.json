@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-10T14:08:51.233163+00:00",
+    "scraped_at": "2026-11-11T13:25:28.511621+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1887,
@@ -43,52 +43,6 @@
       "runtime": 123,
       "budget": 40000000,
       "revenue": 60917189
-    }
-  },
-  {
-    "film_id": "stalker",
-    "url": "https://biofagelbla.se/program/",
-    "title": "Stalker",
-    "director": "Andrei Tarkovsky",
-    "duration": "2h 41 mins",
-    "language": "Ryska",
-    "showtimes": [
-      {
-        "datetime": "2026-11-14T20:30:00+01:00",
-        "display_text": "Lördag, 14th November 20:30",
-        "time": "20:30",
-        "date_section": "Lördag, 14th November",
-        "ticket_url": "https://biofagelbla.se/movie/stalker/?showtime=60441",
-        "showtime_id": "60441",
-        "normalized_datetime": "2026-11-14T20:30:00",
-        "normalized_date": "14.11",
-        "normalized_time": "20:30"
-      }
-    ],
-    "cinemas": [
-      "Bio Fågel Blå Stockholm"
-    ],
-    "scraped_at": "2026-11-10T14:08:51.233261+00:00",
-    "source": "fagelbla",
-    "tmdb": {
-      "id": 1398,
-      "title": "Stalker",
-      "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
-      "release_date": "1979-05-25",
-      "rating": 8.075,
-      "vote_count": 2666,
-      "genres": [
-        "Science Fiction",
-        "Drama"
-      ],
-      "poster_path": "/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
-      "backdrop_path": "/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
-      "imdb_id": "tt0079944",
-      "runtime": 162,
-      "budget": 120000,
-      "revenue": 36784519
     }
   },
   {
@@ -114,14 +68,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-10T14:08:51.233366+00:00",
+    "scraped_at": "2026-11-11T13:25:28.511866+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29455,
       "title": "Winter Light",
       "overview": "A Swedish pastor fails a loving woman, a suicidal fisherman and God.",
       "release_date": "1963-02-11",
-      "rating": 7.9,
+      "rating": 7.872,
       "vote_count": 530,
       "genres": [
         "Drama"
@@ -159,7 +113,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-10T14:08:51.233504+00:00",
+    "scraped_at": "2026-11-11T13:25:28.512112+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -167,7 +121,7 @@
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
       "rating": 7.606,
-      "vote_count": 4624,
+      "vote_count": 4625,
       "genres": [
         "Comedy",
         "Romance",
@@ -206,15 +160,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-10T14:08:51.233758+00:00",
+    "scraped_at": "2026-11-11T13:25:28.512537+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 5279,
       "title": "Gosford Park",
       "overview": "In 1930s England, a group of pretentious rich and famous gather together for a weekend of relaxation at a hunting resort. But when a murder occurs, each one of these interesting characters becomes a suspect.",
       "release_date": "2001-12-26",
-      "rating": 6.823,
-      "vote_count": 1321,
+      "rating": 6.825,
+      "vote_count": 1323,
       "genres": [
         "Drama",
         "Mystery",
@@ -253,14 +207,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-10T14:08:51.233841+00:00",
+    "scraped_at": "2026-11-11T13:25:28.512720+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
       "title": "Autumn Sonata",
       "overview": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
       "release_date": "1978-10-08",
-      "rating": 7.971,
+      "rating": 8.0,
       "vote_count": 747,
       "genres": [
         "Drama"
@@ -298,7 +252,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-10T14:08:51.233926+00:00",
+    "scraped_at": "2026-11-11T13:25:28.513002+00:00",
     "source": "fagelbla"
   },
   {
@@ -324,7 +278,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-10T14:08:51.234023+00:00",
+    "scraped_at": "2026-11-11T13:25:28.514283+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1621,
@@ -332,7 +286,7 @@
       "overview": "A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires.",
       "release_date": "1983-06-07",
       "rating": 7.233,
-      "vote_count": 3842,
+      "vote_count": 3843,
       "genres": [
         "Comedy"
       ],
@@ -369,8 +323,100 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-10T14:08:51.234098+00:00",
+    "scraped_at": "2026-11-11T13:25:28.514411+00:00",
     "source": "fagelbla"
+  },
+  {
+    "film_id": "dune-part-three",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Dune: Part Three",
+    "director": "Denis Villeneuve",
+    "duration": "2h 25 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-12-15T20:00:00+01:00",
+        "display_text": "Tisdag, 15th December 20:00",
+        "time": "20:00",
+        "date_section": "Tisdag, 15th December",
+        "ticket_url": "https://biofagelbla.se/movie/dune-part-three/?showtime=61136",
+        "showtime_id": "61136",
+        "normalized_datetime": "2026-12-15T20:00:00",
+        "normalized_date": "15.12",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-11-11T13:25:28.514564+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 1170608,
+      "title": "Dune: Part Three",
+      "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+      "release_date": "2026-12-15",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "poster_path": "/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
+      "backdrop_path": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+      "imdb_id": "tt31378509",
+      "runtime": 150,
+      "budget": 200000000,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "dune-part-three",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Dune: Part Three",
+    "director": "Denis Villeneuve",
+    "duration": "2h 25 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-12-16T17:30:00+01:00",
+        "display_text": "Onsdag, 16th December 17:30",
+        "time": "17:30",
+        "date_section": "Onsdag, 16th December",
+        "ticket_url": "https://biofagelbla.se/movie/dune-part-three/?showtime=61197",
+        "showtime_id": "61197",
+        "normalized_datetime": "2026-12-16T17:30:00",
+        "normalized_date": "16.12",
+        "normalized_time": "17:30"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-11-11T13:25:28.514665+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 1170608,
+      "title": "Dune: Part Three",
+      "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+      "release_date": "2026-12-15",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "poster_path": "/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
+      "backdrop_path": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+      "imdb_id": "tt31378509",
+      "runtime": 150,
+      "budget": 200000000,
+      "revenue": 0
+    }
   },
   {
     "film_id": "the-shop-around-the-corner",
@@ -395,15 +441,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-10T14:08:51.234203+00:00",
+    "scraped_at": "2026-11-11T13:25:28.514798+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 20334,
       "title": "The Shop Around the Corner",
       "overview": "Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal.",
       "release_date": "1940-01-12",
-      "rating": 8.053,
-      "vote_count": 885,
+      "rating": 8.052,
+      "vote_count": 886,
       "genres": [
         "Comedy",
         "Drama",
@@ -417,6 +463,99 @@
       "runtime": 99,
       "budget": 500000,
       "revenue": 0
+    }
+  },
+  {
+    "film_id": "die-hard",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Die Hard",
+    "director": "John McTiernan, Marion Tumen",
+    "duration": "2h 12 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-12-19T21:00:00+01:00",
+        "display_text": "Lördag, 19th December 21:00",
+        "time": "21:00",
+        "date_section": "Lördag, 19th December",
+        "ticket_url": "https://biofagelbla.se/movie/die-hard/?showtime=60562",
+        "showtime_id": "60562",
+        "normalized_datetime": "2026-12-19T21:00:00",
+        "normalized_date": "19.12",
+        "normalized_time": "21:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-11-11T13:25:28.514886+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 562,
+      "title": "Die Hard",
+      "overview": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
+      "release_date": "1988-07-15",
+      "rating": 7.818,
+      "vote_count": 12854,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "poster_path": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "backdrop_path": "/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+      "imdb_id": "tt0095016",
+      "runtime": 132,
+      "budget": 28000000,
+      "revenue": 140767956
+    }
+  },
+  {
+    "film_id": "its-a-wonderful-life",
+    "url": "https://biofagelbla.se/program/",
+    "title": "It’s a Wonderful Life",
+    "director": "Frank Capra",
+    "duration": "2h 11 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-12-23T17:45:00+01:00",
+        "display_text": "Onsdag, 23rd December 17:45",
+        "time": "17:45",
+        "date_section": "Onsdag, 23rd December",
+        "ticket_url": "https://biofagelbla.se/movie/its-a-wonderful-life/?showtime=60392",
+        "showtime_id": "60392",
+        "normalized_datetime": "2026-12-23T17:45:00",
+        "normalized_date": "23.12",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-11-11T13:25:28.515113+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 1585,
+      "title": "It's a Wonderful Life",
+      "overview": "George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
+      "release_date": "1946-12-20",
+      "rating": 8.279,
+      "vote_count": 5158,
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "poster_path": "/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "backdrop_path": "/ch3lDc4xQ9MpsNEpnRhvR8PIxxK.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ch3lDc4xQ9MpsNEpnRhvR8PIxxK.jpg",
+      "imdb_id": "tt0038650",
+      "runtime": 131,
+      "budget": 3180000,
+      "revenue": 9644124
     }
   }
 ]

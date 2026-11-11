@@ -22,7 +22,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-10T14:10:21.034934+00:00",
+    "scraped_at": "2026-11-11T13:26:51.157610+00:00",
     "source": "zita"
   },
   {
@@ -48,7 +48,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-10T14:10:25.560820+00:00",
+    "scraped_at": "2026-11-11T13:26:54.197914+00:00",
     "source": "zita",
     "tmdb": {
       "id": 1481197,
@@ -61,8 +61,8 @@
         "Drama",
         "Crime"
       ],
-      "poster_path": "/tEsT8vVrwbeSYUz3Ol3gDBm0rI7.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tEsT8vVrwbeSYUz3Ol3gDBm0rI7.jpg",
+      "poster_path": "/lnZY0Itm6cOTeonMOgxis3J9XGA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lnZY0Itm6cOTeonMOgxis3J9XGA.jpg",
       "backdrop_path": "/poRTl2I13ao9YaCE9xqbqdT4XBt.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/poRTl2I13ao9YaCE9xqbqdT4XBt.jpg",
       "imdb_id": "tt39716823",
