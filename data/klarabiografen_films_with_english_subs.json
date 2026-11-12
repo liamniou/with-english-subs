@@ -26,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-11T13:25:30.273910+00:00",
+    "scraped_at": "2026-11-12T14:30:18.756100+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -77,24 +77,24 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-11T13:25:30.274711+00:00",
+    "scraped_at": "2026-11-12T14:30:18.756845+00:00",
     "source": "klarabiografen",
     "tmdb": {
-      "id": 267285,
+      "id": 526031,
       "title": "Golden Boy",
-      "overview": "Antoine a Union representative works in a financially troubled factory. He's not the sharpest tool in the box but he has a big heart and when he and his wife win the jackpot of the national lottery. Antoine will invest his gain to try and safe the factory.",
-      "release_date": "1996-02-21",
-      "rating": 6.5,
-      "vote_count": 5,
+      "overview": "GOLDEN BOY is the story of James, a young man who gambles on the dangers of being seen versus the quiet life of desperation and invisibility. Saved from doomed nonexistence by CQ, a wealthy debonair businessman with more going on than meets the eye, and introduced to a world he is not ready to navigate. We follow him as he chases his dreams -- while losing himself, one piece at a time. GOLDEN BOY is a story with universal themes. Trust. Seduction. Betrayal. Redemption.",
+      "release_date": "2018-06-08",
+      "rating": 5.8,
+      "vote_count": 6,
       "genres": [
-        "Comedy"
+        "Drama"
       ],
-      "poster_path": "/1v6VNIzETGrX4X5B4NADaEVRxRy.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1v6VNIzETGrX4X5B4NADaEVRxRy.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt0116432",
-      "runtime": 91,
+      "poster_path": "/wsQ2cbGUcE6sxOBrfFA9giAIPv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wsQ2cbGUcE6sxOBrfFA9giAIPv.jpg",
+      "backdrop_path": "/yQBFq7dHpfDgt3BPM0ORSfsOEZU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yQBFq7dHpfDgt3BPM0ORSfsOEZU.jpg",
+      "imdb_id": "tt5152882",
+      "runtime": 105,
       "budget": 0,
       "revenue": 0
     }
@@ -126,25 +126,22 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-11T13:25:30.274738+00:00",
+    "scraped_at": "2026-11-12T14:30:18.756885+00:00",
     "source": "klarabiografen",
     "tmdb": {
-      "id": 680744,
+      "id": 449377,
       "title": "The Misanthrope",
-      "overview": "A woman invites all her friends over for a dinner party in order to break up with them.",
-      "release_date": "2020-03-07",
-      "rating": 10.0,
-      "vote_count": 2,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "poster_path": "/5cUoueuFa6Hs3YRa22w9fSyQLId.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5cUoueuFa6Hs3YRa22w9fSyQLId.jpg",
+      "overview": "One man's defiant stand against the hypocrisy of polite society is the theme of Molière's comic masterpiece.  Ian Holm stars in this film set in Paris in the 1920s.",
+      "release_date": "1980-01-27",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [],
+      "poster_path": "/8385al8Dp5v1PeqiKlLbcekpfY4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8385al8Dp5v1PeqiKlLbcekpfY4.jpg",
       "backdrop_path": null,
       "backdrop_url": null,
-      "imdb_id": "tt11673008",
-      "runtime": 0,
+      "imdb_id": "tt4758056",
+      "runtime": 85,
       "budget": 0,
       "revenue": 0
     }
@@ -176,7 +173,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-11T13:25:30.274852+00:00",
+    "scraped_at": "2026-11-12T14:30:18.757025+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -226,26 +223,28 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-11T13:25:30.274946+00:00",
+    "scraped_at": "2026-11-12T14:30:18.757118+00:00",
     "source": "klarabiografen",
     "tmdb": {
-      "id": 1422112,
+      "id": 3062,
       "title": "42nd Street",
-      "overview": "A sensory dive into the lives of dancers and artists hungry for fame, clashing with police tactics and unorthodox views. 42nd Street unveils a defiant counter-culture in the Dominican urban scene—all unfolding on a bold, unrelenting 600-meter 42nd street.",
-      "release_date": "2025-08-21",
-      "rating": 0.0,
-      "vote_count": 0,
+      "overview": "Broadway director Julian Marsh needs just one more hit show so he can retire and recover his health. It looks like he just may pull it off until temperamental star Dorthy Brock breaks her ankle on the eve of the show's premiere and has to be replaced by her understudy Peggy.",
+      "release_date": "1933-03-11",
+      "rating": 7.0,
+      "vote_count": 232,
       "genres": [
-        "Documentary"
+        "Comedy",
+        "Drama",
+        "Romance"
       ],
-      "poster_path": "/AgF6Xl5Qi0HoRBav4MzWN0rKZ6J.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/AgF6Xl5Qi0HoRBav4MzWN0rKZ6J.jpg",
-      "backdrop_path": "/1IcsukEptFDxvxPpDUYs1OVO2fn.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/1IcsukEptFDxvxPpDUYs1OVO2fn.jpg",
-      "imdb_id": "tt35081754",
-      "runtime": 91,
-      "budget": 0,
-      "revenue": 0
+      "poster_path": "/q4UEd8BL74zVsOOaJkKVMLMmdTg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q4UEd8BL74zVsOOaJkKVMLMmdTg.jpg",
+      "backdrop_path": "/5a5lJCew2hGBcd6abdMkomr9mos.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5a5lJCew2hGBcd6abdMkomr9mos.jpg",
+      "imdb_id": "tt0024034",
+      "runtime": 89,
+      "budget": 439000,
+      "revenue": 2281000
     }
   }
 ]

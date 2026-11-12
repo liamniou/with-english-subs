@@ -1,44 +1,5 @@
 [
   {
-    "film_id": "14108",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14108&cityId=1",
-    "title": "Originaltitel: Walesa. Czlowiek z nadziei",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "ons 11/11 kl. 18:00",
-        "normalized_datetime": "2026-11-11T18:00:00",
-        "normalized_date": "11.11",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-11-11T13:23:27.392549",
-    "tmdb": {
-      "id": 209385,
-      "title": "Wałesa: Man of Hope",
-      "overview": "How was it possible that a single man influenced contemporary world so significantly? This film is an attempt to capture the phenomenon of a common man’s metamorphosis into a charismatic leader — an attempt to see how a Gdansk shipyard electrician fighting for workers’ rights awakened a hidden desire for freedom in millions of people.",
-      "release_date": "2013-09-23",
-      "rating": 5.7,
-      "vote_count": 87,
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "poster_path": "/fcMdwmlWbtTKEjIGEu3IuSZ7x61.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fcMdwmlWbtTKEjIGEu3IuSZ7x61.jpg",
-      "backdrop_path": "/k1gbnFXnyAwyNVoPaX5N0ArYrEF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/k1gbnFXnyAwyNVoPaX5N0ArYrEF.jpg",
-      "imdb_id": "tt2113820",
-      "runtime": 127,
-      "budget": 0,
-      "revenue": 5250588
-    }
-  },
-  {
     "film_id": "14119",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14119&cityId=1",
     "title": "Originaltitel: Ai zai bie xiang de ji jie",
@@ -55,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:23:30.715284",
+    "scraped_at": "2026-11-12T14:28:23.190816",
     "tmdb": {
       "id": 213001,
       "title": "Farewell China",
@@ -93,27 +54,29 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:23:34.113055",
+    "scraped_at": "2026-11-12T14:28:26.713685",
     "tmdb": {
-      "id": 39410,
-      "title": "Mothra",
-      "overview": "Shipwreck survivors found on the presumably uninhabited Infant Island leads to a scientific expedition that discovers a surviving native population along with the Shobijin, tiny twin fairy priestesses of the island's mythical deity called Mothra. After the fairies are kidnapped by an exploitative businessman named Clark Nelson, Mothra sets out to rescue them.",
-      "release_date": "1961-07-30",
-      "rating": 7.2,
-      "vote_count": 195,
+      "id": 36243,
+      "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
+      "overview": "Godzilla has become a distant memory for Japan when the destruction of a US submarine raises alarms for Admiral Tachibana. His estranged daughter Yuri investigates the legend of the guardian monsters, who must rise to protect Japan against the vengeful spirits within Godzilla that seek to destroy both the nation and its people for the suffering they inflicted in the Pacific conflict.",
+      "release_date": "2001-12-15",
+      "rating": 7.484,
+      "vote_count": 307,
       "genres": [
+        "Action",
         "Adventure",
-        "Science Fiction",
-        "Fantasy"
+        "Horror",
+        "Fantasy",
+        "Science Fiction"
       ],
-      "poster_path": "/87hiAyyGFHPuuJ3iXHK8xZSMcRP.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/87hiAyyGFHPuuJ3iXHK8xZSMcRP.jpg",
-      "backdrop_path": "/fyYBmshYHUwjdVG7CaKCSMDOa7s.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/fyYBmshYHUwjdVG7CaKCSMDOa7s.jpg",
-      "imdb_id": "tt0055198",
-      "runtime": 101,
-      "budget": 0,
-      "revenue": 2237760
+      "poster_path": "/d3lMCQJfjCBlGFy5sWpsEaBnEPl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d3lMCQJfjCBlGFy5sWpsEaBnEPl.jpg",
+      "backdrop_path": "/flIztIygNv3r3wgJCDyxfnvH70K.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/flIztIygNv3r3wgJCDyxfnvH70K.jpg",
+      "imdb_id": "tt0279112",
+      "runtime": 105,
+      "budget": 9400000,
+      "revenue": 20000000
     }
   },
   {
@@ -133,7 +96,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:23:39.445971",
+    "scraped_at": "2026-11-12T14:28:32.240787",
     "tmdb": {
       "id": 80243,
       "title": "Unknown Pleasures",
@@ -172,7 +135,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-11-11T13:23:50.039712",
+    "scraped_at": "2026-11-12T14:28:42.247177",
     "tmdb": {
       "id": 1645551,
       "title": "Spring Wind - The Awakening",
@@ -210,7 +173,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:23:55.008959"
+    "scraped_at": "2026-11-12T14:28:47.029068"
   },
   {
     "film_id": "11804",
@@ -229,7 +192,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:24:03.768550",
+    "scraped_at": "2026-11-12T14:28:54.785042",
     "tmdb": {
       "id": 179464,
       "title": "A Gentleman in Top Hat and Tails",
@@ -267,23 +230,24 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:24:10.329853",
+    "scraped_at": "2026-11-12T14:29:01.571508",
     "tmdb": {
-      "id": 1106079,
-      "title": "Delitto d'amore",
-      "overview": "",
-      "release_date": "1966-03-11",
-      "rating": 7.0,
-      "vote_count": 1,
+      "id": 198531,
+      "title": "Somewhere Beyond Love",
+      "overview": "Two factory workers living in Northern Italy form a romantic connection. The woman, torn between the freedoms of the North and her traditional Sicilian values, slowly allows herself to love...",
+      "release_date": "1974-06-06",
+      "rating": 6.5,
+      "vote_count": 34,
       "genres": [
-        "Drama"
+        "Drama",
+        "Romance"
       ],
-      "poster_path": "/oEXPk8ET5HlvLAfaA15V7VSPWCb.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oEXPk8ET5HlvLAfaA15V7VSPWCb.jpg",
-      "backdrop_path": "/qH0GXAFGoRKCI0JnNajsqD6Kvum.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qH0GXAFGoRKCI0JnNajsqD6Kvum.jpg",
-      "imdb_id": "tt0058868",
-      "runtime": 0,
+      "poster_path": "/6VZOOjR3S8WyEqUPIdixEIWxXPY.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6VZOOjR3S8WyEqUPIdixEIWxXPY.jpg",
+      "backdrop_path": "/xQ92SXnoZcFWcmjV0qakUpWS57p.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/xQ92SXnoZcFWcmjV0qakUpWS57p.jpg",
+      "imdb_id": "tt0071404",
+      "runtime": 100,
       "budget": 0,
       "revenue": 0
     }
@@ -305,7 +269,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:24:13.715688",
+    "scraped_at": "2026-11-12T14:29:04.976100",
     "tmdb": {
       "id": 63215,
       "title": "Toute une nuit",
@@ -344,7 +308,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-11-11T13:24:20.564492",
+    "scraped_at": "2026-11-12T14:29:10.975893",
     "tmdb": {
       "id": 1247214,
       "title": "Heroine in the Dust",
@@ -380,7 +344,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:24:23.785523",
+    "scraped_at": "2026-11-12T14:29:13.864859",
     "tmdb": {
       "id": 35861,
       "title": "Chikamatsu Monogatari",
@@ -419,7 +383,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:24:28.275184",
+    "scraped_at": "2026-11-12T14:29:18.323497",
     "tmdb": {
       "id": 648127,
       "title": "Gefahren der Großstadt-Straße",
@@ -458,7 +422,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:24:31.146242",
+    "scraped_at": "2026-11-12T14:29:21.074948",
     "tmdb": {
       "id": 379340,
       "title": "Drama på slottet",
@@ -496,7 +460,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:24:33.989560",
+    "scraped_at": "2026-11-12T14:29:24.074738",
     "tmdb": {
       "id": 939949,
       "title": "Huahua's Dazzling World and its Myriad Temptations",
@@ -534,7 +498,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:24:47.086648"
+    "scraped_at": "2026-11-12T14:29:36.859857"
   },
   {
     "film_id": "10040",
@@ -553,14 +517,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:24:53.383622",
+    "scraped_at": "2026-11-12T14:29:43.044445",
     "tmdb": {
       "id": 19,
       "title": "Metropolis",
       "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
       "release_date": "1927-01-10",
       "rating": 8.084,
-      "vote_count": 3262,
+      "vote_count": 3263,
       "genres": [
         "Drama",
         "Science Fiction"
@@ -592,7 +556,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-11-11T13:25:01.389015"
+    "scraped_at": "2026-11-12T14:29:50.678018"
   },
   {
     "film_id": "14116",
@@ -611,7 +575,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:25:05.812513",
+    "scraped_at": "2026-11-12T14:29:54.995300",
     "tmdb": {
       "id": 1136837,
       "title": "Caught by the Tides",
@@ -649,7 +613,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-11-11T13:25:08.690647",
+    "scraped_at": "2026-11-12T14:29:57.820035",
     "tmdb": {
       "id": 68004,
       "title": "Center Stage",
@@ -689,24 +653,23 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:25:13.326679",
+    "scraped_at": "2026-11-12T14:30:02.198382",
     "tmdb": {
-      "id": 47612,
-      "title": "Au Bonheur des Dames",
-      "overview": "Denise, an orphaned girl, moves to Paris where she hopes to find work at her uncle's store. But the glamorous department store 'Aux Bonheur des Dames' across the street crushes all the little businesses around. She finds a position there.",
-      "release_date": "1930-07-03",
-      "rating": 6.3,
-      "vote_count": 36,
+      "id": 66959,
+      "title": "Shop Girls of Paris",
+      "overview": "The struggles of a small business owner come to light in this film by director André Cayatte. The proprietor of a fabric shop, M. Baudu faces stiff competition when a department store moves in across the street, the first of its kind in 1860s Paris. On top of the stresses associated with the rival retailer, Baudu’s niece and two nephews take up residence with him after recently being orphaned. The niece, Denise Baudu, sees the writing on the wall for her uncle’s business so she takes a job as a shop girl with his competitor and despite her success the decision does not register well with the family.",
+      "release_date": "1943-07-20",
+      "rating": 7.1,
+      "vote_count": 9,
       "genres": [
-        "Drama",
-        "Romance"
+        "Drama"
       ],
-      "poster_path": "/sVFvFFEMRJ1eUzD6nbYLSqwHi0d.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sVFvFFEMRJ1eUzD6nbYLSqwHi0d.jpg",
-      "backdrop_path": "/o5bRLCNBmWBCBluFlOLUgivdONs.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/o5bRLCNBmWBCBluFlOLUgivdONs.jpg",
-      "imdb_id": "tt0020656",
-      "runtime": 88,
+      "poster_path": "/zLTQBZc4c2utMjBcOuEahYuPPvO.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zLTQBZc4c2utMjBcOuEahYuPPvO.jpg",
+      "backdrop_path": "/aICf9reTMXIfNyJu2bfmOsdAPgv.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/aICf9reTMXIfNyJu2bfmOsdAPgv.jpg",
+      "imdb_id": "tt0154174",
+      "runtime": 82,
       "budget": 0,
       "revenue": 0
     }
@@ -728,7 +691,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:25:17.768901",
+    "scraped_at": "2026-11-12T14:30:06.899163",
     "tmdb": {
       "id": 59484,
       "title": "Le Pont du Nord",
@@ -768,7 +731,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:25:20.650288",
+    "scraped_at": "2026-11-12T14:30:09.604200",
     "tmdb": {
       "id": 221723,
       "title": "Derailed",
@@ -808,7 +771,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-11T13:25:23.499541",
+    "scraped_at": "2026-11-12T14:30:12.343756",
     "tmdb": {
       "id": 181735,
       "title": "A Fishy Story",
