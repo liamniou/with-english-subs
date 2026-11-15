@@ -26,7 +26,97 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-11-14T12:49:05.684729+00:00",
+    "scraped_at": "2026-11-15T13:16:12.371595+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "film-jazz-fran-polen-na-zawsze-melomani-melomaner-for-alltid",
+    "url": "https://www.bioaspen.se/movies/film-jazz-fran-polen-na-zawsze-melomani-melomaner-for-alltid/",
+    "title": "Film & Jazz från Polen: Na zawsze Melomani / Melomaner för alltid - med samtal & konsert",
+    "director": "Rafał Mierzejewski",
+    "duration": "2 tim 40 min",
+    "language": "PL",
+    "description": "Jerzy „Duduś” Matuszkiewicz, Andrzej „Idon” Wojciechowski, Witold „Dentox” Sobociński, Witold Kujawski, Andrzej Trzaskowski, Krzysztof Komeda, dessutom Antoni Studziński och Alojzy Tomys – det är jazzgruppen Melomani (Melomanerna eller Musikälskarna). Regissören Rafał Mierzejewski berättar deras historia i dokumentären ”Melomaner för evigt”. Gruppen bildades vid årsskiftet 1949-50 i Łódź. Vi lär känna historien genom arkivinspelningar blandade med minnesbilder från ikoniska polska jazzmusiker som „Idon” Wojciechowski, Jan „Ptaszyn” Wróblewski, Wojciech Karolak, Michał Urbaniak, Przemysław Dyakowski och många andra.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7407/1080/c461d2db-3b5b-4864-8bb5-e6680f60fefe.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-12-07T18:00:00",
+        "display_text": "Monday 7 December 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "07.12",
+        "ticket_url": "https://www.bioaspen.se/movies/film-jazz-fran-polen-na-zawsze-melomani-melomaner-for-alltid/",
+        "hall": "Salong 1",
+        "audio_language": "PL",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-12-07T18:00:00",
+        "normalized_date": "07.12",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-11-15T13:16:12.371637+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "film-jazz-fran-polen-komeda-osobisty-komeda-personligen",
+    "url": "https://www.bioaspen.se/movies/film-jazz-fran-polen-komeda-osobisty-komeda-personligen/",
+    "title": "Film & jazz från Polen: Komeda osobisty / Komeda personligen",
+    "director": "Igor Mertyn",
+    "duration": "1 tim 15 min",
+    "language": "PL",
+    "description": "”Komeda personligen” är en unik berättelse om Krzysztof Komeda, en polsk jazzikon, pianist och kompositör, vars musik har erövrat jazzälskarnas hjärtan i hela världen och öppnat dörren till Hollywood för Komeda. ”Komeda personligen” är en biografisk film men också en personlig resa bland minnen med Komedas styvson Tomek Lach som guide. Han ger sig ut på en symbolisk färd från Warszawa till Ustronie Morskie vid Östersjökusten, där Komedas musikaliska karriär tog sin början 1952.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7409/1080/d8f11be2-a904-477e-8888-32a4b3db100c.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-12-08T18:00:00",
+        "display_text": "Tuesday 8 December 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "08.12",
+        "ticket_url": "https://www.bioaspen.se/movies/film-jazz-fran-polen-komeda-osobisty-komeda-personligen/",
+        "hall": "Salong 1",
+        "audio_language": "PL",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-12-08T18:00:00",
+        "normalized_date": "08.12",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-11-15T13:16:12.371649+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "film-jazz-fran-polen-jazz-nocy-generala-jazz-i-generalens-natt",
+    "url": "https://www.bioaspen.se/movies/film-jazz-fran-polen-jazz-nocy-generala-jazz-i-generalens-natt/",
+    "title": "Film & Jazz från Polen: Jazz nocy generała / Jazz i generalens natt - + samtal",
+    "director": "",
+    "duration": "1 tim 40 min",
+    "language": "PL",
+    "description": "Mer än 40 år senare hittar journalisten och musikproducenten Hirek Wrona i pianisten Wojciech Karolaks arkiv en inspelning från festivalen natten mellan 12 och 13 december. Tack vare den kan filmens publik få återuppleva de dramatiska timmarna vid krigstillståndets införande. Banden bevarades tack vare Jan Cegiełka, som lyckades föra bort dem så att polisen inte fick tag i dem.Filmen rekonstruerar stämningen på festivalen och påminner om dess unika ställning på den polska jazzscenen. I Kalisz uppträdde kända musiker som Wojciech Karolak, Zbigniew Namysłowski, Krzysztof Sadowski, Janusz Skowron, Włodzimierz Gulgowski och Stanisław Sojka.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7410/1080/e055f28e-2e10-4326-a316-77d4ec7f49e6.webp",
+    "showtimes": [
+      {
+        "datetime": "2026-12-08T20:00:00",
+        "display_text": "Tuesday 8 December 2026 at 20:00",
+        "time": "20:00",
+        "date_section": "08.12",
+        "ticket_url": "https://www.bioaspen.se/movies/film-jazz-fran-polen-jazz-nocy-generala-jazz-i-generalens-natt/",
+        "hall": "Salong 1",
+        "audio_language": "PL",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-12-08T20:00:00",
+        "normalized_date": "08.12",
+        "normalized_time": "20:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-11-15T13:16:12.371659+00:00",
     "source": "bioaspen"
   }
 ]
