@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:19:28.462536+00:00",
+    "scraped_at": "2026-11-16T14:32:27.800304+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 29455,
@@ -67,7 +67,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:19:28.462786+00:00",
+    "scraped_at": "2026-11-16T14:32:27.800535+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
@@ -114,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:19:28.463118+00:00",
+    "scraped_at": "2026-11-16T14:32:27.800871+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 5279,
@@ -161,7 +161,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:19:28.463227+00:00",
+    "scraped_at": "2026-11-16T14:32:27.800971+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
@@ -206,7 +206,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:19:28.463500+00:00",
+    "scraped_at": "2026-11-16T14:32:27.801214+00:00",
     "source": "fagelbla"
   },
   {
@@ -232,7 +232,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:19:28.463683+00:00",
+    "scraped_at": "2026-11-16T14:32:27.801382+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1621,
@@ -277,7 +277,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:19:28.463756+00:00",
+    "scraped_at": "2026-11-16T14:32:27.801485+00:00",
     "source": "fagelbla"
   },
   {
@@ -303,7 +303,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:19:28.463840+00:00",
+    "scraped_at": "2026-11-16T14:32:27.802652+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1170608,
@@ -349,7 +349,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:19:28.463901+00:00",
+    "scraped_at": "2026-11-16T14:32:27.802775+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1170608,
@@ -395,15 +395,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:19:28.463993+00:00",
+    "scraped_at": "2026-11-16T14:32:27.802925+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 20334,
       "title": "The Shop Around the Corner",
       "overview": "Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal.",
       "release_date": "1940-01-12",
-      "rating": 8.051,
-      "vote_count": 888,
+      "rating": 8.047,
+      "vote_count": 889,
       "genres": [
         "Comedy",
         "Drama",
@@ -442,7 +442,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:19:28.464053+00:00",
+    "scraped_at": "2026-11-16T14:32:27.803016+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 562,
@@ -450,7 +450,7 @@
       "overview": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
       "release_date": "1988-07-15",
       "rating": 7.817,
-      "vote_count": 12868,
+      "vote_count": 12872,
       "genres": [
         "Action",
         "Thriller"
@@ -488,15 +488,15 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:19:28.464170+00:00",
+    "scraped_at": "2026-11-16T14:32:27.803188+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1585,
       "title": "It's a Wonderful Life",
       "overview": "George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
       "release_date": "1946-12-20",
-      "rating": 8.3,
-      "vote_count": 5166,
+      "rating": 8.28,
+      "vote_count": 5167,
       "genres": [
         "Drama",
         "Family",
@@ -535,7 +535,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:19:28.465068+00:00",
+    "scraped_at": "2026-11-16T14:32:27.803292+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,

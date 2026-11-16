@@ -44,14 +44,14 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:16:54.453025",
+    "scraped_at": "2026-11-16T14:29:32.330525",
     "source": "biorio",
     "tmdb": {
       "id": 27327,
       "title": "Phantom of the Paradise",
       "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
       "release_date": "1974-10-31",
-      "rating": 7.463,
+      "rating": 7.5,
       "vote_count": 802,
       "genres": [
         "Drama",
@@ -94,7 +94,7 @@
           "date": "2026-12-10",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 32,
+          "ticketsSold": 36,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -155,15 +155,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:16:59.303092",
+    "scraped_at": "2026-11-16T14:29:37.920705",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
       "title": "Tokyo Godfathers",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
-      "rating": 7.93,
-      "vote_count": 1597,
+      "rating": 7.928,
+      "vote_count": 1598,
       "genres": [
         "Animation",
         "Drama",
@@ -229,22 +229,22 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:17:01.846281",
+    "scraped_at": "2026-11-16T14:29:41.130819",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
       "title": "Fanny and Alexander",
       "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
       "release_date": "1982-12-17",
-      "rating": 7.755,
+      "rating": 7.8,
       "vote_count": 934,
       "genres": [
         "Fantasy",
         "Drama",
         "Mystery"
       ],
-      "poster_path": "/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+      "poster_path": "/hINIehr41DPZ4jB0aKoymGJML4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hINIehr41DPZ4jB0aKoymGJML4.jpg",
       "backdrop_path": "/8reX3CMog1QHqGoym2Esvuk5MnK.jpg",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/8reX3CMog1QHqGoym2Esvuk5MnK.jpg",
       "imdb_id": "tt0083922",
@@ -298,7 +298,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-15T13:17:10.160060",
+    "scraped_at": "2026-11-16T14:29:50.922198",
     "source": "biorio",
     "tmdb": {
       "id": 34070,

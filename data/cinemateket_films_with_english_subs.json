@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-11-15T13:17:36.975169",
+    "scraped_at": "2026-11-16T14:30:15.309253",
     "tmdb": {
       "id": 1645551,
       "title": "Spring Wind - The Awakening",
@@ -54,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-15T13:17:42.997832"
+    "scraped_at": "2026-11-16T14:30:21.740122"
   },
   {
     "film_id": "11804",
@@ -73,7 +73,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-15T13:17:52.482835",
+    "scraped_at": "2026-11-16T14:30:32.691003",
     "tmdb": {
       "id": 179464,
       "title": "A Gentleman in Top Hat and Tails",
@@ -111,7 +111,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-15T13:17:59.503236",
+    "scraped_at": "2026-11-16T14:30:42.949925",
     "tmdb": {
       "id": 198531,
       "title": "Somewhere Beyond Love",
@@ -150,7 +150,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-15T13:18:03.018961",
+    "scraped_at": "2026-11-16T14:30:46.722674",
     "tmdb": {
       "id": 63215,
       "title": "Toute une nuit",
@@ -189,7 +189,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-11-15T13:18:10.124987",
+    "scraped_at": "2026-11-16T14:30:56.308363",
     "tmdb": {
       "id": 1247214,
       "title": "Heroine in the Dust",
@@ -225,7 +225,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-15T13:18:13.486680",
+    "scraped_at": "2026-11-16T14:31:00.496163",
     "tmdb": {
       "id": 35861,
       "title": "Chikamatsu Monogatari",
@@ -264,7 +264,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-15T13:18:18.949086",
+    "scraped_at": "2026-11-16T14:31:06.935892",
     "tmdb": {
       "id": 648127,
       "title": "Gefahren der Großstadt-Straße",
@@ -303,7 +303,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-15T13:18:22.511488",
+    "scraped_at": "2026-11-16T14:31:10.932179",
     "tmdb": {
       "id": 379340,
       "title": "Drama på slottet",
@@ -341,7 +341,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-15T13:18:25.906698",
+    "scraped_at": "2026-11-16T14:31:14.840389",
     "tmdb": {
       "id": 939949,
       "title": "Huahua's Dazzling World and its Myriad Temptations",
@@ -379,7 +379,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-15T13:18:40.737526"
+    "scraped_at": "2026-11-16T14:31:32.560578"
   },
   {
     "film_id": "10040",
@@ -398,14 +398,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-15T13:18:47.777596",
+    "scraped_at": "2026-11-16T14:31:41.038664",
     "tmdb": {
       "id": 19,
       "title": "Metropolis",
       "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
       "release_date": "1927-01-10",
-      "rating": 8.085,
-      "vote_count": 3268,
+      "rating": 8.084,
+      "vote_count": 3270,
       "genres": [
         "Drama",
         "Science Fiction"
@@ -437,7 +437,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-11-15T13:18:56.719153"
+    "scraped_at": "2026-11-16T14:31:51.463931"
   },
   {
     "film_id": "14116",
@@ -456,7 +456,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-15T13:19:01.878422",
+    "scraped_at": "2026-11-16T14:31:57.583425",
     "tmdb": {
       "id": 1136837,
       "title": "Caught by the Tides",
@@ -494,7 +494,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-11-15T13:19:04.968528",
+    "scraped_at": "2026-11-16T14:32:01.431251",
     "tmdb": {
       "id": 68004,
       "title": "Center Stage",
@@ -534,7 +534,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-15T13:19:10.288642",
+    "scraped_at": "2026-11-16T14:32:07.598548",
     "tmdb": {
       "id": 66959,
       "title": "Shop Girls of Paris",
@@ -572,7 +572,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-15T13:19:15.737698",
+    "scraped_at": "2026-11-16T14:32:13.680211",
     "tmdb": {
       "id": 59484,
       "title": "Le Pont du Nord",
@@ -612,7 +612,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-15T13:19:18.885290",
+    "scraped_at": "2026-11-16T14:32:17.477188",
     "tmdb": {
       "id": 221723,
       "title": "Derailed",
@@ -652,7 +652,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-15T13:19:22.296429",
+    "scraped_at": "2026-11-16T14:32:21.137086",
     "tmdb": {
       "id": 181735,
       "title": "A Fishy Story",
