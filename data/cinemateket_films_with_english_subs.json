@@ -1,43 +1,5 @@
 [
   {
-    "film_id": "14113",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14113&cityId=1",
-    "title": "Originaltitel: Ébredés",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "mån 16/11 kl. 18:00",
-        "normalized_datetime": "2026-11-16T18:00:00",
-        "normalized_date": "16.11",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Mauritz"
-    ],
-    "scraped_at": "2026-11-16T14:30:15.309253",
-    "tmdb": {
-      "id": 1645551,
-      "title": "Spring Wind - The Awakening",
-      "overview": "Follows the birth of a political and social movement from the inside, with Péter Magyar as its face. For more than a year, the filmmakers accompanied him on country tours, campaign sites, and background conversations, as well as being present in those quiet, intimate moments – many times in his own home – that have remained hidden from the public until now.",
-      "release_date": "2026-03-12",
-      "rating": 8.2,
-      "vote_count": 10,
-      "genres": [
-        "Documentary"
-      ],
-      "poster_path": "/9mvoVo2I7HeODEjFl1ryH66sc5x.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9mvoVo2I7HeODEjFl1ryH66sc5x.jpg",
-      "backdrop_path": "/o7WlgJCVD1bUN2Ig4a8Y4hWZB1n.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/o7WlgJCVD1bUN2Ig4a8Y4hWZB1n.jpg",
-      "imdb_id": "tt40381358",
-      "runtime": 101,
-      "budget": 0,
-      "revenue": 940144
-    }
-  },
-  {
     "film_id": "14101",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14101&cityId=1",
     "title": "Originaltitel: Histoire(s) du cinéma 3b & Nya vågen",
@@ -54,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-16T14:30:21.740122"
+    "scraped_at": "2026-11-17T15:21:17.888572"
   },
   {
     "film_id": "11804",
@@ -73,7 +35,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-16T14:30:32.691003",
+    "scraped_at": "2026-11-17T15:21:27.693305",
     "tmdb": {
       "id": 179464,
       "title": "A Gentleman in Top Hat and Tails",
@@ -111,7 +73,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-16T14:30:42.949925",
+    "scraped_at": "2026-11-17T15:21:35.145272",
     "tmdb": {
       "id": 198531,
       "title": "Somewhere Beyond Love",
@@ -150,7 +112,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-16T14:30:46.722674",
+    "scraped_at": "2026-11-17T15:21:38.905881",
     "tmdb": {
       "id": 63215,
       "title": "Toute une nuit",
@@ -189,7 +151,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-11-16T14:30:56.308363",
+    "scraped_at": "2026-11-17T15:21:46.681417",
     "tmdb": {
       "id": 1247214,
       "title": "Heroine in the Dust",
@@ -225,7 +187,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-16T14:31:00.496163",
+    "scraped_at": "2026-11-17T15:21:50.021832",
     "tmdb": {
       "id": 35861,
       "title": "Chikamatsu Monogatari",
@@ -264,7 +226,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-16T14:31:06.935892",
+    "scraped_at": "2026-11-17T15:21:55.533235",
     "tmdb": {
       "id": 648127,
       "title": "Gefahren der Großstadt-Straße",
@@ -303,7 +265,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-16T14:31:10.932179",
+    "scraped_at": "2026-11-17T15:21:59.164759",
     "tmdb": {
       "id": 379340,
       "title": "Drama på slottet",
@@ -341,7 +303,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-16T14:31:14.840389",
+    "scraped_at": "2026-11-17T15:22:02.492739",
     "tmdb": {
       "id": 939949,
       "title": "Huahua's Dazzling World and its Myriad Temptations",
@@ -379,7 +341,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-16T14:31:32.560578"
+    "scraped_at": "2026-11-17T15:22:18.100070"
   },
   {
     "film_id": "10040",
@@ -398,7 +360,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-16T14:31:41.038664",
+    "scraped_at": "2026-11-17T15:22:25.848082",
     "tmdb": {
       "id": 19,
       "title": "Metropolis",
@@ -437,7 +399,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-11-16T14:31:51.463931"
+    "scraped_at": "2026-11-17T15:22:35.426376"
   },
   {
     "film_id": "14116",
@@ -456,7 +418,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-16T14:31:57.583425",
+    "scraped_at": "2026-11-17T15:22:40.844325",
     "tmdb": {
       "id": 1136837,
       "title": "Caught by the Tides",
@@ -494,7 +456,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-11-16T14:32:01.431251",
+    "scraped_at": "2026-11-17T15:22:44.224933",
     "tmdb": {
       "id": 68004,
       "title": "Center Stage",
@@ -534,7 +496,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-16T14:32:07.598548",
+    "scraped_at": "2026-11-17T15:22:49.911002",
     "tmdb": {
       "id": 66959,
       "title": "Shop Girls of Paris",
@@ -572,7 +534,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-16T14:32:13.680211",
+    "scraped_at": "2026-11-17T15:22:55.520076",
     "tmdb": {
       "id": 59484,
       "title": "Le Pont du Nord",
@@ -612,7 +574,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-16T14:32:17.477188",
+    "scraped_at": "2026-11-17T15:22:59.048460",
     "tmdb": {
       "id": 221723,
       "title": "Derailed",
@@ -652,7 +614,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-16T14:32:21.137086",
+    "scraped_at": "2026-11-17T15:23:02.717405",
     "tmdb": {
       "id": 181735,
       "title": "A Fishy Story",

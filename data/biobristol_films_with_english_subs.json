@@ -27,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-11-16T14:29:03.175327+00:00",
+    "scraped_at": "2026-11-17T15:20:14.044187+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 4499,
@@ -57,8 +57,8 @@
     "director": "Sergei Loznitsa",
     "duration": "99 min",
     "language": "Tyska",
-    "description": "*FRUKOST BIO! Bara 139kr med visningen!*\nSamarbete med OFF och 50 % rabatt för deras medlemmar*\n\nQ&A med regissören Sergei Loznitsa efter visningen. \n\nInspired by W.G. Sebald's book and based on WWII archive footage, the film puts forward the question: Is it morally acceptable to use civilian population as a means of war? Is it possible to justify mass destruction for the sake of higher \"moral\" ideals? The question remains as relevant today, as it was 80 years ago, and its urgency is tragically manifested in current political events.",
-    "poster_url": "https://mars-images.imgix.net/1793269145428?auto=compress&w=1200&fit=max",
+    "description": "*FRUKOST BIO! Bara 139kr med visningen!*\nSamarbete med OFF och 50 % rabatt för deras medlemmar*\n\nVisningen följs av ett regissörssamtal med Sergei Loznitsa (över videolänk) och Martin Grennberger, filmskribent och filmcurator.\n\nInspired by W.G. Sebald's book and based on WWII archive footage, the film puts forward the question: Is it morally acceptable to use civilian population as a means of war? Is it possible to justify mass destruction for the sake of higher \"moral\" ideals? The question remains as relevant today, as it was 80 years ago, and its urgency is tragically manifested in current political events.",
+    "poster_url": "https://images.filmgrail.com/1793269145428?optimizer=image&width=1200",
     "showtimes": [
       {
         "datetime": "2026-11-22T11:00:00",
@@ -78,7 +78,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-11-16T14:29:04.474511+00:00",
+    "scraped_at": "2026-11-17T15:20:14.569159+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 958000,

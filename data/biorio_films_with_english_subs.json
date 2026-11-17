@@ -44,7 +44,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-16T14:29:32.330525",
+    "scraped_at": "2026-11-17T15:20:36.920040",
     "source": "biorio",
     "tmdb": {
       "id": 27327,
@@ -52,7 +52,7 @@
       "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
       "release_date": "1974-10-31",
       "rating": 7.5,
-      "vote_count": 802,
+      "vote_count": 803,
       "genres": [
         "Drama",
         "Horror",
@@ -132,7 +132,7 @@
           "date": "2026-12-17",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 31,
+          "ticketsSold": 33,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -155,15 +155,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-16T14:29:37.920705",
+    "scraped_at": "2026-11-17T15:20:42.029894",
     "source": "biorio",
     "tmdb": {
       "id": 13398,
       "title": "Tokyo Godfathers",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.",
       "release_date": "2003-12-05",
-      "rating": 7.928,
-      "vote_count": 1598,
+      "rating": 7.926,
+      "vote_count": 1599,
       "genres": [
         "Animation",
         "Drama",
@@ -229,7 +229,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-16T14:29:41.130819",
+    "scraped_at": "2026-11-17T15:20:44.312286",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -298,15 +298,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-16T14:29:50.922198",
+    "scraped_at": "2026-11-17T15:20:54.946952",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
       "title": "Songs from the Second Floor",
       "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
       "release_date": "2000-10-06",
-      "rating": 7.04,
-      "vote_count": 336,
+      "rating": 7.025,
+      "vote_count": 337,
       "genres": [
         "Drama",
         "Comedy"
