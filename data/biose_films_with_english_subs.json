@@ -1,1 +1,55 @@
-[]
+[
+  {
+    "film_id": "arsta-folkets-hus-50726",
+    "url": "https://bio.se/biografer/arsta-folkets-hus/film/50726/den-alskade",
+    "title": "Den älskade",
+    "director": "",
+    "duration": "135 min",
+    "language": "Spanska",
+    "genre": "Drama",
+    "description": "Vissa historier går inte att regissera.\nDen legendariske filmregissören Esteban Martínez är lika omtalad för sina filmer som för ett förflutet präglat av våld och utsvävningar. När han erbjuder sin dotter Emilia en roll i sin nya film, under förevändningen att hjälpa hennes stagnerade skådespelarkarriär, tvingas de åter närma sig varandra efter många år utan kontakt. Men att leva så nära varandra under inspelningen väcker inte bara gamla känslor till liv - det river också upp sår som aldrig riktigt har läkt.\nDen hyllade regissören Rodrigo Sorogoyen återvänder med ett intensivt och känsloladdat familjedrama med Oscarbelönade Javier Bardem i huvudrollen.",
+    "poster_url": "https://wp3-prod-bucket.s3.eu-central-1.amazonaws.com/app/uploads/2026/11/16092436/fkb-asset-1000027461-poster-99893e8f.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-12-28T18:00:00",
+        "display_text": "Monday 28 December 2026 at 18:00",
+        "time": "18:00",
+        "date_section": "28.12",
+        "ticket_url": "https://bio.se/bokning/cinemaId/2230/sessionId/525",
+        "hall": "Salongen",
+        "audio_language": "Spanska",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2026-12-28T18:00:00",
+        "normalized_date": "28.12",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Årsta Folkets Hus"
+    ],
+    "data_source": "Årsta Folkets Hus",
+    "scraped_at": "2026-11-18T14:56:15.358024+00:00",
+    "source": "biose",
+    "tmdb": {
+      "id": 249799,
+      "title": "Parnell",
+      "overview": "Irish politician Charles Stewart Parnell struggles to free his country from English rule, but his relationship with married Katie O'Shea threatens to ruin all his dreams of freedom.",
+      "release_date": "1937-06-04",
+      "rating": 4.6,
+      "vote_count": 9,
+      "genres": [
+        "Drama",
+        "History",
+        "Romance"
+      ],
+      "poster_path": "/MbIhb6dGNkGnXQGo7bgpdFgjLI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/MbIhb6dGNkGnXQGo7bgpdFgjLI.jpg",
+      "backdrop_path": "/hqJDUypgh2CdpoaENIfhuEFhj5T.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/hqJDUypgh2CdpoaENIfhuEFhj5T.jpg",
+      "imdb_id": "tt0029377",
+      "runtime": 118,
+      "budget": 1547000,
+      "revenue": 1576000
+    }
+  }
+]

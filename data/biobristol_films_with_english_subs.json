@@ -27,15 +27,15 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-11-17T15:20:14.044187+00:00",
+    "scraped_at": "2026-11-18T14:55:21.058199+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 4499,
       "title": "Pepi, Luci, Bom",
       "overview": "After a young heiress is assaulted by a policeman, she seeks revenge by befriending the policeman’s mousy wife and introducing her to her circle of outrageous punk friends.",
       "release_date": "1980-10-27",
-      "rating": 6.3,
-      "vote_count": 199,
+      "rating": 6.295,
+      "vote_count": 200,
       "genres": [
         "Comedy",
         "Drama"
@@ -78,7 +78,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-11-17T15:20:14.569159+00:00",
+    "scraped_at": "2026-11-18T14:55:21.616073+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 958000,

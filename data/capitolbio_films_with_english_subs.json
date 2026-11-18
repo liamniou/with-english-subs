@@ -10,32 +10,32 @@
     "poster_url": "https://capitol.mycloudcinema.com/media/stills/4658/1920/31bece04-0d7f-466b-a923-7209826b2e5d.jpg",
     "showtimes": [
       {
-        "datetime": "2026-11-18T18:00:00",
-        "display_text": "Wednesday 18 November 2026 at 18:00",
+        "datetime": "2026-11-19T18:00:00",
+        "display_text": "Thursday 19 November 2026 at 18:00",
         "time": "18:00",
-        "date_section": "18.11",
+        "date_section": "19.11",
         "ticket_url": "https://www.capitolbio.se/boka/52972",
         "booking_id": "52972",
         "hall": "Salong 2",
         "audio_language": "EN",
         "subtitle_language": "EN",
-        "normalized_datetime": "2026-11-18T18:00:00",
-        "normalized_date": "18.11",
+        "normalized_datetime": "2026-11-19T18:00:00",
+        "normalized_date": "19.11",
         "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Capitol"
     ],
-    "scraped_at": "2026-11-17T15:21:11.286384+00:00",
+    "scraped_at": "2026-11-18T14:56:18.915769+00:00",
     "source": "capitolbio",
     "tmdb": {
       "id": 31225,
       "title": "Paris Is Burning",
       "overview": "Where does voguing come from, and what, exactly, is throwing shade? This landmark documentary provides a vibrant snapshot of the 1980s through the eyes of New York City's African American and Latinx Harlem drag-ball scene. Made over seven years, PARIS IS BURNING offers an intimate portrait of rival fashion \"houses,\" from fierce contests for trophies to house mothers offering sustenance in a world rampant with homophobia, transphobia, racism, AIDS, and poverty. Featuring legendary voguers, drag queens, and trans women — including Willi Ninja, Pepper LaBeija, Dorian Corey, and Venus Xtravaganza.",
       "release_date": "1991-03-13",
-      "rating": 8.0,
-      "vote_count": 579,
+      "rating": 8.01,
+      "vote_count": 580,
       "genres": [
         "Documentary",
         "History"
