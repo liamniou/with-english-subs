@@ -225,6 +225,8 @@ function getShowtimeUrl(film, showtime) {
 const filmsGrid = document.getElementById('films-grid');
 const loading = document.getElementById('loading');
 const noResults = document.getElementById('no-results');
+const resultsCount = document.getElementById('results-count');
+const filtersForm = document.getElementById('filters-form');
 
 const searchInput = document.getElementById('search-input');
 const cinemaFilter = document.getElementById('cinema-filter');
@@ -377,10 +379,7 @@ async function loadFilms() {
         loading.style.display = 'none';
     } catch (error) {
         console.error('Error loading films:', error);
-        loading.innerHTML = `
-            <i class="fas fa-exclamation-triangle"></i>
-            <span>Error loading films. Please try again later.</span>
-        `;
+        loading.textContent = 'Error loading films. Please try again later.';
     }
 }
 
@@ -388,6 +387,8 @@ async function loadFilms() {
 
 // Setup event listeners for filters
 function setupEventListeners() {
+    // Filtering is live, so pressing Enter in the search field must not reload the page
+    filtersForm.addEventListener('submit', (e) => e.preventDefault());
     searchInput.addEventListener('input', debounce(filterFilms, 300));
     cinemaFilter.addEventListener('change', filterFilms);
     genreFilter.addEventListener('change', filterFilms);
@@ -457,14 +458,18 @@ function getEarliestShowtime(film) {
 
 // Display films in the grid
 function displayFilms(films) {
+    resultsCount.textContent = films.length === allFilms.length
+        ? ''
+        : `${films.length} of ${allFilms.length} films`;
+
     if (films.length === 0) {
-        filmsGrid.style.display = 'none';
-        noResults.style.display = 'block';
+        filmsGrid.hidden = true;
+        noResults.hidden = false;
         return;
     }
     
-    filmsGrid.style.display = 'grid';
-    noResults.style.display = 'none';
+    filmsGrid.hidden = false;
+    noResults.hidden = true;
     
     // Sort films by their earliest showtime
     const sortedFilms = [...films].sort((a, b) => {
@@ -473,85 +478,96 @@ function displayFilms(films) {
         return dateA - dateB;
     });
     
-    filmsGrid.innerHTML = sortedFilms.map(film => createFilmCard(film)).join('');
+    filmsGrid.innerHTML = sortedFilms.map((film, index) => createFilmCard(film, index)).join('');
+}
+
+const VISIBLE_SHOWTIMES = 4;
+
+function escapeAttr(value) {
+    return String(value).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+}
+
+function icon(name) {
+    return `<svg class="icon" aria-hidden="true"><use href="#i-${name}"/></svg>`;
+}
+
+function createShowtimeItem(film, title, showtime) {
+    const formattedDateTime = formatShowtime(showtime);
+    const when = `${formattedDateTime.date} ${formattedDateTime.display}`.trim();
+    const cinema = cleanCinemaName(showtime.source_cinema || showtime.source_cinemas?.[0] || '');
+    const showtimeUrl = getShowtimeUrl(film, showtime);
+    const calendarUrl = createGoogleCalendarUrl(film, showtime, formattedDateTime);
+
+    return `
+        <li class="showtime">
+            <a href="${showtimeUrl}" target="_blank" rel="noopener" class="showtime-link">
+                <span class="showtime-time">${when}</span>
+                ${cinema ? `<span class="cinema-name">${cinema}</span>` : ''}
+            </a>
+            ${calendarUrl ? `
+                <a href="${calendarUrl}" target="_blank" rel="noopener" class="calendar-button"
+                   title="Add to Google Calendar"
+                   aria-label="${escapeAttr(`Add ${title}, ${when}${cinema ? ` at ${cinema}` : ''}, to Google Calendar`)}">
+                    ${icon('calendar-plus')}
+                </a>
+            ` : ''}
+        </li>`;
 }
 
 // Create HTML for a film card
-function createFilmCard(film) {
+function createFilmCard(film, index = 0) {
     const tmdb = film.tmdb || {};
-    const fullTitle = tmdb.title || film.title || 'Untitled';
-    const title = fullTitle.length > 20 ? fullTitle.substring(0, 20) + '...' : fullTitle;
+    const title = tmdb.title || film.title || 'Untitled';
     const overview = tmdb.overview || film.description || extractOverviewFromDetails(film.original_details) || 'No description available.';
     const rating = tmdb.rating ? tmdb.rating.toFixed(1) : null;
-            const genres = tmdb.genres?.slice(0, 2) || [];
+    const genres = tmdb.genres?.slice(0, 2) || [];
     const year = tmdb.release_date ? new Date(tmdb.release_date).getFullYear() : '';
-    const runtime = tmdb.runtime ? `${tmdb.runtime} min` : '';
     const posterUrl = tmdb.poster_url || film.poster_url || '';
     const directors = tmdb.directors?.slice(0, 2) || [];
-    
-    return `
-        <div class="film-card">
-            <div class="film-poster">
-                ${posterUrl ? 
-                    `<img src="${posterUrl}" alt="${title}" loading="lazy">` : 
-                    `<div class="placeholder"><i class="fas fa-film"></i></div>`
-                }
-                ${rating ? `
-                    <div class="film-rating">
-                        <span class="star">★</span>
-                        <span>${rating}</span>
-                    </div>
-                ` : ''}
-            </div>
-            <div class="film-content">
-                <h3 class="film-title">${title}</h3>
-                <p class="film-overview">${overview}</p>
-                
-                <div class="film-meta">
-                    ${year ? `<span class="meta-item year">${year}</span>` : ''}
-                    ${genres.map(genre => `<span class="meta-item genre">${genre}</span>`).join('')}
-                    ${directors.length > 0 ? `<span class="meta-item">📽️ ${directors.join(', ')}</span>` : ''}
-                    ${film.data_sources && film.data_sources.length > 1 ? 
-                        film.data_sources.map(source => `<span class="meta-item source multi-cinema"> ${source}</span>`).join('') :
-                        film.data_source ? `<span class="meta-item source"> ${film.data_source}</span>` : ''
-                    }
-                </div>
-                
-                ${film.showtimes?.length > 0 ? `
-                    <div class="film-showtimes">
-                        <div class="showtimes-title">
-                            <i class="fas fa-clock"></i>
-                            Showtimes
-                        </div>
-                        ${getSortedShowtimes(film.showtimes).slice(0, 5).map(showtime => {
-                        const formattedDateTime = formatShowtime(showtime);
-                        const rawCinemaInfo = showtime.source_cinema || showtime.source_cinemas?.[0] || '';
-                        const cleanedCinemaInfo = cleanCinemaName(rawCinemaInfo);
-                        const showtimeUrl = getShowtimeUrl(film, showtime);
-                        const calendarUrl = createGoogleCalendarUrl(film, showtime, formattedDateTime);
-                        
-                        return `
-                        <div class="showtime-container">
-                            <a href="${showtimeUrl}" target="_blank" class="showtime-link">
-                                <div class="showtime ${film.data_sources && film.data_sources.length > 1 ? 'multi-cinema' : ''}">
-                                    <div class="showtime-time">${formattedDateTime.date} ${formattedDateTime.display}${cleanedCinemaInfo ? ` <span class="cinema-name">${cleanedCinemaInfo}</span>` : ''}</div>
-                                    <div class="showtime-arrow">→</div>
-                                </div>
-                            </a>
-                            ${calendarUrl ? `
-                                <a href="${calendarUrl}" target="_blank" class="calendar-button" title="Add to Google Calendar">
-                                    <i class="fas fa-calendar-plus"></i>
-                                </a>
-                            ` : ''}
-                        </div>`;
-                    }).join('')}
-                    ${film.showtimes.length > 5 ? `<div class="more-showtimes">+${film.showtimes.length - 5} more showtimes...</div>` : ''}
-                    </div>
-                ` : ''}
-                
+    const filmUrl = film.url || film.urls?.[0] || '';
+    const sources = film.data_sources?.length > 1 ? film.data_sources : (film.data_source ? [film.data_source] : []);
+    const showtimes = getSortedShowtimes(film.showtimes);
+    const visibleShowtimes = showtimes.slice(0, VISIBLE_SHOWTIMES);
+    const extraShowtimes = showtimes.slice(VISIBLE_SHOWTIMES);
+    // The first poster is the likely LCP element; the rest can load lazily
+    const posterLoading = index === 0 ? 'fetchpriority="high"' : 'loading="lazy"';
 
-            </div>
-        </div>
+    return `
+        <article class="film-card">
+            ${posterUrl
+                ? `<img class="film-poster" src="${posterUrl}" alt="" width="500" height="750" ${posterLoading} decoding="async">`
+                : `<div class="film-poster placeholder">${icon('film')}</div>`
+            }
+            ${rating ? `
+                <span class="film-rating"><span aria-hidden="true">★</span><span class="visually-hidden">Rating</span> ${rating}</span>
+            ` : ''}
+            <h2 class="film-title">
+                ${filmUrl ? `<a href="${filmUrl}" target="_blank" rel="noopener">${title}</a>` : title}
+            </h2>
+            <p class="film-overview">${overview}</p>
+            <ul class="film-meta">
+                ${year ? `<li class="meta-item year">${year}</li>` : ''}
+                ${genres.map(genre => `<li class="meta-item genre">${genre}</li>`).join('')}
+                ${directors.length > 0 ? `<li class="meta-item director"><span class="visually-hidden">Directed by </span>${directors.join(', ')}</li>` : ''}
+                ${sources.map(source => `<li class="meta-item source">${source}</li>`).join('')}
+            </ul>
+            <footer class="film-showtimes">
+                ${showtimes.length > 0 ? `
+                    <h3 class="showtimes-title">Showtimes</h3>
+                    <ul class="showtime-list">
+                        ${visibleShowtimes.map(showtime => createShowtimeItem(film, title, showtime)).join('')}
+                    </ul>
+                    ${extraShowtimes.length > 0 ? `
+                        <details class="more-showtimes">
+                            <summary>${extraShowtimes.length} more showtime${extraShowtimes.length === 1 ? '' : 's'}</summary>
+                            <ul class="showtime-list">
+                                ${extraShowtimes.map(showtime => createShowtimeItem(film, title, showtime)).join('')}
+                            </ul>
+                        </details>
+                    ` : ''}
+                ` : ''}
+            </footer>
+        </article>
     `;
 }
 
@@ -654,3 +670,18 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+
+// Hide the sticky filter bar while scrolling down where CSS scroll-state queries aren't supported
+if (!CSS.supports('container-type', 'scroll-state')) {
+    const header = document.querySelector('.site-header');
+    const bar = document.querySelector('.top-bar');
+    let lastY = scrollY;
+    addEventListener('scroll', () => {
+        // Clamp so rubber-band overscroll at the top or bottom doesn't flip the scroll direction
+        const y = Math.max(0, Math.min(scrollY, document.documentElement.scrollHeight - innerHeight));
+        if (y === lastY) return;
+        // Hide only once the bar is stuck to the top, so it never slides over the page header
+        bar?.classList.toggle('is-hidden', y > lastY && y > header.offsetHeight + bar.offsetHeight);
+        lastY = y;
+    }, { passive: true });
+}
