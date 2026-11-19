@@ -493,7 +493,8 @@ function icon(name) {
 
 function createShowtimeItem(film, title, showtime) {
     const formattedDateTime = formatShowtime(showtime);
-    const when = `${formattedDateTime.date} ${formattedDateTime.display}`.trim();
+    // Only upcoming showtimes are listed, so the day and month are unambiguous without a year
+    const when = `${formattedDateTime.date.replace(/\.\d{4}$/, '')} ${formattedDateTime.display}`.trim();
     const cinema = cleanCinemaName(showtime.source_cinema || showtime.source_cinemas?.[0] || '');
     const showtimeUrl = getShowtimeUrl(film, showtime);
     const calendarUrl = createGoogleCalendarUrl(film, showtime, formattedDateTime);
@@ -502,7 +503,7 @@ function createShowtimeItem(film, title, showtime) {
         <li class="showtime">
             <a href="${showtimeUrl}" target="_blank" rel="noopener" class="showtime-link">
                 <span class="showtime-time">${when}</span>
-                ${cinema ? `<span class="cinema-name">${cinema}</span>` : ''}
+                ${cinema ? `<span class="cinema-name" title="${escapeAttr(cinema)}">${cinema}</span>` : ''}
             </a>
             ${calendarUrl ? `
                 <a href="${calendarUrl}" target="_blank" rel="noopener" class="calendar-button"
