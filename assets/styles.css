@@ -563,8 +563,10 @@ html {
     flex: none;
     display: grid;
     place-items: center;
-    inline-size: 2.5rem;
+    /* Wider than the two-line showtime row is tall, so it reads as a landscape button */
+    inline-size: 4rem;
     min-block-size: 2.5rem;
+    font-size: 1.125rem;
     color: var(--on-brand);
     background: var(--brand);
     border: 1px solid transparent;
