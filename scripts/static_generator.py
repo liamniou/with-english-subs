@@ -348,10 +348,7 @@ async function loadFilms() {
         populateFilters();
     } catch (error) {
         console.error('Error loading films:', error);
-        loading.innerHTML = `
-            <i class="fas fa-exclamation-triangle"></i>
-            <span>Error loading films. Please try again later.</span>
-        `;
+        loading.textContent = 'Error loading films. Please try again later.';
     }
 }'''
         

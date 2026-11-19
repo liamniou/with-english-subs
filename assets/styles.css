@@ -1,883 +1,539 @@
-/* Reset and base styles */
-* {
-    margin: 0;
-    padding: 0;
+/* Design tokens */
+:root {
+    --brand-light: oklch(45% 0.17 285);
+    --brand-dark: oklch(80% 0.11 285);
+    --on-brand-light: white;
+    --on-brand-dark: oklch(22% 0.04 285);
+    --brand-soft-light: oklch(95% 0.03 285);
+    --brand-soft-dark: oklch(30% 0.05 285);
+    --bg-light: oklch(98% 0.004 285);
+    --bg-dark: oklch(16% 0.01 285);
+    --surface-light: white;
+    --surface-dark: oklch(21% 0.012 285);
+    --text-light: oklch(24% 0.02 285);
+    --text-dark: oklch(94% 0.008 285);
+    --muted-light: oklch(46% 0.02 285);
+    --muted-dark: oklch(76% 0.015 285);
+    --border-light: oklch(90% 0.01 285);
+    --border-dark: oklch(32% 0.015 285);
+    --control-border-light: oklch(62% 0.02 285);
+    --control-border-dark: oklch(58% 0.02 285);
+    --chip-light: oklch(95% 0.006 285);
+    --chip-dark: oklch(27% 0.012 285);
+
+    --brand: var(--brand-light);
+    --on-brand: var(--on-brand-light);
+    --brand-soft: var(--brand-soft-light);
+    --bg: var(--bg-light);
+    --surface: var(--surface-light);
+    --text: var(--text-light);
+    --muted: var(--muted-light);
+    --border: var(--border-light);
+    --control-border: var(--control-border-light);
+    --chip: var(--chip-light);
+
+    @media (prefers-color-scheme: dark) {
+        --brand: var(--brand-dark);
+        --on-brand: var(--on-brand-dark);
+        --brand-soft: var(--brand-soft-dark);
+        --bg: var(--bg-dark);
+        --surface: var(--surface-dark);
+        --text: var(--text-dark);
+        --muted: var(--muted-dark);
+        --border: var(--border-dark);
+        --control-border: var(--control-border-dark);
+        --chip: var(--chip-dark);
+    }
+
+    /* Same deep violet in both schemes, always with white text */
+    --header-bg: oklch(32% 0.13 285);
+
+    --page-width: 75rem;
+    --gutter: clamp(1rem, 4vw, 2rem);
+    --page-padding: max(var(--gutter), (100% - var(--page-width)) / 2);
+
+    color-scheme: light dark;
+    accent-color: var(--brand);
+}
+
+*,
+*::before,
+*::after {
     box-sizing: border-box;
 }
 
 body {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    line-height: 1.6;
-    color: #2d3748;
-    background-color: #ffffff;
+    margin: 0;
+    font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+    line-height: 1.5;
+    color: var(--text);
+    background: var(--bg);
 }
 
-/* Header and Navigation */
-.header {
-    background: #ffffff;
-    border-bottom: 1px solid #e2e8f0;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+h1, h2, h3 {
+    margin: 0;
+    text-wrap: balance;
 }
 
-.nav-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 2rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 4rem;
+p {
+    margin: 0;
 }
 
-.logo {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    font-size: 1.25rem;
-    font-weight: 600;
-    color: #1a202c;
+[hidden] {
+    display: none !important;
 }
 
-.logo i {
-    color: #3182ce;
-    font-size: 1.5rem;
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+    border: 0;
 }
 
-.nav-links {
-    display: flex;
-    gap: 2rem;
+.icon {
+    width: 1em;
+    height: 1em;
+    flex: none;
 }
 
-.nav-links a {
-    text-decoration: none;
-    color: #4a5568;
-    font-weight: 500;
-    transition: color 0.2s ease;
+:focus-visible {
+    outline: 2px solid var(--brand);
+    outline-offset: 2px;
 }
 
-.nav-links a:hover {
-    color: #3182ce;
-}
-
-/* Hero Section */
-.hero {
-    background: 
-        linear-gradient(135deg, rgba(102, 126, 234, 0.85) 0%, rgba(118, 75, 162, 0.85) 100%),
-        url('https://images.unsplash.com/photo-1509356843151-3e7d96241e11?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') center/cover no-repeat;
+/* Header: compact, so the films start near the top of the screen */
+.site-header {
+    padding: 1.25rem var(--page-padding) 1rem;
+    background: var(--header-bg);
     color: white;
-    padding: 4rem 2rem;
-    text-align: center;
-    position: relative;
 }
 
-.hero-content {
-    max-width: 1000px;
-    margin: 0 auto;
-}
-
-.hero-title {
-    font-size: 3rem;
+.site-header h1 {
+    font-size: clamp(1.375rem, 1rem + 1.5vw, 2rem);
     font-weight: 700;
-    margin-bottom: 1rem;
     line-height: 1.2;
-}
-
-.hero-subtitle {
-    font-size: 1.25rem;
-    margin-bottom: 2rem;
-    opacity: 0.9;
-    font-weight: 300;
 }
 
 .stats {
     display: flex;
-    justify-content: center;
-    gap: 3rem;
-    margin-top: 2rem;
+    flex-wrap: wrap;
+    gap: 0.25rem 1.25rem;
+    margin-top: 0.375rem;
+    color: oklch(88% 0.04 285);
+    font-size: 0.9375rem;
 }
 
-.stat {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.stats strong {
+    color: white;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
 }
 
-.stat-number {
-    font-size: 2rem;
-    font-weight: 700;
-    line-height: 1;
+/* Filter bar */
+html {
+    container: page / scroll-state;
 }
 
-.stat-label {
-    font-size: 0.875rem;
-    opacity: 0.8;
-    font-weight: 400;
-}
-
-/* Controls Section */
 .controls {
-    background: #f7fafc;
-    padding: 1rem 2rem;
-    border-bottom: 1px solid #e2e8f0;
+    display: block;
+    position: relative;
+    z-index: 2;
 }
 
 .controls-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: flex;
-    gap: 0.75rem;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.5rem 0.75rem;
+    padding: 0.75rem var(--page-padding);
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
 }
 
-/* Search Box */
+.field {
+    display: grid;
+    gap: 0.25rem;
+    min-width: 0;
+}
+
+.field-search {
+    grid-column: 1 / -1;
+}
+
+.field label {
+    font-size: 0.8125rem;
+    font-weight: 600;
+    color: var(--muted);
+}
+
+.field input,
+.field select {
+    width: 100%;
+    min-block-size: 2.75rem;
+    padding: 0.5rem 0.75rem;
+    font: inherit;
+    font-size: 1rem;
+    color: var(--text);
+    background: var(--surface);
+    border: 1px solid var(--control-border);
+    border-radius: 0.5rem;
+}
+
+.field input:focus-visible,
+.field select:focus-visible {
+    outline: 2px solid var(--brand);
+    outline-offset: 1px;
+    border-color: var(--brand);
+}
+
 .search-box {
     position: relative;
-    width: 300px;
 }
 
-.search-box i {
+.search-box .icon {
     position: absolute;
-    left: 0.75rem;
+    inset-inline-start: 0.75rem;
     top: 50%;
-    transform: translateY(-50%);
-    color: #718096;
-    font-size: 0.875rem;
+    translate: 0 -50%;
+    color: var(--muted);
+    pointer-events: none;
 }
 
 .search-box input {
-    width: 100%;
-    padding: 0.5rem 0.75rem 0.5rem 2rem;
-    border: 1px solid #cbd5e0;
-    border-radius: 0.375rem;
-    font-size: 0.875rem;
-    background: white;
-    transition: border-color 0.2s, box-shadow 0.2s;
+    padding-inline-start: 2.25rem;
 }
 
-.search-box input:focus {
-    outline: none;
-    border-color: #3182ce;
-    box-shadow: 0 0 0 3px rgba(49, 130, 206, 0.1);
-}
-
-.filter-select {
-    padding: 0.5rem 0.75rem;
-    border: 1px solid #cbd5e0;
-    border-radius: 0.375rem;
-    font-size: 0.875rem;
-    background: white;
-    color: #4a5568;
-    cursor: pointer;
-    transition: border-color 0.2s, box-shadow 0.2s;
-    min-width: 120px;
-    max-width: 160px;
-}
-
-.filter-select:focus {
-    outline: none;
-    border-color: #3182ce;
-    box-shadow: 0 0 0 3px rgba(49, 130, 206, 0.1);
-}
-
-.filter-select:hover {
-    border-color: #a0aec0;
-}
-
-/* Responsive Design for Controls */
-@media (max-width: 768px) {
+/* On wider screens the bar is a single row (< 12% of the viewport), so it can stay sticky */
+@media (min-width: 48rem) {
     .controls {
-        padding: 0.75rem 1rem;
+        position: sticky;
+        top: 0;
+        container: filterbar / scroll-state;
+        /* The bar's box stays in place while the form slides away, so let clicks through it */
+        pointer-events: none;
     }
-    
+
     .controls-container {
-        flex-wrap: wrap;
-        gap: 0.5rem;
+        grid-template-columns: minmax(0, 2fr) repeat(2, minmax(0, 1fr));
+        pointer-events: auto;
+        box-shadow: 0 1px 3px oklch(0% 0 0 / 0.08);
     }
-    
-    .search-box {
-        flex: 1 1 100%;
-        max-width: none;
-        margin-bottom: 0.25rem;
-    }
-    
-    .filter-select {
-        flex: 1;
-        min-width: 100px;
-        max-width: none;
+
+    .field-search {
+        grid-column: auto;
     }
 }
 
-.filters-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 1.5rem;
+@media (prefers-reduced-motion: no-preference) {
+    .controls-container {
+        transition: translate 0.25s ease;
+    }
 }
 
-.filter-group {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
+/* Hide the bar while scrolling down, once it is stuck to the top; bring it back on scroll up */
+@container page scroll-state((scrolled: bottom) and (scrollable: top)) {
+    @container filterbar scroll-state(stuck: top) {
+        .controls-container {
+            translate: 0 -100%;
+        }
+    }
 }
 
-.filter-group label {
-    font-weight: 500;
-    color: #4a5568;
+/* Fallback set from script.js where scroll-state queries aren't supported */
+.controls.is-hidden .controls-container {
+    translate: 0 -100%;
+}
+
+/* Keep the bar visible while it contains keyboard focus */
+.controls:focus-within .controls-container {
+    translate: none;
+}
+
+/* Main content */
+.main-content {
+    display: block;
+    padding: 1.5rem var(--page-padding) 3rem;
+}
+
+.results-count {
+    margin-bottom: 1rem;
+    color: var(--muted);
     font-size: 0.875rem;
 }
 
-.filter-group input,
-.filter-group select {
-    padding: 0.75rem;
-    border: 1px solid #cbd5e0;
-    border-radius: 0.5rem;
-    font-size: 0.875rem;
-    background: white;
-    transition: border-color 0.2s ease, box-shadow 0.2s ease;
-}
-
-.filter-group input:focus,
-.filter-group select:focus {
-    outline: none;
-    border-color: #3182ce;
-    box-shadow: 0 0 0 3px rgba(49, 130, 206, 0.1);
-}
-
-/* Films Section */
-.films {
-    padding: 4rem 2rem;
-    background: #ffffff;
-}
-
-.films-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding-bottom: 4rem;
+.results-count:empty {
+    margin: 0;
 }
 
 .loading {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1rem;
-    padding: 4rem;
-    color: #718096;
-}
-
-.loading i {
-    font-size: 2rem;
-}
-
-/* No Results */
-.no-results {
-    display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 4rem;
+    gap: 0.75rem;
+    padding: 3rem 1rem;
+    color: var(--muted);
+}
+
+.spinner {
+    width: 1.25rem;
+    height: 1.25rem;
+    border: 2px solid var(--border);
+    border-top-color: var(--brand);
+    border-radius: 50%;
+
+    @media (prefers-reduced-motion: no-preference) {
+        animation: spin 1s linear infinite;
+    }
+}
+
+@keyframes spin {
+    to { rotate: 1turn; }
+}
+
+.no-results {
+    padding: 3rem 1rem;
     text-align: center;
-    color: #718096;
-    gap: 1rem;
+    color: var(--muted);
 }
 
-.no-results i {
-    font-size: 3rem;
-    color: #ed8936;
-    margin-bottom: 1rem;
+.no-results h2 {
+    margin-bottom: 0.25rem;
+    font-size: 1.25rem;
+    color: var(--text);
 }
 
-.no-results h3 {
-    margin: 0;
-    font-size: 1.5rem;
-    font-weight: 600;
-    color: #2d3748;
-}
-
-.no-results p {
-    margin: 0;
-    font-size: 1rem;
-}
-
+/* Film grid: as many columns as fit, cards share row tracks so titles, text and showtimes line up */
 .films-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 2rem;
-    margin-top: 2rem;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr));
+    /* Row spacing comes from the card margin; a row gap would also open up inside each subgridded card */
+    column-gap: 1.5rem;
 }
 
-/* Film Card */
 .film-card {
-    background: white;
-    border-radius: 1rem;
-    overflow: hidden;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.07);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    border: 1px solid #e2e8f0;
-    display: flex;
-    flex-direction: column;
+    position: relative;
+    display: grid;
+    grid-row: span 5;
+    grid-template-rows: subgrid;
+    row-gap: 0;
+    margin-block-end: 2rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 0.75rem;
+    overflow: clip;
+
+    @media (prefers-reduced-motion: no-preference) {
+        animation: card-in 0.4s ease both;
+    }
 }
 
-.film-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+@keyframes card-in {
+    from {
+        opacity: 0;
+        translate: 0 0.75rem;
+    }
+}
+
+.film-card > :not(.film-poster, .film-rating) {
+    margin-inline: 1.25rem;
 }
 
 .film-poster {
-    position: relative;
-    height: 400px;
-    background: linear-gradient(45deg, #f7fafc, #edf2f7);
-    overflow: hidden;
-}
-
-.film-poster img {
+    grid-row: 1;
+    display: block;
     width: 100%;
-    height: 100%;
+    height: auto;
+    aspect-ratio: 2 / 3;
     object-fit: cover;
+    background: var(--chip);
 }
 
-.film-poster .placeholder {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-    color: #a0aec0;
+.film-poster.placeholder {
+    display: grid;
+    place-items: center;
+    color: var(--muted);
     font-size: 3rem;
 }
 
 .film-rating {
     position: absolute;
     top: 0.75rem;
-    right: 0.75rem;
-    background: rgba(0, 0, 0, 0.8);
-    color: white;
-    padding: 0.25rem 0.5rem;
-    border-radius: 0.25rem;
-    font-size: 0.75rem;
+    inset-inline-end: 0.75rem;
+    padding: 0.125rem 0.5rem;
+    font-size: 0.8125rem;
     font-weight: 600;
-    display: flex;
-    align-items: center;
-    gap: 0.25rem;
+    color: white;
+    background: oklch(15% 0 0 / 0.8);
+    border: 1px solid transparent;
+    border-radius: 999px;
 }
 
-.film-rating .star {
-    color: #f6e05e;
-}
-
-.film-content {
-    padding: 1.5rem;
-    display: flex;
-    flex-direction: column;
-    flex: 1;
+.film-rating > [aria-hidden] {
+    color: oklch(85% 0.15 90);
 }
 
 .film-title {
+    grid-row: 2;
+    margin-block-start: 1rem;
     font-size: 1.125rem;
     font-weight: 600;
-    margin-bottom: 0.5rem;
-    color: #1a202c;
     line-height: 1.3;
+    overflow-wrap: break-word;
+}
+
+.film-title a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.film-title a:hover {
+    text-decoration: underline;
+    text-decoration-color: var(--brand);
+    text-underline-offset: 0.15em;
 }
 
 .film-overview {
-    color: #4a5568;
+    grid-row: 3;
+    margin-block-start: 0.5rem;
+    color: var(--muted);
     font-size: 0.875rem;
-    line-height: 1.5;
-    margin-bottom: 1rem;
-    flex: 1;
+    text-wrap: pretty;
     display: -webkit-box;
-    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
     overflow: hidden;
-    max-height: 4.2rem;
 }
 
 .film-meta {
+    grid-row: 4;
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5rem;
-    margin-bottom: 1rem;
+    align-content: start;
+    gap: 0.375rem;
+    margin-block: 0.75rem 0;
+    padding: 0;
+    list-style: none;
 }
 
 .meta-item {
-    background: #edf2f7;
-    color: #4a5568;
-    padding: 0.25rem 0.5rem;
-    border-radius: 0.25rem;
+    padding: 0.125rem 0.5rem;
     font-size: 0.75rem;
     font-weight: 500;
-}
-
-.meta-item.genre {
-    background: #e6fffa;
-    color: #234e52;
-}
-
-.meta-item.year {
-    background: #fef5e7;
-    color: #744210;
+    color: var(--muted);
+    background: var(--chip);
+    border-radius: 999px;
 }
 
 .meta-item.source {
-    background: #f0f8ff;
-    color: #1e3a8a;
+    color: var(--brand);
+    background: var(--brand-soft);
 }
 
 .film-showtimes {
-    margin-bottom: 1rem;
-    border-top: 1px solid #e2e8f0;
+    grid-row: 5;
+    margin-block: 1rem 1.25rem;
     padding-top: 1rem;
+    border-top: 1px solid var(--border);
 }
 
 .showtimes-title {
-    font-size: 0.875rem;
-    font-weight: 600;
-    color: #2d3748;
     margin-bottom: 0.5rem;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    color: var(--muted);
+}
+
+.showtime-list {
+    display: grid;
+    gap: 0.375rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
 
 .showtime {
-    background: #f7fafc;
-    border: 1px solid #e2e8f0;
-    padding: 0.375rem 0.5rem;
-    border-radius: 0.375rem;
-    font-size: 0.8rem;
     display: flex;
-    flex-direction: column;
-    gap: 0.125rem;
-    min-width: 0; /* Allow content to shrink */
+    gap: 0.375rem;
+}
+
+.showtime-link {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0 0.5rem;
+    padding: 0.5rem 0.625rem;
+    color: var(--text);
+    text-decoration: none;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 0.5rem;
+    transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.showtime-link:hover {
+    border-color: var(--brand);
+    background: var(--brand-soft);
 }
 
 .showtime-time {
-    font-weight: 600;
-    color: #3182ce;
     font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--brand);
+    font-variant-numeric: tabular-nums;
     white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
 }
 
 .cinema-name {
-    font-weight: 400;
-    font-style: normal;
-    font-size: 0.7rem;
-    color: #6b7280;
-    margin-left: 0.25rem;
-    white-space: nowrap;
+    font-size: 0.8125rem;
+    color: var(--muted);
 }
 
-
-
-.film-footer {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding-top: 1rem;
-    border-top: 1px solid #e2e8f0;
-    margin-top: auto;
+.calendar-button {
+    flex: none;
+    display: grid;
+    place-items: center;
+    inline-size: 2.5rem;
+    min-block-size: 2.5rem;
+    color: var(--on-brand);
+    background: var(--brand);
+    border: 1px solid transparent;
+    border-radius: 0.5rem;
+    transition: background-color 0.15s ease;
 }
 
-.film-link {
-    color: #3182ce;
-    text-decoration: none;
+.calendar-button:hover {
+    background: color-mix(in oklab, var(--brand), black 15%);
+}
+
+.more-showtimes {
+    margin-top: 0.5rem;
+}
+
+.more-showtimes summary {
+    padding-block: 0.25rem;
+    font-size: 0.8125rem;
     font-weight: 500;
-    font-size: 0.875rem;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    transition: color 0.2s ease;
+    color: var(--brand);
+    cursor: pointer;
 }
 
-.film-link:hover {
-    color: #2c5aa0;
-}
-
-.film-runtime {
-    color: #718096;
-    font-size: 0.75rem;
-}
-
-/* No Results */
-.no-results {
-    text-align: center;
-    padding: 4rem;
-    color: #718096;
-}
-
-.no-results i {
-    font-size: 3rem;
-    margin-bottom: 1rem;
-    opacity: 0.5;
-}
-
-.no-results h3 {
-    font-size: 1.5rem;
-    margin-bottom: 0.5rem;
+.more-showtimes[open] summary {
+    margin-bottom: 0.375rem;
 }
 
 /* Footer */
 .footer {
-    background: #1a202c;
-    color: white;
-    padding: 3rem 2rem 1rem;
-}
-
-.footer-content {
-    max-width: 1200px;
-    margin: 0 auto;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 2rem;
-    margin-bottom: 2rem;
-}
-
-.footer-section h3 {
-    font-size: 1.125rem;
-    font-weight: 600;
-    margin-bottom: 1rem;
-}
-
-.footer-section p {
-    color: #a0aec0;
-    line-height: 1.6;
-}
-
-.social-links {
-    display: flex;
-    gap: 1rem;
-}
-
-.social-links a {
-    color: #a0aec0;
-    font-size: 1.25rem;
-    transition: color 0.2s ease;
-}
-
-.social-links a:hover {
-    color: white;
-}
-
-.footer-bottom {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding-top: 2rem;
-    border-top: 1px solid #2d3748;
-    text-align: center;
-    color: #a0aec0;
+    gap: 0.25rem;
+    padding: 1.5rem var(--page-padding) 2rem;
     font-size: 0.875rem;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .nav-container {
-        padding: 0 1rem;
-    }
-    
-    .nav-links {
-        gap: 1rem;
-    }
-    
-    .hero {
-        padding: 3rem 1rem;
-    }
-    
-    .hero-title {
-        font-size: 2rem;
-    }
-    
-    .stats {
-        gap: 1.5rem;
-    }
-    
-    .controls {
-        padding: 1.5rem;
-    }
-    
-    .filters-container {
-        grid-template-columns: 1fr;
-        gap: 1rem;
-    }
-    
-    .films {
-        padding: 2rem 1rem;
-    }
-    
-    .films-grid {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 1rem;
-    }
-    
-    .footer {
-        padding: 2rem 1rem 1rem;
-    }
-    
-    .footer-content {
-        grid-template-columns: 1fr;
-        gap: 1.5rem;
-    }
-}
-
-@media (max-width: 480px) {
-    .nav-links {
-        display: none;
-    }
-    
-    .hero-title {
-        font-size: 1.75rem;
-    }
-    
-    .hero-subtitle {
-        font-size: 1rem;
-    }
-    
-    .stats {
-        flex-direction: column;
-        gap: 1rem;
-    }
-    
-    .films-grid {
-        grid-template-columns: 1fr;
-        gap: 1rem;
-    }
-    
-    .film-card {
-        border-radius: 0;
-        border-left: none;
-        border-right: none;
-    }
-    
-    .film-poster {
-        height: auto;
-    }
-    
-    .film-poster img {
-        display: block;
-        height: auto;
-    }
-    
-    .film-poster .placeholder {
-        height: 200px;
-    }
-    
-    /* Mobile adjustments for calendar button and showtimes */
-    .showtime-container {
-        gap: 0.375rem;
-    }
-    
-    .calendar-button {
-        width: 2rem;
-        height: 2rem;
-        font-size: 0.7rem;
-    }
-    
-    .calendar-button i {
-        font-size: 0.7rem;
-    }
-    
-    .showtime {
-        padding: 0.25rem 0.375rem;
-    }
-    
-    .showtime-time {
-        font-size: 0.8rem;
-    }
-    
-    .cinema-name {
-        font-size: 0.65rem;
-    }
-}
-
-/* Animation for film cards appearing */
-.film-card {
-    opacity: 0;
-    animation: fadeInUp 0.6s ease forwards;
-}
-
-.film-card:nth-child(1) { animation-delay: 0.1s; }
-.film-card:nth-child(2) { animation-delay: 0.2s; }
-.film-card:nth-child(3) { animation-delay: 0.3s; }
-.film-card:nth-child(4) { animation-delay: 0.4s; }
-.film-card:nth-child(5) { animation-delay: 0.5s; }
-.film-card:nth-child(6) { animation-delay: 0.6s; }
-
-@keyframes fadeInUp {
-    from {
-        opacity: 0;
-        transform: translateY(30px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
-
-/* Multi-Cinema Support Styles */
-.meta-item.source.multi-cinema {
-    background: #fef3cd;
-    color: #92400e;
-    border: 1px solid #fbbf24;
-    position: relative;
-}
-
-.meta-item.source.multi-cinema::before {
-    content: "🎭 ";
-    font-size: 0.75rem;
-}
-
-.showtime.multi-cinema {
-    background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
-    border-left: 3px solid #3182ce;
-}
-
-
-
-.more-showtimes {
-    text-align: center;
-    color: #718096;
-    font-size: 0.8rem;
-    font-style: italic;
-    padding: 0.5rem;
-    background: #f7fafc;
-    border-radius: 0.25rem;
-    margin-top: 0.5rem;
-}
-
-.multi-cinema-links {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-    width: 100%;
-}
-
-.film-link.multi-link {
-    background: #f8fafc;
-    border: 1px solid #e2e8f0;
-    padding: 0.5rem;
-    border-radius: 0.25rem;
-    justify-content: space-between;
-    transition: all 0.2s ease;
-}
-
-.film-link.multi-link:hover {
-    background: #edf2f7;
-    border-color: #3182ce;
-    transform: translateY(-1px);
-}
-
-/* Highlight multi-cinema films */
-.film-card:has(.multi-cinema) {
-    box-shadow: 0 0 0 2px #fbbf24, 0 10px 15px -3px rgba(0, 0, 0, 0.1);
-}
-
-.film-card:has(.meta-item.multi-cinema)::before {
-    content: "🎭 Multiple Cinemas";
-    position: absolute;
-    top: 0.5rem;
-    right: 0.5rem;
-    background: #fbbf24;
-    color: #92400e;
-    font-size: 0.7rem;
-    font-weight: 600;
-    padding: 0.25rem 0.5rem;
-    border-radius: 1rem;
-    z-index: 10;
-}
-
-/* Clickable Showtimes */
-.showtime-container {
-    display: flex;
-    align-items: stretch;
-    gap: 0.5rem;
-    margin-bottom: 0.375rem;
-}
-
-.showtime-link {
-    text-decoration: none;
-    color: inherit;
-    display: flex;
-    border-radius: 8px;
-    transition: all 0.2s ease;
-    flex: 1;
-    min-width: 0; /* Allow flex item to shrink below its content size */
-}
-
-.showtime-link:hover {
-    transform: translateY(-1px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-}
-
-.showtime-link:hover .showtime {
-    background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
-    border-left-color: #0ea5e9;
-}
-
-.showtime {
-    position: relative;
-    cursor: pointer;
-    flex: 1;
-    justify-content: center;
-}
-
-.showtime-arrow {
-    position: absolute;
-    right: 0.5rem;
-    top: 50%;
-    transform: translateY(-50%);
-    color: #64748b;
-    font-weight: bold;
-    font-size: 0.8rem;
-    opacity: 0;
-    transition: opacity 0.2s ease;
-}
-
-.showtime-link:hover .showtime-arrow {
-    opacity: 1;
-}
-
-/* Calendar Button */
-.calendar-button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 2.275rem;
-    height: 2.275rem;
-    background: #3182ce;
-    color: white;
-    border-radius: 0.375rem;
-    text-decoration: none;
-    transition: all 0.2s ease;
-    font-size: 0.75rem;
-    flex-shrink: 0;
-}
-
-.calendar-button:hover {
-    background: #2c5aa0;
-    transform: translateY(-1px);
-    box-shadow: 0 4px 12px rgba(49, 130, 206, 0.3);
-    color: white;
-}
-
-.calendar-button:active {
-    transform: translateY(0);
-}
-
-.calendar-button i {
-    font-size: 0.75rem;
-}
-
-/* Loading spinner animation */
-@keyframes spin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-}
-
-.fa-spin {
-    animation: spin 1s linear infinite;
+    color: var(--muted);
+    border-top: 1px solid var(--border);
 }
