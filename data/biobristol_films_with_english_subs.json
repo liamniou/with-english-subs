@@ -27,7 +27,7 @@
     "cinemas": [
       "Bio Bristol"
     ],
-    "scraped_at": "2026-11-21T13:59:37.905684+00:00",
+    "scraped_at": "2026-11-22T13:53:18.109568+00:00",
     "source": "biobristol",
     "tmdb": {
       "id": 4499,
@@ -48,57 +48,6 @@
       "runtime": 82,
       "budget": 46000,
       "revenue": 332089
-    }
-  },
-  {
-    "film_id": "the-natural-history-of-destruction",
-    "url": "https://www.biobristol.se/f/the-natural-history-of-destruction/590",
-    "title": "The natural history of destruction",
-    "director": "Sergei Loznitsa",
-    "duration": "99 min",
-    "language": "Tyska",
-    "description": "*FRUKOST BIO! Bara 139kr med visningen!*\nSamarbete med OFF och 50 % rabatt för deras medlemmar*\n\nVisningen följs av ett regissörssamtal med Sergei Loznitsa (över videolänk) och Martin Grennberger, filmskribent och filmcurator.\n\nInspired by W.G. Sebald's book and based on WWII archive footage, the film puts forward the question: Is it morally acceptable to use civilian population as a means of war? Is it possible to justify mass destruction for the sake of higher \"moral\" ideals? The question remains as relevant today, as it was 80 years ago, and its urgency is tragically manifested in current political events.",
-    "poster_url": "https://images.filmgrail.com/1793269145428?optimizer=image&width=1200",
-    "showtimes": [
-      {
-        "datetime": "2026-11-22T11:00:00",
-        "display_text": "Sunday 22 November 2026 at 11:00",
-        "time": "11:00",
-        "date_section": "22.11",
-        "ticket_url": "https://www.biobristol.se/checkout?showId=6ae31ee01194106504945fe9",
-        "show_id": "6ae31ee01194106504945fe9",
-        "hall": "Bristol",
-        "audio_language": "",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-11-22T11:00:00",
-        "normalized_date": "22.11",
-        "normalized_time": "11:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Bristol"
-    ],
-    "scraped_at": "2026-11-21T13:59:38.790418+00:00",
-    "source": "biobristol",
-    "tmdb": {
-      "id": 958000,
-      "title": "The Natural History of Destruction",
-      "overview": "Is it morally acceptable to use the civilian population as yet another tool for waging war? Is it possible to justify death and destruction for the sake of supposedly lofty ideals? The question remains as pertinent today as it was at the beginning of World War II, and it is becoming increasingly urgent to answer, as countless tragedies have been caused by unethical political decisions.",
-      "release_date": "2023-03-16",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "poster_path": "/vkF18GeswhgQ9vHG27fHzFG4F8U.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vkF18GeswhgQ9vHG27fHzFG4F8U.jpg",
-      "backdrop_path": "/rYGjqLn8n0UUViqDX9ebSc3ngxI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/rYGjqLn8n0UUViqDX9ebSc3ngxI.jpg",
-      "imdb_id": "tt19725896",
-      "runtime": 110,
-      "budget": 0,
-      "revenue": 0
     }
   }
 ]
