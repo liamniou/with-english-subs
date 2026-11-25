@@ -1,35 +1,5 @@
 [
   {
-    "film_id": "impatience-of-the-heart",
-    "url": "https://www.bioaspen.se/movies/impatience-of-the-heart/",
-    "title": "Tyska tisdagar: Impatience of the Heart (Ungeduld des Herzens)",
-    "director": "Lauro Cress",
-    "duration": "1 tim 44 min",
-    "language": "DE",
-    "description": "Ett känsligt och gripande drama om kärlek, skuld, missförstånd och människans längtan efter att bli sedd.Baserad på Stefan Zweigs klassiska romanUngeduld des Herzens (Ungdomens dårskap)– en tidlös berättelse om medkänsla, ansvar och de konsekvenser som kan följa när goda avsikter inte räcker till.",
-    "poster_url": "https://biljetter.bioaspen.se/media/posters/6986/1080/0aded9d6-9c44-4580-8018-5bf561bfafdd.jpg",
-    "showtimes": [
-      {
-        "datetime": "2026-11-24T18:00:00",
-        "display_text": "Tuesday 24 November 2026 at 18:00",
-        "time": "18:00",
-        "date_section": "24.11",
-        "ticket_url": "https://www.bioaspen.se/movies/impatience-of-the-heart/",
-        "hall": "Salong 1",
-        "audio_language": "DE",
-        "subtitle_language": "EN",
-        "normalized_datetime": "2026-11-24T18:00:00",
-        "normalized_date": "24.11",
-        "normalized_time": "18:00"
-      }
-    ],
-    "cinemas": [
-      "Bio Aspen"
-    ],
-    "scraped_at": "2026-11-23T17:02:40.145717+00:00",
-    "source": "bioaspen"
-  },
-  {
     "film_id": "film-jazz-fran-polen-na-zawsze-melomani-melomaner-for-alltid",
     "url": "https://www.bioaspen.se/movies/film-jazz-fran-polen-na-zawsze-melomani-melomaner-for-alltid/",
     "title": "Film & Jazz från Polen: Na zawsze Melomani / Melomaner för alltid - med samtal & konsert",
@@ -56,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-11-23T17:02:40.145753+00:00",
+    "scraped_at": "2026-11-25T16:37:27.061460+00:00",
     "source": "bioaspen"
   },
   {
@@ -86,7 +56,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-11-23T17:02:40.145764+00:00",
+    "scraped_at": "2026-11-25T16:37:27.061494+00:00",
     "source": "bioaspen"
   },
   {
@@ -116,7 +86,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-11-23T17:02:40.145772+00:00",
+    "scraped_at": "2026-11-25T16:37:27.061507+00:00",
     "source": "bioaspen"
   }
 ]

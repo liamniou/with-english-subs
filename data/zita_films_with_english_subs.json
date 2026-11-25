@@ -1,5 +1,31 @@
 [
   {
+    "film_id": "eunic-selection",
+    "url": "https://zita.se/eunic-selection",
+    "title": "Eunic Selection",
+    "director": "",
+    "genre": "",
+    "duration": "75 minFrån 15 årEngelska",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "19:00",
+        "time": "19:00",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=4876",
+        "normalized_datetime": "2026-11-25T19:00:00",
+        "normalized_date": "25.11",
+        "normalized_time": "19:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-11-25T16:41:53.382490+00:00",
+    "source": "zita"
+  },
+  {
     "film_id": "nordic-competition",
     "url": "https://zita.se/nordic-competition",
     "title": "Nordic Competition",
@@ -22,8 +48,55 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-23T17:07:34.871228+00:00",
+    "scraped_at": "2026-11-25T16:41:59.455183+00:00",
     "source": "zita"
+  },
+  {
+    "film_id": "please",
+    "url": "https://zita.se/please",
+    "title": "Please",
+    "director": "",
+    "genre": "",
+    "duration": "Sverige25 nov 20269 minAnimerad film, kortfilm, BarntillåtenFolkets BioJohan EdströmEngelskaEngelska",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "18:30",
+        "time": "18:30",
+        "date": "",
+        "cinema": "(Zita 1)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5963",
+        "normalized_datetime": "2026-11-25T18:30:00",
+        "normalized_date": "25.11",
+        "normalized_time": "18:30"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-11-25T16:42:01.486746+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 1660526,
+      "title": "Please",
+      "overview": "PLEASE is a dark comedy about humankind’s desire to love and be loved. An animated short centred around neediness, intimacy and romance. In a world that preaches self-control, the film explores the vulnerable sides of ourselves we try to hide.",
+      "release_date": "2026-06-08",
+      "rating": 7.7,
+      "vote_count": 3,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "poster_path": "/Shw3N68WNNO7ySEjGiLTtLwjRJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/Shw3N68WNNO7ySEjGiLTtLwjRJ.jpg",
+      "backdrop_path": "/vFKLbwBGOTW73RPDRPIB6BGHahI.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vFKLbwBGOTW73RPDRPIB6BGHahI.jpg",
+      "imdb_id": "tt43437558",
+      "runtime": 9,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "the-bog",
@@ -48,25 +121,25 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-23T17:07:40.476256+00:00",
+    "scraped_at": "2026-11-25T16:42:05.437466+00:00",
     "source": "zita",
     "tmdb": {
-      "id": 1481197,
+      "id": 941406,
       "title": "The Bog",
-      "overview": "A boy's body is discovered in a peat field, and a local drunk confesses to a decades-old murder. Policeman Broze reopens the case and is forced to confront his own role in the tragic game played by boys 30 years ago—a day he can't remember or forget.",
-      "release_date": "2026-10-23",
-      "rating": 0.0,
-      "vote_count": 0,
+      "overview": "Young artist Toomas Haava returns from Paris, back to his brother's bog farm and wraps himself unintentionally in a conflict with the violent and terrifying Madjak, who is harassing a local girl, Hilda, also known as Wildcat. Enchanted by the mysterious beauty, Toomas finds himself in the middle of a fight for love.",
+      "release_date": "2022-02-18",
+      "rating": 3.3,
+      "vote_count": 3,
       "genres": [
-        "Drama",
-        "Crime"
+        "Thriller",
+        "Drama"
       ],
-      "poster_path": "/lnZY0Itm6cOTeonMOgxis3J9XGA.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lnZY0Itm6cOTeonMOgxis3J9XGA.jpg",
-      "backdrop_path": "/poRTl2I13ao9YaCE9xqbqdT4XBt.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/poRTl2I13ao9YaCE9xqbqdT4XBt.jpg",
-      "imdb_id": "tt39716823",
-      "runtime": 0,
+      "poster_path": "/6OEmLsZeFtWmuKbK01N1S9ELL9V.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6OEmLsZeFtWmuKbK01N1S9ELL9V.jpg",
+      "backdrop_path": "/pSo3DwSzweXR0pshSYpZ2JQobam.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pSo3DwSzweXR0pshSYpZ2JQobam.jpg",
+      "imdb_id": "tt13295004",
+      "runtime": 90,
       "budget": 0,
       "revenue": 0
     }

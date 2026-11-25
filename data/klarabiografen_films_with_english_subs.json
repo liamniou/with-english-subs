@@ -26,7 +26,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-23T17:05:33.429036+00:00",
+    "scraped_at": "2026-11-25T16:40:14.004250+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 607181,
@@ -77,24 +77,24 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-23T17:05:33.429295+00:00",
+    "scraped_at": "2026-11-25T16:40:14.004574+00:00",
     "source": "klarabiografen",
     "tmdb": {
-      "id": 1616878,
+      "id": 769643,
       "title": "Doggerland",
-      "overview": "Instead of finding a “proper” job, Alf, pushing 40, lives with his mum and drifts though Norrköping’s cultural scene. Chats & faces, routines & intuitions, local politics & everyday life – the intimate and the social, in black-and-white analogue images.",
-      "release_date": "2026-10-16",
+      "overview": "An illegal immigrant takes on an underground driving job with an unknown cargo, to gain UK citizenship from his criminal employers.",
+      "release_date": "2019-11-01",
       "rating": 0.0,
       "vote_count": 0,
       "genres": [
         "Drama"
       ],
-      "poster_path": "/jMFkXsqipwZSRP0913AWv8N5Ok9.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jMFkXsqipwZSRP0913AWv8N5Ok9.jpg",
-      "backdrop_path": "/sPchYj49C2eaEcBKFDTmdfvFXiy.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sPchYj49C2eaEcBKFDTmdfvFXiy.jpg",
-      "imdb_id": "tt39382662",
-      "runtime": 76,
+      "poster_path": "/nNf90VVYTRnVQAGdhWm31cMQyWe.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nNf90VVYTRnVQAGdhWm31cMQyWe.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt10542726",
+      "runtime": 16,
       "budget": 0,
       "revenue": 0
     }
@@ -126,7 +126,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-23T17:05:33.429647+00:00",
+    "scraped_at": "2026-11-25T16:40:14.005040+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 526031,
@@ -175,7 +175,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-23T17:05:33.429685+00:00",
+    "scraped_at": "2026-11-25T16:40:14.005120+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 449377,
@@ -222,7 +222,7 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-23T17:05:33.429789+00:00",
+    "scraped_at": "2026-11-25T16:40:14.005253+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 719803,
@@ -272,14 +272,14 @@
     "cinemas": [
       "Klarabiografen"
     ],
-    "scraped_at": "2026-11-23T17:05:33.429897+00:00",
+    "scraped_at": "2026-11-25T16:40:14.005325+00:00",
     "source": "klarabiografen",
     "tmdb": {
       "id": 3062,
       "title": "42nd Street",
       "overview": "Broadway director Julian Marsh needs just one more hit show so he can retire and recover his health. It looks like he just may pull it off until temperamental star Dorthy Brock breaks her ankle on the eve of the show's premiere and has to be replaced by her understudy Peggy.",
       "release_date": "1933-03-11",
-      "rating": 6.968,
+      "rating": 7.0,
       "vote_count": 235,
       "genres": [
         "Comedy",

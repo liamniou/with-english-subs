@@ -16,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-11-23T17:03:53.262785",
+    "scraped_at": "2026-11-25T16:38:39.135671",
     "tmdb": {
       "id": 1247214,
       "title": "Heroine in the Dust",
@@ -52,7 +52,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-23T17:03:57.477647",
+    "scraped_at": "2026-11-25T16:38:43.037080",
     "tmdb": {
       "id": 35861,
       "title": "Chikamatsu Monogatari",
@@ -91,7 +91,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-23T17:04:04.125276",
+    "scraped_at": "2026-11-25T16:38:49.489774",
     "tmdb": {
       "id": 648127,
       "title": "Gefahren der Großstadt-Straße",
@@ -130,7 +130,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-23T17:04:08.336083",
+    "scraped_at": "2026-11-25T16:38:53.932506",
     "tmdb": {
       "id": 379340,
       "title": "Drama på slottet",
@@ -168,7 +168,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-23T17:04:12.545580",
+    "scraped_at": "2026-11-25T16:38:57.861596",
     "tmdb": {
       "id": 939949,
       "title": "Huahua's Dazzling World and its Myriad Temptations",
@@ -206,7 +206,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-23T17:04:31.198819"
+    "scraped_at": "2026-11-25T16:39:16.168859"
   },
   {
     "film_id": "10040",
@@ -225,7 +225,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-23T17:04:40.193584",
+    "scraped_at": "2026-11-25T16:39:24.692552",
     "tmdb": {
       "id": 19,
       "title": "Metropolis",
@@ -264,7 +264,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-11-23T17:04:51.758276"
+    "scraped_at": "2026-11-25T16:39:35.502624"
   },
   {
     "film_id": "14116",
@@ -283,7 +283,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-23T17:04:58.371124",
+    "scraped_at": "2026-11-25T16:39:41.748681",
     "tmdb": {
       "id": 1136837,
       "title": "Caught by the Tides",
@@ -321,7 +321,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-11-23T17:05:02.563331",
+    "scraped_at": "2026-11-25T16:39:45.608335",
     "tmdb": {
       "id": 68004,
       "title": "Center Stage",
@@ -361,23 +361,24 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-23T17:05:09.170400",
+    "scraped_at": "2026-11-25T16:39:51.890607",
     "tmdb": {
-      "id": 66959,
-      "title": "Shop Girls of Paris",
-      "overview": "The struggles of a small business owner come to light in this film by director André Cayatte. The proprietor of a fabric shop, M. Baudu faces stiff competition when a department store moves in across the street, the first of its kind in 1860s Paris. On top of the stresses associated with the rival retailer, Baudu’s niece and two nephews take up residence with him after recently being orphaned. The niece, Denise Baudu, sees the writing on the wall for her uncle’s business so she takes a job as a shop girl with his competitor and despite her success the decision does not register well with the family.",
-      "release_date": "1943-07-20",
-      "rating": 7.1,
-      "vote_count": 9,
+      "id": 47612,
+      "title": "Au Bonheur des Dames",
+      "overview": "Denise, an orphaned girl, moves to Paris where she hopes to find work at her uncle's store. But the glamorous department store 'Aux Bonheur des Dames' across the street crushes all the little businesses around. She finds a position there.",
+      "release_date": "1930-07-03",
+      "rating": 6.3,
+      "vote_count": 36,
       "genres": [
-        "Drama"
+        "Drama",
+        "Romance"
       ],
-      "poster_path": "/zLTQBZc4c2utMjBcOuEahYuPPvO.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zLTQBZc4c2utMjBcOuEahYuPPvO.jpg",
-      "backdrop_path": "/aICf9reTMXIfNyJu2bfmOsdAPgv.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/aICf9reTMXIfNyJu2bfmOsdAPgv.jpg",
-      "imdb_id": "tt0154174",
-      "runtime": 82,
+      "poster_path": "/sVFvFFEMRJ1eUzD6nbYLSqwHi0d.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sVFvFFEMRJ1eUzD6nbYLSqwHi0d.jpg",
+      "backdrop_path": "/o5bRLCNBmWBCBluFlOLUgivdONs.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/o5bRLCNBmWBCBluFlOLUgivdONs.jpg",
+      "imdb_id": "tt0020656",
+      "runtime": 88,
       "budget": 0,
       "revenue": 0
     }
@@ -399,7 +400,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-23T17:05:15.690978",
+    "scraped_at": "2026-11-25T16:39:57.799739",
     "tmdb": {
       "id": 59484,
       "title": "Le Pont du Nord",
@@ -439,7 +440,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-23T17:05:19.923184",
+    "scraped_at": "2026-11-25T16:40:01.643677",
     "tmdb": {
       "id": 221723,
       "title": "Derailed",
@@ -479,7 +480,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-23T17:05:24.182881",
+    "scraped_at": "2026-11-25T16:40:05.268684",
     "tmdb": {
       "id": 181735,
       "title": "A Fishy Story",
