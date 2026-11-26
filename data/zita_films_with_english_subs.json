@@ -1,29 +1,48 @@
 [
   {
-    "film_id": "eunic-selection",
-    "url": "https://zita.se/eunic-selection",
-    "title": "Eunic Selection",
+    "film_id": "unknown-title",
+    "url": "https://zita.se/international-competition-2",
+    "title": "Unknown Title",
     "director": "",
     "genre": "",
-    "duration": "75 minFrån 15 årEngelska",
+    "duration": "flera68 minanimation, kortfilmFrån 11 årolikaengelska",
     "showtimes": [
       {
         "datetime": "",
-        "display_text": "19:00",
-        "time": "19:00",
+        "display_text": "19:30",
+        "time": "19:30",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=4876",
-        "normalized_datetime": "2026-11-25T19:00:00",
-        "normalized_date": "25.11",
-        "normalized_time": "19:00"
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=6077",
+        "normalized_datetime": "2026-11-26T19:30:00",
+        "normalized_date": "26.11",
+        "normalized_time": "19:30"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-25T16:41:53.382490+00:00",
-    "source": "zita"
+    "scraped_at": "2026-11-26T16:12:55.015594+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 949470,
+      "title": "Unknown Title",
+      "overview": "A short film by Andrei Ventslova",
+      "release_date": "1988-04-15",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "imdb_id": null,
+      "runtime": 1,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "nordic-competition",
@@ -34,10 +53,10 @@
     "duration": "Norden60 minengelska",
     "showtimes": [
       {
-        "datetime": "2026-11-27T18:00:00",
-        "display_text": "fre 27 nov 18:00",
+        "datetime": "",
+        "display_text": "i morgon 18:00",
         "time": "18:00",
-        "date": "fre 27 nov",
+        "date": "i morgon",
         "cinema": "(Zita 1)",
         "source_url": "https://zita.se/pages/ajax-screenings.php?id=5236",
         "normalized_datetime": "2026-11-27T18:00:00",
@@ -48,55 +67,8 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-25T16:41:59.455183+00:00",
+    "scraped_at": "2026-11-26T16:12:58.265032+00:00",
     "source": "zita"
-  },
-  {
-    "film_id": "please",
-    "url": "https://zita.se/please",
-    "title": "Please",
-    "director": "",
-    "genre": "",
-    "duration": "Sverige25 nov 20269 minAnimerad film, kortfilm, BarntillåtenFolkets BioJohan EdströmEngelskaEngelska",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "18:30",
-        "time": "18:30",
-        "date": "",
-        "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5963",
-        "normalized_datetime": "2026-11-25T18:30:00",
-        "normalized_date": "25.11",
-        "normalized_time": "18:30"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-11-25T16:42:01.486746+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 1660526,
-      "title": "Please",
-      "overview": "PLEASE is a dark comedy about humankind’s desire to love and be loved. An animated short centred around neediness, intimacy and romance. In a world that preaches self-control, the film explores the vulnerable sides of ourselves we try to hide.",
-      "release_date": "2026-06-08",
-      "rating": 7.7,
-      "vote_count": 3,
-      "genres": [
-        "Animation",
-        "Comedy",
-        "Drama"
-      ],
-      "poster_path": "/Shw3N68WNNO7ySEjGiLTtLwjRJ.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/Shw3N68WNNO7ySEjGiLTtLwjRJ.jpg",
-      "backdrop_path": "/vFKLbwBGOTW73RPDRPIB6BGHahI.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/vFKLbwBGOTW73RPDRPIB6BGHahI.jpg",
-      "imdb_id": "tt43437558",
-      "runtime": 9,
-      "budget": 0,
-      "revenue": 0
-    }
   },
   {
     "film_id": "the-bog",
@@ -121,7 +93,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-25T16:42:05.437466+00:00",
+    "scraped_at": "2026-11-26T16:13:03.332658+00:00",
     "source": "zita",
     "tmdb": {
       "id": 941406,

@@ -26,7 +26,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-11-25T16:37:27.061460+00:00",
+    "scraped_at": "2026-11-26T16:09:38.309164+00:00",
     "source": "bioaspen"
   },
   {
@@ -56,7 +56,7 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-11-25T16:37:27.061494+00:00",
+    "scraped_at": "2026-11-26T16:09:38.309199+00:00",
     "source": "bioaspen"
   },
   {
@@ -86,7 +86,37 @@
     "cinemas": [
       "Bio Aspen"
     ],
-    "scraped_at": "2026-11-25T16:37:27.061507+00:00",
+    "scraped_at": "2026-11-26T16:09:38.309214+00:00",
+    "source": "bioaspen"
+  },
+  {
+    "film_id": "crouching-tiger-hidden-dragon",
+    "url": "https://www.bioaspen.se/movies/crouching-tiger-hidden-dragon/",
+    "title": "Crouching Tiger, Hidden Dragon - Frukostbio",
+    "director": "Ang Lee",
+    "duration": "2 tim 00 min",
+    "language": "Kinesiska",
+    "description": "Stölden av ett mytomspunnet svärd utlöser en kedja av kärlek, svek och tyngdlagstrotsande dueller i Ang Lees fyrfaldigt Oscarbelönade hyllning till wuxia-genren. Utsökt harmoni mellan det progressiva och det klassiska, med svindlande koreografi av Hongkong-actionlegendaren Yuen Woo-ping. Den icke-engelskspråkiga film som spelat in näst mest pengar på amerikanska biografer genom tiderna.",
+    "poster_url": "https://biljetter.bioaspen.se/media/posters/7438/1080/834a7db3-d89c-48e3-9573-0ca581ffaaa9.jpg",
+    "showtimes": [
+      {
+        "datetime": "2027-05-02T10:00:00",
+        "display_text": "Sunday 2 May 2027 at 10:00",
+        "time": "10:00",
+        "date_section": "02.05",
+        "ticket_url": "https://www.bioaspen.se/movies/crouching-tiger-hidden-dragon/",
+        "hall": "Salong 1",
+        "audio_language": "Kinesiska",
+        "subtitle_language": "EN",
+        "normalized_datetime": "2027-05-02T10:00:00",
+        "normalized_date": "02.05.2027",
+        "normalized_time": "10:00"
+      }
+    ],
+    "cinemas": [
+      "Bio Aspen"
+    ],
+    "scraped_at": "2026-11-26T16:09:38.309227+00:00",
     "source": "bioaspen"
   }
 ]

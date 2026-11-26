@@ -22,7 +22,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-25T16:40:12.022247+00:00",
+    "scraped_at": "2026-11-26T16:11:50.060269+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 5279,
@@ -69,7 +69,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-25T16:40:12.022386+00:00",
+    "scraped_at": "2026-11-26T16:11:50.060448+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 12761,
@@ -114,7 +114,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-25T16:40:12.022634+00:00",
+    "scraped_at": "2026-11-26T16:11:50.060793+00:00",
     "source": "fagelbla"
   },
   {
@@ -140,7 +140,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-25T16:40:12.022885+00:00",
+    "scraped_at": "2026-11-26T16:11:50.061146+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1621,
@@ -185,7 +185,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-25T16:40:12.023015+00:00",
+    "scraped_at": "2026-11-26T16:11:50.061307+00:00",
     "source": "fagelbla"
   },
   {
@@ -211,7 +211,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-25T16:40:12.023155+00:00",
+    "scraped_at": "2026-11-26T16:11:50.061614+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1170608,
@@ -257,7 +257,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-25T16:40:12.023254+00:00",
+    "scraped_at": "2026-11-26T16:11:50.061765+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1170608,
@@ -289,21 +289,67 @@
     "language": "Engelska",
     "showtimes": [
       {
-        "datetime": "2026-12-18T17:30:00+01:00",
-        "display_text": "Fredag, 18th December 17:30",
-        "time": "17:30",
-        "date_section": "Fredag, 18th December",
-        "ticket_url": "https://biofagelbla.se/movie/dune-part-three/?showtime=61557",
-        "showtime_id": "61557",
-        "normalized_datetime": "2026-12-18T17:30:00",
-        "normalized_date": "18.12",
-        "normalized_time": "17:30"
+        "datetime": "2026-12-17T21:00:00+01:00",
+        "display_text": "Torsdag, 17th December 21:00",
+        "time": "21:00",
+        "date_section": "Torsdag, 17th December",
+        "ticket_url": "https://biofagelbla.se/movie/dune-part-three/?showtime=61556",
+        "showtime_id": "61556",
+        "normalized_datetime": "2026-12-17T21:00:00",
+        "normalized_date": "17.12",
+        "normalized_time": "21:00"
       }
     ],
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-25T16:40:12.023378+00:00",
+    "scraped_at": "2026-11-26T16:11:50.061951+00:00",
+    "source": "fagelbla",
+    "tmdb": {
+      "id": 1170608,
+      "title": "Dune: Part Three",
+      "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+      "release_date": "2026-12-15",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "poster_path": "/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "backdrop_path": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+      "imdb_id": "tt31378509",
+      "runtime": 150,
+      "budget": 200000000,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "dune-part-three",
+    "url": "https://biofagelbla.se/program/",
+    "title": "Dune: Part Three",
+    "director": "Denis Villeneuve",
+    "duration": "2h 25 mins",
+    "language": "Engelska",
+    "showtimes": [
+      {
+        "datetime": "2026-12-18T17:45:00+01:00",
+        "display_text": "Fredag, 18th December 17:45",
+        "time": "17:45",
+        "date_section": "Fredag, 18th December",
+        "ticket_url": "https://biofagelbla.se/movie/dune-part-three/?showtime=61557",
+        "showtime_id": "61557",
+        "normalized_datetime": "2026-12-18T17:45:00",
+        "normalized_date": "18.12",
+        "normalized_time": "17:45"
+      }
+    ],
+    "cinemas": [
+      "Bio Fågel Blå Stockholm"
+    ],
+    "scraped_at": "2026-11-26T16:11:50.063235+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1170608,
@@ -349,7 +395,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-25T16:40:12.023492+00:00",
+    "scraped_at": "2026-11-26T16:11:50.063413+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 20334,
@@ -396,7 +442,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-25T16:40:12.023574+00:00",
+    "scraped_at": "2026-11-26T16:11:50.063561+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 562,
@@ -404,7 +450,7 @@
       "overview": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
       "release_date": "1988-07-15",
       "rating": 7.818,
-      "vote_count": 12905,
+      "vote_count": 12911,
       "genres": [
         "Action",
         "Thriller"
@@ -442,7 +488,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-25T16:40:12.023689+00:00",
+    "scraped_at": "2026-11-26T16:11:50.063751+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1170608,
@@ -488,7 +534,7 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-25T16:40:12.023797+00:00",
+    "scraped_at": "2026-11-26T16:11:50.064021+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 1585,
@@ -496,7 +542,7 @@
       "overview": "George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
       "release_date": "1946-12-20",
       "rating": 8.3,
-      "vote_count": 5187,
+      "vote_count": 5189,
       "genres": [
         "Drama",
         "Family",
@@ -535,14 +581,14 @@
     "cinemas": [
       "Bio Fågel Blå Stockholm"
     ],
-    "scraped_at": "2026-11-25T16:40:12.023970+00:00",
+    "scraped_at": "2026-11-26T16:11:50.064183+00:00",
     "source": "fagelbla",
     "tmdb": {
       "id": 164,
       "title": "Breakfast at Tiffany's",
       "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
       "release_date": "1961-10-06",
-      "rating": 7.605,
+      "rating": 7.6,
       "vote_count": 4642,
       "genres": [
         "Comedy",
