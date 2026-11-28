@@ -1,44 +1,5 @@
 [
   {
-    "film_id": "14055",
-    "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14055&cityId=1",
-    "title": "Originaltitel: Gefahren der Großstadt-Straße",
-    "director": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "lör 28/11 kl. 14:00",
-        "normalized_datetime": "2026-11-28T14:00:00",
-        "normalized_date": "28.11",
-        "normalized_time": "14:00"
-      }
-    ],
-    "cinemas": [
-      "Filmhuset - Bio Victor"
-    ],
-    "scraped_at": "2026-11-27T15:57:45.794291",
-    "tmdb": {
-      "id": 648127,
-      "title": "Gefahren der Großstadt-Straße",
-      "overview": "Educational film about the dangers of a city.  Together with the Munich Police Force, Toni Attenberger shows how to behave and what to look out for in the busy 1924 Munich. Shot on location we are shown the Do's and Dont's of traffic, various types of beggars, pickpockets and criminals.",
-      "release_date": "1924-12-15",
-      "rating": 0.0,
-      "vote_count": 0,
-      "genres": [
-        "Documentary",
-        "Drama"
-      ],
-      "poster_path": "/oZRLrB1oGwHkw9RZvJAO140S0Tf.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oZRLrB1oGwHkw9RZvJAO140S0Tf.jpg",
-      "backdrop_path": null,
-      "backdrop_url": null,
-      "imdb_id": "tt10192596",
-      "runtime": 67,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
     "film_id": "14064",
     "url": "https://www.filminstitutet.se/sv/se-och-samtala-om-film/cinemateket-stockholm/filmer/?filmId=14064&cityId=1",
     "title": "Originaltitel: Drama paa Slottet",
@@ -55,7 +16,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-27T15:57:49.949035",
+    "scraped_at": "2026-11-28T14:54:24.825974",
     "tmdb": {
       "id": 379340,
       "title": "Drama på slottet",
@@ -93,7 +54,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-27T15:57:53.649565",
+    "scraped_at": "2026-11-28T14:54:28.996046",
     "tmdb": {
       "id": 939949,
       "title": "Huahua's Dazzling World and its Myriad Temptations",
@@ -131,7 +92,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-27T15:58:10.868806"
+    "scraped_at": "2026-11-28T14:54:46.172145"
   },
   {
     "film_id": "10040",
@@ -150,14 +111,14 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-27T15:58:19.532968",
+    "scraped_at": "2026-11-28T14:54:54.333141",
     "tmdb": {
       "id": 19,
       "title": "Metropolis",
       "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
       "release_date": "1927-01-10",
       "rating": 8.085,
-      "vote_count": 3277,
+      "vote_count": 3279,
       "genres": [
         "Drama",
         "Science Fiction"
@@ -189,7 +150,7 @@
     "cinemas": [
       "Filmhuset - Bio Mauritz"
     ],
-    "scraped_at": "2026-11-27T15:58:29.793301"
+    "scraped_at": "2026-11-28T14:55:04.580407"
   },
   {
     "film_id": "14116",
@@ -208,7 +169,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-27T15:58:35.764778",
+    "scraped_at": "2026-11-28T14:55:10.615420",
     "tmdb": {
       "id": 1136837,
       "title": "Caught by the Tides",
@@ -246,7 +207,7 @@
     "cinemas": [
       "Bio Skandia"
     ],
-    "scraped_at": "2026-11-27T15:58:39.584357",
+    "scraped_at": "2026-11-28T14:55:14.205354",
     "tmdb": {
       "id": 68004,
       "title": "Center Stage",
@@ -286,7 +247,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-27T15:58:45.752453",
+    "scraped_at": "2026-11-28T14:55:20.252508",
     "tmdb": {
       "id": 47612,
       "title": "Au Bonheur des Dames",
@@ -325,7 +286,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-27T15:58:51.725930",
+    "scraped_at": "2026-11-28T14:55:26.059569",
     "tmdb": {
       "id": 59484,
       "title": "Le Pont du Nord",
@@ -365,7 +326,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-27T15:58:55.364024",
+    "scraped_at": "2026-11-28T14:55:29.646660",
     "tmdb": {
       "id": 221723,
       "title": "Derailed",
@@ -405,7 +366,7 @@
     "cinemas": [
       "Filmhuset - Bio Victor"
     ],
-    "scraped_at": "2026-11-27T15:58:58.987229",
+    "scraped_at": "2026-11-28T14:55:33.224506",
     "tmdb": {
       "id": 181735,
       "title": "A Fishy Story",

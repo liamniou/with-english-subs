@@ -1,11 +1,56 @@
 [
   {
-    "film_id": "nordic-competition",
-    "url": "https://zita.se/nordic-competition",
-    "title": "Nordic Competition",
+    "film_id": "unknown-title",
+    "url": "https://zita.se/linoleum-festival-ukrainian-competition",
+    "title": "Unknown Title",
     "director": "",
     "genre": "",
-    "duration": "Norden60 minengelska",
+    "duration": "Ukraina62 minanimation, kortfilmukrainskaengelska",
+    "showtimes": [
+      {
+        "datetime": "",
+        "display_text": "16:00",
+        "time": "16:00",
+        "date": "",
+        "cinema": "(Zita 2)",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=6080",
+        "normalized_datetime": "2026-11-28T16:00:00",
+        "normalized_date": "28.11",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Zita Folkets Bio Stockholm"
+    ],
+    "scraped_at": "2026-11-28T14:56:53.387015+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 949470,
+      "title": "Unknown Title",
+      "overview": "A short film by Andrei Ventslova",
+      "release_date": "1988-04-15",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "imdb_id": null,
+      "runtime": 1,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "unknown-title",
+    "url": "https://zita.se/rex--swedish-student-competition",
+    "title": "Unknown Title",
+    "director": "",
+    "genre": "",
+    "duration": "REX: Swedish Student CompetitionREX: Swedish...🔍Sverige28 nov 202651 minAnimerad filmFrån 15 årolikaengelska",
     "showtimes": [
       {
         "datetime": "",
@@ -13,17 +58,36 @@
         "time": "18:00",
         "date": "",
         "cinema": "(Zita 1)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=5236",
-        "normalized_datetime": "2026-11-27T18:00:00",
-        "normalized_date": "27.11",
+        "source_url": "https://zita.se/pages/ajax-screenings.php?id=4487",
+        "normalized_datetime": "2026-11-28T18:00:00",
+        "normalized_date": "28.11",
         "normalized_time": "18:00"
       }
     ],
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-27T15:59:54.167990+00:00",
-    "source": "zita"
+    "scraped_at": "2026-11-28T14:57:00.885497+00:00",
+    "source": "zita",
+    "tmdb": {
+      "id": 949470,
+      "title": "Unknown Title",
+      "overview": "A short film by Andrei Ventslova",
+      "release_date": "1988-04-15",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1U2zAtbNDW8UD8iZYEZTWjCzdVE.jpg",
+      "backdrop_path": "/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/67Un7tVRNjBr2Z5TLpxSYGob9f8.jpg",
+      "imdb_id": null,
+      "runtime": 1,
+      "budget": 0,
+      "revenue": 0
+    }
   },
   {
     "film_id": "the-bog",
@@ -48,7 +112,7 @@
     "cinemas": [
       "Zita Folkets Bio Stockholm"
     ],
-    "scraped_at": "2026-11-27T16:00:00.647397+00:00",
+    "scraped_at": "2026-11-28T14:57:04.577094+00:00",
     "source": "zita",
     "tmdb": {
       "id": 941406,
@@ -67,52 +131,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/pSo3DwSzweXR0pshSYpZ2JQobam.jpg",
       "imdb_id": "tt13295004",
       "runtime": 90,
-      "budget": 0,
-      "revenue": 0
-    }
-  },
-  {
-    "film_id": "the-wanted-18",
-    "url": "https://zita.se/the-wanted-18",
-    "title": "The Wanted 18",
-    "director": "",
-    "genre": "Palestina1 jan 201475 minDokumentär, animationFolkets Bio StockholmArabiskaEngelska",
-    "duration": "",
-    "showtimes": [
-      {
-        "datetime": "",
-        "display_text": "16:00",
-        "time": "16:00",
-        "date": "",
-        "cinema": "(Zita 2)",
-        "source_url": "https://zita.se/pages/ajax-screenings.php?id=6079",
-        "normalized_datetime": "2026-11-27T16:00:00",
-        "normalized_date": "27.11",
-        "normalized_time": "16:00"
-      }
-    ],
-    "cinemas": [
-      "Zita Folkets Bio Stockholm"
-    ],
-    "scraped_at": "2026-11-27T16:00:02.476002+00:00",
-    "source": "zita",
-    "tmdb": {
-      "id": 289026,
-      "title": "The Wanted 18",
-      "overview": "Through stop-motion animation, drawings and interviews, directors Amer Shomali and Paul Cowan recreate an astonishing true story from the First Palestinian Intifada: the Israeli army’s pursuit of eighteen cows, whose independent milk production on a Palestinian collective farm was declared \"a threat to the national security of the state of Israel.\"",
-      "release_date": "2014-09-06",
-      "rating": 6.8,
-      "vote_count": 15,
-      "genres": [
-        "Documentary",
-        "Animation"
-      ],
-      "poster_path": "/rGym4g6IByV3VxTsWzemITQfnto.jpg",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rGym4g6IByV3VxTsWzemITQfnto.jpg",
-      "backdrop_path": "/6ope53tisskzlBsVf0PrIHhN9CF.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/6ope53tisskzlBsVf0PrIHhN9CF.jpg",
-      "imdb_id": "tt3946020",
-      "runtime": 75,
       "budget": 0,
       "revenue": 0
     }

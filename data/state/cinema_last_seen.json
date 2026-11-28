@@ -1,7 +1,7 @@
 {
   "bioaspen": {
     "alerted": false,
-    "last_seen": "2026-11-27"
+    "last_seen": "2026-11-28"
   },
   "biobristol": {
     "alerted": false,
@@ -9,11 +9,11 @@
   },
   "biorio": {
     "alerted": false,
-    "last_seen": "2026-11-27"
+    "last_seen": "2026-11-28"
   },
   "biose": {
     "alerted": false,
-    "last_seen": "2026-11-27"
+    "last_seen": "2026-11-28"
   },
   "capitolbio": {
     "alerted": false,
@@ -21,18 +21,18 @@
   },
   "cinemateket": {
     "alerted": false,
-    "last_seen": "2026-11-27"
+    "last_seen": "2026-11-28"
   },
   "fagelbla": {
     "alerted": false,
-    "last_seen": "2026-11-27"
+    "last_seen": "2026-11-28"
   },
   "klarabiografen": {
     "alerted": false,
-    "last_seen": "2026-11-26"
+    "last_seen": "2026-11-28"
   },
   "zita": {
     "alerted": false,
-    "last_seen": "2026-11-27"
+    "last_seen": "2026-11-28"
   }
 }

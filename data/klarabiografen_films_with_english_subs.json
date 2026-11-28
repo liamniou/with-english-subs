@@ -1,1 +1,248 @@
-[]
+[
+  {
+    "film_id": "doggerland-english-subtitles",
+    "url": "https://kulturhusetstadsteatern.se/bio/doggerland-english-subtitles",
+    "title": "Doggerland (English subtitles)",
+    "director": "",
+    "duration": "1h 16min",
+    "language": "",
+    "description": "A nearly 40-year-old man still living with his mother navigates the cultural landscape of a Swedish city, drifting through conversations, encounters, and daily rituals captured in intimate black-and-white film.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-11/Doggerland.jpg",
+    "showtimes": [
+      {
+        "datetime": "2026-12-07T19:00:00+01:00",
+        "display_text": "Monday 7 December 2026 at 19:00",
+        "time": "19:00",
+        "date_section": "07.12",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/34360/138764/",
+        "tix_event_id": 138764,
+        "tix_event_group_id": 34360,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2026-12-07T19:00:00",
+        "normalized_date": "07.12",
+        "normalized_time": "19:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-11-28T14:55:41.807528+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 769643,
+      "title": "Doggerland",
+      "overview": "An illegal immigrant takes on an underground driving job with an unknown cargo, to gain UK citizenship from his criminal employers.",
+      "release_date": "2019-11-01",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/nNf90VVYTRnVQAGdhWm31cMQyWe.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nNf90VVYTRnVQAGdhWm31cMQyWe.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt10542726",
+      "runtime": 16,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "golden-boy-national-theatre",
+    "url": "https://kulturhusetstadsteatern.se/bio/golden-boy-national-theatre",
+    "title": "Golden Boy (National Theatre)",
+    "director": "",
+    "duration": "3 tim inkl 1 paus",
+    "language": "",
+    "description": "Josh O’Connor (The Crown; Challengers) spelar huvudrollen i denna gripande och helt utsålda nyuppsättning av Clifford Odets amerikanska klassiker. Premiär på Klarabiografen den 6 november.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-08/NTL%202026%20Golden%20Boy%20-%20Listing%20Image%20%28Portrait%29.jpg",
+    "showtimes": [
+      {
+        "datetime": "2027-01-03T16:00:00+01:00",
+        "display_text": "Sunday 3 January 2027 at 16:00",
+        "time": "16:00",
+        "date_section": "03.01",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/32146/137657/",
+        "tix_event_id": 137657,
+        "tix_event_group_id": 32146,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2027-01-03T16:00:00",
+        "normalized_date": "03.01.2027",
+        "normalized_time": "16:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-11-28T14:55:41.807895+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 526031,
+      "title": "Golden Boy",
+      "overview": "GOLDEN BOY is the story of James, a young man who gambles on the dangers of being seen versus the quiet life of desperation and invisibility. Saved from doomed nonexistence by CQ, a wealthy debonair businessman with more going on than meets the eye, and introduced to a world he is not ready to navigate. We follow him as he chases his dreams -- while losing himself, one piece at a time. GOLDEN BOY is a story with universal themes. Trust. Seduction. Betrayal. Redemption.",
+      "release_date": "2018-06-08",
+      "rating": 5.8,
+      "vote_count": 6,
+      "genres": [
+        "Drama"
+      ],
+      "poster_path": "/wsQ2cbGUcE6sxOBrfFA9giAIPv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wsQ2cbGUcE6sxOBrfFA9giAIPv.jpg",
+      "backdrop_path": "/yQBFq7dHpfDgt3BPM0ORSfsOEZU.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yQBFq7dHpfDgt3BPM0ORSfsOEZU.jpg",
+      "imdb_id": "tt5152882",
+      "runtime": 105,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "misanthrope-national-theatre",
+    "url": "https://kulturhusetstadsteatern.se/bio/misanthrope-national-theatre",
+    "title": "The Misanthrope (National Theatre)",
+    "director": "",
+    "duration": "1 tim 50 min",
+    "language": "",
+    "description": "Sandra Oh briljerar i titelrollen i denna skarpa och moderna nytolkning av Molières klassiska komedi. En intelligent och tankeväckande föreställning om sanning, makt och priset för att säga vad man tycker.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-06/the-misanthrope-national-theatre-sandra-oh.jpg",
+    "showtimes": [
+      {
+        "datetime": "2027-01-08T18:00:00+01:00",
+        "display_text": "Friday 8 January 2027 at 18:00",
+        "time": "18:00",
+        "date_section": "08.01",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31914/129932/",
+        "tix_event_id": 129932,
+        "tix_event_group_id": 31914,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2027-01-08T18:00:00",
+        "normalized_date": "08.01.2027",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-11-28T14:55:41.807964+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 449377,
+      "title": "The Misanthrope",
+      "overview": "One man's defiant stand against the hypocrisy of polite society is the theme of Molière's comic masterpiece.  Ian Holm stars in this film set in Paris in the 1920s.",
+      "release_date": "1980-01-27",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [],
+      "poster_path": "/8385al8Dp5v1PeqiKlLbcekpfY4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8385al8Dp5v1PeqiKlLbcekpfY4.jpg",
+      "backdrop_path": null,
+      "backdrop_url": null,
+      "imdb_id": "tt4758056",
+      "runtime": 85,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "hetty-feather",
+    "url": "https://kulturhusetstadsteatern.se/bio/hetty-feather",
+    "title": "Hetty Feather ",
+    "director": "",
+    "duration": "2 tim 15 min inkl 1 paus",
+    "language": "",
+    "description": "Följ Hetty Feather på ett storslaget och känsloladdat äventyr från barnhem till cirkusliv i viktorianska London. En hyllad familjeföreställning fylld av spänning, värme och jakt på den egna familjen. Premiär på Klarabiografen 13 mars!",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-06/Hetty%20Feather.jpg",
+    "showtimes": [
+      {
+        "datetime": "2027-03-13T18:00:00+01:00",
+        "display_text": "Saturday 13 March 2027 at 18:00",
+        "time": "18:00",
+        "date_section": "13.03",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31972/130031/",
+        "tix_event_id": 130031,
+        "tix_event_group_id": 31972,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2027-03-13T18:00:00",
+        "normalized_date": "13.03.2027",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-11-28T14:55:41.808111+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 719803,
+      "title": "Hetty Feather: Live on Stage",
+      "overview": "Jacqueline Wilson's best-selling novel comes to life on stage as young Hetty Feather, who was abandoned by her mother in a Foundling Hospital, sets out to find the woman who left her behind. Her red hair, intrepid imagination, and feisty nature repeatedly get her into trouble along the way. Infused with live music and daring aerial feats, this new musical is perfect for the whole family.",
+      "release_date": "2020-04-15",
+      "rating": 0.0,
+      "vote_count": 0,
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "poster_path": "/sWMCjMsx2gRjDP2U5iKWHQV2hez.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sWMCjMsx2gRjDP2U5iKWHQV2hez.jpg",
+      "backdrop_path": "/pS4Br6Q7sAxXUCk6v96tsBVLSXo.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/pS4Br6Q7sAxXUCk6v96tsBVLSXo.jpg",
+      "imdb_id": "tt12465976",
+      "runtime": 119,
+      "budget": 0,
+      "revenue": 0
+    }
+  },
+  {
+    "film_id": "42nd-street",
+    "url": "https://kulturhusetstadsteatern.se/bio/42nd-street",
+    "title": "42nd Street",
+    "director": "",
+    "duration": "2 tim 30 min inkl 1 paus",
+    "language": "",
+    "description": "En glittrande Broadwayklassiker fylld av spektakulära dansnummer, odödliga hits och showbiz-magi. 42nd Street är den ultimata feelgood-musikalen om drömmar, talang och chansen att bli stjärna över en natt. Premiär på Klarabiografen 10 april.",
+    "poster_url": "https://kulturhusetstadsteatern.se/sites/default/files/2026-06/42nd%20street.jpg",
+    "showtimes": [
+      {
+        "datetime": "2027-04-10T18:00:00+02:00",
+        "display_text": "Saturday 10 April 2027 at 18:00",
+        "time": "18:00",
+        "date_section": "10.04",
+        "ticket_url": "https://tix.kulturhusetstadsteatern.se/sv/buyingflow/tickets/31976/130034/",
+        "tix_event_id": 130034,
+        "tix_event_group_id": 31976,
+        "hall": "Klarabiografen",
+        "normalized_datetime": "2027-04-10T18:00:00",
+        "normalized_date": "10.04.2027",
+        "normalized_time": "18:00"
+      }
+    ],
+    "cinemas": [
+      "Klarabiografen"
+    ],
+    "scraped_at": "2026-11-28T14:55:41.808164+00:00",
+    "source": "klarabiografen",
+    "tmdb": {
+      "id": 3062,
+      "title": "42nd Street",
+      "overview": "Broadway director Julian Marsh needs just one more hit show so he can retire and recover his health. It looks like he just may pull it off until temperamental star Dorthy Brock breaks her ankle on the eve of the show's premiere and has to be replaced by her understudy Peggy.",
+      "release_date": "1933-03-11",
+      "rating": 6.981,
+      "vote_count": 236,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "poster_path": "/q4UEd8BL74zVsOOaJkKVMLMmdTg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q4UEd8BL74zVsOOaJkKVMLMmdTg.jpg",
+      "backdrop_path": "/5a5lJCew2hGBcd6abdMkomr9mos.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/5a5lJCew2hGBcd6abdMkomr9mos.jpg",
+      "imdb_id": "tt0024034",
+      "runtime": 89,
+      "budget": 439000,
+      "revenue": 2281000
+    }
+  }
+]

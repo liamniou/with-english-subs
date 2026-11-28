@@ -25,7 +25,7 @@
           "date": "2026-12-01",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 55,
+          "ticketsSold": 62,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -44,15 +44,15 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-27T15:56:54.733700",
+    "scraped_at": "2026-11-28T14:53:36.584294",
     "source": "biorio",
     "tmdb": {
       "id": 27327,
       "title": "Phantom of the Paradise",
       "overview": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
       "release_date": "1974-10-31",
-      "rating": 7.462,
-      "vote_count": 806,
+      "rating": 7.463,
+      "vote_count": 808,
       "genres": [
         "Drama",
         "Horror",
@@ -94,7 +94,7 @@
           "date": "2026-12-10",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 52,
+          "ticketsSold": 55,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -132,7 +132,7 @@
           "date": "2026-12-17",
           "time": "18:00",
           "capacity": 180,
-          "ticketsSold": 50,
+          "ticketsSold": 53,
           "status": "on_sale",
           "is3D": false,
           "isImax": false,
@@ -155,7 +155,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-27T15:57:03.657315",
+    "scraped_at": "2026-11-28T14:53:46.242799",
     "source": "biorio"
   },
   {
@@ -208,7 +208,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-27T15:57:06.450801",
+    "scraped_at": "2026-11-28T14:53:48.760219",
     "source": "biorio",
     "tmdb": {
       "id": 5961,
@@ -277,7 +277,7 @@
     "cinemas": [
       "Bio Rio Stockholm"
     ],
-    "scraped_at": "2026-11-27T15:57:21.598165",
+    "scraped_at": "2026-11-28T14:54:03.886104",
     "source": "biorio",
     "tmdb": {
       "id": 34070,
